@@ -1,0 +1,128 @@
+{
+  "$schema": "corpus.schema.json",
+  "id": "be616bfcb66941fe94a9a63165cfa601.sentences",
+  "documentId": "be616bfcb66941fe94a9a63165cfa601.document",
+  "type": "annotation",
+  "metadata": {
+    "annotationTypes": [
+      "segmentation"
+    ],
+    "annotationSource": "",
+    "created": ""
+  },
+  "content": {
+    "layerRefs": [
+      "be616bfcb66941fe94a9a63165cfa601.tokens"
+    ],
+    "annotationNodes": [
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 0,
+                "end": 42
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 43,
+                "end": 91
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 92,
+                "end": 130
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 131,
+                "end": 228
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 229,
+                "end": 255
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 256,
+                "end": 278
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      }
+    ]
+  }
+}

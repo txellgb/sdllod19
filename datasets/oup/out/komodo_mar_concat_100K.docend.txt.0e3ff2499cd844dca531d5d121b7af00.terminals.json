@@ -1,0 +1,431 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "0e3ff2499cd844dca531d5d121b7af00.doc",
+  "id": "0e3ff2499cd844dca531d5d121b7af00.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "0e3ff2499cd844dca531d5d121b7af00.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 3,
+        "string": "An"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "string": " "
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "string": "Australian"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "string": " "
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "string": "state"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "string": "prosecutor"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "string": "has"
+      },
+      {
+        "start": 39,
+        "end": 40,
+        "string": " "
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "string": "sent"
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "string": " "
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "string": "letters"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 67,
+        "string": "threatening"
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "string": "to"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 79,
+        "string": "charge"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 86,
+        "string": "media"
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "string": " "
+      },
+      {
+        "start": 87,
+        "end": 101,
+        "string": "organisations"
+      },
+      {
+        "start": 101,
+        "end": 102,
+        "string": " "
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "string": "and"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "string": "dozens"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "string": "of"
+      },
+      {
+        "start": 118,
+        "end": 119,
+        "string": " "
+      },
+      {
+        "start": 119,
+        "end": 131,
+        "string": "journalists"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 137,
+        "string": "with"
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      },
+      {
+        "start": 138,
+        "end": 148,
+        "string": "breaching"
+      },
+      {
+        "start": 148,
+        "end": 149,
+        "string": " "
+      },
+      {
+        "start": 149,
+        "end": 151,
+        "string": "a"
+      },
+      {
+        "start": 151,
+        "end": 152,
+        "string": " "
+      },
+      {
+        "start": 152,
+        "end": 156,
+        "string": "gag"
+      },
+      {
+        "start": 156,
+        "end": 157,
+        "string": " "
+      },
+      {
+        "start": 157,
+        "end": 163,
+        "string": "order"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 169,
+        "string": "that"
+      },
+      {
+        "start": 169,
+        "end": 170,
+        "string": " "
+      },
+      {
+        "start": 170,
+        "end": 177,
+        "string": "banned"
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 188,
+        "string": "reporting"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 192,
+        "string": "of"
+      },
+      {
+        "start": 192,
+        "end": 193,
+        "string": " "
+      },
+      {
+        "start": 193,
+        "end": 202,
+        "string": "Cardinal"
+      },
+      {
+        "start": 202,
+        "end": 203,
+        "string": " "
+      },
+      {
+        "start": 203,
+        "end": 210,
+        "string": "George"
+      },
+      {
+        "start": 210,
+        "end": 211,
+        "string": " "
+      },
+      {
+        "start": 211,
+        "end": 216,
+        "string": "Pell"
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "string": " "
+      },
+      {
+        "start": 217,
+        "end": 220,
+        "string": "'s"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 233,
+        "string": "convictions"
+      },
+      {
+        "start": 233,
+        "end": 234,
+        "string": " "
+      },
+      {
+        "start": 234,
+        "end": 237,
+        "string": "on"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 246,
+        "string": "charges"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 250,
+        "string": "of"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 260,
+        "string": "sexually"
+      },
+      {
+        "start": 260,
+        "end": 261,
+        "string": " "
+      },
+      {
+        "start": 261,
+        "end": 271,
+        "string": "molesting"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 276,
+        "string": "two"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 287,
+        "string": "choirboys"
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 290,
+        "string": ","
+      },
+      {
+        "start": 290,
+        "end": 291,
+        "string": " "
+      },
+      {
+        "start": 291,
+        "end": 299,
+        "string": "lawyers"
+      },
+      {
+        "start": 299,
+        "end": 300,
+        "string": " "
+      },
+      {
+        "start": 300,
+        "end": 305,
+        "string": "said"
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 315,
+        "string": "Thursday"
+      },
+      {
+        "start": 315,
+        "end": 316,
+        "string": " "
+      },
+      {
+        "start": 316,
+        "end": 318,
+        "string": "."
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      }
+    ]
+  }
+}

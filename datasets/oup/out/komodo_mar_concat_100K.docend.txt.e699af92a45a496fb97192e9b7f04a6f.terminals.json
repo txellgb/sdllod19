@@ -1,0 +1,1891 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "e699af92a45a496fb97192e9b7f04a6f.doc",
+  "id": "e699af92a45a496fb97192e9b7f04a6f.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "e699af92a45a496fb97192e9b7f04a6f.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 12,
+        "string": "Healesville"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 25,
+        "string": "Environment"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "string": " "
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "string": "Watch"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "string": "Inc."
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "string": " "
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "string": "("
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "string": " "
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "string": "HEWI"
+      },
+      {
+        "start": 47,
+        "end": 48,
+        "string": " "
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "string": ")"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "string": "urges"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "string": "residents"
+      },
+      {
+        "start": 68,
+        "end": 69,
+        "string": " "
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "string": "to"
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 81,
+        "string": "dispose"
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "string": " "
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "string": "of"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 92,
+        "string": "their"
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "string": " "
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "string": "green"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 106,
+        "string": "waste"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 110,
+        "string": "in"
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "string": " "
+      },
+      {
+        "start": 111,
+        "end": 113,
+        "string": "a"
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "string": " "
+      },
+      {
+        "start": 114,
+        "end": 126,
+        "string": "responsible"
+      },
+      {
+        "start": 126,
+        "end": 127,
+        "string": " "
+      },
+      {
+        "start": 127,
+        "end": 134,
+        "string": "manner"
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "string": " "
+      },
+      {
+        "start": 135,
+        "end": 137,
+        "string": "."
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      },
+      {
+        "start": 138,
+        "end": 143,
+        "string": "This"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 150,
+        "string": "comes"
+      },
+      {
+        "start": 150,
+        "end": 151,
+        "string": " "
+      },
+      {
+        "start": 151,
+        "end": 157,
+        "string": "after"
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "string": " "
+      },
+      {
+        "start": 158,
+        "end": 162,
+        "string": "the"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 177,
+        "string": "environmental"
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 188,
+        "string": "volunteer"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 195,
+        "string": "group"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 202,
+        "string": "found"
+      },
+      {
+        "start": 202,
+        "end": 203,
+        "string": " "
+      },
+      {
+        "start": 203,
+        "end": 209,
+        "string": "large"
+      },
+      {
+        "start": 209,
+        "end": 210,
+        "string": " "
+      },
+      {
+        "start": 210,
+        "end": 216,
+        "string": "piles"
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "string": " "
+      },
+      {
+        "start": 217,
+        "end": 220,
+        "string": "of"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 227,
+        "string": "green"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 234,
+        "string": "waste"
+      },
+      {
+        "start": 234,
+        "end": 235,
+        "string": " "
+      },
+      {
+        "start": 235,
+        "end": 242,
+        "string": "dumped"
+      },
+      {
+        "start": 242,
+        "end": 243,
+        "string": " "
+      },
+      {
+        "start": 243,
+        "end": 246,
+        "string": "by"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 251,
+        "string": "the"
+      },
+      {
+        "start": 251,
+        "end": 252,
+        "string": " "
+      },
+      {
+        "start": 252,
+        "end": 260,
+        "string": "Wallace"
+      },
+      {
+        "start": 260,
+        "end": 261,
+        "string": " "
+      },
+      {
+        "start": 261,
+        "end": 268,
+        "string": "Parade"
+      },
+      {
+        "start": 268,
+        "end": 269,
+        "string": " "
+      },
+      {
+        "start": 269,
+        "end": 276,
+        "string": "Bridge"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 280,
+        "string": "in"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 293,
+        "string": "Healesville"
+      },
+      {
+        "start": 293,
+        "end": 294,
+        "string": " "
+      },
+      {
+        "start": 294,
+        "end": 296,
+        "string": "."
+      },
+      {
+        "start": 296,
+        "end": 297,
+        "string": " "
+      },
+      {
+        "start": 297,
+        "end": 301,
+        "string": "The"
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 308,
+        "string": "waste"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 318,
+        "string": "included"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 328,
+        "string": "branches"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 331,
+        "string": ","
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 337,
+        "string": "palm"
+      },
+      {
+        "start": 337,
+        "end": 338,
+        "string": " "
+      },
+      {
+        "start": 338,
+        "end": 345,
+        "string": "fronds"
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 350,
+        "string": "and"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 362,
+        "string": "Agapanthus"
+      },
+      {
+        "start": 362,
+        "end": 363,
+        "string": " "
+      },
+      {
+        "start": 363,
+        "end": 366,
+        "string": "as"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 372,
+        "string": "well"
+      },
+      {
+        "start": 372,
+        "end": 373,
+        "string": " "
+      },
+      {
+        "start": 373,
+        "end": 376,
+        "string": "as"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 380,
+        "string": "an"
+      },
+      {
+        "start": 380,
+        "end": 381,
+        "string": " "
+      },
+      {
+        "start": 381,
+        "end": 391,
+        "string": "abandoned"
+      },
+      {
+        "start": 391,
+        "end": 392,
+        "string": " "
+      },
+      {
+        "start": 392,
+        "end": 397,
+        "string": "tyre"
+      },
+      {
+        "start": 397,
+        "end": 398,
+        "string": " "
+      },
+      {
+        "start": 398,
+        "end": 400,
+        "string": "."
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 406,
+        "string": "HEWI"
+      },
+      {
+        "start": 406,
+        "end": 407,
+        "string": " "
+      },
+      {
+        "start": 407,
+        "end": 414,
+        "string": "states"
+      },
+      {
+        "start": 414,
+        "end": 415,
+        "string": " "
+      },
+      {
+        "start": 415,
+        "end": 420,
+        "string": "that"
+      },
+      {
+        "start": 420,
+        "end": 421,
+        "string": " "
+      },
+      {
+        "start": 421,
+        "end": 427,
+        "string": "large"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 436,
+        "string": "amounts"
+      },
+      {
+        "start": 436,
+        "end": 437,
+        "string": " "
+      },
+      {
+        "start": 437,
+        "end": 440,
+        "string": "of"
+      },
+      {
+        "start": 440,
+        "end": 441,
+        "string": " "
+      },
+      {
+        "start": 441,
+        "end": 447,
+        "string": "green"
+      },
+      {
+        "start": 447,
+        "end": 448,
+        "string": " "
+      },
+      {
+        "start": 448,
+        "end": 454,
+        "string": "waste"
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 462,
+        "string": "dumped"
+      },
+      {
+        "start": 462,
+        "end": 463,
+        "string": " "
+      },
+      {
+        "start": 463,
+        "end": 466,
+        "string": "in"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 477,
+        "string": "waterways"
+      },
+      {
+        "start": 477,
+        "end": 478,
+        "string": " "
+      },
+      {
+        "start": 478,
+        "end": 482,
+        "string": "can"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 487,
+        "string": "rot"
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 491,
+        "string": "in"
+      },
+      {
+        "start": 491,
+        "end": 492,
+        "string": " "
+      },
+      {
+        "start": 492,
+        "end": 496,
+        "string": "the"
+      },
+      {
+        "start": 496,
+        "end": 497,
+        "string": " "
+      },
+      {
+        "start": 497,
+        "end": 503,
+        "string": "water"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 508,
+        "string": "and"
+      },
+      {
+        "start": 508,
+        "end": 509,
+        "string": " "
+      },
+      {
+        "start": 509,
+        "end": 518,
+        "string": "decrease"
+      },
+      {
+        "start": 518,
+        "end": 519,
+        "string": " "
+      },
+      {
+        "start": 519,
+        "end": 523,
+        "string": "the"
+      },
+      {
+        "start": 523,
+        "end": 524,
+        "string": " "
+      },
+      {
+        "start": 524,
+        "end": 531,
+        "string": "oxygen"
+      },
+      {
+        "start": 531,
+        "end": 532,
+        "string": " "
+      },
+      {
+        "start": 532,
+        "end": 542,
+        "string": "available"
+      },
+      {
+        "start": 542,
+        "end": 543,
+        "string": " "
+      },
+      {
+        "start": 543,
+        "end": 546,
+        "string": "to"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 554,
+        "string": "native"
+      },
+      {
+        "start": 554,
+        "end": 555,
+        "string": " "
+      },
+      {
+        "start": 555,
+        "end": 561,
+        "string": "plant"
+      },
+      {
+        "start": 561,
+        "end": 562,
+        "string": " "
+      },
+      {
+        "start": 562,
+        "end": 566,
+        "string": "and"
+      },
+      {
+        "start": 566,
+        "end": 567,
+        "string": " "
+      },
+      {
+        "start": 567,
+        "end": 574,
+        "string": "animal"
+      },
+      {
+        "start": 574,
+        "end": 575,
+        "string": " "
+      },
+      {
+        "start": 575,
+        "end": 580,
+        "string": "life"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 583,
+        "string": ","
+      },
+      {
+        "start": 583,
+        "end": 584,
+        "string": " "
+      },
+      {
+        "start": 584,
+        "end": 590,
+        "string": "while"
+      },
+      {
+        "start": 590,
+        "end": 591,
+        "string": " "
+      },
+      {
+        "start": 591,
+        "end": 597,
+        "string": "seeds"
+      },
+      {
+        "start": 597,
+        "end": 598,
+        "string": " "
+      },
+      {
+        "start": 598,
+        "end": 602,
+        "string": "can"
+      },
+      {
+        "start": 602,
+        "end": 603,
+        "string": " "
+      },
+      {
+        "start": 603,
+        "end": 606,
+        "string": "be"
+      },
+      {
+        "start": 606,
+        "end": 607,
+        "string": " "
+      },
+      {
+        "start": 607,
+        "end": 615,
+        "string": "carried"
+      },
+      {
+        "start": 615,
+        "end": 616,
+        "string": " "
+      },
+      {
+        "start": 616,
+        "end": 627,
+        "string": "downstream"
+      },
+      {
+        "start": 627,
+        "end": 628,
+        "string": " "
+      },
+      {
+        "start": 628,
+        "end": 631,
+        "string": "to"
+      },
+      {
+        "start": 631,
+        "end": 632,
+        "string": " "
+      },
+      {
+        "start": 632,
+        "end": 642,
+        "string": "germinate"
+      },
+      {
+        "start": 642,
+        "end": 643,
+        "string": " "
+      },
+      {
+        "start": 643,
+        "end": 645,
+        "string": "."
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 651,
+        "string": "HEWI"
+      },
+      {
+        "start": 651,
+        "end": 652,
+        "string": " "
+      },
+      {
+        "start": 652,
+        "end": 660,
+        "string": "believe"
+      },
+      {
+        "start": 660,
+        "end": 661,
+        "string": " "
+      },
+      {
+        "start": 661,
+        "end": 665,
+        "string": "the"
+      },
+      {
+        "start": 665,
+        "end": 666,
+        "string": " "
+      },
+      {
+        "start": 666,
+        "end": 672,
+        "string": "green"
+      },
+      {
+        "start": 672,
+        "end": 673,
+        "string": " "
+      },
+      {
+        "start": 673,
+        "end": 679,
+        "string": "waste"
+      },
+      {
+        "start": 679,
+        "end": 680,
+        "string": " "
+      },
+      {
+        "start": 680,
+        "end": 684,
+        "string": "has"
+      },
+      {
+        "start": 684,
+        "end": 685,
+        "string": " "
+      },
+      {
+        "start": 685,
+        "end": 690,
+        "string": "been"
+      },
+      {
+        "start": 690,
+        "end": 691,
+        "string": " "
+      },
+      {
+        "start": 691,
+        "end": 698,
+        "string": "dumped"
+      },
+      {
+        "start": 698,
+        "end": 699,
+        "string": " "
+      },
+      {
+        "start": 699,
+        "end": 702,
+        "string": "on"
+      },
+      {
+        "start": 702,
+        "end": 703,
+        "string": " "
+      },
+      {
+        "start": 703,
+        "end": 712,
+        "string": "location"
+      },
+      {
+        "start": 712,
+        "end": 713,
+        "string": " "
+      },
+      {
+        "start": 713,
+        "end": 716,
+        "string": "on"
+      },
+      {
+        "start": 716,
+        "end": 717,
+        "string": " "
+      },
+      {
+        "start": 717,
+        "end": 722,
+        "string": "more"
+      },
+      {
+        "start": 722,
+        "end": 723,
+        "string": " "
+      },
+      {
+        "start": 723,
+        "end": 728,
+        "string": "than"
+      },
+      {
+        "start": 728,
+        "end": 729,
+        "string": " "
+      },
+      {
+        "start": 729,
+        "end": 733,
+        "string": "one"
+      },
+      {
+        "start": 733,
+        "end": 734,
+        "string": " "
+      },
+      {
+        "start": 734,
+        "end": 743,
+        "string": "occasion"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 755,
+        "string": "throughout"
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 764,
+        "string": "January"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 769,
+        "string": "and"
+      },
+      {
+        "start": 769,
+        "end": 770,
+        "string": " "
+      },
+      {
+        "start": 770,
+        "end": 779,
+        "string": "February"
+      },
+      {
+        "start": 779,
+        "end": 780,
+        "string": " "
+      },
+      {
+        "start": 780,
+        "end": 782,
+        "string": "."
+      },
+      {
+        "start": 782,
+        "end": 783,
+        "string": " "
+      },
+      {
+        "start": 783,
+        "end": 788,
+        "string": "HEWI"
+      },
+      {
+        "start": 788,
+        "end": 789,
+        "string": " "
+      },
+      {
+        "start": 789,
+        "end": 793,
+        "string": "and"
+      },
+      {
+        "start": 793,
+        "end": 794,
+        "string": " "
+      },
+      {
+        "start": 794,
+        "end": 797,
+        "string": "Mt"
+      },
+      {
+        "start": 797,
+        "end": 798,
+        "string": " "
+      },
+      {
+        "start": 798,
+        "end": 810,
+        "string": "Toolebewong"
+      },
+      {
+        "start": 810,
+        "end": 811,
+        "string": " "
+      },
+      {
+        "start": 811,
+        "end": 815,
+        "string": "and"
+      },
+      {
+        "start": 815,
+        "end": 816,
+        "string": " "
+      },
+      {
+        "start": 816,
+        "end": 825,
+        "string": "District"
+      },
+      {
+        "start": 825,
+        "end": 826,
+        "string": " "
+      },
+      {
+        "start": 826,
+        "end": 835,
+        "string": "Landcare"
+      },
+      {
+        "start": 835,
+        "end": 836,
+        "string": " "
+      },
+      {
+        "start": 836,
+        "end": 842,
+        "string": "Group"
+      },
+      {
+        "start": 842,
+        "end": 843,
+        "string": " "
+      },
+      {
+        "start": 843,
+        "end": 854,
+        "string": "Waterwatch"
+      },
+      {
+        "start": 854,
+        "end": 855,
+        "string": " "
+      },
+      {
+        "start": 855,
+        "end": 866,
+        "string": "volunteers"
+      },
+      {
+        "start": 866,
+        "end": 867,
+        "string": " "
+      },
+      {
+        "start": 867,
+        "end": 873,
+        "string": "found"
+      },
+      {
+        "start": 873,
+        "end": 874,
+        "string": " "
+      },
+      {
+        "start": 874,
+        "end": 878,
+        "string": "the"
+      },
+      {
+        "start": 878,
+        "end": 879,
+        "string": " "
+      },
+      {
+        "start": 879,
+        "end": 885,
+        "string": "green"
+      },
+      {
+        "start": 885,
+        "end": 886,
+        "string": " "
+      },
+      {
+        "start": 886,
+        "end": 892,
+        "string": "waste"
+      },
+      {
+        "start": 892,
+        "end": 893,
+        "string": " "
+      },
+      {
+        "start": 893,
+        "end": 898,
+        "string": "when"
+      },
+      {
+        "start": 898,
+        "end": 899,
+        "string": " "
+      },
+      {
+        "start": 899,
+        "end": 910,
+        "string": "conducting"
+      },
+      {
+        "start": 910,
+        "end": 911,
+        "string": " "
+      },
+      {
+        "start": 911,
+        "end": 917,
+        "string": "their"
+      },
+      {
+        "start": 917,
+        "end": 918,
+        "string": " "
+      },
+      {
+        "start": 918,
+        "end": 926,
+        "string": "monthly"
+      },
+      {
+        "start": 926,
+        "end": 927,
+        "string": " "
+      },
+      {
+        "start": 927,
+        "end": 933,
+        "string": "water"
+      },
+      {
+        "start": 933,
+        "end": 934,
+        "string": " "
+      },
+      {
+        "start": 934,
+        "end": 943,
+        "string": "sampling"
+      },
+      {
+        "start": 943,
+        "end": 944,
+        "string": " "
+      },
+      {
+        "start": 944,
+        "end": 946,
+        "string": "."
+      },
+      {
+        "start": 946,
+        "end": 947,
+        "string": " "
+      },
+      {
+        "start": 947,
+        "end": 952,
+        "string": "HEWI"
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 958,
+        "string": "will"
+      },
+      {
+        "start": 958,
+        "end": 959,
+        "string": " "
+      },
+      {
+        "start": 959,
+        "end": 962,
+        "string": "be"
+      },
+      {
+        "start": 962,
+        "end": 963,
+        "string": " "
+      },
+      {
+        "start": 963,
+        "end": 971,
+        "string": "holding"
+      },
+      {
+        "start": 971,
+        "end": 972,
+        "string": " "
+      },
+      {
+        "start": 972,
+        "end": 974,
+        "string": "a"
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 981,
+        "string": "Clean"
+      },
+      {
+        "start": 981,
+        "end": 982,
+        "string": " "
+      },
+      {
+        "start": 982,
+        "end": 985,
+        "string": "Up"
+      },
+      {
+        "start": 985,
+        "end": 986,
+        "string": " "
+      },
+      {
+        "start": 986,
+        "end": 996,
+        "string": "Australia"
+      },
+      {
+        "start": 996,
+        "end": 997,
+        "string": " "
+      },
+      {
+        "start": 997,
+        "end": 1001,
+        "string": "Day"
+      },
+      {
+        "start": 1001,
+        "end": 1002,
+        "string": " "
+      },
+      {
+        "start": 1002,
+        "end": 1010,
+        "string": "session"
+      },
+      {
+        "start": 1010,
+        "end": 1011,
+        "string": " "
+      },
+      {
+        "start": 1011,
+        "end": 1014,
+        "string": "at"
+      },
+      {
+        "start": 1014,
+        "end": 1015,
+        "string": " "
+      },
+      {
+        "start": 1015,
+        "end": 1022,
+        "string": "Queens"
+      },
+      {
+        "start": 1022,
+        "end": 1023,
+        "string": " "
+      },
+      {
+        "start": 1023,
+        "end": 1028,
+        "string": "Park"
+      },
+      {
+        "start": 1028,
+        "end": 1029,
+        "string": " "
+      },
+      {
+        "start": 1029,
+        "end": 1031,
+        "string": ","
+      },
+      {
+        "start": 1031,
+        "end": 1032,
+        "string": " "
+      },
+      {
+        "start": 1032,
+        "end": 1044,
+        "string": "Healesville"
+      },
+      {
+        "start": 1044,
+        "end": 1045,
+        "string": " "
+      },
+      {
+        "start": 1045,
+        "end": 1048,
+        "string": "on"
+      },
+      {
+        "start": 1048,
+        "end": 1049,
+        "string": " "
+      },
+      {
+        "start": 1049,
+        "end": 1056,
+        "string": "Friday"
+      },
+      {
+        "start": 1056,
+        "end": 1057,
+        "string": " "
+      },
+      {
+        "start": 1057,
+        "end": 1059,
+        "string": "8"
+      },
+      {
+        "start": 1059,
+        "end": 1060,
+        "string": " "
+      },
+      {
+        "start": 1060,
+        "end": 1066,
+        "string": "March"
+      },
+      {
+        "start": 1066,
+        "end": 1067,
+        "string": " "
+      },
+      {
+        "start": 1067,
+        "end": 1072,
+        "string": "from"
+      },
+      {
+        "start": 1072,
+        "end": 1073,
+        "string": " "
+      },
+      {
+        "start": 1073,
+        "end": 1075,
+        "string": "9"
+      },
+      {
+        "start": 1075,
+        "end": 1076,
+        "string": " "
+      },
+      {
+        "start": 1076,
+        "end": 1078,
+        "string": "-"
+      },
+      {
+        "start": 1078,
+        "end": 1079,
+        "string": " "
+      },
+      {
+        "start": 1079,
+        "end": 1085,
+        "string": "11.30"
+      },
+      {
+        "start": 1085,
+        "end": 1086,
+        "string": " "
+      },
+      {
+        "start": 1086,
+        "end": 1089,
+        "string": "am"
+      },
+      {
+        "start": 1089,
+        "end": 1090,
+        "string": " "
+      },
+      {
+        "start": 1090,
+        "end": 1092,
+        "string": "."
+      },
+      {
+        "start": 1092,
+        "end": 1093,
+        "string": " "
+      },
+      {
+        "start": 1093,
+        "end": 1103,
+        "string": "Community"
+      },
+      {
+        "start": 1103,
+        "end": 1104,
+        "string": " "
+      },
+      {
+        "start": 1104,
+        "end": 1112,
+        "string": "members"
+      },
+      {
+        "start": 1112,
+        "end": 1113,
+        "string": " "
+      },
+      {
+        "start": 1113,
+        "end": 1117,
+        "string": "are"
+      },
+      {
+        "start": 1117,
+        "end": 1118,
+        "string": " "
+      },
+      {
+        "start": 1118,
+        "end": 1126,
+        "string": "welcome"
+      },
+      {
+        "start": 1126,
+        "end": 1127,
+        "string": " "
+      },
+      {
+        "start": 1127,
+        "end": 1130,
+        "string": "to"
+      },
+      {
+        "start": 1130,
+        "end": 1131,
+        "string": " "
+      },
+      {
+        "start": 1131,
+        "end": 1138,
+        "string": "assist"
+      },
+      {
+        "start": 1138,
+        "end": 1139,
+        "string": " "
+      },
+      {
+        "start": 1139,
+        "end": 1141,
+        "string": ","
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1146,
+        "string": "and"
+      },
+      {
+        "start": 1146,
+        "end": 1147,
+        "string": " "
+      },
+      {
+        "start": 1147,
+        "end": 1152,
+        "string": "bags"
+      },
+      {
+        "start": 1152,
+        "end": 1153,
+        "string": " "
+      },
+      {
+        "start": 1153,
+        "end": 1155,
+        "string": ","
+      },
+      {
+        "start": 1155,
+        "end": 1156,
+        "string": " "
+      },
+      {
+        "start": 1156,
+        "end": 1163,
+        "string": "gloves"
+      },
+      {
+        "start": 1163,
+        "end": 1164,
+        "string": " "
+      },
+      {
+        "start": 1164,
+        "end": 1168,
+        "string": "and"
+      },
+      {
+        "start": 1168,
+        "end": 1169,
+        "string": " "
+      },
+      {
+        "start": 1169,
+        "end": 1177,
+        "string": "Morning"
+      },
+      {
+        "start": 1177,
+        "end": 1178,
+        "string": " "
+      },
+      {
+        "start": 1178,
+        "end": 1182,
+        "string": "Tea"
+      },
+      {
+        "start": 1182,
+        "end": 1183,
+        "string": " "
+      },
+      {
+        "start": 1183,
+        "end": 1188,
+        "string": "will"
+      },
+      {
+        "start": 1188,
+        "end": 1189,
+        "string": " "
+      },
+      {
+        "start": 1189,
+        "end": 1192,
+        "string": "be"
+      },
+      {
+        "start": 1192,
+        "end": 1193,
+        "string": " "
+      },
+      {
+        "start": 1193,
+        "end": 1202,
+        "string": "provided"
+      },
+      {
+        "start": 1202,
+        "end": 1203,
+        "string": " "
+      },
+      {
+        "start": 1203,
+        "end": 1205,
+        "string": "."
+      },
+      {
+        "start": 1205,
+        "end": 1206,
+        "string": " "
+      },
+      {
+        "start": 1206,
+        "end": 1210,
+        "string": "For"
+      },
+      {
+        "start": 1210,
+        "end": 1211,
+        "string": " "
+      },
+      {
+        "start": 1211,
+        "end": 1216,
+        "string": "more"
+      },
+      {
+        "start": 1216,
+        "end": 1217,
+        "string": " "
+      },
+      {
+        "start": 1217,
+        "end": 1229,
+        "string": "information"
+      },
+      {
+        "start": 1229,
+        "end": 1230,
+        "string": " "
+      },
+      {
+        "start": 1230,
+        "end": 1237,
+        "string": "please"
+      },
+      {
+        "start": 1237,
+        "end": 1238,
+        "string": " "
+      },
+      {
+        "start": 1238,
+        "end": 1246,
+        "string": "contact"
+      },
+      {
+        "start": 1246,
+        "end": 1247,
+        "string": " "
+      },
+      {
+        "start": 1247,
+        "end": 1249,
+        "string": ":"
+      },
+      {
+        "start": 1249,
+        "end": 1250,
+        "string": " "
+      },
+      {
+        "start": 1250,
+        "end": 1255,
+        "string": "5962"
+      },
+      {
+        "start": 1255,
+        "end": 1256,
+        "string": " "
+      },
+      {
+        "start": 1256,
+        "end": 1261,
+        "string": "1224"
+      },
+      {
+        "start": 1261,
+        "end": 1262,
+        "string": " "
+      },
+      {
+        "start": 1262,
+        "end": 1264,
+        "string": "."
+      },
+      {
+        "start": 1264,
+        "end": 1265,
+        "string": " "
+      }
+    ]
+  }
+}

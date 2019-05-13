@@ -1,0 +1,578 @@
+{
+  "$schema": "corpus.schema.json",
+  "id": "561345407da44b0fb9ac1fed229f8d09.sentences",
+  "documentId": "561345407da44b0fb9ac1fed229f8d09.document",
+  "type": "annotation",
+  "metadata": {
+    "annotationTypes": [
+      "segmentation"
+    ],
+    "annotationSource": "",
+    "created": ""
+  },
+  "content": {
+    "layerRefs": [
+      "561345407da44b0fb9ac1fed229f8d09.tokens"
+    ],
+    "annotationNodes": [
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 0,
+                "end": 36
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 37,
+                "end": 50
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 51,
+                "end": 63
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 64,
+                "end": 72
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 73,
+                "end": 83
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 84,
+                "end": 92
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 93,
+                "end": 99
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 100,
+                "end": 118
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 119,
+                "end": 125
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 126,
+                "end": 129
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 130,
+                "end": 133
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 134,
+                "end": 137
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 138,
+                "end": 144
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 145,
+                "end": 148
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 149,
+                "end": 155
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 156,
+                "end": 177
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 178,
+                "end": 184
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 185,
+                "end": 188
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 189,
+                "end": 192
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 193,
+                "end": 196
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 197,
+                "end": 200
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 201,
+                "end": 207
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 208,
+                "end": 211
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 212,
+                "end": 214
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 215,
+                "end": 218
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 219,
+                "end": 230
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 231,
+                "end": 258
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 259,
+                "end": 281
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 282,
+                "end": 313
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 314,
+                "end": 320
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      },
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 321,
+                "end": 337
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      }
+    ]
+  }
+}

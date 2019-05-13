@@ -1,0 +1,38 @@
+{
+  "$schema": "corpus.schema.json",
+  "id": "0e3ff2499cd844dca531d5d121b7af00.sentences",
+  "documentId": "0e3ff2499cd844dca531d5d121b7af00.document",
+  "type": "annotation",
+  "metadata": {
+    "annotationTypes": [
+      "segmentation"
+    ],
+    "annotationSource": "",
+    "created": ""
+  },
+  "content": {
+    "layerRefs": [
+      "0e3ff2499cd844dca531d5d121b7af00.tokens"
+    ],
+    "annotationNodes": [
+      {
+        "relation": {
+          "type": "segment",
+          "references": [
+            {
+              "layer": 0,
+              "nodeRange": {
+                "start": 0,
+                "end": 42
+              },
+              "role": "part"
+            }
+          ]
+        },
+        "annotations": {
+          "unit": "sentence"
+        }
+      }
+    ]
+  }
+}

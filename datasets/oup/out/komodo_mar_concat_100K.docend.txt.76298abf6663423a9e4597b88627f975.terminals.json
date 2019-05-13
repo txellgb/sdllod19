@@ -1,0 +1,6011 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "76298abf6663423a9e4597b88627f975.doc",
+  "id": "76298abf6663423a9e4597b88627f975.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "76298abf6663423a9e4597b88627f975.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 12,
+        "string": "global"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "string": "\""
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "string": " "
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "string": "Hookah"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "string": "("
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "string": " "
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "string": "Shisha"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "string": ")"
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "string": " "
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "string": "Tobacco"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 54,
+        "string": "market"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "string": "\""
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "string": "research"
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 75,
+        "string": "report"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "string": "is"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 82,
+        "string": "a"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 93,
+        "string": "pervasive"
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "string": " "
+      },
+      {
+        "start": 94,
+        "end": 103,
+        "string": "research"
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "string": " "
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "string": "report"
+      },
+      {
+        "start": 111,
+        "end": 112,
+        "string": " "
+      },
+      {
+        "start": 112,
+        "end": 117,
+        "string": "that"
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "string": " "
+      },
+      {
+        "start": 118,
+        "end": 126,
+        "string": "touches"
+      },
+      {
+        "start": 126,
+        "end": 127,
+        "string": " "
+      },
+      {
+        "start": 127,
+        "end": 131,
+        "string": "the"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 137,
+        "string": "most"
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      },
+      {
+        "start": 138,
+        "end": 144,
+        "string": "vital"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 151,
+        "string": "parts"
+      },
+      {
+        "start": 151,
+        "end": 152,
+        "string": " "
+      },
+      {
+        "start": 152,
+        "end": 155,
+        "string": "of"
+      },
+      {
+        "start": 155,
+        "end": 156,
+        "string": " "
+      },
+      {
+        "start": 156,
+        "end": 160,
+        "string": "the"
+      },
+      {
+        "start": 160,
+        "end": 161,
+        "string": " "
+      },
+      {
+        "start": 161,
+        "end": 168,
+        "string": "Hookah"
+      },
+      {
+        "start": 168,
+        "end": 169,
+        "string": " "
+      },
+      {
+        "start": 169,
+        "end": 171,
+        "string": "("
+      },
+      {
+        "start": 171,
+        "end": 172,
+        "string": " "
+      },
+      {
+        "start": 172,
+        "end": 179,
+        "string": "Shisha"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 182,
+        "string": ")"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "string": " "
+      },
+      {
+        "start": 183,
+        "end": 191,
+        "string": "Tobacco"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 199,
+        "string": "market"
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 205,
+        "string": "that"
+      },
+      {
+        "start": 205,
+        "end": 206,
+        "string": " "
+      },
+      {
+        "start": 206,
+        "end": 209,
+        "string": "is"
+      },
+      {
+        "start": 209,
+        "end": 210,
+        "string": " "
+      },
+      {
+        "start": 210,
+        "end": 220,
+        "string": "necessary"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 224,
+        "string": "to"
+      },
+      {
+        "start": 224,
+        "end": 225,
+        "string": " "
+      },
+      {
+        "start": 225,
+        "end": 228,
+        "string": "be"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 237,
+        "string": "grasped"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 241,
+        "string": "by"
+      },
+      {
+        "start": 241,
+        "end": 242,
+        "string": " "
+      },
+      {
+        "start": 242,
+        "end": 244,
+        "string": "a"
+      },
+      {
+        "start": 244,
+        "end": 245,
+        "string": " "
+      },
+      {
+        "start": 245,
+        "end": 258,
+        "string": "professional"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 262,
+        "string": "or"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 268,
+        "string": "even"
+      },
+      {
+        "start": 268,
+        "end": 269,
+        "string": " "
+      },
+      {
+        "start": 269,
+        "end": 271,
+        "string": "a"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 279,
+        "string": "layman"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 282,
+        "string": "."
+      },
+      {
+        "start": 282,
+        "end": 283,
+        "string": " "
+      },
+      {
+        "start": 283,
+        "end": 287,
+        "string": "The"
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 295,
+        "string": "market"
+      },
+      {
+        "start": 295,
+        "end": 296,
+        "string": " "
+      },
+      {
+        "start": 296,
+        "end": 305,
+        "string": "research"
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 313,
+        "string": "report"
+      },
+      {
+        "start": 313,
+        "end": 314,
+        "string": " "
+      },
+      {
+        "start": 314,
+        "end": 325,
+        "string": "enlightens"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 330,
+        "string": "one"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 341,
+        "string": "regarding"
+      },
+      {
+        "start": 341,
+        "end": 342,
+        "string": " "
+      },
+      {
+        "start": 342,
+        "end": 346,
+        "string": "few"
+      },
+      {
+        "start": 346,
+        "end": 347,
+        "string": " "
+      },
+      {
+        "start": 347,
+        "end": 350,
+        "string": "of"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 355,
+        "string": "the"
+      },
+      {
+        "start": 355,
+        "end": 356,
+        "string": " "
+      },
+      {
+        "start": 356,
+        "end": 366,
+        "string": "important"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 375,
+        "string": "aspects"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 381,
+        "string": "such"
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 385,
+        "string": "as"
+      },
+      {
+        "start": 385,
+        "end": 386,
+        "string": " "
+      },
+      {
+        "start": 386,
+        "end": 389,
+        "string": "an"
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 399,
+        "string": "overview"
+      },
+      {
+        "start": 399,
+        "end": 400,
+        "string": " "
+      },
+      {
+        "start": 400,
+        "end": 403,
+        "string": "of"
+      },
+      {
+        "start": 403,
+        "end": 404,
+        "string": " "
+      },
+      {
+        "start": 404,
+        "end": 408,
+        "string": "the"
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 416,
+        "string": "Hookah"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 419,
+        "string": "("
+      },
+      {
+        "start": 419,
+        "end": 420,
+        "string": " "
+      },
+      {
+        "start": 420,
+        "end": 427,
+        "string": "Shisha"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 430,
+        "string": ")"
+      },
+      {
+        "start": 430,
+        "end": 431,
+        "string": " "
+      },
+      {
+        "start": 431,
+        "end": 439,
+        "string": "Tobacco"
+      },
+      {
+        "start": 439,
+        "end": 440,
+        "string": " "
+      },
+      {
+        "start": 440,
+        "end": 448,
+        "string": "product"
+      },
+      {
+        "start": 448,
+        "end": 449,
+        "string": " "
+      },
+      {
+        "start": 449,
+        "end": 451,
+        "string": ","
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 456,
+        "string": "the"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 464,
+        "string": "growth"
+      },
+      {
+        "start": 464,
+        "end": 465,
+        "string": " "
+      },
+      {
+        "start": 465,
+        "end": 473,
+        "string": "factors"
+      },
+      {
+        "start": 473,
+        "end": 474,
+        "string": " "
+      },
+      {
+        "start": 474,
+        "end": 484,
+        "string": "enhancing"
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 488,
+        "string": "or"
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "string": " "
+      },
+      {
+        "start": 489,
+        "end": 499,
+        "string": "hampering"
+      },
+      {
+        "start": 499,
+        "end": 500,
+        "string": " "
+      },
+      {
+        "start": 500,
+        "end": 504,
+        "string": "its"
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 517,
+        "string": "development"
+      },
+      {
+        "start": 517,
+        "end": 518,
+        "string": " "
+      },
+      {
+        "start": 518,
+        "end": 520,
+        "string": ","
+      },
+      {
+        "start": 520,
+        "end": 521,
+        "string": " "
+      },
+      {
+        "start": 521,
+        "end": 533,
+        "string": "application"
+      },
+      {
+        "start": 533,
+        "end": 534,
+        "string": " "
+      },
+      {
+        "start": 534,
+        "end": 537,
+        "string": "in"
+      },
+      {
+        "start": 537,
+        "end": 538,
+        "string": " "
+      },
+      {
+        "start": 538,
+        "end": 542,
+        "string": "the"
+      },
+      {
+        "start": 542,
+        "end": 543,
+        "string": " "
+      },
+      {
+        "start": 543,
+        "end": 551,
+        "string": "various"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 559,
+        "string": "fields"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 562,
+        "string": ","
+      },
+      {
+        "start": 562,
+        "end": 563,
+        "string": " "
+      },
+      {
+        "start": 563,
+        "end": 569,
+        "string": "major"
+      },
+      {
+        "start": 569,
+        "end": 570,
+        "string": " "
+      },
+      {
+        "start": 570,
+        "end": 581,
+        "string": "dominating"
+      },
+      {
+        "start": 581,
+        "end": 582,
+        "string": " "
+      },
+      {
+        "start": 582,
+        "end": 592,
+        "string": "companies"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 595,
+        "string": ","
+      },
+      {
+        "start": 595,
+        "end": 596,
+        "string": " "
+      },
+      {
+        "start": 596,
+        "end": 604,
+        "string": "genuine"
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 611,
+        "string": "facts"
+      },
+      {
+        "start": 611,
+        "end": 612,
+        "string": " "
+      },
+      {
+        "start": 612,
+        "end": 614,
+        "string": ","
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 624,
+        "string": "economic"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 635,
+        "string": "situation"
+      },
+      {
+        "start": 635,
+        "end": 636,
+        "string": " "
+      },
+      {
+        "start": 636,
+        "end": 638,
+        "string": ","
+      },
+      {
+        "start": 638,
+        "end": 639,
+        "string": " "
+      },
+      {
+        "start": 639,
+        "end": 643,
+        "string": "and"
+      },
+      {
+        "start": 643,
+        "end": 644,
+        "string": " "
+      },
+      {
+        "start": 644,
+        "end": 657,
+        "string": "geographical"
+      },
+      {
+        "start": 657,
+        "end": 658,
+        "string": " "
+      },
+      {
+        "start": 658,
+        "end": 667,
+        "string": "analysis"
+      },
+      {
+        "start": 667,
+        "end": 668,
+        "string": " "
+      },
+      {
+        "start": 668,
+        "end": 670,
+        "string": "."
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 677,
+        "string": "Click"
+      },
+      {
+        "start": 677,
+        "end": 678,
+        "string": " "
+      },
+      {
+        "start": 678,
+        "end": 683,
+        "string": "here"
+      },
+      {
+        "start": 683,
+        "end": 684,
+        "string": " "
+      },
+      {
+        "start": 684,
+        "end": 687,
+        "string": "to"
+      },
+      {
+        "start": 687,
+        "end": 688,
+        "string": " "
+      },
+      {
+        "start": 688,
+        "end": 695,
+        "string": "access"
+      },
+      {
+        "start": 695,
+        "end": 696,
+        "string": " "
+      },
+      {
+        "start": 696,
+        "end": 700,
+        "string": "the"
+      },
+      {
+        "start": 700,
+        "end": 701,
+        "string": " "
+      },
+      {
+        "start": 701,
+        "end": 708,
+        "string": "report"
+      },
+      {
+        "start": 708,
+        "end": 709,
+        "string": " "
+      },
+      {
+        "start": 709,
+        "end": 711,
+        "string": ":"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 714,
+        "string": ":"
+      },
+      {
+        "start": 714,
+        "end": 715,
+        "string": " "
+      },
+      {
+        "start": 715,
+        "end": 770,
+        "string": "www.99strategy.biz/request-for-sample.html?repid=38100"
+      },
+      {
+        "start": 770,
+        "end": 771,
+        "string": " "
+      },
+      {
+        "start": 771,
+        "end": 775,
+        "string": "The"
+      },
+      {
+        "start": 775,
+        "end": 776,
+        "string": " "
+      },
+      {
+        "start": 776,
+        "end": 790,
+        "string": "international"
+      },
+      {
+        "start": 790,
+        "end": 791,
+        "string": " "
+      },
+      {
+        "start": 791,
+        "end": 795,
+        "string": "and"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 803,
+        "string": "global"
+      },
+      {
+        "start": 803,
+        "end": 804,
+        "string": " "
+      },
+      {
+        "start": 804,
+        "end": 810,
+        "string": "stand"
+      },
+      {
+        "start": 810,
+        "end": 811,
+        "string": " "
+      },
+      {
+        "start": 811,
+        "end": 814,
+        "string": "of"
+      },
+      {
+        "start": 814,
+        "end": 815,
+        "string": " "
+      },
+      {
+        "start": 815,
+        "end": 819,
+        "string": "the"
+      },
+      {
+        "start": 819,
+        "end": 820,
+        "string": " "
+      },
+      {
+        "start": 820,
+        "end": 827,
+        "string": "Hookah"
+      },
+      {
+        "start": 827,
+        "end": 828,
+        "string": " "
+      },
+      {
+        "start": 828,
+        "end": 830,
+        "string": "("
+      },
+      {
+        "start": 830,
+        "end": 831,
+        "string": " "
+      },
+      {
+        "start": 831,
+        "end": 838,
+        "string": "Shisha"
+      },
+      {
+        "start": 838,
+        "end": 839,
+        "string": " "
+      },
+      {
+        "start": 839,
+        "end": 841,
+        "string": ")"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 850,
+        "string": "Tobacco"
+      },
+      {
+        "start": 850,
+        "end": 851,
+        "string": " "
+      },
+      {
+        "start": 851,
+        "end": 858,
+        "string": "market"
+      },
+      {
+        "start": 858,
+        "end": 859,
+        "string": " "
+      },
+      {
+        "start": 859,
+        "end": 862,
+        "string": "is"
+      },
+      {
+        "start": 862,
+        "end": 863,
+        "string": " "
+      },
+      {
+        "start": 863,
+        "end": 868,
+        "string": "also"
+      },
+      {
+        "start": 868,
+        "end": 869,
+        "string": " "
+      },
+      {
+        "start": 869,
+        "end": 877,
+        "string": "briefly"
+      },
+      {
+        "start": 877,
+        "end": 878,
+        "string": " "
+      },
+      {
+        "start": 878,
+        "end": 888,
+        "string": "mentioned"
+      },
+      {
+        "start": 888,
+        "end": 889,
+        "string": " "
+      },
+      {
+        "start": 889,
+        "end": 892,
+        "string": "in"
+      },
+      {
+        "start": 892,
+        "end": 893,
+        "string": " "
+      },
+      {
+        "start": 893,
+        "end": 897,
+        "string": "the"
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 907,
+        "string": "research"
+      },
+      {
+        "start": 907,
+        "end": 908,
+        "string": " "
+      },
+      {
+        "start": 908,
+        "end": 915,
+        "string": "report"
+      },
+      {
+        "start": 915,
+        "end": 916,
+        "string": " "
+      },
+      {
+        "start": 916,
+        "end": 922,
+        "string": "based"
+      },
+      {
+        "start": 922,
+        "end": 923,
+        "string": " "
+      },
+      {
+        "start": 923,
+        "end": 926,
+        "string": "on"
+      },
+      {
+        "start": 926,
+        "end": 927,
+        "string": " "
+      },
+      {
+        "start": 927,
+        "end": 931,
+        "string": "the"
+      },
+      {
+        "start": 931,
+        "end": 932,
+        "string": " "
+      },
+      {
+        "start": 932,
+        "end": 942,
+        "string": "performed"
+      },
+      {
+        "start": 942,
+        "end": 943,
+        "string": " "
+      },
+      {
+        "start": 943,
+        "end": 955,
+        "string": "statistical"
+      },
+      {
+        "start": 955,
+        "end": 956,
+        "string": " "
+      },
+      {
+        "start": 956,
+        "end": 960,
+        "string": "and"
+      },
+      {
+        "start": 960,
+        "end": 961,
+        "string": " "
+      },
+      {
+        "start": 961,
+        "end": 970,
+        "string": "thorough"
+      },
+      {
+        "start": 970,
+        "end": 971,
+        "string": " "
+      },
+      {
+        "start": 971,
+        "end": 978,
+        "string": "market"
+      },
+      {
+        "start": 978,
+        "end": 979,
+        "string": " "
+      },
+      {
+        "start": 979,
+        "end": 988,
+        "string": "analysis"
+      },
+      {
+        "start": 988,
+        "end": 989,
+        "string": " "
+      },
+      {
+        "start": 989,
+        "end": 991,
+        "string": "."
+      },
+      {
+        "start": 991,
+        "end": 992,
+        "string": " "
+      },
+      {
+        "start": 992,
+        "end": 996,
+        "string": "The"
+      },
+      {
+        "start": 996,
+        "end": 997,
+        "string": " "
+      },
+      {
+        "start": 997,
+        "end": 1002,
+        "string": "data"
+      },
+      {
+        "start": 1002,
+        "end": 1003,
+        "string": " "
+      },
+      {
+        "start": 1003,
+        "end": 1013,
+        "string": "regarding"
+      },
+      {
+        "start": 1013,
+        "end": 1014,
+        "string": " "
+      },
+      {
+        "start": 1014,
+        "end": 1019,
+        "string": "some"
+      },
+      {
+        "start": 1019,
+        "end": 1020,
+        "string": " "
+      },
+      {
+        "start": 1020,
+        "end": 1023,
+        "string": "of"
+      },
+      {
+        "start": 1023,
+        "end": 1024,
+        "string": " "
+      },
+      {
+        "start": 1024,
+        "end": 1028,
+        "string": "the"
+      },
+      {
+        "start": 1028,
+        "end": 1029,
+        "string": " "
+      },
+      {
+        "start": 1029,
+        "end": 1039,
+        "string": "prevalent"
+      },
+      {
+        "start": 1039,
+        "end": 1040,
+        "string": " "
+      },
+      {
+        "start": 1040,
+        "end": 1048,
+        "string": "players"
+      },
+      {
+        "start": 1048,
+        "end": 1049,
+        "string": " "
+      },
+      {
+        "start": 1049,
+        "end": 1058,
+        "string": "Starbuzz"
+      },
+      {
+        "start": 1058,
+        "end": 1059,
+        "string": " "
+      },
+      {
+        "start": 1059,
+        "end": 1061,
+        "string": ","
+      },
+      {
+        "start": 1061,
+        "end": 1062,
+        "string": " "
+      },
+      {
+        "start": 1062,
+        "end": 1071,
+        "string": "Fantasia"
+      },
+      {
+        "start": 1071,
+        "end": 1072,
+        "string": " "
+      },
+      {
+        "start": 1072,
+        "end": 1074,
+        "string": ","
+      },
+      {
+        "start": 1074,
+        "end": 1075,
+        "string": " "
+      },
+      {
+        "start": 1075,
+        "end": 1082,
+        "string": "Social"
+      },
+      {
+        "start": 1082,
+        "end": 1083,
+        "string": " "
+      },
+      {
+        "start": 1083,
+        "end": 1089,
+        "string": "Smoke"
+      },
+      {
+        "start": 1089,
+        "end": 1090,
+        "string": " "
+      },
+      {
+        "start": 1090,
+        "end": 1092,
+        "string": ","
+      },
+      {
+        "start": 1092,
+        "end": 1093,
+        "string": " "
+      },
+      {
+        "start": 1093,
+        "end": 1103,
+        "string": "Alchemist"
+      },
+      {
+        "start": 1103,
+        "end": 1104,
+        "string": " "
+      },
+      {
+        "start": 1104,
+        "end": 1112,
+        "string": "tobacco"
+      },
+      {
+        "start": 1112,
+        "end": 1113,
+        "string": " "
+      },
+      {
+        "start": 1113,
+        "end": 1115,
+        "string": ","
+      },
+      {
+        "start": 1115,
+        "end": 1116,
+        "string": " "
+      },
+      {
+        "start": 1116,
+        "end": 1121,
+        "string": "Haze"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1130,
+        "string": "tobacco"
+      },
+      {
+        "start": 1130,
+        "end": 1131,
+        "string": " "
+      },
+      {
+        "start": 1131,
+        "end": 1133,
+        "string": ","
+      },
+      {
+        "start": 1133,
+        "end": 1134,
+        "string": " "
+      },
+      {
+        "start": 1134,
+        "end": 1141,
+        "string": "Fumari"
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1144,
+        "string": ","
+      },
+      {
+        "start": 1144,
+        "end": 1145,
+        "string": " "
+      },
+      {
+        "start": 1145,
+        "end": 1152,
+        "string": "Nakhla"
+      },
+      {
+        "start": 1152,
+        "end": 1153,
+        "string": " "
+      },
+      {
+        "start": 1153,
+        "end": 1155,
+        "string": ","
+      },
+      {
+        "start": 1155,
+        "end": 1156,
+        "string": " "
+      },
+      {
+        "start": 1156,
+        "end": 1163,
+        "string": "Market"
+      },
+      {
+        "start": 1163,
+        "end": 1164,
+        "string": " "
+      },
+      {
+        "start": 1164,
+        "end": 1172,
+        "string": "Segment"
+      },
+      {
+        "start": 1172,
+        "end": 1173,
+        "string": " "
+      },
+      {
+        "start": 1173,
+        "end": 1176,
+        "string": "by"
+      },
+      {
+        "start": 1176,
+        "end": 1177,
+        "string": " "
+      },
+      {
+        "start": 1177,
+        "end": 1185,
+        "string": "Regions"
+      },
+      {
+        "start": 1185,
+        "end": 1186,
+        "string": " "
+      },
+      {
+        "start": 1186,
+        "end": 1188,
+        "string": ","
+      },
+      {
+        "start": 1188,
+        "end": 1189,
+        "string": " "
+      },
+      {
+        "start": 1189,
+        "end": 1198,
+        "string": "regional"
+      },
+      {
+        "start": 1198,
+        "end": 1199,
+        "string": " "
+      },
+      {
+        "start": 1199,
+        "end": 1208,
+        "string": "analysis"
+      },
+      {
+        "start": 1208,
+        "end": 1209,
+        "string": " "
+      },
+      {
+        "start": 1209,
+        "end": 1216,
+        "string": "covers"
+      },
+      {
+        "start": 1216,
+        "end": 1217,
+        "string": " "
+      },
+      {
+        "start": 1217,
+        "end": 1219,
+        "string": ","
+      },
+      {
+        "start": 1219,
+        "end": 1220,
+        "string": " "
+      },
+      {
+        "start": 1220,
+        "end": 1226,
+        "string": "North"
+      },
+      {
+        "start": 1226,
+        "end": 1227,
+        "string": " "
+      },
+      {
+        "start": 1227,
+        "end": 1235,
+        "string": "America"
+      },
+      {
+        "start": 1235,
+        "end": 1236,
+        "string": " "
+      },
+      {
+        "start": 1236,
+        "end": 1238,
+        "string": "("
+      },
+      {
+        "start": 1238,
+        "end": 1239,
+        "string": " "
+      },
+      {
+        "start": 1239,
+        "end": 1246,
+        "string": "United"
+      },
+      {
+        "start": 1246,
+        "end": 1247,
+        "string": " "
+      },
+      {
+        "start": 1247,
+        "end": 1254,
+        "string": "States"
+      },
+      {
+        "start": 1254,
+        "end": 1255,
+        "string": " "
+      },
+      {
+        "start": 1255,
+        "end": 1257,
+        "string": ","
+      },
+      {
+        "start": 1257,
+        "end": 1258,
+        "string": " "
+      },
+      {
+        "start": 1258,
+        "end": 1265,
+        "string": "Canada"
+      },
+      {
+        "start": 1265,
+        "end": 1266,
+        "string": " "
+      },
+      {
+        "start": 1266,
+        "end": 1270,
+        "string": "and"
+      },
+      {
+        "start": 1270,
+        "end": 1271,
+        "string": " "
+      },
+      {
+        "start": 1271,
+        "end": 1278,
+        "string": "Mexico"
+      },
+      {
+        "start": 1278,
+        "end": 1279,
+        "string": " "
+      },
+      {
+        "start": 1279,
+        "end": 1281,
+        "string": ")"
+      },
+      {
+        "start": 1281,
+        "end": 1282,
+        "string": " "
+      },
+      {
+        "start": 1282,
+        "end": 1284,
+        "string": ","
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1292,
+        "string": "Europe"
+      },
+      {
+        "start": 1292,
+        "end": 1293,
+        "string": " "
+      },
+      {
+        "start": 1293,
+        "end": 1295,
+        "string": "("
+      },
+      {
+        "start": 1295,
+        "end": 1296,
+        "string": " "
+      },
+      {
+        "start": 1296,
+        "end": 1304,
+        "string": "Germany"
+      },
+      {
+        "start": 1304,
+        "end": 1305,
+        "string": " "
+      },
+      {
+        "start": 1305,
+        "end": 1307,
+        "string": ","
+      },
+      {
+        "start": 1307,
+        "end": 1308,
+        "string": " "
+      },
+      {
+        "start": 1308,
+        "end": 1315,
+        "string": "France"
+      },
+      {
+        "start": 1315,
+        "end": 1316,
+        "string": " "
+      },
+      {
+        "start": 1316,
+        "end": 1318,
+        "string": ","
+      },
+      {
+        "start": 1318,
+        "end": 1319,
+        "string": " "
+      },
+      {
+        "start": 1319,
+        "end": 1322,
+        "string": "UK"
+      },
+      {
+        "start": 1322,
+        "end": 1323,
+        "string": " "
+      },
+      {
+        "start": 1323,
+        "end": 1325,
+        "string": ","
+      },
+      {
+        "start": 1325,
+        "end": 1326,
+        "string": " "
+      },
+      {
+        "start": 1326,
+        "end": 1333,
+        "string": "Russia"
+      },
+      {
+        "start": 1333,
+        "end": 1334,
+        "string": " "
+      },
+      {
+        "start": 1334,
+        "end": 1338,
+        "string": "and"
+      },
+      {
+        "start": 1338,
+        "end": 1339,
+        "string": " "
+      },
+      {
+        "start": 1339,
+        "end": 1345,
+        "string": "Italy"
+      },
+      {
+        "start": 1345,
+        "end": 1346,
+        "string": " "
+      },
+      {
+        "start": 1346,
+        "end": 1348,
+        "string": ")"
+      },
+      {
+        "start": 1348,
+        "end": 1349,
+        "string": " "
+      },
+      {
+        "start": 1349,
+        "end": 1351,
+        "string": ","
+      },
+      {
+        "start": 1351,
+        "end": 1352,
+        "string": " "
+      },
+      {
+        "start": 1352,
+        "end": 1365,
+        "string": "Asia-Pacific"
+      },
+      {
+        "start": 1365,
+        "end": 1366,
+        "string": " "
+      },
+      {
+        "start": 1366,
+        "end": 1368,
+        "string": "("
+      },
+      {
+        "start": 1368,
+        "end": 1369,
+        "string": " "
+      },
+      {
+        "start": 1369,
+        "end": 1375,
+        "string": "China"
+      },
+      {
+        "start": 1375,
+        "end": 1376,
+        "string": " "
+      },
+      {
+        "start": 1376,
+        "end": 1378,
+        "string": ","
+      },
+      {
+        "start": 1378,
+        "end": 1379,
+        "string": " "
+      },
+      {
+        "start": 1379,
+        "end": 1385,
+        "string": "Japan"
+      },
+      {
+        "start": 1385,
+        "end": 1386,
+        "string": " "
+      },
+      {
+        "start": 1386,
+        "end": 1388,
+        "string": ","
+      },
+      {
+        "start": 1388,
+        "end": 1389,
+        "string": " "
+      },
+      {
+        "start": 1389,
+        "end": 1395,
+        "string": "Korea"
+      },
+      {
+        "start": 1395,
+        "end": 1396,
+        "string": " "
+      },
+      {
+        "start": 1396,
+        "end": 1398,
+        "string": ","
+      },
+      {
+        "start": 1398,
+        "end": 1399,
+        "string": " "
+      },
+      {
+        "start": 1399,
+        "end": 1405,
+        "string": "India"
+      },
+      {
+        "start": 1405,
+        "end": 1406,
+        "string": " "
+      },
+      {
+        "start": 1406,
+        "end": 1410,
+        "string": "and"
+      },
+      {
+        "start": 1410,
+        "end": 1411,
+        "string": " "
+      },
+      {
+        "start": 1411,
+        "end": 1421,
+        "string": "Southeast"
+      },
+      {
+        "start": 1421,
+        "end": 1422,
+        "string": " "
+      },
+      {
+        "start": 1422,
+        "end": 1427,
+        "string": "Asia"
+      },
+      {
+        "start": 1427,
+        "end": 1428,
+        "string": " "
+      },
+      {
+        "start": 1428,
+        "end": 1430,
+        "string": ")"
+      },
+      {
+        "start": 1430,
+        "end": 1431,
+        "string": " "
+      },
+      {
+        "start": 1431,
+        "end": 1433,
+        "string": ","
+      },
+      {
+        "start": 1433,
+        "end": 1434,
+        "string": " "
+      },
+      {
+        "start": 1434,
+        "end": 1440,
+        "string": "South"
+      },
+      {
+        "start": 1440,
+        "end": 1441,
+        "string": " "
+      },
+      {
+        "start": 1441,
+        "end": 1449,
+        "string": "America"
+      },
+      {
+        "start": 1449,
+        "end": 1450,
+        "string": " "
+      },
+      {
+        "start": 1450,
+        "end": 1452,
+        "string": "("
+      },
+      {
+        "start": 1452,
+        "end": 1453,
+        "string": " "
+      },
+      {
+        "start": 1453,
+        "end": 1460,
+        "string": "Brazil"
+      },
+      {
+        "start": 1460,
+        "end": 1461,
+        "string": " "
+      },
+      {
+        "start": 1461,
+        "end": 1463,
+        "string": ","
+      },
+      {
+        "start": 1463,
+        "end": 1464,
+        "string": " "
+      },
+      {
+        "start": 1464,
+        "end": 1474,
+        "string": "Argentina"
+      },
+      {
+        "start": 1474,
+        "end": 1475,
+        "string": " "
+      },
+      {
+        "start": 1475,
+        "end": 1477,
+        "string": ","
+      },
+      {
+        "start": 1477,
+        "end": 1478,
+        "string": " "
+      },
+      {
+        "start": 1478,
+        "end": 1487,
+        "string": "Columbia"
+      },
+      {
+        "start": 1487,
+        "end": 1488,
+        "string": " "
+      },
+      {
+        "start": 1488,
+        "end": 1490,
+        "string": ")"
+      },
+      {
+        "start": 1490,
+        "end": 1491,
+        "string": " "
+      },
+      {
+        "start": 1491,
+        "end": 1493,
+        "string": ","
+      },
+      {
+        "start": 1493,
+        "end": 1494,
+        "string": " "
+      },
+      {
+        "start": 1494,
+        "end": 1501,
+        "string": "Middle"
+      },
+      {
+        "start": 1501,
+        "end": 1502,
+        "string": " "
+      },
+      {
+        "start": 1502,
+        "end": 1507,
+        "string": "East"
+      },
+      {
+        "start": 1507,
+        "end": 1508,
+        "string": " "
+      },
+      {
+        "start": 1508,
+        "end": 1512,
+        "string": "and"
+      },
+      {
+        "start": 1512,
+        "end": 1513,
+        "string": " "
+      },
+      {
+        "start": 1513,
+        "end": 1520,
+        "string": "Africa"
+      },
+      {
+        "start": 1520,
+        "end": 1521,
+        "string": " "
+      },
+      {
+        "start": 1521,
+        "end": 1523,
+        "string": "("
+      },
+      {
+        "start": 1523,
+        "end": 1524,
+        "string": " "
+      },
+      {
+        "start": 1524,
+        "end": 1530,
+        "string": "Saudi"
+      },
+      {
+        "start": 1530,
+        "end": 1531,
+        "string": " "
+      },
+      {
+        "start": 1531,
+        "end": 1538,
+        "string": "Arabia"
+      },
+      {
+        "start": 1538,
+        "end": 1539,
+        "string": " "
+      },
+      {
+        "start": 1539,
+        "end": 1541,
+        "string": ","
+      },
+      {
+        "start": 1541,
+        "end": 1542,
+        "string": " "
+      },
+      {
+        "start": 1542,
+        "end": 1546,
+        "string": "UAE"
+      },
+      {
+        "start": 1546,
+        "end": 1547,
+        "string": " "
+      },
+      {
+        "start": 1547,
+        "end": 1549,
+        "string": ","
+      },
+      {
+        "start": 1549,
+        "end": 1550,
+        "string": " "
+      },
+      {
+        "start": 1550,
+        "end": 1556,
+        "string": "Egypt"
+      },
+      {
+        "start": 1556,
+        "end": 1557,
+        "string": " "
+      },
+      {
+        "start": 1557,
+        "end": 1559,
+        "string": ","
+      },
+      {
+        "start": 1559,
+        "end": 1560,
+        "string": " "
+      },
+      {
+        "start": 1560,
+        "end": 1568,
+        "string": "Nigeria"
+      },
+      {
+        "start": 1568,
+        "end": 1569,
+        "string": " "
+      },
+      {
+        "start": 1569,
+        "end": 1573,
+        "string": "and"
+      },
+      {
+        "start": 1573,
+        "end": 1574,
+        "string": " "
+      },
+      {
+        "start": 1574,
+        "end": 1580,
+        "string": "South"
+      },
+      {
+        "start": 1580,
+        "end": 1581,
+        "string": " "
+      },
+      {
+        "start": 1581,
+        "end": 1588,
+        "string": "Africa"
+      },
+      {
+        "start": 1588,
+        "end": 1589,
+        "string": " "
+      },
+      {
+        "start": 1589,
+        "end": 1591,
+        "string": ")"
+      },
+      {
+        "start": 1591,
+        "end": 1592,
+        "string": " "
+      },
+      {
+        "start": 1592,
+        "end": 1596,
+        "string": "are"
+      },
+      {
+        "start": 1596,
+        "end": 1597,
+        "string": " "
+      },
+      {
+        "start": 1597,
+        "end": 1602,
+        "string": "also"
+      },
+      {
+        "start": 1602,
+        "end": 1603,
+        "string": " "
+      },
+      {
+        "start": 1603,
+        "end": 1612,
+        "string": "detailed"
+      },
+      {
+        "start": 1612,
+        "end": 1613,
+        "string": " "
+      },
+      {
+        "start": 1613,
+        "end": 1616,
+        "string": "in"
+      },
+      {
+        "start": 1616,
+        "end": 1617,
+        "string": " "
+      },
+      {
+        "start": 1617,
+        "end": 1621,
+        "string": "the"
+      },
+      {
+        "start": 1621,
+        "end": 1622,
+        "string": " "
+      },
+      {
+        "start": 1622,
+        "end": 1630,
+        "string": "current"
+      },
+      {
+        "start": 1630,
+        "end": 1631,
+        "string": " "
+      },
+      {
+        "start": 1631,
+        "end": 1636,
+        "string": "case"
+      },
+      {
+        "start": 1636,
+        "end": 1637,
+        "string": " "
+      },
+      {
+        "start": 1637,
+        "end": 1643,
+        "string": "study"
+      },
+      {
+        "start": 1643,
+        "end": 1644,
+        "string": " "
+      },
+      {
+        "start": 1644,
+        "end": 1646,
+        "string": "."
+      },
+      {
+        "start": 1646,
+        "end": 1647,
+        "string": " "
+      },
+      {
+        "start": 1647,
+        "end": 1653,
+        "string": "Along"
+      },
+      {
+        "start": 1653,
+        "end": 1654,
+        "string": " "
+      },
+      {
+        "start": 1654,
+        "end": 1659,
+        "string": "with"
+      },
+      {
+        "start": 1659,
+        "end": 1660,
+        "string": " "
+      },
+      {
+        "start": 1660,
+        "end": 1664,
+        "string": "the"
+      },
+      {
+        "start": 1664,
+        "end": 1665,
+        "string": " "
+      },
+      {
+        "start": 1665,
+        "end": 1673,
+        "string": "players"
+      },
+      {
+        "start": 1673,
+        "end": 1674,
+        "string": " "
+      },
+      {
+        "start": 1674,
+        "end": 1676,
+        "string": ","
+      },
+      {
+        "start": 1676,
+        "end": 1677,
+        "string": " "
+      },
+      {
+        "start": 1677,
+        "end": 1682,
+        "string": "even"
+      },
+      {
+        "start": 1682,
+        "end": 1683,
+        "string": " "
+      },
+      {
+        "start": 1683,
+        "end": 1687,
+        "string": "the"
+      },
+      {
+        "start": 1687,
+        "end": 1688,
+        "string": " "
+      },
+      {
+        "start": 1688,
+        "end": 1698,
+        "string": "detailing"
+      },
+      {
+        "start": 1698,
+        "end": 1699,
+        "string": " "
+      },
+      {
+        "start": 1699,
+        "end": 1702,
+        "string": "of"
+      },
+      {
+        "start": 1702,
+        "end": 1703,
+        "string": " "
+      },
+      {
+        "start": 1703,
+        "end": 1716,
+        "string": "geographical"
+      },
+      {
+        "start": 1716,
+        "end": 1717,
+        "string": " "
+      },
+      {
+        "start": 1717,
+        "end": 1726,
+        "string": "segments"
+      },
+      {
+        "start": 1726,
+        "end": 1727,
+        "string": " "
+      },
+      {
+        "start": 1727,
+        "end": 1729,
+        "string": "["
+      },
+      {
+        "start": 1729,
+        "end": 1730,
+        "string": " "
+      },
+      {
+        "start": 1730,
+        "end": 1734,
+        "string": "ABC"
+      },
+      {
+        "start": 1734,
+        "end": 1735,
+        "string": " "
+      },
+      {
+        "start": 1735,
+        "end": 1737,
+        "string": ","
+      },
+      {
+        "start": 1737,
+        "end": 1738,
+        "string": " "
+      },
+      {
+        "start": 1738,
+        "end": 1742,
+        "string": "ABC"
+      },
+      {
+        "start": 1742,
+        "end": 1743,
+        "string": " "
+      },
+      {
+        "start": 1743,
+        "end": 1745,
+        "string": ","
+      },
+      {
+        "start": 1745,
+        "end": 1746,
+        "string": " "
+      },
+      {
+        "start": 1746,
+        "end": 1750,
+        "string": "ABC"
+      },
+      {
+        "start": 1750,
+        "end": 1751,
+        "string": " "
+      },
+      {
+        "start": 1751,
+        "end": 1753,
+        "string": "]"
+      },
+      {
+        "start": 1753,
+        "end": 1754,
+        "string": " "
+      },
+      {
+        "start": 1754,
+        "end": 1760,
+        "string": "along"
+      },
+      {
+        "start": 1760,
+        "end": 1761,
+        "string": " "
+      },
+      {
+        "start": 1761,
+        "end": 1766,
+        "string": "with"
+      },
+      {
+        "start": 1766,
+        "end": 1767,
+        "string": " "
+      },
+      {
+        "start": 1767,
+        "end": 1771,
+        "string": "the"
+      },
+      {
+        "start": 1771,
+        "end": 1772,
+        "string": " "
+      },
+      {
+        "start": 1772,
+        "end": 1780,
+        "string": "various"
+      },
+      {
+        "start": 1780,
+        "end": 1781,
+        "string": " "
+      },
+      {
+        "start": 1781,
+        "end": 1790,
+        "string": "segments"
+      },
+      {
+        "start": 1790,
+        "end": 1791,
+        "string": " "
+      },
+      {
+        "start": 1791,
+        "end": 1798,
+        "string": "Single"
+      },
+      {
+        "start": 1798,
+        "end": 1799,
+        "string": " "
+      },
+      {
+        "start": 1799,
+        "end": 1806,
+        "string": "Flavor"
+      },
+      {
+        "start": 1806,
+        "end": 1807,
+        "string": " "
+      },
+      {
+        "start": 1807,
+        "end": 1809,
+        "string": ","
+      },
+      {
+        "start": 1809,
+        "end": 1810,
+        "string": " "
+      },
+      {
+        "start": 1810,
+        "end": 1816,
+        "string": "Mixed"
+      },
+      {
+        "start": 1816,
+        "end": 1817,
+        "string": " "
+      },
+      {
+        "start": 1817,
+        "end": 1824,
+        "string": "Flavor"
+      },
+      {
+        "start": 1824,
+        "end": 1825,
+        "string": " "
+      },
+      {
+        "start": 1825,
+        "end": 1827,
+        "string": ","
+      },
+      {
+        "start": 1827,
+        "end": 1828,
+        "string": " "
+      },
+      {
+        "start": 1828,
+        "end": 1835,
+        "string": "Market"
+      },
+      {
+        "start": 1835,
+        "end": 1836,
+        "string": " "
+      },
+      {
+        "start": 1836,
+        "end": 1842,
+        "string": "Trend"
+      },
+      {
+        "start": 1842,
+        "end": 1843,
+        "string": " "
+      },
+      {
+        "start": 1843,
+        "end": 1846,
+        "string": "by"
+      },
+      {
+        "start": 1846,
+        "end": 1847,
+        "string": " "
+      },
+      {
+        "start": 1847,
+        "end": 1859,
+        "string": "Application"
+      },
+      {
+        "start": 1859,
+        "end": 1860,
+        "string": " "
+      },
+      {
+        "start": 1860,
+        "end": 1866,
+        "string": "Group"
+      },
+      {
+        "start": 1866,
+        "end": 1867,
+        "string": " "
+      },
+      {
+        "start": 1867,
+        "end": 1871,
+        "string": "Use"
+      },
+      {
+        "start": 1871,
+        "end": 1872,
+        "string": " "
+      },
+      {
+        "start": 1872,
+        "end": 1874,
+        "string": ","
+      },
+      {
+        "start": 1874,
+        "end": 1875,
+        "string": " "
+      },
+      {
+        "start": 1875,
+        "end": 1884,
+        "string": "Personal"
+      },
+      {
+        "start": 1884,
+        "end": 1885,
+        "string": " "
+      },
+      {
+        "start": 1885,
+        "end": 1889,
+        "string": "Use"
+      },
+      {
+        "start": 1889,
+        "end": 1890,
+        "string": " "
+      },
+      {
+        "start": 1890,
+        "end": 1896,
+        "string": "helps"
+      },
+      {
+        "start": 1896,
+        "end": 1897,
+        "string": " "
+      },
+      {
+        "start": 1897,
+        "end": 1905,
+        "string": "predict"
+      },
+      {
+        "start": 1905,
+        "end": 1906,
+        "string": " "
+      },
+      {
+        "start": 1906,
+        "end": 1913,
+        "string": "future"
+      },
+      {
+        "start": 1913,
+        "end": 1914,
+        "string": " "
+      },
+      {
+        "start": 1914,
+        "end": 1920,
+        "string": "scope"
+      },
+      {
+        "start": 1920,
+        "end": 1921,
+        "string": " "
+      },
+      {
+        "start": 1921,
+        "end": 1923,
+        "string": "."
+      },
+      {
+        "start": 1923,
+        "end": 1924,
+        "string": " "
+      },
+      {
+        "start": 1924,
+        "end": 1929,
+        "string": "Read"
+      },
+      {
+        "start": 1929,
+        "end": 1930,
+        "string": " "
+      },
+      {
+        "start": 1930,
+        "end": 1939,
+        "string": "Detailed"
+      },
+      {
+        "start": 1939,
+        "end": 1940,
+        "string": " "
+      },
+      {
+        "start": 1940,
+        "end": 1946,
+        "string": "Index"
+      },
+      {
+        "start": 1946,
+        "end": 1947,
+        "string": " "
+      },
+      {
+        "start": 1947,
+        "end": 1950,
+        "string": "of"
+      },
+      {
+        "start": 1950,
+        "end": 1951,
+        "string": " "
+      },
+      {
+        "start": 1951,
+        "end": 1956,
+        "string": "full"
+      },
+      {
+        "start": 1956,
+        "end": 1957,
+        "string": " "
+      },
+      {
+        "start": 1957,
+        "end": 1966,
+        "string": "Research"
+      },
+      {
+        "start": 1966,
+        "end": 1967,
+        "string": " "
+      },
+      {
+        "start": 1967,
+        "end": 1973,
+        "string": "Study"
+      },
+      {
+        "start": 1973,
+        "end": 1974,
+        "string": " "
+      },
+      {
+        "start": 1974,
+        "end": 1977,
+        "string": "at"
+      },
+      {
+        "start": 1977,
+        "end": 1978,
+        "string": " "
+      },
+      {
+        "start": 1978,
+        "end": 1980,
+        "string": ":"
+      },
+      {
+        "start": 1980,
+        "end": 1981,
+        "string": " "
+      },
+      {
+        "start": 1981,
+        "end": 1983,
+        "string": ":"
+      },
+      {
+        "start": 1983,
+        "end": 1984,
+        "string": " "
+      },
+      {
+        "start": 1984,
+        "end": 2060,
+        "string": "www.99strategy.biz/global-hookah-shisha-tobacco-market-study-2015-2025.html"
+      },
+      {
+        "start": 2060,
+        "end": 2061,
+        "string": " "
+      },
+      {
+        "start": 2061,
+        "end": 2065,
+        "string": "The"
+      },
+      {
+        "start": 2065,
+        "end": 2066,
+        "string": " "
+      },
+      {
+        "start": 2066,
+        "end": 2071,
+        "string": "case"
+      },
+      {
+        "start": 2071,
+        "end": 2072,
+        "string": " "
+      },
+      {
+        "start": 2072,
+        "end": 2078,
+        "string": "study"
+      },
+      {
+        "start": 2078,
+        "end": 2079,
+        "string": " "
+      },
+      {
+        "start": 2079,
+        "end": 2086,
+        "string": "helped"
+      },
+      {
+        "start": 2086,
+        "end": 2087,
+        "string": " "
+      },
+      {
+        "start": 2087,
+        "end": 2092,
+        "string": "give"
+      },
+      {
+        "start": 2092,
+        "end": 2093,
+        "string": " "
+      },
+      {
+        "start": 2093,
+        "end": 2096,
+        "string": "an"
+      },
+      {
+        "start": 2096,
+        "end": 2097,
+        "string": " "
+      },
+      {
+        "start": 2097,
+        "end": 2106,
+        "string": "in-depth"
+      },
+      {
+        "start": 2106,
+        "end": 2107,
+        "string": " "
+      },
+      {
+        "start": 2107,
+        "end": 2116,
+        "string": "analysis"
+      },
+      {
+        "start": 2116,
+        "end": 2117,
+        "string": " "
+      },
+      {
+        "start": 2117,
+        "end": 2120,
+        "string": "of"
+      },
+      {
+        "start": 2120,
+        "end": 2121,
+        "string": " "
+      },
+      {
+        "start": 2121,
+        "end": 2125,
+        "string": "the"
+      },
+      {
+        "start": 2125,
+        "end": 2126,
+        "string": " "
+      },
+      {
+        "start": 2126,
+        "end": 2133,
+        "string": "Hookah"
+      },
+      {
+        "start": 2133,
+        "end": 2134,
+        "string": " "
+      },
+      {
+        "start": 2134,
+        "end": 2136,
+        "string": "("
+      },
+      {
+        "start": 2136,
+        "end": 2137,
+        "string": " "
+      },
+      {
+        "start": 2137,
+        "end": 2144,
+        "string": "Shisha"
+      },
+      {
+        "start": 2144,
+        "end": 2145,
+        "string": " "
+      },
+      {
+        "start": 2145,
+        "end": 2147,
+        "string": ")"
+      },
+      {
+        "start": 2147,
+        "end": 2148,
+        "string": " "
+      },
+      {
+        "start": 2148,
+        "end": 2156,
+        "string": "Tobacco"
+      },
+      {
+        "start": 2156,
+        "end": 2157,
+        "string": " "
+      },
+      {
+        "start": 2157,
+        "end": 2166,
+        "string": "industry"
+      },
+      {
+        "start": 2166,
+        "end": 2167,
+        "string": " "
+      },
+      {
+        "start": 2167,
+        "end": 2170,
+        "string": "so"
+      },
+      {
+        "start": 2170,
+        "end": 2171,
+        "string": " "
+      },
+      {
+        "start": 2171,
+        "end": 2174,
+        "string": "as"
+      },
+      {
+        "start": 2174,
+        "end": 2175,
+        "string": " "
+      },
+      {
+        "start": 2175,
+        "end": 2178,
+        "string": "to"
+      },
+      {
+        "start": 2178,
+        "end": 2179,
+        "string": " "
+      },
+      {
+        "start": 2179,
+        "end": 2184,
+        "string": "help"
+      },
+      {
+        "start": 2184,
+        "end": 2185,
+        "string": " "
+      },
+      {
+        "start": 2185,
+        "end": 2196,
+        "string": "understand"
+      },
+      {
+        "start": 2196,
+        "end": 2197,
+        "string": " "
+      },
+      {
+        "start": 2197,
+        "end": 2201,
+        "string": "its"
+      },
+      {
+        "start": 2201,
+        "end": 2202,
+        "string": " "
+      },
+      {
+        "start": 2202,
+        "end": 2211,
+        "string": "customer"
+      },
+      {
+        "start": 2211,
+        "end": 2212,
+        "string": " "
+      },
+      {
+        "start": 2212,
+        "end": 2224,
+        "string": "competitive"
+      },
+      {
+        "start": 2224,
+        "end": 2225,
+        "string": " "
+      },
+      {
+        "start": 2225,
+        "end": 2231,
+        "string": "study"
+      },
+      {
+        "start": 2231,
+        "end": 2232,
+        "string": " "
+      },
+      {
+        "start": 2232,
+        "end": 2234,
+        "string": ","
+      },
+      {
+        "start": 2234,
+        "end": 2235,
+        "string": " "
+      },
+      {
+        "start": 2235,
+        "end": 2245,
+        "string": "financial"
+      },
+      {
+        "start": 2245,
+        "end": 2246,
+        "string": " "
+      },
+      {
+        "start": 2246,
+        "end": 2262,
+        "string": "decision-making"
+      },
+      {
+        "start": 2262,
+        "end": 2263,
+        "string": " "
+      },
+      {
+        "start": 2263,
+        "end": 2271,
+        "string": "support"
+      },
+      {
+        "start": 2271,
+        "end": 2272,
+        "string": " "
+      },
+      {
+        "start": 2272,
+        "end": 2274,
+        "string": ","
+      },
+      {
+        "start": 2274,
+        "end": 2275,
+        "string": " "
+      },
+      {
+        "start": 2275,
+        "end": 2282,
+        "string": "future"
+      },
+      {
+        "start": 2282,
+        "end": 2283,
+        "string": " "
+      },
+      {
+        "start": 2283,
+        "end": 2297,
+        "string": "developmental"
+      },
+      {
+        "start": 2297,
+        "end": 2298,
+        "string": " "
+      },
+      {
+        "start": 2298,
+        "end": 2304,
+        "string": "scope"
+      },
+      {
+        "start": 2304,
+        "end": 2305,
+        "string": " "
+      },
+      {
+        "start": 2305,
+        "end": 2307,
+        "string": ","
+      },
+      {
+        "start": 2307,
+        "end": 2308,
+        "string": " "
+      },
+      {
+        "start": 2308,
+        "end": 2312,
+        "string": "and"
+      },
+      {
+        "start": 2312,
+        "end": 2313,
+        "string": " "
+      },
+      {
+        "start": 2313,
+        "end": 2324,
+        "string": "industrial"
+      },
+      {
+        "start": 2324,
+        "end": 2325,
+        "string": " "
+      },
+      {
+        "start": 2325,
+        "end": 2336,
+        "string": "strategies"
+      },
+      {
+        "start": 2336,
+        "end": 2337,
+        "string": " "
+      },
+      {
+        "start": 2337,
+        "end": 2339,
+        "string": "."
+      },
+      {
+        "start": 2339,
+        "end": 2340,
+        "string": " "
+      },
+      {
+        "start": 2340,
+        "end": 2346,
+        "string": "There"
+      },
+      {
+        "start": 2346,
+        "end": 2347,
+        "string": " "
+      },
+      {
+        "start": 2347,
+        "end": 2351,
+        "string": "are"
+      },
+      {
+        "start": 2351,
+        "end": 2352,
+        "string": " "
+      },
+      {
+        "start": 2352,
+        "end": 2355,
+        "string": "15"
+      },
+      {
+        "start": 2355,
+        "end": 2356,
+        "string": " "
+      },
+      {
+        "start": 2356,
+        "end": 2365,
+        "string": "Chapters"
+      },
+      {
+        "start": 2365,
+        "end": 2366,
+        "string": " "
+      },
+      {
+        "start": 2366,
+        "end": 2369,
+        "string": "to"
+      },
+      {
+        "start": 2369,
+        "end": 2370,
+        "string": " "
+      },
+      {
+        "start": 2370,
+        "end": 2378,
+        "string": "display"
+      },
+      {
+        "start": 2378,
+        "end": 2379,
+        "string": " "
+      },
+      {
+        "start": 2379,
+        "end": 2383,
+        "string": "the"
+      },
+      {
+        "start": 2383,
+        "end": 2384,
+        "string": " "
+      },
+      {
+        "start": 2384,
+        "end": 2391,
+        "string": "Global"
+      },
+      {
+        "start": 2391,
+        "end": 2392,
+        "string": " "
+      },
+      {
+        "start": 2392,
+        "end": 2399,
+        "string": "Hookah"
+      },
+      {
+        "start": 2399,
+        "end": 2400,
+        "string": " "
+      },
+      {
+        "start": 2400,
+        "end": 2402,
+        "string": "("
+      },
+      {
+        "start": 2402,
+        "end": 2403,
+        "string": " "
+      },
+      {
+        "start": 2403,
+        "end": 2410,
+        "string": "Shisha"
+      },
+      {
+        "start": 2410,
+        "end": 2411,
+        "string": " "
+      },
+      {
+        "start": 2411,
+        "end": 2413,
+        "string": ")"
+      },
+      {
+        "start": 2413,
+        "end": 2414,
+        "string": " "
+      },
+      {
+        "start": 2414,
+        "end": 2422,
+        "string": "Tobacco"
+      },
+      {
+        "start": 2422,
+        "end": 2423,
+        "string": " "
+      },
+      {
+        "start": 2423,
+        "end": 2430,
+        "string": "market"
+      },
+      {
+        "start": 2430,
+        "end": 2431,
+        "string": " "
+      },
+      {
+        "start": 2431,
+        "end": 2439,
+        "string": "Chapter"
+      },
+      {
+        "start": 2439,
+        "end": 2440,
+        "string": " "
+      },
+      {
+        "start": 2440,
+        "end": 2442,
+        "string": "1"
+      },
+      {
+        "start": 2442,
+        "end": 2443,
+        "string": " "
+      },
+      {
+        "start": 2443,
+        "end": 2445,
+        "string": ","
+      },
+      {
+        "start": 2445,
+        "end": 2446,
+        "string": " "
+      },
+      {
+        "start": 2446,
+        "end": 2457,
+        "string": "Definition"
+      },
+      {
+        "start": 2457,
+        "end": 2458,
+        "string": " "
+      },
+      {
+        "start": 2458,
+        "end": 2460,
+        "string": ","
+      },
+      {
+        "start": 2460,
+        "end": 2461,
+        "string": " "
+      },
+      {
+        "start": 2461,
+        "end": 2476,
+        "string": "Specifications"
+      },
+      {
+        "start": 2476,
+        "end": 2477,
+        "string": " "
+      },
+      {
+        "start": 2477,
+        "end": 2481,
+        "string": "and"
+      },
+      {
+        "start": 2481,
+        "end": 2482,
+        "string": " "
+      },
+      {
+        "start": 2482,
+        "end": 2497,
+        "string": "Classification"
+      },
+      {
+        "start": 2497,
+        "end": 2498,
+        "string": " "
+      },
+      {
+        "start": 2498,
+        "end": 2501,
+        "string": "of"
+      },
+      {
+        "start": 2501,
+        "end": 2502,
+        "string": " "
+      },
+      {
+        "start": 2502,
+        "end": 2509,
+        "string": "Hookah"
+      },
+      {
+        "start": 2509,
+        "end": 2510,
+        "string": " "
+      },
+      {
+        "start": 2510,
+        "end": 2512,
+        "string": "("
+      },
+      {
+        "start": 2512,
+        "end": 2513,
+        "string": " "
+      },
+      {
+        "start": 2513,
+        "end": 2520,
+        "string": "Shisha"
+      },
+      {
+        "start": 2520,
+        "end": 2521,
+        "string": " "
+      },
+      {
+        "start": 2521,
+        "end": 2523,
+        "string": ")"
+      },
+      {
+        "start": 2523,
+        "end": 2524,
+        "string": " "
+      },
+      {
+        "start": 2524,
+        "end": 2532,
+        "string": "Tobacco"
+      },
+      {
+        "start": 2532,
+        "end": 2533,
+        "string": " "
+      },
+      {
+        "start": 2533,
+        "end": 2535,
+        "string": ","
+      },
+      {
+        "start": 2535,
+        "end": 2536,
+        "string": " "
+      },
+      {
+        "start": 2536,
+        "end": 2549,
+        "string": "Applications"
+      },
+      {
+        "start": 2549,
+        "end": 2550,
+        "string": " "
+      },
+      {
+        "start": 2550,
+        "end": 2553,
+        "string": "of"
+      },
+      {
+        "start": 2553,
+        "end": 2554,
+        "string": " "
+      },
+      {
+        "start": 2554,
+        "end": 2561,
+        "string": "Hookah"
+      },
+      {
+        "start": 2561,
+        "end": 2562,
+        "string": " "
+      },
+      {
+        "start": 2562,
+        "end": 2564,
+        "string": "("
+      },
+      {
+        "start": 2564,
+        "end": 2565,
+        "string": " "
+      },
+      {
+        "start": 2565,
+        "end": 2572,
+        "string": "Shisha"
+      },
+      {
+        "start": 2572,
+        "end": 2573,
+        "string": " "
+      },
+      {
+        "start": 2573,
+        "end": 2575,
+        "string": ")"
+      },
+      {
+        "start": 2575,
+        "end": 2576,
+        "string": " "
+      },
+      {
+        "start": 2576,
+        "end": 2584,
+        "string": "Tobacco"
+      },
+      {
+        "start": 2584,
+        "end": 2585,
+        "string": " "
+      },
+      {
+        "start": 2585,
+        "end": 2587,
+        "string": ","
+      },
+      {
+        "start": 2587,
+        "end": 2588,
+        "string": " "
+      },
+      {
+        "start": 2588,
+        "end": 2595,
+        "string": "Market"
+      },
+      {
+        "start": 2595,
+        "end": 2596,
+        "string": " "
+      },
+      {
+        "start": 2596,
+        "end": 2604,
+        "string": "Segment"
+      },
+      {
+        "start": 2604,
+        "end": 2605,
+        "string": " "
+      },
+      {
+        "start": 2605,
+        "end": 2608,
+        "string": "by"
+      },
+      {
+        "start": 2608,
+        "end": 2609,
+        "string": " "
+      },
+      {
+        "start": 2609,
+        "end": 2617,
+        "string": "Regions"
+      },
+      {
+        "start": 2617,
+        "end": 2618,
+        "string": " "
+      },
+      {
+        "start": 2618,
+        "end": 2620,
+        "string": ";"
+      },
+      {
+        "start": 2620,
+        "end": 2621,
+        "string": " "
+      },
+      {
+        "start": 2621,
+        "end": 2629,
+        "string": "Chapter"
+      },
+      {
+        "start": 2629,
+        "end": 2630,
+        "string": " "
+      },
+      {
+        "start": 2630,
+        "end": 2632,
+        "string": "3"
+      },
+      {
+        "start": 2632,
+        "end": 2633,
+        "string": " "
+      },
+      {
+        "start": 2633,
+        "end": 2635,
+        "string": ","
+      },
+      {
+        "start": 2635,
+        "end": 2636,
+        "string": " "
+      },
+      {
+        "start": 2636,
+        "end": 2646,
+        "string": "Technical"
+      },
+      {
+        "start": 2646,
+        "end": 2647,
+        "string": " "
+      },
+      {
+        "start": 2647,
+        "end": 2652,
+        "string": "Data"
+      },
+      {
+        "start": 2652,
+        "end": 2653,
+        "string": " "
+      },
+      {
+        "start": 2653,
+        "end": 2657,
+        "string": "and"
+      },
+      {
+        "start": 2657,
+        "end": 2658,
+        "string": " "
+      },
+      {
+        "start": 2658,
+        "end": 2672,
+        "string": "Manufacturing"
+      },
+      {
+        "start": 2672,
+        "end": 2673,
+        "string": " "
+      },
+      {
+        "start": 2673,
+        "end": 2680,
+        "string": "Plants"
+      },
+      {
+        "start": 2680,
+        "end": 2681,
+        "string": " "
+      },
+      {
+        "start": 2681,
+        "end": 2690,
+        "string": "Analysis"
+      },
+      {
+        "start": 2690,
+        "end": 2691,
+        "string": " "
+      },
+      {
+        "start": 2691,
+        "end": 2694,
+        "string": "of"
+      },
+      {
+        "start": 2694,
+        "end": 2695,
+        "string": " "
+      },
+      {
+        "start": 2695,
+        "end": 2702,
+        "string": "Hookah"
+      },
+      {
+        "start": 2702,
+        "end": 2703,
+        "string": " "
+      },
+      {
+        "start": 2703,
+        "end": 2705,
+        "string": "("
+      },
+      {
+        "start": 2705,
+        "end": 2706,
+        "string": " "
+      },
+      {
+        "start": 2706,
+        "end": 2713,
+        "string": "Shisha"
+      },
+      {
+        "start": 2713,
+        "end": 2714,
+        "string": " "
+      },
+      {
+        "start": 2714,
+        "end": 2716,
+        "string": ")"
+      },
+      {
+        "start": 2716,
+        "end": 2717,
+        "string": " "
+      },
+      {
+        "start": 2717,
+        "end": 2725,
+        "string": "Tobacco"
+      },
+      {
+        "start": 2725,
+        "end": 2726,
+        "string": " "
+      },
+      {
+        "start": 2726,
+        "end": 2728,
+        "string": ","
+      },
+      {
+        "start": 2728,
+        "end": 2729,
+        "string": " "
+      },
+      {
+        "start": 2729,
+        "end": 2738,
+        "string": "Capacity"
+      },
+      {
+        "start": 2738,
+        "end": 2739,
+        "string": " "
+      },
+      {
+        "start": 2739,
+        "end": 2743,
+        "string": "and"
+      },
+      {
+        "start": 2743,
+        "end": 2744,
+        "string": " "
+      },
+      {
+        "start": 2744,
+        "end": 2755,
+        "string": "Commercial"
+      },
+      {
+        "start": 2755,
+        "end": 2756,
+        "string": " "
+      },
+      {
+        "start": 2756,
+        "end": 2767,
+        "string": "Production"
+      },
+      {
+        "start": 2767,
+        "end": 2768,
+        "string": " "
+      },
+      {
+        "start": 2768,
+        "end": 2773,
+        "string": "Date"
+      },
+      {
+        "start": 2773,
+        "end": 2774,
+        "string": " "
+      },
+      {
+        "start": 2774,
+        "end": 2776,
+        "string": ","
+      },
+      {
+        "start": 2776,
+        "end": 2777,
+        "string": " "
+      },
+      {
+        "start": 2777,
+        "end": 2791,
+        "string": "Manufacturing"
+      },
+      {
+        "start": 2791,
+        "end": 2792,
+        "string": " "
+      },
+      {
+        "start": 2792,
+        "end": 2799,
+        "string": "Plants"
+      },
+      {
+        "start": 2799,
+        "end": 2800,
+        "string": " "
+      },
+      {
+        "start": 2800,
+        "end": 2813,
+        "string": "Distribution"
+      },
+      {
+        "start": 2813,
+        "end": 2814,
+        "string": " "
+      },
+      {
+        "start": 2814,
+        "end": 2816,
+        "string": ","
+      },
+      {
+        "start": 2816,
+        "end": 2817,
+        "string": " "
+      },
+      {
+        "start": 2817,
+        "end": 2821,
+        "string": "R&D"
+      },
+      {
+        "start": 2821,
+        "end": 2822,
+        "string": " "
+      },
+      {
+        "start": 2822,
+        "end": 2829,
+        "string": "Status"
+      },
+      {
+        "start": 2829,
+        "end": 2830,
+        "string": " "
+      },
+      {
+        "start": 2830,
+        "end": 2834,
+        "string": "and"
+      },
+      {
+        "start": 2834,
+        "end": 2835,
+        "string": " "
+      },
+      {
+        "start": 2835,
+        "end": 2846,
+        "string": "Technology"
+      },
+      {
+        "start": 2846,
+        "end": 2847,
+        "string": " "
+      },
+      {
+        "start": 2847,
+        "end": 2854,
+        "string": "Source"
+      },
+      {
+        "start": 2854,
+        "end": 2855,
+        "string": " "
+      },
+      {
+        "start": 2855,
+        "end": 2857,
+        "string": ","
+      },
+      {
+        "start": 2857,
+        "end": 2858,
+        "string": " "
+      },
+      {
+        "start": 2858,
+        "end": 2862,
+        "string": "Raw"
+      },
+      {
+        "start": 2862,
+        "end": 2863,
+        "string": " "
+      },
+      {
+        "start": 2863,
+        "end": 2873,
+        "string": "Materials"
+      },
+      {
+        "start": 2873,
+        "end": 2874,
+        "string": " "
+      },
+      {
+        "start": 2874,
+        "end": 2882,
+        "string": "Sources"
+      },
+      {
+        "start": 2882,
+        "end": 2883,
+        "string": " "
+      },
+      {
+        "start": 2883,
+        "end": 2892,
+        "string": "Analysis"
+      },
+      {
+        "start": 2892,
+        "end": 2893,
+        "string": " "
+      },
+      {
+        "start": 2893,
+        "end": 2895,
+        "string": ";"
+      },
+      {
+        "start": 2895,
+        "end": 2896,
+        "string": " "
+      },
+      {
+        "start": 2896,
+        "end": 2904,
+        "string": "Chapter"
+      },
+      {
+        "start": 2904,
+        "end": 2905,
+        "string": " "
+      },
+      {
+        "start": 2905,
+        "end": 2907,
+        "string": "5"
+      },
+      {
+        "start": 2907,
+        "end": 2908,
+        "string": " "
+      },
+      {
+        "start": 2908,
+        "end": 2912,
+        "string": "and"
+      },
+      {
+        "start": 2912,
+        "end": 2913,
+        "string": " "
+      },
+      {
+        "start": 2913,
+        "end": 2915,
+        "string": "6"
+      },
+      {
+        "start": 2915,
+        "end": 2916,
+        "string": " "
+      },
+      {
+        "start": 2916,
+        "end": 2918,
+        "string": ","
+      },
+      {
+        "start": 2918,
+        "end": 2919,
+        "string": " "
+      },
+      {
+        "start": 2919,
+        "end": 2928,
+        "string": "Regional"
+      },
+      {
+        "start": 2928,
+        "end": 2929,
+        "string": " "
+      },
+      {
+        "start": 2929,
+        "end": 2936,
+        "string": "Market"
+      },
+      {
+        "start": 2936,
+        "end": 2937,
+        "string": " "
+      },
+      {
+        "start": 2937,
+        "end": 2946,
+        "string": "Analysis"
+      },
+      {
+        "start": 2946,
+        "end": 2947,
+        "string": " "
+      },
+      {
+        "start": 2947,
+        "end": 2952,
+        "string": "that"
+      },
+      {
+        "start": 2952,
+        "end": 2953,
+        "string": " "
+      },
+      {
+        "start": 2953,
+        "end": 2962,
+        "string": "includes"
+      },
+      {
+        "start": 2962,
+        "end": 2963,
+        "string": " "
+      },
+      {
+        "start": 2963,
+        "end": 2970,
+        "string": "United"
+      },
+      {
+        "start": 2970,
+        "end": 2971,
+        "string": " "
+      },
+      {
+        "start": 2971,
+        "end": 2978,
+        "string": "States"
+      },
+      {
+        "start": 2978,
+        "end": 2979,
+        "string": " "
+      },
+      {
+        "start": 2979,
+        "end": 2981,
+        "string": ","
+      },
+      {
+        "start": 2981,
+        "end": 2982,
+        "string": " "
+      },
+      {
+        "start": 2982,
+        "end": 2988,
+        "string": "China"
+      },
+      {
+        "start": 2988,
+        "end": 2989,
+        "string": " "
+      },
+      {
+        "start": 2989,
+        "end": 2991,
+        "string": ","
+      },
+      {
+        "start": 2991,
+        "end": 2992,
+        "string": " "
+      },
+      {
+        "start": 2992,
+        "end": 2999,
+        "string": "Europe"
+      },
+      {
+        "start": 2999,
+        "end": 3000,
+        "string": " "
+      },
+      {
+        "start": 3000,
+        "end": 3002,
+        "string": ","
+      },
+      {
+        "start": 3002,
+        "end": 3003,
+        "string": " "
+      },
+      {
+        "start": 3003,
+        "end": 3009,
+        "string": "Japan"
+      },
+      {
+        "start": 3009,
+        "end": 3010,
+        "string": " "
+      },
+      {
+        "start": 3010,
+        "end": 3012,
+        "string": ","
+      },
+      {
+        "start": 3012,
+        "end": 3013,
+        "string": " "
+      },
+      {
+        "start": 3013,
+        "end": 3019,
+        "string": "Korea"
+      },
+      {
+        "start": 3019,
+        "end": 3020,
+        "string": " "
+      },
+      {
+        "start": 3020,
+        "end": 3022,
+        "string": "&"
+      },
+      {
+        "start": 3022,
+        "end": 3023,
+        "string": " "
+      },
+      {
+        "start": 3023,
+        "end": 3030,
+        "string": "Taiwan"
+      },
+      {
+        "start": 3030,
+        "end": 3031,
+        "string": " "
+      },
+      {
+        "start": 3031,
+        "end": 3033,
+        "string": ","
+      },
+      {
+        "start": 3033,
+        "end": 3034,
+        "string": " "
+      },
+      {
+        "start": 3034,
+        "end": 3041,
+        "string": "Hookah"
+      },
+      {
+        "start": 3041,
+        "end": 3042,
+        "string": " "
+      },
+      {
+        "start": 3042,
+        "end": 3044,
+        "string": "("
+      },
+      {
+        "start": 3044,
+        "end": 3045,
+        "string": " "
+      },
+      {
+        "start": 3045,
+        "end": 3052,
+        "string": "Shisha"
+      },
+      {
+        "start": 3052,
+        "end": 3053,
+        "string": " "
+      },
+      {
+        "start": 3053,
+        "end": 3055,
+        "string": ")"
+      },
+      {
+        "start": 3055,
+        "end": 3056,
+        "string": " "
+      },
+      {
+        "start": 3056,
+        "end": 3064,
+        "string": "Tobacco"
+      },
+      {
+        "start": 3064,
+        "end": 3065,
+        "string": " "
+      },
+      {
+        "start": 3065,
+        "end": 3073,
+        "string": "Segment"
+      },
+      {
+        "start": 3073,
+        "end": 3074,
+        "string": " "
+      },
+      {
+        "start": 3074,
+        "end": 3081,
+        "string": "Market"
+      },
+      {
+        "start": 3081,
+        "end": 3082,
+        "string": " "
+      },
+      {
+        "start": 3082,
+        "end": 3091,
+        "string": "Analysis"
+      },
+      {
+        "start": 3091,
+        "end": 3092,
+        "string": " "
+      },
+      {
+        "start": 3092,
+        "end": 3094,
+        "string": "("
+      },
+      {
+        "start": 3094,
+        "end": 3095,
+        "string": " "
+      },
+      {
+        "start": 3095,
+        "end": 3098,
+        "string": "by"
+      },
+      {
+        "start": 3098,
+        "end": 3099,
+        "string": " "
+      },
+      {
+        "start": 3099,
+        "end": 3104,
+        "string": "Type"
+      },
+      {
+        "start": 3104,
+        "end": 3105,
+        "string": " "
+      },
+      {
+        "start": 3105,
+        "end": 3107,
+        "string": ")"
+      },
+      {
+        "start": 3107,
+        "end": 3108,
+        "string": " "
+      },
+      {
+        "start": 3108,
+        "end": 3110,
+        "string": ";"
+      },
+      {
+        "start": 3110,
+        "end": 3111,
+        "string": " "
+      },
+      {
+        "start": 3111,
+        "end": 3119,
+        "string": "Chapter"
+      },
+      {
+        "start": 3119,
+        "end": 3120,
+        "string": " "
+      },
+      {
+        "start": 3120,
+        "end": 3122,
+        "string": "7"
+      },
+      {
+        "start": 3122,
+        "end": 3123,
+        "string": " "
+      },
+      {
+        "start": 3123,
+        "end": 3127,
+        "string": "and"
+      },
+      {
+        "start": 3127,
+        "end": 3128,
+        "string": " "
+      },
+      {
+        "start": 3128,
+        "end": 3130,
+        "string": "8"
+      },
+      {
+        "start": 3130,
+        "end": 3131,
+        "string": " "
+      },
+      {
+        "start": 3131,
+        "end": 3133,
+        "string": ","
+      },
+      {
+        "start": 3133,
+        "end": 3134,
+        "string": " "
+      },
+      {
+        "start": 3134,
+        "end": 3138,
+        "string": "The"
+      },
+      {
+        "start": 3138,
+        "end": 3139,
+        "string": " "
+      },
+      {
+        "start": 3139,
+        "end": 3146,
+        "string": "Hookah"
+      },
+      {
+        "start": 3146,
+        "end": 3147,
+        "string": " "
+      },
+      {
+        "start": 3147,
+        "end": 3149,
+        "string": "("
+      },
+      {
+        "start": 3149,
+        "end": 3150,
+        "string": " "
+      },
+      {
+        "start": 3150,
+        "end": 3157,
+        "string": "Shisha"
+      },
+      {
+        "start": 3157,
+        "end": 3158,
+        "string": " "
+      },
+      {
+        "start": 3158,
+        "end": 3160,
+        "string": ")"
+      },
+      {
+        "start": 3160,
+        "end": 3161,
+        "string": " "
+      },
+      {
+        "start": 3161,
+        "end": 3169,
+        "string": "Tobacco"
+      },
+      {
+        "start": 3169,
+        "end": 3170,
+        "string": " "
+      },
+      {
+        "start": 3170,
+        "end": 3178,
+        "string": "Segment"
+      },
+      {
+        "start": 3178,
+        "end": 3179,
+        "string": " "
+      },
+      {
+        "start": 3179,
+        "end": 3186,
+        "string": "Market"
+      },
+      {
+        "start": 3186,
+        "end": 3187,
+        "string": " "
+      },
+      {
+        "start": 3187,
+        "end": 3196,
+        "string": "Analysis"
+      },
+      {
+        "start": 3196,
+        "end": 3197,
+        "string": " "
+      },
+      {
+        "start": 3197,
+        "end": 3199,
+        "string": "("
+      },
+      {
+        "start": 3199,
+        "end": 3200,
+        "string": " "
+      },
+      {
+        "start": 3200,
+        "end": 3203,
+        "string": "by"
+      },
+      {
+        "start": 3203,
+        "end": 3204,
+        "string": " "
+      },
+      {
+        "start": 3204,
+        "end": 3216,
+        "string": "Application"
+      },
+      {
+        "start": 3216,
+        "end": 3217,
+        "string": " "
+      },
+      {
+        "start": 3217,
+        "end": 3219,
+        "string": ")"
+      },
+      {
+        "start": 3219,
+        "end": 3220,
+        "string": " "
+      },
+      {
+        "start": 3220,
+        "end": 3226,
+        "string": "Major"
+      },
+      {
+        "start": 3226,
+        "end": 3227,
+        "string": " "
+      },
+      {
+        "start": 3227,
+        "end": 3241,
+        "string": "Manufacturers"
+      },
+      {
+        "start": 3241,
+        "end": 3242,
+        "string": " "
+      },
+      {
+        "start": 3242,
+        "end": 3251,
+        "string": "Analysis"
+      },
+      {
+        "start": 3251,
+        "end": 3252,
+        "string": " "
+      },
+      {
+        "start": 3252,
+        "end": 3255,
+        "string": "of"
+      },
+      {
+        "start": 3255,
+        "end": 3256,
+        "string": " "
+      },
+      {
+        "start": 3256,
+        "end": 3263,
+        "string": "Hookah"
+      },
+      {
+        "start": 3263,
+        "end": 3264,
+        "string": " "
+      },
+      {
+        "start": 3264,
+        "end": 3266,
+        "string": "("
+      },
+      {
+        "start": 3266,
+        "end": 3267,
+        "string": " "
+      },
+      {
+        "start": 3267,
+        "end": 3274,
+        "string": "Shisha"
+      },
+      {
+        "start": 3274,
+        "end": 3275,
+        "string": " "
+      },
+      {
+        "start": 3275,
+        "end": 3277,
+        "string": ")"
+      },
+      {
+        "start": 3277,
+        "end": 3278,
+        "string": " "
+      },
+      {
+        "start": 3278,
+        "end": 3286,
+        "string": "Tobacco"
+      },
+      {
+        "start": 3286,
+        "end": 3287,
+        "string": " "
+      },
+      {
+        "start": 3287,
+        "end": 3289,
+        "string": ";"
+      },
+      {
+        "start": 3289,
+        "end": 3290,
+        "string": " "
+      },
+      {
+        "start": 3290,
+        "end": 3298,
+        "string": "Chapter"
+      },
+      {
+        "start": 3298,
+        "end": 3299,
+        "string": " "
+      },
+      {
+        "start": 3299,
+        "end": 3301,
+        "string": "9"
+      },
+      {
+        "start": 3301,
+        "end": 3302,
+        "string": " "
+      },
+      {
+        "start": 3302,
+        "end": 3304,
+        "string": ","
+      },
+      {
+        "start": 3304,
+        "end": 3305,
+        "string": " "
+      },
+      {
+        "start": 3305,
+        "end": 3312,
+        "string": "Market"
+      },
+      {
+        "start": 3312,
+        "end": 3313,
+        "string": " "
+      },
+      {
+        "start": 3313,
+        "end": 3319,
+        "string": "Trend"
+      },
+      {
+        "start": 3319,
+        "end": 3320,
+        "string": " "
+      },
+      {
+        "start": 3320,
+        "end": 3329,
+        "string": "Analysis"
+      },
+      {
+        "start": 3329,
+        "end": 3330,
+        "string": " "
+      },
+      {
+        "start": 3330,
+        "end": 3332,
+        "string": ","
+      },
+      {
+        "start": 3332,
+        "end": 3333,
+        "string": " "
+      },
+      {
+        "start": 3333,
+        "end": 3342,
+        "string": "Regional"
+      },
+      {
+        "start": 3342,
+        "end": 3343,
+        "string": " "
+      },
+      {
+        "start": 3343,
+        "end": 3350,
+        "string": "Market"
+      },
+      {
+        "start": 3350,
+        "end": 3351,
+        "string": " "
+      },
+      {
+        "start": 3351,
+        "end": 3357,
+        "string": "Trend"
+      },
+      {
+        "start": 3357,
+        "end": 3358,
+        "string": " "
+      },
+      {
+        "start": 3358,
+        "end": 3360,
+        "string": ","
+      },
+      {
+        "start": 3360,
+        "end": 3361,
+        "string": " "
+      },
+      {
+        "start": 3361,
+        "end": 3368,
+        "string": "Market"
+      },
+      {
+        "start": 3368,
+        "end": 3369,
+        "string": " "
+      },
+      {
+        "start": 3369,
+        "end": 3375,
+        "string": "Trend"
+      },
+      {
+        "start": 3375,
+        "end": 3376,
+        "string": " "
+      },
+      {
+        "start": 3376,
+        "end": 3379,
+        "string": "by"
+      },
+      {
+        "start": 3379,
+        "end": 3380,
+        "string": " "
+      },
+      {
+        "start": 3380,
+        "end": 3388,
+        "string": "Product"
+      },
+      {
+        "start": 3388,
+        "end": 3389,
+        "string": " "
+      },
+      {
+        "start": 3389,
+        "end": 3394,
+        "string": "Type"
+      },
+      {
+        "start": 3394,
+        "end": 3395,
+        "string": " "
+      },
+      {
+        "start": 3395,
+        "end": 3402,
+        "string": "Single"
+      },
+      {
+        "start": 3402,
+        "end": 3403,
+        "string": " "
+      },
+      {
+        "start": 3403,
+        "end": 3410,
+        "string": "Flavor"
+      },
+      {
+        "start": 3410,
+        "end": 3411,
+        "string": " "
+      },
+      {
+        "start": 3411,
+        "end": 3413,
+        "string": ","
+      },
+      {
+        "start": 3413,
+        "end": 3414,
+        "string": " "
+      },
+      {
+        "start": 3414,
+        "end": 3420,
+        "string": "Mixed"
+      },
+      {
+        "start": 3420,
+        "end": 3421,
+        "string": " "
+      },
+      {
+        "start": 3421,
+        "end": 3428,
+        "string": "Flavor"
+      },
+      {
+        "start": 3428,
+        "end": 3429,
+        "string": " "
+      },
+      {
+        "start": 3429,
+        "end": 3431,
+        "string": ","
+      },
+      {
+        "start": 3431,
+        "end": 3432,
+        "string": " "
+      },
+      {
+        "start": 3432,
+        "end": 3439,
+        "string": "Market"
+      },
+      {
+        "start": 3439,
+        "end": 3440,
+        "string": " "
+      },
+      {
+        "start": 3440,
+        "end": 3446,
+        "string": "Trend"
+      },
+      {
+        "start": 3446,
+        "end": 3447,
+        "string": " "
+      },
+      {
+        "start": 3447,
+        "end": 3450,
+        "string": "by"
+      },
+      {
+        "start": 3450,
+        "end": 3451,
+        "string": " "
+      },
+      {
+        "start": 3451,
+        "end": 3463,
+        "string": "Application"
+      },
+      {
+        "start": 3463,
+        "end": 3464,
+        "string": " "
+      },
+      {
+        "start": 3464,
+        "end": 3470,
+        "string": "Group"
+      },
+      {
+        "start": 3470,
+        "end": 3471,
+        "string": " "
+      },
+      {
+        "start": 3471,
+        "end": 3475,
+        "string": "Use"
+      },
+      {
+        "start": 3475,
+        "end": 3476,
+        "string": " "
+      },
+      {
+        "start": 3476,
+        "end": 3478,
+        "string": ","
+      },
+      {
+        "start": 3478,
+        "end": 3479,
+        "string": " "
+      },
+      {
+        "start": 3479,
+        "end": 3488,
+        "string": "Personal"
+      },
+      {
+        "start": 3488,
+        "end": 3489,
+        "string": " "
+      },
+      {
+        "start": 3489,
+        "end": 3493,
+        "string": "Use"
+      },
+      {
+        "start": 3493,
+        "end": 3494,
+        "string": " "
+      },
+      {
+        "start": 3494,
+        "end": 3496,
+        "string": ";"
+      },
+      {
+        "start": 3496,
+        "end": 3497,
+        "string": " "
+      },
+      {
+        "start": 3497,
+        "end": 3505,
+        "string": "Chapter"
+      },
+      {
+        "start": 3505,
+        "end": 3506,
+        "string": " "
+      },
+      {
+        "start": 3506,
+        "end": 3509,
+        "string": "11"
+      },
+      {
+        "start": 3509,
+        "end": 3510,
+        "string": " "
+      },
+      {
+        "start": 3510,
+        "end": 3512,
+        "string": ","
+      },
+      {
+        "start": 3512,
+        "end": 3513,
+        "string": " "
+      },
+      {
+        "start": 3513,
+        "end": 3517,
+        "string": "The"
+      },
+      {
+        "start": 3517,
+        "end": 3518,
+        "string": " "
+      },
+      {
+        "start": 3518,
+        "end": 3528,
+        "string": "Consumers"
+      },
+      {
+        "start": 3528,
+        "end": 3529,
+        "string": " "
+      },
+      {
+        "start": 3529,
+        "end": 3538,
+        "string": "Analysis"
+      },
+      {
+        "start": 3538,
+        "end": 3539,
+        "string": " "
+      },
+      {
+        "start": 3539,
+        "end": 3542,
+        "string": "of"
+      },
+      {
+        "start": 3542,
+        "end": 3543,
+        "string": " "
+      },
+      {
+        "start": 3543,
+        "end": 3550,
+        "string": "Global"
+      },
+      {
+        "start": 3550,
+        "end": 3551,
+        "string": " "
+      },
+      {
+        "start": 3551,
+        "end": 3558,
+        "string": "Hookah"
+      },
+      {
+        "start": 3558,
+        "end": 3559,
+        "string": " "
+      },
+      {
+        "start": 3559,
+        "end": 3561,
+        "string": "("
+      },
+      {
+        "start": 3561,
+        "end": 3562,
+        "string": " "
+      },
+      {
+        "start": 3562,
+        "end": 3569,
+        "string": "Shisha"
+      },
+      {
+        "start": 3569,
+        "end": 3570,
+        "string": " "
+      },
+      {
+        "start": 3570,
+        "end": 3572,
+        "string": ")"
+      },
+      {
+        "start": 3572,
+        "end": 3573,
+        "string": " "
+      },
+      {
+        "start": 3573,
+        "end": 3581,
+        "string": "Tobacco"
+      },
+      {
+        "start": 3581,
+        "end": 3582,
+        "string": " "
+      },
+      {
+        "start": 3582,
+        "end": 3584,
+        "string": ";"
+      },
+      {
+        "start": 3584,
+        "end": 3585,
+        "string": " "
+      },
+      {
+        "start": 3585,
+        "end": 3593,
+        "string": "Chapter"
+      },
+      {
+        "start": 3593,
+        "end": 3594,
+        "string": " "
+      },
+      {
+        "start": 3594,
+        "end": 3597,
+        "string": "12"
+      },
+      {
+        "start": 3597,
+        "end": 3598,
+        "string": " "
+      },
+      {
+        "start": 3598,
+        "end": 3600,
+        "string": ","
+      },
+      {
+        "start": 3600,
+        "end": 3601,
+        "string": " "
+      },
+      {
+        "start": 3601,
+        "end": 3608,
+        "string": "Hookah"
+      },
+      {
+        "start": 3608,
+        "end": 3609,
+        "string": " "
+      },
+      {
+        "start": 3609,
+        "end": 3611,
+        "string": "("
+      },
+      {
+        "start": 3611,
+        "end": 3612,
+        "string": " "
+      },
+      {
+        "start": 3612,
+        "end": 3619,
+        "string": "Shisha"
+      },
+      {
+        "start": 3619,
+        "end": 3620,
+        "string": " "
+      },
+      {
+        "start": 3620,
+        "end": 3622,
+        "string": ")"
+      },
+      {
+        "start": 3622,
+        "end": 3623,
+        "string": " "
+      },
+      {
+        "start": 3623,
+        "end": 3631,
+        "string": "Tobacco"
+      },
+      {
+        "start": 3631,
+        "end": 3632,
+        "string": " "
+      },
+      {
+        "start": 3632,
+        "end": 3641,
+        "string": "Research"
+      },
+      {
+        "start": 3641,
+        "end": 3642,
+        "string": " "
+      },
+      {
+        "start": 3642,
+        "end": 3651,
+        "string": "Findings"
+      },
+      {
+        "start": 3651,
+        "end": 3652,
+        "string": " "
+      },
+      {
+        "start": 3652,
+        "end": 3656,
+        "string": "and"
+      },
+      {
+        "start": 3656,
+        "end": 3657,
+        "string": " "
+      },
+      {
+        "start": 3657,
+        "end": 3668,
+        "string": "Conclusion"
+      },
+      {
+        "start": 3668,
+        "end": 3669,
+        "string": " "
+      },
+      {
+        "start": 3669,
+        "end": 3671,
+        "string": ","
+      },
+      {
+        "start": 3671,
+        "end": 3672,
+        "string": " "
+      },
+      {
+        "start": 3672,
+        "end": 3681,
+        "string": "Appendix"
+      },
+      {
+        "start": 3681,
+        "end": 3682,
+        "string": " "
+      },
+      {
+        "start": 3682,
+        "end": 3684,
+        "string": ","
+      },
+      {
+        "start": 3684,
+        "end": 3685,
+        "string": " "
+      },
+      {
+        "start": 3685,
+        "end": 3697,
+        "string": "methodology"
+      },
+      {
+        "start": 3697,
+        "end": 3698,
+        "string": " "
+      },
+      {
+        "start": 3698,
+        "end": 3702,
+        "string": "and"
+      },
+      {
+        "start": 3702,
+        "end": 3703,
+        "string": " "
+      },
+      {
+        "start": 3703,
+        "end": 3708,
+        "string": "data"
+      },
+      {
+        "start": 3708,
+        "end": 3709,
+        "string": " "
+      },
+      {
+        "start": 3709,
+        "end": 3716,
+        "string": "source"
+      },
+      {
+        "start": 3716,
+        "end": 3717,
+        "string": " "
+      },
+      {
+        "start": 3717,
+        "end": 3719,
+        "string": ";"
+      },
+      {
+        "start": 3719,
+        "end": 3720,
+        "string": " "
+      },
+      {
+        "start": 3720,
+        "end": 3728,
+        "string": "Chapter"
+      },
+      {
+        "start": 3728,
+        "end": 3729,
+        "string": " "
+      },
+      {
+        "start": 3729,
+        "end": 3732,
+        "string": "13"
+      },
+      {
+        "start": 3732,
+        "end": 3733,
+        "string": " "
+      },
+      {
+        "start": 3733,
+        "end": 3735,
+        "string": ","
+      },
+      {
+        "start": 3735,
+        "end": 3736,
+        "string": " "
+      },
+      {
+        "start": 3736,
+        "end": 3739,
+        "string": "14"
+      },
+      {
+        "start": 3739,
+        "end": 3740,
+        "string": " "
+      },
+      {
+        "start": 3740,
+        "end": 3744,
+        "string": "and"
+      },
+      {
+        "start": 3744,
+        "end": 3745,
+        "string": " "
+      },
+      {
+        "start": 3745,
+        "end": 3748,
+        "string": "15"
+      },
+      {
+        "start": 3748,
+        "end": 3749,
+        "string": " "
+      },
+      {
+        "start": 3749,
+        "end": 3751,
+        "string": ","
+      },
+      {
+        "start": 3751,
+        "end": 3752,
+        "string": " "
+      },
+      {
+        "start": 3752,
+        "end": 3759,
+        "string": "Hookah"
+      },
+      {
+        "start": 3759,
+        "end": 3760,
+        "string": " "
+      },
+      {
+        "start": 3760,
+        "end": 3762,
+        "string": "("
+      },
+      {
+        "start": 3762,
+        "end": 3763,
+        "string": " "
+      },
+      {
+        "start": 3763,
+        "end": 3770,
+        "string": "Shisha"
+      },
+      {
+        "start": 3770,
+        "end": 3771,
+        "string": " "
+      },
+      {
+        "start": 3771,
+        "end": 3773,
+        "string": ")"
+      },
+      {
+        "start": 3773,
+        "end": 3774,
+        "string": " "
+      },
+      {
+        "start": 3774,
+        "end": 3782,
+        "string": "Tobacco"
+      },
+      {
+        "start": 3782,
+        "end": 3783,
+        "string": " "
+      },
+      {
+        "start": 3783,
+        "end": 3789,
+        "string": "sales"
+      },
+      {
+        "start": 3789,
+        "end": 3790,
+        "string": " "
+      },
+      {
+        "start": 3790,
+        "end": 3798,
+        "string": "channel"
+      },
+      {
+        "start": 3798,
+        "end": 3799,
+        "string": " "
+      },
+      {
+        "start": 3799,
+        "end": 3801,
+        "string": ","
+      },
+      {
+        "start": 3801,
+        "end": 3802,
+        "string": " "
+      },
+      {
+        "start": 3802,
+        "end": 3815,
+        "string": "distributors"
+      },
+      {
+        "start": 3815,
+        "end": 3816,
+        "string": " "
+      },
+      {
+        "start": 3816,
+        "end": 3818,
+        "string": ","
+      },
+      {
+        "start": 3818,
+        "end": 3819,
+        "string": " "
+      },
+      {
+        "start": 3819,
+        "end": 3827,
+        "string": "traders"
+      },
+      {
+        "start": 3827,
+        "end": 3828,
+        "string": " "
+      },
+      {
+        "start": 3828,
+        "end": 3830,
+        "string": ","
+      },
+      {
+        "start": 3830,
+        "end": 3831,
+        "string": " "
+      },
+      {
+        "start": 3831,
+        "end": 3839,
+        "string": "dealers"
+      },
+      {
+        "start": 3839,
+        "end": 3840,
+        "string": " "
+      },
+      {
+        "start": 3840,
+        "end": 3842,
+        "string": ","
+      },
+      {
+        "start": 3842,
+        "end": 3843,
+        "string": " "
+      },
+      {
+        "start": 3843,
+        "end": 3852,
+        "string": "Research"
+      },
+      {
+        "start": 3852,
+        "end": 3853,
+        "string": " "
+      },
+      {
+        "start": 3853,
+        "end": 3862,
+        "string": "Findings"
+      },
+      {
+        "start": 3862,
+        "end": 3863,
+        "string": " "
+      },
+      {
+        "start": 3863,
+        "end": 3867,
+        "string": "and"
+      },
+      {
+        "start": 3867,
+        "end": 3868,
+        "string": " "
+      },
+      {
+        "start": 3868,
+        "end": 3879,
+        "string": "Conclusion"
+      },
+      {
+        "start": 3879,
+        "end": 3880,
+        "string": " "
+      },
+      {
+        "start": 3880,
+        "end": 3882,
+        "string": ","
+      },
+      {
+        "start": 3882,
+        "end": 3883,
+        "string": " "
+      },
+      {
+        "start": 3883,
+        "end": 3892,
+        "string": "appendix"
+      },
+      {
+        "start": 3892,
+        "end": 3893,
+        "string": " "
+      },
+      {
+        "start": 3893,
+        "end": 3897,
+        "string": "and"
+      },
+      {
+        "start": 3897,
+        "end": 3898,
+        "string": " "
+      },
+      {
+        "start": 3898,
+        "end": 3903,
+        "string": "data"
+      },
+      {
+        "start": 3903,
+        "end": 3904,
+        "string": " "
+      },
+      {
+        "start": 3904,
+        "end": 3911,
+        "string": "source"
+      },
+      {
+        "start": 3911,
+        "end": 3912,
+        "string": " "
+      },
+      {
+        "start": 3912,
+        "end": 3914,
+        "string": "."
+      },
+      {
+        "start": 3914,
+        "end": 3915,
+        "string": " "
+      },
+      {
+        "start": 3915,
+        "end": 3923,
+        "string": "Enquire"
+      },
+      {
+        "start": 3923,
+        "end": 3924,
+        "string": " "
+      },
+      {
+        "start": 3924,
+        "end": 3929,
+        "string": "Here"
+      },
+      {
+        "start": 3929,
+        "end": 3930,
+        "string": " "
+      },
+      {
+        "start": 3930,
+        "end": 3934,
+        "string": "Get"
+      },
+      {
+        "start": 3934,
+        "end": 3935,
+        "string": " "
+      },
+      {
+        "start": 3935,
+        "end": 3949,
+        "string": "customization"
+      },
+      {
+        "start": 3949,
+        "end": 3950,
+        "string": " "
+      },
+      {
+        "start": 3950,
+        "end": 3952,
+        "string": "&"
+      },
+      {
+        "start": 3952,
+        "end": 3953,
+        "string": " "
+      },
+      {
+        "start": 3953,
+        "end": 3959,
+        "string": "check"
+      },
+      {
+        "start": 3959,
+        "end": 3960,
+        "string": " "
+      },
+      {
+        "start": 3960,
+        "end": 3969,
+        "string": "discount"
+      },
+      {
+        "start": 3969,
+        "end": 3970,
+        "string": " "
+      },
+      {
+        "start": 3970,
+        "end": 3974,
+        "string": "for"
+      },
+      {
+        "start": 3974,
+        "end": 3975,
+        "string": " "
+      },
+      {
+        "start": 3975,
+        "end": 3982,
+        "string": "report"
+      },
+      {
+        "start": 3982,
+        "end": 3983,
+        "string": " "
+      },
+      {
+        "start": 3983,
+        "end": 3985,
+        "string": "@"
+      },
+      {
+        "start": 3985,
+        "end": 3986,
+        "string": " "
+      },
+      {
+        "start": 3986,
+        "end": 3988,
+        "string": ":"
+      },
+      {
+        "start": 3988,
+        "end": 3989,
+        "string": " "
+      },
+      {
+        "start": 3989,
+        "end": 4044,
+        "string": "www.99strategy.biz/inquiry-for-buying.html?repid=38100"
+      },
+      {
+        "start": 4044,
+        "end": 4045,
+        "string": " "
+      },
+      {
+        "start": 4045,
+        "end": 4053,
+        "string": "Reasons"
+      },
+      {
+        "start": 4053,
+        "end": 4054,
+        "string": " "
+      },
+      {
+        "start": 4054,
+        "end": 4058,
+        "string": "for"
+      },
+      {
+        "start": 4058,
+        "end": 4059,
+        "string": " "
+      },
+      {
+        "start": 4059,
+        "end": 4066,
+        "string": "Buying"
+      },
+      {
+        "start": 4066,
+        "end": 4067,
+        "string": " "
+      },
+      {
+        "start": 4067,
+        "end": 4074,
+        "string": "Hookah"
+      },
+      {
+        "start": 4074,
+        "end": 4075,
+        "string": " "
+      },
+      {
+        "start": 4075,
+        "end": 4077,
+        "string": "("
+      },
+      {
+        "start": 4077,
+        "end": 4078,
+        "string": " "
+      },
+      {
+        "start": 4078,
+        "end": 4085,
+        "string": "Shisha"
+      },
+      {
+        "start": 4085,
+        "end": 4086,
+        "string": " "
+      },
+      {
+        "start": 4086,
+        "end": 4088,
+        "string": ")"
+      },
+      {
+        "start": 4088,
+        "end": 4089,
+        "string": " "
+      },
+      {
+        "start": 4089,
+        "end": 4097,
+        "string": "Tobacco"
+      },
+      {
+        "start": 4097,
+        "end": 4098,
+        "string": " "
+      },
+      {
+        "start": 4098,
+        "end": 4105,
+        "string": "market"
+      },
+      {
+        "start": 4105,
+        "end": 4106,
+        "string": " "
+      }
+    ]
+  }
+}

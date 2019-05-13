@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "fdf965b308904b8789fb1b09edd2573a.doc",
+  "metadata": {
+    "title": "Man's leaves his hot dinner outside in sub-zero Canada",
+    "sourceUrl": "https://www.dailymail.co.uk/news/article-6760825/Mans-noodles-freeze-Canada.html",
+    "documentSource": "dailymail.co.uk",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

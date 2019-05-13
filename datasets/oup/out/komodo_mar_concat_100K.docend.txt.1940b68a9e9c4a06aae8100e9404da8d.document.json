@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "1940b68a9e9c4a06aae8100e9404da8d.doc",
+  "metadata": {
+    "title": "Spot freight volumes continue to build",
+    "sourceUrl": "https://www.fleetowner.com/economics/spot-freight-volumes-continue-build",
+    "documentSource": "fleetowner.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "aeb7f42a61d24bb59d85e03bfe5162fe.doc",
+  "metadata": {
+    "title": "Gaming | Today's revenue posting a stress test for 2019 | MACAU DAILY TIMES ",
+    "sourceUrl": "https://macaudailytimes.com.mo/gaming-todays-revenue-posting-a-stress-test-for-2019.html",
+    "documentSource": "macaudailytimes.com.mo",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

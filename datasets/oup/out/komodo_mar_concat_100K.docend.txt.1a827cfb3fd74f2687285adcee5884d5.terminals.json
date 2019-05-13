@@ -1,0 +1,791 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "1a827cfb3fd74f2687285adcee5884d5.doc",
+  "id": "1a827cfb3fd74f2687285adcee5884d5.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "1a827cfb3fd74f2687285adcee5884d5.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 9,
+        "string": "BRUSSELS"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "string": " "
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "string": "("
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "string": "Reuters"
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "string": " "
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "string": ")"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "string": " "
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "string": "-"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "string": "Poland"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "string": "should"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "string": "refrain"
+      },
+      {
+        "start": 52,
+        "end": 53,
+        "string": " "
+      },
+      {
+        "start": 53,
+        "end": 58,
+        "string": "from"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 68,
+        "string": "building"
+      },
+      {
+        "start": 68,
+        "end": 69,
+        "string": " "
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "string": "a"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 78,
+        "string": "canal"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "string": "on"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "string": "its"
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "string": " "
+      },
+      {
+        "start": 88,
+        "end": 95,
+        "string": "Baltic"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 102,
+        "string": "coast"
+      },
+      {
+        "start": 102,
+        "end": 103,
+        "string": " "
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "string": "before"
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "string": " "
+      },
+      {
+        "start": 111,
+        "end": 114,
+        "string": "it"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "string": "gets"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 130,
+        "string": "approval"
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "string": " "
+      },
+      {
+        "start": 131,
+        "end": 136,
+        "string": "from"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 146,
+        "string": "European"
+      },
+      {
+        "start": 146,
+        "end": 147,
+        "string": " "
+      },
+      {
+        "start": 147,
+        "end": 158,
+        "string": "Commission"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 161,
+        "string": ","
+      },
+      {
+        "start": 161,
+        "end": 162,
+        "string": " "
+      },
+      {
+        "start": 162,
+        "end": 165,
+        "string": "an"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 169,
+        "string": "EU"
+      },
+      {
+        "start": 169,
+        "end": 170,
+        "string": " "
+      },
+      {
+        "start": 170,
+        "end": 179,
+        "string": "official"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 185,
+        "string": "said"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 188,
+        "string": ","
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 195,
+        "string": "after"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 203,
+        "string": "Warsaw"
+      },
+      {
+        "start": 203,
+        "end": 204,
+        "string": " "
+      },
+      {
+        "start": 204,
+        "end": 211,
+        "string": "failed"
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 215,
+        "string": "to"
+      },
+      {
+        "start": 215,
+        "end": 216,
+        "string": " "
+      },
+      {
+        "start": 216,
+        "end": 224,
+        "string": "assuage"
+      },
+      {
+        "start": 224,
+        "end": 225,
+        "string": " "
+      },
+      {
+        "start": 225,
+        "end": 229,
+        "string": "the"
+      },
+      {
+        "start": 229,
+        "end": 230,
+        "string": " "
+      },
+      {
+        "start": 230,
+        "end": 235,
+        "string": "bloc"
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      },
+      {
+        "start": 236,
+        "end": 239,
+        "string": "'s"
+      },
+      {
+        "start": 239,
+        "end": 240,
+        "string": " "
+      },
+      {
+        "start": 240,
+        "end": 249,
+        "string": "concerns"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 256,
+        "string": "about"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 261,
+        "string": "the"
+      },
+      {
+        "start": 261,
+        "end": 262,
+        "string": " "
+      },
+      {
+        "start": 262,
+        "end": 270,
+        "string": "project"
+      },
+      {
+        "start": 270,
+        "end": 271,
+        "string": " "
+      },
+      {
+        "start": 271,
+        "end": 278,
+        "string": "during"
+      },
+      {
+        "start": 278,
+        "end": 279,
+        "string": " "
+      },
+      {
+        "start": 279,
+        "end": 285,
+        "string": "talks"
+      },
+      {
+        "start": 285,
+        "end": 286,
+        "string": " "
+      },
+      {
+        "start": 286,
+        "end": 289,
+        "string": "in"
+      },
+      {
+        "start": 289,
+        "end": 290,
+        "string": " "
+      },
+      {
+        "start": 290,
+        "end": 299,
+        "string": "Brussels"
+      },
+      {
+        "start": 299,
+        "end": 300,
+        "string": " "
+      },
+      {
+        "start": 300,
+        "end": 303,
+        "string": "on"
+      },
+      {
+        "start": 303,
+        "end": 304,
+        "string": " "
+      },
+      {
+        "start": 304,
+        "end": 311,
+        "string": "Friday"
+      },
+      {
+        "start": 311,
+        "end": 312,
+        "string": " "
+      },
+      {
+        "start": 312,
+        "end": 314,
+        "string": "."
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 319,
+        "string": "The"
+      },
+      {
+        "start": 319,
+        "end": 320,
+        "string": " "
+      },
+      {
+        "start": 320,
+        "end": 325,
+        "string": "case"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 332,
+        "string": "risks"
+      },
+      {
+        "start": 332,
+        "end": 333,
+        "string": " "
+      },
+      {
+        "start": 333,
+        "end": 342,
+        "string": "becoming"
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 347,
+        "string": "the"
+      },
+      {
+        "start": 347,
+        "end": 348,
+        "string": " "
+      },
+      {
+        "start": 348,
+        "end": 353,
+        "string": "next"
+      },
+      {
+        "start": 353,
+        "end": 354,
+        "string": " "
+      },
+      {
+        "start": 354,
+        "end": 365,
+        "string": "flashpoint"
+      },
+      {
+        "start": 365,
+        "end": 366,
+        "string": " "
+      },
+      {
+        "start": 366,
+        "end": 374,
+        "string": "between"
+      },
+      {
+        "start": 374,
+        "end": 375,
+        "string": " "
+      },
+      {
+        "start": 375,
+        "end": 382,
+        "string": "Poland"
+      },
+      {
+        "start": 382,
+        "end": 383,
+        "string": " "
+      },
+      {
+        "start": 383,
+        "end": 386,
+        "string": "'s"
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 394,
+        "string": "ruling"
+      },
+      {
+        "start": 394,
+        "end": 395,
+        "string": " "
+      },
+      {
+        "start": 395,
+        "end": 408,
+        "string": "nationalists"
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 413,
+        "string": "and"
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 418,
+        "string": "the"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 422,
+        "string": "EU"
+      },
+      {
+        "start": 422,
+        "end": 423,
+        "string": " "
+      },
+      {
+        "start": 423,
+        "end": 425,
+        "string": ","
+      },
+      {
+        "start": 425,
+        "end": 426,
+        "string": " "
+      },
+      {
+        "start": 426,
+        "end": 432,
+        "string": "their"
+      },
+      {
+        "start": 432,
+        "end": 433,
+        "string": " "
+      },
+      {
+        "start": 433,
+        "end": 446,
+        "string": "relationship"
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 455,
+        "string": "already"
+      },
+      {
+        "start": 455,
+        "end": 456,
+        "string": " "
+      },
+      {
+        "start": 456,
+        "end": 465,
+        "string": "strained"
+      },
+      {
+        "start": 465,
+        "end": 466,
+        "string": " "
+      },
+      {
+        "start": 466,
+        "end": 469,
+        "string": "by"
+      },
+      {
+        "start": 469,
+        "end": 470,
+        "string": " "
+      },
+      {
+        "start": 470,
+        "end": 479,
+        "string": "disputes"
+      },
+      {
+        "start": 479,
+        "end": 480,
+        "string": " "
+      },
+      {
+        "start": 480,
+        "end": 485,
+        "string": "over"
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 490,
+        "string": "the"
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "string": " "
+      },
+      {
+        "start": 491,
+        "end": 496,
+        "string": "rule"
+      },
+      {
+        "start": 496,
+        "end": 497,
+        "string": " "
+      },
+      {
+        "start": 497,
+        "end": 500,
+        "string": "of"
+      },
+      {
+        "start": 500,
+        "end": 501,
+        "string": " "
+      },
+      {
+        "start": 501,
+        "end": 505,
+        "string": "law"
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "string": " "
+      },
+      {
+        "start": 506,
+        "end": 510,
+        "string": "and"
+      },
+      {
+        "start": 510,
+        "end": 511,
+        "string": " "
+      },
+      {
+        "start": 511,
+        "end": 521,
+        "string": "migration"
+      },
+      {
+        "start": 521,
+        "end": 522,
+        "string": " "
+      },
+      {
+        "start": 522,
+        "end": 524,
+        "string": "."
+      },
+      {
+        "start": 524,
+        "end": 525,
+        "string": " "
+      }
+    ]
+  }
+}

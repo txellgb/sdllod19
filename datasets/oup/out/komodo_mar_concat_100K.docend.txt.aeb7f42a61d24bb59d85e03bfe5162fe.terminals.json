@@ -1,0 +1,3101 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "aeb7f42a61d24bb59d85e03bfe5162fe.doc",
+  "id": "aeb7f42a61d24bb59d85e03bfe5162fe.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "aeb7f42a61d24bb59d85e03bfe5162fe.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 12,
+        "string": "Gaming"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "string": "Inspection"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "string": " "
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "string": "and"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "string": " "
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "string": "Coordination"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "string": "Bureau"
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "string": " "
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "string": "is"
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "string": " "
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "string": "expected"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "string": "to"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 79,
+        "string": "announce"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 89,
+        "string": "February"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "string": "'s"
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "string": " "
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "string": "gross"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "string": "gaming"
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 117,
+        "string": "revenue"
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "string": " "
+      },
+      {
+        "start": 118,
+        "end": 124,
+        "string": "today"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 127,
+        "string": ","
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 131,
+        "string": "or"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 135,
+        "string": "by"
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "string": " "
+      },
+      {
+        "start": 136,
+        "end": 143,
+        "string": "Sunday"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 147,
+        "string": "at"
+      },
+      {
+        "start": 147,
+        "end": 148,
+        "string": " "
+      },
+      {
+        "start": 148,
+        "end": 152,
+        "string": "the"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "string": " "
+      },
+      {
+        "start": 153,
+        "end": 160,
+        "string": "latest"
+      },
+      {
+        "start": 160,
+        "end": 161,
+        "string": " "
+      },
+      {
+        "start": 161,
+        "end": 163,
+        "string": "."
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 168,
+        "string": "The"
+      },
+      {
+        "start": 168,
+        "end": 169,
+        "string": " "
+      },
+      {
+        "start": 169,
+        "end": 177,
+        "string": "results"
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 183,
+        "string": "will"
+      },
+      {
+        "start": 183,
+        "end": 184,
+        "string": " "
+      },
+      {
+        "start": 184,
+        "end": 191,
+        "string": "afford"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 201,
+        "string": "analysts"
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "string": " "
+      },
+      {
+        "start": 202,
+        "end": 204,
+        "string": "a"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 210,
+        "string": "more"
+      },
+      {
+        "start": 210,
+        "end": 211,
+        "string": " "
+      },
+      {
+        "start": 211,
+        "end": 219,
+        "string": "rounded"
+      },
+      {
+        "start": 219,
+        "end": 220,
+        "string": " "
+      },
+      {
+        "start": 220,
+        "end": 225,
+        "string": "view"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 229,
+        "string": "of"
+      },
+      {
+        "start": 229,
+        "end": 230,
+        "string": " "
+      },
+      {
+        "start": 230,
+        "end": 234,
+        "string": "how"
+      },
+      {
+        "start": 234,
+        "end": 235,
+        "string": " "
+      },
+      {
+        "start": 235,
+        "end": 240,
+        "string": "2019"
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 244,
+        "string": "is"
+      },
+      {
+        "start": 244,
+        "end": 245,
+        "string": " "
+      },
+      {
+        "start": 245,
+        "end": 256,
+        "string": "responding"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 260,
+        "string": "to"
+      },
+      {
+        "start": 260,
+        "end": 261,
+        "string": " "
+      },
+      {
+        "start": 261,
+        "end": 269,
+        "string": "several"
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 285,
+        "string": "macro-economic"
+      },
+      {
+        "start": 285,
+        "end": 286,
+        "string": " "
+      },
+      {
+        "start": 286,
+        "end": 294,
+        "string": "factors"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 297,
+        "string": ","
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 308,
+        "string": "including"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 313,
+        "string": "the"
+      },
+      {
+        "start": 313,
+        "end": 314,
+        "string": " "
+      },
+      {
+        "start": 314,
+        "end": 325,
+        "string": "China-U.S."
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 332,
+        "string": "trade"
+      },
+      {
+        "start": 332,
+        "end": 333,
+        "string": " "
+      },
+      {
+        "start": 333,
+        "end": 337,
+        "string": "war"
+      },
+      {
+        "start": 337,
+        "end": 338,
+        "string": " "
+      },
+      {
+        "start": 338,
+        "end": 340,
+        "string": ","
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 353,
+        "string": "diminishing"
+      },
+      {
+        "start": 353,
+        "end": 354,
+        "string": " "
+      },
+      {
+        "start": 354,
+        "end": 365,
+        "string": "purchasing"
+      },
+      {
+        "start": 365,
+        "end": 366,
+        "string": " "
+      },
+      {
+        "start": 366,
+        "end": 372,
+        "string": "power"
+      },
+      {
+        "start": 372,
+        "end": 373,
+        "string": " "
+      },
+      {
+        "start": 373,
+        "end": 376,
+        "string": "of"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 386,
+        "string": "mainland"
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 397,
+        "string": "customers"
+      },
+      {
+        "start": 397,
+        "end": 398,
+        "string": " "
+      },
+      {
+        "start": 398,
+        "end": 402,
+        "string": "and"
+      },
+      {
+        "start": 402,
+        "end": 403,
+        "string": " "
+      },
+      {
+        "start": 403,
+        "end": 407,
+        "string": "new"
+      },
+      {
+        "start": 407,
+        "end": 408,
+        "string": " "
+      },
+      {
+        "start": 408,
+        "end": 417,
+        "string": "policies"
+      },
+      {
+        "start": 417,
+        "end": 418,
+        "string": " "
+      },
+      {
+        "start": 418,
+        "end": 427,
+        "string": "designed"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 431,
+        "string": "by"
+      },
+      {
+        "start": 431,
+        "end": 432,
+        "string": " "
+      },
+      {
+        "start": 432,
+        "end": 440,
+        "string": "Beijing"
+      },
+      {
+        "start": 440,
+        "end": 441,
+        "string": " "
+      },
+      {
+        "start": 441,
+        "end": 444,
+        "string": "to"
+      },
+      {
+        "start": 444,
+        "end": 445,
+        "string": " "
+      },
+      {
+        "start": 445,
+        "end": 450,
+        "string": "curb"
+      },
+      {
+        "start": 450,
+        "end": 451,
+        "string": " "
+      },
+      {
+        "start": 451,
+        "end": 457,
+        "string": "money"
+      },
+      {
+        "start": 457,
+        "end": 458,
+        "string": " "
+      },
+      {
+        "start": 458,
+        "end": 469,
+        "string": "laundering"
+      },
+      {
+        "start": 469,
+        "end": 470,
+        "string": " "
+      },
+      {
+        "start": 470,
+        "end": 474,
+        "string": "and"
+      },
+      {
+        "start": 474,
+        "end": 475,
+        "string": " "
+      },
+      {
+        "start": 475,
+        "end": 483,
+        "string": "capital"
+      },
+      {
+        "start": 483,
+        "end": 484,
+        "string": " "
+      },
+      {
+        "start": 484,
+        "end": 493,
+        "string": "outflows"
+      },
+      {
+        "start": 493,
+        "end": 494,
+        "string": " "
+      },
+      {
+        "start": 494,
+        "end": 496,
+        "string": "."
+      },
+      {
+        "start": 496,
+        "end": 497,
+        "string": " "
+      },
+      {
+        "start": 497,
+        "end": 503,
+        "string": "Gross"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 511,
+        "string": "gaming"
+      },
+      {
+        "start": 511,
+        "end": 512,
+        "string": " "
+      },
+      {
+        "start": 512,
+        "end": 520,
+        "string": "revenue"
+      },
+      {
+        "start": 520,
+        "end": 521,
+        "string": " "
+      },
+      {
+        "start": 521,
+        "end": 524,
+        "string": "in"
+      },
+      {
+        "start": 524,
+        "end": 525,
+        "string": " "
+      },
+      {
+        "start": 525,
+        "end": 529,
+        "string": "the"
+      },
+      {
+        "start": 529,
+        "end": 530,
+        "string": " "
+      },
+      {
+        "start": 530,
+        "end": 536,
+        "string": "Macau"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 541,
+        "string": "SAR"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 550,
+        "string": "wobbled"
+      },
+      {
+        "start": 550,
+        "end": 551,
+        "string": " "
+      },
+      {
+        "start": 551,
+        "end": 556,
+        "string": "last"
+      },
+      {
+        "start": 556,
+        "end": 557,
+        "string": " "
+      },
+      {
+        "start": 557,
+        "end": 563,
+        "string": "month"
+      },
+      {
+        "start": 563,
+        "end": 564,
+        "string": " "
+      },
+      {
+        "start": 564,
+        "end": 567,
+        "string": "to"
+      },
+      {
+        "start": 567,
+        "end": 568,
+        "string": " "
+      },
+      {
+        "start": 568,
+        "end": 573,
+        "string": "post"
+      },
+      {
+        "start": 573,
+        "end": 574,
+        "string": " "
+      },
+      {
+        "start": 574,
+        "end": 578,
+        "string": "the"
+      },
+      {
+        "start": 578,
+        "end": 579,
+        "string": " "
+      },
+      {
+        "start": 579,
+        "end": 585,
+        "string": "first"
+      },
+      {
+        "start": 585,
+        "end": 586,
+        "string": " "
+      },
+      {
+        "start": 586,
+        "end": 594,
+        "string": "monthly"
+      },
+      {
+        "start": 594,
+        "end": 595,
+        "string": " "
+      },
+      {
+        "start": 595,
+        "end": 600,
+        "string": "fall"
+      },
+      {
+        "start": 600,
+        "end": 601,
+        "string": " "
+      },
+      {
+        "start": 601,
+        "end": 604,
+        "string": "in"
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 609,
+        "string": "two"
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 616,
+        "string": "years"
+      },
+      {
+        "start": 616,
+        "end": 617,
+        "string": " "
+      },
+      {
+        "start": 617,
+        "end": 621,
+        "string": "and"
+      },
+      {
+        "start": 621,
+        "end": 622,
+        "string": " "
+      },
+      {
+        "start": 622,
+        "end": 626,
+        "string": "the"
+      },
+      {
+        "start": 626,
+        "end": 627,
+        "string": " "
+      },
+      {
+        "start": 627,
+        "end": 633,
+        "string": "first"
+      },
+      {
+        "start": 633,
+        "end": 634,
+        "string": " "
+      },
+      {
+        "start": 634,
+        "end": 647,
+        "string": "year-on-year"
+      },
+      {
+        "start": 647,
+        "end": 648,
+        "string": " "
+      },
+      {
+        "start": 648,
+        "end": 656,
+        "string": "decline"
+      },
+      {
+        "start": 656,
+        "end": 657,
+        "string": " "
+      },
+      {
+        "start": 657,
+        "end": 663,
+        "string": "since"
+      },
+      {
+        "start": 663,
+        "end": 664,
+        "string": " "
+      },
+      {
+        "start": 664,
+        "end": 668,
+        "string": "the"
+      },
+      {
+        "start": 668,
+        "end": 669,
+        "string": " "
+      },
+      {
+        "start": 669,
+        "end": 676,
+        "string": "gaming"
+      },
+      {
+        "start": 676,
+        "end": 677,
+        "string": " "
+      },
+      {
+        "start": 677,
+        "end": 683,
+        "string": "slump"
+      },
+      {
+        "start": 683,
+        "end": 684,
+        "string": " "
+      },
+      {
+        "start": 684,
+        "end": 690,
+        "string": "ended"
+      },
+      {
+        "start": 690,
+        "end": 691,
+        "string": " "
+      },
+      {
+        "start": 691,
+        "end": 694,
+        "string": "in"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 700,
+        "string": "2016"
+      },
+      {
+        "start": 700,
+        "end": 701,
+        "string": " "
+      },
+      {
+        "start": 701,
+        "end": 703,
+        "string": "."
+      },
+      {
+        "start": 703,
+        "end": 704,
+        "string": " "
+      },
+      {
+        "start": 704,
+        "end": 715,
+        "string": "Full-month"
+      },
+      {
+        "start": 715,
+        "end": 716,
+        "string": " "
+      },
+      {
+        "start": 716,
+        "end": 724,
+        "string": "revenue"
+      },
+      {
+        "start": 724,
+        "end": 725,
+        "string": " "
+      },
+      {
+        "start": 725,
+        "end": 734,
+        "string": "amounted"
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 738,
+        "string": "to"
+      },
+      {
+        "start": 738,
+        "end": 739,
+        "string": " "
+      },
+      {
+        "start": 739,
+        "end": 745,
+        "string": "about"
+      },
+      {
+        "start": 745,
+        "end": 746,
+        "string": " "
+      },
+      {
+        "start": 746,
+        "end": 752,
+        "string": "MOP24"
+      },
+      {
+        "start": 752,
+        "end": 753,
+        "string": " "
+      },
+      {
+        "start": 753,
+        "end": 756,
+        "string": ".9"
+      },
+      {
+        "start": 756,
+        "end": 757,
+        "string": " "
+      },
+      {
+        "start": 757,
+        "end": 765,
+        "string": "billion"
+      },
+      {
+        "start": 765,
+        "end": 766,
+        "string": " "
+      },
+      {
+        "start": 766,
+        "end": 768,
+        "string": ","
+      },
+      {
+        "start": 768,
+        "end": 769,
+        "string": " "
+      },
+      {
+        "start": 769,
+        "end": 772,
+        "string": "in"
+      },
+      {
+        "start": 772,
+        "end": 773,
+        "string": " "
+      },
+      {
+        "start": 773,
+        "end": 778,
+        "string": "line"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 784,
+        "string": "with"
+      },
+      {
+        "start": 784,
+        "end": 785,
+        "string": " "
+      },
+      {
+        "start": 785,
+        "end": 789,
+        "string": "the"
+      },
+      {
+        "start": 789,
+        "end": 790,
+        "string": " "
+      },
+      {
+        "start": 790,
+        "end": 798,
+        "string": "average"
+      },
+      {
+        "start": 798,
+        "end": 799,
+        "string": " "
+      },
+      {
+        "start": 799,
+        "end": 807,
+        "string": "monthly"
+      },
+      {
+        "start": 807,
+        "end": 808,
+        "string": " "
+      },
+      {
+        "start": 808,
+        "end": 813,
+        "string": "take"
+      },
+      {
+        "start": 813,
+        "end": 814,
+        "string": " "
+      },
+      {
+        "start": 814,
+        "end": 817,
+        "string": "in"
+      },
+      {
+        "start": 817,
+        "end": 818,
+        "string": " "
+      },
+      {
+        "start": 818,
+        "end": 823,
+        "string": "2018"
+      },
+      {
+        "start": 823,
+        "end": 824,
+        "string": " "
+      },
+      {
+        "start": 824,
+        "end": 826,
+        "string": "."
+      },
+      {
+        "start": 826,
+        "end": 827,
+        "string": " "
+      },
+      {
+        "start": 827,
+        "end": 837,
+        "string": "According"
+      },
+      {
+        "start": 837,
+        "end": 838,
+        "string": " "
+      },
+      {
+        "start": 838,
+        "end": 841,
+        "string": "to"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 847,
+        "string": "some"
+      },
+      {
+        "start": 847,
+        "end": 848,
+        "string": " "
+      },
+      {
+        "start": 848,
+        "end": 857,
+        "string": "analysts"
+      },
+      {
+        "start": 857,
+        "end": 858,
+        "string": " "
+      },
+      {
+        "start": 858,
+        "end": 860,
+        "string": ","
+      },
+      {
+        "start": 860,
+        "end": 861,
+        "string": " "
+      },
+      {
+        "start": 861,
+        "end": 865,
+        "string": "the"
+      },
+      {
+        "start": 865,
+        "end": 866,
+        "string": " "
+      },
+      {
+        "start": 866,
+        "end": 874,
+        "string": "posting"
+      },
+      {
+        "start": 874,
+        "end": 875,
+        "string": " "
+      },
+      {
+        "start": 875,
+        "end": 885,
+        "string": "indicates"
+      },
+      {
+        "start": 885,
+        "end": 886,
+        "string": " "
+      },
+      {
+        "start": 886,
+        "end": 888,
+        "string": "a"
+      },
+      {
+        "start": 888,
+        "end": 889,
+        "string": " "
+      },
+      {
+        "start": 889,
+        "end": 896,
+        "string": "period"
+      },
+      {
+        "start": 896,
+        "end": 897,
+        "string": " "
+      },
+      {
+        "start": 897,
+        "end": 900,
+        "string": "of"
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 908,
+        "string": "market"
+      },
+      {
+        "start": 908,
+        "end": 909,
+        "string": " "
+      },
+      {
+        "start": 909,
+        "end": 923,
+        "string": "consolidation"
+      },
+      {
+        "start": 923,
+        "end": 924,
+        "string": " "
+      },
+      {
+        "start": 924,
+        "end": 928,
+        "string": "and"
+      },
+      {
+        "start": 928,
+        "end": 929,
+        "string": " "
+      },
+      {
+        "start": 929,
+        "end": 933,
+        "string": "the"
+      },
+      {
+        "start": 933,
+        "end": 934,
+        "string": " "
+      },
+      {
+        "start": 934,
+        "end": 940,
+        "string": "entry"
+      },
+      {
+        "start": 940,
+        "end": 941,
+        "string": " "
+      },
+      {
+        "start": 941,
+        "end": 946,
+        "string": "into"
+      },
+      {
+        "start": 946,
+        "end": 947,
+        "string": " "
+      },
+      {
+        "start": 947,
+        "end": 952,
+        "string": "what"
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 957,
+        "string": "has"
+      },
+      {
+        "start": 957,
+        "end": 958,
+        "string": " "
+      },
+      {
+        "start": 958,
+        "end": 963,
+        "string": "been"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 974,
+        "string": "described"
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 978,
+        "string": "by"
+      },
+      {
+        "start": 978,
+        "end": 979,
+        "string": " "
+      },
+      {
+        "start": 979,
+        "end": 990,
+        "string": "government"
+      },
+      {
+        "start": 990,
+        "end": 991,
+        "string": " "
+      },
+      {
+        "start": 991,
+        "end": 1001,
+        "string": "officials"
+      },
+      {
+        "start": 1001,
+        "end": 1002,
+        "string": " "
+      },
+      {
+        "start": 1002,
+        "end": 1005,
+        "string": "as"
+      },
+      {
+        "start": 1005,
+        "end": 1006,
+        "string": " "
+      },
+      {
+        "start": 1006,
+        "end": 1010,
+        "string": "the"
+      },
+      {
+        "start": 1010,
+        "end": 1011,
+        "string": " "
+      },
+      {
+        "start": 1011,
+        "end": 1013,
+        "string": "\""
+      },
+      {
+        "start": 1013,
+        "end": 1014,
+        "string": " "
+      },
+      {
+        "start": 1014,
+        "end": 1018,
+        "string": "new"
+      },
+      {
+        "start": 1018,
+        "end": 1019,
+        "string": " "
+      },
+      {
+        "start": 1019,
+        "end": 1026,
+        "string": "normal"
+      },
+      {
+        "start": 1026,
+        "end": 1027,
+        "string": " "
+      },
+      {
+        "start": 1027,
+        "end": 1029,
+        "string": "\""
+      },
+      {
+        "start": 1029,
+        "end": 1030,
+        "string": " "
+      },
+      {
+        "start": 1030,
+        "end": 1033,
+        "string": "of"
+      },
+      {
+        "start": 1033,
+        "end": 1034,
+        "string": " "
+      },
+      {
+        "start": 1034,
+        "end": 1040,
+        "string": "Macau"
+      },
+      {
+        "start": 1040,
+        "end": 1041,
+        "string": " "
+      },
+      {
+        "start": 1041,
+        "end": 1048,
+        "string": "gaming"
+      },
+      {
+        "start": 1048,
+        "end": 1049,
+        "string": " "
+      },
+      {
+        "start": 1049,
+        "end": 1051,
+        "string": "."
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1055,
+        "string": "It"
+      },
+      {
+        "start": 1055,
+        "end": 1056,
+        "string": " "
+      },
+      {
+        "start": 1056,
+        "end": 1060,
+        "string": "may"
+      },
+      {
+        "start": 1060,
+        "end": 1061,
+        "string": " "
+      },
+      {
+        "start": 1061,
+        "end": 1066,
+        "string": "also"
+      },
+      {
+        "start": 1066,
+        "end": 1067,
+        "string": " "
+      },
+      {
+        "start": 1067,
+        "end": 1077,
+        "string": "represent"
+      },
+      {
+        "start": 1077,
+        "end": 1078,
+        "string": " "
+      },
+      {
+        "start": 1078,
+        "end": 1080,
+        "string": "a"
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1088,
+        "string": "stress"
+      },
+      {
+        "start": 1088,
+        "end": 1089,
+        "string": " "
+      },
+      {
+        "start": 1089,
+        "end": 1094,
+        "string": "test"
+      },
+      {
+        "start": 1094,
+        "end": 1095,
+        "string": " "
+      },
+      {
+        "start": 1095,
+        "end": 1099,
+        "string": "for"
+      },
+      {
+        "start": 1099,
+        "end": 1100,
+        "string": " "
+      },
+      {
+        "start": 1100,
+        "end": 1106,
+        "string": "Macau"
+      },
+      {
+        "start": 1106,
+        "end": 1107,
+        "string": " "
+      },
+      {
+        "start": 1107,
+        "end": 1110,
+        "string": "as"
+      },
+      {
+        "start": 1110,
+        "end": 1111,
+        "string": " "
+      },
+      {
+        "start": 1111,
+        "end": 1115,
+        "string": "the"
+      },
+      {
+        "start": 1115,
+        "end": 1116,
+        "string": " "
+      },
+      {
+        "start": 1116,
+        "end": 1121,
+        "string": "city"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1125,
+        "string": "'s"
+      },
+      {
+        "start": 1125,
+        "end": 1126,
+        "string": " "
+      },
+      {
+        "start": 1126,
+        "end": 1141,
+        "string": "highly-exposed"
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1150,
+        "string": "economy"
+      },
+      {
+        "start": 1150,
+        "end": 1151,
+        "string": " "
+      },
+      {
+        "start": 1151,
+        "end": 1158,
+        "string": "braces"
+      },
+      {
+        "start": 1158,
+        "end": 1159,
+        "string": " "
+      },
+      {
+        "start": 1159,
+        "end": 1163,
+        "string": "for"
+      },
+      {
+        "start": 1163,
+        "end": 1164,
+        "string": " "
+      },
+      {
+        "start": 1164,
+        "end": 1174,
+        "string": "spillover"
+      },
+      {
+        "start": 1174,
+        "end": 1175,
+        "string": " "
+      },
+      {
+        "start": 1175,
+        "end": 1180,
+        "string": "from"
+      },
+      {
+        "start": 1180,
+        "end": 1181,
+        "string": " "
+      },
+      {
+        "start": 1181,
+        "end": 1185,
+        "string": "the"
+      },
+      {
+        "start": 1185,
+        "end": 1186,
+        "string": " "
+      },
+      {
+        "start": 1186,
+        "end": 1194,
+        "string": "ongoing"
+      },
+      {
+        "start": 1194,
+        "end": 1195,
+        "string": " "
+      },
+      {
+        "start": 1195,
+        "end": 1206,
+        "string": "China-U.S."
+      },
+      {
+        "start": 1206,
+        "end": 1207,
+        "string": " "
+      },
+      {
+        "start": 1207,
+        "end": 1213,
+        "string": "trade"
+      },
+      {
+        "start": 1213,
+        "end": 1214,
+        "string": " "
+      },
+      {
+        "start": 1214,
+        "end": 1218,
+        "string": "war"
+      },
+      {
+        "start": 1218,
+        "end": 1219,
+        "string": " "
+      },
+      {
+        "start": 1219,
+        "end": 1221,
+        "string": "."
+      },
+      {
+        "start": 1221,
+        "end": 1222,
+        "string": " "
+      },
+      {
+        "start": 1222,
+        "end": 1228,
+        "string": "Early"
+      },
+      {
+        "start": 1228,
+        "end": 1229,
+        "string": " "
+      },
+      {
+        "start": 1229,
+        "end": 1237,
+        "string": "analyst"
+      },
+      {
+        "start": 1237,
+        "end": 1238,
+        "string": " "
+      },
+      {
+        "start": 1238,
+        "end": 1250,
+        "string": "predictions"
+      },
+      {
+        "start": 1250,
+        "end": 1251,
+        "string": " "
+      },
+      {
+        "start": 1251,
+        "end": 1255,
+        "string": "for"
+      },
+      {
+        "start": 1255,
+        "end": 1256,
+        "string": " "
+      },
+      {
+        "start": 1256,
+        "end": 1265,
+        "string": "February"
+      },
+      {
+        "start": 1265,
+        "end": 1266,
+        "string": " "
+      },
+      {
+        "start": 1266,
+        "end": 1276,
+        "string": "suggested"
+      },
+      {
+        "start": 1276,
+        "end": 1277,
+        "string": " "
+      },
+      {
+        "start": 1277,
+        "end": 1284,
+        "string": "little"
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1288,
+        "string": "in"
+      },
+      {
+        "start": 1288,
+        "end": 1289,
+        "string": " "
+      },
+      {
+        "start": 1289,
+        "end": 1293,
+        "string": "the"
+      },
+      {
+        "start": 1293,
+        "end": 1294,
+        "string": " "
+      },
+      {
+        "start": 1294,
+        "end": 1298,
+        "string": "way"
+      },
+      {
+        "start": 1298,
+        "end": 1299,
+        "string": " "
+      },
+      {
+        "start": 1299,
+        "end": 1302,
+        "string": "of"
+      },
+      {
+        "start": 1302,
+        "end": 1303,
+        "string": " "
+      },
+      {
+        "start": 1303,
+        "end": 1316,
+        "string": "year-on-year"
+      },
+      {
+        "start": 1316,
+        "end": 1317,
+        "string": " "
+      },
+      {
+        "start": 1317,
+        "end": 1324,
+        "string": "growth"
+      },
+      {
+        "start": 1324,
+        "end": 1325,
+        "string": " "
+      },
+      {
+        "start": 1325,
+        "end": 1327,
+        "string": "."
+      },
+      {
+        "start": 1327,
+        "end": 1328,
+        "string": " "
+      },
+      {
+        "start": 1328,
+        "end": 1336,
+        "string": "However"
+      },
+      {
+        "start": 1336,
+        "end": 1337,
+        "string": " "
+      },
+      {
+        "start": 1337,
+        "end": 1339,
+        "string": ","
+      },
+      {
+        "start": 1339,
+        "end": 1340,
+        "string": " "
+      },
+      {
+        "start": 1340,
+        "end": 1350,
+        "string": "according"
+      },
+      {
+        "start": 1350,
+        "end": 1351,
+        "string": " "
+      },
+      {
+        "start": 1351,
+        "end": 1354,
+        "string": "to"
+      },
+      {
+        "start": 1354,
+        "end": 1355,
+        "string": " "
+      },
+      {
+        "start": 1355,
+        "end": 1364,
+        "string": "industry"
+      },
+      {
+        "start": 1364,
+        "end": 1365,
+        "string": " "
+      },
+      {
+        "start": 1365,
+        "end": 1374,
+        "string": "insiders"
+      },
+      {
+        "start": 1374,
+        "end": 1375,
+        "string": " "
+      },
+      {
+        "start": 1375,
+        "end": 1377,
+        "string": ","
+      },
+      {
+        "start": 1377,
+        "end": 1378,
+        "string": " "
+      },
+      {
+        "start": 1378,
+        "end": 1384,
+        "string": "Macau"
+      },
+      {
+        "start": 1384,
+        "end": 1385,
+        "string": " "
+      },
+      {
+        "start": 1385,
+        "end": 1391,
+        "string": "gross"
+      },
+      {
+        "start": 1391,
+        "end": 1392,
+        "string": " "
+      },
+      {
+        "start": 1392,
+        "end": 1399,
+        "string": "gaming"
+      },
+      {
+        "start": 1399,
+        "end": 1400,
+        "string": " "
+      },
+      {
+        "start": 1400,
+        "end": 1408,
+        "string": "revenue"
+      },
+      {
+        "start": 1408,
+        "end": 1409,
+        "string": " "
+      },
+      {
+        "start": 1409,
+        "end": 1416,
+        "string": "posted"
+      },
+      {
+        "start": 1416,
+        "end": 1417,
+        "string": " "
+      },
+      {
+        "start": 1417,
+        "end": 1424,
+        "string": "strong"
+      },
+      {
+        "start": 1424,
+        "end": 1425,
+        "string": " "
+      },
+      {
+        "start": 1425,
+        "end": 1433,
+        "string": "results"
+      },
+      {
+        "start": 1433,
+        "end": 1434,
+        "string": " "
+      },
+      {
+        "start": 1434,
+        "end": 1437,
+        "string": "in"
+      },
+      {
+        "start": 1437,
+        "end": 1438,
+        "string": " "
+      },
+      {
+        "start": 1438,
+        "end": 1442,
+        "string": "the"
+      },
+      {
+        "start": 1442,
+        "end": 1443,
+        "string": " "
+      },
+      {
+        "start": 1443,
+        "end": 1448,
+        "string": "week"
+      },
+      {
+        "start": 1448,
+        "end": 1449,
+        "string": " "
+      },
+      {
+        "start": 1449,
+        "end": 1459,
+        "string": "following"
+      },
+      {
+        "start": 1459,
+        "end": 1460,
+        "string": " "
+      },
+      {
+        "start": 1460,
+        "end": 1464,
+        "string": "the"
+      },
+      {
+        "start": 1464,
+        "end": 1465,
+        "string": " "
+      },
+      {
+        "start": 1465,
+        "end": 1473,
+        "string": "Chinese"
+      },
+      {
+        "start": 1473,
+        "end": 1474,
+        "string": " "
+      },
+      {
+        "start": 1474,
+        "end": 1480,
+        "string": "Lunar"
+      },
+      {
+        "start": 1480,
+        "end": 1481,
+        "string": " "
+      },
+      {
+        "start": 1481,
+        "end": 1485,
+        "string": "New"
+      },
+      {
+        "start": 1485,
+        "end": 1486,
+        "string": " "
+      },
+      {
+        "start": 1486,
+        "end": 1491,
+        "string": "Year"
+      },
+      {
+        "start": 1491,
+        "end": 1492,
+        "string": " "
+      },
+      {
+        "start": 1492,
+        "end": 1494,
+        "string": ","
+      },
+      {
+        "start": 1494,
+        "end": 1495,
+        "string": " "
+      },
+      {
+        "start": 1495,
+        "end": 1503,
+        "string": "showing"
+      },
+      {
+        "start": 1503,
+        "end": 1504,
+        "string": " "
+      },
+      {
+        "start": 1504,
+        "end": 1506,
+        "string": "a"
+      },
+      {
+        "start": 1506,
+        "end": 1507,
+        "string": " "
+      },
+      {
+        "start": 1507,
+        "end": 1510,
+        "string": "32"
+      },
+      {
+        "start": 1510,
+        "end": 1511,
+        "string": " "
+      },
+      {
+        "start": 1511,
+        "end": 1519,
+        "string": "percent"
+      },
+      {
+        "start": 1519,
+        "end": 1520,
+        "string": " "
+      },
+      {
+        "start": 1520,
+        "end": 1533,
+        "string": "year-on-year"
+      },
+      {
+        "start": 1533,
+        "end": 1534,
+        "string": " "
+      },
+      {
+        "start": 1534,
+        "end": 1539,
+        "string": "rise"
+      },
+      {
+        "start": 1539,
+        "end": 1540,
+        "string": " "
+      },
+      {
+        "start": 1540,
+        "end": 1544,
+        "string": "led"
+      },
+      {
+        "start": 1544,
+        "end": 1545,
+        "string": " "
+      },
+      {
+        "start": 1545,
+        "end": 1548,
+        "string": "by"
+      },
+      {
+        "start": 1548,
+        "end": 1549,
+        "string": " "
+      },
+      {
+        "start": 1549,
+        "end": 1553,
+        "string": "VIP"
+      },
+      {
+        "start": 1553,
+        "end": 1554,
+        "string": " "
+      },
+      {
+        "start": 1554,
+        "end": 1563,
+        "string": "activity"
+      },
+      {
+        "start": 1563,
+        "end": 1564,
+        "string": " "
+      },
+      {
+        "start": 1564,
+        "end": 1566,
+        "string": "."
+      },
+      {
+        "start": 1566,
+        "end": 1567,
+        "string": " "
+      },
+      {
+        "start": 1567,
+        "end": 1572,
+        "string": "That"
+      },
+      {
+        "start": 1572,
+        "end": 1573,
+        "string": " "
+      },
+      {
+        "start": 1573,
+        "end": 1582,
+        "string": "followed"
+      },
+      {
+        "start": 1582,
+        "end": 1583,
+        "string": " "
+      },
+      {
+        "start": 1583,
+        "end": 1585,
+        "string": "a"
+      },
+      {
+        "start": 1585,
+        "end": 1586,
+        "string": " "
+      },
+      {
+        "start": 1586,
+        "end": 1602,
+        "string": "record-breaking"
+      },
+      {
+        "start": 1602,
+        "end": 1603,
+        "string": " "
+      },
+      {
+        "start": 1603,
+        "end": 1610,
+        "string": "number"
+      },
+      {
+        "start": 1610,
+        "end": 1611,
+        "string": " "
+      },
+      {
+        "start": 1611,
+        "end": 1614,
+        "string": "of"
+      },
+      {
+        "start": 1614,
+        "end": 1615,
+        "string": " "
+      },
+      {
+        "start": 1615,
+        "end": 1624,
+        "string": "tourists"
+      },
+      {
+        "start": 1624,
+        "end": 1625,
+        "string": " "
+      },
+      {
+        "start": 1625,
+        "end": 1628,
+        "string": "in"
+      },
+      {
+        "start": 1628,
+        "end": 1629,
+        "string": " "
+      },
+      {
+        "start": 1629,
+        "end": 1633,
+        "string": "the"
+      },
+      {
+        "start": 1633,
+        "end": 1634,
+        "string": " "
+      },
+      {
+        "start": 1634,
+        "end": 1639,
+        "string": "week"
+      },
+      {
+        "start": 1639,
+        "end": 1640,
+        "string": " "
+      },
+      {
+        "start": 1640,
+        "end": 1647,
+        "string": "before"
+      },
+      {
+        "start": 1647,
+        "end": 1648,
+        "string": " "
+      },
+      {
+        "start": 1648,
+        "end": 1650,
+        "string": ","
+      },
+      {
+        "start": 1650,
+        "end": 1651,
+        "string": " "
+      },
+      {
+        "start": 1651,
+        "end": 1658,
+        "string": "rising"
+      },
+      {
+        "start": 1658,
+        "end": 1659,
+        "string": " "
+      },
+      {
+        "start": 1659,
+        "end": 1664,
+        "string": "more"
+      },
+      {
+        "start": 1664,
+        "end": 1665,
+        "string": " "
+      },
+      {
+        "start": 1665,
+        "end": 1670,
+        "string": "than"
+      },
+      {
+        "start": 1670,
+        "end": 1671,
+        "string": " "
+      },
+      {
+        "start": 1671,
+        "end": 1674,
+        "string": "26"
+      },
+      {
+        "start": 1674,
+        "end": 1675,
+        "string": " "
+      },
+      {
+        "start": 1675,
+        "end": 1683,
+        "string": "percent"
+      },
+      {
+        "start": 1683,
+        "end": 1684,
+        "string": " "
+      },
+      {
+        "start": 1684,
+        "end": 1687,
+        "string": "to"
+      },
+      {
+        "start": 1687,
+        "end": 1688,
+        "string": " "
+      },
+      {
+        "start": 1688,
+        "end": 1692,
+        "string": "1.2"
+      },
+      {
+        "start": 1692,
+        "end": 1693,
+        "string": " "
+      },
+      {
+        "start": 1693,
+        "end": 1701,
+        "string": "million"
+      },
+      {
+        "start": 1701,
+        "end": 1702,
+        "string": " "
+      },
+      {
+        "start": 1702,
+        "end": 1704,
+        "string": "."
+      },
+      {
+        "start": 1704,
+        "end": 1705,
+        "string": " "
+      },
+      {
+        "start": 1705,
+        "end": 1709,
+        "string": "The"
+      },
+      {
+        "start": 1709,
+        "end": 1710,
+        "string": " "
+      },
+      {
+        "start": 1710,
+        "end": 1715,
+        "string": "mass"
+      },
+      {
+        "start": 1715,
+        "end": 1716,
+        "string": " "
+      },
+      {
+        "start": 1716,
+        "end": 1724,
+        "string": "segment"
+      },
+      {
+        "start": 1724,
+        "end": 1725,
+        "string": " "
+      },
+      {
+        "start": 1725,
+        "end": 1730,
+        "string": "also"
+      },
+      {
+        "start": 1730,
+        "end": 1731,
+        "string": " "
+      },
+      {
+        "start": 1731,
+        "end": 1741,
+        "string": "performed"
+      },
+      {
+        "start": 1741,
+        "end": 1742,
+        "string": " "
+      },
+      {
+        "start": 1742,
+        "end": 1747,
+        "string": "well"
+      },
+      {
+        "start": 1747,
+        "end": 1748,
+        "string": " "
+      },
+      {
+        "start": 1748,
+        "end": 1750,
+        "string": ","
+      },
+      {
+        "start": 1750,
+        "end": 1751,
+        "string": " "
+      },
+      {
+        "start": 1751,
+        "end": 1756,
+        "string": "with"
+      },
+      {
+        "start": 1756,
+        "end": 1757,
+        "string": " "
+      },
+      {
+        "start": 1757,
+        "end": 1765,
+        "string": "average"
+      },
+      {
+        "start": 1765,
+        "end": 1766,
+        "string": " "
+      },
+      {
+        "start": 1766,
+        "end": 1772,
+        "string": "daily"
+      },
+      {
+        "start": 1772,
+        "end": 1773,
+        "string": " "
+      },
+      {
+        "start": 1773,
+        "end": 1778,
+        "string": "mass"
+      },
+      {
+        "start": 1778,
+        "end": 1779,
+        "string": " "
+      },
+      {
+        "start": 1779,
+        "end": 1787,
+        "string": "revenue"
+      },
+      {
+        "start": 1787,
+        "end": 1788,
+        "string": " "
+      },
+      {
+        "start": 1788,
+        "end": 1792,
+        "string": "per"
+      },
+      {
+        "start": 1792,
+        "end": 1793,
+        "string": " "
+      },
+      {
+        "start": 1793,
+        "end": 1797,
+        "string": "day"
+      },
+      {
+        "start": 1797,
+        "end": 1798,
+        "string": " "
+      },
+      {
+        "start": 1798,
+        "end": 1807,
+        "string": "tracking"
+      },
+      {
+        "start": 1807,
+        "end": 1808,
+        "string": " "
+      },
+      {
+        "start": 1808,
+        "end": 1810,
+        "string": "5"
+      },
+      {
+        "start": 1810,
+        "end": 1811,
+        "string": " "
+      },
+      {
+        "start": 1811,
+        "end": 1819,
+        "string": "percent"
+      },
+      {
+        "start": 1819,
+        "end": 1820,
+        "string": " "
+      },
+      {
+        "start": 1820,
+        "end": 1827,
+        "string": "higher"
+      },
+      {
+        "start": 1827,
+        "end": 1828,
+        "string": " "
+      },
+      {
+        "start": 1828,
+        "end": 1835,
+        "string": "during"
+      },
+      {
+        "start": 1835,
+        "end": 1836,
+        "string": " "
+      },
+      {
+        "start": 1836,
+        "end": 1841,
+        "string": "that"
+      },
+      {
+        "start": 1841,
+        "end": 1842,
+        "string": " "
+      },
+      {
+        "start": 1842,
+        "end": 1847,
+        "string": "week"
+      },
+      {
+        "start": 1847,
+        "end": 1848,
+        "string": " "
+      },
+      {
+        "start": 1848,
+        "end": 1853,
+        "string": "than"
+      },
+      {
+        "start": 1853,
+        "end": 1854,
+        "string": " "
+      },
+      {
+        "start": 1854,
+        "end": 1858,
+        "string": "the"
+      },
+      {
+        "start": 1858,
+        "end": 1859,
+        "string": " "
+      },
+      {
+        "start": 1859,
+        "end": 1867,
+        "string": "January"
+      },
+      {
+        "start": 1867,
+        "end": 1868,
+        "string": " "
+      },
+      {
+        "start": 1868,
+        "end": 1873,
+        "string": "2019"
+      },
+      {
+        "start": 1873,
+        "end": 1874,
+        "string": " "
+      },
+      {
+        "start": 1874,
+        "end": 1882,
+        "string": "average"
+      },
+      {
+        "start": 1882,
+        "end": 1883,
+        "string": " "
+      },
+      {
+        "start": 1883,
+        "end": 1885,
+        "string": "."
+      },
+      {
+        "start": 1885,
+        "end": 1886,
+        "string": " "
+      },
+      {
+        "start": 1886,
+        "end": 1890,
+        "string": "Due"
+      },
+      {
+        "start": 1890,
+        "end": 1891,
+        "string": " "
+      },
+      {
+        "start": 1891,
+        "end": 1894,
+        "string": "to"
+      },
+      {
+        "start": 1894,
+        "end": 1895,
+        "string": " "
+      },
+      {
+        "start": 1895,
+        "end": 1899,
+        "string": "the"
+      },
+      {
+        "start": 1899,
+        "end": 1900,
+        "string": " "
+      },
+      {
+        "start": 1900,
+        "end": 1909,
+        "string": "variable"
+      },
+      {
+        "start": 1909,
+        "end": 1910,
+        "string": " "
+      },
+      {
+        "start": 1910,
+        "end": 1917,
+        "string": "timing"
+      },
+      {
+        "start": 1917,
+        "end": 1918,
+        "string": " "
+      },
+      {
+        "start": 1918,
+        "end": 1921,
+        "string": "of"
+      },
+      {
+        "start": 1921,
+        "end": 1922,
+        "string": " "
+      },
+      {
+        "start": 1922,
+        "end": 1926,
+        "string": "the"
+      },
+      {
+        "start": 1926,
+        "end": 1927,
+        "string": " "
+      },
+      {
+        "start": 1927,
+        "end": 1935,
+        "string": "Chinese"
+      },
+      {
+        "start": 1935,
+        "end": 1936,
+        "string": " "
+      },
+      {
+        "start": 1936,
+        "end": 1942,
+        "string": "Lunar"
+      },
+      {
+        "start": 1942,
+        "end": 1943,
+        "string": " "
+      },
+      {
+        "start": 1943,
+        "end": 1947,
+        "string": "New"
+      },
+      {
+        "start": 1947,
+        "end": 1948,
+        "string": " "
+      },
+      {
+        "start": 1948,
+        "end": 1953,
+        "string": "Year"
+      },
+      {
+        "start": 1953,
+        "end": 1954,
+        "string": " "
+      },
+      {
+        "start": 1954,
+        "end": 1956,
+        "string": ","
+      },
+      {
+        "start": 1956,
+        "end": 1957,
+        "string": " "
+      },
+      {
+        "start": 1957,
+        "end": 1963,
+        "string": "which"
+      },
+      {
+        "start": 1963,
+        "end": 1964,
+        "string": " "
+      },
+      {
+        "start": 1964,
+        "end": 1970,
+        "string": "falls"
+      },
+      {
+        "start": 1970,
+        "end": 1971,
+        "string": " "
+      },
+      {
+        "start": 1971,
+        "end": 1978,
+        "string": "either"
+      },
+      {
+        "start": 1978,
+        "end": 1979,
+        "string": " "
+      },
+      {
+        "start": 1979,
+        "end": 1982,
+        "string": "in"
+      },
+      {
+        "start": 1982,
+        "end": 1983,
+        "string": " "
+      },
+      {
+        "start": 1983,
+        "end": 1991,
+        "string": "January"
+      },
+      {
+        "start": 1991,
+        "end": 1992,
+        "string": " "
+      },
+      {
+        "start": 1992,
+        "end": 1995,
+        "string": "or"
+      },
+      {
+        "start": 1995,
+        "end": 1996,
+        "string": " "
+      },
+      {
+        "start": 1996,
+        "end": 2005,
+        "string": "February"
+      },
+      {
+        "start": 2005,
+        "end": 2006,
+        "string": " "
+      },
+      {
+        "start": 2006,
+        "end": 2008,
+        "string": ","
+      },
+      {
+        "start": 2008,
+        "end": 2009,
+        "string": " "
+      },
+      {
+        "start": 2009,
+        "end": 2013,
+        "string": "the"
+      },
+      {
+        "start": 2013,
+        "end": 2014,
+        "string": " "
+      },
+      {
+        "start": 2014,
+        "end": 2020,
+        "string": "first"
+      },
+      {
+        "start": 2020,
+        "end": 2021,
+        "string": " "
+      },
+      {
+        "start": 2021,
+        "end": 2025,
+        "string": "two"
+      },
+      {
+        "start": 2025,
+        "end": 2026,
+        "string": " "
+      },
+      {
+        "start": 2026,
+        "end": 2033,
+        "string": "months"
+      },
+      {
+        "start": 2033,
+        "end": 2034,
+        "string": " "
+      },
+      {
+        "start": 2034,
+        "end": 2037,
+        "string": "of"
+      },
+      {
+        "start": 2037,
+        "end": 2038,
+        "string": " "
+      },
+      {
+        "start": 2038,
+        "end": 2042,
+        "string": "the"
+      },
+      {
+        "start": 2042,
+        "end": 2043,
+        "string": " "
+      },
+      {
+        "start": 2043,
+        "end": 2048,
+        "string": "year"
+      },
+      {
+        "start": 2048,
+        "end": 2049,
+        "string": " "
+      },
+      {
+        "start": 2049,
+        "end": 2053,
+        "string": "are"
+      },
+      {
+        "start": 2053,
+        "end": 2054,
+        "string": " "
+      },
+      {
+        "start": 2054,
+        "end": 2064,
+        "string": "sometimes"
+      },
+      {
+        "start": 2064,
+        "end": 2065,
+        "string": " "
+      },
+      {
+        "start": 2065,
+        "end": 2076,
+        "string": "considered"
+      },
+      {
+        "start": 2076,
+        "end": 2077,
+        "string": " "
+      },
+      {
+        "start": 2077,
+        "end": 2080,
+        "string": "in"
+      },
+      {
+        "start": 2080,
+        "end": 2081,
+        "string": " "
+      },
+      {
+        "start": 2081,
+        "end": 2088,
+        "string": "tandem"
+      },
+      {
+        "start": 2088,
+        "end": 2089,
+        "string": " "
+      },
+      {
+        "start": 2089,
+        "end": 2091,
+        "string": "."
+      },
+      {
+        "start": 2091,
+        "end": 2092,
+        "string": " "
+      }
+    ]
+  }
+}

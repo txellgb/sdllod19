@@ -1,0 +1,2371 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "f793068c25e94c4ebd1600bfe2d578c4.doc",
+  "id": "f793068c25e94c4ebd1600bfe2d578c4.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "f793068c25e94c4ebd1600bfe2d578c4.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 7,
+        "string": "Jenrry"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "string": "Mejia"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "string": "strikes"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "string": "out"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "string": "side"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "string": "in"
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "string": " "
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "string": "spring"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "string": "debut"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "string": ","
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "string": "says"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 66,
+        "string": "he"
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "string": " "
+      },
+      {
+        "start": 67,
+        "end": 71,
+        "string": "can"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "string": "be"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "string": "better"
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "string": " "
+      },
+      {
+        "start": 84,
+        "end": 89,
+        "string": "than"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "string": "he"
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "string": " "
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "string": "was"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 104,
+        "string": "with"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 110,
+        "string": "Mets"
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "string": " "
+      },
+      {
+        "start": 111,
+        "end": 122,
+        "string": "originally"
+      },
+      {
+        "start": 122,
+        "end": 123,
+        "string": " "
+      },
+      {
+        "start": 123,
+        "end": 132,
+        "string": "appeared"
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "string": " "
+      },
+      {
+        "start": 133,
+        "end": 136,
+        "string": "on"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 157,
+        "string": "nbcsportsboston.com"
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "string": " "
+      },
+      {
+        "start": 158,
+        "end": 167,
+        "string": "Formerly"
+      },
+      {
+        "start": 167,
+        "end": 168,
+        "string": " "
+      },
+      {
+        "start": 168,
+        "end": 175,
+        "string": "banned"
+      },
+      {
+        "start": 175,
+        "end": 176,
+        "string": " "
+      },
+      {
+        "start": 176,
+        "end": 185,
+        "string": "reliever"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 193,
+        "string": "Jenrry"
+      },
+      {
+        "start": 193,
+        "end": 194,
+        "string": " "
+      },
+      {
+        "start": 194,
+        "end": 200,
+        "string": "Mejia"
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "string": " "
+      },
+      {
+        "start": 201,
+        "end": 205,
+        "string": "had"
+      },
+      {
+        "start": 205,
+        "end": 206,
+        "string": " "
+      },
+      {
+        "start": 206,
+        "end": 208,
+        "string": "a"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 220,
+        "string": "successful"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 228,
+        "string": "return"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 232,
+        "string": "to"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 237,
+        "string": "the"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 244,
+        "string": "mound"
+      },
+      {
+        "start": 244,
+        "end": 245,
+        "string": " "
+      },
+      {
+        "start": 245,
+        "end": 254,
+        "string": "Thursday"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 258,
+        "string": "as"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 262,
+        "string": "he"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 270,
+        "string": "closed"
+      },
+      {
+        "start": 270,
+        "end": 271,
+        "string": " "
+      },
+      {
+        "start": 271,
+        "end": 275,
+        "string": "out"
+      },
+      {
+        "start": 275,
+        "end": 276,
+        "string": " "
+      },
+      {
+        "start": 276,
+        "end": 280,
+        "string": "the"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 285,
+        "string": "Red"
+      },
+      {
+        "start": 285,
+        "end": 286,
+        "string": " "
+      },
+      {
+        "start": 286,
+        "end": 290,
+        "string": "Sox"
+      },
+      {
+        "start": 290,
+        "end": 291,
+        "string": " "
+      },
+      {
+        "start": 291,
+        "end": 293,
+        "string": "'"
+      },
+      {
+        "start": 293,
+        "end": 294,
+        "string": " "
+      },
+      {
+        "start": 294,
+        "end": 301,
+        "string": "spring"
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 307,
+        "string": "13-5"
+      },
+      {
+        "start": 307,
+        "end": 308,
+        "string": " "
+      },
+      {
+        "start": 308,
+        "end": 312,
+        "string": "win"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 318,
+        "string": "over"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 323,
+        "string": "the"
+      },
+      {
+        "start": 323,
+        "end": 324,
+        "string": " "
+      },
+      {
+        "start": 324,
+        "end": 334,
+        "string": "Nationals"
+      },
+      {
+        "start": 334,
+        "end": 335,
+        "string": " "
+      },
+      {
+        "start": 335,
+        "end": 337,
+        "string": "."
+      },
+      {
+        "start": 337,
+        "end": 338,
+        "string": " "
+      },
+      {
+        "start": 338,
+        "end": 344,
+        "string": "Mejia"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 354,
+        "string": "received"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 357,
+        "string": "a"
+      },
+      {
+        "start": 357,
+        "end": 358,
+        "string": " "
+      },
+      {
+        "start": 358,
+        "end": 367,
+        "string": "lifetime"
+      },
+      {
+        "start": 367,
+        "end": 368,
+        "string": " "
+      },
+      {
+        "start": 368,
+        "end": 372,
+        "string": "ban"
+      },
+      {
+        "start": 372,
+        "end": 373,
+        "string": " "
+      },
+      {
+        "start": 373,
+        "end": 378,
+        "string": "from"
+      },
+      {
+        "start": 378,
+        "end": 379,
+        "string": " "
+      },
+      {
+        "start": 379,
+        "end": 383,
+        "string": "MLB"
+      },
+      {
+        "start": 383,
+        "end": 384,
+        "string": " "
+      },
+      {
+        "start": 384,
+        "end": 387,
+        "string": "in"
+      },
+      {
+        "start": 387,
+        "end": 388,
+        "string": " "
+      },
+      {
+        "start": 388,
+        "end": 393,
+        "string": "2016"
+      },
+      {
+        "start": 393,
+        "end": 394,
+        "string": " "
+      },
+      {
+        "start": 394,
+        "end": 400,
+        "string": "after"
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 409,
+        "string": "testing"
+      },
+      {
+        "start": 409,
+        "end": 410,
+        "string": " "
+      },
+      {
+        "start": 410,
+        "end": 419,
+        "string": "positive"
+      },
+      {
+        "start": 419,
+        "end": 420,
+        "string": " "
+      },
+      {
+        "start": 420,
+        "end": 424,
+        "string": "for"
+      },
+      {
+        "start": 424,
+        "end": 425,
+        "string": " "
+      },
+      {
+        "start": 425,
+        "end": 447,
+        "string": "performance-enhancing"
+      },
+      {
+        "start": 447,
+        "end": 448,
+        "string": " "
+      },
+      {
+        "start": 448,
+        "end": 454,
+        "string": "drugs"
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 459,
+        "string": "for"
+      },
+      {
+        "start": 459,
+        "end": 460,
+        "string": " "
+      },
+      {
+        "start": 460,
+        "end": 464,
+        "string": "the"
+      },
+      {
+        "start": 464,
+        "end": 465,
+        "string": " "
+      },
+      {
+        "start": 465,
+        "end": 471,
+        "string": "third"
+      },
+      {
+        "start": 471,
+        "end": 472,
+        "string": " "
+      },
+      {
+        "start": 472,
+        "end": 477,
+        "string": "time"
+      },
+      {
+        "start": 477,
+        "end": 478,
+        "string": " "
+      },
+      {
+        "start": 478,
+        "end": 480,
+        "string": "."
+      },
+      {
+        "start": 480,
+        "end": 481,
+        "string": " "
+      },
+      {
+        "start": 481,
+        "end": 485,
+        "string": "The"
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 494,
+        "string": "ex-Mets"
+      },
+      {
+        "start": 494,
+        "end": 495,
+        "string": " "
+      },
+      {
+        "start": 495,
+        "end": 504,
+        "string": "reliever"
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 509,
+        "string": "was"
+      },
+      {
+        "start": 509,
+        "end": 510,
+        "string": " "
+      },
+      {
+        "start": 510,
+        "end": 521,
+        "string": "reinstated"
+      },
+      {
+        "start": 521,
+        "end": 522,
+        "string": " "
+      },
+      {
+        "start": 522,
+        "end": 527,
+        "string": "last"
+      },
+      {
+        "start": 527,
+        "end": 528,
+        "string": " "
+      },
+      {
+        "start": 528,
+        "end": 533,
+        "string": "July"
+      },
+      {
+        "start": 533,
+        "end": 534,
+        "string": " "
+      },
+      {
+        "start": 534,
+        "end": 538,
+        "string": "and"
+      },
+      {
+        "start": 538,
+        "end": 539,
+        "string": " "
+      },
+      {
+        "start": 539,
+        "end": 546,
+        "string": "signed"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 552,
+        "string": "with"
+      },
+      {
+        "start": 552,
+        "end": 553,
+        "string": " "
+      },
+      {
+        "start": 553,
+        "end": 560,
+        "string": "Boston"
+      },
+      {
+        "start": 560,
+        "end": 561,
+        "string": " "
+      },
+      {
+        "start": 561,
+        "end": 564,
+        "string": "in"
+      },
+      {
+        "start": 564,
+        "end": 565,
+        "string": " "
+      },
+      {
+        "start": 565,
+        "end": 569,
+        "string": "the"
+      },
+      {
+        "start": 569,
+        "end": 570,
+        "string": " "
+      },
+      {
+        "start": 570,
+        "end": 580,
+        "string": "offseason"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 583,
+        "string": "."
+      },
+      {
+        "start": 583,
+        "end": 584,
+        "string": " "
+      },
+      {
+        "start": 584,
+        "end": 590,
+        "string": "Betts"
+      },
+      {
+        "start": 590,
+        "end": 591,
+        "string": " "
+      },
+      {
+        "start": 591,
+        "end": 598,
+        "string": "reacts"
+      },
+      {
+        "start": 598,
+        "end": 599,
+        "string": " "
+      },
+      {
+        "start": 599,
+        "end": 602,
+        "string": "to"
+      },
+      {
+        "start": 602,
+        "end": 603,
+        "string": " "
+      },
+      {
+        "start": 603,
+        "end": 610,
+        "string": "Harper"
+      },
+      {
+        "start": 610,
+        "end": 611,
+        "string": " "
+      },
+      {
+        "start": 611,
+        "end": 614,
+        "string": "'s"
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 625,
+        "string": "mega-deal"
+      },
+      {
+        "start": 625,
+        "end": 626,
+        "string": " "
+      },
+      {
+        "start": 626,
+        "end": 629,
+        "string": "In"
+      },
+      {
+        "start": 629,
+        "end": 630,
+        "string": " "
+      },
+      {
+        "start": 630,
+        "end": 639,
+        "string": "Thursday"
+      },
+      {
+        "start": 639,
+        "end": 640,
+        "string": " "
+      },
+      {
+        "start": 640,
+        "end": 643,
+        "string": "'s"
+      },
+      {
+        "start": 643,
+        "end": 644,
+        "string": " "
+      },
+      {
+        "start": 644,
+        "end": 657,
+        "string": "ninth-inning"
+      },
+      {
+        "start": 657,
+        "end": 658,
+        "string": " "
+      },
+      {
+        "start": 658,
+        "end": 669,
+        "string": "appearance"
+      },
+      {
+        "start": 669,
+        "end": 670,
+        "string": " "
+      },
+      {
+        "start": 670,
+        "end": 672,
+        "string": ","
+      },
+      {
+        "start": 672,
+        "end": 673,
+        "string": " "
+      },
+      {
+        "start": 673,
+        "end": 679,
+        "string": "Mejia"
+      },
+      {
+        "start": 679,
+        "end": 680,
+        "string": " "
+      },
+      {
+        "start": 680,
+        "end": 687,
+        "string": "struck"
+      },
+      {
+        "start": 687,
+        "end": 688,
+        "string": " "
+      },
+      {
+        "start": 688,
+        "end": 692,
+        "string": "out"
+      },
+      {
+        "start": 692,
+        "end": 693,
+        "string": " "
+      },
+      {
+        "start": 693,
+        "end": 697,
+        "string": "the"
+      },
+      {
+        "start": 697,
+        "end": 698,
+        "string": " "
+      },
+      {
+        "start": 698,
+        "end": 703,
+        "string": "side"
+      },
+      {
+        "start": 703,
+        "end": 704,
+        "string": " "
+      },
+      {
+        "start": 704,
+        "end": 708,
+        "string": "and"
+      },
+      {
+        "start": 708,
+        "end": 709,
+        "string": " "
+      },
+      {
+        "start": 709,
+        "end": 716,
+        "string": "walked"
+      },
+      {
+        "start": 716,
+        "end": 717,
+        "string": " "
+      },
+      {
+        "start": 717,
+        "end": 721,
+        "string": "one"
+      },
+      {
+        "start": 721,
+        "end": 722,
+        "string": " "
+      },
+      {
+        "start": 722,
+        "end": 729,
+        "string": "batter"
+      },
+      {
+        "start": 729,
+        "end": 730,
+        "string": " "
+      },
+      {
+        "start": 730,
+        "end": 736,
+        "string": "while"
+      },
+      {
+        "start": 736,
+        "end": 737,
+        "string": " "
+      },
+      {
+        "start": 737,
+        "end": 745,
+        "string": "showing"
+      },
+      {
+        "start": 745,
+        "end": 746,
+        "string": " "
+      },
+      {
+        "start": 746,
+        "end": 750,
+        "string": "off"
+      },
+      {
+        "start": 750,
+        "end": 751,
+        "string": " "
+      },
+      {
+        "start": 751,
+        "end": 754,
+        "string": "an"
+      },
+      {
+        "start": 754,
+        "end": 755,
+        "string": " "
+      },
+      {
+        "start": 755,
+        "end": 766,
+        "string": "impressive"
+      },
+      {
+        "start": 766,
+        "end": 767,
+        "string": " "
+      },
+      {
+        "start": 767,
+        "end": 774,
+        "string": "cutter"
+      },
+      {
+        "start": 774,
+        "end": 775,
+        "string": " "
+      },
+      {
+        "start": 775,
+        "end": 779,
+        "string": "and"
+      },
+      {
+        "start": 779,
+        "end": 780,
+        "string": " "
+      },
+      {
+        "start": 780,
+        "end": 787,
+        "string": "slider"
+      },
+      {
+        "start": 787,
+        "end": 788,
+        "string": " "
+      },
+      {
+        "start": 788,
+        "end": 790,
+        "string": "."
+      },
+      {
+        "start": 790,
+        "end": 791,
+        "string": " "
+      },
+      {
+        "start": 791,
+        "end": 794,
+        "string": "He"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 799,
+        "string": "was"
+      },
+      {
+        "start": 799,
+        "end": 800,
+        "string": " "
+      },
+      {
+        "start": 800,
+        "end": 806,
+        "string": "asked"
+      },
+      {
+        "start": 806,
+        "end": 807,
+        "string": " "
+      },
+      {
+        "start": 807,
+        "end": 813,
+        "string": "after"
+      },
+      {
+        "start": 813,
+        "end": 814,
+        "string": " "
+      },
+      {
+        "start": 814,
+        "end": 818,
+        "string": "the"
+      },
+      {
+        "start": 818,
+        "end": 819,
+        "string": " "
+      },
+      {
+        "start": 819,
+        "end": 824,
+        "string": "game"
+      },
+      {
+        "start": 824,
+        "end": 825,
+        "string": " "
+      },
+      {
+        "start": 825,
+        "end": 833,
+        "string": "whether"
+      },
+      {
+        "start": 833,
+        "end": 834,
+        "string": " "
+      },
+      {
+        "start": 834,
+        "end": 837,
+        "string": "he"
+      },
+      {
+        "start": 837,
+        "end": 838,
+        "string": " "
+      },
+      {
+        "start": 838,
+        "end": 847,
+        "string": "believes"
+      },
+      {
+        "start": 847,
+        "end": 848,
+        "string": " "
+      },
+      {
+        "start": 848,
+        "end": 851,
+        "string": "he"
+      },
+      {
+        "start": 851,
+        "end": 852,
+        "string": " "
+      },
+      {
+        "start": 852,
+        "end": 856,
+        "string": "can"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 860,
+        "string": "be"
+      },
+      {
+        "start": 860,
+        "end": 861,
+        "string": " "
+      },
+      {
+        "start": 861,
+        "end": 865,
+        "string": "the"
+      },
+      {
+        "start": 865,
+        "end": 866,
+        "string": " "
+      },
+      {
+        "start": 866,
+        "end": 871,
+        "string": "same"
+      },
+      {
+        "start": 871,
+        "end": 872,
+        "string": " "
+      },
+      {
+        "start": 872,
+        "end": 880,
+        "string": "pitcher"
+      },
+      {
+        "start": 880,
+        "end": 881,
+        "string": " "
+      },
+      {
+        "start": 881,
+        "end": 884,
+        "string": "he"
+      },
+      {
+        "start": 884,
+        "end": 885,
+        "string": " "
+      },
+      {
+        "start": 885,
+        "end": 889,
+        "string": "was"
+      },
+      {
+        "start": 889,
+        "end": 890,
+        "string": " "
+      },
+      {
+        "start": 890,
+        "end": 897,
+        "string": "during"
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 902,
+        "string": "his"
+      },
+      {
+        "start": 902,
+        "end": 903,
+        "string": " "
+      },
+      {
+        "start": 903,
+        "end": 908,
+        "string": "time"
+      },
+      {
+        "start": 908,
+        "end": 909,
+        "string": " "
+      },
+      {
+        "start": 909,
+        "end": 914,
+        "string": "with"
+      },
+      {
+        "start": 914,
+        "end": 915,
+        "string": " "
+      },
+      {
+        "start": 915,
+        "end": 919,
+        "string": "the"
+      },
+      {
+        "start": 919,
+        "end": 920,
+        "string": " "
+      },
+      {
+        "start": 920,
+        "end": 925,
+        "string": "Mets"
+      },
+      {
+        "start": 925,
+        "end": 926,
+        "string": " "
+      },
+      {
+        "start": 926,
+        "end": 928,
+        "string": "."
+      },
+      {
+        "start": 928,
+        "end": 929,
+        "string": " "
+      },
+      {
+        "start": 929,
+        "end": 931,
+        "string": "\""
+      },
+      {
+        "start": 931,
+        "end": 932,
+        "string": " "
+      },
+      {
+        "start": 932,
+        "end": 938,
+        "string": "Maybe"
+      },
+      {
+        "start": 938,
+        "end": 939,
+        "string": " "
+      },
+      {
+        "start": 939,
+        "end": 946,
+        "string": "better"
+      },
+      {
+        "start": 946,
+        "end": 947,
+        "string": " "
+      },
+      {
+        "start": 947,
+        "end": 949,
+        "string": ","
+      },
+      {
+        "start": 949,
+        "end": 950,
+        "string": " "
+      },
+      {
+        "start": 950,
+        "end": 952,
+        "string": "\""
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 959,
+        "string": "Mejia"
+      },
+      {
+        "start": 959,
+        "end": 960,
+        "string": " "
+      },
+      {
+        "start": 960,
+        "end": 965,
+        "string": "said"
+      },
+      {
+        "start": 965,
+        "end": 966,
+        "string": " "
+      },
+      {
+        "start": 966,
+        "end": 968,
+        "string": "."
+      },
+      {
+        "start": 968,
+        "end": 969,
+        "string": " "
+      },
+      {
+        "start": 969,
+        "end": 971,
+        "string": "\""
+      },
+      {
+        "start": 971,
+        "end": 972,
+        "string": " "
+      },
+      {
+        "start": 972,
+        "end": 974,
+        "string": "I"
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 978,
+        "string": "'m"
+      },
+      {
+        "start": 978,
+        "end": 979,
+        "string": " "
+      },
+      {
+        "start": 979,
+        "end": 987,
+        "string": "working"
+      },
+      {
+        "start": 987,
+        "end": 988,
+        "string": " "
+      },
+      {
+        "start": 988,
+        "end": 993,
+        "string": "hard"
+      },
+      {
+        "start": 993,
+        "end": 994,
+        "string": " "
+      },
+      {
+        "start": 994,
+        "end": 998,
+        "string": "for"
+      },
+      {
+        "start": 998,
+        "end": 999,
+        "string": " "
+      },
+      {
+        "start": 999,
+        "end": 1002,
+        "string": "it"
+      },
+      {
+        "start": 1002,
+        "end": 1003,
+        "string": " "
+      },
+      {
+        "start": 1003,
+        "end": 1005,
+        "string": "."
+      },
+      {
+        "start": 1005,
+        "end": 1006,
+        "string": " "
+      },
+      {
+        "start": 1006,
+        "end": 1008,
+        "string": "I"
+      },
+      {
+        "start": 1008,
+        "end": 1009,
+        "string": " "
+      },
+      {
+        "start": 1009,
+        "end": 1012,
+        "string": "'m"
+      },
+      {
+        "start": 1012,
+        "end": 1013,
+        "string": " "
+      },
+      {
+        "start": 1013,
+        "end": 1016,
+        "string": "29"
+      },
+      {
+        "start": 1016,
+        "end": 1017,
+        "string": " "
+      },
+      {
+        "start": 1017,
+        "end": 1019,
+        "string": ","
+      },
+      {
+        "start": 1019,
+        "end": 1020,
+        "string": " "
+      },
+      {
+        "start": 1020,
+        "end": 1027,
+        "string": "before"
+      },
+      {
+        "start": 1027,
+        "end": 1028,
+        "string": " "
+      },
+      {
+        "start": 1028,
+        "end": 1030,
+        "string": "I"
+      },
+      {
+        "start": 1030,
+        "end": 1031,
+        "string": " "
+      },
+      {
+        "start": 1031,
+        "end": 1035,
+        "string": "was"
+      },
+      {
+        "start": 1035,
+        "end": 1036,
+        "string": " "
+      },
+      {
+        "start": 1036,
+        "end": 1039,
+        "string": "24"
+      },
+      {
+        "start": 1039,
+        "end": 1040,
+        "string": " "
+      },
+      {
+        "start": 1040,
+        "end": 1042,
+        "string": "."
+      },
+      {
+        "start": 1042,
+        "end": 1043,
+        "string": " "
+      },
+      {
+        "start": 1043,
+        "end": 1045,
+        "string": "I"
+      },
+      {
+        "start": 1045,
+        "end": 1046,
+        "string": " "
+      },
+      {
+        "start": 1046,
+        "end": 1052,
+        "string": "think"
+      },
+      {
+        "start": 1052,
+        "end": 1053,
+        "string": " "
+      },
+      {
+        "start": 1053,
+        "end": 1055,
+        "string": "I"
+      },
+      {
+        "start": 1055,
+        "end": 1056,
+        "string": " "
+      },
+      {
+        "start": 1056,
+        "end": 1059,
+        "string": "'m"
+      },
+      {
+        "start": 1059,
+        "end": 1060,
+        "string": " "
+      },
+      {
+        "start": 1060,
+        "end": 1064,
+        "string": "gon"
+      },
+      {
+        "start": 1064,
+        "end": 1065,
+        "string": " "
+      },
+      {
+        "start": 1065,
+        "end": 1068,
+        "string": "na"
+      },
+      {
+        "start": 1068,
+        "end": 1069,
+        "string": " "
+      },
+      {
+        "start": 1069,
+        "end": 1072,
+        "string": "be"
+      },
+      {
+        "start": 1072,
+        "end": 1073,
+        "string": " "
+      },
+      {
+        "start": 1073,
+        "end": 1080,
+        "string": "better"
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1083,
+        "string": "."
+      },
+      {
+        "start": 1083,
+        "end": 1084,
+        "string": " "
+      },
+      {
+        "start": 1084,
+        "end": 1090,
+        "string": "Mejia"
+      },
+      {
+        "start": 1090,
+        "end": 1091,
+        "string": " "
+      },
+      {
+        "start": 1091,
+        "end": 1097,
+        "string": "still"
+      },
+      {
+        "start": 1097,
+        "end": 1098,
+        "string": " "
+      },
+      {
+        "start": 1098,
+        "end": 1102,
+        "string": "has"
+      },
+      {
+        "start": 1102,
+        "end": 1103,
+        "string": " "
+      },
+      {
+        "start": 1103,
+        "end": 1105,
+        "string": "a"
+      },
+      {
+        "start": 1105,
+        "end": 1106,
+        "string": " "
+      },
+      {
+        "start": 1106,
+        "end": 1111,
+        "string": "long"
+      },
+      {
+        "start": 1111,
+        "end": 1112,
+        "string": " "
+      },
+      {
+        "start": 1112,
+        "end": 1117,
+        "string": "road"
+      },
+      {
+        "start": 1117,
+        "end": 1118,
+        "string": " "
+      },
+      {
+        "start": 1118,
+        "end": 1121,
+        "string": "to"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1127,
+        "string": "make"
+      },
+      {
+        "start": 1127,
+        "end": 1128,
+        "string": " "
+      },
+      {
+        "start": 1128,
+        "end": 1131,
+        "string": "it"
+      },
+      {
+        "start": 1131,
+        "end": 1132,
+        "string": " "
+      },
+      {
+        "start": 1132,
+        "end": 1137,
+        "string": "onto"
+      },
+      {
+        "start": 1137,
+        "end": 1138,
+        "string": " "
+      },
+      {
+        "start": 1138,
+        "end": 1142,
+        "string": "the"
+      },
+      {
+        "start": 1142,
+        "end": 1143,
+        "string": " "
+      },
+      {
+        "start": 1143,
+        "end": 1149,
+        "string": "major"
+      },
+      {
+        "start": 1149,
+        "end": 1150,
+        "string": " "
+      },
+      {
+        "start": 1150,
+        "end": 1157,
+        "string": "league"
+      },
+      {
+        "start": 1157,
+        "end": 1158,
+        "string": " "
+      },
+      {
+        "start": 1158,
+        "end": 1163,
+        "string": "club"
+      },
+      {
+        "start": 1163,
+        "end": 1164,
+        "string": " "
+      },
+      {
+        "start": 1164,
+        "end": 1167,
+        "string": "as"
+      },
+      {
+        "start": 1167,
+        "end": 1168,
+        "string": " "
+      },
+      {
+        "start": 1168,
+        "end": 1172,
+        "string": "his"
+      },
+      {
+        "start": 1172,
+        "end": 1173,
+        "string": " "
+      },
+      {
+        "start": 1173,
+        "end": 1182,
+        "string": "contract"
+      },
+      {
+        "start": 1182,
+        "end": 1183,
+        "string": " "
+      },
+      {
+        "start": 1183,
+        "end": 1188,
+        "string": "does"
+      },
+      {
+        "start": 1188,
+        "end": 1189,
+        "string": " "
+      },
+      {
+        "start": 1189,
+        "end": 1193,
+        "string": "n't"
+      },
+      {
+        "start": 1193,
+        "end": 1194,
+        "string": " "
+      },
+      {
+        "start": 1194,
+        "end": 1202,
+        "string": "include"
+      },
+      {
+        "start": 1202,
+        "end": 1203,
+        "string": " "
+      },
+      {
+        "start": 1203,
+        "end": 1206,
+        "string": "an"
+      },
+      {
+        "start": 1206,
+        "end": 1207,
+        "string": " "
+      },
+      {
+        "start": 1207,
+        "end": 1214,
+        "string": "invite"
+      },
+      {
+        "start": 1214,
+        "end": 1215,
+        "string": " "
+      },
+      {
+        "start": 1215,
+        "end": 1218,
+        "string": "to"
+      },
+      {
+        "start": 1218,
+        "end": 1219,
+        "string": " "
+      },
+      {
+        "start": 1219,
+        "end": 1230,
+        "string": "big-league"
+      },
+      {
+        "start": 1230,
+        "end": 1231,
+        "string": " "
+      },
+      {
+        "start": 1231,
+        "end": 1236,
+        "string": "camp"
+      },
+      {
+        "start": 1236,
+        "end": 1237,
+        "string": " "
+      },
+      {
+        "start": 1237,
+        "end": 1239,
+        "string": "."
+      },
+      {
+        "start": 1239,
+        "end": 1240,
+        "string": " "
+      },
+      {
+        "start": 1240,
+        "end": 1244,
+        "string": "But"
+      },
+      {
+        "start": 1244,
+        "end": 1245,
+        "string": " "
+      },
+      {
+        "start": 1245,
+        "end": 1248,
+        "string": "if"
+      },
+      {
+        "start": 1248,
+        "end": 1249,
+        "string": " "
+      },
+      {
+        "start": 1249,
+        "end": 1252,
+        "string": "he"
+      },
+      {
+        "start": 1252,
+        "end": 1253,
+        "string": " "
+      },
+      {
+        "start": 1253,
+        "end": 1263,
+        "string": "continues"
+      },
+      {
+        "start": 1263,
+        "end": 1264,
+        "string": " "
+      },
+      {
+        "start": 1264,
+        "end": 1267,
+        "string": "to"
+      },
+      {
+        "start": 1267,
+        "end": 1268,
+        "string": " "
+      },
+      {
+        "start": 1268,
+        "end": 1273,
+        "string": "show"
+      },
+      {
+        "start": 1273,
+        "end": 1274,
+        "string": " "
+      },
+      {
+        "start": 1274,
+        "end": 1278,
+        "string": "the"
+      },
+      {
+        "start": 1278,
+        "end": 1279,
+        "string": " "
+      },
+      {
+        "start": 1279,
+        "end": 1285,
+        "string": "stuff"
+      },
+      {
+        "start": 1285,
+        "end": 1286,
+        "string": " "
+      },
+      {
+        "start": 1286,
+        "end": 1291,
+        "string": "that"
+      },
+      {
+        "start": 1291,
+        "end": 1292,
+        "string": " "
+      },
+      {
+        "start": 1292,
+        "end": 1296,
+        "string": "was"
+      },
+      {
+        "start": 1296,
+        "end": 1297,
+        "string": " "
+      },
+      {
+        "start": 1297,
+        "end": 1301,
+        "string": "put"
+      },
+      {
+        "start": 1301,
+        "end": 1302,
+        "string": " "
+      },
+      {
+        "start": 1302,
+        "end": 1305,
+        "string": "on"
+      },
+      {
+        "start": 1305,
+        "end": 1306,
+        "string": " "
+      },
+      {
+        "start": 1306,
+        "end": 1314,
+        "string": "display"
+      },
+      {
+        "start": 1314,
+        "end": 1315,
+        "string": " "
+      },
+      {
+        "start": 1315,
+        "end": 1318,
+        "string": "on"
+      },
+      {
+        "start": 1318,
+        "end": 1319,
+        "string": " "
+      },
+      {
+        "start": 1319,
+        "end": 1328,
+        "string": "Thursday"
+      },
+      {
+        "start": 1328,
+        "end": 1329,
+        "string": " "
+      },
+      {
+        "start": 1329,
+        "end": 1331,
+        "string": ","
+      },
+      {
+        "start": 1331,
+        "end": 1332,
+        "string": " "
+      },
+      {
+        "start": 1332,
+        "end": 1335,
+        "string": "he"
+      },
+      {
+        "start": 1335,
+        "end": 1336,
+        "string": " "
+      },
+      {
+        "start": 1336,
+        "end": 1340,
+        "string": "may"
+      },
+      {
+        "start": 1340,
+        "end": 1341,
+        "string": " "
+      },
+      {
+        "start": 1341,
+        "end": 1344,
+        "string": "be"
+      },
+      {
+        "start": 1344,
+        "end": 1345,
+        "string": " "
+      },
+      {
+        "start": 1345,
+        "end": 1350,
+        "string": "able"
+      },
+      {
+        "start": 1350,
+        "end": 1351,
+        "string": " "
+      },
+      {
+        "start": 1351,
+        "end": 1354,
+        "string": "to"
+      },
+      {
+        "start": 1354,
+        "end": 1355,
+        "string": " "
+      },
+      {
+        "start": 1355,
+        "end": 1360,
+        "string": "help"
+      },
+      {
+        "start": 1360,
+        "end": 1361,
+        "string": " "
+      },
+      {
+        "start": 1361,
+        "end": 1365,
+        "string": "out"
+      },
+      {
+        "start": 1365,
+        "end": 1366,
+        "string": " "
+      },
+      {
+        "start": 1366,
+        "end": 1371,
+        "string": "what"
+      },
+      {
+        "start": 1371,
+        "end": 1372,
+        "string": " "
+      },
+      {
+        "start": 1372,
+        "end": 1378,
+        "string": "looks"
+      },
+      {
+        "start": 1378,
+        "end": 1379,
+        "string": " "
+      },
+      {
+        "start": 1379,
+        "end": 1382,
+        "string": "to"
+      },
+      {
+        "start": 1382,
+        "end": 1383,
+        "string": " "
+      },
+      {
+        "start": 1383,
+        "end": 1386,
+        "string": "be"
+      },
+      {
+        "start": 1386,
+        "end": 1387,
+        "string": " "
+      },
+      {
+        "start": 1387,
+        "end": 1389,
+        "string": "a"
+      },
+      {
+        "start": 1389,
+        "end": 1390,
+        "string": " "
+      },
+      {
+        "start": 1390,
+        "end": 1395,
+        "string": "thin"
+      },
+      {
+        "start": 1395,
+        "end": 1396,
+        "string": " "
+      },
+      {
+        "start": 1396,
+        "end": 1404,
+        "string": "bullpen"
+      },
+      {
+        "start": 1404,
+        "end": 1405,
+        "string": " "
+      },
+      {
+        "start": 1405,
+        "end": 1408,
+        "string": "at"
+      },
+      {
+        "start": 1408,
+        "end": 1409,
+        "string": " "
+      },
+      {
+        "start": 1409,
+        "end": 1414,
+        "string": "some"
+      },
+      {
+        "start": 1414,
+        "end": 1415,
+        "string": " "
+      },
+      {
+        "start": 1415,
+        "end": 1421,
+        "string": "point"
+      },
+      {
+        "start": 1421,
+        "end": 1422,
+        "string": " "
+      },
+      {
+        "start": 1422,
+        "end": 1427,
+        "string": "this"
+      },
+      {
+        "start": 1427,
+        "end": 1428,
+        "string": " "
+      },
+      {
+        "start": 1428,
+        "end": 1435,
+        "string": "season"
+      },
+      {
+        "start": 1435,
+        "end": 1436,
+        "string": " "
+      },
+      {
+        "start": 1436,
+        "end": 1438,
+        "string": "."
+      },
+      {
+        "start": 1438,
+        "end": 1439,
+        "string": " "
+      }
+    ]
+  }
+}

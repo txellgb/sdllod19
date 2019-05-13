@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "35acdd899ea8461585d5c6bf3825aaea.doc",
+  "metadata": {
+    "title": "House Democrats Introduce Bill To Ensure Mueller's Report Goes Public",
+    "sourceUrl": "https://www.newsy.com/stories/house-democrats-introduce-bill-to-ensure-mueller-s-report-goes-public/",
+    "documentSource": "newsy.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

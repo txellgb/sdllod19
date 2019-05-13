@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "b3928f3d91a245bc868ad5d47a43c4b2.doc",
+  "metadata": {
+    "title": "Romania's unemployment rate down to 3.9 pct in January, new job creation rate slightly drops - Business Review",
+    "sourceUrl": "http://business-review.eu/business/romanias-unemployment-rate-down-to-3-9-pct-in-january-new-job-creation-rate-slightly-drops-197400",
+    "documentSource": "business-review.eu",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,1161 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "45f0ca6c4cb44840b4bc7b5855c71f39.doc",
+  "id": "45f0ca6c4cb44840b4bc7b5855c71f39.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "45f0ca6c4cb44840b4bc7b5855c71f39.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 9,
+        "string": "Reigning"
+      },
+      {
+        "start": 9,
+        "end": 10,
+        "string": " "
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "string": "MVP"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "string": "erupts"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "string": "with"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "string": "his"
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "string": " "
+      },
+      {
+        "start": 34,
+        "end": 40,
+        "string": "sixth"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "string": "50"
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "string": " "
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "string": "game"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "string": "of"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 62,
+        "string": "season"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "string": ","
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 74,
+        "string": "Houston"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 83,
+        "string": "rallies"
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "string": " "
+      },
+      {
+        "start": 84,
+        "end": 89,
+        "string": "over"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 96,
+        "string": "Miami"
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "string": " "
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "string": "The"
+      },
+      {
+        "start": 101,
+        "end": 102,
+        "string": " "
+      },
+      {
+        "start": 102,
+        "end": 107,
+        "string": "Heat"
+      },
+      {
+        "start": 107,
+        "end": 108,
+        "string": " "
+      },
+      {
+        "start": 108,
+        "end": 111,
+        "string": "--"
+      },
+      {
+        "start": 111,
+        "end": 112,
+        "string": " "
+      },
+      {
+        "start": 112,
+        "end": 119,
+        "string": "coming"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 124,
+        "string": "off"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 127,
+        "string": "a"
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 143,
+        "string": "buzzer-beating"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 152,
+        "string": "victory"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "string": " "
+      },
+      {
+        "start": 153,
+        "end": 161,
+        "string": "against"
+      },
+      {
+        "start": 161,
+        "end": 162,
+        "string": " "
+      },
+      {
+        "start": 162,
+        "end": 166,
+        "string": "the"
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 174,
+        "string": "Golden"
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 181,
+        "string": "State"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "string": " "
+      },
+      {
+        "start": 182,
+        "end": 191,
+        "string": "Warriors"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 195,
+        "string": "on"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 206,
+        "string": "Wednesday"
+      },
+      {
+        "start": 206,
+        "end": 207,
+        "string": " "
+      },
+      {
+        "start": 207,
+        "end": 213,
+        "string": "night"
+      },
+      {
+        "start": 213,
+        "end": 214,
+        "string": " "
+      },
+      {
+        "start": 214,
+        "end": 217,
+        "string": "--"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 222,
+        "string": "led"
+      },
+      {
+        "start": 222,
+        "end": 223,
+        "string": " "
+      },
+      {
+        "start": 223,
+        "end": 227,
+        "string": "the"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 233,
+        "string": "game"
+      },
+      {
+        "start": 233,
+        "end": 234,
+        "string": " "
+      },
+      {
+        "start": 234,
+        "end": 243,
+        "string": "starting"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 249,
+        "string": "from"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 254,
+        "string": "the"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 262,
+        "string": "second"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 271,
+        "string": "quarter"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 274,
+        "string": ","
+      },
+      {
+        "start": 274,
+        "end": 275,
+        "string": " "
+      },
+      {
+        "start": 275,
+        "end": 280,
+        "string": "when"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 286,
+        "string": "they"
+      },
+      {
+        "start": 286,
+        "end": 287,
+        "string": " "
+      },
+      {
+        "start": 287,
+        "end": 290,
+        "string": "go"
+      },
+      {
+        "start": 290,
+        "end": 291,
+        "string": " "
+      },
+      {
+        "start": 291,
+        "end": 294,
+        "string": "on"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 297,
+        "string": "a"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 304,
+        "string": "37-22"
+      },
+      {
+        "start": 304,
+        "end": 305,
+        "string": " "
+      },
+      {
+        "start": 305,
+        "end": 309,
+        "string": "run"
+      },
+      {
+        "start": 309,
+        "end": 310,
+        "string": " "
+      },
+      {
+        "start": 310,
+        "end": 312,
+        "string": "."
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 317,
+        "string": "The"
+      },
+      {
+        "start": 317,
+        "end": 318,
+        "string": " "
+      },
+      {
+        "start": 318,
+        "end": 327,
+        "string": "reigning"
+      },
+      {
+        "start": 327,
+        "end": 328,
+        "string": " "
+      },
+      {
+        "start": 328,
+        "end": 332,
+        "string": "MVP"
+      },
+      {
+        "start": 332,
+        "end": 333,
+        "string": " "
+      },
+      {
+        "start": 333,
+        "end": 340,
+        "string": "scored"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 344,
+        "string": "50"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 352,
+        "string": "points"
+      },
+      {
+        "start": 352,
+        "end": 353,
+        "string": " "
+      },
+      {
+        "start": 353,
+        "end": 357,
+        "string": "for"
+      },
+      {
+        "start": 357,
+        "end": 358,
+        "string": " "
+      },
+      {
+        "start": 358,
+        "end": 362,
+        "string": "the"
+      },
+      {
+        "start": 362,
+        "end": 363,
+        "string": " "
+      },
+      {
+        "start": 363,
+        "end": 369,
+        "string": "sixth"
+      },
+      {
+        "start": 369,
+        "end": 370,
+        "string": " "
+      },
+      {
+        "start": 370,
+        "end": 375,
+        "string": "time"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 381,
+        "string": "this"
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 389,
+        "string": "season"
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 392,
+        "string": "."
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      },
+      {
+        "start": 393,
+        "end": 397,
+        "string": "The"
+      },
+      {
+        "start": 397,
+        "end": 398,
+        "string": " "
+      },
+      {
+        "start": 398,
+        "end": 408,
+        "string": "Cleveland"
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 419,
+        "string": "Cavaliers"
+      },
+      {
+        "start": 419,
+        "end": 420,
+        "string": " "
+      },
+      {
+        "start": 420,
+        "end": 429,
+        "string": "defeated"
+      },
+      {
+        "start": 429,
+        "end": 430,
+        "string": " "
+      },
+      {
+        "start": 430,
+        "end": 434,
+        "string": "the"
+      },
+      {
+        "start": 434,
+        "end": 435,
+        "string": " "
+      },
+      {
+        "start": 435,
+        "end": 439,
+        "string": "New"
+      },
+      {
+        "start": 439,
+        "end": 440,
+        "string": " "
+      },
+      {
+        "start": 440,
+        "end": 445,
+        "string": "York"
+      },
+      {
+        "start": 445,
+        "end": 446,
+        "string": " "
+      },
+      {
+        "start": 446,
+        "end": 453,
+        "string": "Knicks"
+      },
+      {
+        "start": 453,
+        "end": 454,
+        "string": " "
+      },
+      {
+        "start": 454,
+        "end": 462,
+        "string": "125-118"
+      },
+      {
+        "start": 462,
+        "end": 463,
+        "string": " "
+      },
+      {
+        "start": 463,
+        "end": 470,
+        "string": "behind"
+      },
+      {
+        "start": 470,
+        "end": 471,
+        "string": " "
+      },
+      {
+        "start": 471,
+        "end": 476,
+        "string": "four"
+      },
+      {
+        "start": 476,
+        "end": 477,
+        "string": " "
+      },
+      {
+        "start": 477,
+        "end": 482,
+        "string": "Cavs"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 491,
+        "string": "players"
+      },
+      {
+        "start": 491,
+        "end": 492,
+        "string": " "
+      },
+      {
+        "start": 492,
+        "end": 500,
+        "string": "scoring"
+      },
+      {
+        "start": 500,
+        "end": 501,
+        "string": " "
+      },
+      {
+        "start": 501,
+        "end": 504,
+        "string": "20"
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 512,
+        "string": "points"
+      },
+      {
+        "start": 512,
+        "end": 513,
+        "string": " "
+      },
+      {
+        "start": 513,
+        "end": 515,
+        "string": "."
+      },
+      {
+        "start": 515,
+        "end": 516,
+        "string": " "
+      },
+      {
+        "start": 516,
+        "end": 522,
+        "string": "Kevin"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 528,
+        "string": "Love"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 536,
+        "string": "scored"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 540,
+        "string": "26"
+      },
+      {
+        "start": 540,
+        "end": 541,
+        "string": " "
+      },
+      {
+        "start": 541,
+        "end": 548,
+        "string": "points"
+      },
+      {
+        "start": 548,
+        "end": 549,
+        "string": " "
+      },
+      {
+        "start": 549,
+        "end": 551,
+        "string": ","
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 559,
+        "string": "Collin"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 567,
+        "string": "Sexton"
+      },
+      {
+        "start": 567,
+        "end": 568,
+        "string": " "
+      },
+      {
+        "start": 568,
+        "end": 572,
+        "string": "and"
+      },
+      {
+        "start": 572,
+        "end": 573,
+        "string": " "
+      },
+      {
+        "start": 573,
+        "end": 580,
+        "string": "Jordan"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 590,
+        "string": "Clarkson"
+      },
+      {
+        "start": 590,
+        "end": 591,
+        "string": " "
+      },
+      {
+        "start": 591,
+        "end": 596,
+        "string": "each"
+      },
+      {
+        "start": 596,
+        "end": 597,
+        "string": " "
+      },
+      {
+        "start": 597,
+        "end": 604,
+        "string": "scored"
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 608,
+        "string": "22"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 616,
+        "string": "points"
+      },
+      {
+        "start": 616,
+        "end": 617,
+        "string": " "
+      },
+      {
+        "start": 617,
+        "end": 621,
+        "string": "and"
+      },
+      {
+        "start": 621,
+        "end": 622,
+        "string": " "
+      },
+      {
+        "start": 622,
+        "end": 627,
+        "string": "Cedi"
+      },
+      {
+        "start": 627,
+        "end": 628,
+        "string": " "
+      },
+      {
+        "start": 628,
+        "end": 634,
+        "string": "Osman"
+      },
+      {
+        "start": 634,
+        "end": 635,
+        "string": " "
+      },
+      {
+        "start": 635,
+        "end": 645,
+        "string": "continued"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 650,
+        "string": "his"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 658,
+        "string": "recent"
+      },
+      {
+        "start": 658,
+        "end": 659,
+        "string": " "
+      },
+      {
+        "start": 659,
+        "end": 666,
+        "string": "strong"
+      },
+      {
+        "start": 666,
+        "end": 667,
+        "string": " "
+      },
+      {
+        "start": 667,
+        "end": 679,
+        "string": "performance"
+      },
+      {
+        "start": 679,
+        "end": 680,
+        "string": " "
+      },
+      {
+        "start": 680,
+        "end": 685,
+        "string": "with"
+      },
+      {
+        "start": 685,
+        "end": 686,
+        "string": " "
+      },
+      {
+        "start": 686,
+        "end": 689,
+        "string": "21"
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 697,
+        "string": "points"
+      },
+      {
+        "start": 697,
+        "end": 698,
+        "string": " "
+      },
+      {
+        "start": 698,
+        "end": 701,
+        "string": "as"
+      },
+      {
+        "start": 701,
+        "end": 702,
+        "string": " "
+      },
+      {
+        "start": 702,
+        "end": 706,
+        "string": "the"
+      },
+      {
+        "start": 706,
+        "end": 707,
+        "string": " "
+      },
+      {
+        "start": 707,
+        "end": 712,
+        "string": "Cavs"
+      },
+      {
+        "start": 712,
+        "end": 713,
+        "string": " "
+      },
+      {
+        "start": 713,
+        "end": 717,
+        "string": "get"
+      },
+      {
+        "start": 717,
+        "end": 718,
+        "string": " "
+      },
+      {
+        "start": 718,
+        "end": 724,
+        "string": "their"
+      },
+      {
+        "start": 724,
+        "end": 725,
+        "string": " "
+      },
+      {
+        "start": 725,
+        "end": 730,
+        "string": "15th"
+      },
+      {
+        "start": 730,
+        "end": 731,
+        "string": " "
+      },
+      {
+        "start": 731,
+        "end": 735,
+        "string": "win"
+      },
+      {
+        "start": 735,
+        "end": 736,
+        "string": " "
+      },
+      {
+        "start": 736,
+        "end": 739,
+        "string": "of"
+      },
+      {
+        "start": 739,
+        "end": 740,
+        "string": " "
+      },
+      {
+        "start": 740,
+        "end": 747,
+        "string": "season"
+      },
+      {
+        "start": 747,
+        "end": 748,
+        "string": " "
+      },
+      {
+        "start": 748,
+        "end": 750,
+        "string": "."
+      },
+      {
+        "start": 750,
+        "end": 751,
+        "string": " "
+      }
+    ]
+  }
+}

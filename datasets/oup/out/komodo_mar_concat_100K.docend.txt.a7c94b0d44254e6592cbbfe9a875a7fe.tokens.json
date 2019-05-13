@@ -1,0 +1,486 @@
+{
+  "$schema": "corpus.schema.json",
+  "id": "a7c94b0d44254e6592cbbfe9a875a7fe.tokens",
+  "documentId": "a7c94b0d44254e6592cbbfe9a875a7fe.document",
+  "type": "annotation",
+  "metadata": {
+    "annotationType": "tokenization",
+    "annotationSource": "",
+    "created": ""
+  },
+  "content": {
+    "layerRefs": [
+      "a7c94b0d44254e6592cbbfe9a875a7fe.terminals"
+    ],
+    "annotationNodes": [
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 0,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "-LRB-"
+          },
+          "lemma": "-lrb-"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 2,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Reporting"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 4,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "IN"
+          },
+          "lemma": "by"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 6,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Yawen"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 8,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Chen"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 10,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CC"
+          },
+          "lemma": "and"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 12,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Ryan"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 14,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Woo"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 16,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": ";"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 18,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "editing"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 20,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "IN"
+          },
+          "lemma": "by"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 22,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Jacqueline"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 24,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Wong"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 26,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": ";"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 28,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "contact"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 30,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "info"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 32,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": ":"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 34,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "yawen.chen@thomsonreuters.com"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 36,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": ";"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 38,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CD"
+          },
+          "lemma": "+86\u00a010\u00a06627\u00a01207"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 40,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": ";"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 42,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Reuters"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 44,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Messaging"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 46,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": ":"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 48,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "yawen.chen.thomsonreuters.com@reuters.net"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 50,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "-RRB-"
+          },
+          "lemma": "-rrb-"
+        }
+      }
+    ]
+  }
+}

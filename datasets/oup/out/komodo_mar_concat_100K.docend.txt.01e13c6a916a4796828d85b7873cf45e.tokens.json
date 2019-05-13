@@ -1,0 +1,900 @@
+{
+  "$schema": "corpus.schema.json",
+  "id": "01e13c6a916a4796828d85b7873cf45e.tokens",
+  "documentId": "01e13c6a916a4796828d85b7873cf45e.document",
+  "type": "annotation",
+  "metadata": {
+    "annotationType": "tokenization",
+    "annotationSource": "",
+    "created": ""
+  },
+  "content": {
+    "layerRefs": [
+      "01e13c6a916a4796828d85b7873cf45e.terminals"
+    ],
+    "annotationNodes": [
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 0,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "-LRB-"
+          },
+          "lemma": "-lrb-"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 2,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "kgo"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 4,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "-RRB-"
+          },
+          "lemma": "-rrb-"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 6,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ":"
+          },
+          "lemma": "--"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 8,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBG"
+          },
+          "lemma": "accord"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 10,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "TO"
+          },
+          "lemma": "to"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 12,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Oakland"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 14,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "police"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 16,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ","
+          },
+          "lemma": ","
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 18,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CD"
+          },
+          "lemma": "1"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 20,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "person"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 22,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBZ"
+          },
+          "lemma": "have"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 24,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBN"
+          },
+          "lemma": "be"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 26,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBN"
+          },
+          "lemma": "kill"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 28,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CC"
+          },
+          "lemma": "and"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 30,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CD"
+          },
+          "lemma": "three"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 32,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNS"
+          },
+          "lemma": "other"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 34,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBP"
+          },
+          "lemma": "have"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 36,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBN"
+          },
+          "lemma": "be"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 38,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBN"
+          },
+          "lemma": "hospitalize"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 40,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "IN"
+          },
+          "lemma": "after"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 42,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "DT"
+          },
+          "lemma": "a"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 44,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "shooting"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 46,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "IN"
+          },
+          "lemma": "near"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 48,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "DT"
+          },
+          "lemma": "a"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 50,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "gas"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 52,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "station"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 54,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "."
+          },
+          "lemma": "."
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 56,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "evidence"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 58,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNS"
+          },
+          "lemma": "marker"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 60,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBD"
+          },
+          "lemma": "litter"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 62,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "DT"
+          },
+          "lemma": "the"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 64,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "street"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 66,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "."
+          },
+          "lemma": "."
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 68,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNP"
+          },
+          "lemma": "Oakland"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 70,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNS"
+          },
+          "lemma": "police"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 72,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBP"
+          },
+          "lemma": "say"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 74,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CD"
+          },
+          "lemma": "four"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 76,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NNS"
+          },
+          "lemma": "victim"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 78,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBD"
+          },
+          "lemma": "be"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 80,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBN"
+          },
+          "lemma": "transport"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 82,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "TO"
+          },
+          "lemma": "to"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 84,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "DT"
+          },
+          "lemma": "the"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 86,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "hospital"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 88,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": ","
+          },
+          "lemma": ","
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 90,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "CD"
+          },
+          "lemma": "one"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 92,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBZ"
+          },
+          "lemma": "have"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 94,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "VBN"
+          },
+          "lemma": "die"
+        }
+      },
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 96,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "."
+          },
+          "lemma": "."
+        }
+      }
+    ]
+  }
+}

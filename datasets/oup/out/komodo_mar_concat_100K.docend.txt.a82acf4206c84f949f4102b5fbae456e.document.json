@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "a82acf4206c84f949f4102b5fbae456e.doc",
+  "metadata": {
+    "title": "District witnesses first lead extraction surgery - Times of India",
+    "sourceUrl": "https://timesofindia.indiatimes.com/city/coimbatore/district-witnesses-first-lead-extraction-surgery/articleshow/68225585.cms",
+    "documentSource": "timesofindia.indiatimes.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

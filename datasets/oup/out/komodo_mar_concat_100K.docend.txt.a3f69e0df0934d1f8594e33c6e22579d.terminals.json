@@ -1,0 +1,761 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "a3f69e0df0934d1f8594e33c6e22579d.doc",
+  "id": "a3f69e0df0934d1f8594e33c6e22579d.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "a3f69e0df0934d1f8594e33c6e22579d.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 10,
+        "string": "Residents"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "string": "in"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "string": "the"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "string": "Joburg"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "string": "area"
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "string": " "
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "string": "took"
+      },
+      {
+        "start": 39,
+        "end": 40,
+        "string": " "
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "string": "to"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "string": "social"
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "string": " "
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "string": "media"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "string": "on"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "string": "Friday"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "string": "morning"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "string": "in"
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "string": " "
+      },
+      {
+        "start": 84,
+        "end": 93,
+        "string": "reaction"
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "string": " "
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "string": "to"
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "string": " "
+      },
+      {
+        "start": 98,
+        "end": 100,
+        "string": "a"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "string": "tremor"
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "string": "that"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 119,
+        "string": "was"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 125,
+        "string": "felt"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 133,
+        "string": "across"
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 138,
+        "string": "the"
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "string": " "
+      },
+      {
+        "start": 139,
+        "end": 144,
+        "string": "city"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 150,
+        "string": "just"
+      },
+      {
+        "start": 150,
+        "end": 151,
+        "string": " "
+      },
+      {
+        "start": 151,
+        "end": 158,
+        "string": "before"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 163,
+        "string": "7am"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 166,
+        "string": "."
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 174,
+        "string": "News24"
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 185,
+        "string": "attempted"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 189,
+        "string": "to"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 198,
+        "string": "contact"
+      },
+      {
+        "start": 198,
+        "end": 199,
+        "string": " "
+      },
+      {
+        "start": 199,
+        "end": 203,
+        "string": "the"
+      },
+      {
+        "start": 203,
+        "end": 204,
+        "string": " "
+      },
+      {
+        "start": 204,
+        "end": 212,
+        "string": "Council"
+      },
+      {
+        "start": 212,
+        "end": 213,
+        "string": " "
+      },
+      {
+        "start": 213,
+        "end": 217,
+        "string": "for"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 229,
+        "string": "Geoscience"
+      },
+      {
+        "start": 229,
+        "end": 230,
+        "string": " "
+      },
+      {
+        "start": 230,
+        "end": 232,
+        "string": ","
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 237,
+        "string": "but"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 244,
+        "string": "could"
+      },
+      {
+        "start": 244,
+        "end": 245,
+        "string": " "
+      },
+      {
+        "start": 245,
+        "end": 249,
+        "string": "not"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 256,
+        "string": "reach"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 264,
+        "string": "anyone"
+      },
+      {
+        "start": 264,
+        "end": 265,
+        "string": " "
+      },
+      {
+        "start": 265,
+        "end": 269,
+        "string": "for"
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 278,
+        "string": "comment"
+      },
+      {
+        "start": 278,
+        "end": 279,
+        "string": " "
+      },
+      {
+        "start": 279,
+        "end": 281,
+        "string": "."
+      },
+      {
+        "start": 281,
+        "end": 282,
+        "string": " "
+      },
+      {
+        "start": 282,
+        "end": 290,
+        "string": "Tremors"
+      },
+      {
+        "start": 290,
+        "end": 291,
+        "string": " "
+      },
+      {
+        "start": 291,
+        "end": 294,
+        "string": "in"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 299,
+        "string": "the"
+      },
+      {
+        "start": 299,
+        "end": 300,
+        "string": " "
+      },
+      {
+        "start": 300,
+        "end": 314,
+        "string": "Witwatersrand"
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 320,
+        "string": "area"
+      },
+      {
+        "start": 320,
+        "end": 321,
+        "string": " "
+      },
+      {
+        "start": 321,
+        "end": 325,
+        "string": "are"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 330,
+        "string": "not"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 340,
+        "string": "uncommon"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 345,
+        "string": "and"
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 353,
+        "string": "seldom"
+      },
+      {
+        "start": 353,
+        "end": 354,
+        "string": " "
+      },
+      {
+        "start": 354,
+        "end": 359,
+        "string": "pose"
+      },
+      {
+        "start": 359,
+        "end": 360,
+        "string": " "
+      },
+      {
+        "start": 360,
+        "end": 362,
+        "string": "a"
+      },
+      {
+        "start": 362,
+        "end": 363,
+        "string": " "
+      },
+      {
+        "start": 363,
+        "end": 368,
+        "string": "real"
+      },
+      {
+        "start": 368,
+        "end": 369,
+        "string": " "
+      },
+      {
+        "start": 369,
+        "end": 376,
+        "string": "threat"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 379,
+        "string": ","
+      },
+      {
+        "start": 379,
+        "end": 380,
+        "string": " "
+      },
+      {
+        "start": 380,
+        "end": 385,
+        "string": "such"
+      },
+      {
+        "start": 385,
+        "end": 386,
+        "string": " "
+      },
+      {
+        "start": 386,
+        "end": 389,
+        "string": "as"
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 394,
+        "string": "one"
+      },
+      {
+        "start": 394,
+        "end": 395,
+        "string": " "
+      },
+      {
+        "start": 395,
+        "end": 398,
+        "string": "in"
+      },
+      {
+        "start": 398,
+        "end": 399,
+        "string": " "
+      },
+      {
+        "start": 399,
+        "end": 410,
+        "string": "Klerksdorp"
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 414,
+        "string": "in"
+      },
+      {
+        "start": 414,
+        "end": 415,
+        "string": " "
+      },
+      {
+        "start": 415,
+        "end": 420,
+        "string": "2017"
+      },
+      {
+        "start": 420,
+        "end": 421,
+        "string": " "
+      },
+      {
+        "start": 421,
+        "end": 423,
+        "string": ","
+      },
+      {
+        "start": 423,
+        "end": 424,
+        "string": " "
+      },
+      {
+        "start": 424,
+        "end": 428,
+        "string": "and"
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "string": " "
+      },
+      {
+        "start": 429,
+        "end": 437,
+        "string": "another"
+      },
+      {
+        "start": 437,
+        "end": 438,
+        "string": " "
+      },
+      {
+        "start": 438,
+        "end": 443,
+        "string": "east"
+      },
+      {
+        "start": 443,
+        "end": 444,
+        "string": " "
+      },
+      {
+        "start": 444,
+        "end": 447,
+        "string": "of"
+      },
+      {
+        "start": 447,
+        "end": 448,
+        "string": " "
+      },
+      {
+        "start": 448,
+        "end": 461,
+        "string": "Johannesburg"
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 465,
+        "string": "in"
+      },
+      {
+        "start": 465,
+        "end": 466,
+        "string": " "
+      },
+      {
+        "start": 466,
+        "end": 471,
+        "string": "2016"
+      },
+      {
+        "start": 471,
+        "end": 472,
+        "string": " "
+      },
+      {
+        "start": 472,
+        "end": 474,
+        "string": "."
+      },
+      {
+        "start": 474,
+        "end": 475,
+        "string": " "
+      }
+    ]
+  }
+}

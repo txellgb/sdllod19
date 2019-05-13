@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "2d8af2e8d7074ae59506c67c73a39c24.doc",
+  "metadata": {
+    "title": "Very fine wine to sip by the river - Alistair Gibson ",
+    "sourceUrl": "https://www.portsmouth.co.uk/news/opinion/very-fine-wine-to-sip-by-the-river-alistair-gibson-1-8831194",
+    "documentSource": "portsmouth.co.uk",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

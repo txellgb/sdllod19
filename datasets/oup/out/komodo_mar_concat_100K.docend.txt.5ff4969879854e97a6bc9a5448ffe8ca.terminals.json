@@ -1,0 +1,1641 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "5ff4969879854e97a6bc9a5448ffe8ca.doc",
+  "id": "5ff4969879854e97a6bc9a5448ffe8ca.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "5ff4969879854e97a6bc9a5448ffe8ca.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 2,
+        "string": "A"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "string": " "
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "string": "man"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "string": "has"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "string": "been"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "string": " "
+      },
+      {
+        "start": 19,
+        "end": 28,
+        "string": "arrested"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "string": "after"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "string": "a"
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "string": " "
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "string": "woman"
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "string": " "
+      },
+      {
+        "start": 46,
+        "end": 50,
+        "string": "was"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "string": "found"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "string": "dead"
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "string": " "
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "string": "with"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "string": "what"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "string": "are"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "string": "believed"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "string": "to"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "string": "be"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 104,
+        "string": "stab"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "string": "wounds"
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "string": " "
+      },
+      {
+        "start": 113,
+        "end": 119,
+        "string": "early"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 125,
+        "string": "this"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 134,
+        "string": "morning"
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "string": " "
+      },
+      {
+        "start": 135,
+        "end": 137,
+        "string": "."
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      },
+      {
+        "start": 138,
+        "end": 142,
+        "string": "The"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 148,
+        "string": "grim"
+      },
+      {
+        "start": 148,
+        "end": 149,
+        "string": " "
+      },
+      {
+        "start": 149,
+        "end": 154,
+        "string": "find"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 159,
+        "string": "was"
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 165,
+        "string": "made"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 169,
+        "string": "by"
+      },
+      {
+        "start": 169,
+        "end": 170,
+        "string": " "
+      },
+      {
+        "start": 170,
+        "end": 177,
+        "string": "gardai"
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 181,
+        "string": "at"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "string": " "
+      },
+      {
+        "start": 182,
+        "end": 184,
+        "string": "a"
+      },
+      {
+        "start": 184,
+        "end": 185,
+        "string": " "
+      },
+      {
+        "start": 185,
+        "end": 191,
+        "string": "house"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 195,
+        "string": "in"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 206,
+        "string": "Greenfort"
+      },
+      {
+        "start": 206,
+        "end": 207,
+        "string": " "
+      },
+      {
+        "start": 207,
+        "end": 213,
+        "string": "Drive"
+      },
+      {
+        "start": 213,
+        "end": 214,
+        "string": " "
+      },
+      {
+        "start": 214,
+        "end": 216,
+        "string": ","
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "string": " "
+      },
+      {
+        "start": 217,
+        "end": 228,
+        "string": "Clondalkin"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 231,
+        "string": ","
+      },
+      {
+        "start": 231,
+        "end": 232,
+        "string": " "
+      },
+      {
+        "start": 232,
+        "end": 239,
+        "string": "Dublin"
+      },
+      {
+        "start": 239,
+        "end": 240,
+        "string": " "
+      },
+      {
+        "start": 240,
+        "end": 250,
+        "string": "overnight"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 253,
+        "string": "."
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 261,
+        "string": "Gardai"
+      },
+      {
+        "start": 261,
+        "end": 262,
+        "string": " "
+      },
+      {
+        "start": 262,
+        "end": 267,
+        "string": "were"
+      },
+      {
+        "start": 267,
+        "end": 268,
+        "string": " "
+      },
+      {
+        "start": 268,
+        "end": 275,
+        "string": "called"
+      },
+      {
+        "start": 275,
+        "end": 276,
+        "string": " "
+      },
+      {
+        "start": 276,
+        "end": 279,
+        "string": "to"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 284,
+        "string": "the"
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 290,
+        "string": "home"
+      },
+      {
+        "start": 290,
+        "end": 291,
+        "string": " "
+      },
+      {
+        "start": 291,
+        "end": 294,
+        "string": "at"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 301,
+        "string": "12.30"
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 305,
+        "string": "am"
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 310,
+        "string": "and"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 317,
+        "string": "found"
+      },
+      {
+        "start": 317,
+        "end": 318,
+        "string": " "
+      },
+      {
+        "start": 318,
+        "end": 320,
+        "string": "a"
+      },
+      {
+        "start": 320,
+        "end": 321,
+        "string": " "
+      },
+      {
+        "start": 321,
+        "end": 327,
+        "string": "woman"
+      },
+      {
+        "start": 327,
+        "end": 328,
+        "string": " "
+      },
+      {
+        "start": 328,
+        "end": 331,
+        "string": "in"
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 336,
+        "string": "her"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 341,
+        "string": "40s"
+      },
+      {
+        "start": 341,
+        "end": 342,
+        "string": " "
+      },
+      {
+        "start": 342,
+        "end": 347,
+        "string": "with"
+      },
+      {
+        "start": 347,
+        "end": 348,
+        "string": " "
+      },
+      {
+        "start": 348,
+        "end": 356,
+        "string": "serious"
+      },
+      {
+        "start": 356,
+        "end": 357,
+        "string": " "
+      },
+      {
+        "start": 357,
+        "end": 366,
+        "string": "injuries"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 369,
+        "string": ","
+      },
+      {
+        "start": 369,
+        "end": 370,
+        "string": " "
+      },
+      {
+        "start": 370,
+        "end": 376,
+        "string": "which"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 381,
+        "string": "are"
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 391,
+        "string": "believed"
+      },
+      {
+        "start": 391,
+        "end": 392,
+        "string": " "
+      },
+      {
+        "start": 392,
+        "end": 395,
+        "string": "to"
+      },
+      {
+        "start": 395,
+        "end": 396,
+        "string": " "
+      },
+      {
+        "start": 396,
+        "end": 399,
+        "string": "be"
+      },
+      {
+        "start": 399,
+        "end": 400,
+        "string": " "
+      },
+      {
+        "start": 400,
+        "end": 405,
+        "string": "stab"
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "string": " "
+      },
+      {
+        "start": 406,
+        "end": 413,
+        "string": "wounds"
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 417,
+        "string": "at"
+      },
+      {
+        "start": 417,
+        "end": 418,
+        "string": " "
+      },
+      {
+        "start": 418,
+        "end": 423,
+        "string": "this"
+      },
+      {
+        "start": 423,
+        "end": 424,
+        "string": " "
+      },
+      {
+        "start": 424,
+        "end": 430,
+        "string": "stage"
+      },
+      {
+        "start": 430,
+        "end": 431,
+        "string": " "
+      },
+      {
+        "start": 431,
+        "end": 433,
+        "string": "."
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 438,
+        "string": "She"
+      },
+      {
+        "start": 438,
+        "end": 439,
+        "string": " "
+      },
+      {
+        "start": 439,
+        "end": 443,
+        "string": "was"
+      },
+      {
+        "start": 443,
+        "end": 444,
+        "string": " "
+      },
+      {
+        "start": 444,
+        "end": 455,
+        "string": "pronounced"
+      },
+      {
+        "start": 455,
+        "end": 456,
+        "string": " "
+      },
+      {
+        "start": 456,
+        "end": 461,
+        "string": "dead"
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 465,
+        "string": "at"
+      },
+      {
+        "start": 465,
+        "end": 466,
+        "string": " "
+      },
+      {
+        "start": 466,
+        "end": 470,
+        "string": "the"
+      },
+      {
+        "start": 470,
+        "end": 471,
+        "string": " "
+      },
+      {
+        "start": 471,
+        "end": 477,
+        "string": "scene"
+      },
+      {
+        "start": 477,
+        "end": 478,
+        "string": " "
+      },
+      {
+        "start": 478,
+        "end": 482,
+        "string": "and"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 487,
+        "string": "her"
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 493,
+        "string": "body"
+      },
+      {
+        "start": 493,
+        "end": 494,
+        "string": " "
+      },
+      {
+        "start": 494,
+        "end": 502,
+        "string": "remains"
+      },
+      {
+        "start": 502,
+        "end": 503,
+        "string": " "
+      },
+      {
+        "start": 503,
+        "end": 509,
+        "string": "there"
+      },
+      {
+        "start": 509,
+        "end": 510,
+        "string": " "
+      },
+      {
+        "start": 510,
+        "end": 515,
+        "string": "this"
+      },
+      {
+        "start": 515,
+        "end": 516,
+        "string": " "
+      },
+      {
+        "start": 516,
+        "end": 524,
+        "string": "morning"
+      },
+      {
+        "start": 524,
+        "end": 525,
+        "string": " "
+      },
+      {
+        "start": 525,
+        "end": 534,
+        "string": "awaiting"
+      },
+      {
+        "start": 534,
+        "end": 535,
+        "string": " "
+      },
+      {
+        "start": 535,
+        "end": 539,
+        "string": "the"
+      },
+      {
+        "start": 539,
+        "end": 540,
+        "string": " "
+      },
+      {
+        "start": 540,
+        "end": 546,
+        "string": "State"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 559,
+        "string": "Pathologist"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 562,
+        "string": "."
+      },
+      {
+        "start": 562,
+        "end": 563,
+        "string": " "
+      },
+      {
+        "start": 563,
+        "end": 565,
+        "string": "A"
+      },
+      {
+        "start": 565,
+        "end": 566,
+        "string": " "
+      },
+      {
+        "start": 566,
+        "end": 570,
+        "string": "man"
+      },
+      {
+        "start": 570,
+        "end": 571,
+        "string": " "
+      },
+      {
+        "start": 571,
+        "end": 574,
+        "string": "in"
+      },
+      {
+        "start": 574,
+        "end": 575,
+        "string": " "
+      },
+      {
+        "start": 575,
+        "end": 579,
+        "string": "his"
+      },
+      {
+        "start": 579,
+        "end": 580,
+        "string": " "
+      },
+      {
+        "start": 580,
+        "end": 584,
+        "string": "50s"
+      },
+      {
+        "start": 584,
+        "end": 585,
+        "string": " "
+      },
+      {
+        "start": 585,
+        "end": 589,
+        "string": "has"
+      },
+      {
+        "start": 589,
+        "end": 590,
+        "string": " "
+      },
+      {
+        "start": 590,
+        "end": 595,
+        "string": "been"
+      },
+      {
+        "start": 595,
+        "end": 596,
+        "string": " "
+      },
+      {
+        "start": 596,
+        "end": 605,
+        "string": "arrested"
+      },
+      {
+        "start": 605,
+        "end": 606,
+        "string": " "
+      },
+      {
+        "start": 606,
+        "end": 610,
+        "string": "and"
+      },
+      {
+        "start": 610,
+        "end": 611,
+        "string": " "
+      },
+      {
+        "start": 611,
+        "end": 614,
+        "string": "he"
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 618,
+        "string": "is"
+      },
+      {
+        "start": 618,
+        "end": 619,
+        "string": " "
+      },
+      {
+        "start": 619,
+        "end": 625,
+        "string": "being"
+      },
+      {
+        "start": 625,
+        "end": 626,
+        "string": " "
+      },
+      {
+        "start": 626,
+        "end": 631,
+        "string": "held"
+      },
+      {
+        "start": 631,
+        "end": 632,
+        "string": " "
+      },
+      {
+        "start": 632,
+        "end": 635,
+        "string": "at"
+      },
+      {
+        "start": 635,
+        "end": 636,
+        "string": " "
+      },
+      {
+        "start": 636,
+        "end": 642,
+        "string": "Lucan"
+      },
+      {
+        "start": 642,
+        "end": 643,
+        "string": " "
+      },
+      {
+        "start": 643,
+        "end": 649,
+        "string": "Garda"
+      },
+      {
+        "start": 649,
+        "end": 650,
+        "string": " "
+      },
+      {
+        "start": 650,
+        "end": 658,
+        "string": "Station"
+      },
+      {
+        "start": 658,
+        "end": 659,
+        "string": " "
+      },
+      {
+        "start": 659,
+        "end": 661,
+        "string": "."
+      },
+      {
+        "start": 661,
+        "end": 662,
+        "string": " "
+      },
+      {
+        "start": 662,
+        "end": 664,
+        "string": "A"
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 671,
+        "string": "Garda"
+      },
+      {
+        "start": 671,
+        "end": 672,
+        "string": " "
+      },
+      {
+        "start": 672,
+        "end": 685,
+        "string": "spokesperson"
+      },
+      {
+        "start": 685,
+        "end": 686,
+        "string": " "
+      },
+      {
+        "start": 686,
+        "end": 691,
+        "string": "said"
+      },
+      {
+        "start": 691,
+        "end": 692,
+        "string": " "
+      },
+      {
+        "start": 692,
+        "end": 694,
+        "string": ":"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 697,
+        "string": "\""
+      },
+      {
+        "start": 697,
+        "end": 698,
+        "string": " "
+      },
+      {
+        "start": 698,
+        "end": 705,
+        "string": "Garda\u00ed"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 711,
+        "string": "have"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 721,
+        "string": "arrested"
+      },
+      {
+        "start": 721,
+        "end": 722,
+        "string": " "
+      },
+      {
+        "start": 722,
+        "end": 724,
+        "string": "a"
+      },
+      {
+        "start": 724,
+        "end": 725,
+        "string": " "
+      },
+      {
+        "start": 725,
+        "end": 729,
+        "string": "man"
+      },
+      {
+        "start": 729,
+        "end": 730,
+        "string": " "
+      },
+      {
+        "start": 730,
+        "end": 733,
+        "string": "in"
+      },
+      {
+        "start": 733,
+        "end": 734,
+        "string": " "
+      },
+      {
+        "start": 734,
+        "end": 738,
+        "string": "his"
+      },
+      {
+        "start": 738,
+        "end": 739,
+        "string": " "
+      },
+      {
+        "start": 739,
+        "end": 743,
+        "string": "50s"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 754,
+        "string": "following"
+      },
+      {
+        "start": 754,
+        "end": 755,
+        "string": " "
+      },
+      {
+        "start": 755,
+        "end": 757,
+        "string": "a"
+      },
+      {
+        "start": 757,
+        "end": 758,
+        "string": " "
+      },
+      {
+        "start": 758,
+        "end": 764,
+        "string": "fatal"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 773,
+        "string": "assault"
+      },
+      {
+        "start": 773,
+        "end": 774,
+        "string": " "
+      },
+      {
+        "start": 774,
+        "end": 777,
+        "string": "at"
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 788,
+        "string": "Greenfort"
+      },
+      {
+        "start": 788,
+        "end": 789,
+        "string": " "
+      },
+      {
+        "start": 789,
+        "end": 795,
+        "string": "Drive"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 798,
+        "string": ","
+      },
+      {
+        "start": 798,
+        "end": 799,
+        "string": " "
+      },
+      {
+        "start": 799,
+        "end": 810,
+        "string": "Clondalkin"
+      },
+      {
+        "start": 810,
+        "end": 811,
+        "string": " "
+      },
+      {
+        "start": 811,
+        "end": 813,
+        "string": ","
+      },
+      {
+        "start": 813,
+        "end": 814,
+        "string": " "
+      },
+      {
+        "start": 814,
+        "end": 821,
+        "string": "Dublin"
+      },
+      {
+        "start": 821,
+        "end": 822,
+        "string": " "
+      },
+      {
+        "start": 822,
+        "end": 825,
+        "string": "22"
+      },
+      {
+        "start": 825,
+        "end": 826,
+        "string": " "
+      },
+      {
+        "start": 826,
+        "end": 829,
+        "string": "at"
+      },
+      {
+        "start": 829,
+        "end": 830,
+        "string": " "
+      },
+      {
+        "start": 830,
+        "end": 836,
+        "string": "12.30"
+      },
+      {
+        "start": 836,
+        "end": 837,
+        "string": " "
+      },
+      {
+        "start": 837,
+        "end": 840,
+        "string": "am"
+      },
+      {
+        "start": 840,
+        "end": 841,
+        "string": " "
+      },
+      {
+        "start": 841,
+        "end": 844,
+        "string": "on"
+      },
+      {
+        "start": 844,
+        "end": 845,
+        "string": " "
+      },
+      {
+        "start": 845,
+        "end": 849,
+        "string": "1st"
+      },
+      {
+        "start": 849,
+        "end": 850,
+        "string": " "
+      },
+      {
+        "start": 850,
+        "end": 856,
+        "string": "March"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 862,
+        "string": "2019"
+      },
+      {
+        "start": 862,
+        "end": 863,
+        "string": " "
+      },
+      {
+        "start": 863,
+        "end": 865,
+        "string": "."
+      },
+      {
+        "start": 865,
+        "end": 866,
+        "string": " "
+      },
+      {
+        "start": 866,
+        "end": 868,
+        "string": "\""
+      },
+      {
+        "start": 868,
+        "end": 869,
+        "string": " "
+      },
+      {
+        "start": 869,
+        "end": 872,
+        "string": "At"
+      },
+      {
+        "start": 872,
+        "end": 873,
+        "string": " "
+      },
+      {
+        "start": 873,
+        "end": 879,
+        "string": "12.30"
+      },
+      {
+        "start": 879,
+        "end": 880,
+        "string": " "
+      },
+      {
+        "start": 880,
+        "end": 883,
+        "string": "am"
+      },
+      {
+        "start": 883,
+        "end": 884,
+        "string": " "
+      },
+      {
+        "start": 884,
+        "end": 891,
+        "string": "Garda\u00ed"
+      },
+      {
+        "start": 891,
+        "end": 892,
+        "string": " "
+      },
+      {
+        "start": 892,
+        "end": 897,
+        "string": "were"
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 905,
+        "string": "called"
+      },
+      {
+        "start": 905,
+        "end": 906,
+        "string": " "
+      },
+      {
+        "start": 906,
+        "end": 909,
+        "string": "to"
+      },
+      {
+        "start": 909,
+        "end": 910,
+        "string": " "
+      },
+      {
+        "start": 910,
+        "end": 913,
+        "string": "an"
+      },
+      {
+        "start": 913,
+        "end": 914,
+        "string": " "
+      },
+      {
+        "start": 914,
+        "end": 923,
+        "string": "incident"
+      },
+      {
+        "start": 923,
+        "end": 924,
+        "string": " "
+      },
+      {
+        "start": 924,
+        "end": 927,
+        "string": "at"
+      },
+      {
+        "start": 927,
+        "end": 928,
+        "string": " "
+      },
+      {
+        "start": 928,
+        "end": 930,
+        "string": "a"
+      },
+      {
+        "start": 930,
+        "end": 931,
+        "string": " "
+      },
+      {
+        "start": 931,
+        "end": 937,
+        "string": "house"
+      },
+      {
+        "start": 937,
+        "end": 938,
+        "string": " "
+      },
+      {
+        "start": 938,
+        "end": 941,
+        "string": "at"
+      },
+      {
+        "start": 941,
+        "end": 942,
+        "string": " "
+      },
+      {
+        "start": 942,
+        "end": 952,
+        "string": "Greenfort"
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 959,
+        "string": "Drive"
+      },
+      {
+        "start": 959,
+        "end": 960,
+        "string": " "
+      },
+      {
+        "start": 960,
+        "end": 962,
+        "string": ","
+      },
+      {
+        "start": 962,
+        "end": 963,
+        "string": " "
+      },
+      {
+        "start": 963,
+        "end": 974,
+        "string": "Clondalkin"
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 977,
+        "string": "."
+      },
+      {
+        "start": 977,
+        "end": 978,
+        "string": " "
+      }
+    ]
+  }
+}

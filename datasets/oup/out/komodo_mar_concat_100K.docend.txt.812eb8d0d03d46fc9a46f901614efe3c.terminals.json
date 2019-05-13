@@ -1,0 +1,1461 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "812eb8d0d03d46fc9a46f901614efe3c.doc",
+  "id": "812eb8d0d03d46fc9a46f901614efe3c.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "812eb8d0d03d46fc9a46f901614efe3c.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 17,
+        "string": "understated"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "string": " "
+      },
+      {
+        "start": 18,
+        "end": 27,
+        "string": "lighting"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "string": "design"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "string": "in"
+      },
+      {
+        "start": 39,
+        "end": 40,
+        "string": " "
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "string": "Avenue"
+      },
+      {
+        "start": 47,
+        "end": 48,
+        "string": " "
+      },
+      {
+        "start": 48,
+        "end": 51,
+        "string": "of"
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "string": " "
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "string": "Stars"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "string": "is"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "string": "meant"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "string": "to"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "string": "play"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "string": "up"
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "string": " "
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "string": "the"
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "string": " "
+      },
+      {
+        "start": 89,
+        "end": 96,
+        "string": "visual"
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "string": " "
+      },
+      {
+        "start": 97,
+        "end": 104,
+        "string": "appeal"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 108,
+        "string": "of"
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "string": "Hong"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "string": "Kong"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 124,
+        "string": "'s"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 133,
+        "string": "generic"
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 142,
+        "string": "skyline"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 145,
+        "string": "."
+      },
+      {
+        "start": 145,
+        "end": 146,
+        "string": " "
+      },
+      {
+        "start": 146,
+        "end": 149,
+        "string": "In"
+      },
+      {
+        "start": 149,
+        "end": 150,
+        "string": " "
+      },
+      {
+        "start": 150,
+        "end": 154,
+        "string": "the"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 159,
+        "string": "end"
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 162,
+        "string": ","
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 167,
+        "string": "NWD"
+      },
+      {
+        "start": 167,
+        "end": 168,
+        "string": " "
+      },
+      {
+        "start": 168,
+        "end": 171,
+        "string": "'s"
+      },
+      {
+        "start": 171,
+        "end": 172,
+        "string": " "
+      },
+      {
+        "start": 172,
+        "end": 180,
+        "string": "general"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "string": " "
+      },
+      {
+        "start": 181,
+        "end": 189,
+        "string": "manager"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 194,
+        "string": "and"
+      },
+      {
+        "start": 194,
+        "end": 195,
+        "string": " "
+      },
+      {
+        "start": 195,
+        "end": 205,
+        "string": "executive"
+      },
+      {
+        "start": 205,
+        "end": 206,
+        "string": " "
+      },
+      {
+        "start": 206,
+        "end": 217,
+        "string": "vice-chair"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 225,
+        "string": "Adrian"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 232,
+        "string": "Cheng"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 236,
+        "string": "--"
+      },
+      {
+        "start": 236,
+        "end": 237,
+        "string": " "
+      },
+      {
+        "start": 237,
+        "end": 246,
+        "string": "grandson"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 250,
+        "string": "of"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 255,
+        "string": "NWD"
+      },
+      {
+        "start": 255,
+        "end": 256,
+        "string": " "
+      },
+      {
+        "start": 256,
+        "end": 264,
+        "string": "founder"
+      },
+      {
+        "start": 264,
+        "end": 265,
+        "string": " "
+      },
+      {
+        "start": 265,
+        "end": 271,
+        "string": "Cheng"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 280,
+        "string": "Yu-tung"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 284,
+        "string": "--"
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 289,
+        "string": "got"
+      },
+      {
+        "start": 289,
+        "end": 290,
+        "string": " "
+      },
+      {
+        "start": 290,
+        "end": 294,
+        "string": "his"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 301,
+        "string": "dream"
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 310,
+        "string": "project"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 313,
+        "string": "."
+      },
+      {
+        "start": 313,
+        "end": 314,
+        "string": " "
+      },
+      {
+        "start": 314,
+        "end": 325,
+        "string": "Handprints"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 329,
+        "string": "of"
+      },
+      {
+        "start": 329,
+        "end": 330,
+        "string": " "
+      },
+      {
+        "start": 330,
+        "end": 335,
+        "string": "film"
+      },
+      {
+        "start": 335,
+        "end": 336,
+        "string": " "
+      },
+      {
+        "start": 336,
+        "end": 342,
+        "string": "stars"
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 349,
+        "string": "adorn"
+      },
+      {
+        "start": 349,
+        "end": 350,
+        "string": " "
+      },
+      {
+        "start": 350,
+        "end": 354,
+        "string": "the"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 366,
+        "string": "balustrade"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 370,
+        "string": "in"
+      },
+      {
+        "start": 370,
+        "end": 371,
+        "string": " "
+      },
+      {
+        "start": 371,
+        "end": 378,
+        "string": "Avenue"
+      },
+      {
+        "start": 378,
+        "end": 379,
+        "string": " "
+      },
+      {
+        "start": 379,
+        "end": 382,
+        "string": "of"
+      },
+      {
+        "start": 382,
+        "end": 383,
+        "string": " "
+      },
+      {
+        "start": 383,
+        "end": 389,
+        "string": "Stars"
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 392,
+        "string": "."
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      },
+      {
+        "start": 393,
+        "end": 403,
+        "string": "Architect"
+      },
+      {
+        "start": 403,
+        "end": 404,
+        "string": " "
+      },
+      {
+        "start": 404,
+        "end": 410,
+        "string": "James"
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 418,
+        "string": "Corner"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 421,
+        "string": "("
+      },
+      {
+        "start": 421,
+        "end": 422,
+        "string": " "
+      },
+      {
+        "start": 422,
+        "end": 427,
+        "string": "left"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 430,
+        "string": ")"
+      },
+      {
+        "start": 430,
+        "end": 431,
+        "string": " "
+      },
+      {
+        "start": 431,
+        "end": 435,
+        "string": "was"
+      },
+      {
+        "start": 435,
+        "end": 436,
+        "string": " "
+      },
+      {
+        "start": 436,
+        "end": 442,
+        "string": "hired"
+      },
+      {
+        "start": 442,
+        "end": 443,
+        "string": " "
+      },
+      {
+        "start": 443,
+        "end": 446,
+        "string": "by"
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 454,
+        "string": "Adrian"
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 461,
+        "string": "Cheng"
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 465,
+        "string": "to"
+      },
+      {
+        "start": 465,
+        "end": 466,
+        "string": " "
+      },
+      {
+        "start": 466,
+        "end": 475,
+        "string": "redesign"
+      },
+      {
+        "start": 475,
+        "end": 476,
+        "string": " "
+      },
+      {
+        "start": 476,
+        "end": 483,
+        "string": "Avenue"
+      },
+      {
+        "start": 483,
+        "end": 484,
+        "string": " "
+      },
+      {
+        "start": 484,
+        "end": 487,
+        "string": "of"
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 494,
+        "string": "Stars"
+      },
+      {
+        "start": 494,
+        "end": 495,
+        "string": " "
+      },
+      {
+        "start": 495,
+        "end": 497,
+        "string": "."
+      },
+      {
+        "start": 497,
+        "end": 498,
+        "string": " "
+      },
+      {
+        "start": 498,
+        "end": 502,
+        "string": "The"
+      },
+      {
+        "start": 502,
+        "end": 503,
+        "string": " "
+      },
+      {
+        "start": 503,
+        "end": 517,
+        "string": "approximately"
+      },
+      {
+        "start": 517,
+        "end": 518,
+        "string": " "
+      },
+      {
+        "start": 518,
+        "end": 522,
+        "string": "US$"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 526,
+        "string": "15"
+      },
+      {
+        "start": 526,
+        "end": 527,
+        "string": " "
+      },
+      {
+        "start": 527,
+        "end": 535,
+        "string": "million"
+      },
+      {
+        "start": 535,
+        "end": 536,
+        "string": " "
+      },
+      {
+        "start": 536,
+        "end": 542,
+        "string": "spent"
+      },
+      {
+        "start": 542,
+        "end": 543,
+        "string": " "
+      },
+      {
+        "start": 543,
+        "end": 546,
+        "string": "to"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 555,
+        "string": "upgrade"
+      },
+      {
+        "start": 555,
+        "end": 556,
+        "string": " "
+      },
+      {
+        "start": 556,
+        "end": 560,
+        "string": "AoS"
+      },
+      {
+        "start": 560,
+        "end": 561,
+        "string": " "
+      },
+      {
+        "start": 561,
+        "end": 565,
+        "string": "was"
+      },
+      {
+        "start": 565,
+        "end": 566,
+        "string": " "
+      },
+      {
+        "start": 566,
+        "end": 568,
+        "string": "a"
+      },
+      {
+        "start": 568,
+        "end": 569,
+        "string": " "
+      },
+      {
+        "start": 569,
+        "end": 574,
+        "string": "mere"
+      },
+      {
+        "start": 574,
+        "end": 575,
+        "string": " "
+      },
+      {
+        "start": 575,
+        "end": 580,
+        "string": "drop"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 584,
+        "string": "in"
+      },
+      {
+        "start": 584,
+        "end": 585,
+        "string": " "
+      },
+      {
+        "start": 585,
+        "end": 589,
+        "string": "the"
+      },
+      {
+        "start": 589,
+        "end": 590,
+        "string": " "
+      },
+      {
+        "start": 590,
+        "end": 596,
+        "string": "whole"
+      },
+      {
+        "start": 596,
+        "end": 597,
+        "string": " "
+      },
+      {
+        "start": 597,
+        "end": 609,
+        "string": "development"
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 613,
+        "string": "'s"
+      },
+      {
+        "start": 613,
+        "end": 614,
+        "string": " "
+      },
+      {
+        "start": 614,
+        "end": 618,
+        "string": "US$"
+      },
+      {
+        "start": 618,
+        "end": 619,
+        "string": " "
+      },
+      {
+        "start": 619,
+        "end": 623,
+        "string": "2.6"
+      },
+      {
+        "start": 623,
+        "end": 624,
+        "string": " "
+      },
+      {
+        "start": 624,
+        "end": 632,
+        "string": "billion"
+      },
+      {
+        "start": 632,
+        "end": 633,
+        "string": " "
+      },
+      {
+        "start": 633,
+        "end": 639,
+        "string": "price"
+      },
+      {
+        "start": 639,
+        "end": 640,
+        "string": " "
+      },
+      {
+        "start": 640,
+        "end": 644,
+        "string": "tag"
+      },
+      {
+        "start": 644,
+        "end": 645,
+        "string": " "
+      },
+      {
+        "start": 645,
+        "end": 652,
+        "string": "bucket"
+      },
+      {
+        "start": 652,
+        "end": 653,
+        "string": " "
+      },
+      {
+        "start": 653,
+        "end": 655,
+        "string": "."
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 665,
+        "string": "Cantopop"
+      },
+      {
+        "start": 665,
+        "end": 666,
+        "string": " "
+      },
+      {
+        "start": 666,
+        "end": 671,
+        "string": "diva"
+      },
+      {
+        "start": 671,
+        "end": 672,
+        "string": " "
+      },
+      {
+        "start": 672,
+        "end": 678,
+        "string": "Anita"
+      },
+      {
+        "start": 678,
+        "end": 679,
+        "string": " "
+      },
+      {
+        "start": 679,
+        "end": 683,
+        "string": "Mui"
+      },
+      {
+        "start": 683,
+        "end": 684,
+        "string": " "
+      },
+      {
+        "start": 684,
+        "end": 687,
+        "string": "'s"
+      },
+      {
+        "start": 687,
+        "end": 688,
+        "string": " "
+      },
+      {
+        "start": 688,
+        "end": 695,
+        "string": "statue"
+      },
+      {
+        "start": 695,
+        "end": 696,
+        "string": " "
+      },
+      {
+        "start": 696,
+        "end": 699,
+        "string": "is"
+      },
+      {
+        "start": 699,
+        "end": 700,
+        "string": " "
+      },
+      {
+        "start": 700,
+        "end": 705,
+        "string": "back"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 709,
+        "string": "in"
+      },
+      {
+        "start": 709,
+        "end": 710,
+        "string": " "
+      },
+      {
+        "start": 710,
+        "end": 717,
+        "string": "Avenue"
+      },
+      {
+        "start": 717,
+        "end": 718,
+        "string": " "
+      },
+      {
+        "start": 718,
+        "end": 721,
+        "string": "of"
+      },
+      {
+        "start": 721,
+        "end": 722,
+        "string": " "
+      },
+      {
+        "start": 722,
+        "end": 728,
+        "string": "Stars"
+      },
+      {
+        "start": 728,
+        "end": 729,
+        "string": " "
+      },
+      {
+        "start": 729,
+        "end": 731,
+        "string": "."
+      },
+      {
+        "start": 731,
+        "end": 732,
+        "string": " "
+      },
+      {
+        "start": 732,
+        "end": 736,
+        "string": "The"
+      },
+      {
+        "start": 736,
+        "end": 737,
+        "string": " "
+      },
+      {
+        "start": 737,
+        "end": 744,
+        "string": "bronze"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 752,
+        "string": "statue"
+      },
+      {
+        "start": 752,
+        "end": 753,
+        "string": " "
+      },
+      {
+        "start": 753,
+        "end": 756,
+        "string": "of"
+      },
+      {
+        "start": 756,
+        "end": 757,
+        "string": " "
+      },
+      {
+        "start": 757,
+        "end": 765,
+        "string": "martial"
+      },
+      {
+        "start": 765,
+        "end": 766,
+        "string": " "
+      },
+      {
+        "start": 766,
+        "end": 771,
+        "string": "arts"
+      },
+      {
+        "start": 771,
+        "end": 772,
+        "string": " "
+      },
+      {
+        "start": 772,
+        "end": 777,
+        "string": "hero"
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 784,
+        "string": "Bruce"
+      },
+      {
+        "start": 784,
+        "end": 785,
+        "string": " "
+      },
+      {
+        "start": 785,
+        "end": 789,
+        "string": "Lee"
+      },
+      {
+        "start": 789,
+        "end": 790,
+        "string": " "
+      },
+      {
+        "start": 790,
+        "end": 798,
+        "string": "remains"
+      },
+      {
+        "start": 798,
+        "end": 799,
+        "string": " "
+      },
+      {
+        "start": 799,
+        "end": 801,
+        "string": "a"
+      },
+      {
+        "start": 801,
+        "end": 802,
+        "string": " "
+      },
+      {
+        "start": 802,
+        "end": 808,
+        "string": "prime"
+      },
+      {
+        "start": 808,
+        "end": 809,
+        "string": " "
+      },
+      {
+        "start": 809,
+        "end": 820,
+        "string": "attraction"
+      },
+      {
+        "start": 820,
+        "end": 821,
+        "string": " "
+      },
+      {
+        "start": 821,
+        "end": 824,
+        "string": "of"
+      },
+      {
+        "start": 824,
+        "end": 825,
+        "string": " "
+      },
+      {
+        "start": 825,
+        "end": 832,
+        "string": "Avenue"
+      },
+      {
+        "start": 832,
+        "end": 833,
+        "string": " "
+      },
+      {
+        "start": 833,
+        "end": 836,
+        "string": "of"
+      },
+      {
+        "start": 836,
+        "end": 837,
+        "string": " "
+      },
+      {
+        "start": 837,
+        "end": 843,
+        "string": "Stars"
+      },
+      {
+        "start": 843,
+        "end": 844,
+        "string": " "
+      },
+      {
+        "start": 844,
+        "end": 846,
+        "string": "."
+      },
+      {
+        "start": 846,
+        "end": 847,
+        "string": " "
+      },
+      {
+        "start": 847,
+        "end": 850,
+        "string": "It"
+      },
+      {
+        "start": 850,
+        "end": 851,
+        "string": " "
+      },
+      {
+        "start": 851,
+        "end": 854,
+        "string": "'s"
+      },
+      {
+        "start": 854,
+        "end": 855,
+        "string": " "
+      },
+      {
+        "start": 855,
+        "end": 860,
+        "string": "very"
+      },
+      {
+        "start": 860,
+        "end": 861,
+        "string": " "
+      },
+      {
+        "start": 861,
+        "end": 872,
+        "string": "restrained"
+      },
+      {
+        "start": 872,
+        "end": 873,
+        "string": " "
+      },
+      {
+        "start": 873,
+        "end": 876,
+        "string": "--"
+      },
+      {
+        "start": 876,
+        "end": 877,
+        "string": " "
+      },
+      {
+        "start": 877,
+        "end": 881,
+        "string": "one"
+      },
+      {
+        "start": 881,
+        "end": 882,
+        "string": " "
+      },
+      {
+        "start": 882,
+        "end": 894,
+        "string": "temperature"
+      },
+      {
+        "start": 894,
+        "end": 895,
+        "string": " "
+      },
+      {
+        "start": 895,
+        "end": 897,
+        "string": ","
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 903,
+        "string": "very"
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 909,
+        "string": "soft"
+      },
+      {
+        "start": 909,
+        "end": 910,
+        "string": " "
+      },
+      {
+        "start": 910,
+        "end": 912,
+        "string": "."
+      },
+      {
+        "start": 912,
+        "end": 913,
+        "string": " "
+      }
+    ]
+  }
+}

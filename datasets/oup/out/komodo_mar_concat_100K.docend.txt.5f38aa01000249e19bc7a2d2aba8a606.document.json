@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "5f38aa01000249e19bc7a2d2aba8a606.doc",
+  "metadata": {
+    "title": "The Playlist: Solange's Surprise, and 14 More New Songs",
+    "sourceUrl": "https://www.nytimes.com/2019/03/01/arts/music/playlist-solange-drake-weezer-carly-rae-jepsen.html",
+    "documentSource": "nytimes.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

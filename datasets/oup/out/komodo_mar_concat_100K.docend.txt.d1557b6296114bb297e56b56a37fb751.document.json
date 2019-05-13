@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "d1557b6296114bb297e56b56a37fb751.doc",
+  "metadata": {
+    "title": "Women's History Myths, Debunked",
+    "sourceUrl": "https://www.nytimes.com/2019/03/01/us/womens-history-month-myths.html",
+    "documentSource": "nytimes.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

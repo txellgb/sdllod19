@@ -1,0 +1,551 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "831ef3840b3a4e1685b2075d9b69293e.doc",
+  "id": "831ef3840b3a4e1685b2075d9b69293e.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "831ef3840b3a4e1685b2075d9b69293e.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 8,
+        "string": "Vendors"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "string": " "
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "string": "occupy"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "string": " "
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "string": "a"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "string": "street"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "string": "under"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "string": "a"
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "string": " "
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "string": "rail"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "string": "track"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "string": "."
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 62,
+        "string": "Redento"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "string": "Recio"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "string": ","
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 80,
+        "string": "Author"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "string": "provided"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 99,
+        "string": "Redento"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 106,
+        "string": "Recio"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 109,
+        "string": ","
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 117,
+        "string": "Author"
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "string": " "
+      },
+      {
+        "start": 118,
+        "end": 127,
+        "string": "provided"
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 136,
+        "string": "Redento"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 143,
+        "string": "Recio"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 146,
+        "string": ","
+      },
+      {
+        "start": 146,
+        "end": 147,
+        "string": " "
+      },
+      {
+        "start": 147,
+        "end": 154,
+        "string": "Author"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 164,
+        "string": "provided"
+      },
+      {
+        "start": 164,
+        "end": 165,
+        "string": " "
+      },
+      {
+        "start": 165,
+        "end": 170,
+        "string": "Many"
+      },
+      {
+        "start": 170,
+        "end": 171,
+        "string": " "
+      },
+      {
+        "start": 171,
+        "end": 179,
+        "string": "vendors"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 187,
+        "string": "borrow"
+      },
+      {
+        "start": 187,
+        "end": 188,
+        "string": " "
+      },
+      {
+        "start": 188,
+        "end": 193,
+        "string": "from"
+      },
+      {
+        "start": 193,
+        "end": 194,
+        "string": " "
+      },
+      {
+        "start": 194,
+        "end": 199,
+        "string": "loan"
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 207,
+        "string": "sharks"
+      },
+      {
+        "start": 207,
+        "end": 208,
+        "string": " "
+      },
+      {
+        "start": 208,
+        "end": 211,
+        "string": "to"
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 217,
+        "string": "keep"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 220,
+        "string": "a"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 228,
+        "string": "steady"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 236,
+        "string": "supply"
+      },
+      {
+        "start": 236,
+        "end": 237,
+        "string": " "
+      },
+      {
+        "start": 237,
+        "end": 240,
+        "string": "of"
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 247,
+        "string": "stock"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 250,
+        "string": "."
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 256,
+        "string": "Some"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 265,
+        "string": "vendors"
+      },
+      {
+        "start": 265,
+        "end": 266,
+        "string": " "
+      },
+      {
+        "start": 266,
+        "end": 271,
+        "string": "rent"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 276,
+        "string": "out"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 283,
+        "string": "their"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 292,
+        "string": "claimed"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 298,
+        "string": "part"
+      },
+      {
+        "start": 298,
+        "end": 299,
+        "string": " "
+      },
+      {
+        "start": 299,
+        "end": 302,
+        "string": "of"
+      },
+      {
+        "start": 302,
+        "end": 303,
+        "string": " "
+      },
+      {
+        "start": 303,
+        "end": 307,
+        "string": "the"
+      },
+      {
+        "start": 307,
+        "end": 308,
+        "string": " "
+      },
+      {
+        "start": 308,
+        "end": 320,
+        "string": "streetscape"
+      },
+      {
+        "start": 320,
+        "end": 321,
+        "string": " "
+      },
+      {
+        "start": 321,
+        "end": 324,
+        "string": "to"
+      },
+      {
+        "start": 324,
+        "end": 325,
+        "string": " "
+      },
+      {
+        "start": 325,
+        "end": 330,
+        "string": "cope"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 336,
+        "string": "with"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 347,
+        "string": "financial"
+      },
+      {
+        "start": 347,
+        "end": 348,
+        "string": " "
+      },
+      {
+        "start": 348,
+        "end": 357,
+        "string": "distress"
+      },
+      {
+        "start": 357,
+        "end": 358,
+        "string": " "
+      },
+      {
+        "start": 358,
+        "end": 360,
+        "string": "."
+      },
+      {
+        "start": 360,
+        "end": 361,
+        "string": " "
+      }
+    ]
+  }
+}

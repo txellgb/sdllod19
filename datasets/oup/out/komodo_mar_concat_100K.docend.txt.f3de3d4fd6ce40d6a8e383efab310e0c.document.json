@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "f3de3d4fd6ce40d6a8e383efab310e0c.doc",
+  "metadata": {
+    "title": "Construction Begins On 30-Foot-High San Diego Border Wall",
+    "sourceUrl": "https://www.zerohedge.com/news/2019-02-21/construction-begins-30-foot-high-san-diego-border-wall",
+    "documentSource": "zerohedge.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-02",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,9031 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "5d0dca9dc6784314b5bf5a09fb3f6ab7.doc",
+  "id": "5d0dca9dc6784314b5bf5a09fb3f6ab7.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "5d0dca9dc6784314b5bf5a09fb3f6ab7.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 2,
+        "string": "A"
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "string": " "
+      },
+      {
+        "start": 3,
+        "end": 13,
+        "string": "strategic"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "string": "and"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "string": " "
+      },
+      {
+        "start": 19,
+        "end": 33,
+        "string": "knowledgeable"
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "string": " "
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "string": "approach"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "string": "to"
+      },
+      {
+        "start": 47,
+        "end": 48,
+        "string": " "
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "string": "securing"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "string": "land"
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "string": " "
+      },
+      {
+        "start": 64,
+        "end": 77,
+        "string": "entitlements"
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "string": " "
+      },
+      {
+        "start": 78,
+        "end": 90,
+        "string": "streamlines"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "string": "the"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 105,
+        "string": "involved"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 116,
+        "string": "processes"
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "string": " "
+      },
+      {
+        "start": 117,
+        "end": 121,
+        "string": "and"
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "string": " "
+      },
+      {
+        "start": 122,
+        "end": 131,
+        "string": "augments"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 154,
+        "string": "returns-on-investment"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 158,
+        "string": "in"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 170,
+        "string": "commercial"
+      },
+      {
+        "start": 170,
+        "end": 171,
+        "string": " "
+      },
+      {
+        "start": 171,
+        "end": 176,
+        "string": "real"
+      },
+      {
+        "start": 176,
+        "end": 177,
+        "string": " "
+      },
+      {
+        "start": 177,
+        "end": 184,
+        "string": "estate"
+      },
+      {
+        "start": 184,
+        "end": 185,
+        "string": " "
+      },
+      {
+        "start": 185,
+        "end": 197,
+        "string": "development"
+      },
+      {
+        "start": 197,
+        "end": 198,
+        "string": " "
+      },
+      {
+        "start": 198,
+        "end": 200,
+        "string": "."
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "string": " "
+      },
+      {
+        "start": 201,
+        "end": 206,
+        "string": "Land"
+      },
+      {
+        "start": 206,
+        "end": 207,
+        "string": " "
+      },
+      {
+        "start": 207,
+        "end": 220,
+        "string": "entitlements"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 225,
+        "string": "are"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 230,
+        "string": "the"
+      },
+      {
+        "start": 230,
+        "end": 231,
+        "string": " "
+      },
+      {
+        "start": 231,
+        "end": 243,
+        "string": "cornerstone"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 247,
+        "string": "of"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 253,
+        "string": "land"
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 266,
+        "string": "development"
+      },
+      {
+        "start": 266,
+        "end": 267,
+        "string": " "
+      },
+      {
+        "start": 267,
+        "end": 269,
+        "string": "."
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 274,
+        "string": "Yet"
+      },
+      {
+        "start": 274,
+        "end": 275,
+        "string": " "
+      },
+      {
+        "start": 275,
+        "end": 277,
+        "string": ","
+      },
+      {
+        "start": 277,
+        "end": 278,
+        "string": " "
+      },
+      {
+        "start": 278,
+        "end": 280,
+        "string": "a"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 286,
+        "string": "deep"
+      },
+      {
+        "start": 286,
+        "end": 287,
+        "string": " "
+      },
+      {
+        "start": 287,
+        "end": 292,
+        "string": "well"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 296,
+        "string": "of"
+      },
+      {
+        "start": 296,
+        "end": 297,
+        "string": " "
+      },
+      {
+        "start": 297,
+        "end": 306,
+        "string": "patience"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 310,
+        "string": "is"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 321,
+        "string": "necessary"
+      },
+      {
+        "start": 321,
+        "end": 322,
+        "string": " "
+      },
+      {
+        "start": 322,
+        "end": 325,
+        "string": "to"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 334,
+        "string": "unravel"
+      },
+      {
+        "start": 334,
+        "end": 335,
+        "string": " "
+      },
+      {
+        "start": 335,
+        "end": 339,
+        "string": "the"
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 353,
+        "string": "bureaucratic"
+      },
+      {
+        "start": 353,
+        "end": 354,
+        "string": " "
+      },
+      {
+        "start": 354,
+        "end": 367,
+        "string": "complexities"
+      },
+      {
+        "start": 367,
+        "end": 368,
+        "string": " "
+      },
+      {
+        "start": 368,
+        "end": 372,
+        "string": "and"
+      },
+      {
+        "start": 372,
+        "end": 373,
+        "string": " "
+      },
+      {
+        "start": 373,
+        "end": 386,
+        "string": "multifarious"
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 400,
+        "string": "requirements"
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 403,
+        "string": "."
+      },
+      {
+        "start": 403,
+        "end": 404,
+        "string": " "
+      },
+      {
+        "start": 404,
+        "end": 411,
+        "string": "George"
+      },
+      {
+        "start": 411,
+        "end": 412,
+        "string": " "
+      },
+      {
+        "start": 412,
+        "end": 419,
+        "string": "Garcia"
+      },
+      {
+        "start": 419,
+        "end": 420,
+        "string": " "
+      },
+      {
+        "start": 420,
+        "end": 422,
+        "string": ","
+      },
+      {
+        "start": 422,
+        "end": 423,
+        "string": " "
+      },
+      {
+        "start": 423,
+        "end": 427,
+        "string": "the"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 436,
+        "string": "Founder"
+      },
+      {
+        "start": 436,
+        "end": 437,
+        "string": " "
+      },
+      {
+        "start": 437,
+        "end": 441,
+        "string": "and"
+      },
+      {
+        "start": 441,
+        "end": 442,
+        "string": " "
+      },
+      {
+        "start": 442,
+        "end": 452,
+        "string": "President"
+      },
+      {
+        "start": 452,
+        "end": 453,
+        "string": " "
+      },
+      {
+        "start": 453,
+        "end": 456,
+        "string": "of"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 462,
+        "string": "real"
+      },
+      {
+        "start": 462,
+        "end": 463,
+        "string": " "
+      },
+      {
+        "start": 463,
+        "end": 470,
+        "string": "estate"
+      },
+      {
+        "start": 470,
+        "end": 471,
+        "string": " "
+      },
+      {
+        "start": 471,
+        "end": 483,
+        "string": "development"
+      },
+      {
+        "start": 483,
+        "end": 484,
+        "string": " "
+      },
+      {
+        "start": 484,
+        "end": 488,
+        "string": "and"
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "string": " "
+      },
+      {
+        "start": 489,
+        "end": 503,
+        "string": "redevelopment"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 513,
+        "string": "services"
+      },
+      {
+        "start": 513,
+        "end": 514,
+        "string": " "
+      },
+      {
+        "start": 514,
+        "end": 522,
+        "string": "company"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 528,
+        "string": "G.C."
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 536,
+        "string": "Garcia"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 539,
+        "string": ","
+      },
+      {
+        "start": 539,
+        "end": 540,
+        "string": " "
+      },
+      {
+        "start": 540,
+        "end": 545,
+        "string": "Inc."
+      },
+      {
+        "start": 545,
+        "end": 546,
+        "string": " "
+      },
+      {
+        "start": 546,
+        "end": 554,
+        "string": "located"
+      },
+      {
+        "start": 554,
+        "end": 555,
+        "string": " "
+      },
+      {
+        "start": 555,
+        "end": 558,
+        "string": "in"
+      },
+      {
+        "start": 558,
+        "end": 559,
+        "string": " "
+      },
+      {
+        "start": 559,
+        "end": 563,
+        "string": "Las"
+      },
+      {
+        "start": 563,
+        "end": 564,
+        "string": " "
+      },
+      {
+        "start": 564,
+        "end": 570,
+        "string": "Vegas"
+      },
+      {
+        "start": 570,
+        "end": 571,
+        "string": " "
+      },
+      {
+        "start": 571,
+        "end": 573,
+        "string": ","
+      },
+      {
+        "start": 573,
+        "end": 574,
+        "string": " "
+      },
+      {
+        "start": 574,
+        "end": 581,
+        "string": "guides"
+      },
+      {
+        "start": 581,
+        "end": 582,
+        "string": " "
+      },
+      {
+        "start": 582,
+        "end": 587,
+        "string": "real"
+      },
+      {
+        "start": 587,
+        "end": 588,
+        "string": " "
+      },
+      {
+        "start": 588,
+        "end": 595,
+        "string": "estate"
+      },
+      {
+        "start": 595,
+        "end": 596,
+        "string": " "
+      },
+      {
+        "start": 596,
+        "end": 606,
+        "string": "investors"
+      },
+      {
+        "start": 606,
+        "end": 607,
+        "string": " "
+      },
+      {
+        "start": 607,
+        "end": 609,
+        "string": ","
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 615,
+        "string": "site"
+      },
+      {
+        "start": 615,
+        "end": 616,
+        "string": " "
+      },
+      {
+        "start": 616,
+        "end": 623,
+        "string": "owners"
+      },
+      {
+        "start": 623,
+        "end": 624,
+        "string": " "
+      },
+      {
+        "start": 624,
+        "end": 628,
+        "string": "and"
+      },
+      {
+        "start": 628,
+        "end": 629,
+        "string": " "
+      },
+      {
+        "start": 629,
+        "end": 640,
+        "string": "developers"
+      },
+      {
+        "start": 640,
+        "end": 641,
+        "string": " "
+      },
+      {
+        "start": 641,
+        "end": 644,
+        "string": "as"
+      },
+      {
+        "start": 644,
+        "end": 645,
+        "string": " "
+      },
+      {
+        "start": 645,
+        "end": 650,
+        "string": "they"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 660,
+        "string": "navigate"
+      },
+      {
+        "start": 660,
+        "end": 661,
+        "string": " "
+      },
+      {
+        "start": 661,
+        "end": 666,
+        "string": "such"
+      },
+      {
+        "start": 666,
+        "end": 667,
+        "string": " "
+      },
+      {
+        "start": 667,
+        "end": 679,
+        "string": "enterprises"
+      },
+      {
+        "start": 679,
+        "end": 680,
+        "string": " "
+      },
+      {
+        "start": 680,
+        "end": 682,
+        "string": "."
+      },
+      {
+        "start": 682,
+        "end": 683,
+        "string": " "
+      },
+      {
+        "start": 683,
+        "end": 687,
+        "string": "For"
+      },
+      {
+        "start": 687,
+        "end": 688,
+        "string": " "
+      },
+      {
+        "start": 688,
+        "end": 693,
+        "string": "this"
+      },
+      {
+        "start": 693,
+        "end": 694,
+        "string": " "
+      },
+      {
+        "start": 694,
+        "end": 704,
+        "string": "expertise"
+      },
+      {
+        "start": 704,
+        "end": 705,
+        "string": " "
+      },
+      {
+        "start": 705,
+        "end": 707,
+        "string": ","
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 715,
+        "string": "Garcia"
+      },
+      {
+        "start": 715,
+        "end": 716,
+        "string": " "
+      },
+      {
+        "start": 716,
+        "end": 720,
+        "string": "and"
+      },
+      {
+        "start": 720,
+        "end": 721,
+        "string": " "
+      },
+      {
+        "start": 721,
+        "end": 725,
+        "string": "his"
+      },
+      {
+        "start": 725,
+        "end": 726,
+        "string": " "
+      },
+      {
+        "start": 726,
+        "end": 731,
+        "string": "team"
+      },
+      {
+        "start": 731,
+        "end": 732,
+        "string": " "
+      },
+      {
+        "start": 732,
+        "end": 737,
+        "string": "have"
+      },
+      {
+        "start": 737,
+        "end": 738,
+        "string": " "
+      },
+      {
+        "start": 738,
+        "end": 745,
+        "string": "earned"
+      },
+      {
+        "start": 745,
+        "end": 746,
+        "string": " "
+      },
+      {
+        "start": 746,
+        "end": 750,
+        "string": "the"
+      },
+      {
+        "start": 750,
+        "end": 751,
+        "string": " "
+      },
+      {
+        "start": 751,
+        "end": 759,
+        "string": "moniker"
+      },
+      {
+        "start": 759,
+        "end": 760,
+        "string": " "
+      },
+      {
+        "start": 760,
+        "end": 762,
+        "string": ","
+      },
+      {
+        "start": 762,
+        "end": 763,
+        "string": " "
+      },
+      {
+        "start": 763,
+        "end": 765,
+        "string": "\""
+      },
+      {
+        "start": 765,
+        "end": 766,
+        "string": " "
+      },
+      {
+        "start": 766,
+        "end": 770,
+        "string": "Red"
+      },
+      {
+        "start": 770,
+        "end": 771,
+        "string": " "
+      },
+      {
+        "start": 771,
+        "end": 776,
+        "string": "Tape"
+      },
+      {
+        "start": 776,
+        "end": 777,
+        "string": " "
+      },
+      {
+        "start": 777,
+        "end": 785,
+        "string": "Sherpas"
+      },
+      {
+        "start": 785,
+        "end": 786,
+        "string": " "
+      },
+      {
+        "start": 786,
+        "end": 788,
+        "string": "."
+      },
+      {
+        "start": 788,
+        "end": 789,
+        "string": " "
+      },
+      {
+        "start": 789,
+        "end": 791,
+        "string": "\""
+      },
+      {
+        "start": 791,
+        "end": 792,
+        "string": " "
+      },
+      {
+        "start": 792,
+        "end": 794,
+        "string": "\""
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 803,
+        "string": "Cutting"
+      },
+      {
+        "start": 803,
+        "end": 804,
+        "string": " "
+      },
+      {
+        "start": 804,
+        "end": 812,
+        "string": "through"
+      },
+      {
+        "start": 812,
+        "end": 813,
+        "string": " "
+      },
+      {
+        "start": 813,
+        "end": 817,
+        "string": "the"
+      },
+      {
+        "start": 817,
+        "end": 818,
+        "string": " "
+      },
+      {
+        "start": 818,
+        "end": 822,
+        "string": "red"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 828,
+        "string": "tape"
+      },
+      {
+        "start": 828,
+        "end": 829,
+        "string": " "
+      },
+      {
+        "start": 829,
+        "end": 838,
+        "string": "involved"
+      },
+      {
+        "start": 838,
+        "end": 839,
+        "string": " "
+      },
+      {
+        "start": 839,
+        "end": 842,
+        "string": "in"
+      },
+      {
+        "start": 842,
+        "end": 843,
+        "string": " "
+      },
+      {
+        "start": 843,
+        "end": 848,
+        "string": "land"
+      },
+      {
+        "start": 848,
+        "end": 849,
+        "string": " "
+      },
+      {
+        "start": 849,
+        "end": 861,
+        "string": "development"
+      },
+      {
+        "start": 861,
+        "end": 862,
+        "string": " "
+      },
+      {
+        "start": 862,
+        "end": 864,
+        "string": ","
+      },
+      {
+        "start": 864,
+        "end": 865,
+        "string": " "
+      },
+      {
+        "start": 865,
+        "end": 872,
+        "string": "zoning"
+      },
+      {
+        "start": 872,
+        "end": 873,
+        "string": " "
+      },
+      {
+        "start": 873,
+        "end": 877,
+        "string": "and"
+      },
+      {
+        "start": 877,
+        "end": 878,
+        "string": " "
+      },
+      {
+        "start": 878,
+        "end": 891,
+        "string": "entitlements"
+      },
+      {
+        "start": 891,
+        "end": 892,
+        "string": " "
+      },
+      {
+        "start": 892,
+        "end": 895,
+        "string": "is"
+      },
+      {
+        "start": 895,
+        "end": 896,
+        "string": " "
+      },
+      {
+        "start": 896,
+        "end": 904,
+        "string": "nothing"
+      },
+      {
+        "start": 904,
+        "end": 905,
+        "string": " "
+      },
+      {
+        "start": 905,
+        "end": 911,
+        "string": "short"
+      },
+      {
+        "start": 911,
+        "end": 912,
+        "string": " "
+      },
+      {
+        "start": 912,
+        "end": 915,
+        "string": "of"
+      },
+      {
+        "start": 915,
+        "end": 916,
+        "string": " "
+      },
+      {
+        "start": 916,
+        "end": 918,
+        "string": "a"
+      },
+      {
+        "start": 918,
+        "end": 919,
+        "string": " "
+      },
+      {
+        "start": 919,
+        "end": 927,
+        "string": "complex"
+      },
+      {
+        "start": 927,
+        "end": 928,
+        "string": " "
+      },
+      {
+        "start": 928,
+        "end": 935,
+        "string": "series"
+      },
+      {
+        "start": 935,
+        "end": 936,
+        "string": " "
+      },
+      {
+        "start": 936,
+        "end": 939,
+        "string": "of"
+      },
+      {
+        "start": 939,
+        "end": 940,
+        "string": " "
+      },
+      {
+        "start": 940,
+        "end": 950,
+        "string": "carefully"
+      },
+      {
+        "start": 950,
+        "end": 951,
+        "string": " "
+      },
+      {
+        "start": 951,
+        "end": 959,
+        "string": "managed"
+      },
+      {
+        "start": 959,
+        "end": 960,
+        "string": " "
+      },
+      {
+        "start": 960,
+        "end": 971,
+        "string": "activities"
+      },
+      {
+        "start": 971,
+        "end": 972,
+        "string": " "
+      },
+      {
+        "start": 972,
+        "end": 974,
+        "string": ","
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 977,
+        "string": "\""
+      },
+      {
+        "start": 977,
+        "end": 978,
+        "string": " "
+      },
+      {
+        "start": 978,
+        "end": 983,
+        "string": "says"
+      },
+      {
+        "start": 983,
+        "end": 984,
+        "string": " "
+      },
+      {
+        "start": 984,
+        "end": 991,
+        "string": "Garcia"
+      },
+      {
+        "start": 991,
+        "end": 992,
+        "string": " "
+      },
+      {
+        "start": 992,
+        "end": 994,
+        "string": "."
+      },
+      {
+        "start": 994,
+        "end": 995,
+        "string": " "
+      },
+      {
+        "start": 995,
+        "end": 1002,
+        "string": "Garcia"
+      },
+      {
+        "start": 1002,
+        "end": 1003,
+        "string": " "
+      },
+      {
+        "start": 1003,
+        "end": 1007,
+        "string": "has"
+      },
+      {
+        "start": 1007,
+        "end": 1008,
+        "string": " "
+      },
+      {
+        "start": 1008,
+        "end": 1015,
+        "string": "nearly"
+      },
+      {
+        "start": 1015,
+        "end": 1016,
+        "string": " "
+      },
+      {
+        "start": 1016,
+        "end": 1019,
+        "string": "30"
+      },
+      {
+        "start": 1019,
+        "end": 1020,
+        "string": " "
+      },
+      {
+        "start": 1020,
+        "end": 1026,
+        "string": "years"
+      },
+      {
+        "start": 1026,
+        "end": 1027,
+        "string": " "
+      },
+      {
+        "start": 1027,
+        "end": 1030,
+        "string": "in"
+      },
+      {
+        "start": 1030,
+        "end": 1031,
+        "string": " "
+      },
+      {
+        "start": 1031,
+        "end": 1042,
+        "string": "government"
+      },
+      {
+        "start": 1042,
+        "end": 1043,
+        "string": " "
+      },
+      {
+        "start": 1043,
+        "end": 1052,
+        "string": "planning"
+      },
+      {
+        "start": 1052,
+        "end": 1053,
+        "string": " "
+      },
+      {
+        "start": 1053,
+        "end": 1055,
+        "string": ","
+      },
+      {
+        "start": 1055,
+        "end": 1056,
+        "string": " "
+      },
+      {
+        "start": 1056,
+        "end": 1061,
+        "string": "land"
+      },
+      {
+        "start": 1061,
+        "end": 1062,
+        "string": " "
+      },
+      {
+        "start": 1062,
+        "end": 1071,
+        "string": "planning"
+      },
+      {
+        "start": 1071,
+        "end": 1072,
+        "string": " "
+      },
+      {
+        "start": 1072,
+        "end": 1076,
+        "string": "and"
+      },
+      {
+        "start": 1076,
+        "end": 1077,
+        "string": " "
+      },
+      {
+        "start": 1077,
+        "end": 1082,
+        "string": "real"
+      },
+      {
+        "start": 1082,
+        "end": 1083,
+        "string": " "
+      },
+      {
+        "start": 1083,
+        "end": 1090,
+        "string": "estate"
+      },
+      {
+        "start": 1090,
+        "end": 1091,
+        "string": " "
+      },
+      {
+        "start": 1091,
+        "end": 1103,
+        "string": "development"
+      },
+      {
+        "start": 1103,
+        "end": 1104,
+        "string": " "
+      },
+      {
+        "start": 1104,
+        "end": 1106,
+        "string": "."
+      },
+      {
+        "start": 1106,
+        "end": 1107,
+        "string": " "
+      },
+      {
+        "start": 1107,
+        "end": 1113,
+        "string": "Prior"
+      },
+      {
+        "start": 1113,
+        "end": 1114,
+        "string": " "
+      },
+      {
+        "start": 1114,
+        "end": 1117,
+        "string": "to"
+      },
+      {
+        "start": 1117,
+        "end": 1118,
+        "string": " "
+      },
+      {
+        "start": 1118,
+        "end": 1127,
+        "string": "founding"
+      },
+      {
+        "start": 1127,
+        "end": 1128,
+        "string": " "
+      },
+      {
+        "start": 1128,
+        "end": 1132,
+        "string": "his"
+      },
+      {
+        "start": 1132,
+        "end": 1133,
+        "string": " "
+      },
+      {
+        "start": 1133,
+        "end": 1141,
+        "string": "company"
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1144,
+        "string": ","
+      },
+      {
+        "start": 1144,
+        "end": 1145,
+        "string": " "
+      },
+      {
+        "start": 1145,
+        "end": 1148,
+        "string": "he"
+      },
+      {
+        "start": 1148,
+        "end": 1149,
+        "string": " "
+      },
+      {
+        "start": 1149,
+        "end": 1156,
+        "string": "served"
+      },
+      {
+        "start": 1156,
+        "end": 1157,
+        "string": " "
+      },
+      {
+        "start": 1157,
+        "end": 1160,
+        "string": "as"
+      },
+      {
+        "start": 1160,
+        "end": 1161,
+        "string": " "
+      },
+      {
+        "start": 1161,
+        "end": 1170,
+        "string": "Planning"
+      },
+      {
+        "start": 1170,
+        "end": 1171,
+        "string": " "
+      },
+      {
+        "start": 1171,
+        "end": 1180,
+        "string": "Director"
+      },
+      {
+        "start": 1180,
+        "end": 1181,
+        "string": " "
+      },
+      {
+        "start": 1181,
+        "end": 1185,
+        "string": "for"
+      },
+      {
+        "start": 1185,
+        "end": 1186,
+        "string": " "
+      },
+      {
+        "start": 1186,
+        "end": 1190,
+        "string": "the"
+      },
+      {
+        "start": 1190,
+        "end": 1191,
+        "string": " "
+      },
+      {
+        "start": 1191,
+        "end": 1196,
+        "string": "City"
+      },
+      {
+        "start": 1196,
+        "end": 1197,
+        "string": " "
+      },
+      {
+        "start": 1197,
+        "end": 1200,
+        "string": "of"
+      },
+      {
+        "start": 1200,
+        "end": 1201,
+        "string": " "
+      },
+      {
+        "start": 1201,
+        "end": 1211,
+        "string": "Henderson"
+      },
+      {
+        "start": 1211,
+        "end": 1212,
+        "string": " "
+      },
+      {
+        "start": 1212,
+        "end": 1214,
+        "string": ","
+      },
+      {
+        "start": 1214,
+        "end": 1215,
+        "string": " "
+      },
+      {
+        "start": 1215,
+        "end": 1220,
+        "string": "Nev."
+      },
+      {
+        "start": 1220,
+        "end": 1221,
+        "string": " "
+      },
+      {
+        "start": 1221,
+        "end": 1225,
+        "string": "and"
+      },
+      {
+        "start": 1225,
+        "end": 1226,
+        "string": " "
+      },
+      {
+        "start": 1226,
+        "end": 1236,
+        "string": "Assistant"
+      },
+      {
+        "start": 1236,
+        "end": 1237,
+        "string": " "
+      },
+      {
+        "start": 1237,
+        "end": 1246,
+        "string": "Planning"
+      },
+      {
+        "start": 1246,
+        "end": 1247,
+        "string": " "
+      },
+      {
+        "start": 1247,
+        "end": 1256,
+        "string": "Director"
+      },
+      {
+        "start": 1256,
+        "end": 1257,
+        "string": " "
+      },
+      {
+        "start": 1257,
+        "end": 1260,
+        "string": "in"
+      },
+      {
+        "start": 1260,
+        "end": 1261,
+        "string": " "
+      },
+      {
+        "start": 1261,
+        "end": 1270,
+        "string": "Overland"
+      },
+      {
+        "start": 1270,
+        "end": 1271,
+        "string": " "
+      },
+      {
+        "start": 1271,
+        "end": 1276,
+        "string": "Park"
+      },
+      {
+        "start": 1276,
+        "end": 1277,
+        "string": " "
+      },
+      {
+        "start": 1277,
+        "end": 1279,
+        "string": ","
+      },
+      {
+        "start": 1279,
+        "end": 1280,
+        "string": " "
+      },
+      {
+        "start": 1280,
+        "end": 1284,
+        "string": "Kan"
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1287,
+        "string": "."
+      },
+      {
+        "start": 1287,
+        "end": 1288,
+        "string": " "
+      },
+      {
+        "start": 1288,
+        "end": 1291,
+        "string": "In"
+      },
+      {
+        "start": 1291,
+        "end": 1292,
+        "string": " "
+      },
+      {
+        "start": 1292,
+        "end": 1299,
+        "string": "Garcia"
+      },
+      {
+        "start": 1299,
+        "end": 1300,
+        "string": " "
+      },
+      {
+        "start": 1300,
+        "end": 1303,
+        "string": "'s"
+      },
+      {
+        "start": 1303,
+        "end": 1304,
+        "string": " "
+      },
+      {
+        "start": 1304,
+        "end": 1315,
+        "string": "leadership"
+      },
+      {
+        "start": 1315,
+        "end": 1316,
+        "string": " "
+      },
+      {
+        "start": 1316,
+        "end": 1321,
+        "string": "role"
+      },
+      {
+        "start": 1321,
+        "end": 1322,
+        "string": " "
+      },
+      {
+        "start": 1322,
+        "end": 1325,
+        "string": "at"
+      },
+      {
+        "start": 1325,
+        "end": 1326,
+        "string": " "
+      },
+      {
+        "start": 1326,
+        "end": 1331,
+        "string": "G.C."
+      },
+      {
+        "start": 1331,
+        "end": 1332,
+        "string": " "
+      },
+      {
+        "start": 1332,
+        "end": 1339,
+        "string": "Garcia"
+      },
+      {
+        "start": 1339,
+        "end": 1340,
+        "string": " "
+      },
+      {
+        "start": 1340,
+        "end": 1342,
+        "string": ","
+      },
+      {
+        "start": 1342,
+        "end": 1343,
+        "string": " "
+      },
+      {
+        "start": 1343,
+        "end": 1348,
+        "string": "Inc."
+      },
+      {
+        "start": 1348,
+        "end": 1349,
+        "string": " "
+      },
+      {
+        "start": 1349,
+        "end": 1351,
+        "string": ","
+      },
+      {
+        "start": 1351,
+        "end": 1352,
+        "string": " "
+      },
+      {
+        "start": 1352,
+        "end": 1355,
+        "string": "he"
+      },
+      {
+        "start": 1355,
+        "end": 1356,
+        "string": " "
+      },
+      {
+        "start": 1356,
+        "end": 1363,
+        "string": "guides"
+      },
+      {
+        "start": 1363,
+        "end": 1364,
+        "string": " "
+      },
+      {
+        "start": 1364,
+        "end": 1375,
+        "string": "developers"
+      },
+      {
+        "start": 1375,
+        "end": 1376,
+        "string": " "
+      },
+      {
+        "start": 1376,
+        "end": 1384,
+        "string": "through"
+      },
+      {
+        "start": 1384,
+        "end": 1385,
+        "string": " "
+      },
+      {
+        "start": 1385,
+        "end": 1389,
+        "string": "the"
+      },
+      {
+        "start": 1389,
+        "end": 1390,
+        "string": " "
+      },
+      {
+        "start": 1390,
+        "end": 1398,
+        "string": "process"
+      },
+      {
+        "start": 1398,
+        "end": 1399,
+        "string": " "
+      },
+      {
+        "start": 1399,
+        "end": 1402,
+        "string": "of"
+      },
+      {
+        "start": 1402,
+        "end": 1403,
+        "string": " "
+      },
+      {
+        "start": 1403,
+        "end": 1411,
+        "string": "dealing"
+      },
+      {
+        "start": 1411,
+        "end": 1412,
+        "string": " "
+      },
+      {
+        "start": 1412,
+        "end": 1417,
+        "string": "with"
+      },
+      {
+        "start": 1417,
+        "end": 1418,
+        "string": " "
+      },
+      {
+        "start": 1418,
+        "end": 1424,
+        "string": "local"
+      },
+      {
+        "start": 1424,
+        "end": 1425,
+        "string": " "
+      },
+      {
+        "start": 1425,
+        "end": 1437,
+        "string": "governments"
+      },
+      {
+        "start": 1437,
+        "end": 1438,
+        "string": " "
+      },
+      {
+        "start": 1438,
+        "end": 1440,
+        "string": ","
+      },
+      {
+        "start": 1440,
+        "end": 1441,
+        "string": " "
+      },
+      {
+        "start": 1441,
+        "end": 1450,
+        "string": "planning"
+      },
+      {
+        "start": 1450,
+        "end": 1451,
+        "string": " "
+      },
+      {
+        "start": 1451,
+        "end": 1458,
+        "string": "boards"
+      },
+      {
+        "start": 1458,
+        "end": 1459,
+        "string": " "
+      },
+      {
+        "start": 1459,
+        "end": 1463,
+        "string": "and"
+      },
+      {
+        "start": 1463,
+        "end": 1464,
+        "string": " "
+      },
+      {
+        "start": 1464,
+        "end": 1470,
+        "string": "other"
+      },
+      {
+        "start": 1470,
+        "end": 1471,
+        "string": " "
+      },
+      {
+        "start": 1471,
+        "end": 1478,
+        "string": "public"
+      },
+      {
+        "start": 1478,
+        "end": 1479,
+        "string": " "
+      },
+      {
+        "start": 1479,
+        "end": 1488,
+        "string": "entities"
+      },
+      {
+        "start": 1488,
+        "end": 1489,
+        "string": " "
+      },
+      {
+        "start": 1489,
+        "end": 1491,
+        "string": "."
+      },
+      {
+        "start": 1491,
+        "end": 1492,
+        "string": " "
+      },
+      {
+        "start": 1492,
+        "end": 1499,
+        "string": "Before"
+      },
+      {
+        "start": 1499,
+        "end": 1500,
+        "string": " "
+      },
+      {
+        "start": 1500,
+        "end": 1504,
+        "string": "the"
+      },
+      {
+        "start": 1504,
+        "end": 1505,
+        "string": " "
+      },
+      {
+        "start": 1505,
+        "end": 1511,
+        "string": "first"
+      },
+      {
+        "start": 1511,
+        "end": 1512,
+        "string": " "
+      },
+      {
+        "start": 1512,
+        "end": 1519,
+        "string": "shovel"
+      },
+      {
+        "start": 1519,
+        "end": 1520,
+        "string": " "
+      },
+      {
+        "start": 1520,
+        "end": 1527,
+        "string": "breaks"
+      },
+      {
+        "start": 1527,
+        "end": 1528,
+        "string": " "
+      },
+      {
+        "start": 1528,
+        "end": 1535,
+        "string": "ground"
+      },
+      {
+        "start": 1535,
+        "end": 1536,
+        "string": " "
+      },
+      {
+        "start": 1536,
+        "end": 1538,
+        "string": ","
+      },
+      {
+        "start": 1538,
+        "end": 1539,
+        "string": " "
+      },
+      {
+        "start": 1539,
+        "end": 1542,
+        "string": "he"
+      },
+      {
+        "start": 1542,
+        "end": 1543,
+        "string": " "
+      },
+      {
+        "start": 1543,
+        "end": 1547,
+        "string": "and"
+      },
+      {
+        "start": 1547,
+        "end": 1548,
+        "string": " "
+      },
+      {
+        "start": 1548,
+        "end": 1552,
+        "string": "his"
+      },
+      {
+        "start": 1552,
+        "end": 1553,
+        "string": " "
+      },
+      {
+        "start": 1553,
+        "end": 1558,
+        "string": "team"
+      },
+      {
+        "start": 1558,
+        "end": 1559,
+        "string": " "
+      },
+      {
+        "start": 1559,
+        "end": 1566,
+        "string": "strive"
+      },
+      {
+        "start": 1566,
+        "end": 1567,
+        "string": " "
+      },
+      {
+        "start": 1567,
+        "end": 1570,
+        "string": "to"
+      },
+      {
+        "start": 1570,
+        "end": 1571,
+        "string": " "
+      },
+      {
+        "start": 1571,
+        "end": 1577,
+        "string": "bring"
+      },
+      {
+        "start": 1577,
+        "end": 1578,
+        "string": " "
+      },
+      {
+        "start": 1578,
+        "end": 1586,
+        "string": "clarity"
+      },
+      {
+        "start": 1586,
+        "end": 1587,
+        "string": " "
+      },
+      {
+        "start": 1587,
+        "end": 1590,
+        "string": "to"
+      },
+      {
+        "start": 1590,
+        "end": 1591,
+        "string": " "
+      },
+      {
+        "start": 1591,
+        "end": 1595,
+        "string": "any"
+      },
+      {
+        "start": 1595,
+        "end": 1596,
+        "string": " "
+      },
+      {
+        "start": 1596,
+        "end": 1601,
+        "string": "land"
+      },
+      {
+        "start": 1601,
+        "end": 1602,
+        "string": " "
+      },
+      {
+        "start": 1602,
+        "end": 1611,
+        "string": "planning"
+      },
+      {
+        "start": 1611,
+        "end": 1612,
+        "string": " "
+      },
+      {
+        "start": 1612,
+        "end": 1615,
+        "string": "or"
+      },
+      {
+        "start": 1615,
+        "end": 1616,
+        "string": " "
+      },
+      {
+        "start": 1616,
+        "end": 1623,
+        "string": "zoning"
+      },
+      {
+        "start": 1623,
+        "end": 1624,
+        "string": " "
+      },
+      {
+        "start": 1624,
+        "end": 1634,
+        "string": "situation"
+      },
+      {
+        "start": 1634,
+        "end": 1635,
+        "string": " "
+      },
+      {
+        "start": 1635,
+        "end": 1637,
+        "string": "."
+      },
+      {
+        "start": 1637,
+        "end": 1638,
+        "string": " "
+      },
+      {
+        "start": 1638,
+        "end": 1642,
+        "string": "For"
+      },
+      {
+        "start": 1642,
+        "end": 1643,
+        "string": " "
+      },
+      {
+        "start": 1643,
+        "end": 1648,
+        "string": "land"
+      },
+      {
+        "start": 1648,
+        "end": 1649,
+        "string": " "
+      },
+      {
+        "start": 1649,
+        "end": 1656,
+        "string": "owners"
+      },
+      {
+        "start": 1656,
+        "end": 1657,
+        "string": " "
+      },
+      {
+        "start": 1657,
+        "end": 1661,
+        "string": "and"
+      },
+      {
+        "start": 1661,
+        "end": 1662,
+        "string": " "
+      },
+      {
+        "start": 1662,
+        "end": 1668,
+        "string": "those"
+      },
+      {
+        "start": 1668,
+        "end": 1669,
+        "string": " "
+      },
+      {
+        "start": 1669,
+        "end": 1677,
+        "string": "seeking"
+      },
+      {
+        "start": 1677,
+        "end": 1678,
+        "string": " "
+      },
+      {
+        "start": 1678,
+        "end": 1682,
+        "string": "new"
+      },
+      {
+        "start": 1682,
+        "end": 1683,
+        "string": " "
+      },
+      {
+        "start": 1683,
+        "end": 1692,
+        "string": "property"
+      },
+      {
+        "start": 1692,
+        "end": 1693,
+        "string": " "
+      },
+      {
+        "start": 1693,
+        "end": 1697,
+        "string": "for"
+      },
+      {
+        "start": 1697,
+        "end": 1698,
+        "string": " "
+      },
+      {
+        "start": 1698,
+        "end": 1705,
+        "string": "future"
+      },
+      {
+        "start": 1705,
+        "end": 1706,
+        "string": " "
+      },
+      {
+        "start": 1706,
+        "end": 1715,
+        "string": "building"
+      },
+      {
+        "start": 1715,
+        "end": 1716,
+        "string": " "
+      },
+      {
+        "start": 1716,
+        "end": 1720,
+        "string": "and"
+      },
+      {
+        "start": 1720,
+        "end": 1721,
+        "string": " "
+      },
+      {
+        "start": 1721,
+        "end": 1733,
+        "string": "development"
+      },
+      {
+        "start": 1733,
+        "end": 1734,
+        "string": " "
+      },
+      {
+        "start": 1734,
+        "end": 1736,
+        "string": ","
+      },
+      {
+        "start": 1736,
+        "end": 1737,
+        "string": " "
+      },
+      {
+        "start": 1737,
+        "end": 1746,
+        "string": "detailed"
+      },
+      {
+        "start": 1746,
+        "end": 1747,
+        "string": " "
+      },
+      {
+        "start": 1747,
+        "end": 1756,
+        "string": "research"
+      },
+      {
+        "start": 1756,
+        "end": 1757,
+        "string": " "
+      },
+      {
+        "start": 1757,
+        "end": 1760,
+        "string": "is"
+      },
+      {
+        "start": 1760,
+        "end": 1761,
+        "string": " "
+      },
+      {
+        "start": 1761,
+        "end": 1763,
+        "string": "a"
+      },
+      {
+        "start": 1763,
+        "end": 1764,
+        "string": " "
+      },
+      {
+        "start": 1764,
+        "end": 1776,
+        "string": "fundamental"
+      },
+      {
+        "start": 1776,
+        "end": 1777,
+        "string": " "
+      },
+      {
+        "start": 1777,
+        "end": 1787,
+        "string": "precursor"
+      },
+      {
+        "start": 1787,
+        "end": 1788,
+        "string": " "
+      },
+      {
+        "start": 1788,
+        "end": 1791,
+        "string": "in"
+      },
+      {
+        "start": 1791,
+        "end": 1792,
+        "string": " "
+      },
+      {
+        "start": 1792,
+        "end": 1803,
+        "string": "evaluating"
+      },
+      {
+        "start": 1803,
+        "end": 1804,
+        "string": " "
+      },
+      {
+        "start": 1804,
+        "end": 1806,
+        "string": "a"
+      },
+      {
+        "start": 1806,
+        "end": 1807,
+        "string": " "
+      },
+      {
+        "start": 1807,
+        "end": 1815,
+        "string": "project"
+      },
+      {
+        "start": 1815,
+        "end": 1816,
+        "string": " "
+      },
+      {
+        "start": 1816,
+        "end": 1819,
+        "string": "'s"
+      },
+      {
+        "start": 1819,
+        "end": 1820,
+        "string": " "
+      },
+      {
+        "start": 1820,
+        "end": 1830,
+        "string": "potential"
+      },
+      {
+        "start": 1830,
+        "end": 1831,
+        "string": " "
+      },
+      {
+        "start": 1831,
+        "end": 1833,
+        "string": "."
+      },
+      {
+        "start": 1833,
+        "end": 1834,
+        "string": " "
+      },
+      {
+        "start": 1834,
+        "end": 1836,
+        "string": "A"
+      },
+      {
+        "start": 1836,
+        "end": 1837,
+        "string": " "
+      },
+      {
+        "start": 1837,
+        "end": 1845,
+        "string": "vetting"
+      },
+      {
+        "start": 1845,
+        "end": 1846,
+        "string": " "
+      },
+      {
+        "start": 1846,
+        "end": 1850,
+        "string": "and"
+      },
+      {
+        "start": 1850,
+        "end": 1851,
+        "string": " "
+      },
+      {
+        "start": 1851,
+        "end": 1860,
+        "string": "planning"
+      },
+      {
+        "start": 1860,
+        "end": 1861,
+        "string": " "
+      },
+      {
+        "start": 1861,
+        "end": 1869,
+        "string": "process"
+      },
+      {
+        "start": 1869,
+        "end": 1870,
+        "string": " "
+      },
+      {
+        "start": 1870,
+        "end": 1873,
+        "string": "is"
+      },
+      {
+        "start": 1873,
+        "end": 1874,
+        "string": " "
+      },
+      {
+        "start": 1874,
+        "end": 1884,
+        "string": "essential"
+      },
+      {
+        "start": 1884,
+        "end": 1885,
+        "string": " "
+      },
+      {
+        "start": 1885,
+        "end": 1887,
+        "string": "."
+      },
+      {
+        "start": 1887,
+        "end": 1888,
+        "string": " "
+      },
+      {
+        "start": 1888,
+        "end": 1893,
+        "string": "From"
+      },
+      {
+        "start": 1893,
+        "end": 1894,
+        "string": " "
+      },
+      {
+        "start": 1894,
+        "end": 1899,
+        "string": "site"
+      },
+      {
+        "start": 1899,
+        "end": 1900,
+        "string": " "
+      },
+      {
+        "start": 1900,
+        "end": 1911,
+        "string": "evaluation"
+      },
+      {
+        "start": 1911,
+        "end": 1912,
+        "string": " "
+      },
+      {
+        "start": 1912,
+        "end": 1915,
+        "string": "to"
+      },
+      {
+        "start": 1915,
+        "end": 1916,
+        "string": " "
+      },
+      {
+        "start": 1916,
+        "end": 1929,
+        "string": "coordinating"
+      },
+      {
+        "start": 1929,
+        "end": 1930,
+        "string": " "
+      },
+      {
+        "start": 1930,
+        "end": 1935,
+        "string": "with"
+      },
+      {
+        "start": 1935,
+        "end": 1936,
+        "string": " "
+      },
+      {
+        "start": 1936,
+        "end": 1947,
+        "string": "government"
+      },
+      {
+        "start": 1947,
+        "end": 1948,
+        "string": " "
+      },
+      {
+        "start": 1948,
+        "end": 1957,
+        "string": "entities"
+      },
+      {
+        "start": 1957,
+        "end": 1958,
+        "string": " "
+      },
+      {
+        "start": 1958,
+        "end": 1960,
+        "string": ","
+      },
+      {
+        "start": 1960,
+        "end": 1961,
+        "string": " "
+      },
+      {
+        "start": 1961,
+        "end": 1969,
+        "string": "leaving"
+      },
+      {
+        "start": 1969,
+        "end": 1970,
+        "string": " "
+      },
+      {
+        "start": 1970,
+        "end": 1973,
+        "string": "no"
+      },
+      {
+        "start": 1973,
+        "end": 1974,
+        "string": " "
+      },
+      {
+        "start": 1974,
+        "end": 1980,
+        "string": "stone"
+      },
+      {
+        "start": 1980,
+        "end": 1981,
+        "string": " "
+      },
+      {
+        "start": 1981,
+        "end": 1990,
+        "string": "unturned"
+      },
+      {
+        "start": 1990,
+        "end": 1991,
+        "string": " "
+      },
+      {
+        "start": 1991,
+        "end": 1994,
+        "string": "is"
+      },
+      {
+        "start": 1994,
+        "end": 1995,
+        "string": " "
+      },
+      {
+        "start": 1995,
+        "end": 2005,
+        "string": "paramount"
+      },
+      {
+        "start": 2005,
+        "end": 2006,
+        "string": " "
+      },
+      {
+        "start": 2006,
+        "end": 2010,
+        "string": "for"
+      },
+      {
+        "start": 2010,
+        "end": 2011,
+        "string": " "
+      },
+      {
+        "start": 2011,
+        "end": 2016,
+        "string": "real"
+      },
+      {
+        "start": 2016,
+        "end": 2017,
+        "string": " "
+      },
+      {
+        "start": 2017,
+        "end": 2024,
+        "string": "estate"
+      },
+      {
+        "start": 2024,
+        "end": 2025,
+        "string": " "
+      },
+      {
+        "start": 2025,
+        "end": 2039,
+        "string": "entrepreneurs"
+      },
+      {
+        "start": 2039,
+        "end": 2040,
+        "string": " "
+      },
+      {
+        "start": 2040,
+        "end": 2042,
+        "string": "."
+      },
+      {
+        "start": 2042,
+        "end": 2043,
+        "string": " "
+      },
+      {
+        "start": 2043,
+        "end": 2047,
+        "string": "The"
+      },
+      {
+        "start": 2047,
+        "end": 2048,
+        "string": " "
+      },
+      {
+        "start": 2048,
+        "end": 2059,
+        "string": "procedures"
+      },
+      {
+        "start": 2059,
+        "end": 2060,
+        "string": " "
+      },
+      {
+        "start": 2060,
+        "end": 2065,
+        "string": "give"
+      },
+      {
+        "start": 2065,
+        "end": 2066,
+        "string": " "
+      },
+      {
+        "start": 2066,
+        "end": 2068,
+        "string": "a"
+      },
+      {
+        "start": 2068,
+        "end": 2069,
+        "string": " "
+      },
+      {
+        "start": 2069,
+        "end": 2075,
+        "string": "whole"
+      },
+      {
+        "start": 2075,
+        "end": 2076,
+        "string": " "
+      },
+      {
+        "start": 2076,
+        "end": 2080,
+        "string": "new"
+      },
+      {
+        "start": 2080,
+        "end": 2081,
+        "string": " "
+      },
+      {
+        "start": 2081,
+        "end": 2089,
+        "string": "meaning"
+      },
+      {
+        "start": 2089,
+        "end": 2090,
+        "string": " "
+      },
+      {
+        "start": 2090,
+        "end": 2093,
+        "string": "to"
+      },
+      {
+        "start": 2093,
+        "end": 2094,
+        "string": " "
+      },
+      {
+        "start": 2094,
+        "end": 2100,
+        "string": "doing"
+      },
+      {
+        "start": 2100,
+        "end": 2101,
+        "string": " "
+      },
+      {
+        "start": 2101,
+        "end": 2105,
+        "string": "one"
+      },
+      {
+        "start": 2105,
+        "end": 2106,
+        "string": " "
+      },
+      {
+        "start": 2106,
+        "end": 2109,
+        "string": "'s"
+      },
+      {
+        "start": 2109,
+        "end": 2110,
+        "string": " "
+      },
+      {
+        "start": 2110,
+        "end": 2119,
+        "string": "homework"
+      },
+      {
+        "start": 2119,
+        "end": 2120,
+        "string": " "
+      },
+      {
+        "start": 2120,
+        "end": 2122,
+        "string": "."
+      },
+      {
+        "start": 2122,
+        "end": 2123,
+        "string": " "
+      },
+      {
+        "start": 2123,
+        "end": 2130,
+        "string": "Garcia"
+      },
+      {
+        "start": 2130,
+        "end": 2131,
+        "string": " "
+      },
+      {
+        "start": 2131,
+        "end": 2139,
+        "string": "advises"
+      },
+      {
+        "start": 2139,
+        "end": 2140,
+        "string": " "
+      },
+      {
+        "start": 2140,
+        "end": 2145,
+        "string": "that"
+      },
+      {
+        "start": 2145,
+        "end": 2146,
+        "string": " "
+      },
+      {
+        "start": 2146,
+        "end": 2148,
+        "string": "a"
+      },
+      {
+        "start": 2148,
+        "end": 2149,
+        "string": " "
+      },
+      {
+        "start": 2149,
+        "end": 2160,
+        "string": "systematic"
+      },
+      {
+        "start": 2160,
+        "end": 2161,
+        "string": " "
+      },
+      {
+        "start": 2161,
+        "end": 2170,
+        "string": "approach"
+      },
+      {
+        "start": 2170,
+        "end": 2171,
+        "string": " "
+      },
+      {
+        "start": 2171,
+        "end": 2174,
+        "string": "to"
+      },
+      {
+        "start": 2174,
+        "end": 2175,
+        "string": " "
+      },
+      {
+        "start": 2175,
+        "end": 2180,
+        "string": "site"
+      },
+      {
+        "start": 2180,
+        "end": 2181,
+        "string": " "
+      },
+      {
+        "start": 2181,
+        "end": 2193,
+        "string": "exploration"
+      },
+      {
+        "start": 2193,
+        "end": 2194,
+        "string": " "
+      },
+      {
+        "start": 2194,
+        "end": 2198,
+        "string": "and"
+      },
+      {
+        "start": 2198,
+        "end": 2199,
+        "string": " "
+      },
+      {
+        "start": 2199,
+        "end": 2210,
+        "string": "procedural"
+      },
+      {
+        "start": 2210,
+        "end": 2211,
+        "string": " "
+      },
+      {
+        "start": 2211,
+        "end": 2220,
+        "string": "planning"
+      },
+      {
+        "start": 2220,
+        "end": 2221,
+        "string": " "
+      },
+      {
+        "start": 2221,
+        "end": 2225,
+        "string": "are"
+      },
+      {
+        "start": 2225,
+        "end": 2226,
+        "string": " "
+      },
+      {
+        "start": 2226,
+        "end": 2240,
+        "string": "prerequisites"
+      },
+      {
+        "start": 2240,
+        "end": 2241,
+        "string": " "
+      },
+      {
+        "start": 2241,
+        "end": 2245,
+        "string": "for"
+      },
+      {
+        "start": 2245,
+        "end": 2246,
+        "string": " "
+      },
+      {
+        "start": 2246,
+        "end": 2251,
+        "string": "real"
+      },
+      {
+        "start": 2251,
+        "end": 2252,
+        "string": " "
+      },
+      {
+        "start": 2252,
+        "end": 2259,
+        "string": "estate"
+      },
+      {
+        "start": 2259,
+        "end": 2260,
+        "string": " "
+      },
+      {
+        "start": 2260,
+        "end": 2272,
+        "string": "investments"
+      },
+      {
+        "start": 2272,
+        "end": 2273,
+        "string": " "
+      },
+      {
+        "start": 2273,
+        "end": 2275,
+        "string": "."
+      },
+      {
+        "start": 2275,
+        "end": 2276,
+        "string": " "
+      },
+      {
+        "start": 2276,
+        "end": 2278,
+        "string": "\""
+      },
+      {
+        "start": 2278,
+        "end": 2279,
+        "string": " "
+      },
+      {
+        "start": 2279,
+        "end": 2290,
+        "string": "Government"
+      },
+      {
+        "start": 2290,
+        "end": 2291,
+        "string": " "
+      },
+      {
+        "start": 2291,
+        "end": 2295,
+        "string": "and"
+      },
+      {
+        "start": 2295,
+        "end": 2296,
+        "string": " "
+      },
+      {
+        "start": 2296,
+        "end": 2309,
+        "string": "neighborhood"
+      },
+      {
+        "start": 2309,
+        "end": 2310,
+        "string": " "
+      },
+      {
+        "start": 2310,
+        "end": 2320,
+        "string": "relations"
+      },
+      {
+        "start": 2320,
+        "end": 2321,
+        "string": " "
+      },
+      {
+        "start": 2321,
+        "end": 2323,
+        "string": ","
+      },
+      {
+        "start": 2323,
+        "end": 2324,
+        "string": " "
+      },
+      {
+        "start": 2324,
+        "end": 2337,
+        "string": "entitlements"
+      },
+      {
+        "start": 2337,
+        "end": 2338,
+        "string": " "
+      },
+      {
+        "start": 2338,
+        "end": 2340,
+        "string": ","
+      },
+      {
+        "start": 2340,
+        "end": 2341,
+        "string": " "
+      },
+      {
+        "start": 2341,
+        "end": 2345,
+        "string": "due"
+      },
+      {
+        "start": 2345,
+        "end": 2346,
+        "string": " "
+      },
+      {
+        "start": 2346,
+        "end": 2356,
+        "string": "diligence"
+      },
+      {
+        "start": 2356,
+        "end": 2357,
+        "string": " "
+      },
+      {
+        "start": 2357,
+        "end": 2359,
+        "string": ","
+      },
+      {
+        "start": 2359,
+        "end": 2360,
+        "string": " "
+      },
+      {
+        "start": 2360,
+        "end": 2372,
+        "string": "development"
+      },
+      {
+        "start": 2372,
+        "end": 2373,
+        "string": " "
+      },
+      {
+        "start": 2373,
+        "end": 2386,
+        "string": "coordination"
+      },
+      {
+        "start": 2386,
+        "end": 2387,
+        "string": " "
+      },
+      {
+        "start": 2387,
+        "end": 2389,
+        "string": ","
+      },
+      {
+        "start": 2389,
+        "end": 2390,
+        "string": " "
+      },
+      {
+        "start": 2390,
+        "end": 2401,
+        "string": "permitting"
+      },
+      {
+        "start": 2401,
+        "end": 2402,
+        "string": " "
+      },
+      {
+        "start": 2402,
+        "end": 2404,
+        "string": ","
+      },
+      {
+        "start": 2404,
+        "end": 2405,
+        "string": " "
+      },
+      {
+        "start": 2405,
+        "end": 2409,
+        "string": "and"
+      },
+      {
+        "start": 2409,
+        "end": 2410,
+        "string": " "
+      },
+      {
+        "start": 2410,
+        "end": 2419,
+        "string": "business"
+      },
+      {
+        "start": 2419,
+        "end": 2420,
+        "string": " "
+      },
+      {
+        "start": 2420,
+        "end": 2430,
+        "string": "licensing"
+      },
+      {
+        "start": 2430,
+        "end": 2431,
+        "string": " "
+      },
+      {
+        "start": 2431,
+        "end": 2435,
+        "string": "are"
+      },
+      {
+        "start": 2435,
+        "end": 2436,
+        "string": " "
+      },
+      {
+        "start": 2436,
+        "end": 2440,
+        "string": "key"
+      },
+      {
+        "start": 2440,
+        "end": 2441,
+        "string": " "
+      },
+      {
+        "start": 2441,
+        "end": 2450,
+        "string": "elements"
+      },
+      {
+        "start": 2450,
+        "end": 2451,
+        "string": " "
+      },
+      {
+        "start": 2451,
+        "end": 2453,
+        "string": ","
+      },
+      {
+        "start": 2453,
+        "end": 2454,
+        "string": " "
+      },
+      {
+        "start": 2454,
+        "end": 2456,
+        "string": "\""
+      },
+      {
+        "start": 2456,
+        "end": 2457,
+        "string": " "
+      },
+      {
+        "start": 2457,
+        "end": 2460,
+        "string": "he"
+      },
+      {
+        "start": 2460,
+        "end": 2461,
+        "string": " "
+      },
+      {
+        "start": 2461,
+        "end": 2466,
+        "string": "says"
+      },
+      {
+        "start": 2466,
+        "end": 2467,
+        "string": " "
+      },
+      {
+        "start": 2467,
+        "end": 2469,
+        "string": "."
+      },
+      {
+        "start": 2469,
+        "end": 2470,
+        "string": " "
+      },
+      {
+        "start": 2470,
+        "end": 2483,
+        "string": "Coordination"
+      },
+      {
+        "start": 2483,
+        "end": 2484,
+        "string": " "
+      },
+      {
+        "start": 2484,
+        "end": 2489,
+        "string": "will"
+      },
+      {
+        "start": 2489,
+        "end": 2490,
+        "string": " "
+      },
+      {
+        "start": 2490,
+        "end": 2493,
+        "string": "be"
+      },
+      {
+        "start": 2493,
+        "end": 2494,
+        "string": " "
+      },
+      {
+        "start": 2494,
+        "end": 2501,
+        "string": "needed"
+      },
+      {
+        "start": 2501,
+        "end": 2502,
+        "string": " "
+      },
+      {
+        "start": 2502,
+        "end": 2507,
+        "string": "with"
+      },
+      {
+        "start": 2507,
+        "end": 2508,
+        "string": " "
+      },
+      {
+        "start": 2508,
+        "end": 2514,
+        "string": "local"
+      },
+      {
+        "start": 2514,
+        "end": 2515,
+        "string": " "
+      },
+      {
+        "start": 2515,
+        "end": 2519,
+        "string": "and"
+      },
+      {
+        "start": 2519,
+        "end": 2520,
+        "string": " "
+      },
+      {
+        "start": 2520,
+        "end": 2526,
+        "string": "state"
+      },
+      {
+        "start": 2526,
+        "end": 2527,
+        "string": " "
+      },
+      {
+        "start": 2527,
+        "end": 2539,
+        "string": "governments"
+      },
+      {
+        "start": 2539,
+        "end": 2540,
+        "string": " "
+      },
+      {
+        "start": 2540,
+        "end": 2542,
+        "string": ","
+      },
+      {
+        "start": 2542,
+        "end": 2543,
+        "string": " "
+      },
+      {
+        "start": 2543,
+        "end": 2551,
+        "string": "utility"
+      },
+      {
+        "start": 2551,
+        "end": 2552,
+        "string": " "
+      },
+      {
+        "start": 2552,
+        "end": 2562,
+        "string": "companies"
+      },
+      {
+        "start": 2562,
+        "end": 2563,
+        "string": " "
+      },
+      {
+        "start": 2563,
+        "end": 2565,
+        "string": ","
+      },
+      {
+        "start": 2565,
+        "end": 2566,
+        "string": " "
+      },
+      {
+        "start": 2566,
+        "end": 2576,
+        "string": "neighbors"
+      },
+      {
+        "start": 2576,
+        "end": 2577,
+        "string": " "
+      },
+      {
+        "start": 2577,
+        "end": 2579,
+        "string": ","
+      },
+      {
+        "start": 2579,
+        "end": 2580,
+        "string": " "
+      },
+      {
+        "start": 2580,
+        "end": 2584,
+        "string": "and"
+      },
+      {
+        "start": 2584,
+        "end": 2585,
+        "string": " "
+      },
+      {
+        "start": 2585,
+        "end": 2595,
+        "string": "engineers"
+      },
+      {
+        "start": 2595,
+        "end": 2596,
+        "string": " "
+      },
+      {
+        "start": 2596,
+        "end": 2598,
+        "string": "."
+      },
+      {
+        "start": 2598,
+        "end": 2599,
+        "string": " "
+      },
+      {
+        "start": 2599,
+        "end": 2602,
+        "string": "In"
+      },
+      {
+        "start": 2602,
+        "end": 2603,
+        "string": " "
+      },
+      {
+        "start": 2603,
+        "end": 2608,
+        "string": "many"
+      },
+      {
+        "start": 2608,
+        "end": 2609,
+        "string": " "
+      },
+      {
+        "start": 2609,
+        "end": 2615,
+        "string": "cases"
+      },
+      {
+        "start": 2615,
+        "end": 2616,
+        "string": " "
+      },
+      {
+        "start": 2616,
+        "end": 2618,
+        "string": ","
+      },
+      {
+        "start": 2618,
+        "end": 2619,
+        "string": " "
+      },
+      {
+        "start": 2619,
+        "end": 2629,
+        "string": "technical"
+      },
+      {
+        "start": 2629,
+        "end": 2630,
+        "string": " "
+      },
+      {
+        "start": 2630,
+        "end": 2638,
+        "string": "studies"
+      },
+      {
+        "start": 2638,
+        "end": 2639,
+        "string": " "
+      },
+      {
+        "start": 2639,
+        "end": 2641,
+        "string": ","
+      },
+      {
+        "start": 2641,
+        "end": 2642,
+        "string": " "
+      },
+      {
+        "start": 2642,
+        "end": 2656,
+        "string": "redevelopment"
+      },
+      {
+        "start": 2656,
+        "end": 2657,
+        "string": " "
+      },
+      {
+        "start": 2657,
+        "end": 2667,
+        "string": "financial"
+      },
+      {
+        "start": 2667,
+        "end": 2668,
+        "string": " "
+      },
+      {
+        "start": 2668,
+        "end": 2676,
+        "string": "reviews"
+      },
+      {
+        "start": 2676,
+        "end": 2677,
+        "string": " "
+      },
+      {
+        "start": 2677,
+        "end": 2681,
+        "string": "and"
+      },
+      {
+        "start": 2681,
+        "end": 2682,
+        "string": " "
+      },
+      {
+        "start": 2682,
+        "end": 2694,
+        "string": "application"
+      },
+      {
+        "start": 2694,
+        "end": 2695,
+        "string": " "
+      },
+      {
+        "start": 2695,
+        "end": 2706,
+        "string": "submittals"
+      },
+      {
+        "start": 2706,
+        "end": 2707,
+        "string": " "
+      },
+      {
+        "start": 2707,
+        "end": 2711,
+        "string": "are"
+      },
+      {
+        "start": 2711,
+        "end": 2712,
+        "string": " "
+      },
+      {
+        "start": 2712,
+        "end": 2722,
+        "string": "necessary"
+      },
+      {
+        "start": 2722,
+        "end": 2723,
+        "string": " "
+      },
+      {
+        "start": 2723,
+        "end": 2725,
+        "string": "."
+      },
+      {
+        "start": 2725,
+        "end": 2726,
+        "string": " "
+      },
+      {
+        "start": 2726,
+        "end": 2733,
+        "string": "Common"
+      },
+      {
+        "start": 2733,
+        "end": 2734,
+        "string": " "
+      },
+      {
+        "start": 2734,
+        "end": 2739,
+        "string": "Land"
+      },
+      {
+        "start": 2739,
+        "end": 2740,
+        "string": " "
+      },
+      {
+        "start": 2740,
+        "end": 2753,
+        "string": "Entitlements"
+      },
+      {
+        "start": 2753,
+        "end": 2754,
+        "string": " "
+      },
+      {
+        "start": 2754,
+        "end": 2766,
+        "string": "Formulating"
+      },
+      {
+        "start": 2766,
+        "end": 2767,
+        "string": " "
+      },
+      {
+        "start": 2767,
+        "end": 2775,
+        "string": "project"
+      },
+      {
+        "start": 2775,
+        "end": 2776,
+        "string": " "
+      },
+      {
+        "start": 2776,
+        "end": 2787,
+        "string": "parameters"
+      },
+      {
+        "start": 2787,
+        "end": 2788,
+        "string": " "
+      },
+      {
+        "start": 2788,
+        "end": 2791,
+        "string": "is"
+      },
+      {
+        "start": 2791,
+        "end": 2792,
+        "string": " "
+      },
+      {
+        "start": 2792,
+        "end": 2796,
+        "string": "the"
+      },
+      {
+        "start": 2796,
+        "end": 2797,
+        "string": " "
+      },
+      {
+        "start": 2797,
+        "end": 2803,
+        "string": "first"
+      },
+      {
+        "start": 2803,
+        "end": 2804,
+        "string": " "
+      },
+      {
+        "start": 2804,
+        "end": 2809,
+        "string": "step"
+      },
+      {
+        "start": 2809,
+        "end": 2810,
+        "string": " "
+      },
+      {
+        "start": 2810,
+        "end": 2812,
+        "string": "."
+      },
+      {
+        "start": 2812,
+        "end": 2813,
+        "string": " "
+      },
+      {
+        "start": 2813,
+        "end": 2817,
+        "string": "You"
+      },
+      {
+        "start": 2817,
+        "end": 2818,
+        "string": " "
+      },
+      {
+        "start": 2818,
+        "end": 2822,
+        "string": "'ll"
+      },
+      {
+        "start": 2822,
+        "end": 2823,
+        "string": " "
+      },
+      {
+        "start": 2823,
+        "end": 2828,
+        "string": "want"
+      },
+      {
+        "start": 2828,
+        "end": 2829,
+        "string": " "
+      },
+      {
+        "start": 2829,
+        "end": 2832,
+        "string": "to"
+      },
+      {
+        "start": 2832,
+        "end": 2833,
+        "string": " "
+      },
+      {
+        "start": 2833,
+        "end": 2844,
+        "string": "understand"
+      },
+      {
+        "start": 2844,
+        "end": 2845,
+        "string": " "
+      },
+      {
+        "start": 2845,
+        "end": 2849,
+        "string": "the"
+      },
+      {
+        "start": 2849,
+        "end": 2850,
+        "string": " "
+      },
+      {
+        "start": 2850,
+        "end": 2855,
+        "string": "five"
+      },
+      {
+        "start": 2855,
+        "end": 2856,
+        "string": " "
+      },
+      {
+        "start": 2856,
+        "end": 2863,
+        "string": "common"
+      },
+      {
+        "start": 2863,
+        "end": 2864,
+        "string": " "
+      },
+      {
+        "start": 2864,
+        "end": 2869,
+        "string": "land"
+      },
+      {
+        "start": 2869,
+        "end": 2870,
+        "string": " "
+      },
+      {
+        "start": 2870,
+        "end": 2883,
+        "string": "entitlements"
+      },
+      {
+        "start": 2883,
+        "end": 2884,
+        "string": " "
+      },
+      {
+        "start": 2884,
+        "end": 2886,
+        "string": ","
+      },
+      {
+        "start": 2886,
+        "end": 2887,
+        "string": " "
+      },
+      {
+        "start": 2887,
+        "end": 2893,
+        "string": "which"
+      },
+      {
+        "start": 2893,
+        "end": 2894,
+        "string": " "
+      },
+      {
+        "start": 2894,
+        "end": 2898,
+        "string": "are"
+      },
+      {
+        "start": 2898,
+        "end": 2899,
+        "string": " "
+      },
+      {
+        "start": 2899,
+        "end": 2905,
+        "string": "legal"
+      },
+      {
+        "start": 2905,
+        "end": 2906,
+        "string": " "
+      },
+      {
+        "start": 2906,
+        "end": 2917,
+        "string": "agreements"
+      },
+      {
+        "start": 2917,
+        "end": 2918,
+        "string": " "
+      },
+      {
+        "start": 2918,
+        "end": 2926,
+        "string": "between"
+      },
+      {
+        "start": 2926,
+        "end": 2927,
+        "string": " "
+      },
+      {
+        "start": 2927,
+        "end": 2931,
+        "string": "you"
+      },
+      {
+        "start": 2931,
+        "end": 2932,
+        "string": " "
+      },
+      {
+        "start": 2932,
+        "end": 2936,
+        "string": "and"
+      },
+      {
+        "start": 2936,
+        "end": 2937,
+        "string": " "
+      },
+      {
+        "start": 2937,
+        "end": 2948,
+        "string": "government"
+      },
+      {
+        "start": 2948,
+        "end": 2949,
+        "string": " "
+      },
+      {
+        "start": 2949,
+        "end": 2964,
+        "string": "municipalities"
+      },
+      {
+        "start": 2964,
+        "end": 2965,
+        "string": " "
+      },
+      {
+        "start": 2965,
+        "end": 2970,
+        "string": "that"
+      },
+      {
+        "start": 2970,
+        "end": 2971,
+        "string": " "
+      },
+      {
+        "start": 2971,
+        "end": 2977,
+        "string": "allow"
+      },
+      {
+        "start": 2977,
+        "end": 2978,
+        "string": " "
+      },
+      {
+        "start": 2978,
+        "end": 2982,
+        "string": "for"
+      },
+      {
+        "start": 2982,
+        "end": 2983,
+        "string": " "
+      },
+      {
+        "start": 2983,
+        "end": 2988,
+        "string": "land"
+      },
+      {
+        "start": 2988,
+        "end": 2989,
+        "string": " "
+      },
+      {
+        "start": 2989,
+        "end": 3002,
+        "string": "developments"
+      },
+      {
+        "start": 3002,
+        "end": 3003,
+        "string": " "
+      },
+      {
+        "start": 3003,
+        "end": 3005,
+        "string": "."
+      },
+      {
+        "start": 3005,
+        "end": 3006,
+        "string": " "
+      },
+      {
+        "start": 3006,
+        "end": 3008,
+        "string": "1"
+      },
+      {
+        "start": 3008,
+        "end": 3009,
+        "string": " "
+      },
+      {
+        "start": 3009,
+        "end": 3011,
+        "string": "."
+      },
+      {
+        "start": 3011,
+        "end": 3012,
+        "string": " "
+      },
+      {
+        "start": 3012,
+        "end": 3021,
+        "string": "Amending"
+      },
+      {
+        "start": 3021,
+        "end": 3022,
+        "string": " "
+      },
+      {
+        "start": 3022,
+        "end": 3024,
+        "string": "."
+      },
+      {
+        "start": 3024,
+        "end": 3025,
+        "string": " "
+      },
+      {
+        "start": 3025,
+        "end": 3029,
+        "string": "The"
+      },
+      {
+        "start": 3029,
+        "end": 3030,
+        "string": " "
+      },
+      {
+        "start": 3030,
+        "end": 3038,
+        "string": "highest"
+      },
+      {
+        "start": 3038,
+        "end": 3039,
+        "string": " "
+      },
+      {
+        "start": 3039,
+        "end": 3045,
+        "string": "level"
+      },
+      {
+        "start": 3045,
+        "end": 3046,
+        "string": " "
+      },
+      {
+        "start": 3046,
+        "end": 3049,
+        "string": "of"
+      },
+      {
+        "start": 3049,
+        "end": 3050,
+        "string": " "
+      },
+      {
+        "start": 3050,
+        "end": 3062,
+        "string": "entitlement"
+      },
+      {
+        "start": 3062,
+        "end": 3063,
+        "string": " "
+      },
+      {
+        "start": 3063,
+        "end": 3072,
+        "string": "requires"
+      },
+      {
+        "start": 3072,
+        "end": 3073,
+        "string": " "
+      },
+      {
+        "start": 3073,
+        "end": 3082,
+        "string": "amending"
+      },
+      {
+        "start": 3082,
+        "end": 3083,
+        "string": " "
+      },
+      {
+        "start": 3083,
+        "end": 3087,
+        "string": "the"
+      },
+      {
+        "start": 3087,
+        "end": 3088,
+        "string": " "
+      },
+      {
+        "start": 3088,
+        "end": 3093,
+        "string": "city"
+      },
+      {
+        "start": 3093,
+        "end": 3094,
+        "string": " "
+      },
+      {
+        "start": 3094,
+        "end": 3097,
+        "string": "'s"
+      },
+      {
+        "start": 3097,
+        "end": 3098,
+        "string": " "
+      },
+      {
+        "start": 3098,
+        "end": 3112,
+        "string": "comprehensive"
+      },
+      {
+        "start": 3112,
+        "end": 3113,
+        "string": " "
+      },
+      {
+        "start": 3113,
+        "end": 3118,
+        "string": "plan"
+      },
+      {
+        "start": 3118,
+        "end": 3119,
+        "string": " "
+      },
+      {
+        "start": 3119,
+        "end": 3121,
+        "string": ","
+      },
+      {
+        "start": 3121,
+        "end": 3122,
+        "string": " "
+      },
+      {
+        "start": 3122,
+        "end": 3128,
+        "string": "which"
+      },
+      {
+        "start": 3128,
+        "end": 3129,
+        "string": " "
+      },
+      {
+        "start": 3129,
+        "end": 3132,
+        "string": "is"
+      },
+      {
+        "start": 3132,
+        "end": 3133,
+        "string": " "
+      },
+      {
+        "start": 3133,
+        "end": 3137,
+        "string": "the"
+      },
+      {
+        "start": 3137,
+        "end": 3138,
+        "string": " "
+      },
+      {
+        "start": 3138,
+        "end": 3145,
+        "string": "policy"
+      },
+      {
+        "start": 3145,
+        "end": 3146,
+        "string": " "
+      },
+      {
+        "start": 3146,
+        "end": 3151,
+        "string": "that"
+      },
+      {
+        "start": 3151,
+        "end": 3152,
+        "string": " "
+      },
+      {
+        "start": 3152,
+        "end": 3159,
+        "string": "guides"
+      },
+      {
+        "start": 3159,
+        "end": 3160,
+        "string": " "
+      },
+      {
+        "start": 3160,
+        "end": 3165,
+        "string": "city"
+      },
+      {
+        "start": 3165,
+        "end": 3166,
+        "string": " "
+      },
+      {
+        "start": 3166,
+        "end": 3178,
+        "string": "development"
+      },
+      {
+        "start": 3178,
+        "end": 3179,
+        "string": " "
+      },
+      {
+        "start": 3179,
+        "end": 3181,
+        "string": "."
+      },
+      {
+        "start": 3181,
+        "end": 3182,
+        "string": " "
+      },
+      {
+        "start": 3182,
+        "end": 3184,
+        "string": "\""
+      },
+      {
+        "start": 3184,
+        "end": 3185,
+        "string": " "
+      },
+      {
+        "start": 3185,
+        "end": 3194,
+        "string": "Amending"
+      },
+      {
+        "start": 3194,
+        "end": 3195,
+        "string": " "
+      },
+      {
+        "start": 3195,
+        "end": 3198,
+        "string": "is"
+      },
+      {
+        "start": 3198,
+        "end": 3199,
+        "string": " "
+      },
+      {
+        "start": 3199,
+        "end": 3203,
+        "string": "the"
+      },
+      {
+        "start": 3203,
+        "end": 3204,
+        "string": " "
+      },
+      {
+        "start": 3204,
+        "end": 3209,
+        "string": "most"
+      },
+      {
+        "start": 3209,
+        "end": 3210,
+        "string": " "
+      },
+      {
+        "start": 3210,
+        "end": 3218,
+        "string": "legally"
+      },
+      {
+        "start": 3218,
+        "end": 3219,
+        "string": " "
+      },
+      {
+        "start": 3219,
+        "end": 3223,
+        "string": "and"
+      },
+      {
+        "start": 3223,
+        "end": 3224,
+        "string": " "
+      },
+      {
+        "start": 3224,
+        "end": 3236,
+        "string": "politically"
+      },
+      {
+        "start": 3236,
+        "end": 3237,
+        "string": " "
+      },
+      {
+        "start": 3237,
+        "end": 3247,
+        "string": "difficult"
+      },
+      {
+        "start": 3247,
+        "end": 3248,
+        "string": " "
+      },
+      {
+        "start": 3248,
+        "end": 3251,
+        "string": "of"
+      },
+      {
+        "start": 3251,
+        "end": 3252,
+        "string": " "
+      },
+      {
+        "start": 3252,
+        "end": 3265,
+        "string": "entitlements"
+      },
+      {
+        "start": 3265,
+        "end": 3266,
+        "string": " "
+      },
+      {
+        "start": 3266,
+        "end": 3268,
+        "string": ","
+      },
+      {
+        "start": 3268,
+        "end": 3269,
+        "string": " "
+      },
+      {
+        "start": 3269,
+        "end": 3271,
+        "string": "\""
+      },
+      {
+        "start": 3271,
+        "end": 3272,
+        "string": " "
+      },
+      {
+        "start": 3272,
+        "end": 3279,
+        "string": "Garcia"
+      },
+      {
+        "start": 3279,
+        "end": 3280,
+        "string": " "
+      },
+      {
+        "start": 3280,
+        "end": 3285,
+        "string": "says"
+      },
+      {
+        "start": 3285,
+        "end": 3286,
+        "string": " "
+      },
+      {
+        "start": 3286,
+        "end": 3288,
+        "string": "."
+      },
+      {
+        "start": 3288,
+        "end": 3289,
+        "string": " "
+      },
+      {
+        "start": 3289,
+        "end": 3291,
+        "string": "\""
+      },
+      {
+        "start": 3291,
+        "end": 3292,
+        "string": " "
+      },
+      {
+        "start": 3292,
+        "end": 3295,
+        "string": "It"
+      },
+      {
+        "start": 3295,
+        "end": 3296,
+        "string": " "
+      },
+      {
+        "start": 3296,
+        "end": 3299,
+        "string": "'s"
+      },
+      {
+        "start": 3299,
+        "end": 3300,
+        "string": " "
+      },
+      {
+        "start": 3300,
+        "end": 3310,
+        "string": "necessary"
+      },
+      {
+        "start": 3310,
+        "end": 3311,
+        "string": " "
+      },
+      {
+        "start": 3311,
+        "end": 3314,
+        "string": "if"
+      },
+      {
+        "start": 3314,
+        "end": 3315,
+        "string": " "
+      },
+      {
+        "start": 3315,
+        "end": 3319,
+        "string": "you"
+      },
+      {
+        "start": 3319,
+        "end": 3320,
+        "string": " "
+      },
+      {
+        "start": 3320,
+        "end": 3325,
+        "string": "want"
+      },
+      {
+        "start": 3325,
+        "end": 3326,
+        "string": " "
+      },
+      {
+        "start": 3326,
+        "end": 3329,
+        "string": "to"
+      },
+      {
+        "start": 3329,
+        "end": 3330,
+        "string": " "
+      },
+      {
+        "start": 3330,
+        "end": 3337,
+        "string": "change"
+      },
+      {
+        "start": 3337,
+        "end": 3338,
+        "string": " "
+      },
+      {
+        "start": 3338,
+        "end": 3342,
+        "string": "the"
+      },
+      {
+        "start": 3342,
+        "end": 3343,
+        "string": " "
+      },
+      {
+        "start": 3343,
+        "end": 3351,
+        "string": "current"
+      },
+      {
+        "start": 3351,
+        "end": 3352,
+        "string": " "
+      },
+      {
+        "start": 3352,
+        "end": 3362,
+        "string": "use-plans"
+      },
+      {
+        "start": 3362,
+        "end": 3363,
+        "string": " "
+      },
+      {
+        "start": 3363,
+        "end": 3367,
+        "string": "for"
+      },
+      {
+        "start": 3367,
+        "end": 3368,
+        "string": " "
+      },
+      {
+        "start": 3368,
+        "end": 3370,
+        "string": "a"
+      },
+      {
+        "start": 3370,
+        "end": 3371,
+        "string": " "
+      },
+      {
+        "start": 3371,
+        "end": 3377,
+        "string": "piece"
+      },
+      {
+        "start": 3377,
+        "end": 3378,
+        "string": " "
+      },
+      {
+        "start": 3378,
+        "end": 3381,
+        "string": "of"
+      },
+      {
+        "start": 3381,
+        "end": 3382,
+        "string": " "
+      },
+      {
+        "start": 3382,
+        "end": 3387,
+        "string": "land"
+      },
+      {
+        "start": 3387,
+        "end": 3388,
+        "string": " "
+      },
+      {
+        "start": 3388,
+        "end": 3390,
+        "string": "."
+      },
+      {
+        "start": 3390,
+        "end": 3391,
+        "string": " "
+      },
+      {
+        "start": 3391,
+        "end": 3393,
+        "string": "\""
+      },
+      {
+        "start": 3393,
+        "end": 3394,
+        "string": " "
+      },
+      {
+        "start": 3394,
+        "end": 3398,
+        "string": "For"
+      },
+      {
+        "start": 3398,
+        "end": 3399,
+        "string": " "
+      },
+      {
+        "start": 3399,
+        "end": 3407,
+        "string": "example"
+      },
+      {
+        "start": 3407,
+        "end": 3408,
+        "string": " "
+      },
+      {
+        "start": 3408,
+        "end": 3410,
+        "string": ","
+      },
+      {
+        "start": 3410,
+        "end": 3411,
+        "string": " "
+      },
+      {
+        "start": 3411,
+        "end": 3413,
+        "string": "a"
+      },
+      {
+        "start": 3413,
+        "end": 3414,
+        "string": " "
+      },
+      {
+        "start": 3414,
+        "end": 3424,
+        "string": "developer"
+      },
+      {
+        "start": 3424,
+        "end": 3425,
+        "string": " "
+      },
+      {
+        "start": 3425,
+        "end": 3431,
+        "string": "might"
+      },
+      {
+        "start": 3431,
+        "end": 3432,
+        "string": " "
+      },
+      {
+        "start": 3432,
+        "end": 3437,
+        "string": "want"
+      },
+      {
+        "start": 3437,
+        "end": 3438,
+        "string": " "
+      },
+      {
+        "start": 3438,
+        "end": 3441,
+        "string": "to"
+      },
+      {
+        "start": 3441,
+        "end": 3442,
+        "string": " "
+      },
+      {
+        "start": 3442,
+        "end": 3450,
+        "string": "develop"
+      },
+      {
+        "start": 3450,
+        "end": 3451,
+        "string": " "
+      },
+      {
+        "start": 3451,
+        "end": 3456,
+        "string": "land"
+      },
+      {
+        "start": 3456,
+        "end": 3457,
+        "string": " "
+      },
+      {
+        "start": 3457,
+        "end": 3461,
+        "string": "for"
+      },
+      {
+        "start": 3461,
+        "end": 3462,
+        "string": " "
+      },
+      {
+        "start": 3462,
+        "end": 3473,
+        "string": "commercial"
+      },
+      {
+        "start": 3473,
+        "end": 3474,
+        "string": " "
+      },
+      {
+        "start": 3474,
+        "end": 3476,
+        "string": ","
+      },
+      {
+        "start": 3476,
+        "end": 3477,
+        "string": " "
+      },
+      {
+        "start": 3477,
+        "end": 3488,
+        "string": "industrial"
+      },
+      {
+        "start": 3488,
+        "end": 3489,
+        "string": " "
+      },
+      {
+        "start": 3489,
+        "end": 3492,
+        "string": "or"
+      },
+      {
+        "start": 3492,
+        "end": 3493,
+        "string": " "
+      },
+      {
+        "start": 3493,
+        "end": 3506,
+        "string": "multi-family"
+      },
+      {
+        "start": 3506,
+        "end": 3507,
+        "string": " "
+      },
+      {
+        "start": 3507,
+        "end": 3511,
+        "string": "use"
+      },
+      {
+        "start": 3511,
+        "end": 3512,
+        "string": " "
+      },
+      {
+        "start": 3512,
+        "end": 3514,
+        "string": ","
+      },
+      {
+        "start": 3514,
+        "end": 3515,
+        "string": " "
+      },
+      {
+        "start": 3515,
+        "end": 3519,
+        "string": "but"
+      },
+      {
+        "start": 3519,
+        "end": 3520,
+        "string": " "
+      },
+      {
+        "start": 3520,
+        "end": 3524,
+        "string": "the"
+      },
+      {
+        "start": 3524,
+        "end": 3525,
+        "string": " "
+      },
+      {
+        "start": 3525,
+        "end": 3530,
+        "string": "city"
+      },
+      {
+        "start": 3530,
+        "end": 3531,
+        "string": " "
+      },
+      {
+        "start": 3531,
+        "end": 3534,
+        "string": "'s"
+      },
+      {
+        "start": 3534,
+        "end": 3535,
+        "string": " "
+      },
+      {
+        "start": 3535,
+        "end": 3540,
+        "string": "plan"
+      },
+      {
+        "start": 3540,
+        "end": 3541,
+        "string": " "
+      },
+      {
+        "start": 3541,
+        "end": 3545,
+        "string": "has"
+      },
+      {
+        "start": 3545,
+        "end": 3546,
+        "string": " "
+      },
+      {
+        "start": 3546,
+        "end": 3553,
+        "string": "slated"
+      },
+      {
+        "start": 3553,
+        "end": 3554,
+        "string": " "
+      },
+      {
+        "start": 3554,
+        "end": 3558,
+        "string": "the"
+      },
+      {
+        "start": 3558,
+        "end": 3559,
+        "string": " "
+      },
+      {
+        "start": 3559,
+        "end": 3568,
+        "string": "property"
+      },
+      {
+        "start": 3568,
+        "end": 3569,
+        "string": " "
+      },
+      {
+        "start": 3569,
+        "end": 3573,
+        "string": "for"
+      },
+      {
+        "start": 3573,
+        "end": 3574,
+        "string": " "
+      },
+      {
+        "start": 3574,
+        "end": 3590,
+        "string": "residential-use"
+      },
+      {
+        "start": 3590,
+        "end": 3591,
+        "string": " "
+      },
+      {
+        "start": 3591,
+        "end": 3594,
+        "string": "at"
+      },
+      {
+        "start": 3594,
+        "end": 3595,
+        "string": " "
+      },
+      {
+        "start": 3595,
+        "end": 3597,
+        "string": "a"
+      },
+      {
+        "start": 3597,
+        "end": 3598,
+        "string": " "
+      },
+      {
+        "start": 3598,
+        "end": 3606,
+        "string": "certain"
+      },
+      {
+        "start": 3606,
+        "end": 3607,
+        "string": " "
+      },
+      {
+        "start": 3607,
+        "end": 3621,
+        "string": "developmental"
+      },
+      {
+        "start": 3621,
+        "end": 3622,
+        "string": " "
+      },
+      {
+        "start": 3622,
+        "end": 3630,
+        "string": "density"
+      },
+      {
+        "start": 3630,
+        "end": 3631,
+        "string": " "
+      },
+      {
+        "start": 3631,
+        "end": 3633,
+        "string": "."
+      },
+      {
+        "start": 3633,
+        "end": 3634,
+        "string": " "
+      },
+      {
+        "start": 3634,
+        "end": 3637,
+        "string": "To"
+      },
+      {
+        "start": 3637,
+        "end": 3638,
+        "string": " "
+      },
+      {
+        "start": 3638,
+        "end": 3646,
+        "string": "achieve"
+      },
+      {
+        "start": 3646,
+        "end": 3647,
+        "string": " "
+      },
+      {
+        "start": 3647,
+        "end": 3651,
+        "string": "his"
+      },
+      {
+        "start": 3651,
+        "end": 3652,
+        "string": " "
+      },
+      {
+        "start": 3652,
+        "end": 3657,
+        "string": "goal"
+      },
+      {
+        "start": 3657,
+        "end": 3658,
+        "string": " "
+      },
+      {
+        "start": 3658,
+        "end": 3660,
+        "string": ","
+      },
+      {
+        "start": 3660,
+        "end": 3661,
+        "string": " "
+      },
+      {
+        "start": 3661,
+        "end": 3665,
+        "string": "the"
+      },
+      {
+        "start": 3665,
+        "end": 3666,
+        "string": " "
+      },
+      {
+        "start": 3666,
+        "end": 3676,
+        "string": "developer"
+      },
+      {
+        "start": 3676,
+        "end": 3677,
+        "string": " "
+      },
+      {
+        "start": 3677,
+        "end": 3683,
+        "string": "would"
+      },
+      {
+        "start": 3683,
+        "end": 3684,
+        "string": " "
+      },
+      {
+        "start": 3684,
+        "end": 3689,
+        "string": "have"
+      },
+      {
+        "start": 3689,
+        "end": 3690,
+        "string": " "
+      },
+      {
+        "start": 3690,
+        "end": 3693,
+        "string": "to"
+      },
+      {
+        "start": 3693,
+        "end": 3694,
+        "string": " "
+      },
+      {
+        "start": 3694,
+        "end": 3700,
+        "string": "amend"
+      },
+      {
+        "start": 3700,
+        "end": 3701,
+        "string": " "
+      },
+      {
+        "start": 3701,
+        "end": 3705,
+        "string": "the"
+      },
+      {
+        "start": 3705,
+        "end": 3706,
+        "string": " "
+      },
+      {
+        "start": 3706,
+        "end": 3711,
+        "string": "city"
+      },
+      {
+        "start": 3711,
+        "end": 3712,
+        "string": " "
+      },
+      {
+        "start": 3712,
+        "end": 3715,
+        "string": "'s"
+      },
+      {
+        "start": 3715,
+        "end": 3716,
+        "string": " "
+      },
+      {
+        "start": 3716,
+        "end": 3721,
+        "string": "plan"
+      },
+      {
+        "start": 3721,
+        "end": 3722,
+        "string": " "
+      },
+      {
+        "start": 3722,
+        "end": 3724,
+        "string": "."
+      },
+      {
+        "start": 3724,
+        "end": 3725,
+        "string": " "
+      },
+      {
+        "start": 3725,
+        "end": 3727,
+        "string": "2"
+      },
+      {
+        "start": 3727,
+        "end": 3728,
+        "string": " "
+      },
+      {
+        "start": 3728,
+        "end": 3730,
+        "string": "."
+      },
+      {
+        "start": 3730,
+        "end": 3731,
+        "string": " "
+      },
+      {
+        "start": 3731,
+        "end": 3740,
+        "string": "Rezoning"
+      },
+      {
+        "start": 3740,
+        "end": 3741,
+        "string": " "
+      },
+      {
+        "start": 3741,
+        "end": 3743,
+        "string": "."
+      },
+      {
+        "start": 3743,
+        "end": 3744,
+        "string": " "
+      },
+      {
+        "start": 3744,
+        "end": 3747,
+        "string": "If"
+      },
+      {
+        "start": 3747,
+        "end": 3748,
+        "string": " "
+      },
+      {
+        "start": 3748,
+        "end": 3752,
+        "string": "the"
+      },
+      {
+        "start": 3752,
+        "end": 3753,
+        "string": " "
+      },
+      {
+        "start": 3753,
+        "end": 3758,
+        "string": "land"
+      },
+      {
+        "start": 3758,
+        "end": 3759,
+        "string": " "
+      },
+      {
+        "start": 3759,
+        "end": 3762,
+        "string": "is"
+      },
+      {
+        "start": 3762,
+        "end": 3763,
+        "string": " "
+      },
+      {
+        "start": 3763,
+        "end": 3767,
+        "string": "not"
+      },
+      {
+        "start": 3767,
+        "end": 3768,
+        "string": " "
+      },
+      {
+        "start": 3768,
+        "end": 3774,
+        "string": "zoned"
+      },
+      {
+        "start": 3774,
+        "end": 3775,
+        "string": " "
+      },
+      {
+        "start": 3775,
+        "end": 3779,
+        "string": "for"
+      },
+      {
+        "start": 3779,
+        "end": 3780,
+        "string": " "
+      },
+      {
+        "start": 3780,
+        "end": 3785,
+        "string": "your"
+      },
+      {
+        "start": 3785,
+        "end": 3786,
+        "string": " "
+      },
+      {
+        "start": 3786,
+        "end": 3795,
+        "string": "intended"
+      },
+      {
+        "start": 3795,
+        "end": 3796,
+        "string": " "
+      },
+      {
+        "start": 3796,
+        "end": 3800,
+        "string": "use"
+      },
+      {
+        "start": 3800,
+        "end": 3801,
+        "string": " "
+      },
+      {
+        "start": 3801,
+        "end": 3803,
+        "string": ","
+      },
+      {
+        "start": 3803,
+        "end": 3804,
+        "string": " "
+      },
+      {
+        "start": 3804,
+        "end": 3810,
+        "string": "there"
+      },
+      {
+        "start": 3810,
+        "end": 3811,
+        "string": " "
+      },
+      {
+        "start": 3811,
+        "end": 3814,
+        "string": "is"
+      },
+      {
+        "start": 3814,
+        "end": 3815,
+        "string": " "
+      },
+      {
+        "start": 3815,
+        "end": 3818,
+        "string": "no"
+      },
+      {
+        "start": 3818,
+        "end": 3819,
+        "string": " "
+      },
+      {
+        "start": 3819,
+        "end": 3828,
+        "string": "escaping"
+      },
+      {
+        "start": 3828,
+        "end": 3829,
+        "string": " "
+      },
+      {
+        "start": 3829,
+        "end": 3833,
+        "string": "the"
+      },
+      {
+        "start": 3833,
+        "end": 3834,
+        "string": " "
+      },
+      {
+        "start": 3834,
+        "end": 3843,
+        "string": "rezoning"
+      },
+      {
+        "start": 3843,
+        "end": 3844,
+        "string": " "
+      },
+      {
+        "start": 3844,
+        "end": 3852,
+        "string": "process"
+      },
+      {
+        "start": 3852,
+        "end": 3853,
+        "string": " "
+      },
+      {
+        "start": 3853,
+        "end": 3855,
+        "string": "."
+      },
+      {
+        "start": 3855,
+        "end": 3856,
+        "string": " "
+      },
+      {
+        "start": 3856,
+        "end": 3858,
+        "string": "\""
+      },
+      {
+        "start": 3858,
+        "end": 3859,
+        "string": " "
+      },
+      {
+        "start": 3859,
+        "end": 3864,
+        "string": "This"
+      },
+      {
+        "start": 3864,
+        "end": 3865,
+        "string": " "
+      },
+      {
+        "start": 3865,
+        "end": 3869,
+        "string": "can"
+      },
+      {
+        "start": 3869,
+        "end": 3870,
+        "string": " "
+      },
+      {
+        "start": 3870,
+        "end": 3873,
+        "string": "be"
+      },
+      {
+        "start": 3873,
+        "end": 3874,
+        "string": " "
+      },
+      {
+        "start": 3874,
+        "end": 3886,
+        "string": "complicated"
+      },
+      {
+        "start": 3886,
+        "end": 3887,
+        "string": " "
+      },
+      {
+        "start": 3887,
+        "end": 3889,
+        "string": ","
+      },
+      {
+        "start": 3889,
+        "end": 3890,
+        "string": " "
+      },
+      {
+        "start": 3890,
+        "end": 3892,
+        "string": "\""
+      },
+      {
+        "start": 3892,
+        "end": 3893,
+        "string": " "
+      },
+      {
+        "start": 3893,
+        "end": 3900,
+        "string": "Garcia"
+      },
+      {
+        "start": 3900,
+        "end": 3901,
+        "string": " "
+      },
+      {
+        "start": 3901,
+        "end": 3906,
+        "string": "says"
+      },
+      {
+        "start": 3906,
+        "end": 3907,
+        "string": " "
+      },
+      {
+        "start": 3907,
+        "end": 3909,
+        "string": "."
+      },
+      {
+        "start": 3909,
+        "end": 3910,
+        "string": " "
+      },
+      {
+        "start": 3910,
+        "end": 3912,
+        "string": "\""
+      },
+      {
+        "start": 3912,
+        "end": 3913,
+        "string": " "
+      },
+      {
+        "start": 3913,
+        "end": 3923,
+        "string": "Sometimes"
+      },
+      {
+        "start": 3923,
+        "end": 3924,
+        "string": " "
+      },
+      {
+        "start": 3924,
+        "end": 3926,
+        "string": ","
+      },
+      {
+        "start": 3926,
+        "end": 3927,
+        "string": " "
+      },
+      {
+        "start": 3927,
+        "end": 3936,
+        "string": "rezoning"
+      },
+      {
+        "start": 3936,
+        "end": 3937,
+        "string": " "
+      },
+      {
+        "start": 3937,
+        "end": 3940,
+        "string": "is"
+      },
+      {
+        "start": 3940,
+        "end": 3941,
+        "string": " "
+      },
+      {
+        "start": 3941,
+        "end": 3945,
+        "string": "not"
+      },
+      {
+        "start": 3945,
+        "end": 3946,
+        "string": " "
+      },
+      {
+        "start": 3946,
+        "end": 3955,
+        "string": "possible"
+      },
+      {
+        "start": 3955,
+        "end": 3956,
+        "string": " "
+      },
+      {
+        "start": 3956,
+        "end": 3958,
+        "string": ","
+      },
+      {
+        "start": 3958,
+        "end": 3959,
+        "string": " "
+      },
+      {
+        "start": 3959,
+        "end": 3963,
+        "string": "but"
+      },
+      {
+        "start": 3963,
+        "end": 3964,
+        "string": " "
+      },
+      {
+        "start": 3964,
+        "end": 3967,
+        "string": "it"
+      },
+      {
+        "start": 3967,
+        "end": 3968,
+        "string": " "
+      },
+      {
+        "start": 3968,
+        "end": 3972,
+        "string": "can"
+      },
+      {
+        "start": 3972,
+        "end": 3973,
+        "string": " "
+      },
+      {
+        "start": 3973,
+        "end": 3976,
+        "string": "be"
+      },
+      {
+        "start": 3976,
+        "end": 3977,
+        "string": " "
+      },
+      {
+        "start": 3977,
+        "end": 3986,
+        "string": "achieved"
+      },
+      {
+        "start": 3986,
+        "end": 3987,
+        "string": " "
+      },
+      {
+        "start": 3987,
+        "end": 3990,
+        "string": "in"
+      },
+      {
+        "start": 3990,
+        "end": 3991,
+        "string": " "
+      },
+      {
+        "start": 3991,
+        "end": 3996,
+        "string": "most"
+      },
+      {
+        "start": 3996,
+        "end": 3997,
+        "string": " "
+      },
+      {
+        "start": 3997,
+        "end": 4003,
+        "string": "cases"
+      },
+      {
+        "start": 4003,
+        "end": 4004,
+        "string": " "
+      },
+      {
+        "start": 4004,
+        "end": 4009,
+        "string": "with"
+      },
+      {
+        "start": 4009,
+        "end": 4010,
+        "string": " "
+      },
+      {
+        "start": 4010,
+        "end": 4017,
+        "string": "proper"
+      },
+      {
+        "start": 4017,
+        "end": 4018,
+        "string": " "
+      },
+      {
+        "start": 4018,
+        "end": 4029,
+        "string": "management"
+      },
+      {
+        "start": 4029,
+        "end": 4030,
+        "string": " "
+      },
+      {
+        "start": 4030,
+        "end": 4034,
+        "string": "and"
+      },
+      {
+        "start": 4034,
+        "end": 4035,
+        "string": " "
+      },
+      {
+        "start": 4035,
+        "end": 4038,
+        "string": "an"
+      },
+      {
+        "start": 4038,
+        "end": 4039,
+        "string": " "
+      },
+      {
+        "start": 4039,
+        "end": 4046,
+        "string": "action"
+      },
+      {
+        "start": 4046,
+        "end": 4047,
+        "string": " "
+      },
+      {
+        "start": 4047,
+        "end": 4052,
+        "string": "plan"
+      },
+      {
+        "start": 4052,
+        "end": 4053,
+        "string": " "
+      },
+      {
+        "start": 4053,
+        "end": 4055,
+        "string": "."
+      },
+      {
+        "start": 4055,
+        "end": 4056,
+        "string": " "
+      },
+      {
+        "start": 4056,
+        "end": 4058,
+        "string": "\""
+      },
+      {
+        "start": 4058,
+        "end": 4059,
+        "string": " "
+      },
+      {
+        "start": 4059,
+        "end": 4066,
+        "string": "Zoning"
+      },
+      {
+        "start": 4066,
+        "end": 4067,
+        "string": " "
+      },
+      {
+        "start": 4067,
+        "end": 4070,
+        "string": "or"
+      },
+      {
+        "start": 4070,
+        "end": 4071,
+        "string": " "
+      },
+      {
+        "start": 4071,
+        "end": 4083,
+        "string": "entitlement"
+      },
+      {
+        "start": 4083,
+        "end": 4084,
+        "string": " "
+      },
+      {
+        "start": 4084,
+        "end": 4087,
+        "string": "of"
+      },
+      {
+        "start": 4087,
+        "end": 4088,
+        "string": " "
+      },
+      {
+        "start": 4088,
+        "end": 4093,
+        "string": "land"
+      },
+      {
+        "start": 4093,
+        "end": 4094,
+        "string": " "
+      },
+      {
+        "start": 4094,
+        "end": 4101,
+        "string": "varies"
+      },
+      {
+        "start": 4101,
+        "end": 4102,
+        "string": " "
+      },
+      {
+        "start": 4102,
+        "end": 4112,
+        "string": "depending"
+      },
+      {
+        "start": 4112,
+        "end": 4113,
+        "string": " "
+      },
+      {
+        "start": 4113,
+        "end": 4118,
+        "string": "upon"
+      },
+      {
+        "start": 4118,
+        "end": 4119,
+        "string": " "
+      },
+      {
+        "start": 4119,
+        "end": 4128,
+        "string": "location"
+      },
+      {
+        "start": 4128,
+        "end": 4129,
+        "string": " "
+      },
+      {
+        "start": 4129,
+        "end": 4131,
+        "string": "."
+      },
+      {
+        "start": 4131,
+        "end": 4132,
+        "string": " "
+      },
+      {
+        "start": 4132,
+        "end": 4136,
+        "string": "For"
+      },
+      {
+        "start": 4136,
+        "end": 4137,
+        "string": " "
+      },
+      {
+        "start": 4137,
+        "end": 4145,
+        "string": "example"
+      },
+      {
+        "start": 4145,
+        "end": 4146,
+        "string": " "
+      },
+      {
+        "start": 4146,
+        "end": 4148,
+        "string": ","
+      },
+      {
+        "start": 4148,
+        "end": 4149,
+        "string": " "
+      },
+      {
+        "start": 4149,
+        "end": 4151,
+        "string": "a"
+      },
+      {
+        "start": 4151,
+        "end": 4152,
+        "string": " "
+      },
+      {
+        "start": 4152,
+        "end": 4158,
+        "string": "field"
+      },
+      {
+        "start": 4158,
+        "end": 4159,
+        "string": " "
+      },
+      {
+        "start": 4159,
+        "end": 4162,
+        "string": "on"
+      },
+      {
+        "start": 4162,
+        "end": 4163,
+        "string": " "
+      },
+      {
+        "start": 4163,
+        "end": 4167,
+        "string": "the"
+      },
+      {
+        "start": 4167,
+        "end": 4168,
+        "string": " "
+      },
+      {
+        "start": 4168,
+        "end": 4173,
+        "string": "edge"
+      },
+      {
+        "start": 4173,
+        "end": 4174,
+        "string": " "
+      },
+      {
+        "start": 4174,
+        "end": 4177,
+        "string": "of"
+      },
+      {
+        "start": 4177,
+        "end": 4178,
+        "string": " "
+      },
+      {
+        "start": 4178,
+        "end": 4190,
+        "string": "development"
+      },
+      {
+        "start": 4190,
+        "end": 4191,
+        "string": " "
+      },
+      {
+        "start": 4191,
+        "end": 4194,
+        "string": "is"
+      },
+      {
+        "start": 4194,
+        "end": 4195,
+        "string": " "
+      },
+      {
+        "start": 4195,
+        "end": 4203,
+        "string": "handled"
+      },
+      {
+        "start": 4203,
+        "end": 4204,
+        "string": " "
+      },
+      {
+        "start": 4204,
+        "end": 4216,
+        "string": "differently"
+      },
+      {
+        "start": 4216,
+        "end": 4217,
+        "string": " "
+      },
+      {
+        "start": 4217,
+        "end": 4222,
+        "string": "than"
+      },
+      {
+        "start": 4222,
+        "end": 4223,
+        "string": " "
+      },
+      {
+        "start": 4223,
+        "end": 4226,
+        "string": "an"
+      },
+      {
+        "start": 4226,
+        "end": 4227,
+        "string": " "
+      },
+      {
+        "start": 4227,
+        "end": 4234,
+        "string": "infill"
+      },
+      {
+        "start": 4234,
+        "end": 4235,
+        "string": " "
+      },
+      {
+        "start": 4235,
+        "end": 4244,
+        "string": "property"
+      },
+      {
+        "start": 4244,
+        "end": 4245,
+        "string": " "
+      },
+      {
+        "start": 4245,
+        "end": 4250,
+        "string": "with"
+      },
+      {
+        "start": 4250,
+        "end": 4251,
+        "string": " "
+      },
+      {
+        "start": 4251,
+        "end": 4263,
+        "string": "surrounding"
+      },
+      {
+        "start": 4263,
+        "end": 4264,
+        "string": " "
+      },
+      {
+        "start": 4264,
+        "end": 4276,
+        "string": "development"
+      },
+      {
+        "start": 4276,
+        "end": 4277,
+        "string": " "
+      },
+      {
+        "start": 4277,
+        "end": 4279,
+        "string": "."
+      },
+      {
+        "start": 4279,
+        "end": 4280,
+        "string": " "
+      },
+      {
+        "start": 4280,
+        "end": 4282,
+        "string": "3"
+      },
+      {
+        "start": 4282,
+        "end": 4283,
+        "string": " "
+      },
+      {
+        "start": 4283,
+        "end": 4285,
+        "string": "."
+      },
+      {
+        "start": 4285,
+        "end": 4286,
+        "string": " "
+      },
+      {
+        "start": 4286,
+        "end": 4293,
+        "string": "Zoning"
+      },
+      {
+        "start": 4293,
+        "end": 4294,
+        "string": " "
+      },
+      {
+        "start": 4294,
+        "end": 4304,
+        "string": "variances"
+      },
+      {
+        "start": 4304,
+        "end": 4305,
+        "string": " "
+      },
+      {
+        "start": 4305,
+        "end": 4307,
+        "string": "."
+      },
+      {
+        "start": 4307,
+        "end": 4308,
+        "string": " "
+      },
+      {
+        "start": 4308,
+        "end": 4312,
+        "string": "For"
+      },
+      {
+        "start": 4312,
+        "end": 4313,
+        "string": " "
+      },
+      {
+        "start": 4313,
+        "end": 4322,
+        "string": "projects"
+      },
+      {
+        "start": 4322,
+        "end": 4323,
+        "string": " "
+      },
+      {
+        "start": 4323,
+        "end": 4328,
+        "string": "that"
+      },
+      {
+        "start": 4328,
+        "end": 4329,
+        "string": " "
+      },
+      {
+        "start": 4329,
+        "end": 4332,
+        "string": "do"
+      },
+      {
+        "start": 4332,
+        "end": 4333,
+        "string": " "
+      },
+      {
+        "start": 4333,
+        "end": 4337,
+        "string": "n't"
+      },
+      {
+        "start": 4337,
+        "end": 4338,
+        "string": " "
+      },
+      {
+        "start": 4338,
+        "end": 4342,
+        "string": "fit"
+      },
+      {
+        "start": 4342,
+        "end": 4343,
+        "string": " "
+      },
+      {
+        "start": 4343,
+        "end": 4347,
+        "string": "the"
+      },
+      {
+        "start": 4347,
+        "end": 4348,
+        "string": " "
+      },
+      {
+        "start": 4348,
+        "end": 4353,
+        "string": "city"
+      },
+      {
+        "start": 4353,
+        "end": 4354,
+        "string": " "
+      },
+      {
+        "start": 4354,
+        "end": 4357,
+        "string": "'s"
+      },
+      {
+        "start": 4357,
+        "end": 4358,
+        "string": " "
+      },
+      {
+        "start": 4358,
+        "end": 4371,
+        "string": "requirements"
+      },
+      {
+        "start": 4371,
+        "end": 4372,
+        "string": " "
+      },
+      {
+        "start": 4372,
+        "end": 4376,
+        "string": "for"
+      },
+      {
+        "start": 4376,
+        "end": 4377,
+        "string": " "
+      },
+      {
+        "start": 4377,
+        "end": 4382,
+        "string": "size"
+      },
+      {
+        "start": 4382,
+        "end": 4383,
+        "string": " "
+      },
+      {
+        "start": 4383,
+        "end": 4385,
+        "string": ","
+      },
+      {
+        "start": 4385,
+        "end": 4386,
+        "string": " "
+      },
+      {
+        "start": 4386,
+        "end": 4392,
+        "string": "scale"
+      },
+      {
+        "start": 4392,
+        "end": 4393,
+        "string": " "
+      },
+      {
+        "start": 4393,
+        "end": 4395,
+        "string": ","
+      },
+      {
+        "start": 4395,
+        "end": 4396,
+        "string": " "
+      },
+      {
+        "start": 4396,
+        "end": 4403,
+        "string": "height"
+      },
+      {
+        "start": 4403,
+        "end": 4404,
+        "string": " "
+      },
+      {
+        "start": 4404,
+        "end": 4406,
+        "string": ","
+      },
+      {
+        "start": 4406,
+        "end": 4407,
+        "string": " "
+      },
+      {
+        "start": 4407,
+        "end": 4410,
+        "string": "or"
+      },
+      {
+        "start": 4410,
+        "end": 4411,
+        "string": " "
+      },
+      {
+        "start": 4411,
+        "end": 4416,
+        "string": "mass"
+      },
+      {
+        "start": 4416,
+        "end": 4417,
+        "string": " "
+      },
+      {
+        "start": 4417,
+        "end": 4420,
+        "string": "of"
+      },
+      {
+        "start": 4420,
+        "end": 4421,
+        "string": " "
+      },
+      {
+        "start": 4421,
+        "end": 4430,
+        "string": "building"
+      },
+      {
+        "start": 4430,
+        "end": 4431,
+        "string": " "
+      },
+      {
+        "start": 4431,
+        "end": 4433,
+        "string": ","
+      },
+      {
+        "start": 4433,
+        "end": 4434,
+        "string": " "
+      },
+      {
+        "start": 4434,
+        "end": 4438,
+        "string": "you"
+      },
+      {
+        "start": 4438,
+        "end": 4439,
+        "string": " "
+      },
+      {
+        "start": 4439,
+        "end": 4444,
+        "string": "will"
+      },
+      {
+        "start": 4444,
+        "end": 4445,
+        "string": " "
+      },
+      {
+        "start": 4445,
+        "end": 4450,
+        "string": "need"
+      },
+      {
+        "start": 4450,
+        "end": 4451,
+        "string": " "
+      },
+      {
+        "start": 4451,
+        "end": 4453,
+        "string": "a"
+      },
+      {
+        "start": 4453,
+        "end": 4454,
+        "string": " "
+      },
+      {
+        "start": 4454,
+        "end": 4463,
+        "string": "variance"
+      },
+      {
+        "start": 4463,
+        "end": 4464,
+        "string": " "
+      },
+      {
+        "start": 4464,
+        "end": 4467,
+        "string": "to"
+      },
+      {
+        "start": 4467,
+        "end": 4468,
+        "string": " "
+      },
+      {
+        "start": 4468,
+        "end": 4476,
+        "string": "deviate"
+      },
+      {
+        "start": 4476,
+        "end": 4477,
+        "string": " "
+      },
+      {
+        "start": 4477,
+        "end": 4482,
+        "string": "from"
+      },
+      {
+        "start": 4482,
+        "end": 4483,
+        "string": " "
+      },
+      {
+        "start": 4483,
+        "end": 4487,
+        "string": "the"
+      },
+      {
+        "start": 4487,
+        "end": 4488,
+        "string": " "
+      },
+      {
+        "start": 4488,
+        "end": 4498,
+        "string": "standards"
+      },
+      {
+        "start": 4498,
+        "end": 4499,
+        "string": " "
+      },
+      {
+        "start": 4499,
+        "end": 4501,
+        "string": "."
+      },
+      {
+        "start": 4501,
+        "end": 4502,
+        "string": " "
+      },
+      {
+        "start": 4502,
+        "end": 4504,
+        "string": "\""
+      },
+      {
+        "start": 4504,
+        "end": 4505,
+        "string": " "
+      },
+      {
+        "start": 4505,
+        "end": 4511,
+        "string": "There"
+      },
+      {
+        "start": 4511,
+        "end": 4512,
+        "string": " "
+      },
+      {
+        "start": 4512,
+        "end": 4516,
+        "string": "are"
+      },
+      {
+        "start": 4516,
+        "end": 4517,
+        "string": " "
+      },
+      {
+        "start": 4517,
+        "end": 4528,
+        "string": "techniques"
+      },
+      {
+        "start": 4528,
+        "end": 4529,
+        "string": " "
+      },
+      {
+        "start": 4529,
+        "end": 4538,
+        "string": "provided"
+      },
+      {
+        "start": 4538,
+        "end": 4539,
+        "string": " "
+      },
+      {
+        "start": 4539,
+        "end": 4546,
+        "string": "within"
+      },
+      {
+        "start": 4546,
+        "end": 4547,
+        "string": " "
+      },
+      {
+        "start": 4547,
+        "end": 4554,
+        "string": "zoning"
+      },
+      {
+        "start": 4554,
+        "end": 4555,
+        "string": " "
+      },
+      {
+        "start": 4555,
+        "end": 4560,
+        "string": "code"
+      },
+      {
+        "start": 4560,
+        "end": 4561,
+        "string": " "
+      },
+      {
+        "start": 4561,
+        "end": 4563,
+        "string": ","
+      },
+      {
+        "start": 4563,
+        "end": 4564,
+        "string": " "
+      },
+      {
+        "start": 4564,
+        "end": 4574,
+        "string": "affording"
+      },
+      {
+        "start": 4574,
+        "end": 4575,
+        "string": " "
+      },
+      {
+        "start": 4575,
+        "end": 4579,
+        "string": "the"
+      },
+      {
+        "start": 4579,
+        "end": 4580,
+        "string": " "
+      },
+      {
+        "start": 4580,
+        "end": 4588,
+        "string": "ability"
+      },
+      {
+        "start": 4588,
+        "end": 4589,
+        "string": " "
+      },
+      {
+        "start": 4589,
+        "end": 4592,
+        "string": "to"
+      },
+      {
+        "start": 4592,
+        "end": 4593,
+        "string": " "
+      },
+      {
+        "start": 4593,
+        "end": 4598,
+        "string": "seek"
+      },
+      {
+        "start": 4598,
+        "end": 4599,
+        "string": " "
+      },
+      {
+        "start": 4599,
+        "end": 4607,
+        "string": "waivers"
+      },
+      {
+        "start": 4607,
+        "end": 4608,
+        "string": " "
+      },
+      {
+        "start": 4608,
+        "end": 4612,
+        "string": "and"
+      },
+      {
+        "start": 4612,
+        "end": 4613,
+        "string": " "
+      },
+      {
+        "start": 4613,
+        "end": 4627,
+        "string": "modifications"
+      },
+      {
+        "start": 4627,
+        "end": 4628,
+        "string": " "
+      },
+      {
+        "start": 4628,
+        "end": 4631,
+        "string": "to"
+      },
+      {
+        "start": 4631,
+        "end": 4632,
+        "string": " "
+      },
+      {
+        "start": 4632,
+        "end": 4636,
+        "string": "the"
+      },
+      {
+        "start": 4636,
+        "end": 4637,
+        "string": " "
+      },
+      {
+        "start": 4637,
+        "end": 4647,
+        "string": "standards"
+      },
+      {
+        "start": 4647,
+        "end": 4648,
+        "string": " "
+      },
+      {
+        "start": 4648,
+        "end": 4650,
+        "string": ","
+      },
+      {
+        "start": 4650,
+        "end": 4651,
+        "string": " "
+      },
+      {
+        "start": 4651,
+        "end": 4653,
+        "string": "\""
+      },
+      {
+        "start": 4653,
+        "end": 4654,
+        "string": " "
+      },
+      {
+        "start": 4654,
+        "end": 4661,
+        "string": "Garcia"
+      },
+      {
+        "start": 4661,
+        "end": 4662,
+        "string": " "
+      },
+      {
+        "start": 4662,
+        "end": 4667,
+        "string": "says"
+      },
+      {
+        "start": 4667,
+        "end": 4668,
+        "string": " "
+      },
+      {
+        "start": 4668,
+        "end": 4670,
+        "string": "."
+      },
+      {
+        "start": 4670,
+        "end": 4671,
+        "string": " "
+      },
+      {
+        "start": 4671,
+        "end": 4673,
+        "string": "\""
+      },
+      {
+        "start": 4673,
+        "end": 4674,
+        "string": " "
+      },
+      {
+        "start": 4674,
+        "end": 4678,
+        "string": "The"
+      },
+      {
+        "start": 4678,
+        "end": 4679,
+        "string": " "
+      },
+      {
+        "start": 4679,
+        "end": 4684,
+        "string": "most"
+      },
+      {
+        "start": 4684,
+        "end": 4685,
+        "string": " "
+      },
+      {
+        "start": 4685,
+        "end": 4697,
+        "string": "restrictive"
+      },
+      {
+        "start": 4697,
+        "end": 4698,
+        "string": " "
+      },
+      {
+        "start": 4698,
+        "end": 4701,
+        "string": "is"
+      },
+      {
+        "start": 4701,
+        "end": 4702,
+        "string": " "
+      },
+      {
+        "start": 4702,
+        "end": 4704,
+        "string": "a"
+      },
+      {
+        "start": 4704,
+        "end": 4705,
+        "string": " "
+      },
+      {
+        "start": 4705,
+        "end": 4714,
+        "string": "variance"
+      },
+      {
+        "start": 4714,
+        "end": 4715,
+        "string": " "
+      },
+      {
+        "start": 4715,
+        "end": 4717,
+        "string": "."
+      },
+      {
+        "start": 4717,
+        "end": 4718,
+        "string": " "
+      },
+      {
+        "start": 4718,
+        "end": 4720,
+        "string": "\""
+      },
+      {
+        "start": 4720,
+        "end": 4721,
+        "string": " "
+      },
+      {
+        "start": 4721,
+        "end": 4723,
+        "string": "A"
+      },
+      {
+        "start": 4723,
+        "end": 4724,
+        "string": " "
+      },
+      {
+        "start": 4724,
+        "end": 4740,
+        "string": "well-structured"
+      },
+      {
+        "start": 4740,
+        "end": 4741,
+        "string": " "
+      },
+      {
+        "start": 4741,
+        "end": 4746,
+        "string": "plan"
+      },
+      {
+        "start": 4746,
+        "end": 4747,
+        "string": " "
+      },
+      {
+        "start": 4747,
+        "end": 4749,
+        "string": ","
+      },
+      {
+        "start": 4749,
+        "end": 4750,
+        "string": " "
+      },
+      {
+        "start": 4750,
+        "end": 4756,
+        "string": "under"
+      },
+      {
+        "start": 4756,
+        "end": 4757,
+        "string": " "
+      },
+      {
+        "start": 4757,
+        "end": 4765,
+        "string": "statues"
+      },
+      {
+        "start": 4765,
+        "end": 4766,
+        "string": " "
+      },
+      {
+        "start": 4766,
+        "end": 4770,
+        "string": "and"
+      },
+      {
+        "start": 4770,
+        "end": 4771,
+        "string": " "
+      },
+      {
+        "start": 4771,
+        "end": 4777,
+        "string": "codes"
+      },
+      {
+        "start": 4777,
+        "end": 4778,
+        "string": " "
+      },
+      {
+        "start": 4778,
+        "end": 4780,
+        "string": ","
+      },
+      {
+        "start": 4780,
+        "end": 4781,
+        "string": " "
+      },
+      {
+        "start": 4781,
+        "end": 4784,
+        "string": "is"
+      },
+      {
+        "start": 4784,
+        "end": 4785,
+        "string": " "
+      },
+      {
+        "start": 4785,
+        "end": 4789,
+        "string": "the"
+      },
+      {
+        "start": 4789,
+        "end": 4790,
+        "string": " "
+      },
+      {
+        "start": 4790,
+        "end": 4801,
+        "string": "foundation"
+      },
+      {
+        "start": 4801,
+        "end": 4802,
+        "string": " "
+      },
+      {
+        "start": 4802,
+        "end": 4806,
+        "string": "for"
+      },
+      {
+        "start": 4806,
+        "end": 4807,
+        "string": " "
+      },
+      {
+        "start": 4807,
+        "end": 4815,
+        "string": "seeking"
+      },
+      {
+        "start": 4815,
+        "end": 4816,
+        "string": " "
+      },
+      {
+        "start": 4816,
+        "end": 4819,
+        "string": "to"
+      },
+      {
+        "start": 4819,
+        "end": 4820,
+        "string": " "
+      },
+      {
+        "start": 4820,
+        "end": 4825,
+        "string": "vary"
+      },
+      {
+        "start": 4825,
+        "end": 4826,
+        "string": " "
+      },
+      {
+        "start": 4826,
+        "end": 4831,
+        "string": "from"
+      },
+      {
+        "start": 4831,
+        "end": 4832,
+        "string": " "
+      },
+      {
+        "start": 4832,
+        "end": 4836,
+        "string": "the"
+      },
+      {
+        "start": 4836,
+        "end": 4837,
+        "string": " "
+      },
+      {
+        "start": 4837,
+        "end": 4846,
+        "string": "standard"
+      },
+      {
+        "start": 4846,
+        "end": 4847,
+        "string": " "
+      },
+      {
+        "start": 4847,
+        "end": 4860,
+        "string": "requirements"
+      },
+      {
+        "start": 4860,
+        "end": 4861,
+        "string": " "
+      },
+      {
+        "start": 4861,
+        "end": 4863,
+        "string": "."
+      },
+      {
+        "start": 4863,
+        "end": 4864,
+        "string": " "
+      },
+      {
+        "start": 4864,
+        "end": 4866,
+        "string": "4"
+      },
+      {
+        "start": 4866,
+        "end": 4867,
+        "string": " "
+      },
+      {
+        "start": 4867,
+        "end": 4869,
+        "string": "."
+      },
+      {
+        "start": 4869,
+        "end": 4870,
+        "string": " "
+      },
+      {
+        "start": 4870,
+        "end": 4878,
+        "string": "Permits"
+      },
+      {
+        "start": 4878,
+        "end": 4879,
+        "string": " "
+      },
+      {
+        "start": 4879,
+        "end": 4881,
+        "string": "."
+      },
+      {
+        "start": 4881,
+        "end": 4882,
+        "string": " "
+      },
+      {
+        "start": 4882,
+        "end": 4884,
+        "string": "A"
+      },
+      {
+        "start": 4884,
+        "end": 4885,
+        "string": " "
+      },
+      {
+        "start": 4885,
+        "end": 4897,
+        "string": "special-use"
+      },
+      {
+        "start": 4897,
+        "end": 4898,
+        "string": " "
+      },
+      {
+        "start": 4898,
+        "end": 4905,
+        "string": "permit"
+      },
+      {
+        "start": 4905,
+        "end": 4906,
+        "string": " "
+      },
+      {
+        "start": 4906,
+        "end": 4912,
+        "string": "needs"
+      },
+      {
+        "start": 4912,
+        "end": 4913,
+        "string": " "
+      },
+      {
+        "start": 4913,
+        "end": 4915,
+        "string": "a"
+      },
+      {
+        "start": 4915,
+        "end": 4916,
+        "string": " "
+      },
+      {
+        "start": 4916,
+        "end": 4930,
+        "string": "discretionary"
+      },
+      {
+        "start": 4930,
+        "end": 4931,
+        "string": " "
+      },
+      {
+        "start": 4931,
+        "end": 4938,
+        "string": "review"
+      },
+      {
+        "start": 4938,
+        "end": 4939,
+        "string": " "
+      },
+      {
+        "start": 4939,
+        "end": 4943,
+        "string": "and"
+      },
+      {
+        "start": 4943,
+        "end": 4944,
+        "string": " "
+      },
+      {
+        "start": 4944,
+        "end": 4953,
+        "string": "approval"
+      },
+      {
+        "start": 4953,
+        "end": 4954,
+        "string": " "
+      },
+      {
+        "start": 4954,
+        "end": 4957,
+        "string": "of"
+      },
+      {
+        "start": 4957,
+        "end": 4958,
+        "string": " "
+      },
+      {
+        "start": 4958,
+        "end": 4962,
+        "string": "the"
+      },
+      {
+        "start": 4962,
+        "end": 4963,
+        "string": " "
+      },
+      {
+        "start": 4963,
+        "end": 4974,
+        "string": "government"
+      },
+      {
+        "start": 4974,
+        "end": 4975,
+        "string": " "
+      },
+      {
+        "start": 4975,
+        "end": 4981,
+        "string": "staff"
+      },
+      {
+        "start": 4981,
+        "end": 4982,
+        "string": " "
+      },
+      {
+        "start": 4982,
+        "end": 4986,
+        "string": "and"
+      },
+      {
+        "start": 4986,
+        "end": 4987,
+        "string": " "
+      },
+      {
+        "start": 4987,
+        "end": 4997,
+        "string": "neighbors"
+      },
+      {
+        "start": 4997,
+        "end": 4998,
+        "string": " "
+      },
+      {
+        "start": 4998,
+        "end": 5001,
+        "string": "to"
+      },
+      {
+        "start": 5001,
+        "end": 5002,
+        "string": " "
+      },
+      {
+        "start": 5002,
+        "end": 5011,
+        "string": "evaluate"
+      },
+      {
+        "start": 5011,
+        "end": 5012,
+        "string": " "
+      },
+      {
+        "start": 5012,
+        "end": 5028,
+        "string": "characteristics"
+      },
+      {
+        "start": 5028,
+        "end": 5029,
+        "string": " "
+      },
+      {
+        "start": 5029,
+        "end": 5032,
+        "string": "of"
+      },
+      {
+        "start": 5032,
+        "end": 5033,
+        "string": " "
+      },
+      {
+        "start": 5033,
+        "end": 5035,
+        "string": "a"
+      },
+      {
+        "start": 5035,
+        "end": 5036,
+        "string": " "
+      },
+      {
+        "start": 5036,
+        "end": 5044,
+        "string": "project"
+      },
+      {
+        "start": 5044,
+        "end": 5045,
+        "string": " "
+      },
+      {
+        "start": 5045,
+        "end": 5047,
+        "string": "."
+      },
+      {
+        "start": 5047,
+        "end": 5048,
+        "string": " "
+      },
+      {
+        "start": 5048,
+        "end": 5053,
+        "string": "Such"
+      },
+      {
+        "start": 5053,
+        "end": 5054,
+        "string": " "
+      },
+      {
+        "start": 5054,
+        "end": 5062,
+        "string": "factors"
+      },
+      {
+        "start": 5062,
+        "end": 5063,
+        "string": " "
+      },
+      {
+        "start": 5063,
+        "end": 5069,
+        "string": "might"
+      },
+      {
+        "start": 5069,
+        "end": 5070,
+        "string": " "
+      },
+      {
+        "start": 5070,
+        "end": 5078,
+        "string": "include"
+      },
+      {
+        "start": 5078,
+        "end": 5079,
+        "string": " "
+      },
+      {
+        "start": 5079,
+        "end": 5087,
+        "string": "traffic"
+      },
+      {
+        "start": 5087,
+        "end": 5088,
+        "string": " "
+      },
+      {
+        "start": 5088,
+        "end": 5095,
+        "string": "impact"
+      },
+      {
+        "start": 5095,
+        "end": 5096,
+        "string": " "
+      },
+      {
+        "start": 5096,
+        "end": 5098,
+        "string": ","
+      },
+      {
+        "start": 5098,
+        "end": 5099,
+        "string": " "
+      },
+      {
+        "start": 5099,
+        "end": 5103,
+        "string": "the"
+      },
+      {
+        "start": 5103,
+        "end": 5104,
+        "string": " "
+      },
+      {
+        "start": 5104,
+        "end": 5112,
+        "string": "project"
+      },
+      {
+        "start": 5112,
+        "end": 5113,
+        "string": " "
+      },
+      {
+        "start": 5113,
+        "end": 5116,
+        "string": "'s"
+      },
+      {
+        "start": 5116,
+        "end": 5117,
+        "string": " "
+      },
+      {
+        "start": 5117,
+        "end": 5131,
+        "string": "functionality"
+      },
+      {
+        "start": 5131,
+        "end": 5132,
+        "string": " "
+      },
+      {
+        "start": 5132,
+        "end": 5134,
+        "string": ","
+      },
+      {
+        "start": 5134,
+        "end": 5135,
+        "string": " "
+      },
+      {
+        "start": 5135,
+        "end": 5138,
+        "string": "or"
+      },
+      {
+        "start": 5138,
+        "end": 5139,
+        "string": " "
+      },
+      {
+        "start": 5139,
+        "end": 5149,
+        "string": "aesthetic"
+      },
+      {
+        "start": 5149,
+        "end": 5150,
+        "string": " "
+      },
+      {
+        "start": 5150,
+        "end": 5163,
+        "string": "implications"
+      },
+      {
+        "start": 5163,
+        "end": 5164,
+        "string": " "
+      },
+      {
+        "start": 5164,
+        "end": 5166,
+        "string": "."
+      },
+      {
+        "start": 5166,
+        "end": 5167,
+        "string": " "
+      },
+      {
+        "start": 5167,
+        "end": 5169,
+        "string": "A"
+      },
+      {
+        "start": 5169,
+        "end": 5170,
+        "string": " "
+      },
+      {
+        "start": 5170,
+        "end": 5186,
+        "string": "conditional-use"
+      },
+      {
+        "start": 5186,
+        "end": 5187,
+        "string": " "
+      },
+      {
+        "start": 5187,
+        "end": 5194,
+        "string": "permit"
+      },
+      {
+        "start": 5194,
+        "end": 5195,
+        "string": " "
+      },
+      {
+        "start": 5195,
+        "end": 5198,
+        "string": "is"
+      },
+      {
+        "start": 5198,
+        "end": 5199,
+        "string": " "
+      },
+      {
+        "start": 5199,
+        "end": 5203,
+        "string": "one"
+      },
+      {
+        "start": 5203,
+        "end": 5204,
+        "string": " "
+      },
+      {
+        "start": 5204,
+        "end": 5209,
+        "string": "that"
+      },
+      {
+        "start": 5209,
+        "end": 5210,
+        "string": " "
+      },
+      {
+        "start": 5210,
+        "end": 5214,
+        "string": "can"
+      },
+      {
+        "start": 5214,
+        "end": 5215,
+        "string": " "
+      },
+      {
+        "start": 5215,
+        "end": 5218,
+        "string": "be"
+      },
+      {
+        "start": 5218,
+        "end": 5219,
+        "string": " "
+      },
+      {
+        "start": 5219,
+        "end": 5231,
+        "string": "categorized"
+      },
+      {
+        "start": 5231,
+        "end": 5232,
+        "string": " "
+      },
+      {
+        "start": 5232,
+        "end": 5234,
+        "string": ","
+      },
+      {
+        "start": 5234,
+        "end": 5235,
+        "string": " "
+      },
+      {
+        "start": 5235,
+        "end": 5252,
+        "string": "administratively"
+      },
+      {
+        "start": 5252,
+        "end": 5253,
+        "string": " "
+      },
+      {
+        "start": 5253,
+        "end": 5255,
+        "string": ","
+      },
+      {
+        "start": 5255,
+        "end": 5256,
+        "string": " "
+      },
+      {
+        "start": 5256,
+        "end": 5259,
+        "string": "in"
+      },
+      {
+        "start": 5259,
+        "end": 5260,
+        "string": " "
+      },
+      {
+        "start": 5260,
+        "end": 5262,
+        "string": "a"
+      },
+      {
+        "start": 5262,
+        "end": 5263,
+        "string": " "
+      },
+      {
+        "start": 5263,
+        "end": 5272,
+        "string": "checkbox"
+      },
+      {
+        "start": 5272,
+        "end": 5273,
+        "string": " "
+      },
+      {
+        "start": 5273,
+        "end": 5281,
+        "string": "fashion"
+      },
+      {
+        "start": 5281,
+        "end": 5282,
+        "string": " "
+      },
+      {
+        "start": 5282,
+        "end": 5284,
+        "string": "."
+      },
+      {
+        "start": 5284,
+        "end": 5285,
+        "string": " "
+      },
+      {
+        "start": 5285,
+        "end": 5293,
+        "string": "Whether"
+      },
+      {
+        "start": 5293,
+        "end": 5294,
+        "string": " "
+      },
+      {
+        "start": 5294,
+        "end": 5296,
+        "string": "a"
+      },
+      {
+        "start": 5296,
+        "end": 5297,
+        "string": " "
+      },
+      {
+        "start": 5297,
+        "end": 5304,
+        "string": "permit"
+      },
+      {
+        "start": 5304,
+        "end": 5305,
+        "string": " "
+      },
+      {
+        "start": 5305,
+        "end": 5308,
+        "string": "is"
+      },
+      {
+        "start": 5308,
+        "end": 5309,
+        "string": " "
+      },
+      {
+        "start": 5309,
+        "end": 5321,
+        "string": "special-use"
+      },
+      {
+        "start": 5321,
+        "end": 5322,
+        "string": " "
+      },
+      {
+        "start": 5322,
+        "end": 5325,
+        "string": "or"
+      },
+      {
+        "start": 5325,
+        "end": 5326,
+        "string": " "
+      },
+      {
+        "start": 5326,
+        "end": 5342,
+        "string": "conditional-use"
+      },
+      {
+        "start": 5342,
+        "end": 5343,
+        "string": " "
+      },
+      {
+        "start": 5343,
+        "end": 5345,
+        "string": ","
+      },
+      {
+        "start": 5345,
+        "end": 5346,
+        "string": " "
+      },
+      {
+        "start": 5346,
+        "end": 5350,
+        "string": "can"
+      },
+      {
+        "start": 5350,
+        "end": 5351,
+        "string": " "
+      },
+      {
+        "start": 5351,
+        "end": 5356,
+        "string": "vary"
+      },
+      {
+        "start": 5356,
+        "end": 5357,
+        "string": " "
+      },
+      {
+        "start": 5357,
+        "end": 5367,
+        "string": "depending"
+      },
+      {
+        "start": 5367,
+        "end": 5368,
+        "string": " "
+      },
+      {
+        "start": 5368,
+        "end": 5371,
+        "string": "on"
+      },
+      {
+        "start": 5371,
+        "end": 5372,
+        "string": " "
+      },
+      {
+        "start": 5372,
+        "end": 5376,
+        "string": "the"
+      },
+      {
+        "start": 5376,
+        "end": 5377,
+        "string": " "
+      },
+      {
+        "start": 5377,
+        "end": 5386,
+        "string": "district"
+      },
+      {
+        "start": 5386,
+        "end": 5387,
+        "string": " "
+      },
+      {
+        "start": 5387,
+        "end": 5389,
+        "string": "."
+      },
+      {
+        "start": 5389,
+        "end": 5390,
+        "string": " "
+      },
+      {
+        "start": 5390,
+        "end": 5392,
+        "string": "5"
+      },
+      {
+        "start": 5392,
+        "end": 5393,
+        "string": " "
+      },
+      {
+        "start": 5393,
+        "end": 5395,
+        "string": "."
+      },
+      {
+        "start": 5395,
+        "end": 5396,
+        "string": " "
+      },
+      {
+        "start": 5396,
+        "end": 5404,
+        "string": "Utility"
+      },
+      {
+        "start": 5404,
+        "end": 5405,
+        "string": " "
+      },
+      {
+        "start": 5405,
+        "end": 5409,
+        "string": "and"
+      },
+      {
+        "start": 5409,
+        "end": 5410,
+        "string": " "
+      },
+      {
+        "start": 5410,
+        "end": 5415,
+        "string": "road"
+      },
+      {
+        "start": 5415,
+        "end": 5416,
+        "string": " "
+      },
+      {
+        "start": 5416,
+        "end": 5426,
+        "string": "approvals"
+      },
+      {
+        "start": 5426,
+        "end": 5427,
+        "string": " "
+      },
+      {
+        "start": 5427,
+        "end": 5429,
+        "string": "."
+      },
+      {
+        "start": 5429,
+        "end": 5430,
+        "string": " "
+      },
+      {
+        "start": 5430,
+        "end": 5440,
+        "string": "Utilities"
+      },
+      {
+        "start": 5440,
+        "end": 5441,
+        "string": " "
+      },
+      {
+        "start": 5441,
+        "end": 5445,
+        "string": "may"
+      },
+      {
+        "start": 5445,
+        "end": 5446,
+        "string": " "
+      },
+      {
+        "start": 5446,
+        "end": 5450,
+        "string": "not"
+      },
+      {
+        "start": 5450,
+        "end": 5451,
+        "string": " "
+      },
+      {
+        "start": 5451,
+        "end": 5454,
+        "string": "be"
+      },
+      {
+        "start": 5454,
+        "end": 5455,
+        "string": " "
+      },
+      {
+        "start": 5455,
+        "end": 5458,
+        "string": "at"
+      },
+      {
+        "start": 5458,
+        "end": 5459,
+        "string": " "
+      },
+      {
+        "start": 5459,
+        "end": 5464,
+        "string": "your"
+      },
+      {
+        "start": 5464,
+        "end": 5465,
+        "string": " "
+      },
+      {
+        "start": 5465,
+        "end": 5470,
+        "string": "site"
+      },
+      {
+        "start": 5470,
+        "end": 5471,
+        "string": " "
+      },
+      {
+        "start": 5471,
+        "end": 5474,
+        "string": "or"
+      },
+      {
+        "start": 5474,
+        "end": 5475,
+        "string": " "
+      },
+      {
+        "start": 5475,
+        "end": 5478,
+        "string": "be"
+      },
+      {
+        "start": 5478,
+        "end": 5479,
+        "string": " "
+      },
+      {
+        "start": 5479,
+        "end": 5491,
+        "string": "appropriate"
+      },
+      {
+        "start": 5491,
+        "end": 5492,
+        "string": " "
+      },
+      {
+        "start": 5492,
+        "end": 5496,
+        "string": "for"
+      },
+      {
+        "start": 5496,
+        "end": 5497,
+        "string": " "
+      },
+      {
+        "start": 5497,
+        "end": 5502,
+        "string": "your"
+      },
+      {
+        "start": 5502,
+        "end": 5503,
+        "string": " "
+      },
+      {
+        "start": 5503,
+        "end": 5509,
+        "string": "usage"
+      },
+      {
+        "start": 5509,
+        "end": 5510,
+        "string": " "
+      },
+      {
+        "start": 5510,
+        "end": 5512,
+        "string": "."
+      },
+      {
+        "start": 5512,
+        "end": 5513,
+        "string": " "
+      },
+      {
+        "start": 5513,
+        "end": 5522,
+        "string": "Adequate"
+      },
+      {
+        "start": 5522,
+        "end": 5523,
+        "string": " "
+      },
+      {
+        "start": 5523,
+        "end": 5532,
+        "string": "roadways"
+      },
+      {
+        "start": 5532,
+        "end": 5533,
+        "string": " "
+      },
+      {
+        "start": 5533,
+        "end": 5537,
+        "string": "may"
+      },
+      {
+        "start": 5537,
+        "end": 5538,
+        "string": " "
+      },
+      {
+        "start": 5538,
+        "end": 5542,
+        "string": "not"
+      },
+      {
+        "start": 5542,
+        "end": 5543,
+        "string": " "
+      },
+      {
+        "start": 5543,
+        "end": 5549,
+        "string": "exist"
+      },
+      {
+        "start": 5549,
+        "end": 5550,
+        "string": " "
+      },
+      {
+        "start": 5550,
+        "end": 5553,
+        "string": "to"
+      },
+      {
+        "start": 5553,
+        "end": 5554,
+        "string": " "
+      },
+      {
+        "start": 5554,
+        "end": 5562,
+        "string": "connect"
+      },
+      {
+        "start": 5562,
+        "end": 5563,
+        "string": " "
+      },
+      {
+        "start": 5563,
+        "end": 5568,
+        "string": "your"
+      },
+      {
+        "start": 5568,
+        "end": 5569,
+        "string": " "
+      },
+      {
+        "start": 5569,
+        "end": 5578,
+        "string": "property"
+      },
+      {
+        "start": 5578,
+        "end": 5579,
+        "string": " "
+      },
+      {
+        "start": 5579,
+        "end": 5581,
+        "string": "."
+      },
+      {
+        "start": 5581,
+        "end": 5582,
+        "string": " "
+      },
+      {
+        "start": 5582,
+        "end": 5586,
+        "string": "For"
+      },
+      {
+        "start": 5586,
+        "end": 5587,
+        "string": " "
+      },
+      {
+        "start": 5587,
+        "end": 5593,
+        "string": "these"
+      },
+      {
+        "start": 5593,
+        "end": 5594,
+        "string": " "
+      },
+      {
+        "start": 5594,
+        "end": 5605,
+        "string": "challenges"
+      },
+      {
+        "start": 5605,
+        "end": 5606,
+        "string": " "
+      },
+      {
+        "start": 5606,
+        "end": 5608,
+        "string": ","
+      },
+      {
+        "start": 5608,
+        "end": 5609,
+        "string": " "
+      },
+      {
+        "start": 5609,
+        "end": 5613,
+        "string": "you"
+      },
+      {
+        "start": 5613,
+        "end": 5614,
+        "string": " "
+      },
+      {
+        "start": 5614,
+        "end": 5618,
+        "string": "'ll"
+      },
+      {
+        "start": 5618,
+        "end": 5619,
+        "string": " "
+      },
+      {
+        "start": 5619,
+        "end": 5624,
+        "string": "have"
+      },
+      {
+        "start": 5624,
+        "end": 5625,
+        "string": " "
+      },
+      {
+        "start": 5625,
+        "end": 5628,
+        "string": "to"
+      },
+      {
+        "start": 5628,
+        "end": 5629,
+        "string": " "
+      },
+      {
+        "start": 5629,
+        "end": 5637,
+        "string": "attempt"
+      },
+      {
+        "start": 5637,
+        "end": 5638,
+        "string": " "
+      },
+      {
+        "start": 5638,
+        "end": 5641,
+        "string": "to"
+      },
+      {
+        "start": 5641,
+        "end": 5642,
+        "string": " "
+      },
+      {
+        "start": 5642,
+        "end": 5648,
+        "string": "amend"
+      },
+      {
+        "start": 5648,
+        "end": 5649,
+        "string": " "
+      },
+      {
+        "start": 5649,
+        "end": 5653,
+        "string": "the"
+      },
+      {
+        "start": 5653,
+        "end": 5654,
+        "string": " "
+      },
+      {
+        "start": 5654,
+        "end": 5659,
+        "string": "city"
+      },
+      {
+        "start": 5659,
+        "end": 5660,
+        "string": " "
+      },
+      {
+        "start": 5660,
+        "end": 5663,
+        "string": "'s"
+      },
+      {
+        "start": 5663,
+        "end": 5664,
+        "string": " "
+      },
+      {
+        "start": 5664,
+        "end": 5669,
+        "string": "plan"
+      },
+      {
+        "start": 5669,
+        "end": 5670,
+        "string": " "
+      },
+      {
+        "start": 5670,
+        "end": 5673,
+        "string": "to"
+      },
+      {
+        "start": 5673,
+        "end": 5674,
+        "string": " "
+      },
+      {
+        "start": 5674,
+        "end": 5685,
+        "string": "facilitate"
+      },
+      {
+        "start": 5685,
+        "end": 5686,
+        "string": " "
+      },
+      {
+        "start": 5686,
+        "end": 5696,
+        "string": "utilities"
+      },
+      {
+        "start": 5696,
+        "end": 5697,
+        "string": " "
+      },
+      {
+        "start": 5697,
+        "end": 5700,
+        "string": "or"
+      },
+      {
+        "start": 5700,
+        "end": 5701,
+        "string": " "
+      },
+      {
+        "start": 5701,
+        "end": 5708,
+        "string": "create"
+      },
+      {
+        "start": 5708,
+        "end": 5709,
+        "string": " "
+      },
+      {
+        "start": 5709,
+        "end": 5718,
+        "string": "roadways"
+      },
+      {
+        "start": 5718,
+        "end": 5719,
+        "string": " "
+      },
+      {
+        "start": 5719,
+        "end": 5721,
+        "string": "."
+      },
+      {
+        "start": 5721,
+        "end": 5722,
+        "string": " "
+      },
+      {
+        "start": 5722,
+        "end": 5725,
+        "string": "If"
+      },
+      {
+        "start": 5725,
+        "end": 5726,
+        "string": " "
+      },
+      {
+        "start": 5726,
+        "end": 5730,
+        "string": "you"
+      },
+      {
+        "start": 5730,
+        "end": 5731,
+        "string": " "
+      },
+      {
+        "start": 5731,
+        "end": 5738,
+        "string": "obtain"
+      },
+      {
+        "start": 5738,
+        "end": 5739,
+        "string": " "
+      },
+      {
+        "start": 5739,
+        "end": 5745,
+        "string": "these"
+      },
+      {
+        "start": 5745,
+        "end": 5746,
+        "string": " "
+      },
+      {
+        "start": 5746,
+        "end": 5754,
+        "string": "changes"
+      },
+      {
+        "start": 5754,
+        "end": 5755,
+        "string": " "
+      },
+      {
+        "start": 5755,
+        "end": 5757,
+        "string": ","
+      },
+      {
+        "start": 5757,
+        "end": 5758,
+        "string": " "
+      },
+      {
+        "start": 5758,
+        "end": 5762,
+        "string": "the"
+      },
+      {
+        "start": 5762,
+        "end": 5763,
+        "string": " "
+      },
+      {
+        "start": 5763,
+        "end": 5770,
+        "string": "higher"
+      },
+      {
+        "start": 5770,
+        "end": 5771,
+        "string": " "
+      },
+      {
+        "start": 5771,
+        "end": 5781,
+        "string": "intensity"
+      },
+      {
+        "start": 5781,
+        "end": 5782,
+        "string": " "
+      },
+      {
+        "start": 5782,
+        "end": 5785,
+        "string": "of"
+      },
+      {
+        "start": 5785,
+        "end": 5786,
+        "string": " "
+      },
+      {
+        "start": 5786,
+        "end": 5793,
+        "string": "zoning"
+      },
+      {
+        "start": 5793,
+        "end": 5794,
+        "string": " "
+      },
+      {
+        "start": 5794,
+        "end": 5799,
+        "string": "will"
+      },
+      {
+        "start": 5799,
+        "end": 5800,
+        "string": " "
+      },
+      {
+        "start": 5800,
+        "end": 5806,
+        "string": "allow"
+      },
+      {
+        "start": 5806,
+        "end": 5807,
+        "string": " "
+      },
+      {
+        "start": 5807,
+        "end": 5811,
+        "string": "you"
+      },
+      {
+        "start": 5811,
+        "end": 5812,
+        "string": " "
+      },
+      {
+        "start": 5812,
+        "end": 5815,
+        "string": "to"
+      },
+      {
+        "start": 5815,
+        "end": 5816,
+        "string": " "
+      },
+      {
+        "start": 5816,
+        "end": 5824,
+        "string": "proceed"
+      },
+      {
+        "start": 5824,
+        "end": 5825,
+        "string": " "
+      },
+      {
+        "start": 5825,
+        "end": 5827,
+        "string": "."
+      },
+      {
+        "start": 5827,
+        "end": 5828,
+        "string": " "
+      },
+      {
+        "start": 5828,
+        "end": 5833,
+        "string": "With"
+      },
+      {
+        "start": 5833,
+        "end": 5834,
+        "string": " "
+      },
+      {
+        "start": 5834,
+        "end": 5837,
+        "string": "an"
+      },
+      {
+        "start": 5837,
+        "end": 5838,
+        "string": " "
+      },
+      {
+        "start": 5838,
+        "end": 5852,
+        "string": "understanding"
+      },
+      {
+        "start": 5852,
+        "end": 5853,
+        "string": " "
+      },
+      {
+        "start": 5853,
+        "end": 5856,
+        "string": "of"
+      },
+      {
+        "start": 5856,
+        "end": 5857,
+        "string": " "
+      },
+      {
+        "start": 5857,
+        "end": 5861,
+        "string": "the"
+      },
+      {
+        "start": 5861,
+        "end": 5862,
+        "string": " "
+      },
+      {
+        "start": 5862,
+        "end": 5868,
+        "string": "types"
+      },
+      {
+        "start": 5868,
+        "end": 5869,
+        "string": " "
+      },
+      {
+        "start": 5869,
+        "end": 5872,
+        "string": "of"
+      },
+      {
+        "start": 5872,
+        "end": 5873,
+        "string": " "
+      },
+      {
+        "start": 5873,
+        "end": 5886,
+        "string": "entitlements"
+      },
+      {
+        "start": 5886,
+        "end": 5887,
+        "string": " "
+      },
+      {
+        "start": 5887,
+        "end": 5892,
+        "string": "that"
+      },
+      {
+        "start": 5892,
+        "end": 5893,
+        "string": " "
+      },
+      {
+        "start": 5893,
+        "end": 5899,
+        "string": "could"
+      },
+      {
+        "start": 5899,
+        "end": 5900,
+        "string": " "
+      },
+      {
+        "start": 5900,
+        "end": 5903,
+        "string": "be"
+      },
+      {
+        "start": 5903,
+        "end": 5904,
+        "string": " "
+      },
+      {
+        "start": 5904,
+        "end": 5913,
+        "string": "required"
+      },
+      {
+        "start": 5913,
+        "end": 5914,
+        "string": " "
+      },
+      {
+        "start": 5914,
+        "end": 5916,
+        "string": ","
+      },
+      {
+        "start": 5916,
+        "end": 5917,
+        "string": " "
+      },
+      {
+        "start": 5917,
+        "end": 5921,
+        "string": "the"
+      },
+      {
+        "start": 5921,
+        "end": 5922,
+        "string": " "
+      },
+      {
+        "start": 5922,
+        "end": 5927,
+        "string": "next"
+      },
+      {
+        "start": 5927,
+        "end": 5928,
+        "string": " "
+      },
+      {
+        "start": 5928,
+        "end": 5934,
+        "string": "phase"
+      },
+      {
+        "start": 5934,
+        "end": 5935,
+        "string": " "
+      },
+      {
+        "start": 5935,
+        "end": 5938,
+        "string": "of"
+      },
+      {
+        "start": 5938,
+        "end": 5939,
+        "string": " "
+      },
+      {
+        "start": 5939,
+        "end": 5944,
+        "string": "land"
+      },
+      {
+        "start": 5944,
+        "end": 5945,
+        "string": " "
+      },
+      {
+        "start": 5945,
+        "end": 5957,
+        "string": "development"
+      },
+      {
+        "start": 5957,
+        "end": 5958,
+        "string": " "
+      },
+      {
+        "start": 5958,
+        "end": 5961,
+        "string": "or"
+      },
+      {
+        "start": 5961,
+        "end": 5962,
+        "string": " "
+      },
+      {
+        "start": 5962,
+        "end": 5976,
+        "string": "redevelopment"
+      },
+      {
+        "start": 5976,
+        "end": 5977,
+        "string": " "
+      },
+      {
+        "start": 5977,
+        "end": 5986,
+        "string": "involves"
+      },
+      {
+        "start": 5986,
+        "end": 5987,
+        "string": " "
+      },
+      {
+        "start": 5987,
+        "end": 5991,
+        "string": "due"
+      },
+      {
+        "start": 5991,
+        "end": 5992,
+        "string": " "
+      },
+      {
+        "start": 5992,
+        "end": 6002,
+        "string": "diligence"
+      },
+      {
+        "start": 6002,
+        "end": 6003,
+        "string": " "
+      },
+      {
+        "start": 6003,
+        "end": 6006,
+        "string": "to"
+      },
+      {
+        "start": 6006,
+        "end": 6007,
+        "string": " "
+      },
+      {
+        "start": 6007,
+        "end": 6012,
+        "string": "gain"
+      },
+      {
+        "start": 6012,
+        "end": 6013,
+        "string": " "
+      },
+      {
+        "start": 6013,
+        "end": 6027,
+        "string": "indispensable"
+      },
+      {
+        "start": 6027,
+        "end": 6028,
+        "string": " "
+      },
+      {
+        "start": 6028,
+        "end": 6030,
+        "string": ","
+      },
+      {
+        "start": 6030,
+        "end": 6031,
+        "string": " "
+      },
+      {
+        "start": 6031,
+        "end": 6043,
+        "string": "preliminary"
+      },
+      {
+        "start": 6043,
+        "end": 6044,
+        "string": " "
+      },
+      {
+        "start": 6044,
+        "end": 6052,
+        "string": "insight"
+      },
+      {
+        "start": 6052,
+        "end": 6053,
+        "string": " "
+      },
+      {
+        "start": 6053,
+        "end": 6058,
+        "string": "that"
+      },
+      {
+        "start": 6058,
+        "end": 6059,
+        "string": " "
+      },
+      {
+        "start": 6059,
+        "end": 6065,
+        "string": "could"
+      },
+      {
+        "start": 6065,
+        "end": 6066,
+        "string": " "
+      },
+      {
+        "start": 6066,
+        "end": 6071,
+        "string": "make"
+      },
+      {
+        "start": 6071,
+        "end": 6072,
+        "string": " "
+      },
+      {
+        "start": 6072,
+        "end": 6075,
+        "string": "or"
+      },
+      {
+        "start": 6075,
+        "end": 6076,
+        "string": " "
+      },
+      {
+        "start": 6076,
+        "end": 6082,
+        "string": "break"
+      },
+      {
+        "start": 6082,
+        "end": 6083,
+        "string": " "
+      },
+      {
+        "start": 6083,
+        "end": 6087,
+        "string": "the"
+      },
+      {
+        "start": 6087,
+        "end": 6088,
+        "string": " "
+      },
+      {
+        "start": 6088,
+        "end": 6096,
+        "string": "ability"
+      },
+      {
+        "start": 6096,
+        "end": 6097,
+        "string": " "
+      },
+      {
+        "start": 6097,
+        "end": 6100,
+        "string": "to"
+      },
+      {
+        "start": 6100,
+        "end": 6101,
+        "string": " "
+      },
+      {
+        "start": 6101,
+        "end": 6106,
+        "string": "seek"
+      },
+      {
+        "start": 6106,
+        "end": 6107,
+        "string": " "
+      },
+      {
+        "start": 6107,
+        "end": 6111,
+        "string": "and"
+      },
+      {
+        "start": 6111,
+        "end": 6112,
+        "string": " "
+      },
+      {
+        "start": 6112,
+        "end": 6119,
+        "string": "secure"
+      },
+      {
+        "start": 6119,
+        "end": 6120,
+        "string": " "
+      },
+      {
+        "start": 6120,
+        "end": 6124,
+        "string": "any"
+      },
+      {
+        "start": 6124,
+        "end": 6125,
+        "string": " "
+      },
+      {
+        "start": 6125,
+        "end": 6135,
+        "string": "necessary"
+      },
+      {
+        "start": 6135,
+        "end": 6136,
+        "string": " "
+      },
+      {
+        "start": 6136,
+        "end": 6149,
+        "string": "entitlements"
+      },
+      {
+        "start": 6149,
+        "end": 6150,
+        "string": " "
+      },
+      {
+        "start": 6150,
+        "end": 6152,
+        "string": "."
+      },
+      {
+        "start": 6152,
+        "end": 6153,
+        "string": " "
+      }
+    ]
+  }
+}

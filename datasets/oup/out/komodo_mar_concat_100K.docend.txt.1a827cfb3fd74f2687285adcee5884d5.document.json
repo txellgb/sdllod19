@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "1a827cfb3fd74f2687285adcee5884d5.doc",
+  "metadata": {
+    "title": "EU says Poland cannot build Baltic canal without approval",
+    "sourceUrl": "https://www.thestar.com.my/news/world/2019/03/02/eu-says-poland-cannot-build-baltic-canal-without-approval/",
+    "documentSource": "thestar.com.my",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

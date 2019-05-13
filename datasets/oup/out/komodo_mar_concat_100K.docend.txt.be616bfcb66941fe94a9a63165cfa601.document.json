@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "be616bfcb66941fe94a9a63165cfa601.doc",
+  "metadata": {
+    "title": "Trump asks China to remove all agricultural tariffs on US ",
+    "sourceUrl": "https://www.cnn.com/2019/03/01/politics/trump-tweets-china-tariffs/index.html",
+    "documentSource": "cnn.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-02",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

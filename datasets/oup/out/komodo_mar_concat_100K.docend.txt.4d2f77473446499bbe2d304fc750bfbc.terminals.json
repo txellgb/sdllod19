@@ -1,0 +1,4501 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "4d2f77473446499bbe2d304fc750bfbc.doc",
+  "id": "4d2f77473446499bbe2d304fc750bfbc.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "4d2f77473446499bbe2d304fc750bfbc.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "Sen."
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 13,
+        "string": "Bernie"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 29,
+        "string": "SandersBernard"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "string": " "
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "string": "("
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "string": "Bernie"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "string": ")"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 57,
+        "string": "SandersBiden"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "string": ":"
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "string": " "
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "string": "Trump"
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "string": "'"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 75,
+        "string": "did"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "string": "the"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 87,
+        "string": "right"
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "string": " "
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "string": "thing"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "string": "by"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "string": "walking"
+      },
+      {
+        "start": 107,
+        "end": 108,
+        "string": " "
+      },
+      {
+        "start": 108,
+        "end": 113,
+        "string": "away"
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "string": " "
+      },
+      {
+        "start": 114,
+        "end": 116,
+        "string": "'"
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "string": " "
+      },
+      {
+        "start": 117,
+        "end": 122,
+        "string": "from"
+      },
+      {
+        "start": 122,
+        "end": 123,
+        "string": " "
+      },
+      {
+        "start": 123,
+        "end": 129,
+        "string": "North"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 136,
+        "string": "Korea"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 142,
+        "string": "deal"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 152,
+        "string": "American"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "string": " "
+      },
+      {
+        "start": 153,
+        "end": 164,
+        "string": "artificial"
+      },
+      {
+        "start": 164,
+        "end": 165,
+        "string": " "
+      },
+      {
+        "start": 165,
+        "end": 178,
+        "string": "intelligence"
+      },
+      {
+        "start": 178,
+        "end": 179,
+        "string": " "
+      },
+      {
+        "start": 179,
+        "end": 188,
+        "string": "strategy"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 196,
+        "string": "offers"
+      },
+      {
+        "start": 196,
+        "end": 197,
+        "string": " "
+      },
+      {
+        "start": 197,
+        "end": 207,
+        "string": "promising"
+      },
+      {
+        "start": 207,
+        "end": 208,
+        "string": " "
+      },
+      {
+        "start": 208,
+        "end": 214,
+        "string": "start"
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "string": " "
+      },
+      {
+        "start": 215,
+        "end": 220,
+        "string": "Most"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 228,
+        "string": "voters"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 234,
+        "string": "view"
+      },
+      {
+        "start": 234,
+        "end": 235,
+        "string": " "
+      },
+      {
+        "start": 235,
+        "end": 241,
+        "string": "Green"
+      },
+      {
+        "start": 241,
+        "end": 242,
+        "string": " "
+      },
+      {
+        "start": 242,
+        "end": 246,
+        "string": "New"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 252,
+        "string": "Deal"
+      },
+      {
+        "start": 252,
+        "end": 253,
+        "string": " "
+      },
+      {
+        "start": 253,
+        "end": 256,
+        "string": "as"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 259,
+        "string": "'"
+      },
+      {
+        "start": 259,
+        "end": 260,
+        "string": " "
+      },
+      {
+        "start": 260,
+        "end": 268,
+        "string": "largely"
+      },
+      {
+        "start": 268,
+        "end": 269,
+        "string": " "
+      },
+      {
+        "start": 269,
+        "end": 279,
+        "string": "socialist"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 282,
+        "string": ","
+      },
+      {
+        "start": 282,
+        "end": 283,
+        "string": " "
+      },
+      {
+        "start": 283,
+        "end": 285,
+        "string": "'"
+      },
+      {
+        "start": 285,
+        "end": 286,
+        "string": " "
+      },
+      {
+        "start": 286,
+        "end": 291,
+        "string": "poll"
+      },
+      {
+        "start": 291,
+        "end": 292,
+        "string": " "
+      },
+      {
+        "start": 292,
+        "end": 298,
+        "string": "shows"
+      },
+      {
+        "start": 298,
+        "end": 299,
+        "string": " "
+      },
+      {
+        "start": 299,
+        "end": 304,
+        "string": "MORE"
+      },
+      {
+        "start": 304,
+        "end": 305,
+        "string": " "
+      },
+      {
+        "start": 305,
+        "end": 307,
+        "string": "("
+      },
+      {
+        "start": 307,
+        "end": 308,
+        "string": " "
+      },
+      {
+        "start": 308,
+        "end": 313,
+        "string": "I-Vt"
+      },
+      {
+        "start": 313,
+        "end": 314,
+        "string": " "
+      },
+      {
+        "start": 314,
+        "end": 316,
+        "string": "."
+      },
+      {
+        "start": 316,
+        "end": 317,
+        "string": " "
+      },
+      {
+        "start": 317,
+        "end": 319,
+        "string": ")"
+      },
+      {
+        "start": 319,
+        "end": 320,
+        "string": " "
+      },
+      {
+        "start": 320,
+        "end": 327,
+        "string": "raised"
+      },
+      {
+        "start": 327,
+        "end": 328,
+        "string": " "
+      },
+      {
+        "start": 328,
+        "end": 338,
+        "string": "questions"
+      },
+      {
+        "start": 338,
+        "end": 339,
+        "string": " "
+      },
+      {
+        "start": 339,
+        "end": 345,
+        "string": "about"
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 350,
+        "string": "the"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 357,
+        "string": "issue"
+      },
+      {
+        "start": 357,
+        "end": 358,
+        "string": " "
+      },
+      {
+        "start": 358,
+        "end": 361,
+        "string": "of"
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 374,
+        "string": "reparations"
+      },
+      {
+        "start": 374,
+        "end": 375,
+        "string": " "
+      },
+      {
+        "start": 375,
+        "end": 382,
+        "string": "Friday"
+      },
+      {
+        "start": 382,
+        "end": 383,
+        "string": " "
+      },
+      {
+        "start": 383,
+        "end": 390,
+        "string": "during"
+      },
+      {
+        "start": 390,
+        "end": 391,
+        "string": " "
+      },
+      {
+        "start": 391,
+        "end": 394,
+        "string": "an"
+      },
+      {
+        "start": 394,
+        "end": 395,
+        "string": " "
+      },
+      {
+        "start": 395,
+        "end": 406,
+        "string": "appearance"
+      },
+      {
+        "start": 406,
+        "end": 407,
+        "string": " "
+      },
+      {
+        "start": 407,
+        "end": 410,
+        "string": "on"
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 413,
+        "string": "\""
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 418,
+        "string": "The"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 424,
+        "string": "View"
+      },
+      {
+        "start": 424,
+        "end": 425,
+        "string": " "
+      },
+      {
+        "start": 425,
+        "end": 427,
+        "string": "."
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 430,
+        "string": "\""
+      },
+      {
+        "start": 430,
+        "end": 431,
+        "string": " "
+      },
+      {
+        "start": 431,
+        "end": 435,
+        "string": "His"
+      },
+      {
+        "start": 435,
+        "end": 436,
+        "string": " "
+      },
+      {
+        "start": 436,
+        "end": 445,
+        "string": "comments"
+      },
+      {
+        "start": 445,
+        "end": 446,
+        "string": " "
+      },
+      {
+        "start": 446,
+        "end": 451,
+        "string": "come"
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 455,
+        "string": "as"
+      },
+      {
+        "start": 455,
+        "end": 456,
+        "string": " "
+      },
+      {
+        "start": 456,
+        "end": 460,
+        "string": "the"
+      },
+      {
+        "start": 460,
+        "end": 461,
+        "string": " "
+      },
+      {
+        "start": 461,
+        "end": 467,
+        "string": "issue"
+      },
+      {
+        "start": 467,
+        "end": 468,
+        "string": " "
+      },
+      {
+        "start": 468,
+        "end": 471,
+        "string": "of"
+      },
+      {
+        "start": 471,
+        "end": 472,
+        "string": " "
+      },
+      {
+        "start": 472,
+        "end": 484,
+        "string": "reparations"
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 489,
+        "string": "for"
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "string": " "
+      },
+      {
+        "start": 490,
+        "end": 502,
+        "string": "descendants"
+      },
+      {
+        "start": 502,
+        "end": 503,
+        "string": " "
+      },
+      {
+        "start": 503,
+        "end": 506,
+        "string": "of"
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "string": " "
+      },
+      {
+        "start": 507,
+        "end": 515,
+        "string": "slavery"
+      },
+      {
+        "start": 515,
+        "end": 516,
+        "string": " "
+      },
+      {
+        "start": 516,
+        "end": 520,
+        "string": "has"
+      },
+      {
+        "start": 520,
+        "end": 521,
+        "string": " "
+      },
+      {
+        "start": 521,
+        "end": 528,
+        "string": "become"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 531,
+        "string": "a"
+      },
+      {
+        "start": 531,
+        "end": 532,
+        "string": " "
+      },
+      {
+        "start": 532,
+        "end": 538,
+        "string": "topic"
+      },
+      {
+        "start": 538,
+        "end": 539,
+        "string": " "
+      },
+      {
+        "start": 539,
+        "end": 542,
+        "string": "of"
+      },
+      {
+        "start": 542,
+        "end": 543,
+        "string": " "
+      },
+      {
+        "start": 543,
+        "end": 550,
+        "string": "debate"
+      },
+      {
+        "start": 550,
+        "end": 551,
+        "string": " "
+      },
+      {
+        "start": 551,
+        "end": 557,
+        "string": "among"
+      },
+      {
+        "start": 557,
+        "end": 558,
+        "string": " "
+      },
+      {
+        "start": 558,
+        "end": 562,
+        "string": "his"
+      },
+      {
+        "start": 562,
+        "end": 563,
+        "string": " "
+      },
+      {
+        "start": 563,
+        "end": 570,
+        "string": "fellow"
+      },
+      {
+        "start": 570,
+        "end": 571,
+        "string": " "
+      },
+      {
+        "start": 571,
+        "end": 576,
+        "string": "2020"
+      },
+      {
+        "start": 576,
+        "end": 577,
+        "string": " "
+      },
+      {
+        "start": 577,
+        "end": 588,
+        "string": "Democratic"
+      },
+      {
+        "start": 588,
+        "end": 589,
+        "string": " "
+      },
+      {
+        "start": 589,
+        "end": 597,
+        "string": "primary"
+      },
+      {
+        "start": 597,
+        "end": 598,
+        "string": " "
+      },
+      {
+        "start": 598,
+        "end": 609,
+        "string": "candidates"
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 612,
+        "string": ","
+      },
+      {
+        "start": 612,
+        "end": 613,
+        "string": " "
+      },
+      {
+        "start": 613,
+        "end": 623,
+        "string": "including"
+      },
+      {
+        "start": 623,
+        "end": 624,
+        "string": " "
+      },
+      {
+        "start": 624,
+        "end": 630,
+        "string": "Sens."
+      },
+      {
+        "start": 630,
+        "end": 631,
+        "string": " "
+      },
+      {
+        "start": 631,
+        "end": 638,
+        "string": "Kamala"
+      },
+      {
+        "start": 638,
+        "end": 639,
+        "string": " "
+      },
+      {
+        "start": 639,
+        "end": 652,
+        "string": "HarrisKamala"
+      },
+      {
+        "start": 652,
+        "end": 653,
+        "string": " "
+      },
+      {
+        "start": 653,
+        "end": 658,
+        "string": "Devi"
+      },
+      {
+        "start": 658,
+        "end": 659,
+        "string": " "
+      },
+      {
+        "start": 659,
+        "end": 671,
+        "string": "HarrisBiden"
+      },
+      {
+        "start": 671,
+        "end": 672,
+        "string": " "
+      },
+      {
+        "start": 672,
+        "end": 674,
+        "string": ":"
+      },
+      {
+        "start": 674,
+        "end": 675,
+        "string": " "
+      },
+      {
+        "start": 675,
+        "end": 681,
+        "string": "Trump"
+      },
+      {
+        "start": 681,
+        "end": 682,
+        "string": " "
+      },
+      {
+        "start": 682,
+        "end": 684,
+        "string": "'"
+      },
+      {
+        "start": 684,
+        "end": 685,
+        "string": " "
+      },
+      {
+        "start": 685,
+        "end": 689,
+        "string": "did"
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 694,
+        "string": "the"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 701,
+        "string": "right"
+      },
+      {
+        "start": 701,
+        "end": 702,
+        "string": " "
+      },
+      {
+        "start": 702,
+        "end": 708,
+        "string": "thing"
+      },
+      {
+        "start": 708,
+        "end": 709,
+        "string": " "
+      },
+      {
+        "start": 709,
+        "end": 712,
+        "string": "by"
+      },
+      {
+        "start": 712,
+        "end": 713,
+        "string": " "
+      },
+      {
+        "start": 713,
+        "end": 721,
+        "string": "walking"
+      },
+      {
+        "start": 721,
+        "end": 722,
+        "string": " "
+      },
+      {
+        "start": 722,
+        "end": 727,
+        "string": "away"
+      },
+      {
+        "start": 727,
+        "end": 728,
+        "string": " "
+      },
+      {
+        "start": 728,
+        "end": 730,
+        "string": "'"
+      },
+      {
+        "start": 730,
+        "end": 731,
+        "string": " "
+      },
+      {
+        "start": 731,
+        "end": 736,
+        "string": "from"
+      },
+      {
+        "start": 736,
+        "end": 737,
+        "string": " "
+      },
+      {
+        "start": 737,
+        "end": 743,
+        "string": "North"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 750,
+        "string": "Korea"
+      },
+      {
+        "start": 750,
+        "end": 751,
+        "string": " "
+      },
+      {
+        "start": 751,
+        "end": 756,
+        "string": "deal"
+      },
+      {
+        "start": 756,
+        "end": 757,
+        "string": " "
+      },
+      {
+        "start": 757,
+        "end": 761,
+        "string": "GOP"
+      },
+      {
+        "start": 761,
+        "end": 762,
+        "string": " "
+      },
+      {
+        "start": 762,
+        "end": 771,
+        "string": "pollster"
+      },
+      {
+        "start": 771,
+        "end": 772,
+        "string": " "
+      },
+      {
+        "start": 772,
+        "end": 777,
+        "string": "says"
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 785,
+        "string": "Senate"
+      },
+      {
+        "start": 785,
+        "end": 786,
+        "string": " "
+      },
+      {
+        "start": 786,
+        "end": 791,
+        "string": "vote"
+      },
+      {
+        "start": 791,
+        "end": 792,
+        "string": " "
+      },
+      {
+        "start": 792,
+        "end": 795,
+        "string": "on"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 802,
+        "string": "Green"
+      },
+      {
+        "start": 802,
+        "end": 803,
+        "string": " "
+      },
+      {
+        "start": 803,
+        "end": 807,
+        "string": "New"
+      },
+      {
+        "start": 807,
+        "end": 808,
+        "string": " "
+      },
+      {
+        "start": 808,
+        "end": 813,
+        "string": "Deal"
+      },
+      {
+        "start": 813,
+        "end": 814,
+        "string": " "
+      },
+      {
+        "start": 814,
+        "end": 819,
+        "string": "will"
+      },
+      {
+        "start": 819,
+        "end": 820,
+        "string": " "
+      },
+      {
+        "start": 820,
+        "end": 823,
+        "string": "be"
+      },
+      {
+        "start": 823,
+        "end": 824,
+        "string": " "
+      },
+      {
+        "start": 824,
+        "end": 826,
+        "string": "a"
+      },
+      {
+        "start": 826,
+        "end": 827,
+        "string": " "
+      },
+      {
+        "start": 827,
+        "end": 832,
+        "string": "test"
+      },
+      {
+        "start": 832,
+        "end": 833,
+        "string": " "
+      },
+      {
+        "start": 833,
+        "end": 837,
+        "string": "for"
+      },
+      {
+        "start": 837,
+        "end": 838,
+        "string": " "
+      },
+      {
+        "start": 838,
+        "end": 843,
+        "string": "2020"
+      },
+      {
+        "start": 843,
+        "end": 844,
+        "string": " "
+      },
+      {
+        "start": 844,
+        "end": 849,
+        "string": "Dems"
+      },
+      {
+        "start": 849,
+        "end": 850,
+        "string": " "
+      },
+      {
+        "start": 850,
+        "end": 853,
+        "string": "in"
+      },
+      {
+        "start": 853,
+        "end": 854,
+        "string": " "
+      },
+      {
+        "start": 854,
+        "end": 862,
+        "string": "chamber"
+      },
+      {
+        "start": 862,
+        "end": 863,
+        "string": " "
+      },
+      {
+        "start": 863,
+        "end": 868,
+        "string": "Most"
+      },
+      {
+        "start": 868,
+        "end": 869,
+        "string": " "
+      },
+      {
+        "start": 869,
+        "end": 876,
+        "string": "voters"
+      },
+      {
+        "start": 876,
+        "end": 877,
+        "string": " "
+      },
+      {
+        "start": 877,
+        "end": 882,
+        "string": "view"
+      },
+      {
+        "start": 882,
+        "end": 883,
+        "string": " "
+      },
+      {
+        "start": 883,
+        "end": 889,
+        "string": "Green"
+      },
+      {
+        "start": 889,
+        "end": 890,
+        "string": " "
+      },
+      {
+        "start": 890,
+        "end": 894,
+        "string": "New"
+      },
+      {
+        "start": 894,
+        "end": 895,
+        "string": " "
+      },
+      {
+        "start": 895,
+        "end": 900,
+        "string": "Deal"
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 904,
+        "string": "as"
+      },
+      {
+        "start": 904,
+        "end": 905,
+        "string": " "
+      },
+      {
+        "start": 905,
+        "end": 907,
+        "string": "'"
+      },
+      {
+        "start": 907,
+        "end": 908,
+        "string": " "
+      },
+      {
+        "start": 908,
+        "end": 916,
+        "string": "largely"
+      },
+      {
+        "start": 916,
+        "end": 917,
+        "string": " "
+      },
+      {
+        "start": 917,
+        "end": 927,
+        "string": "socialist"
+      },
+      {
+        "start": 927,
+        "end": 928,
+        "string": " "
+      },
+      {
+        "start": 928,
+        "end": 930,
+        "string": ","
+      },
+      {
+        "start": 930,
+        "end": 931,
+        "string": " "
+      },
+      {
+        "start": 931,
+        "end": 933,
+        "string": "'"
+      },
+      {
+        "start": 933,
+        "end": 934,
+        "string": " "
+      },
+      {
+        "start": 934,
+        "end": 939,
+        "string": "poll"
+      },
+      {
+        "start": 939,
+        "end": 940,
+        "string": " "
+      },
+      {
+        "start": 940,
+        "end": 946,
+        "string": "shows"
+      },
+      {
+        "start": 946,
+        "end": 947,
+        "string": " "
+      },
+      {
+        "start": 947,
+        "end": 952,
+        "string": "MORE"
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 955,
+        "string": "("
+      },
+      {
+        "start": 955,
+        "end": 956,
+        "string": " "
+      },
+      {
+        "start": 956,
+        "end": 964,
+        "string": "D-Calif"
+      },
+      {
+        "start": 964,
+        "end": 965,
+        "string": " "
+      },
+      {
+        "start": 965,
+        "end": 967,
+        "string": "."
+      },
+      {
+        "start": 967,
+        "end": 968,
+        "string": " "
+      },
+      {
+        "start": 968,
+        "end": 970,
+        "string": ")"
+      },
+      {
+        "start": 970,
+        "end": 971,
+        "string": " "
+      },
+      {
+        "start": 971,
+        "end": 975,
+        "string": "and"
+      },
+      {
+        "start": 975,
+        "end": 976,
+        "string": " "
+      },
+      {
+        "start": 976,
+        "end": 986,
+        "string": "Elizabeth"
+      },
+      {
+        "start": 986,
+        "end": 987,
+        "string": " "
+      },
+      {
+        "start": 987,
+        "end": 1003,
+        "string": "WarrenElizabeth"
+      },
+      {
+        "start": 1003,
+        "end": 1004,
+        "string": " "
+      },
+      {
+        "start": 1004,
+        "end": 1008,
+        "string": "Ann"
+      },
+      {
+        "start": 1008,
+        "end": 1009,
+        "string": " "
+      },
+      {
+        "start": 1009,
+        "end": 1021,
+        "string": "WarrenBiden"
+      },
+      {
+        "start": 1021,
+        "end": 1022,
+        "string": " "
+      },
+      {
+        "start": 1022,
+        "end": 1024,
+        "string": ":"
+      },
+      {
+        "start": 1024,
+        "end": 1025,
+        "string": " "
+      },
+      {
+        "start": 1025,
+        "end": 1031,
+        "string": "Trump"
+      },
+      {
+        "start": 1031,
+        "end": 1032,
+        "string": " "
+      },
+      {
+        "start": 1032,
+        "end": 1034,
+        "string": "'"
+      },
+      {
+        "start": 1034,
+        "end": 1035,
+        "string": " "
+      },
+      {
+        "start": 1035,
+        "end": 1039,
+        "string": "did"
+      },
+      {
+        "start": 1039,
+        "end": 1040,
+        "string": " "
+      },
+      {
+        "start": 1040,
+        "end": 1044,
+        "string": "the"
+      },
+      {
+        "start": 1044,
+        "end": 1045,
+        "string": " "
+      },
+      {
+        "start": 1045,
+        "end": 1051,
+        "string": "right"
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1058,
+        "string": "thing"
+      },
+      {
+        "start": 1058,
+        "end": 1059,
+        "string": " "
+      },
+      {
+        "start": 1059,
+        "end": 1062,
+        "string": "by"
+      },
+      {
+        "start": 1062,
+        "end": 1063,
+        "string": " "
+      },
+      {
+        "start": 1063,
+        "end": 1071,
+        "string": "walking"
+      },
+      {
+        "start": 1071,
+        "end": 1072,
+        "string": " "
+      },
+      {
+        "start": 1072,
+        "end": 1077,
+        "string": "away"
+      },
+      {
+        "start": 1077,
+        "end": 1078,
+        "string": " "
+      },
+      {
+        "start": 1078,
+        "end": 1080,
+        "string": "'"
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1086,
+        "string": "from"
+      },
+      {
+        "start": 1086,
+        "end": 1087,
+        "string": " "
+      },
+      {
+        "start": 1087,
+        "end": 1093,
+        "string": "North"
+      },
+      {
+        "start": 1093,
+        "end": 1094,
+        "string": " "
+      },
+      {
+        "start": 1094,
+        "end": 1100,
+        "string": "Korea"
+      },
+      {
+        "start": 1100,
+        "end": 1101,
+        "string": " "
+      },
+      {
+        "start": 1101,
+        "end": 1106,
+        "string": "deal"
+      },
+      {
+        "start": 1106,
+        "end": 1107,
+        "string": " "
+      },
+      {
+        "start": 1107,
+        "end": 1111,
+        "string": "GOP"
+      },
+      {
+        "start": 1111,
+        "end": 1112,
+        "string": " "
+      },
+      {
+        "start": 1112,
+        "end": 1121,
+        "string": "pollster"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1127,
+        "string": "says"
+      },
+      {
+        "start": 1127,
+        "end": 1128,
+        "string": " "
+      },
+      {
+        "start": 1128,
+        "end": 1135,
+        "string": "Senate"
+      },
+      {
+        "start": 1135,
+        "end": 1136,
+        "string": " "
+      },
+      {
+        "start": 1136,
+        "end": 1141,
+        "string": "vote"
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1145,
+        "string": "on"
+      },
+      {
+        "start": 1145,
+        "end": 1146,
+        "string": " "
+      },
+      {
+        "start": 1146,
+        "end": 1152,
+        "string": "Green"
+      },
+      {
+        "start": 1152,
+        "end": 1153,
+        "string": " "
+      },
+      {
+        "start": 1153,
+        "end": 1157,
+        "string": "New"
+      },
+      {
+        "start": 1157,
+        "end": 1158,
+        "string": " "
+      },
+      {
+        "start": 1158,
+        "end": 1163,
+        "string": "Deal"
+      },
+      {
+        "start": 1163,
+        "end": 1164,
+        "string": " "
+      },
+      {
+        "start": 1164,
+        "end": 1169,
+        "string": "will"
+      },
+      {
+        "start": 1169,
+        "end": 1170,
+        "string": " "
+      },
+      {
+        "start": 1170,
+        "end": 1173,
+        "string": "be"
+      },
+      {
+        "start": 1173,
+        "end": 1174,
+        "string": " "
+      },
+      {
+        "start": 1174,
+        "end": 1176,
+        "string": "a"
+      },
+      {
+        "start": 1176,
+        "end": 1177,
+        "string": " "
+      },
+      {
+        "start": 1177,
+        "end": 1182,
+        "string": "test"
+      },
+      {
+        "start": 1182,
+        "end": 1183,
+        "string": " "
+      },
+      {
+        "start": 1183,
+        "end": 1187,
+        "string": "for"
+      },
+      {
+        "start": 1187,
+        "end": 1188,
+        "string": " "
+      },
+      {
+        "start": 1188,
+        "end": 1193,
+        "string": "2020"
+      },
+      {
+        "start": 1193,
+        "end": 1194,
+        "string": " "
+      },
+      {
+        "start": 1194,
+        "end": 1199,
+        "string": "Dems"
+      },
+      {
+        "start": 1199,
+        "end": 1200,
+        "string": " "
+      },
+      {
+        "start": 1200,
+        "end": 1203,
+        "string": "in"
+      },
+      {
+        "start": 1203,
+        "end": 1204,
+        "string": " "
+      },
+      {
+        "start": 1204,
+        "end": 1212,
+        "string": "chamber"
+      },
+      {
+        "start": 1212,
+        "end": 1213,
+        "string": " "
+      },
+      {
+        "start": 1213,
+        "end": 1218,
+        "string": "Most"
+      },
+      {
+        "start": 1218,
+        "end": 1219,
+        "string": " "
+      },
+      {
+        "start": 1219,
+        "end": 1226,
+        "string": "voters"
+      },
+      {
+        "start": 1226,
+        "end": 1227,
+        "string": " "
+      },
+      {
+        "start": 1227,
+        "end": 1232,
+        "string": "view"
+      },
+      {
+        "start": 1232,
+        "end": 1233,
+        "string": " "
+      },
+      {
+        "start": 1233,
+        "end": 1239,
+        "string": "Green"
+      },
+      {
+        "start": 1239,
+        "end": 1240,
+        "string": " "
+      },
+      {
+        "start": 1240,
+        "end": 1244,
+        "string": "New"
+      },
+      {
+        "start": 1244,
+        "end": 1245,
+        "string": " "
+      },
+      {
+        "start": 1245,
+        "end": 1250,
+        "string": "Deal"
+      },
+      {
+        "start": 1250,
+        "end": 1251,
+        "string": " "
+      },
+      {
+        "start": 1251,
+        "end": 1254,
+        "string": "as"
+      },
+      {
+        "start": 1254,
+        "end": 1255,
+        "string": " "
+      },
+      {
+        "start": 1255,
+        "end": 1257,
+        "string": "'"
+      },
+      {
+        "start": 1257,
+        "end": 1258,
+        "string": " "
+      },
+      {
+        "start": 1258,
+        "end": 1266,
+        "string": "largely"
+      },
+      {
+        "start": 1266,
+        "end": 1267,
+        "string": " "
+      },
+      {
+        "start": 1267,
+        "end": 1277,
+        "string": "socialist"
+      },
+      {
+        "start": 1277,
+        "end": 1278,
+        "string": " "
+      },
+      {
+        "start": 1278,
+        "end": 1280,
+        "string": ","
+      },
+      {
+        "start": 1280,
+        "end": 1281,
+        "string": " "
+      },
+      {
+        "start": 1281,
+        "end": 1283,
+        "string": "'"
+      },
+      {
+        "start": 1283,
+        "end": 1284,
+        "string": " "
+      },
+      {
+        "start": 1284,
+        "end": 1289,
+        "string": "poll"
+      },
+      {
+        "start": 1289,
+        "end": 1290,
+        "string": " "
+      },
+      {
+        "start": 1290,
+        "end": 1296,
+        "string": "shows"
+      },
+      {
+        "start": 1296,
+        "end": 1297,
+        "string": " "
+      },
+      {
+        "start": 1297,
+        "end": 1302,
+        "string": "MORE"
+      },
+      {
+        "start": 1302,
+        "end": 1303,
+        "string": " "
+      },
+      {
+        "start": 1303,
+        "end": 1305,
+        "string": "("
+      },
+      {
+        "start": 1305,
+        "end": 1306,
+        "string": " "
+      },
+      {
+        "start": 1306,
+        "end": 1313,
+        "string": "D-Mass"
+      },
+      {
+        "start": 1313,
+        "end": 1314,
+        "string": " "
+      },
+      {
+        "start": 1314,
+        "end": 1316,
+        "string": "."
+      },
+      {
+        "start": 1316,
+        "end": 1317,
+        "string": " "
+      },
+      {
+        "start": 1317,
+        "end": 1319,
+        "string": ")"
+      },
+      {
+        "start": 1319,
+        "end": 1320,
+        "string": " "
+      },
+      {
+        "start": 1320,
+        "end": 1322,
+        "string": "."
+      },
+      {
+        "start": 1322,
+        "end": 1323,
+        "string": " "
+      },
+      {
+        "start": 1323,
+        "end": 1331,
+        "string": "Neither"
+      },
+      {
+        "start": 1331,
+        "end": 1332,
+        "string": " "
+      },
+      {
+        "start": 1332,
+        "end": 1342,
+        "string": "candidate"
+      },
+      {
+        "start": 1342,
+        "end": 1343,
+        "string": " "
+      },
+      {
+        "start": 1343,
+        "end": 1347,
+        "string": "has"
+      },
+      {
+        "start": 1347,
+        "end": 1348,
+        "string": " "
+      },
+      {
+        "start": 1348,
+        "end": 1356,
+        "string": "offered"
+      },
+      {
+        "start": 1356,
+        "end": 1357,
+        "string": " "
+      },
+      {
+        "start": 1357,
+        "end": 1359,
+        "string": "a"
+      },
+      {
+        "start": 1359,
+        "end": 1360,
+        "string": " "
+      },
+      {
+        "start": 1360,
+        "end": 1369,
+        "string": "specific"
+      },
+      {
+        "start": 1369,
+        "end": 1370,
+        "string": " "
+      },
+      {
+        "start": 1370,
+        "end": 1375,
+        "string": "plan"
+      },
+      {
+        "start": 1375,
+        "end": 1376,
+        "string": " "
+      },
+      {
+        "start": 1376,
+        "end": 1379,
+        "string": "to"
+      },
+      {
+        "start": 1379,
+        "end": 1380,
+        "string": " "
+      },
+      {
+        "start": 1380,
+        "end": 1388,
+        "string": "address"
+      },
+      {
+        "start": 1388,
+        "end": 1389,
+        "string": " "
+      },
+      {
+        "start": 1389,
+        "end": 1393,
+        "string": "the"
+      },
+      {
+        "start": 1393,
+        "end": 1394,
+        "string": " "
+      },
+      {
+        "start": 1394,
+        "end": 1400,
+        "string": "issue"
+      },
+      {
+        "start": 1400,
+        "end": 1401,
+        "string": " "
+      },
+      {
+        "start": 1401,
+        "end": 1403,
+        "string": "."
+      },
+      {
+        "start": 1403,
+        "end": 1404,
+        "string": " "
+      },
+      {
+        "start": 1404,
+        "end": 1406,
+        "string": "\""
+      },
+      {
+        "start": 1406,
+        "end": 1407,
+        "string": " "
+      },
+      {
+        "start": 1407,
+        "end": 1412,
+        "string": "What"
+      },
+      {
+        "start": 1412,
+        "end": 1413,
+        "string": " "
+      },
+      {
+        "start": 1413,
+        "end": 1418,
+        "string": "does"
+      },
+      {
+        "start": 1418,
+        "end": 1419,
+        "string": " "
+      },
+      {
+        "start": 1419,
+        "end": 1424,
+        "string": "that"
+      },
+      {
+        "start": 1424,
+        "end": 1425,
+        "string": " "
+      },
+      {
+        "start": 1425,
+        "end": 1430,
+        "string": "mean"
+      },
+      {
+        "start": 1430,
+        "end": 1431,
+        "string": " "
+      },
+      {
+        "start": 1431,
+        "end": 1433,
+        "string": "?"
+      },
+      {
+        "start": 1433,
+        "end": 1434,
+        "string": " "
+      },
+      {
+        "start": 1434,
+        "end": 1436,
+        "string": "\""
+      },
+      {
+        "start": 1436,
+        "end": 1437,
+        "string": " "
+      },
+      {
+        "start": 1437,
+        "end": 1445,
+        "string": "Sanders"
+      },
+      {
+        "start": 1445,
+        "end": 1446,
+        "string": " "
+      },
+      {
+        "start": 1446,
+        "end": 1452,
+        "string": "asked"
+      },
+      {
+        "start": 1452,
+        "end": 1453,
+        "string": " "
+      },
+      {
+        "start": 1453,
+        "end": 1455,
+        "string": ","
+      },
+      {
+        "start": 1455,
+        "end": 1456,
+        "string": " "
+      },
+      {
+        "start": 1456,
+        "end": 1461,
+        "string": "when"
+      },
+      {
+        "start": 1461,
+        "end": 1462,
+        "string": " "
+      },
+      {
+        "start": 1462,
+        "end": 1467,
+        "string": "when"
+      },
+      {
+        "start": 1467,
+        "end": 1468,
+        "string": " "
+      },
+      {
+        "start": 1468,
+        "end": 1476,
+        "string": "pressed"
+      },
+      {
+        "start": 1476,
+        "end": 1477,
+        "string": " "
+      },
+      {
+        "start": 1477,
+        "end": 1480,
+        "string": "by"
+      },
+      {
+        "start": 1480,
+        "end": 1481,
+        "string": " "
+      },
+      {
+        "start": 1481,
+        "end": 1485,
+        "string": "ABC"
+      },
+      {
+        "start": 1485,
+        "end": 1486,
+        "string": " "
+      },
+      {
+        "start": 1486,
+        "end": 1489,
+        "string": "'s"
+      },
+      {
+        "start": 1489,
+        "end": 1490,
+        "string": " "
+      },
+      {
+        "start": 1490,
+        "end": 1496,
+        "string": "Sunny"
+      },
+      {
+        "start": 1496,
+        "end": 1497,
+        "string": " "
+      },
+      {
+        "start": 1497,
+        "end": 1504,
+        "string": "Hostin"
+      },
+      {
+        "start": 1504,
+        "end": 1505,
+        "string": " "
+      },
+      {
+        "start": 1505,
+        "end": 1508,
+        "string": "on"
+      },
+      {
+        "start": 1508,
+        "end": 1509,
+        "string": " "
+      },
+      {
+        "start": 1509,
+        "end": 1517,
+        "string": "whether"
+      },
+      {
+        "start": 1517,
+        "end": 1518,
+        "string": " "
+      },
+      {
+        "start": 1518,
+        "end": 1521,
+        "string": "he"
+      },
+      {
+        "start": 1521,
+        "end": 1522,
+        "string": " "
+      },
+      {
+        "start": 1522,
+        "end": 1528,
+        "string": "would"
+      },
+      {
+        "start": 1528,
+        "end": 1529,
+        "string": " "
+      },
+      {
+        "start": 1529,
+        "end": 1537,
+        "string": "support"
+      },
+      {
+        "start": 1537,
+        "end": 1538,
+        "string": " "
+      },
+      {
+        "start": 1538,
+        "end": 1543,
+        "string": "some"
+      },
+      {
+        "start": 1543,
+        "end": 1544,
+        "string": " "
+      },
+      {
+        "start": 1544,
+        "end": 1549,
+        "string": "form"
+      },
+      {
+        "start": 1549,
+        "end": 1550,
+        "string": " "
+      },
+      {
+        "start": 1550,
+        "end": 1553,
+        "string": "of"
+      },
+      {
+        "start": 1553,
+        "end": 1554,
+        "string": " "
+      },
+      {
+        "start": 1554,
+        "end": 1565,
+        "string": "reparation"
+      },
+      {
+        "start": 1565,
+        "end": 1566,
+        "string": " "
+      },
+      {
+        "start": 1566,
+        "end": 1571,
+        "string": "plan"
+      },
+      {
+        "start": 1571,
+        "end": 1572,
+        "string": " "
+      },
+      {
+        "start": 1572,
+        "end": 1574,
+        "string": "."
+      },
+      {
+        "start": 1574,
+        "end": 1575,
+        "string": " "
+      },
+      {
+        "start": 1575,
+        "end": 1577,
+        "string": "\""
+      },
+      {
+        "start": 1577,
+        "end": 1578,
+        "string": " "
+      },
+      {
+        "start": 1578,
+        "end": 1584,
+        "string": "Money"
+      },
+      {
+        "start": 1584,
+        "end": 1585,
+        "string": " "
+      },
+      {
+        "start": 1585,
+        "end": 1587,
+        "string": ","
+      },
+      {
+        "start": 1587,
+        "end": 1588,
+        "string": " "
+      },
+      {
+        "start": 1588,
+        "end": 1590,
+        "string": "\""
+      },
+      {
+        "start": 1590,
+        "end": 1591,
+        "string": " "
+      },
+      {
+        "start": 1591,
+        "end": 1595,
+        "string": "she"
+      },
+      {
+        "start": 1595,
+        "end": 1596,
+        "string": " "
+      },
+      {
+        "start": 1596,
+        "end": 1605,
+        "string": "answered"
+      },
+      {
+        "start": 1605,
+        "end": 1606,
+        "string": " "
+      },
+      {
+        "start": 1606,
+        "end": 1608,
+        "string": "."
+      },
+      {
+        "start": 1608,
+        "end": 1609,
+        "string": " "
+      },
+      {
+        "start": 1609,
+        "end": 1611,
+        "string": "\""
+      },
+      {
+        "start": 1611,
+        "end": 1612,
+        "string": " "
+      },
+      {
+        "start": 1612,
+        "end": 1614,
+        "string": "I"
+      },
+      {
+        "start": 1614,
+        "end": 1615,
+        "string": " "
+      },
+      {
+        "start": 1615,
+        "end": 1621,
+        "string": "think"
+      },
+      {
+        "start": 1621,
+        "end": 1622,
+        "string": " "
+      },
+      {
+        "start": 1622,
+        "end": 1627,
+        "string": "that"
+      },
+      {
+        "start": 1627,
+        "end": 1628,
+        "string": " "
+      },
+      {
+        "start": 1628,
+        "end": 1634,
+        "string": "right"
+      },
+      {
+        "start": 1634,
+        "end": 1635,
+        "string": " "
+      },
+      {
+        "start": 1635,
+        "end": 1639,
+        "string": "now"
+      },
+      {
+        "start": 1639,
+        "end": 1640,
+        "string": " "
+      },
+      {
+        "start": 1640,
+        "end": 1642,
+        "string": ","
+      },
+      {
+        "start": 1642,
+        "end": 1643,
+        "string": " "
+      },
+      {
+        "start": 1643,
+        "end": 1647,
+        "string": "our"
+      },
+      {
+        "start": 1647,
+        "end": 1648,
+        "string": " "
+      },
+      {
+        "start": 1648,
+        "end": 1652,
+        "string": "job"
+      },
+      {
+        "start": 1652,
+        "end": 1653,
+        "string": " "
+      },
+      {
+        "start": 1653,
+        "end": 1656,
+        "string": "is"
+      },
+      {
+        "start": 1656,
+        "end": 1657,
+        "string": " "
+      },
+      {
+        "start": 1657,
+        "end": 1660,
+        "string": "to"
+      },
+      {
+        "start": 1660,
+        "end": 1661,
+        "string": " "
+      },
+      {
+        "start": 1661,
+        "end": 1669,
+        "string": "address"
+      },
+      {
+        "start": 1669,
+        "end": 1670,
+        "string": " "
+      },
+      {
+        "start": 1670,
+        "end": 1674,
+        "string": "the"
+      },
+      {
+        "start": 1674,
+        "end": 1675,
+        "string": " "
+      },
+      {
+        "start": 1675,
+        "end": 1682,
+        "string": "crises"
+      },
+      {
+        "start": 1682,
+        "end": 1683,
+        "string": " "
+      },
+      {
+        "start": 1683,
+        "end": 1690,
+        "string": "facing"
+      },
+      {
+        "start": 1690,
+        "end": 1691,
+        "string": " "
+      },
+      {
+        "start": 1691,
+        "end": 1695,
+        "string": "the"
+      },
+      {
+        "start": 1695,
+        "end": 1696,
+        "string": " "
+      },
+      {
+        "start": 1696,
+        "end": 1705,
+        "string": "American"
+      },
+      {
+        "start": 1705,
+        "end": 1706,
+        "string": " "
+      },
+      {
+        "start": 1706,
+        "end": 1713,
+        "string": "people"
+      },
+      {
+        "start": 1713,
+        "end": 1714,
+        "string": " "
+      },
+      {
+        "start": 1714,
+        "end": 1718,
+        "string": "and"
+      },
+      {
+        "start": 1718,
+        "end": 1719,
+        "string": " "
+      },
+      {
+        "start": 1719,
+        "end": 1723,
+        "string": "our"
+      },
+      {
+        "start": 1723,
+        "end": 1724,
+        "string": " "
+      },
+      {
+        "start": 1724,
+        "end": 1736,
+        "string": "communities"
+      },
+      {
+        "start": 1736,
+        "end": 1737,
+        "string": " "
+      },
+      {
+        "start": 1737,
+        "end": 1739,
+        "string": ","
+      },
+      {
+        "start": 1739,
+        "end": 1740,
+        "string": " "
+      },
+      {
+        "start": 1740,
+        "end": 1744,
+        "string": "and"
+      },
+      {
+        "start": 1744,
+        "end": 1745,
+        "string": " "
+      },
+      {
+        "start": 1745,
+        "end": 1747,
+        "string": "I"
+      },
+      {
+        "start": 1747,
+        "end": 1748,
+        "string": " "
+      },
+      {
+        "start": 1748,
+        "end": 1754,
+        "string": "think"
+      },
+      {
+        "start": 1754,
+        "end": 1755,
+        "string": " "
+      },
+      {
+        "start": 1755,
+        "end": 1761,
+        "string": "there"
+      },
+      {
+        "start": 1761,
+        "end": 1762,
+        "string": " "
+      },
+      {
+        "start": 1762,
+        "end": 1766,
+        "string": "are"
+      },
+      {
+        "start": 1766,
+        "end": 1767,
+        "string": " "
+      },
+      {
+        "start": 1767,
+        "end": 1774,
+        "string": "better"
+      },
+      {
+        "start": 1774,
+        "end": 1775,
+        "string": " "
+      },
+      {
+        "start": 1775,
+        "end": 1780,
+        "string": "ways"
+      },
+      {
+        "start": 1780,
+        "end": 1781,
+        "string": " "
+      },
+      {
+        "start": 1781,
+        "end": 1784,
+        "string": "to"
+      },
+      {
+        "start": 1784,
+        "end": 1785,
+        "string": " "
+      },
+      {
+        "start": 1785,
+        "end": 1788,
+        "string": "do"
+      },
+      {
+        "start": 1788,
+        "end": 1789,
+        "string": " "
+      },
+      {
+        "start": 1789,
+        "end": 1794,
+        "string": "that"
+      },
+      {
+        "start": 1794,
+        "end": 1795,
+        "string": " "
+      },
+      {
+        "start": 1795,
+        "end": 1800,
+        "string": "than"
+      },
+      {
+        "start": 1800,
+        "end": 1801,
+        "string": " "
+      },
+      {
+        "start": 1801,
+        "end": 1806,
+        "string": "just"
+      },
+      {
+        "start": 1806,
+        "end": 1807,
+        "string": " "
+      },
+      {
+        "start": 1807,
+        "end": 1815,
+        "string": "writing"
+      },
+      {
+        "start": 1815,
+        "end": 1816,
+        "string": " "
+      },
+      {
+        "start": 1816,
+        "end": 1820,
+        "string": "out"
+      },
+      {
+        "start": 1820,
+        "end": 1821,
+        "string": " "
+      },
+      {
+        "start": 1821,
+        "end": 1823,
+        "string": "a"
+      },
+      {
+        "start": 1823,
+        "end": 1824,
+        "string": " "
+      },
+      {
+        "start": 1824,
+        "end": 1830,
+        "string": "check"
+      },
+      {
+        "start": 1830,
+        "end": 1831,
+        "string": " "
+      },
+      {
+        "start": 1831,
+        "end": 1833,
+        "string": ","
+      },
+      {
+        "start": 1833,
+        "end": 1834,
+        "string": " "
+      },
+      {
+        "start": 1834,
+        "end": 1836,
+        "string": "\""
+      },
+      {
+        "start": 1836,
+        "end": 1837,
+        "string": " "
+      },
+      {
+        "start": 1837,
+        "end": 1845,
+        "string": "Sanders"
+      },
+      {
+        "start": 1845,
+        "end": 1846,
+        "string": " "
+      },
+      {
+        "start": 1846,
+        "end": 1856,
+        "string": "responded"
+      },
+      {
+        "start": 1856,
+        "end": 1857,
+        "string": " "
+      },
+      {
+        "start": 1857,
+        "end": 1859,
+        "string": "."
+      },
+      {
+        "start": 1859,
+        "end": 1860,
+        "string": " "
+      },
+      {
+        "start": 1860,
+        "end": 1868,
+        "string": "Sanders"
+      },
+      {
+        "start": 1868,
+        "end": 1869,
+        "string": " "
+      },
+      {
+        "start": 1869,
+        "end": 1874,
+        "string": "also"
+      },
+      {
+        "start": 1874,
+        "end": 1875,
+        "string": " "
+      },
+      {
+        "start": 1875,
+        "end": 1880,
+        "string": "said"
+      },
+      {
+        "start": 1880,
+        "end": 1881,
+        "string": " "
+      },
+      {
+        "start": 1881,
+        "end": 1888,
+        "string": "during"
+      },
+      {
+        "start": 1888,
+        "end": 1889,
+        "string": " "
+      },
+      {
+        "start": 1889,
+        "end": 1893,
+        "string": "the"
+      },
+      {
+        "start": 1893,
+        "end": 1894,
+        "string": " "
+      },
+      {
+        "start": 1894,
+        "end": 1904,
+        "string": "interview"
+      },
+      {
+        "start": 1904,
+        "end": 1905,
+        "string": " "
+      },
+      {
+        "start": 1905,
+        "end": 1910,
+        "string": "that"
+      },
+      {
+        "start": 1910,
+        "end": 1911,
+        "string": " "
+      },
+      {
+        "start": 1911,
+        "end": 1922,
+        "string": "addressing"
+      },
+      {
+        "start": 1922,
+        "end": 1923,
+        "string": " "
+      },
+      {
+        "start": 1923,
+        "end": 1927,
+        "string": "the"
+      },
+      {
+        "start": 1927,
+        "end": 1928,
+        "string": " "
+      },
+      {
+        "start": 1928,
+        "end": 1934,
+        "string": "needs"
+      },
+      {
+        "start": 1934,
+        "end": 1935,
+        "string": " "
+      },
+      {
+        "start": 1935,
+        "end": 1938,
+        "string": "of"
+      },
+      {
+        "start": 1938,
+        "end": 1939,
+        "string": " "
+      },
+      {
+        "start": 1939,
+        "end": 1941,
+        "string": "\""
+      },
+      {
+        "start": 1941,
+        "end": 1942,
+        "string": " "
+      },
+      {
+        "start": 1942,
+        "end": 1953,
+        "string": "distressed"
+      },
+      {
+        "start": 1953,
+        "end": 1954,
+        "string": " "
+      },
+      {
+        "start": 1954,
+        "end": 1966,
+        "string": "communities"
+      },
+      {
+        "start": 1966,
+        "end": 1967,
+        "string": " "
+      },
+      {
+        "start": 1967,
+        "end": 1969,
+        "string": "\""
+      },
+      {
+        "start": 1969,
+        "end": 1970,
+        "string": " "
+      },
+      {
+        "start": 1970,
+        "end": 1973,
+        "string": "of"
+      },
+      {
+        "start": 1973,
+        "end": 1974,
+        "string": " "
+      },
+      {
+        "start": 1974,
+        "end": 1978,
+        "string": "all"
+      },
+      {
+        "start": 1978,
+        "end": 1979,
+        "string": " "
+      },
+      {
+        "start": 1979,
+        "end": 1985,
+        "string": "races"
+      },
+      {
+        "start": 1985,
+        "end": 1986,
+        "string": " "
+      },
+      {
+        "start": 1986,
+        "end": 1992,
+        "string": "would"
+      },
+      {
+        "start": 1992,
+        "end": 1993,
+        "string": " "
+      },
+      {
+        "start": 1993,
+        "end": 1996,
+        "string": "be"
+      },
+      {
+        "start": 1996,
+        "end": 1997,
+        "string": " "
+      },
+      {
+        "start": 1997,
+        "end": 1999,
+        "string": "a"
+      },
+      {
+        "start": 1999,
+        "end": 2000,
+        "string": " "
+      },
+      {
+        "start": 2000,
+        "end": 2004,
+        "string": "top"
+      },
+      {
+        "start": 2004,
+        "end": 2005,
+        "string": " "
+      },
+      {
+        "start": 2005,
+        "end": 2014,
+        "string": "priority"
+      },
+      {
+        "start": 2014,
+        "end": 2015,
+        "string": " "
+      },
+      {
+        "start": 2015,
+        "end": 2021,
+        "string": "under"
+      },
+      {
+        "start": 2021,
+        "end": 2022,
+        "string": " "
+      },
+      {
+        "start": 2022,
+        "end": 2026,
+        "string": "his"
+      },
+      {
+        "start": 2026,
+        "end": 2027,
+        "string": " "
+      },
+      {
+        "start": 2027,
+        "end": 2038,
+        "string": "presidency"
+      },
+      {
+        "start": 2038,
+        "end": 2039,
+        "string": " "
+      },
+      {
+        "start": 2039,
+        "end": 2041,
+        "string": "."
+      },
+      {
+        "start": 2041,
+        "end": 2042,
+        "string": " "
+      },
+      {
+        "start": 2042,
+        "end": 2044,
+        "string": "\""
+      },
+      {
+        "start": 2044,
+        "end": 2045,
+        "string": " "
+      },
+      {
+        "start": 2045,
+        "end": 2047,
+        "string": "I"
+      },
+      {
+        "start": 2047,
+        "end": 2048,
+        "string": " "
+      },
+      {
+        "start": 2048,
+        "end": 2054,
+        "string": "think"
+      },
+      {
+        "start": 2054,
+        "end": 2055,
+        "string": " "
+      },
+      {
+        "start": 2055,
+        "end": 2060,
+        "string": "what"
+      },
+      {
+        "start": 2060,
+        "end": 2061,
+        "string": " "
+      },
+      {
+        "start": 2061,
+        "end": 2064,
+        "string": "we"
+      },
+      {
+        "start": 2064,
+        "end": 2065,
+        "string": " "
+      },
+      {
+        "start": 2065,
+        "end": 2070,
+        "string": "have"
+      },
+      {
+        "start": 2070,
+        "end": 2071,
+        "string": " "
+      },
+      {
+        "start": 2071,
+        "end": 2075,
+        "string": "got"
+      },
+      {
+        "start": 2075,
+        "end": 2076,
+        "string": " "
+      },
+      {
+        "start": 2076,
+        "end": 2079,
+        "string": "to"
+      },
+      {
+        "start": 2079,
+        "end": 2080,
+        "string": " "
+      },
+      {
+        "start": 2080,
+        "end": 2083,
+        "string": "do"
+      },
+      {
+        "start": 2083,
+        "end": 2084,
+        "string": " "
+      },
+      {
+        "start": 2084,
+        "end": 2087,
+        "string": "is"
+      },
+      {
+        "start": 2087,
+        "end": 2088,
+        "string": " "
+      },
+      {
+        "start": 2088,
+        "end": 2092,
+        "string": "pay"
+      },
+      {
+        "start": 2092,
+        "end": 2093,
+        "string": " "
+      },
+      {
+        "start": 2093,
+        "end": 2103,
+        "string": "attention"
+      },
+      {
+        "start": 2103,
+        "end": 2104,
+        "string": " "
+      },
+      {
+        "start": 2104,
+        "end": 2107,
+        "string": "to"
+      },
+      {
+        "start": 2107,
+        "end": 2108,
+        "string": " "
+      },
+      {
+        "start": 2108,
+        "end": 2119,
+        "string": "distressed"
+      },
+      {
+        "start": 2119,
+        "end": 2120,
+        "string": " "
+      },
+      {
+        "start": 2120,
+        "end": 2132,
+        "string": "communities"
+      },
+      {
+        "start": 2132,
+        "end": 2133,
+        "string": " "
+      },
+      {
+        "start": 2133,
+        "end": 2135,
+        "string": ":"
+      },
+      {
+        "start": 2135,
+        "end": 2136,
+        "string": " "
+      },
+      {
+        "start": 2136,
+        "end": 2142,
+        "string": "black"
+      },
+      {
+        "start": 2142,
+        "end": 2143,
+        "string": " "
+      },
+      {
+        "start": 2143,
+        "end": 2155,
+        "string": "communities"
+      },
+      {
+        "start": 2155,
+        "end": 2156,
+        "string": " "
+      },
+      {
+        "start": 2156,
+        "end": 2158,
+        "string": ","
+      },
+      {
+        "start": 2158,
+        "end": 2159,
+        "string": " "
+      },
+      {
+        "start": 2159,
+        "end": 2166,
+        "string": "Latino"
+      },
+      {
+        "start": 2166,
+        "end": 2167,
+        "string": " "
+      },
+      {
+        "start": 2167,
+        "end": 2179,
+        "string": "communities"
+      },
+      {
+        "start": 2179,
+        "end": 2180,
+        "string": " "
+      },
+      {
+        "start": 2180,
+        "end": 2184,
+        "string": "and"
+      },
+      {
+        "start": 2184,
+        "end": 2185,
+        "string": " "
+      },
+      {
+        "start": 2185,
+        "end": 2191,
+        "string": "white"
+      },
+      {
+        "start": 2191,
+        "end": 2192,
+        "string": " "
+      },
+      {
+        "start": 2192,
+        "end": 2204,
+        "string": "communities"
+      },
+      {
+        "start": 2204,
+        "end": 2205,
+        "string": " "
+      },
+      {
+        "start": 2205,
+        "end": 2207,
+        "string": ","
+      },
+      {
+        "start": 2207,
+        "end": 2208,
+        "string": " "
+      },
+      {
+        "start": 2208,
+        "end": 2212,
+        "string": "and"
+      },
+      {
+        "start": 2212,
+        "end": 2213,
+        "string": " "
+      },
+      {
+        "start": 2213,
+        "end": 2216,
+        "string": "as"
+      },
+      {
+        "start": 2216,
+        "end": 2217,
+        "string": " "
+      },
+      {
+        "start": 2217,
+        "end": 2227,
+        "string": "president"
+      },
+      {
+        "start": 2227,
+        "end": 2228,
+        "string": " "
+      },
+      {
+        "start": 2228,
+        "end": 2230,
+        "string": ","
+      },
+      {
+        "start": 2230,
+        "end": 2231,
+        "string": " "
+      },
+      {
+        "start": 2231,
+        "end": 2233,
+        "string": "I"
+      },
+      {
+        "start": 2233,
+        "end": 2234,
+        "string": " "
+      },
+      {
+        "start": 2234,
+        "end": 2241,
+        "string": "pledge"
+      },
+      {
+        "start": 2241,
+        "end": 2242,
+        "string": " "
+      },
+      {
+        "start": 2242,
+        "end": 2245,
+        "string": "to"
+      },
+      {
+        "start": 2245,
+        "end": 2246,
+        "string": " "
+      },
+      {
+        "start": 2246,
+        "end": 2249,
+        "string": "do"
+      },
+      {
+        "start": 2249,
+        "end": 2250,
+        "string": " "
+      },
+      {
+        "start": 2250,
+        "end": 2255,
+        "string": "that"
+      },
+      {
+        "start": 2255,
+        "end": 2256,
+        "string": " "
+      },
+      {
+        "start": 2256,
+        "end": 2258,
+        "string": ","
+      },
+      {
+        "start": 2258,
+        "end": 2259,
+        "string": " "
+      },
+      {
+        "start": 2259,
+        "end": 2261,
+        "string": "\""
+      },
+      {
+        "start": 2261,
+        "end": 2262,
+        "string": " "
+      },
+      {
+        "start": 2262,
+        "end": 2270,
+        "string": "Sanders"
+      },
+      {
+        "start": 2270,
+        "end": 2271,
+        "string": " "
+      },
+      {
+        "start": 2271,
+        "end": 2276,
+        "string": "said"
+      },
+      {
+        "start": 2276,
+        "end": 2277,
+        "string": " "
+      },
+      {
+        "start": 2277,
+        "end": 2280,
+        "string": "in"
+      },
+      {
+        "start": 2280,
+        "end": 2281,
+        "string": " "
+      },
+      {
+        "start": 2281,
+        "end": 2285,
+        "string": "the"
+      },
+      {
+        "start": 2285,
+        "end": 2286,
+        "string": " "
+      },
+      {
+        "start": 2286,
+        "end": 2296,
+        "string": "interview"
+      },
+      {
+        "start": 2296,
+        "end": 2297,
+        "string": " "
+      },
+      {
+        "start": 2297,
+        "end": 2299,
+        "string": "."
+      },
+      {
+        "start": 2299,
+        "end": 2300,
+        "string": " "
+      },
+      {
+        "start": 2300,
+        "end": 2304,
+        "string": "The"
+      },
+      {
+        "start": 2304,
+        "end": 2305,
+        "string": " "
+      },
+      {
+        "start": 2305,
+        "end": 2313,
+        "string": "senator"
+      },
+      {
+        "start": 2313,
+        "end": 2314,
+        "string": " "
+      },
+      {
+        "start": 2314,
+        "end": 2316,
+        "string": ","
+      },
+      {
+        "start": 2316,
+        "end": 2317,
+        "string": " "
+      },
+      {
+        "start": 2317,
+        "end": 2321,
+        "string": "who"
+      },
+      {
+        "start": 2321,
+        "end": 2322,
+        "string": " "
+      },
+      {
+        "start": 2322,
+        "end": 2332,
+        "string": "announced"
+      },
+      {
+        "start": 2332,
+        "end": 2333,
+        "string": " "
+      },
+      {
+        "start": 2333,
+        "end": 2337,
+        "string": "his"
+      },
+      {
+        "start": 2337,
+        "end": 2338,
+        "string": " "
+      },
+      {
+        "start": 2338,
+        "end": 2351,
+        "string": "presidential"
+      },
+      {
+        "start": 2351,
+        "end": 2352,
+        "string": " "
+      },
+      {
+        "start": 2352,
+        "end": 2356,
+        "string": "bid"
+      },
+      {
+        "start": 2356,
+        "end": 2357,
+        "string": " "
+      },
+      {
+        "start": 2357,
+        "end": 2365,
+        "string": "earlier"
+      },
+      {
+        "start": 2365,
+        "end": 2366,
+        "string": " "
+      },
+      {
+        "start": 2366,
+        "end": 2371,
+        "string": "this"
+      },
+      {
+        "start": 2371,
+        "end": 2372,
+        "string": " "
+      },
+      {
+        "start": 2372,
+        "end": 2378,
+        "string": "month"
+      },
+      {
+        "start": 2378,
+        "end": 2379,
+        "string": " "
+      },
+      {
+        "start": 2379,
+        "end": 2381,
+        "string": ","
+      },
+      {
+        "start": 2381,
+        "end": 2382,
+        "string": " "
+      },
+      {
+        "start": 2382,
+        "end": 2386,
+        "string": "has"
+      },
+      {
+        "start": 2386,
+        "end": 2387,
+        "string": " "
+      },
+      {
+        "start": 2387,
+        "end": 2393,
+        "string": "faced"
+      },
+      {
+        "start": 2393,
+        "end": 2394,
+        "string": " "
+      },
+      {
+        "start": 2394,
+        "end": 2404,
+        "string": "criticism"
+      },
+      {
+        "start": 2404,
+        "end": 2405,
+        "string": " "
+      },
+      {
+        "start": 2405,
+        "end": 2408,
+        "string": "in"
+      },
+      {
+        "start": 2408,
+        "end": 2409,
+        "string": " "
+      },
+      {
+        "start": 2409,
+        "end": 2413,
+        "string": "the"
+      },
+      {
+        "start": 2413,
+        "end": 2414,
+        "string": " "
+      },
+      {
+        "start": 2414,
+        "end": 2419,
+        "string": "past"
+      },
+      {
+        "start": 2419,
+        "end": 2420,
+        "string": " "
+      },
+      {
+        "start": 2420,
+        "end": 2425,
+        "string": "that"
+      },
+      {
+        "start": 2425,
+        "end": 2426,
+        "string": " "
+      },
+      {
+        "start": 2426,
+        "end": 2430,
+        "string": "his"
+      },
+      {
+        "start": 2430,
+        "end": 2431,
+        "string": " "
+      },
+      {
+        "start": 2431,
+        "end": 2436,
+        "string": "2016"
+      },
+      {
+        "start": 2436,
+        "end": 2437,
+        "string": " "
+      },
+      {
+        "start": 2437,
+        "end": 2446,
+        "string": "campaign"
+      },
+      {
+        "start": 2446,
+        "end": 2447,
+        "string": " "
+      },
+      {
+        "start": 2447,
+        "end": 2452,
+        "string": "team"
+      },
+      {
+        "start": 2452,
+        "end": 2453,
+        "string": " "
+      },
+      {
+        "start": 2453,
+        "end": 2457,
+        "string": "was"
+      },
+      {
+        "start": 2457,
+        "end": 2458,
+        "string": " "
+      },
+      {
+        "start": 2458,
+        "end": 2462,
+        "string": "not"
+      },
+      {
+        "start": 2462,
+        "end": 2463,
+        "string": " "
+      },
+      {
+        "start": 2463,
+        "end": 2471,
+        "string": "diverse"
+      },
+      {
+        "start": 2471,
+        "end": 2472,
+        "string": " "
+      },
+      {
+        "start": 2472,
+        "end": 2479,
+        "string": "enough"
+      },
+      {
+        "start": 2479,
+        "end": 2480,
+        "string": " "
+      },
+      {
+        "start": 2480,
+        "end": 2482,
+        "string": "."
+      },
+      {
+        "start": 2482,
+        "end": 2483,
+        "string": " "
+      },
+      {
+        "start": 2483,
+        "end": 2487,
+        "string": "His"
+      },
+      {
+        "start": 2487,
+        "end": 2488,
+        "string": " "
+      },
+      {
+        "start": 2488,
+        "end": 2493,
+        "string": "2020"
+      },
+      {
+        "start": 2493,
+        "end": 2494,
+        "string": " "
+      },
+      {
+        "start": 2494,
+        "end": 2503,
+        "string": "campaign"
+      },
+      {
+        "start": 2503,
+        "end": 2504,
+        "string": " "
+      },
+      {
+        "start": 2504,
+        "end": 2514,
+        "string": "co-chairs"
+      },
+      {
+        "start": 2514,
+        "end": 2515,
+        "string": " "
+      },
+      {
+        "start": 2515,
+        "end": 2523,
+        "string": "include"
+      },
+      {
+        "start": 2523,
+        "end": 2524,
+        "string": " "
+      },
+      {
+        "start": 2524,
+        "end": 2529,
+        "string": "Nina"
+      },
+      {
+        "start": 2529,
+        "end": 2530,
+        "string": " "
+      },
+      {
+        "start": 2530,
+        "end": 2537,
+        "string": "Turner"
+      },
+      {
+        "start": 2537,
+        "end": 2538,
+        "string": " "
+      },
+      {
+        "start": 2538,
+        "end": 2540,
+        "string": ","
+      },
+      {
+        "start": 2540,
+        "end": 2541,
+        "string": " "
+      },
+      {
+        "start": 2541,
+        "end": 2545,
+        "string": "the"
+      },
+      {
+        "start": 2545,
+        "end": 2546,
+        "string": " "
+      },
+      {
+        "start": 2546,
+        "end": 2551,
+        "string": "head"
+      },
+      {
+        "start": 2551,
+        "end": 2552,
+        "string": " "
+      },
+      {
+        "start": 2552,
+        "end": 2555,
+        "string": "of"
+      },
+      {
+        "start": 2555,
+        "end": 2556,
+        "string": " "
+      },
+      {
+        "start": 2556,
+        "end": 2560,
+        "string": "his"
+      },
+      {
+        "start": 2560,
+        "end": 2561,
+        "string": " "
+      },
+      {
+        "start": 2561,
+        "end": 2565,
+        "string": "Our"
+      },
+      {
+        "start": 2565,
+        "end": 2566,
+        "string": " "
+      },
+      {
+        "start": 2566,
+        "end": 2577,
+        "string": "Revolution"
+      },
+      {
+        "start": 2577,
+        "end": 2578,
+        "string": " "
+      },
+      {
+        "start": 2578,
+        "end": 2591,
+        "string": "organization"
+      },
+      {
+        "start": 2591,
+        "end": 2592,
+        "string": " "
+      },
+      {
+        "start": 2592,
+        "end": 2594,
+        "string": "."
+      },
+      {
+        "start": 2594,
+        "end": 2595,
+        "string": " "
+      },
+      {
+        "start": 2595,
+        "end": 2599,
+        "string": "The"
+      },
+      {
+        "start": 2599,
+        "end": 2600,
+        "string": " "
+      },
+      {
+        "start": 2600,
+        "end": 2608,
+        "string": "senator"
+      },
+      {
+        "start": 2608,
+        "end": 2609,
+        "string": " "
+      },
+      {
+        "start": 2609,
+        "end": 2613,
+        "string": "has"
+      },
+      {
+        "start": 2613,
+        "end": 2614,
+        "string": " "
+      },
+      {
+        "start": 2614,
+        "end": 2619,
+        "string": "also"
+      },
+      {
+        "start": 2619,
+        "end": 2620,
+        "string": " "
+      },
+      {
+        "start": 2620,
+        "end": 2627,
+        "string": "tapped"
+      },
+      {
+        "start": 2627,
+        "end": 2628,
+        "string": " "
+      },
+      {
+        "start": 2628,
+        "end": 2633,
+        "string": "Faiz"
+      },
+      {
+        "start": 2633,
+        "end": 2634,
+        "string": " "
+      },
+      {
+        "start": 2634,
+        "end": 2641,
+        "string": "Shakir"
+      },
+      {
+        "start": 2641,
+        "end": 2642,
+        "string": " "
+      },
+      {
+        "start": 2642,
+        "end": 2644,
+        "string": ","
+      },
+      {
+        "start": 2644,
+        "end": 2645,
+        "string": " "
+      },
+      {
+        "start": 2645,
+        "end": 2647,
+        "string": "a"
+      },
+      {
+        "start": 2647,
+        "end": 2648,
+        "string": " "
+      },
+      {
+        "start": 2648,
+        "end": 2660,
+        "string": "progressive"
+      },
+      {
+        "start": 2660,
+        "end": 2661,
+        "string": " "
+      },
+      {
+        "start": 2661,
+        "end": 2670,
+        "string": "activist"
+      },
+      {
+        "start": 2670,
+        "end": 2671,
+        "string": " "
+      },
+      {
+        "start": 2671,
+        "end": 2675,
+        "string": "and"
+      },
+      {
+        "start": 2675,
+        "end": 2676,
+        "string": " "
+      },
+      {
+        "start": 2676,
+        "end": 2678,
+        "string": "a"
+      },
+      {
+        "start": 2678,
+        "end": 2679,
+        "string": " "
+      },
+      {
+        "start": 2679,
+        "end": 2686,
+        "string": "Muslim"
+      },
+      {
+        "start": 2686,
+        "end": 2687,
+        "string": " "
+      },
+      {
+        "start": 2687,
+        "end": 2689,
+        "string": ","
+      },
+      {
+        "start": 2689,
+        "end": 2690,
+        "string": " "
+      },
+      {
+        "start": 2690,
+        "end": 2693,
+        "string": "to"
+      },
+      {
+        "start": 2693,
+        "end": 2694,
+        "string": " "
+      },
+      {
+        "start": 2694,
+        "end": 2701,
+        "string": "manage"
+      },
+      {
+        "start": 2701,
+        "end": 2702,
+        "string": " "
+      },
+      {
+        "start": 2702,
+        "end": 2706,
+        "string": "his"
+      },
+      {
+        "start": 2706,
+        "end": 2707,
+        "string": " "
+      },
+      {
+        "start": 2707,
+        "end": 2716,
+        "string": "campaign"
+      },
+      {
+        "start": 2716,
+        "end": 2717,
+        "string": " "
+      },
+      {
+        "start": 2717,
+        "end": 2720,
+        "string": "in"
+      },
+      {
+        "start": 2720,
+        "end": 2721,
+        "string": " "
+      },
+      {
+        "start": 2721,
+        "end": 2726,
+        "string": "what"
+      },
+      {
+        "start": 2726,
+        "end": 2727,
+        "string": " "
+      },
+      {
+        "start": 2727,
+        "end": 2730,
+        "string": "is"
+      },
+      {
+        "start": 2730,
+        "end": 2731,
+        "string": " "
+      },
+      {
+        "start": 2731,
+        "end": 2740,
+        "string": "believed"
+      },
+      {
+        "start": 2740,
+        "end": 2741,
+        "string": " "
+      },
+      {
+        "start": 2741,
+        "end": 2744,
+        "string": "to"
+      },
+      {
+        "start": 2744,
+        "end": 2745,
+        "string": " "
+      },
+      {
+        "start": 2745,
+        "end": 2748,
+        "string": "be"
+      },
+      {
+        "start": 2748,
+        "end": 2749,
+        "string": " "
+      },
+      {
+        "start": 2749,
+        "end": 2753,
+        "string": "the"
+      },
+      {
+        "start": 2753,
+        "end": 2754,
+        "string": " "
+      },
+      {
+        "start": 2754,
+        "end": 2760,
+        "string": "first"
+      },
+      {
+        "start": 2760,
+        "end": 2761,
+        "string": " "
+      },
+      {
+        "start": 2761,
+        "end": 2770,
+        "string": "instance"
+      },
+      {
+        "start": 2770,
+        "end": 2771,
+        "string": " "
+      },
+      {
+        "start": 2771,
+        "end": 2774,
+        "string": "of"
+      },
+      {
+        "start": 2774,
+        "end": 2775,
+        "string": " "
+      },
+      {
+        "start": 2775,
+        "end": 2777,
+        "string": "a"
+      },
+      {
+        "start": 2777,
+        "end": 2778,
+        "string": " "
+      },
+      {
+        "start": 2778,
+        "end": 2785,
+        "string": "Muslim"
+      },
+      {
+        "start": 2785,
+        "end": 2786,
+        "string": " "
+      },
+      {
+        "start": 2786,
+        "end": 2795,
+        "string": "American"
+      },
+      {
+        "start": 2795,
+        "end": 2796,
+        "string": " "
+      },
+      {
+        "start": 2796,
+        "end": 2804,
+        "string": "running"
+      },
+      {
+        "start": 2804,
+        "end": 2805,
+        "string": " "
+      },
+      {
+        "start": 2805,
+        "end": 2807,
+        "string": "a"
+      },
+      {
+        "start": 2807,
+        "end": 2808,
+        "string": " "
+      },
+      {
+        "start": 2808,
+        "end": 2814,
+        "string": "major"
+      },
+      {
+        "start": 2814,
+        "end": 2815,
+        "string": " "
+      },
+      {
+        "start": 2815,
+        "end": 2828,
+        "string": "presidential"
+      },
+      {
+        "start": 2828,
+        "end": 2829,
+        "string": " "
+      },
+      {
+        "start": 2829,
+        "end": 2838,
+        "string": "campaign"
+      },
+      {
+        "start": 2838,
+        "end": 2839,
+        "string": " "
+      },
+      {
+        "start": 2839,
+        "end": 2841,
+        "string": "."
+      },
+      {
+        "start": 2841,
+        "end": 2842,
+        "string": " "
+      }
+    ]
+  }
+}

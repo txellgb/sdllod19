@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "a7c94b0d44254e6592cbbfe9a875a7fe.doc",
+  "metadata": {
+    "title": "China's manufacturing sector shrinks again in February: Caixin PMI",
+    "sourceUrl": "https://www.oann.com/chinas-manufacturing-sector-shrinks-again-in-february-caixin-pmi/",
+    "documentSource": "oann.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

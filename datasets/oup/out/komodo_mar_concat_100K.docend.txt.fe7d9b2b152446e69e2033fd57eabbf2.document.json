@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "fe7d9b2b152446e69e2033fd57eabbf2.doc",
+  "metadata": {
+    "title": "ASIC says it is yet to serve GetSwift directors Joel Macdonald, Bane Hunter",
+    "sourceUrl": "https://www.afr.com/technology/asic-says-it-is-yet-to-serve-getswift-directors-joel-macdonald-bane-hunter-20190301-h1bvd7",
+    "documentSource": "afr.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

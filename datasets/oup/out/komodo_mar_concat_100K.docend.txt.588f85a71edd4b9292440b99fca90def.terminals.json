@@ -1,0 +1,1391 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "588f85a71edd4b9292440b99fca90def.doc",
+  "id": "588f85a71edd4b9292440b99fca90def.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "588f85a71edd4b9292440b99fca90def.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 6,
+        "string": "After"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "string": " "
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "string": "their"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "string": "shock"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "string": "defeat"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "string": "to"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "string": "Huddersfield"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 56,
+        "string": "mid-week"
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "string": ","
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "string": " "
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "string": "the"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 75,
+        "string": "Wanderers"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 81,
+        "string": "will"
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "string": " "
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "string": "be"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 94,
+        "string": "looking"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "string": "to"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 106,
+        "string": "bounce"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 112,
+        "string": "back"
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "string": " "
+      },
+      {
+        "start": 113,
+        "end": 121,
+        "string": "against"
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "string": " "
+      },
+      {
+        "start": 122,
+        "end": 126,
+        "string": "the"
+      },
+      {
+        "start": 126,
+        "end": 127,
+        "string": " "
+      },
+      {
+        "start": 127,
+        "end": 138,
+        "string": "struggling"
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "string": " "
+      },
+      {
+        "start": 139,
+        "end": 149,
+        "string": "Bluebirds"
+      },
+      {
+        "start": 149,
+        "end": 150,
+        "string": " "
+      },
+      {
+        "start": 150,
+        "end": 158,
+        "string": "CARDIFF"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 162,
+        "string": "'S"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 174,
+        "string": "relegation"
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 182,
+        "string": "battle"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "string": " "
+      },
+      {
+        "start": 183,
+        "end": 193,
+        "string": "continues"
+      },
+      {
+        "start": 193,
+        "end": 194,
+        "string": " "
+      },
+      {
+        "start": 194,
+        "end": 202,
+        "string": "against"
+      },
+      {
+        "start": 202,
+        "end": 203,
+        "string": " "
+      },
+      {
+        "start": 203,
+        "end": 210,
+        "string": "Wolves"
+      },
+      {
+        "start": 210,
+        "end": 211,
+        "string": " "
+      },
+      {
+        "start": 211,
+        "end": 213,
+        "string": "."
+      },
+      {
+        "start": 213,
+        "end": 214,
+        "string": " "
+      },
+      {
+        "start": 214,
+        "end": 219,
+        "string": "Neil"
+      },
+      {
+        "start": 219,
+        "end": 220,
+        "string": " "
+      },
+      {
+        "start": 220,
+        "end": 228,
+        "string": "Warnock"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 235,
+        "string": "wants"
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      },
+      {
+        "start": 236,
+        "end": 240,
+        "string": "his"
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 246,
+        "string": "side"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 250,
+        "string": "to"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 254,
+        "string": "go"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 258,
+        "string": "to"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 263,
+        "string": "war"
+      },
+      {
+        "start": 263,
+        "end": 264,
+        "string": " "
+      },
+      {
+        "start": 264,
+        "end": 272,
+        "string": "against"
+      },
+      {
+        "start": 272,
+        "end": 273,
+        "string": " "
+      },
+      {
+        "start": 273,
+        "end": 280,
+        "string": "Wolves"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 283,
+        "string": ","
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 292,
+        "string": "looking"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 297,
+        "string": "for"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 306,
+        "string": "players"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 310,
+        "string": "to"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 314,
+        "string": "be"
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 317,
+        "string": "\""
+      },
+      {
+        "start": 317,
+        "end": 318,
+        "string": " "
+      },
+      {
+        "start": 318,
+        "end": 321,
+        "string": "in"
+      },
+      {
+        "start": 321,
+        "end": 322,
+        "string": " "
+      },
+      {
+        "start": 322,
+        "end": 326,
+        "string": "the"
+      },
+      {
+        "start": 326,
+        "end": 327,
+        "string": " "
+      },
+      {
+        "start": 327,
+        "end": 336,
+        "string": "trenches"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 339,
+        "string": "\""
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 344,
+        "string": "but"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 350,
+        "string": "Nuno"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 360,
+        "string": "Espirito"
+      },
+      {
+        "start": 360,
+        "end": 361,
+        "string": " "
+      },
+      {
+        "start": 361,
+        "end": 367,
+        "string": "Santo"
+      },
+      {
+        "start": 367,
+        "end": 368,
+        "string": " "
+      },
+      {
+        "start": 368,
+        "end": 371,
+        "string": "'s"
+      },
+      {
+        "start": 371,
+        "end": 372,
+        "string": " "
+      },
+      {
+        "start": 372,
+        "end": 376,
+        "string": "men"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 382,
+        "string": "will"
+      },
+      {
+        "start": 382,
+        "end": 383,
+        "string": " "
+      },
+      {
+        "start": 383,
+        "end": 393,
+        "string": "certainly"
+      },
+      {
+        "start": 393,
+        "end": 394,
+        "string": " "
+      },
+      {
+        "start": 394,
+        "end": 397,
+        "string": "be"
+      },
+      {
+        "start": 397,
+        "end": 398,
+        "string": " "
+      },
+      {
+        "start": 398,
+        "end": 401,
+        "string": "up"
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 406,
+        "string": "for"
+      },
+      {
+        "start": 406,
+        "end": 407,
+        "string": " "
+      },
+      {
+        "start": 407,
+        "end": 411,
+        "string": "the"
+      },
+      {
+        "start": 411,
+        "end": 412,
+        "string": " "
+      },
+      {
+        "start": 412,
+        "end": 418,
+        "string": "fight"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 425,
+        "string": "after"
+      },
+      {
+        "start": 425,
+        "end": 426,
+        "string": " "
+      },
+      {
+        "start": 426,
+        "end": 432,
+        "string": "their"
+      },
+      {
+        "start": 432,
+        "end": 433,
+        "string": " "
+      },
+      {
+        "start": 433,
+        "end": 440,
+        "string": "recent"
+      },
+      {
+        "start": 440,
+        "end": 441,
+        "string": " "
+      },
+      {
+        "start": 441,
+        "end": 446,
+        "string": "loss"
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 450,
+        "string": "to"
+      },
+      {
+        "start": 450,
+        "end": 451,
+        "string": " "
+      },
+      {
+        "start": 451,
+        "end": 464,
+        "string": "Huddersfield"
+      },
+      {
+        "start": 464,
+        "end": 465,
+        "string": " "
+      },
+      {
+        "start": 465,
+        "end": 467,
+        "string": "."
+      },
+      {
+        "start": 467,
+        "end": 468,
+        "string": " "
+      },
+      {
+        "start": 468,
+        "end": 473,
+        "string": "THIS"
+      },
+      {
+        "start": 473,
+        "end": 474,
+        "string": " "
+      },
+      {
+        "start": 474,
+        "end": 482,
+        "string": "Premier"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 490,
+        "string": "League"
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "string": " "
+      },
+      {
+        "start": 491,
+        "end": 498,
+        "string": "battle"
+      },
+      {
+        "start": 498,
+        "end": 499,
+        "string": " "
+      },
+      {
+        "start": 499,
+        "end": 504,
+        "string": "will"
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 508,
+        "string": "be"
+      },
+      {
+        "start": 508,
+        "end": 509,
+        "string": " "
+      },
+      {
+        "start": 509,
+        "end": 514,
+        "string": "held"
+      },
+      {
+        "start": 514,
+        "end": 515,
+        "string": " "
+      },
+      {
+        "start": 515,
+        "end": 518,
+        "string": "on"
+      },
+      {
+        "start": 518,
+        "end": 519,
+        "string": " "
+      },
+      {
+        "start": 519,
+        "end": 528,
+        "string": "Saturday"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 531,
+        "string": ","
+      },
+      {
+        "start": 531,
+        "end": 532,
+        "string": " "
+      },
+      {
+        "start": 532,
+        "end": 538,
+        "string": "March"
+      },
+      {
+        "start": 538,
+        "end": 539,
+        "string": " "
+      },
+      {
+        "start": 539,
+        "end": 541,
+        "string": "2"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 544,
+        "string": "."
+      },
+      {
+        "start": 544,
+        "end": 545,
+        "string": " "
+      },
+      {
+        "start": 545,
+        "end": 548,
+        "string": "It"
+      },
+      {
+        "start": 548,
+        "end": 549,
+        "string": " "
+      },
+      {
+        "start": 549,
+        "end": 555,
+        "string": "falls"
+      },
+      {
+        "start": 555,
+        "end": 556,
+        "string": " "
+      },
+      {
+        "start": 556,
+        "end": 562,
+        "string": "under"
+      },
+      {
+        "start": 562,
+        "end": 563,
+        "string": " "
+      },
+      {
+        "start": 563,
+        "end": 567,
+        "string": "the"
+      },
+      {
+        "start": 567,
+        "end": 568,
+        "string": " "
+      },
+      {
+        "start": 568,
+        "end": 572,
+        "string": "3pm"
+      },
+      {
+        "start": 572,
+        "end": 573,
+        "string": " "
+      },
+      {
+        "start": 573,
+        "end": 581,
+        "string": "blanket"
+      },
+      {
+        "start": 581,
+        "end": 582,
+        "string": " "
+      },
+      {
+        "start": 582,
+        "end": 586,
+        "string": "ban"
+      },
+      {
+        "start": 586,
+        "end": 587,
+        "string": " "
+      },
+      {
+        "start": 587,
+        "end": 591,
+        "string": "for"
+      },
+      {
+        "start": 591,
+        "end": 592,
+        "string": " "
+      },
+      {
+        "start": 592,
+        "end": 601,
+        "string": "coverage"
+      },
+      {
+        "start": 601,
+        "end": 602,
+        "string": " "
+      },
+      {
+        "start": 602,
+        "end": 604,
+        "string": ","
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 614,
+        "string": "although"
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 620,
+        "string": "here"
+      },
+      {
+        "start": 620,
+        "end": 621,
+        "string": " "
+      },
+      {
+        "start": 621,
+        "end": 624,
+        "string": "at"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 634,
+        "string": "SunSport"
+      },
+      {
+        "start": 634,
+        "end": 635,
+        "string": " "
+      },
+      {
+        "start": 635,
+        "end": 638,
+        "string": "we"
+      },
+      {
+        "start": 638,
+        "end": 639,
+        "string": " "
+      },
+      {
+        "start": 639,
+        "end": 644,
+        "string": "will"
+      },
+      {
+        "start": 644,
+        "end": 645,
+        "string": " "
+      },
+      {
+        "start": 645,
+        "end": 648,
+        "string": "be"
+      },
+      {
+        "start": 648,
+        "end": 649,
+        "string": " "
+      },
+      {
+        "start": 649,
+        "end": 657,
+        "string": "running"
+      },
+      {
+        "start": 657,
+        "end": 658,
+        "string": " "
+      },
+      {
+        "start": 658,
+        "end": 660,
+        "string": "a"
+      },
+      {
+        "start": 660,
+        "end": 661,
+        "string": " "
+      },
+      {
+        "start": 661,
+        "end": 666,
+        "string": "LIVE"
+      },
+      {
+        "start": 666,
+        "end": 667,
+        "string": " "
+      },
+      {
+        "start": 667,
+        "end": 672,
+        "string": "BLOG"
+      },
+      {
+        "start": 672,
+        "end": 673,
+        "string": " "
+      },
+      {
+        "start": 673,
+        "end": 675,
+        "string": "."
+      },
+      {
+        "start": 675,
+        "end": 676,
+        "string": " "
+      },
+      {
+        "start": 676,
+        "end": 683,
+        "string": "Wolves"
+      },
+      {
+        "start": 683,
+        "end": 684,
+        "string": " "
+      },
+      {
+        "start": 684,
+        "end": 694,
+        "string": "currently"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 700,
+        "string": "have"
+      },
+      {
+        "start": 700,
+        "end": 701,
+        "string": " "
+      },
+      {
+        "start": 701,
+        "end": 704,
+        "string": "no"
+      },
+      {
+        "start": 704,
+        "end": 705,
+        "string": " "
+      },
+      {
+        "start": 705,
+        "end": 714,
+        "string": "injuries"
+      },
+      {
+        "start": 714,
+        "end": 715,
+        "string": " "
+      },
+      {
+        "start": 715,
+        "end": 718,
+        "string": "or"
+      },
+      {
+        "start": 718,
+        "end": 719,
+        "string": " "
+      },
+      {
+        "start": 719,
+        "end": 731,
+        "string": "suspensions"
+      },
+      {
+        "start": 731,
+        "end": 732,
+        "string": " "
+      },
+      {
+        "start": 732,
+        "end": 734,
+        "string": "."
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 743,
+        "string": "Cardiff"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 749,
+        "string": "will"
+      },
+      {
+        "start": 749,
+        "end": 750,
+        "string": " "
+      },
+      {
+        "start": 750,
+        "end": 753,
+        "string": "be"
+      },
+      {
+        "start": 753,
+        "end": 754,
+        "string": " "
+      },
+      {
+        "start": 754,
+        "end": 762,
+        "string": "pleased"
+      },
+      {
+        "start": 762,
+        "end": 763,
+        "string": " "
+      },
+      {
+        "start": 763,
+        "end": 766,
+        "string": "to"
+      },
+      {
+        "start": 766,
+        "end": 767,
+        "string": " "
+      },
+      {
+        "start": 767,
+        "end": 771,
+        "string": "see"
+      },
+      {
+        "start": 771,
+        "end": 772,
+        "string": " "
+      },
+      {
+        "start": 772,
+        "end": 778,
+        "string": "Oumar"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 786,
+        "string": "Niasse"
+      },
+      {
+        "start": 786,
+        "end": 787,
+        "string": " "
+      },
+      {
+        "start": 787,
+        "end": 789,
+        "string": ","
+      },
+      {
+        "start": 789,
+        "end": 790,
+        "string": " "
+      },
+      {
+        "start": 790,
+        "end": 794,
+        "string": "Joe"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 801,
+        "string": "Ralls"
+      },
+      {
+        "start": 801,
+        "end": 802,
+        "string": " "
+      },
+      {
+        "start": 802,
+        "end": 804,
+        "string": ","
+      },
+      {
+        "start": 804,
+        "end": 805,
+        "string": " "
+      },
+      {
+        "start": 805,
+        "end": 811,
+        "string": "Harry"
+      },
+      {
+        "start": 811,
+        "end": 812,
+        "string": " "
+      },
+      {
+        "start": 812,
+        "end": 818,
+        "string": "Arter"
+      },
+      {
+        "start": 818,
+        "end": 819,
+        "string": " "
+      },
+      {
+        "start": 819,
+        "end": 823,
+        "string": "and"
+      },
+      {
+        "start": 823,
+        "end": 824,
+        "string": " "
+      },
+      {
+        "start": 824,
+        "end": 831,
+        "string": "Victor"
+      },
+      {
+        "start": 831,
+        "end": 832,
+        "string": " "
+      },
+      {
+        "start": 832,
+        "end": 841,
+        "string": "Camarasa"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 847,
+        "string": "back"
+      },
+      {
+        "start": 847,
+        "end": 848,
+        "string": " "
+      },
+      {
+        "start": 848,
+        "end": 852,
+        "string": "and"
+      },
+      {
+        "start": 852,
+        "end": 853,
+        "string": " "
+      },
+      {
+        "start": 853,
+        "end": 859,
+        "string": "ready"
+      },
+      {
+        "start": 859,
+        "end": 860,
+        "string": " "
+      },
+      {
+        "start": 860,
+        "end": 864,
+        "string": "for"
+      },
+      {
+        "start": 864,
+        "end": 865,
+        "string": " "
+      },
+      {
+        "start": 865,
+        "end": 872,
+        "string": "action"
+      },
+      {
+        "start": 872,
+        "end": 873,
+        "string": " "
+      },
+      {
+        "start": 873,
+        "end": 878,
+        "string": "this"
+      },
+      {
+        "start": 878,
+        "end": 879,
+        "string": " "
+      },
+      {
+        "start": 879,
+        "end": 887,
+        "string": "weekend"
+      },
+      {
+        "start": 887,
+        "end": 888,
+        "string": " "
+      },
+      {
+        "start": 888,
+        "end": 890,
+        "string": "."
+      },
+      {
+        "start": 890,
+        "end": 891,
+        "string": " "
+      }
+    ]
+  }
+}

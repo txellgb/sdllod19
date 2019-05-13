@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "060d51d8b63f40ce8cc7dc567b70d72b.doc",
+  "metadata": {
+    "title": "2020 Mercedes-Benz GLC 300 First Look | Kelley Blue Book",
+    "sourceUrl": "https://www.kbb.com/car-news/all-the-latest/2020-mercedes-benz-glc-300/2100006513/?category=all-the-latest&utm_source=feedburner&utm_medium=feed&utm_campaign=feed:+kbb-car-news+(kelley+blue+book+latest+news+&+articles+-+kelley+blue+book)",
+    "documentSource": "kbb.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

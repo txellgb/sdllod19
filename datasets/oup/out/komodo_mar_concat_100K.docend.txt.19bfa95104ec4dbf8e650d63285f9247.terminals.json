@@ -1,0 +1,5721 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "19bfa95104ec4dbf8e650d63285f9247.doc",
+  "id": "19bfa95104ec4dbf8e650d63285f9247.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "19bfa95104ec4dbf8e650d63285f9247.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "string": "BC"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "string": " "
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "string": "Utilities"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "string": "Commission"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "string": " "
+      },
+      {
+        "start": 32,
+        "end": 34,
+        "string": "("
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "string": "BCUC"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "string": ")"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "string": "approved"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "string": "the"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 69,
+        "string": "companies"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "string": "request"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "string": "to"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 90,
+        "string": "return"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "string": "to"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "string": "a"
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "string": " "
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "string": "single"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 108,
+        "string": ","
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "string": "flat"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "string": "rate"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 125,
+        "string": "for"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 130,
+        "string": "its"
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "string": " "
+      },
+      {
+        "start": 131,
+        "end": 143,
+        "string": "residential"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 156,
+        "string": "electricity"
+      },
+      {
+        "start": 156,
+        "end": 157,
+        "string": " "
+      },
+      {
+        "start": 157,
+        "end": 167,
+        "string": "customers"
+      },
+      {
+        "start": 167,
+        "end": 168,
+        "string": " "
+      },
+      {
+        "start": 168,
+        "end": 173,
+        "string": "over"
+      },
+      {
+        "start": 173,
+        "end": 174,
+        "string": " "
+      },
+      {
+        "start": 174,
+        "end": 176,
+        "string": "a"
+      },
+      {
+        "start": 176,
+        "end": 177,
+        "string": " "
+      },
+      {
+        "start": 177,
+        "end": 184,
+        "string": "period"
+      },
+      {
+        "start": 184,
+        "end": 185,
+        "string": " "
+      },
+      {
+        "start": 185,
+        "end": 188,
+        "string": "of"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 194,
+        "string": "five"
+      },
+      {
+        "start": 194,
+        "end": 195,
+        "string": " "
+      },
+      {
+        "start": 195,
+        "end": 201,
+        "string": "years"
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "string": " "
+      },
+      {
+        "start": 202,
+        "end": 204,
+        "string": "."
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 208,
+        "string": "In"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 211,
+        "string": "a"
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 218,
+        "string": "media"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 227,
+        "string": "release"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 237,
+        "string": "Thursday"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 240,
+        "string": ","
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 250,
+        "string": "FortisBC"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 256,
+        "string": "said"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 261,
+        "string": "the"
+      },
+      {
+        "start": 261,
+        "end": 262,
+        "string": " "
+      },
+      {
+        "start": 262,
+        "end": 265,
+        "string": "BC"
+      },
+      {
+        "start": 265,
+        "end": 266,
+        "string": " "
+      },
+      {
+        "start": 266,
+        "end": 276,
+        "string": "Utilities"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 288,
+        "string": "Commission"
+      },
+      {
+        "start": 288,
+        "end": 289,
+        "string": " "
+      },
+      {
+        "start": 289,
+        "end": 291,
+        "string": "("
+      },
+      {
+        "start": 291,
+        "end": 292,
+        "string": " "
+      },
+      {
+        "start": 292,
+        "end": 297,
+        "string": "BCUC"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 300,
+        "string": ")"
+      },
+      {
+        "start": 300,
+        "end": 301,
+        "string": " "
+      },
+      {
+        "start": 301,
+        "end": 310,
+        "string": "approved"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 315,
+        "string": "the"
+      },
+      {
+        "start": 315,
+        "end": 316,
+        "string": " "
+      },
+      {
+        "start": 316,
+        "end": 326,
+        "string": "companies"
+      },
+      {
+        "start": 326,
+        "end": 327,
+        "string": " "
+      },
+      {
+        "start": 327,
+        "end": 335,
+        "string": "request"
+      },
+      {
+        "start": 335,
+        "end": 336,
+        "string": " "
+      },
+      {
+        "start": 336,
+        "end": 339,
+        "string": "to"
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 347,
+        "string": "return"
+      },
+      {
+        "start": 347,
+        "end": 348,
+        "string": " "
+      },
+      {
+        "start": 348,
+        "end": 351,
+        "string": "to"
+      },
+      {
+        "start": 351,
+        "end": 352,
+        "string": " "
+      },
+      {
+        "start": 352,
+        "end": 354,
+        "string": "a"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 362,
+        "string": "single"
+      },
+      {
+        "start": 362,
+        "end": 363,
+        "string": " "
+      },
+      {
+        "start": 363,
+        "end": 365,
+        "string": ","
+      },
+      {
+        "start": 365,
+        "end": 366,
+        "string": " "
+      },
+      {
+        "start": 366,
+        "end": 371,
+        "string": "flat"
+      },
+      {
+        "start": 371,
+        "end": 372,
+        "string": " "
+      },
+      {
+        "start": 372,
+        "end": 377,
+        "string": "rate"
+      },
+      {
+        "start": 377,
+        "end": 378,
+        "string": " "
+      },
+      {
+        "start": 378,
+        "end": 382,
+        "string": "for"
+      },
+      {
+        "start": 382,
+        "end": 383,
+        "string": " "
+      },
+      {
+        "start": 383,
+        "end": 387,
+        "string": "its"
+      },
+      {
+        "start": 387,
+        "end": 388,
+        "string": " "
+      },
+      {
+        "start": 388,
+        "end": 400,
+        "string": "residential"
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 413,
+        "string": "electricity"
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 424,
+        "string": "customers"
+      },
+      {
+        "start": 424,
+        "end": 425,
+        "string": " "
+      },
+      {
+        "start": 425,
+        "end": 430,
+        "string": "over"
+      },
+      {
+        "start": 430,
+        "end": 431,
+        "string": " "
+      },
+      {
+        "start": 431,
+        "end": 433,
+        "string": "a"
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 441,
+        "string": "period"
+      },
+      {
+        "start": 441,
+        "end": 442,
+        "string": " "
+      },
+      {
+        "start": 442,
+        "end": 445,
+        "string": "of"
+      },
+      {
+        "start": 445,
+        "end": 446,
+        "string": " "
+      },
+      {
+        "start": 446,
+        "end": 451,
+        "string": "five"
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 458,
+        "string": "years"
+      },
+      {
+        "start": 458,
+        "end": 459,
+        "string": " "
+      },
+      {
+        "start": 459,
+        "end": 461,
+        "string": "."
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 466,
+        "string": "The"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 475,
+        "string": "release"
+      },
+      {
+        "start": 475,
+        "end": 476,
+        "string": " "
+      },
+      {
+        "start": 476,
+        "end": 481,
+        "string": "said"
+      },
+      {
+        "start": 481,
+        "end": 482,
+        "string": " "
+      },
+      {
+        "start": 482,
+        "end": 486,
+        "string": "the"
+      },
+      {
+        "start": 486,
+        "end": 487,
+        "string": " "
+      },
+      {
+        "start": 487,
+        "end": 495,
+        "string": "request"
+      },
+      {
+        "start": 495,
+        "end": 496,
+        "string": " "
+      },
+      {
+        "start": 496,
+        "end": 503,
+        "string": "formed"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 509,
+        "string": "part"
+      },
+      {
+        "start": 509,
+        "end": 510,
+        "string": " "
+      },
+      {
+        "start": 510,
+        "end": 513,
+        "string": "of"
+      },
+      {
+        "start": 513,
+        "end": 514,
+        "string": " "
+      },
+      {
+        "start": 514,
+        "end": 523,
+        "string": "FortisBC"
+      },
+      {
+        "start": 523,
+        "end": 524,
+        "string": " "
+      },
+      {
+        "start": 524,
+        "end": 527,
+        "string": "'s"
+      },
+      {
+        "start": 527,
+        "end": 528,
+        "string": " "
+      },
+      {
+        "start": 528,
+        "end": 533,
+        "string": "Cost"
+      },
+      {
+        "start": 533,
+        "end": 534,
+        "string": " "
+      },
+      {
+        "start": 534,
+        "end": 537,
+        "string": "of"
+      },
+      {
+        "start": 537,
+        "end": 538,
+        "string": " "
+      },
+      {
+        "start": 538,
+        "end": 546,
+        "string": "Service"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 556,
+        "string": "Analysis"
+      },
+      {
+        "start": 556,
+        "end": 557,
+        "string": " "
+      },
+      {
+        "start": 557,
+        "end": 561,
+        "string": "and"
+      },
+      {
+        "start": 561,
+        "end": 562,
+        "string": " "
+      },
+      {
+        "start": 562,
+        "end": 567,
+        "string": "Rate"
+      },
+      {
+        "start": 567,
+        "end": 568,
+        "string": " "
+      },
+      {
+        "start": 568,
+        "end": 575,
+        "string": "Design"
+      },
+      {
+        "start": 575,
+        "end": 576,
+        "string": " "
+      },
+      {
+        "start": 576,
+        "end": 588,
+        "string": "Application"
+      },
+      {
+        "start": 588,
+        "end": 589,
+        "string": " "
+      },
+      {
+        "start": 589,
+        "end": 591,
+        "string": ","
+      },
+      {
+        "start": 591,
+        "end": 592,
+        "string": " "
+      },
+      {
+        "start": 592,
+        "end": 602,
+        "string": "submitted"
+      },
+      {
+        "start": 602,
+        "end": 603,
+        "string": " "
+      },
+      {
+        "start": 603,
+        "end": 606,
+        "string": "to"
+      },
+      {
+        "start": 606,
+        "end": 607,
+        "string": " "
+      },
+      {
+        "start": 607,
+        "end": 611,
+        "string": "the"
+      },
+      {
+        "start": 611,
+        "end": 612,
+        "string": " "
+      },
+      {
+        "start": 612,
+        "end": 617,
+        "string": "BCUC"
+      },
+      {
+        "start": 617,
+        "end": 618,
+        "string": " "
+      },
+      {
+        "start": 618,
+        "end": 621,
+        "string": "in"
+      },
+      {
+        "start": 621,
+        "end": 622,
+        "string": " "
+      },
+      {
+        "start": 622,
+        "end": 631,
+        "string": "December"
+      },
+      {
+        "start": 631,
+        "end": 632,
+        "string": " "
+      },
+      {
+        "start": 632,
+        "end": 637,
+        "string": "2017"
+      },
+      {
+        "start": 637,
+        "end": 638,
+        "string": " "
+      },
+      {
+        "start": 638,
+        "end": 640,
+        "string": "."
+      },
+      {
+        "start": 640,
+        "end": 641,
+        "string": " "
+      },
+      {
+        "start": 641,
+        "end": 643,
+        "string": "\""
+      },
+      {
+        "start": 643,
+        "end": 644,
+        "string": " "
+      },
+      {
+        "start": 644,
+        "end": 647,
+        "string": "We"
+      },
+      {
+        "start": 647,
+        "end": 648,
+        "string": " "
+      },
+      {
+        "start": 648,
+        "end": 652,
+        "string": "'re"
+      },
+      {
+        "start": 652,
+        "end": 653,
+        "string": " "
+      },
+      {
+        "start": 653,
+        "end": 663,
+        "string": "satisfied"
+      },
+      {
+        "start": 663,
+        "end": 664,
+        "string": " "
+      },
+      {
+        "start": 664,
+        "end": 669,
+        "string": "with"
+      },
+      {
+        "start": 669,
+        "end": 670,
+        "string": " "
+      },
+      {
+        "start": 670,
+        "end": 675,
+        "string": "this"
+      },
+      {
+        "start": 675,
+        "end": 676,
+        "string": " "
+      },
+      {
+        "start": 676,
+        "end": 683,
+        "string": "result"
+      },
+      {
+        "start": 683,
+        "end": 684,
+        "string": " "
+      },
+      {
+        "start": 684,
+        "end": 686,
+        "string": ","
+      },
+      {
+        "start": 686,
+        "end": 687,
+        "string": " "
+      },
+      {
+        "start": 687,
+        "end": 689,
+        "string": "\""
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 695,
+        "string": "said"
+      },
+      {
+        "start": 695,
+        "end": 696,
+        "string": " "
+      },
+      {
+        "start": 696,
+        "end": 702,
+        "string": "Diane"
+      },
+      {
+        "start": 702,
+        "end": 703,
+        "string": " "
+      },
+      {
+        "start": 703,
+        "end": 707,
+        "string": "Roy"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 710,
+        "string": ","
+      },
+      {
+        "start": 710,
+        "end": 711,
+        "string": " "
+      },
+      {
+        "start": 711,
+        "end": 726,
+        "string": "vice-president"
+      },
+      {
+        "start": 726,
+        "end": 727,
+        "string": " "
+      },
+      {
+        "start": 727,
+        "end": 730,
+        "string": "of"
+      },
+      {
+        "start": 730,
+        "end": 731,
+        "string": " "
+      },
+      {
+        "start": 731,
+        "end": 742,
+        "string": "regulatory"
+      },
+      {
+        "start": 742,
+        "end": 743,
+        "string": " "
+      },
+      {
+        "start": 743,
+        "end": 751,
+        "string": "affairs"
+      },
+      {
+        "start": 751,
+        "end": 752,
+        "string": " "
+      },
+      {
+        "start": 752,
+        "end": 754,
+        "string": ","
+      },
+      {
+        "start": 754,
+        "end": 755,
+        "string": " "
+      },
+      {
+        "start": 755,
+        "end": 764,
+        "string": "FortisBC"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 768,
+        "string": "in"
+      },
+      {
+        "start": 768,
+        "end": 769,
+        "string": " "
+      },
+      {
+        "start": 769,
+        "end": 773,
+        "string": "the"
+      },
+      {
+        "start": 773,
+        "end": 774,
+        "string": " "
+      },
+      {
+        "start": 774,
+        "end": 780,
+        "string": "media"
+      },
+      {
+        "start": 780,
+        "end": 781,
+        "string": " "
+      },
+      {
+        "start": 781,
+        "end": 789,
+        "string": "release"
+      },
+      {
+        "start": 789,
+        "end": 790,
+        "string": " "
+      },
+      {
+        "start": 790,
+        "end": 792,
+        "string": "."
+      },
+      {
+        "start": 792,
+        "end": 793,
+        "string": " "
+      },
+      {
+        "start": 793,
+        "end": 795,
+        "string": "\""
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 803,
+        "string": "During"
+      },
+      {
+        "start": 803,
+        "end": 804,
+        "string": " "
+      },
+      {
+        "start": 804,
+        "end": 808,
+        "string": "the"
+      },
+      {
+        "start": 808,
+        "end": 809,
+        "string": " "
+      },
+      {
+        "start": 809,
+        "end": 814,
+        "string": "rate"
+      },
+      {
+        "start": 814,
+        "end": 815,
+        "string": " "
+      },
+      {
+        "start": 815,
+        "end": 822,
+        "string": "design"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 831,
+        "string": "process"
+      },
+      {
+        "start": 831,
+        "end": 832,
+        "string": " "
+      },
+      {
+        "start": 832,
+        "end": 834,
+        "string": ","
+      },
+      {
+        "start": 834,
+        "end": 835,
+        "string": " "
+      },
+      {
+        "start": 835,
+        "end": 838,
+        "string": "we"
+      },
+      {
+        "start": 838,
+        "end": 839,
+        "string": " "
+      },
+      {
+        "start": 839,
+        "end": 845,
+        "string": "heard"
+      },
+      {
+        "start": 845,
+        "end": 846,
+        "string": " "
+      },
+      {
+        "start": 846,
+        "end": 851,
+        "string": "from"
+      },
+      {
+        "start": 851,
+        "end": 852,
+        "string": " "
+      },
+      {
+        "start": 852,
+        "end": 857,
+        "string": "many"
+      },
+      {
+        "start": 857,
+        "end": 858,
+        "string": " "
+      },
+      {
+        "start": 858,
+        "end": 870,
+        "string": "residential"
+      },
+      {
+        "start": 870,
+        "end": 871,
+        "string": " "
+      },
+      {
+        "start": 871,
+        "end": 881,
+        "string": "customers"
+      },
+      {
+        "start": 881,
+        "end": 882,
+        "string": " "
+      },
+      {
+        "start": 882,
+        "end": 887,
+        "string": "with"
+      },
+      {
+        "start": 887,
+        "end": 888,
+        "string": " "
+      },
+      {
+        "start": 888,
+        "end": 897,
+        "string": "concerns"
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 904,
+        "string": "about"
+      },
+      {
+        "start": 904,
+        "end": 905,
+        "string": " "
+      },
+      {
+        "start": 905,
+        "end": 909,
+        "string": "the"
+      },
+      {
+        "start": 909,
+        "end": 910,
+        "string": " "
+      },
+      {
+        "start": 910,
+        "end": 921,
+        "string": "two-tiered"
+      },
+      {
+        "start": 921,
+        "end": 922,
+        "string": " "
+      },
+      {
+        "start": 922,
+        "end": 927,
+        "string": "rate"
+      },
+      {
+        "start": 927,
+        "end": 928,
+        "string": " "
+      },
+      {
+        "start": 928,
+        "end": 930,
+        "string": ","
+      },
+      {
+        "start": 930,
+        "end": 931,
+        "string": " "
+      },
+      {
+        "start": 931,
+        "end": 944,
+        "string": "particularly"
+      },
+      {
+        "start": 944,
+        "end": 945,
+        "string": " "
+      },
+      {
+        "start": 945,
+        "end": 951,
+        "string": "those"
+      },
+      {
+        "start": 951,
+        "end": 952,
+        "string": " "
+      },
+      {
+        "start": 952,
+        "end": 957,
+        "string": "with"
+      },
+      {
+        "start": 957,
+        "end": 958,
+        "string": " "
+      },
+      {
+        "start": 958,
+        "end": 963,
+        "string": "high"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 971,
+        "string": "energy"
+      },
+      {
+        "start": 971,
+        "end": 972,
+        "string": " "
+      },
+      {
+        "start": 972,
+        "end": 978,
+        "string": "needs"
+      },
+      {
+        "start": 978,
+        "end": 979,
+        "string": " "
+      },
+      {
+        "start": 979,
+        "end": 983,
+        "string": "and"
+      },
+      {
+        "start": 983,
+        "end": 984,
+        "string": " "
+      },
+      {
+        "start": 984,
+        "end": 992,
+        "string": "limited"
+      },
+      {
+        "start": 992,
+        "end": 993,
+        "string": " "
+      },
+      {
+        "start": 993,
+        "end": 1006,
+        "string": "conservation"
+      },
+      {
+        "start": 1006,
+        "end": 1007,
+        "string": " "
+      },
+      {
+        "start": 1007,
+        "end": 1015,
+        "string": "options"
+      },
+      {
+        "start": 1015,
+        "end": 1016,
+        "string": " "
+      },
+      {
+        "start": 1016,
+        "end": 1018,
+        "string": "."
+      },
+      {
+        "start": 1018,
+        "end": 1019,
+        "string": " "
+      },
+      {
+        "start": 1019,
+        "end": 1021,
+        "string": "A"
+      },
+      {
+        "start": 1021,
+        "end": 1022,
+        "string": " "
+      },
+      {
+        "start": 1022,
+        "end": 1030,
+        "string": "gradual"
+      },
+      {
+        "start": 1030,
+        "end": 1031,
+        "string": " "
+      },
+      {
+        "start": 1031,
+        "end": 1038,
+        "string": "return"
+      },
+      {
+        "start": 1038,
+        "end": 1039,
+        "string": " "
+      },
+      {
+        "start": 1039,
+        "end": 1042,
+        "string": "to"
+      },
+      {
+        "start": 1042,
+        "end": 1043,
+        "string": " "
+      },
+      {
+        "start": 1043,
+        "end": 1045,
+        "string": "a"
+      },
+      {
+        "start": 1045,
+        "end": 1046,
+        "string": " "
+      },
+      {
+        "start": 1046,
+        "end": 1051,
+        "string": "flat"
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1057,
+        "string": "rate"
+      },
+      {
+        "start": 1057,
+        "end": 1058,
+        "string": " "
+      },
+      {
+        "start": 1058,
+        "end": 1067,
+        "string": "balances"
+      },
+      {
+        "start": 1067,
+        "end": 1068,
+        "string": " "
+      },
+      {
+        "start": 1068,
+        "end": 1072,
+        "string": "the"
+      },
+      {
+        "start": 1072,
+        "end": 1073,
+        "string": " "
+      },
+      {
+        "start": 1073,
+        "end": 1083,
+        "string": "interests"
+      },
+      {
+        "start": 1083,
+        "end": 1084,
+        "string": " "
+      },
+      {
+        "start": 1084,
+        "end": 1087,
+        "string": "of"
+      },
+      {
+        "start": 1087,
+        "end": 1088,
+        "string": " "
+      },
+      {
+        "start": 1088,
+        "end": 1092,
+        "string": "our"
+      },
+      {
+        "start": 1092,
+        "end": 1093,
+        "string": " "
+      },
+      {
+        "start": 1093,
+        "end": 1105,
+        "string": "residential"
+      },
+      {
+        "start": 1105,
+        "end": 1106,
+        "string": " "
+      },
+      {
+        "start": 1106,
+        "end": 1116,
+        "string": "customers"
+      },
+      {
+        "start": 1116,
+        "end": 1117,
+        "string": " "
+      },
+      {
+        "start": 1117,
+        "end": 1119,
+        "string": "."
+      },
+      {
+        "start": 1119,
+        "end": 1120,
+        "string": " "
+      },
+      {
+        "start": 1120,
+        "end": 1122,
+        "string": "\""
+      },
+      {
+        "start": 1122,
+        "end": 1123,
+        "string": " "
+      },
+      {
+        "start": 1123,
+        "end": 1132,
+        "string": "FortisBC"
+      },
+      {
+        "start": 1132,
+        "end": 1133,
+        "string": " "
+      },
+      {
+        "start": 1133,
+        "end": 1138,
+        "string": "said"
+      },
+      {
+        "start": 1138,
+        "end": 1139,
+        "string": " "
+      },
+      {
+        "start": 1139,
+        "end": 1143,
+        "string": "the"
+      },
+      {
+        "start": 1143,
+        "end": 1144,
+        "string": " "
+      },
+      {
+        "start": 1144,
+        "end": 1155,
+        "string": "two-tiered"
+      },
+      {
+        "start": 1155,
+        "end": 1156,
+        "string": " "
+      },
+      {
+        "start": 1156,
+        "end": 1161,
+        "string": "rate"
+      },
+      {
+        "start": 1161,
+        "end": 1162,
+        "string": " "
+      },
+      {
+        "start": 1162,
+        "end": 1164,
+        "string": ","
+      },
+      {
+        "start": 1164,
+        "end": 1165,
+        "string": " "
+      },
+      {
+        "start": 1165,
+        "end": 1170,
+        "string": "also"
+      },
+      {
+        "start": 1170,
+        "end": 1171,
+        "string": " "
+      },
+      {
+        "start": 1171,
+        "end": 1177,
+        "string": "known"
+      },
+      {
+        "start": 1177,
+        "end": 1178,
+        "string": " "
+      },
+      {
+        "start": 1178,
+        "end": 1181,
+        "string": "as"
+      },
+      {
+        "start": 1181,
+        "end": 1182,
+        "string": " "
+      },
+      {
+        "start": 1182,
+        "end": 1186,
+        "string": "the"
+      },
+      {
+        "start": 1186,
+        "end": 1187,
+        "string": " "
+      },
+      {
+        "start": 1187,
+        "end": 1199,
+        "string": "residential"
+      },
+      {
+        "start": 1199,
+        "end": 1200,
+        "string": " "
+      },
+      {
+        "start": 1200,
+        "end": 1213,
+        "string": "conservation"
+      },
+      {
+        "start": 1213,
+        "end": 1214,
+        "string": " "
+      },
+      {
+        "start": 1214,
+        "end": 1219,
+        "string": "rate"
+      },
+      {
+        "start": 1219,
+        "end": 1220,
+        "string": " "
+      },
+      {
+        "start": 1220,
+        "end": 1222,
+        "string": "("
+      },
+      {
+        "start": 1222,
+        "end": 1223,
+        "string": " "
+      },
+      {
+        "start": 1223,
+        "end": 1227,
+        "string": "RCR"
+      },
+      {
+        "start": 1227,
+        "end": 1228,
+        "string": " "
+      },
+      {
+        "start": 1228,
+        "end": 1230,
+        "string": ")"
+      },
+      {
+        "start": 1230,
+        "end": 1231,
+        "string": " "
+      },
+      {
+        "start": 1231,
+        "end": 1233,
+        "string": ","
+      },
+      {
+        "start": 1233,
+        "end": 1234,
+        "string": " "
+      },
+      {
+        "start": 1234,
+        "end": 1238,
+        "string": "was"
+      },
+      {
+        "start": 1238,
+        "end": 1239,
+        "string": " "
+      },
+      {
+        "start": 1239,
+        "end": 1243,
+        "string": "put"
+      },
+      {
+        "start": 1243,
+        "end": 1244,
+        "string": " "
+      },
+      {
+        "start": 1244,
+        "end": 1247,
+        "string": "in"
+      },
+      {
+        "start": 1247,
+        "end": 1248,
+        "string": " "
+      },
+      {
+        "start": 1248,
+        "end": 1254,
+        "string": "place"
+      },
+      {
+        "start": 1254,
+        "end": 1255,
+        "string": " "
+      },
+      {
+        "start": 1255,
+        "end": 1258,
+        "string": "in"
+      },
+      {
+        "start": 1258,
+        "end": 1259,
+        "string": " "
+      },
+      {
+        "start": 1259,
+        "end": 1264,
+        "string": "2012"
+      },
+      {
+        "start": 1264,
+        "end": 1265,
+        "string": " "
+      },
+      {
+        "start": 1265,
+        "end": 1268,
+        "string": "at"
+      },
+      {
+        "start": 1268,
+        "end": 1269,
+        "string": " "
+      },
+      {
+        "start": 1269,
+        "end": 1273,
+        "string": "the"
+      },
+      {
+        "start": 1273,
+        "end": 1274,
+        "string": " "
+      },
+      {
+        "start": 1274,
+        "end": 1284,
+        "string": "direction"
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1288,
+        "string": "of"
+      },
+      {
+        "start": 1288,
+        "end": 1289,
+        "string": " "
+      },
+      {
+        "start": 1289,
+        "end": 1293,
+        "string": "the"
+      },
+      {
+        "start": 1293,
+        "end": 1294,
+        "string": " "
+      },
+      {
+        "start": 1294,
+        "end": 1299,
+        "string": "BCUC"
+      },
+      {
+        "start": 1299,
+        "end": 1300,
+        "string": " "
+      },
+      {
+        "start": 1300,
+        "end": 1303,
+        "string": "to"
+      },
+      {
+        "start": 1303,
+        "end": 1304,
+        "string": " "
+      },
+      {
+        "start": 1304,
+        "end": 1314,
+        "string": "encourage"
+      },
+      {
+        "start": 1314,
+        "end": 1315,
+        "string": " "
+      },
+      {
+        "start": 1315,
+        "end": 1322,
+        "string": "energy"
+      },
+      {
+        "start": 1322,
+        "end": 1323,
+        "string": " "
+      },
+      {
+        "start": 1323,
+        "end": 1336,
+        "string": "conservation"
+      },
+      {
+        "start": 1336,
+        "end": 1337,
+        "string": " "
+      },
+      {
+        "start": 1337,
+        "end": 1339,
+        "string": "."
+      },
+      {
+        "start": 1339,
+        "end": 1340,
+        "string": " "
+      },
+      {
+        "start": 1340,
+        "end": 1350,
+        "string": "Customers"
+      },
+      {
+        "start": 1350,
+        "end": 1351,
+        "string": " "
+      },
+      {
+        "start": 1351,
+        "end": 1355,
+        "string": "pay"
+      },
+      {
+        "start": 1355,
+        "end": 1356,
+        "string": " "
+      },
+      {
+        "start": 1356,
+        "end": 1358,
+        "string": "a"
+      },
+      {
+        "start": 1358,
+        "end": 1359,
+        "string": " "
+      },
+      {
+        "start": 1359,
+        "end": 1366,
+        "string": "higher"
+      },
+      {
+        "start": 1366,
+        "end": 1367,
+        "string": " "
+      },
+      {
+        "start": 1367,
+        "end": 1372,
+        "string": "rate"
+      },
+      {
+        "start": 1372,
+        "end": 1373,
+        "string": " "
+      },
+      {
+        "start": 1373,
+        "end": 1378,
+        "string": "when"
+      },
+      {
+        "start": 1378,
+        "end": 1379,
+        "string": " "
+      },
+      {
+        "start": 1379,
+        "end": 1385,
+        "string": "their"
+      },
+      {
+        "start": 1385,
+        "end": 1386,
+        "string": " "
+      },
+      {
+        "start": 1386,
+        "end": 1390,
+        "string": "use"
+      },
+      {
+        "start": 1390,
+        "end": 1391,
+        "string": " "
+      },
+      {
+        "start": 1391,
+        "end": 1399,
+        "string": "exceeds"
+      },
+      {
+        "start": 1399,
+        "end": 1400,
+        "string": " "
+      },
+      {
+        "start": 1400,
+        "end": 1406,
+        "string": "1,600"
+      },
+      {
+        "start": 1406,
+        "end": 1407,
+        "string": " "
+      },
+      {
+        "start": 1407,
+        "end": 1416,
+        "string": "kilowatt"
+      },
+      {
+        "start": 1416,
+        "end": 1417,
+        "string": " "
+      },
+      {
+        "start": 1417,
+        "end": 1423,
+        "string": "hours"
+      },
+      {
+        "start": 1423,
+        "end": 1424,
+        "string": " "
+      },
+      {
+        "start": 1424,
+        "end": 1426,
+        "string": "("
+      },
+      {
+        "start": 1426,
+        "end": 1427,
+        "string": " "
+      },
+      {
+        "start": 1427,
+        "end": 1431,
+        "string": "kWh"
+      },
+      {
+        "start": 1431,
+        "end": 1432,
+        "string": " "
+      },
+      {
+        "start": 1432,
+        "end": 1434,
+        "string": ")"
+      },
+      {
+        "start": 1434,
+        "end": 1435,
+        "string": " "
+      },
+      {
+        "start": 1435,
+        "end": 1440,
+        "string": "over"
+      },
+      {
+        "start": 1440,
+        "end": 1441,
+        "string": " "
+      },
+      {
+        "start": 1441,
+        "end": 1443,
+        "string": "a"
+      },
+      {
+        "start": 1443,
+        "end": 1444,
+        "string": " "
+      },
+      {
+        "start": 1444,
+        "end": 1454,
+        "string": "two-month"
+      },
+      {
+        "start": 1454,
+        "end": 1455,
+        "string": " "
+      },
+      {
+        "start": 1455,
+        "end": 1462,
+        "string": "period"
+      },
+      {
+        "start": 1462,
+        "end": 1463,
+        "string": " "
+      },
+      {
+        "start": 1463,
+        "end": 1465,
+        "string": "."
+      },
+      {
+        "start": 1465,
+        "end": 1466,
+        "string": " "
+      },
+      {
+        "start": 1466,
+        "end": 1470,
+        "string": "The"
+      },
+      {
+        "start": 1470,
+        "end": 1471,
+        "string": " "
+      },
+      {
+        "start": 1471,
+        "end": 1479,
+        "string": "company"
+      },
+      {
+        "start": 1479,
+        "end": 1480,
+        "string": " "
+      },
+      {
+        "start": 1480,
+        "end": 1485,
+        "string": "said"
+      },
+      {
+        "start": 1485,
+        "end": 1486,
+        "string": " "
+      },
+      {
+        "start": 1486,
+        "end": 1496,
+        "string": "returning"
+      },
+      {
+        "start": 1496,
+        "end": 1497,
+        "string": " "
+      },
+      {
+        "start": 1497,
+        "end": 1500,
+        "string": "to"
+      },
+      {
+        "start": 1500,
+        "end": 1501,
+        "string": " "
+      },
+      {
+        "start": 1501,
+        "end": 1503,
+        "string": "a"
+      },
+      {
+        "start": 1503,
+        "end": 1504,
+        "string": " "
+      },
+      {
+        "start": 1504,
+        "end": 1509,
+        "string": "flat"
+      },
+      {
+        "start": 1509,
+        "end": 1510,
+        "string": " "
+      },
+      {
+        "start": 1510,
+        "end": 1515,
+        "string": "rate"
+      },
+      {
+        "start": 1515,
+        "end": 1516,
+        "string": " "
+      },
+      {
+        "start": 1516,
+        "end": 1525,
+        "string": "provides"
+      },
+      {
+        "start": 1525,
+        "end": 1526,
+        "string": " "
+      },
+      {
+        "start": 1526,
+        "end": 1533,
+        "string": "annual"
+      },
+      {
+        "start": 1533,
+        "end": 1534,
+        "string": " "
+      },
+      {
+        "start": 1534,
+        "end": 1542,
+        "string": "savings"
+      },
+      {
+        "start": 1542,
+        "end": 1543,
+        "string": " "
+      },
+      {
+        "start": 1543,
+        "end": 1547,
+        "string": "for"
+      },
+      {
+        "start": 1547,
+        "end": 1548,
+        "string": " "
+      },
+      {
+        "start": 1548,
+        "end": 1554,
+        "string": "about"
+      },
+      {
+        "start": 1554,
+        "end": 1555,
+        "string": " "
+      },
+      {
+        "start": 1555,
+        "end": 1558,
+        "string": "30"
+      },
+      {
+        "start": 1558,
+        "end": 1559,
+        "string": " "
+      },
+      {
+        "start": 1559,
+        "end": 1563,
+        "string": "per"
+      },
+      {
+        "start": 1563,
+        "end": 1564,
+        "string": " "
+      },
+      {
+        "start": 1564,
+        "end": 1569,
+        "string": "cent"
+      },
+      {
+        "start": 1569,
+        "end": 1570,
+        "string": " "
+      },
+      {
+        "start": 1570,
+        "end": 1573,
+        "string": "of"
+      },
+      {
+        "start": 1573,
+        "end": 1574,
+        "string": " "
+      },
+      {
+        "start": 1574,
+        "end": 1584,
+        "string": "customers"
+      },
+      {
+        "start": 1584,
+        "end": 1585,
+        "string": " "
+      },
+      {
+        "start": 1585,
+        "end": 1589,
+        "string": "who"
+      },
+      {
+        "start": 1589,
+        "end": 1590,
+        "string": " "
+      },
+      {
+        "start": 1590,
+        "end": 1594,
+        "string": "had"
+      },
+      {
+        "start": 1594,
+        "end": 1595,
+        "string": " "
+      },
+      {
+        "start": 1595,
+        "end": 1602,
+        "string": "higher"
+      },
+      {
+        "start": 1602,
+        "end": 1603,
+        "string": " "
+      },
+      {
+        "start": 1603,
+        "end": 1609,
+        "string": "bills"
+      },
+      {
+        "start": 1609,
+        "end": 1610,
+        "string": " "
+      },
+      {
+        "start": 1610,
+        "end": 1616,
+        "string": "under"
+      },
+      {
+        "start": 1616,
+        "end": 1617,
+        "string": " "
+      },
+      {
+        "start": 1617,
+        "end": 1621,
+        "string": "the"
+      },
+      {
+        "start": 1621,
+        "end": 1622,
+        "string": " "
+      },
+      {
+        "start": 1622,
+        "end": 1633,
+        "string": "two-tiered"
+      },
+      {
+        "start": 1633,
+        "end": 1634,
+        "string": " "
+      },
+      {
+        "start": 1634,
+        "end": 1641,
+        "string": "system"
+      },
+      {
+        "start": 1641,
+        "end": 1642,
+        "string": " "
+      },
+      {
+        "start": 1642,
+        "end": 1644,
+        "string": "."
+      },
+      {
+        "start": 1644,
+        "end": 1645,
+        "string": " "
+      },
+      {
+        "start": 1645,
+        "end": 1648,
+        "string": "It"
+      },
+      {
+        "start": 1648,
+        "end": 1649,
+        "string": " "
+      },
+      {
+        "start": 1649,
+        "end": 1655,
+        "string": "could"
+      },
+      {
+        "start": 1655,
+        "end": 1656,
+        "string": " "
+      },
+      {
+        "start": 1656,
+        "end": 1661,
+        "string": "also"
+      },
+      {
+        "start": 1661,
+        "end": 1662,
+        "string": " "
+      },
+      {
+        "start": 1662,
+        "end": 1667,
+        "string": "mean"
+      },
+      {
+        "start": 1667,
+        "end": 1668,
+        "string": " "
+      },
+      {
+        "start": 1668,
+        "end": 1677,
+        "string": "moderate"
+      },
+      {
+        "start": 1677,
+        "end": 1678,
+        "string": " "
+      },
+      {
+        "start": 1678,
+        "end": 1683,
+        "string": "bill"
+      },
+      {
+        "start": 1683,
+        "end": 1684,
+        "string": " "
+      },
+      {
+        "start": 1684,
+        "end": 1694,
+        "string": "increases"
+      },
+      {
+        "start": 1694,
+        "end": 1695,
+        "string": " "
+      },
+      {
+        "start": 1695,
+        "end": 1699,
+        "string": "for"
+      },
+      {
+        "start": 1699,
+        "end": 1700,
+        "string": " "
+      },
+      {
+        "start": 1700,
+        "end": 1706,
+        "string": "lower"
+      },
+      {
+        "start": 1706,
+        "end": 1707,
+        "string": " "
+      },
+      {
+        "start": 1707,
+        "end": 1711,
+        "string": "use"
+      },
+      {
+        "start": 1711,
+        "end": 1712,
+        "string": " "
+      },
+      {
+        "start": 1712,
+        "end": 1722,
+        "string": "customers"
+      },
+      {
+        "start": 1722,
+        "end": 1723,
+        "string": " "
+      },
+      {
+        "start": 1723,
+        "end": 1727,
+        "string": "who"
+      },
+      {
+        "start": 1727,
+        "end": 1728,
+        "string": " "
+      },
+      {
+        "start": 1728,
+        "end": 1734,
+        "string": "saved"
+      },
+      {
+        "start": 1734,
+        "end": 1735,
+        "string": " "
+      },
+      {
+        "start": 1735,
+        "end": 1741,
+        "string": "under"
+      },
+      {
+        "start": 1741,
+        "end": 1742,
+        "string": " "
+      },
+      {
+        "start": 1742,
+        "end": 1746,
+        "string": "the"
+      },
+      {
+        "start": 1746,
+        "end": 1747,
+        "string": " "
+      },
+      {
+        "start": 1747,
+        "end": 1758,
+        "string": "two-tiered"
+      },
+      {
+        "start": 1758,
+        "end": 1759,
+        "string": " "
+      },
+      {
+        "start": 1759,
+        "end": 1766,
+        "string": "system"
+      },
+      {
+        "start": 1766,
+        "end": 1767,
+        "string": " "
+      },
+      {
+        "start": 1767,
+        "end": 1769,
+        "string": "."
+      },
+      {
+        "start": 1769,
+        "end": 1770,
+        "string": " "
+      },
+      {
+        "start": 1770,
+        "end": 1774,
+        "string": "The"
+      },
+      {
+        "start": 1774,
+        "end": 1775,
+        "string": " "
+      },
+      {
+        "start": 1775,
+        "end": 1782,
+        "string": "phased"
+      },
+      {
+        "start": 1782,
+        "end": 1783,
+        "string": " "
+      },
+      {
+        "start": 1783,
+        "end": 1792,
+        "string": "approach"
+      },
+      {
+        "start": 1792,
+        "end": 1793,
+        "string": " "
+      },
+      {
+        "start": 1793,
+        "end": 1801,
+        "string": "reduces"
+      },
+      {
+        "start": 1801,
+        "end": 1802,
+        "string": " "
+      },
+      {
+        "start": 1802,
+        "end": 1806,
+        "string": "the"
+      },
+      {
+        "start": 1806,
+        "end": 1807,
+        "string": " "
+      },
+      {
+        "start": 1807,
+        "end": 1812,
+        "string": "bill"
+      },
+      {
+        "start": 1812,
+        "end": 1813,
+        "string": " "
+      },
+      {
+        "start": 1813,
+        "end": 1821,
+        "string": "impacts"
+      },
+      {
+        "start": 1821,
+        "end": 1822,
+        "string": " "
+      },
+      {
+        "start": 1822,
+        "end": 1826,
+        "string": "for"
+      },
+      {
+        "start": 1826,
+        "end": 1827,
+        "string": " "
+      },
+      {
+        "start": 1827,
+        "end": 1833,
+        "string": "these"
+      },
+      {
+        "start": 1833,
+        "end": 1834,
+        "string": " "
+      },
+      {
+        "start": 1834,
+        "end": 1844,
+        "string": "customers"
+      },
+      {
+        "start": 1844,
+        "end": 1845,
+        "string": " "
+      },
+      {
+        "start": 1845,
+        "end": 1847,
+        "string": ","
+      },
+      {
+        "start": 1847,
+        "end": 1848,
+        "string": " "
+      },
+      {
+        "start": 1848,
+        "end": 1854,
+        "string": "which"
+      },
+      {
+        "start": 1854,
+        "end": 1855,
+        "string": " "
+      },
+      {
+        "start": 1855,
+        "end": 1864,
+        "string": "FortisBC"
+      },
+      {
+        "start": 1864,
+        "end": 1865,
+        "string": " "
+      },
+      {
+        "start": 1865,
+        "end": 1875,
+        "string": "forecasts"
+      },
+      {
+        "start": 1875,
+        "end": 1876,
+        "string": " "
+      },
+      {
+        "start": 1876,
+        "end": 1879,
+        "string": "to"
+      },
+      {
+        "start": 1879,
+        "end": 1880,
+        "string": " "
+      },
+      {
+        "start": 1880,
+        "end": 1883,
+        "string": "be"
+      },
+      {
+        "start": 1883,
+        "end": 1884,
+        "string": " "
+      },
+      {
+        "start": 1884,
+        "end": 1889,
+        "string": "less"
+      },
+      {
+        "start": 1889,
+        "end": 1890,
+        "string": " "
+      },
+      {
+        "start": 1890,
+        "end": 1895,
+        "string": "than"
+      },
+      {
+        "start": 1895,
+        "end": 1896,
+        "string": " "
+      },
+      {
+        "start": 1896,
+        "end": 1900,
+        "string": "3.5"
+      },
+      {
+        "start": 1900,
+        "end": 1901,
+        "string": " "
+      },
+      {
+        "start": 1901,
+        "end": 1905,
+        "string": "per"
+      },
+      {
+        "start": 1905,
+        "end": 1906,
+        "string": " "
+      },
+      {
+        "start": 1906,
+        "end": 1911,
+        "string": "cent"
+      },
+      {
+        "start": 1911,
+        "end": 1912,
+        "string": " "
+      },
+      {
+        "start": 1912,
+        "end": 1916,
+        "string": "per"
+      },
+      {
+        "start": 1916,
+        "end": 1917,
+        "string": " "
+      },
+      {
+        "start": 1917,
+        "end": 1922,
+        "string": "year"
+      },
+      {
+        "start": 1922,
+        "end": 1923,
+        "string": " "
+      },
+      {
+        "start": 1923,
+        "end": 1925,
+        "string": "."
+      },
+      {
+        "start": 1925,
+        "end": 1926,
+        "string": " "
+      },
+      {
+        "start": 1926,
+        "end": 1930,
+        "string": "The"
+      },
+      {
+        "start": 1930,
+        "end": 1931,
+        "string": " "
+      },
+      {
+        "start": 1931,
+        "end": 1938,
+        "string": "actual"
+      },
+      {
+        "start": 1938,
+        "end": 1939,
+        "string": " "
+      },
+      {
+        "start": 1939,
+        "end": 1946,
+        "string": "change"
+      },
+      {
+        "start": 1946,
+        "end": 1947,
+        "string": " "
+      },
+      {
+        "start": 1947,
+        "end": 1950,
+        "string": "to"
+      },
+      {
+        "start": 1950,
+        "end": 1951,
+        "string": " "
+      },
+      {
+        "start": 1951,
+        "end": 1962,
+        "string": "individual"
+      },
+      {
+        "start": 1962,
+        "end": 1963,
+        "string": " "
+      },
+      {
+        "start": 1963,
+        "end": 1972,
+        "string": "accounts"
+      },
+      {
+        "start": 1972,
+        "end": 1973,
+        "string": " "
+      },
+      {
+        "start": 1973,
+        "end": 1978,
+        "string": "will"
+      },
+      {
+        "start": 1978,
+        "end": 1979,
+        "string": " "
+      },
+      {
+        "start": 1979,
+        "end": 1984,
+        "string": "vary"
+      },
+      {
+        "start": 1984,
+        "end": 1985,
+        "string": " "
+      },
+      {
+        "start": 1985,
+        "end": 1987,
+        "string": ","
+      },
+      {
+        "start": 1987,
+        "end": 1988,
+        "string": " "
+      },
+      {
+        "start": 1988,
+        "end": 1998,
+        "string": "depending"
+      },
+      {
+        "start": 1998,
+        "end": 1999,
+        "string": " "
+      },
+      {
+        "start": 1999,
+        "end": 2002,
+        "string": "on"
+      },
+      {
+        "start": 2002,
+        "end": 2003,
+        "string": " "
+      },
+      {
+        "start": 2003,
+        "end": 2007,
+        "string": "use"
+      },
+      {
+        "start": 2007,
+        "end": 2008,
+        "string": " "
+      },
+      {
+        "start": 2008,
+        "end": 2010,
+        "string": "."
+      },
+      {
+        "start": 2010,
+        "end": 2011,
+        "string": " "
+      },
+      {
+        "start": 2011,
+        "end": 2021,
+        "string": "Returning"
+      },
+      {
+        "start": 2021,
+        "end": 2022,
+        "string": " "
+      },
+      {
+        "start": 2022,
+        "end": 2025,
+        "string": "to"
+      },
+      {
+        "start": 2025,
+        "end": 2026,
+        "string": " "
+      },
+      {
+        "start": 2026,
+        "end": 2028,
+        "string": "a"
+      },
+      {
+        "start": 2028,
+        "end": 2029,
+        "string": " "
+      },
+      {
+        "start": 2029,
+        "end": 2034,
+        "string": "flat"
+      },
+      {
+        "start": 2034,
+        "end": 2035,
+        "string": " "
+      },
+      {
+        "start": 2035,
+        "end": 2040,
+        "string": "rate"
+      },
+      {
+        "start": 2040,
+        "end": 2041,
+        "string": " "
+      },
+      {
+        "start": 2041,
+        "end": 2044,
+        "string": "is"
+      },
+      {
+        "start": 2044,
+        "end": 2045,
+        "string": " "
+      },
+      {
+        "start": 2045,
+        "end": 2061,
+        "string": "revenue-neutral"
+      },
+      {
+        "start": 2061,
+        "end": 2062,
+        "string": " "
+      },
+      {
+        "start": 2062,
+        "end": 2066,
+        "string": "for"
+      },
+      {
+        "start": 2066,
+        "end": 2067,
+        "string": " "
+      },
+      {
+        "start": 2067,
+        "end": 2076,
+        "string": "FortisBC"
+      },
+      {
+        "start": 2076,
+        "end": 2077,
+        "string": " "
+      },
+      {
+        "start": 2077,
+        "end": 2079,
+        "string": "."
+      },
+      {
+        "start": 2079,
+        "end": 2080,
+        "string": " "
+      },
+      {
+        "start": 2080,
+        "end": 2082,
+        "string": "\""
+      },
+      {
+        "start": 2082,
+        "end": 2083,
+        "string": " "
+      },
+      {
+        "start": 2083,
+        "end": 2091,
+        "string": "Helping"
+      },
+      {
+        "start": 2091,
+        "end": 2092,
+        "string": " "
+      },
+      {
+        "start": 2092,
+        "end": 2102,
+        "string": "customers"
+      },
+      {
+        "start": 2102,
+        "end": 2103,
+        "string": " "
+      },
+      {
+        "start": 2103,
+        "end": 2110,
+        "string": "reduce"
+      },
+      {
+        "start": 2110,
+        "end": 2111,
+        "string": " "
+      },
+      {
+        "start": 2111,
+        "end": 2117,
+        "string": "their"
+      },
+      {
+        "start": 2117,
+        "end": 2118,
+        "string": " "
+      },
+      {
+        "start": 2118,
+        "end": 2124,
+        "string": "bills"
+      },
+      {
+        "start": 2124,
+        "end": 2125,
+        "string": " "
+      },
+      {
+        "start": 2125,
+        "end": 2133,
+        "string": "remains"
+      },
+      {
+        "start": 2133,
+        "end": 2134,
+        "string": " "
+      },
+      {
+        "start": 2134,
+        "end": 2136,
+        "string": "a"
+      },
+      {
+        "start": 2136,
+        "end": 2137,
+        "string": " "
+      },
+      {
+        "start": 2137,
+        "end": 2146,
+        "string": "priority"
+      },
+      {
+        "start": 2146,
+        "end": 2147,
+        "string": " "
+      },
+      {
+        "start": 2147,
+        "end": 2151,
+        "string": "for"
+      },
+      {
+        "start": 2151,
+        "end": 2152,
+        "string": " "
+      },
+      {
+        "start": 2152,
+        "end": 2161,
+        "string": "FortisBC"
+      },
+      {
+        "start": 2161,
+        "end": 2162,
+        "string": " "
+      },
+      {
+        "start": 2162,
+        "end": 2164,
+        "string": ","
+      },
+      {
+        "start": 2164,
+        "end": 2165,
+        "string": " "
+      },
+      {
+        "start": 2165,
+        "end": 2167,
+        "string": "\""
+      },
+      {
+        "start": 2167,
+        "end": 2168,
+        "string": " "
+      },
+      {
+        "start": 2168,
+        "end": 2173,
+        "string": "said"
+      },
+      {
+        "start": 2173,
+        "end": 2174,
+        "string": " "
+      },
+      {
+        "start": 2174,
+        "end": 2178,
+        "string": "Roy"
+      },
+      {
+        "start": 2178,
+        "end": 2179,
+        "string": " "
+      },
+      {
+        "start": 2179,
+        "end": 2181,
+        "string": "."
+      },
+      {
+        "start": 2181,
+        "end": 2182,
+        "string": " "
+      },
+      {
+        "start": 2182,
+        "end": 2184,
+        "string": "\""
+      },
+      {
+        "start": 2184,
+        "end": 2185,
+        "string": " "
+      },
+      {
+        "start": 2185,
+        "end": 2188,
+        "string": "We"
+      },
+      {
+        "start": 2188,
+        "end": 2189,
+        "string": " "
+      },
+      {
+        "start": 2189,
+        "end": 2198,
+        "string": "continue"
+      },
+      {
+        "start": 2198,
+        "end": 2199,
+        "string": " "
+      },
+      {
+        "start": 2199,
+        "end": 2202,
+        "string": "to"
+      },
+      {
+        "start": 2202,
+        "end": 2203,
+        "string": " "
+      },
+      {
+        "start": 2203,
+        "end": 2211,
+        "string": "enhance"
+      },
+      {
+        "start": 2211,
+        "end": 2212,
+        "string": " "
+      },
+      {
+        "start": 2212,
+        "end": 2216,
+        "string": "our"
+      },
+      {
+        "start": 2216,
+        "end": 2217,
+        "string": " "
+      },
+      {
+        "start": 2217,
+        "end": 2224,
+        "string": "energy"
+      },
+      {
+        "start": 2224,
+        "end": 2225,
+        "string": " "
+      },
+      {
+        "start": 2225,
+        "end": 2232,
+        "string": "saving"
+      },
+      {
+        "start": 2232,
+        "end": 2233,
+        "string": " "
+      },
+      {
+        "start": 2233,
+        "end": 2242,
+        "string": "programs"
+      },
+      {
+        "start": 2242,
+        "end": 2243,
+        "string": " "
+      },
+      {
+        "start": 2243,
+        "end": 2245,
+        "string": ","
+      },
+      {
+        "start": 2245,
+        "end": 2246,
+        "string": " "
+      },
+      {
+        "start": 2246,
+        "end": 2257,
+        "string": "especially"
+      },
+      {
+        "start": 2257,
+        "end": 2258,
+        "string": " "
+      },
+      {
+        "start": 2258,
+        "end": 2264,
+        "string": "those"
+      },
+      {
+        "start": 2264,
+        "end": 2265,
+        "string": " "
+      },
+      {
+        "start": 2265,
+        "end": 2270,
+        "string": "that"
+      },
+      {
+        "start": 2270,
+        "end": 2271,
+        "string": " "
+      },
+      {
+        "start": 2271,
+        "end": 2279,
+        "string": "support"
+      },
+      {
+        "start": 2279,
+        "end": 2280,
+        "string": " "
+      },
+      {
+        "start": 2280,
+        "end": 2290,
+        "string": "customers"
+      },
+      {
+        "start": 2290,
+        "end": 2291,
+        "string": " "
+      },
+      {
+        "start": 2291,
+        "end": 2294,
+        "string": "on"
+      },
+      {
+        "start": 2294,
+        "end": 2295,
+        "string": " "
+      },
+      {
+        "start": 2295,
+        "end": 2299,
+        "string": "the"
+      },
+      {
+        "start": 2299,
+        "end": 2300,
+        "string": " "
+      },
+      {
+        "start": 2300,
+        "end": 2309,
+        "string": "tightest"
+      },
+      {
+        "start": 2309,
+        "end": 2310,
+        "string": " "
+      },
+      {
+        "start": 2310,
+        "end": 2318,
+        "string": "budgets"
+      },
+      {
+        "start": 2318,
+        "end": 2319,
+        "string": " "
+      },
+      {
+        "start": 2319,
+        "end": 2321,
+        "string": ","
+      },
+      {
+        "start": 2321,
+        "end": 2322,
+        "string": " "
+      },
+      {
+        "start": 2322,
+        "end": 2326,
+        "string": "and"
+      },
+      {
+        "start": 2326,
+        "end": 2327,
+        "string": " "
+      },
+      {
+        "start": 2327,
+        "end": 2330,
+        "string": "we"
+      },
+      {
+        "start": 2330,
+        "end": 2331,
+        "string": " "
+      },
+      {
+        "start": 2331,
+        "end": 2341,
+        "string": "encourage"
+      },
+      {
+        "start": 2341,
+        "end": 2342,
+        "string": " "
+      },
+      {
+        "start": 2342,
+        "end": 2346,
+        "string": "all"
+      },
+      {
+        "start": 2346,
+        "end": 2347,
+        "string": " "
+      },
+      {
+        "start": 2347,
+        "end": 2357,
+        "string": "customers"
+      },
+      {
+        "start": 2357,
+        "end": 2358,
+        "string": " "
+      },
+      {
+        "start": 2358,
+        "end": 2361,
+        "string": "to"
+      },
+      {
+        "start": 2361,
+        "end": 2362,
+        "string": " "
+      },
+      {
+        "start": 2362,
+        "end": 2370,
+        "string": "contact"
+      },
+      {
+        "start": 2370,
+        "end": 2371,
+        "string": " "
+      },
+      {
+        "start": 2371,
+        "end": 2374,
+        "string": "us"
+      },
+      {
+        "start": 2374,
+        "end": 2375,
+        "string": " "
+      },
+      {
+        "start": 2375,
+        "end": 2378,
+        "string": "if"
+      },
+      {
+        "start": 2378,
+        "end": 2379,
+        "string": " "
+      },
+      {
+        "start": 2379,
+        "end": 2384,
+        "string": "they"
+      },
+      {
+        "start": 2384,
+        "end": 2385,
+        "string": " "
+      },
+      {
+        "start": 2385,
+        "end": 2390,
+        "string": "need"
+      },
+      {
+        "start": 2390,
+        "end": 2391,
+        "string": " "
+      },
+      {
+        "start": 2391,
+        "end": 2396,
+        "string": "help"
+      },
+      {
+        "start": 2396,
+        "end": 2397,
+        "string": " "
+      },
+      {
+        "start": 2397,
+        "end": 2399,
+        "string": "."
+      },
+      {
+        "start": 2399,
+        "end": 2400,
+        "string": " "
+      },
+      {
+        "start": 2400,
+        "end": 2402,
+        "string": "\""
+      },
+      {
+        "start": 2402,
+        "end": 2403,
+        "string": " "
+      },
+      {
+        "start": 2403,
+        "end": 2406,
+        "string": "As"
+      },
+      {
+        "start": 2406,
+        "end": 2407,
+        "string": " "
+      },
+      {
+        "start": 2407,
+        "end": 2409,
+        "string": "a"
+      },
+      {
+        "start": 2409,
+        "end": 2410,
+        "string": " "
+      },
+      {
+        "start": 2410,
+        "end": 2420,
+        "string": "regulated"
+      },
+      {
+        "start": 2420,
+        "end": 2421,
+        "string": " "
+      },
+      {
+        "start": 2421,
+        "end": 2429,
+        "string": "utility"
+      },
+      {
+        "start": 2429,
+        "end": 2430,
+        "string": " "
+      },
+      {
+        "start": 2430,
+        "end": 2432,
+        "string": ","
+      },
+      {
+        "start": 2432,
+        "end": 2433,
+        "string": " "
+      },
+      {
+        "start": 2433,
+        "end": 2442,
+        "string": "FortisBC"
+      },
+      {
+        "start": 2442,
+        "end": 2443,
+        "string": " "
+      },
+      {
+        "start": 2443,
+        "end": 2452,
+        "string": "requires"
+      },
+      {
+        "start": 2452,
+        "end": 2453,
+        "string": " "
+      },
+      {
+        "start": 2453,
+        "end": 2462,
+        "string": "approval"
+      },
+      {
+        "start": 2462,
+        "end": 2463,
+        "string": " "
+      },
+      {
+        "start": 2463,
+        "end": 2467,
+        "string": "for"
+      },
+      {
+        "start": 2467,
+        "end": 2468,
+        "string": " "
+      },
+      {
+        "start": 2468,
+        "end": 2473,
+        "string": "rate"
+      },
+      {
+        "start": 2473,
+        "end": 2474,
+        "string": " "
+      },
+      {
+        "start": 2474,
+        "end": 2481,
+        "string": "design"
+      },
+      {
+        "start": 2481,
+        "end": 2482,
+        "string": " "
+      },
+      {
+        "start": 2482,
+        "end": 2490,
+        "string": "changes"
+      },
+      {
+        "start": 2490,
+        "end": 2491,
+        "string": " "
+      },
+      {
+        "start": 2491,
+        "end": 2496,
+        "string": "like"
+      },
+      {
+        "start": 2496,
+        "end": 2497,
+        "string": " "
+      },
+      {
+        "start": 2497,
+        "end": 2502,
+        "string": "this"
+      },
+      {
+        "start": 2502,
+        "end": 2503,
+        "string": " "
+      },
+      {
+        "start": 2503,
+        "end": 2511,
+        "string": "through"
+      },
+      {
+        "start": 2511,
+        "end": 2512,
+        "string": " "
+      },
+      {
+        "start": 2512,
+        "end": 2514,
+        "string": "a"
+      },
+      {
+        "start": 2514,
+        "end": 2515,
+        "string": " "
+      },
+      {
+        "start": 2515,
+        "end": 2524,
+        "string": "rigorous"
+      },
+      {
+        "start": 2524,
+        "end": 2525,
+        "string": " "
+      },
+      {
+        "start": 2525,
+        "end": 2529,
+        "string": "and"
+      },
+      {
+        "start": 2529,
+        "end": 2530,
+        "string": " "
+      },
+      {
+        "start": 2530,
+        "end": 2542,
+        "string": "transparent"
+      },
+      {
+        "start": 2542,
+        "end": 2543,
+        "string": " "
+      },
+      {
+        "start": 2543,
+        "end": 2551,
+        "string": "process"
+      },
+      {
+        "start": 2551,
+        "end": 2552,
+        "string": " "
+      },
+      {
+        "start": 2552,
+        "end": 2557,
+        "string": "with"
+      },
+      {
+        "start": 2557,
+        "end": 2558,
+        "string": " "
+      },
+      {
+        "start": 2558,
+        "end": 2562,
+        "string": "the"
+      },
+      {
+        "start": 2562,
+        "end": 2563,
+        "string": " "
+      },
+      {
+        "start": 2563,
+        "end": 2568,
+        "string": "BCUC"
+      },
+      {
+        "start": 2568,
+        "end": 2569,
+        "string": " "
+      },
+      {
+        "start": 2569,
+        "end": 2571,
+        "string": "."
+      },
+      {
+        "start": 2571,
+        "end": 2572,
+        "string": " "
+      },
+      {
+        "start": 2572,
+        "end": 2577,
+        "string": "This"
+      },
+      {
+        "start": 2577,
+        "end": 2578,
+        "string": " "
+      },
+      {
+        "start": 2578,
+        "end": 2587,
+        "string": "involves"
+      },
+      {
+        "start": 2587,
+        "end": 2588,
+        "string": " "
+      },
+      {
+        "start": 2588,
+        "end": 2590,
+        "string": "a"
+      },
+      {
+        "start": 2590,
+        "end": 2591,
+        "string": " "
+      },
+      {
+        "start": 2591,
+        "end": 2605,
+        "string": "comprehensive"
+      },
+      {
+        "start": 2605,
+        "end": 2606,
+        "string": " "
+      },
+      {
+        "start": 2606,
+        "end": 2611,
+        "string": "look"
+      },
+      {
+        "start": 2611,
+        "end": 2612,
+        "string": " "
+      },
+      {
+        "start": 2612,
+        "end": 2615,
+        "string": "at"
+      },
+      {
+        "start": 2615,
+        "end": 2616,
+        "string": " "
+      },
+      {
+        "start": 2616,
+        "end": 2620,
+        "string": "the"
+      },
+      {
+        "start": 2620,
+        "end": 2621,
+        "string": " "
+      },
+      {
+        "start": 2621,
+        "end": 2626,
+        "string": "cost"
+      },
+      {
+        "start": 2626,
+        "end": 2627,
+        "string": " "
+      },
+      {
+        "start": 2627,
+        "end": 2630,
+        "string": "of"
+      },
+      {
+        "start": 2630,
+        "end": 2631,
+        "string": " "
+      },
+      {
+        "start": 2631,
+        "end": 2641,
+        "string": "providing"
+      },
+      {
+        "start": 2641,
+        "end": 2642,
+        "string": " "
+      },
+      {
+        "start": 2642,
+        "end": 2650,
+        "string": "service"
+      },
+      {
+        "start": 2650,
+        "end": 2651,
+        "string": " "
+      },
+      {
+        "start": 2651,
+        "end": 2654,
+        "string": "to"
+      },
+      {
+        "start": 2654,
+        "end": 2655,
+        "string": " "
+      },
+      {
+        "start": 2655,
+        "end": 2660,
+        "string": "each"
+      },
+      {
+        "start": 2660,
+        "end": 2661,
+        "string": " "
+      },
+      {
+        "start": 2661,
+        "end": 2666,
+        "string": "rate"
+      },
+      {
+        "start": 2666,
+        "end": 2667,
+        "string": " "
+      },
+      {
+        "start": 2667,
+        "end": 2673,
+        "string": "class"
+      },
+      {
+        "start": 2673,
+        "end": 2674,
+        "string": " "
+      },
+      {
+        "start": 2674,
+        "end": 2678,
+        "string": "and"
+      },
+      {
+        "start": 2678,
+        "end": 2679,
+        "string": " "
+      },
+      {
+        "start": 2679,
+        "end": 2681,
+        "string": "a"
+      },
+      {
+        "start": 2681,
+        "end": 2682,
+        "string": " "
+      },
+      {
+        "start": 2682,
+        "end": 2689,
+        "string": "review"
+      },
+      {
+        "start": 2689,
+        "end": 2690,
+        "string": " "
+      },
+      {
+        "start": 2690,
+        "end": 2693,
+        "string": "of"
+      },
+      {
+        "start": 2693,
+        "end": 2694,
+        "string": " "
+      },
+      {
+        "start": 2694,
+        "end": 2702,
+        "string": "several"
+      },
+      {
+        "start": 2702,
+        "end": 2703,
+        "string": " "
+      },
+      {
+        "start": 2703,
+        "end": 2711,
+        "string": "options"
+      },
+      {
+        "start": 2711,
+        "end": 2712,
+        "string": " "
+      },
+      {
+        "start": 2712,
+        "end": 2716,
+        "string": "for"
+      },
+      {
+        "start": 2716,
+        "end": 2717,
+        "string": " "
+      },
+      {
+        "start": 2717,
+        "end": 2722,
+        "string": "rate"
+      },
+      {
+        "start": 2722,
+        "end": 2723,
+        "string": " "
+      },
+      {
+        "start": 2723,
+        "end": 2730,
+        "string": "design"
+      },
+      {
+        "start": 2730,
+        "end": 2731,
+        "string": " "
+      },
+      {
+        "start": 2731,
+        "end": 2733,
+        "string": "."
+      },
+      {
+        "start": 2733,
+        "end": 2734,
+        "string": " "
+      },
+      {
+        "start": 2734,
+        "end": 2742,
+        "string": "Through"
+      },
+      {
+        "start": 2742,
+        "end": 2743,
+        "string": " "
+      },
+      {
+        "start": 2743,
+        "end": 2748,
+        "string": "this"
+      },
+      {
+        "start": 2748,
+        "end": 2749,
+        "string": " "
+      },
+      {
+        "start": 2749,
+        "end": 2757,
+        "string": "process"
+      },
+      {
+        "start": 2757,
+        "end": 2758,
+        "string": " "
+      },
+      {
+        "start": 2758,
+        "end": 2760,
+        "string": ","
+      },
+      {
+        "start": 2760,
+        "end": 2761,
+        "string": " "
+      },
+      {
+        "start": 2761,
+        "end": 2770,
+        "string": "FortisBC"
+      },
+      {
+        "start": 2770,
+        "end": 2771,
+        "string": " "
+      },
+      {
+        "start": 2771,
+        "end": 2781,
+        "string": "solicited"
+      },
+      {
+        "start": 2781,
+        "end": 2782,
+        "string": " "
+      },
+      {
+        "start": 2782,
+        "end": 2788,
+        "string": "input"
+      },
+      {
+        "start": 2788,
+        "end": 2789,
+        "string": " "
+      },
+      {
+        "start": 2789,
+        "end": 2794,
+        "string": "from"
+      },
+      {
+        "start": 2794,
+        "end": 2795,
+        "string": " "
+      },
+      {
+        "start": 2795,
+        "end": 2797,
+        "string": "a"
+      },
+      {
+        "start": 2797,
+        "end": 2798,
+        "string": " "
+      },
+      {
+        "start": 2798,
+        "end": 2806,
+        "string": "variety"
+      },
+      {
+        "start": 2806,
+        "end": 2807,
+        "string": " "
+      },
+      {
+        "start": 2807,
+        "end": 2810,
+        "string": "of"
+      },
+      {
+        "start": 2810,
+        "end": 2811,
+        "string": " "
+      },
+      {
+        "start": 2811,
+        "end": 2824,
+        "string": "stakeholders"
+      },
+      {
+        "start": 2824,
+        "end": 2825,
+        "string": " "
+      },
+      {
+        "start": 2825,
+        "end": 2827,
+        "string": ","
+      },
+      {
+        "start": 2827,
+        "end": 2828,
+        "string": " "
+      },
+      {
+        "start": 2828,
+        "end": 2835,
+        "string": "hosted"
+      },
+      {
+        "start": 2835,
+        "end": 2836,
+        "string": " "
+      },
+      {
+        "start": 2836,
+        "end": 2842,
+        "string": "eight"
+      },
+      {
+        "start": 2842,
+        "end": 2843,
+        "string": " "
+      },
+      {
+        "start": 2843,
+        "end": 2850,
+        "string": "public"
+      },
+      {
+        "start": 2850,
+        "end": 2851,
+        "string": " "
+      },
+      {
+        "start": 2851,
+        "end": 2864,
+        "string": "consultation"
+      },
+      {
+        "start": 2864,
+        "end": 2865,
+        "string": " "
+      },
+      {
+        "start": 2865,
+        "end": 2874,
+        "string": "sessions"
+      },
+      {
+        "start": 2874,
+        "end": 2875,
+        "string": " "
+      },
+      {
+        "start": 2875,
+        "end": 2879,
+        "string": "and"
+      },
+      {
+        "start": 2879,
+        "end": 2880,
+        "string": " "
+      },
+      {
+        "start": 2880,
+        "end": 2890,
+        "string": "responded"
+      },
+      {
+        "start": 2890,
+        "end": 2891,
+        "string": " "
+      },
+      {
+        "start": 2891,
+        "end": 2894,
+        "string": "to"
+      },
+      {
+        "start": 2894,
+        "end": 2895,
+        "string": " "
+      },
+      {
+        "start": 2895,
+        "end": 2909,
+        "string": "approximately"
+      },
+      {
+        "start": 2909,
+        "end": 2910,
+        "string": " "
+      },
+      {
+        "start": 2910,
+        "end": 2916,
+        "string": "1,800"
+      },
+      {
+        "start": 2916,
+        "end": 2917,
+        "string": " "
+      },
+      {
+        "start": 2917,
+        "end": 2929,
+        "string": "information"
+      },
+      {
+        "start": 2929,
+        "end": 2930,
+        "string": " "
+      },
+      {
+        "start": 2930,
+        "end": 2939,
+        "string": "requests"
+      },
+      {
+        "start": 2939,
+        "end": 2940,
+        "string": " "
+      },
+      {
+        "start": 2940,
+        "end": 2945,
+        "string": "from"
+      },
+      {
+        "start": 2945,
+        "end": 2946,
+        "string": " "
+      },
+      {
+        "start": 2946,
+        "end": 2949,
+        "string": "13"
+      },
+      {
+        "start": 2949,
+        "end": 2950,
+        "string": " "
+      },
+      {
+        "start": 2950,
+        "end": 2962,
+        "string": "interveners"
+      },
+      {
+        "start": 2962,
+        "end": 2963,
+        "string": " "
+      },
+      {
+        "start": 2963,
+        "end": 2965,
+        "string": "."
+      },
+      {
+        "start": 2965,
+        "end": 2966,
+        "string": " "
+      },
+      {
+        "start": 2966,
+        "end": 2968,
+        "string": "\""
+      },
+      {
+        "start": 2968,
+        "end": 2969,
+        "string": " "
+      },
+      {
+        "start": 2969,
+        "end": 2972,
+        "string": "We"
+      },
+      {
+        "start": 2972,
+        "end": 2973,
+        "string": " "
+      },
+      {
+        "start": 2973,
+        "end": 2979,
+        "string": "would"
+      },
+      {
+        "start": 2979,
+        "end": 2980,
+        "string": " "
+      },
+      {
+        "start": 2980,
+        "end": 2985,
+        "string": "like"
+      },
+      {
+        "start": 2985,
+        "end": 2986,
+        "string": " "
+      },
+      {
+        "start": 2986,
+        "end": 2989,
+        "string": "to"
+      },
+      {
+        "start": 2989,
+        "end": 2990,
+        "string": " "
+      },
+      {
+        "start": 2990,
+        "end": 2996,
+        "string": "thank"
+      },
+      {
+        "start": 2996,
+        "end": 2997,
+        "string": " "
+      },
+      {
+        "start": 2997,
+        "end": 3001,
+        "string": "the"
+      },
+      {
+        "start": 3001,
+        "end": 3002,
+        "string": " "
+      },
+      {
+        "start": 3002,
+        "end": 3007,
+        "string": "many"
+      },
+      {
+        "start": 3007,
+        "end": 3008,
+        "string": " "
+      },
+      {
+        "start": 3008,
+        "end": 3015,
+        "string": "people"
+      },
+      {
+        "start": 3015,
+        "end": 3016,
+        "string": " "
+      },
+      {
+        "start": 3016,
+        "end": 3020,
+        "string": "who"
+      },
+      {
+        "start": 3020,
+        "end": 3021,
+        "string": " "
+      },
+      {
+        "start": 3021,
+        "end": 3026,
+        "string": "took"
+      },
+      {
+        "start": 3026,
+        "end": 3027,
+        "string": " "
+      },
+      {
+        "start": 3027,
+        "end": 3032,
+        "string": "part"
+      },
+      {
+        "start": 3032,
+        "end": 3033,
+        "string": " "
+      },
+      {
+        "start": 3033,
+        "end": 3036,
+        "string": "in"
+      },
+      {
+        "start": 3036,
+        "end": 3037,
+        "string": " "
+      },
+      {
+        "start": 3037,
+        "end": 3041,
+        "string": "the"
+      },
+      {
+        "start": 3041,
+        "end": 3042,
+        "string": " "
+      },
+      {
+        "start": 3042,
+        "end": 3053,
+        "string": "engagement"
+      },
+      {
+        "start": 3053,
+        "end": 3054,
+        "string": " "
+      },
+      {
+        "start": 3054,
+        "end": 3062,
+        "string": "process"
+      },
+      {
+        "start": 3062,
+        "end": 3063,
+        "string": " "
+      },
+      {
+        "start": 3063,
+        "end": 3065,
+        "string": ","
+      },
+      {
+        "start": 3065,
+        "end": 3066,
+        "string": " "
+      },
+      {
+        "start": 3066,
+        "end": 3068,
+        "string": "\""
+      },
+      {
+        "start": 3068,
+        "end": 3069,
+        "string": " "
+      },
+      {
+        "start": 3069,
+        "end": 3074,
+        "string": "said"
+      },
+      {
+        "start": 3074,
+        "end": 3075,
+        "string": " "
+      },
+      {
+        "start": 3075,
+        "end": 3079,
+        "string": "Roy"
+      },
+      {
+        "start": 3079,
+        "end": 3080,
+        "string": " "
+      },
+      {
+        "start": 3080,
+        "end": 3082,
+        "string": ","
+      },
+      {
+        "start": 3082,
+        "end": 3083,
+        "string": " "
+      },
+      {
+        "start": 3083,
+        "end": 3085,
+        "string": "\""
+      },
+      {
+        "start": 3085,
+        "end": 3086,
+        "string": " "
+      },
+      {
+        "start": 3086,
+        "end": 3089,
+        "string": "We"
+      },
+      {
+        "start": 3089,
+        "end": 3090,
+        "string": " "
+      },
+      {
+        "start": 3090,
+        "end": 3098,
+        "string": "believe"
+      },
+      {
+        "start": 3098,
+        "end": 3099,
+        "string": " "
+      },
+      {
+        "start": 3099,
+        "end": 3104,
+        "string": "this"
+      },
+      {
+        "start": 3104,
+        "end": 3105,
+        "string": " "
+      },
+      {
+        "start": 3105,
+        "end": 3111,
+        "string": "level"
+      },
+      {
+        "start": 3111,
+        "end": 3112,
+        "string": " "
+      },
+      {
+        "start": 3112,
+        "end": 3115,
+        "string": "of"
+      },
+      {
+        "start": 3115,
+        "end": 3116,
+        "string": " "
+      },
+      {
+        "start": 3116,
+        "end": 3130,
+        "string": "participation"
+      },
+      {
+        "start": 3130,
+        "end": 3131,
+        "string": " "
+      },
+      {
+        "start": 3131,
+        "end": 3139,
+        "string": "results"
+      },
+      {
+        "start": 3139,
+        "end": 3140,
+        "string": " "
+      },
+      {
+        "start": 3140,
+        "end": 3143,
+        "string": "in"
+      },
+      {
+        "start": 3143,
+        "end": 3144,
+        "string": " "
+      },
+      {
+        "start": 3144,
+        "end": 3148,
+        "string": "the"
+      },
+      {
+        "start": 3148,
+        "end": 3149,
+        "string": " "
+      },
+      {
+        "start": 3149,
+        "end": 3154,
+        "string": "best"
+      },
+      {
+        "start": 3154,
+        "end": 3155,
+        "string": " "
+      },
+      {
+        "start": 3155,
+        "end": 3164,
+        "string": "outcomes"
+      },
+      {
+        "start": 3164,
+        "end": 3165,
+        "string": " "
+      },
+      {
+        "start": 3165,
+        "end": 3169,
+        "string": "for"
+      },
+      {
+        "start": 3169,
+        "end": 3170,
+        "string": " "
+      },
+      {
+        "start": 3170,
+        "end": 3174,
+        "string": "our"
+      },
+      {
+        "start": 3174,
+        "end": 3175,
+        "string": " "
+      },
+      {
+        "start": 3175,
+        "end": 3185,
+        "string": "customers"
+      },
+      {
+        "start": 3185,
+        "end": 3186,
+        "string": " "
+      },
+      {
+        "start": 3186,
+        "end": 3190,
+        "string": "and"
+      },
+      {
+        "start": 3190,
+        "end": 3191,
+        "string": " "
+      },
+      {
+        "start": 3191,
+        "end": 3194,
+        "string": "we"
+      },
+      {
+        "start": 3194,
+        "end": 3195,
+        "string": " "
+      },
+      {
+        "start": 3195,
+        "end": 3206,
+        "string": "appreciate"
+      },
+      {
+        "start": 3206,
+        "end": 3207,
+        "string": " "
+      },
+      {
+        "start": 3207,
+        "end": 3216,
+        "string": "everyone"
+      },
+      {
+        "start": 3216,
+        "end": 3217,
+        "string": " "
+      },
+      {
+        "start": 3217,
+        "end": 3221,
+        "string": "who"
+      },
+      {
+        "start": 3221,
+        "end": 3222,
+        "string": " "
+      },
+      {
+        "start": 3222,
+        "end": 3234,
+        "string": "contributed"
+      },
+      {
+        "start": 3234,
+        "end": 3235,
+        "string": " "
+      },
+      {
+        "start": 3235,
+        "end": 3238,
+        "string": "to"
+      },
+      {
+        "start": 3238,
+        "end": 3239,
+        "string": " "
+      },
+      {
+        "start": 3239,
+        "end": 3244,
+        "string": "this"
+      },
+      {
+        "start": 3244,
+        "end": 3245,
+        "string": " "
+      },
+      {
+        "start": 3245,
+        "end": 3252,
+        "string": "effort"
+      },
+      {
+        "start": 3252,
+        "end": 3253,
+        "string": " "
+      },
+      {
+        "start": 3253,
+        "end": 3255,
+        "string": "."
+      },
+      {
+        "start": 3255,
+        "end": 3256,
+        "string": " "
+      },
+      {
+        "start": 3256,
+        "end": 3258,
+        "string": "\""
+      },
+      {
+        "start": 3258,
+        "end": 3259,
+        "string": " "
+      },
+      {
+        "start": 3259,
+        "end": 3265,
+        "string": "While"
+      },
+      {
+        "start": 3265,
+        "end": 3266,
+        "string": " "
+      },
+      {
+        "start": 3266,
+        "end": 3270,
+        "string": "the"
+      },
+      {
+        "start": 3270,
+        "end": 3271,
+        "string": " "
+      },
+      {
+        "start": 3271,
+        "end": 3276,
+        "string": "BCUC"
+      },
+      {
+        "start": 3276,
+        "end": 3277,
+        "string": " "
+      },
+      {
+        "start": 3277,
+        "end": 3286,
+        "string": "approved"
+      },
+      {
+        "start": 3286,
+        "end": 3287,
+        "string": " "
+      },
+      {
+        "start": 3287,
+        "end": 3289,
+        "string": "a"
+      },
+      {
+        "start": 3289,
+        "end": 3290,
+        "string": " "
+      },
+      {
+        "start": 3290,
+        "end": 3300,
+        "string": "phased-in"
+      },
+      {
+        "start": 3300,
+        "end": 3301,
+        "string": " "
+      },
+      {
+        "start": 3301,
+        "end": 3308,
+        "string": "return"
+      },
+      {
+        "start": 3308,
+        "end": 3309,
+        "string": " "
+      },
+      {
+        "start": 3309,
+        "end": 3312,
+        "string": "to"
+      },
+      {
+        "start": 3312,
+        "end": 3313,
+        "string": " "
+      },
+      {
+        "start": 3313,
+        "end": 3315,
+        "string": "a"
+      },
+      {
+        "start": 3315,
+        "end": 3316,
+        "string": " "
+      },
+      {
+        "start": 3316,
+        "end": 3321,
+        "string": "flat"
+      },
+      {
+        "start": 3321,
+        "end": 3322,
+        "string": " "
+      },
+      {
+        "start": 3322,
+        "end": 3334,
+        "string": "residential"
+      },
+      {
+        "start": 3334,
+        "end": 3335,
+        "string": " "
+      },
+      {
+        "start": 3335,
+        "end": 3340,
+        "string": "rate"
+      },
+      {
+        "start": 3340,
+        "end": 3341,
+        "string": " "
+      },
+      {
+        "start": 3341,
+        "end": 3345,
+        "string": "and"
+      },
+      {
+        "start": 3345,
+        "end": 3346,
+        "string": " "
+      },
+      {
+        "start": 3346,
+        "end": 3354,
+        "string": "changes"
+      },
+      {
+        "start": 3354,
+        "end": 3355,
+        "string": " "
+      },
+      {
+        "start": 3355,
+        "end": 3358,
+        "string": "to"
+      },
+      {
+        "start": 3358,
+        "end": 3359,
+        "string": " "
+      },
+      {
+        "start": 3359,
+        "end": 3368,
+        "string": "FortisBC"
+      },
+      {
+        "start": 3368,
+        "end": 3369,
+        "string": " "
+      },
+      {
+        "start": 3369,
+        "end": 3372,
+        "string": "'s"
+      },
+      {
+        "start": 3372,
+        "end": 3373,
+        "string": " "
+      },
+      {
+        "start": 3373,
+        "end": 3379,
+        "string": "other"
+      },
+      {
+        "start": 3379,
+        "end": 3380,
+        "string": " "
+      },
+      {
+        "start": 3380,
+        "end": 3385,
+        "string": "rate"
+      },
+      {
+        "start": 3385,
+        "end": 3386,
+        "string": " "
+      },
+      {
+        "start": 3386,
+        "end": 3394,
+        "string": "classes"
+      },
+      {
+        "start": 3394,
+        "end": 3395,
+        "string": " "
+      },
+      {
+        "start": 3395,
+        "end": 3397,
+        "string": ","
+      },
+      {
+        "start": 3397,
+        "end": 3398,
+        "string": " "
+      },
+      {
+        "start": 3398,
+        "end": 3401,
+        "string": "it"
+      },
+      {
+        "start": 3401,
+        "end": 3402,
+        "string": " "
+      },
+      {
+        "start": 3402,
+        "end": 3411,
+        "string": "rejected"
+      },
+      {
+        "start": 3411,
+        "end": 3412,
+        "string": " "
+      },
+      {
+        "start": 3412,
+        "end": 3414,
+        "string": "a"
+      },
+      {
+        "start": 3414,
+        "end": 3415,
+        "string": " "
+      },
+      {
+        "start": 3415,
+        "end": 3419,
+        "string": "new"
+      },
+      {
+        "start": 3419,
+        "end": 3420,
+        "string": " "
+      },
+      {
+        "start": 3420,
+        "end": 3429,
+        "string": "optional"
+      },
+      {
+        "start": 3429,
+        "end": 3430,
+        "string": " "
+      },
+      {
+        "start": 3430,
+        "end": 3442,
+        "string": "time-of-use"
+      },
+      {
+        "start": 3442,
+        "end": 3443,
+        "string": " "
+      },
+      {
+        "start": 3443,
+        "end": 3448,
+        "string": "rate"
+      },
+      {
+        "start": 3448,
+        "end": 3449,
+        "string": " "
+      },
+      {
+        "start": 3449,
+        "end": 3453,
+        "string": "for"
+      },
+      {
+        "start": 3453,
+        "end": 3454,
+        "string": " "
+      },
+      {
+        "start": 3454,
+        "end": 3466,
+        "string": "residential"
+      },
+      {
+        "start": 3466,
+        "end": 3467,
+        "string": " "
+      },
+      {
+        "start": 3467,
+        "end": 3477,
+        "string": "customers"
+      },
+      {
+        "start": 3477,
+        "end": 3478,
+        "string": " "
+      },
+      {
+        "start": 3478,
+        "end": 3480,
+        "string": "."
+      },
+      {
+        "start": 3480,
+        "end": 3481,
+        "string": " "
+      },
+      {
+        "start": 3481,
+        "end": 3490,
+        "string": "FortisBC"
+      },
+      {
+        "start": 3490,
+        "end": 3491,
+        "string": " "
+      },
+      {
+        "start": 3491,
+        "end": 3494,
+        "string": "is"
+      },
+      {
+        "start": 3494,
+        "end": 3495,
+        "string": " "
+      },
+      {
+        "start": 3495,
+        "end": 3506,
+        "string": "continuing"
+      },
+      {
+        "start": 3506,
+        "end": 3507,
+        "string": " "
+      },
+      {
+        "start": 3507,
+        "end": 3510,
+        "string": "to"
+      },
+      {
+        "start": 3510,
+        "end": 3511,
+        "string": " "
+      },
+      {
+        "start": 3511,
+        "end": 3518,
+        "string": "review"
+      },
+      {
+        "start": 3518,
+        "end": 3519,
+        "string": " "
+      },
+      {
+        "start": 3519,
+        "end": 3523,
+        "string": "the"
+      },
+      {
+        "start": 3523,
+        "end": 3524,
+        "string": " "
+      },
+      {
+        "start": 3524,
+        "end": 3533,
+        "string": "decision"
+      },
+      {
+        "start": 3533,
+        "end": 3534,
+        "string": " "
+      },
+      {
+        "start": 3534,
+        "end": 3538,
+        "string": "and"
+      },
+      {
+        "start": 3538,
+        "end": 3539,
+        "string": " "
+      },
+      {
+        "start": 3539,
+        "end": 3544,
+        "string": "once"
+      },
+      {
+        "start": 3544,
+        "end": 3545,
+        "string": " "
+      },
+      {
+        "start": 3545,
+        "end": 3554,
+        "string": "complete"
+      },
+      {
+        "start": 3554,
+        "end": 3555,
+        "string": " "
+      },
+      {
+        "start": 3555,
+        "end": 3557,
+        "string": ","
+      },
+      {
+        "start": 3557,
+        "end": 3558,
+        "string": " "
+      },
+      {
+        "start": 3558,
+        "end": 3563,
+        "string": "will"
+      },
+      {
+        "start": 3563,
+        "end": 3564,
+        "string": " "
+      },
+      {
+        "start": 3564,
+        "end": 3574,
+        "string": "establish"
+      },
+      {
+        "start": 3574,
+        "end": 3575,
+        "string": " "
+      },
+      {
+        "start": 3575,
+        "end": 3577,
+        "string": "a"
+      },
+      {
+        "start": 3577,
+        "end": 3578,
+        "string": " "
+      },
+      {
+        "start": 3578,
+        "end": 3587,
+        "string": "timeline"
+      },
+      {
+        "start": 3587,
+        "end": 3588,
+        "string": " "
+      },
+      {
+        "start": 3588,
+        "end": 3592,
+        "string": "for"
+      },
+      {
+        "start": 3592,
+        "end": 3593,
+        "string": " "
+      },
+      {
+        "start": 3593,
+        "end": 3606,
+        "string": "implementing"
+      },
+      {
+        "start": 3606,
+        "end": 3607,
+        "string": " "
+      },
+      {
+        "start": 3607,
+        "end": 3611,
+        "string": "the"
+      },
+      {
+        "start": 3611,
+        "end": 3612,
+        "string": " "
+      },
+      {
+        "start": 3612,
+        "end": 3621,
+        "string": "approved"
+      },
+      {
+        "start": 3621,
+        "end": 3622,
+        "string": " "
+      },
+      {
+        "start": 3622,
+        "end": 3627,
+        "string": "rate"
+      },
+      {
+        "start": 3627,
+        "end": 3628,
+        "string": " "
+      },
+      {
+        "start": 3628,
+        "end": 3635,
+        "string": "design"
+      },
+      {
+        "start": 3635,
+        "end": 3636,
+        "string": " "
+      },
+      {
+        "start": 3636,
+        "end": 3644,
+        "string": "changes"
+      },
+      {
+        "start": 3644,
+        "end": 3645,
+        "string": " "
+      },
+      {
+        "start": 3645,
+        "end": 3647,
+        "string": "."
+      },
+      {
+        "start": 3647,
+        "end": 3648,
+        "string": " "
+      },
+      {
+        "start": 3648,
+        "end": 3658,
+        "string": "Customers"
+      },
+      {
+        "start": 3658,
+        "end": 3659,
+        "string": " "
+      },
+      {
+        "start": 3659,
+        "end": 3663,
+        "string": "can"
+      },
+      {
+        "start": 3663,
+        "end": 3664,
+        "string": " "
+      },
+      {
+        "start": 3664,
+        "end": 3669,
+        "string": "find"
+      },
+      {
+        "start": 3669,
+        "end": 3670,
+        "string": " "
+      },
+      {
+        "start": 3670,
+        "end": 3674,
+        "string": "out"
+      },
+      {
+        "start": 3674,
+        "end": 3675,
+        "string": " "
+      },
+      {
+        "start": 3675,
+        "end": 3680,
+        "string": "more"
+      },
+      {
+        "start": 3680,
+        "end": 3681,
+        "string": " "
+      },
+      {
+        "start": 3681,
+        "end": 3685,
+        "string": "and"
+      },
+      {
+        "start": 3685,
+        "end": 3686,
+        "string": " "
+      },
+      {
+        "start": 3686,
+        "end": 3695,
+        "string": "estimate"
+      },
+      {
+        "start": 3695,
+        "end": 3696,
+        "string": " "
+      },
+      {
+        "start": 3696,
+        "end": 3700,
+        "string": "how"
+      },
+      {
+        "start": 3700,
+        "end": 3701,
+        "string": " "
+      },
+      {
+        "start": 3701,
+        "end": 3705,
+        "string": "the"
+      },
+      {
+        "start": 3705,
+        "end": 3706,
+        "string": " "
+      },
+      {
+        "start": 3706,
+        "end": 3713,
+        "string": "return"
+      },
+      {
+        "start": 3713,
+        "end": 3714,
+        "string": " "
+      },
+      {
+        "start": 3714,
+        "end": 3717,
+        "string": "to"
+      },
+      {
+        "start": 3717,
+        "end": 3718,
+        "string": " "
+      },
+      {
+        "start": 3718,
+        "end": 3720,
+        "string": "a"
+      },
+      {
+        "start": 3720,
+        "end": 3721,
+        "string": " "
+      },
+      {
+        "start": 3721,
+        "end": 3726,
+        "string": "flat"
+      },
+      {
+        "start": 3726,
+        "end": 3727,
+        "string": " "
+      },
+      {
+        "start": 3727,
+        "end": 3732,
+        "string": "rate"
+      },
+      {
+        "start": 3732,
+        "end": 3733,
+        "string": " "
+      },
+      {
+        "start": 3733,
+        "end": 3738,
+        "string": "will"
+      },
+      {
+        "start": 3738,
+        "end": 3739,
+        "string": " "
+      },
+      {
+        "start": 3739,
+        "end": 3746,
+        "string": "affect"
+      },
+      {
+        "start": 3746,
+        "end": 3747,
+        "string": " "
+      },
+      {
+        "start": 3747,
+        "end": 3753,
+        "string": "their"
+      },
+      {
+        "start": 3753,
+        "end": 3754,
+        "string": " "
+      },
+      {
+        "start": 3754,
+        "end": 3761,
+        "string": "annual"
+      },
+      {
+        "start": 3761,
+        "end": 3762,
+        "string": " "
+      },
+      {
+        "start": 3762,
+        "end": 3774,
+        "string": "electricity"
+      },
+      {
+        "start": 3774,
+        "end": 3775,
+        "string": " "
+      },
+      {
+        "start": 3775,
+        "end": 3781,
+        "string": "costs"
+      },
+      {
+        "start": 3781,
+        "end": 3782,
+        "string": " "
+      },
+      {
+        "start": 3782,
+        "end": 3785,
+        "string": "by"
+      },
+      {
+        "start": 3785,
+        "end": 3786,
+        "string": " "
+      },
+      {
+        "start": 3786,
+        "end": 3795,
+        "string": "visiting"
+      },
+      {
+        "start": 3795,
+        "end": 3796,
+        "string": " "
+      },
+      {
+        "start": 3796,
+        "end": 3818,
+        "string": "fortisbc.com/flatrate"
+      },
+      {
+        "start": 3818,
+        "end": 3819,
+        "string": " "
+      },
+      {
+        "start": 3819,
+        "end": 3822,
+        "string": "or"
+      },
+      {
+        "start": 3822,
+        "end": 3823,
+        "string": " "
+      },
+      {
+        "start": 3823,
+        "end": 3831,
+        "string": "calling"
+      },
+      {
+        "start": 3831,
+        "end": 3832,
+        "string": " "
+      },
+      {
+        "start": 3832,
+        "end": 3847,
+        "string": "1-866-436-7847"
+      },
+      {
+        "start": 3847,
+        "end": 3848,
+        "string": " "
+      },
+      {
+        "start": 3848,
+        "end": 3850,
+        "string": "."
+      },
+      {
+        "start": 3850,
+        "end": 3851,
+        "string": " "
+      }
+    ]
+  }
+}

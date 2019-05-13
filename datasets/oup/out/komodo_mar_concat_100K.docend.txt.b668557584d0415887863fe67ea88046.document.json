@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "b668557584d0415887863fe67ea88046.doc",
+  "metadata": {
+    "title": "Tesla lowers Model S and Model X price, standardizes battery pack strategy",
+    "sourceUrl": "https://www.teslarati.com/tesla-model-s-model-x-new-pricing/",
+    "documentSource": "teslarati.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

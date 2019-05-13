@@ -1,0 +1,541 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "1dec294a3ce3456b9e724c9c3f087ef3.doc",
+  "id": "1dec294a3ce3456b9e724c9c3f087ef3.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "1dec294a3ce3456b9e724c9c3f087ef3.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "Hedi"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "string": "takes"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 20,
+        "string": "Celine"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "string": "back"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "string": " "
+      },
+      {
+        "start": 27,
+        "end": 30,
+        "string": "to"
+      },
+      {
+        "start": 30,
+        "end": 31,
+        "string": " "
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "string": "St"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "string": "Germain"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "string": "By"
+      },
+      {
+        "start": 47,
+        "end": 48,
+        "string": " "
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "string": "Godfrey"
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "string": "Deeny"
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "string": " "
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "string": "March"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 73,
+        "string": "1"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 76,
+        "string": ","
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "string": " "
+      },
+      {
+        "start": 77,
+        "end": 82,
+        "string": "2019"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "string": "So"
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "string": " "
+      },
+      {
+        "start": 87,
+        "end": 89,
+        "string": ","
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "string": "can"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "string": "we"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "string": "finally"
+      },
+      {
+        "start": 107,
+        "end": 108,
+        "string": " "
+      },
+      {
+        "start": 108,
+        "end": 114,
+        "string": "knock"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "string": "on"
+      },
+      {
+        "start": 118,
+        "end": 119,
+        "string": " "
+      },
+      {
+        "start": 119,
+        "end": 123,
+        "string": "the"
+      },
+      {
+        "start": 123,
+        "end": 124,
+        "string": " "
+      },
+      {
+        "start": 124,
+        "end": 129,
+        "string": "head"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 135,
+        "string": "this"
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "string": " "
+      },
+      {
+        "start": 136,
+        "end": 147,
+        "string": "dim-witted"
+      },
+      {
+        "start": 147,
+        "end": 148,
+        "string": " "
+      },
+      {
+        "start": 148,
+        "end": 156,
+        "string": "opinion"
+      },
+      {
+        "start": 156,
+        "end": 157,
+        "string": " "
+      },
+      {
+        "start": 157,
+        "end": 159,
+        "string": ","
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 166,
+        "string": "found"
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 178,
+        "string": "frequently"
+      },
+      {
+        "start": 178,
+        "end": 179,
+        "string": " "
+      },
+      {
+        "start": 179,
+        "end": 185,
+        "string": "among"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 190,
+        "string": "our"
+      },
+      {
+        "start": 190,
+        "end": 191,
+        "string": " "
+      },
+      {
+        "start": 191,
+        "end": 203,
+        "string": "Anglo-Saxon"
+      },
+      {
+        "start": 203,
+        "end": 204,
+        "string": " "
+      },
+      {
+        "start": 204,
+        "end": 212,
+        "string": "cousins"
+      },
+      {
+        "start": 212,
+        "end": 213,
+        "string": " "
+      },
+      {
+        "start": 213,
+        "end": 215,
+        "string": ","
+      },
+      {
+        "start": 215,
+        "end": 216,
+        "string": " "
+      },
+      {
+        "start": 216,
+        "end": 221,
+        "string": "that"
+      },
+      {
+        "start": 221,
+        "end": 222,
+        "string": " "
+      },
+      {
+        "start": 222,
+        "end": 227,
+        "string": "Hedi"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 235,
+        "string": "Simane"
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      },
+      {
+        "start": 236,
+        "end": 239,
+        "string": "is"
+      },
+      {
+        "start": 239,
+        "end": 240,
+        "string": " "
+      },
+      {
+        "start": 240,
+        "end": 242,
+        "string": "a"
+      },
+      {
+        "start": 242,
+        "end": 243,
+        "string": " "
+      },
+      {
+        "start": 243,
+        "end": 252,
+        "string": "designer"
+      },
+      {
+        "start": 252,
+        "end": 253,
+        "string": " "
+      },
+      {
+        "start": 253,
+        "end": 258,
+        "string": "with"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 266,
+        "string": "narrow"
+      },
+      {
+        "start": 266,
+        "end": 267,
+        "string": " "
+      },
+      {
+        "start": 267,
+        "end": 273,
+        "string": "range"
+      },
+      {
+        "start": 273,
+        "end": 274,
+        "string": " "
+      },
+      {
+        "start": 274,
+        "end": 276,
+        "string": ","
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 279,
+        "string": "a"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 284,
+        "string": "man"
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 293,
+        "string": "limited"
+      },
+      {
+        "start": 293,
+        "end": 294,
+        "string": " "
+      },
+      {
+        "start": 294,
+        "end": 297,
+        "string": "to"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 303,
+        "string": "rock"
+      },
+      {
+        "start": 303,
+        "end": 304,
+        "string": " "
+      },
+      {
+        "start": 304,
+        "end": 308,
+        "string": "and"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 314,
+        "string": "roll"
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 325,
+        "string": "tailoring"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 328,
+        "string": "?"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      }
+    ]
+  }
+}

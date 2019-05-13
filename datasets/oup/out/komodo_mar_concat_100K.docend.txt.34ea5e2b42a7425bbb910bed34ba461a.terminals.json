@@ -1,0 +1,2831 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "34ea5e2b42a7425bbb910bed34ba461a.doc",
+  "id": "34ea5e2b42a7425bbb910bed34ba461a.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "34ea5e2b42a7425bbb910bed34ba461a.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "Paul"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "string": "Pogba"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "string": "is"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "string": " "
+      },
+      {
+        "start": 17,
+        "end": 28,
+        "string": "reportedly"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "string": "in"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "string": "line"
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "string": " "
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "string": "to"
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "string": " "
+      },
+      {
+        "start": 43,
+        "end": 50,
+        "string": "become"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "string": "Manchester"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "string": "United"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 74,
+        "string": "'s"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 79,
+        "string": "new"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 88,
+        "string": "captain"
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "string": " "
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "string": "."
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "string": "United"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 108,
+        "string": "skipper"
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 117,
+        "string": "Antonio"
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "string": " "
+      },
+      {
+        "start": 118,
+        "end": 127,
+        "string": "Valencia"
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 134,
+        "string": "looks"
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "string": " "
+      },
+      {
+        "start": 135,
+        "end": 139,
+        "string": "set"
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "string": " "
+      },
+      {
+        "start": 140,
+        "end": 143,
+        "string": "to"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 150,
+        "string": "leave"
+      },
+      {
+        "start": 150,
+        "end": 151,
+        "string": " "
+      },
+      {
+        "start": 151,
+        "end": 155,
+        "string": "Old"
+      },
+      {
+        "start": 155,
+        "end": 156,
+        "string": " "
+      },
+      {
+        "start": 156,
+        "end": 165,
+        "string": "Trafford"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 171,
+        "string": "this"
+      },
+      {
+        "start": 171,
+        "end": 172,
+        "string": " "
+      },
+      {
+        "start": 172,
+        "end": 179,
+        "string": "summer"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 186,
+        "string": "after"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "string": " "
+      },
+      {
+        "start": 187,
+        "end": 190,
+        "string": "10"
+      },
+      {
+        "start": 190,
+        "end": 191,
+        "string": " "
+      },
+      {
+        "start": 191,
+        "end": 197,
+        "string": "years"
+      },
+      {
+        "start": 197,
+        "end": 198,
+        "string": " "
+      },
+      {
+        "start": 198,
+        "end": 201,
+        "string": "at"
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "string": " "
+      },
+      {
+        "start": 202,
+        "end": 206,
+        "string": "the"
+      },
+      {
+        "start": 206,
+        "end": 207,
+        "string": " "
+      },
+      {
+        "start": 207,
+        "end": 212,
+        "string": "club"
+      },
+      {
+        "start": 212,
+        "end": 213,
+        "string": " "
+      },
+      {
+        "start": 213,
+        "end": 215,
+        "string": "."
+      },
+      {
+        "start": 215,
+        "end": 216,
+        "string": " "
+      },
+      {
+        "start": 216,
+        "end": 220,
+        "string": "The"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 233,
+        "string": "33-year-old"
+      },
+      {
+        "start": 233,
+        "end": 234,
+        "string": " "
+      },
+      {
+        "start": 234,
+        "end": 238,
+        "string": "was"
+      },
+      {
+        "start": 238,
+        "end": 239,
+        "string": " "
+      },
+      {
+        "start": 239,
+        "end": 245,
+        "string": "given"
+      },
+      {
+        "start": 245,
+        "end": 246,
+        "string": " "
+      },
+      {
+        "start": 246,
+        "end": 250,
+        "string": "the"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 259,
+        "string": "armband"
+      },
+      {
+        "start": 259,
+        "end": 260,
+        "string": " "
+      },
+      {
+        "start": 260,
+        "end": 263,
+        "string": "by"
+      },
+      {
+        "start": 263,
+        "end": 264,
+        "string": " "
+      },
+      {
+        "start": 264,
+        "end": 269,
+        "string": "Jose"
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 279,
+        "string": "Mourinho"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 283,
+        "string": "in"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 288,
+        "string": "the"
+      },
+      {
+        "start": 288,
+        "end": 289,
+        "string": " "
+      },
+      {
+        "start": 289,
+        "end": 296,
+        "string": "summer"
+      },
+      {
+        "start": 296,
+        "end": 297,
+        "string": " "
+      },
+      {
+        "start": 297,
+        "end": 299,
+        "string": ","
+      },
+      {
+        "start": 299,
+        "end": 300,
+        "string": " "
+      },
+      {
+        "start": 300,
+        "end": 304,
+        "string": "but"
+      },
+      {
+        "start": 304,
+        "end": 305,
+        "string": " "
+      },
+      {
+        "start": 305,
+        "end": 309,
+        "string": "has"
+      },
+      {
+        "start": 309,
+        "end": 310,
+        "string": " "
+      },
+      {
+        "start": 310,
+        "end": 318,
+        "string": "managed"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 324,
+        "string": "just"
+      },
+      {
+        "start": 324,
+        "end": 325,
+        "string": " "
+      },
+      {
+        "start": 325,
+        "end": 331,
+        "string": "eight"
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 344,
+        "string": "appearances"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 350,
+        "string": "this"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 358,
+        "string": "season"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 361,
+        "string": "-"
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 366,
+        "string": "and"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 369,
+        "string": "a"
+      },
+      {
+        "start": 369,
+        "end": 370,
+        "string": " "
+      },
+      {
+        "start": 370,
+        "end": 375,
+        "string": "calf"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 386,
+        "string": "complaint"
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 391,
+        "string": "has"
+      },
+      {
+        "start": 391,
+        "end": 392,
+        "string": " "
+      },
+      {
+        "start": 392,
+        "end": 397,
+        "string": "been"
+      },
+      {
+        "start": 397,
+        "end": 398,
+        "string": " "
+      },
+      {
+        "start": 398,
+        "end": 405,
+        "string": "partly"
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "string": " "
+      },
+      {
+        "start": 406,
+        "end": 413,
+        "string": "behind"
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 418,
+        "string": "why"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 422,
+        "string": "he"
+      },
+      {
+        "start": 422,
+        "end": 423,
+        "string": " "
+      },
+      {
+        "start": 423,
+        "end": 427,
+        "string": "has"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 433,
+        "string": "made"
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 439,
+        "string": "just"
+      },
+      {
+        "start": 439,
+        "end": 440,
+        "string": " "
+      },
+      {
+        "start": 440,
+        "end": 444,
+        "string": "one"
+      },
+      {
+        "start": 444,
+        "end": 445,
+        "string": " "
+      },
+      {
+        "start": 445,
+        "end": 451,
+        "string": "start"
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 458,
+        "string": "under"
+      },
+      {
+        "start": 458,
+        "end": 459,
+        "string": " "
+      },
+      {
+        "start": 459,
+        "end": 463,
+        "string": "Ole"
+      },
+      {
+        "start": 463,
+        "end": 464,
+        "string": " "
+      },
+      {
+        "start": 464,
+        "end": 471,
+        "string": "Gunnar"
+      },
+      {
+        "start": 471,
+        "end": 472,
+        "string": " "
+      },
+      {
+        "start": 472,
+        "end": 482,
+        "string": "Solskjaer"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 485,
+        "string": "."
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 495,
+        "string": "Valencia"
+      },
+      {
+        "start": 495,
+        "end": 496,
+        "string": " "
+      },
+      {
+        "start": 496,
+        "end": 503,
+        "string": "hinted"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 509,
+        "string": "late"
+      },
+      {
+        "start": 509,
+        "end": 510,
+        "string": " "
+      },
+      {
+        "start": 510,
+        "end": 513,
+        "string": "on"
+      },
+      {
+        "start": 513,
+        "end": 514,
+        "string": " "
+      },
+      {
+        "start": 514,
+        "end": 521,
+        "string": "Friday"
+      },
+      {
+        "start": 521,
+        "end": 522,
+        "string": " "
+      },
+      {
+        "start": 522,
+        "end": 530,
+        "string": "evening"
+      },
+      {
+        "start": 530,
+        "end": 531,
+        "string": " "
+      },
+      {
+        "start": 531,
+        "end": 536,
+        "string": "that"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 540,
+        "string": "he"
+      },
+      {
+        "start": 540,
+        "end": 541,
+        "string": " "
+      },
+      {
+        "start": 541,
+        "end": 544,
+        "string": "is"
+      },
+      {
+        "start": 544,
+        "end": 545,
+        "string": " "
+      },
+      {
+        "start": 545,
+        "end": 549,
+        "string": "set"
+      },
+      {
+        "start": 549,
+        "end": 550,
+        "string": " "
+      },
+      {
+        "start": 550,
+        "end": 553,
+        "string": "to"
+      },
+      {
+        "start": 553,
+        "end": 554,
+        "string": " "
+      },
+      {
+        "start": 554,
+        "end": 559,
+        "string": "exit"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 564,
+        "string": "the"
+      },
+      {
+        "start": 564,
+        "end": 565,
+        "string": " "
+      },
+      {
+        "start": 565,
+        "end": 570,
+        "string": "club"
+      },
+      {
+        "start": 570,
+        "end": 571,
+        "string": " "
+      },
+      {
+        "start": 571,
+        "end": 573,
+        "string": "-"
+      },
+      {
+        "start": 573,
+        "end": 574,
+        "string": " "
+      },
+      {
+        "start": 574,
+        "end": 578,
+        "string": "and"
+      },
+      {
+        "start": 578,
+        "end": 579,
+        "string": " "
+      },
+      {
+        "start": 579,
+        "end": 585,
+        "string": "Pogba"
+      },
+      {
+        "start": 585,
+        "end": 586,
+        "string": " "
+      },
+      {
+        "start": 586,
+        "end": 590,
+        "string": "has"
+      },
+      {
+        "start": 590,
+        "end": 591,
+        "string": " "
+      },
+      {
+        "start": 591,
+        "end": 599,
+        "string": "emerged"
+      },
+      {
+        "start": 599,
+        "end": 600,
+        "string": " "
+      },
+      {
+        "start": 600,
+        "end": 603,
+        "string": "as"
+      },
+      {
+        "start": 603,
+        "end": 604,
+        "string": " "
+      },
+      {
+        "start": 604,
+        "end": 608,
+        "string": "the"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 613,
+        "string": "No."
+      },
+      {
+        "start": 613,
+        "end": 614,
+        "string": " "
+      },
+      {
+        "start": 614,
+        "end": 616,
+        "string": "1"
+      },
+      {
+        "start": 616,
+        "end": 617,
+        "string": " "
+      },
+      {
+        "start": 617,
+        "end": 627,
+        "string": "candidate"
+      },
+      {
+        "start": 627,
+        "end": 628,
+        "string": " "
+      },
+      {
+        "start": 628,
+        "end": 631,
+        "string": "to"
+      },
+      {
+        "start": 631,
+        "end": 632,
+        "string": " "
+      },
+      {
+        "start": 632,
+        "end": 640,
+        "string": "replace"
+      },
+      {
+        "start": 640,
+        "end": 641,
+        "string": " "
+      },
+      {
+        "start": 641,
+        "end": 645,
+        "string": "him"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 649,
+        "string": "as"
+      },
+      {
+        "start": 649,
+        "end": 650,
+        "string": " "
+      },
+      {
+        "start": 650,
+        "end": 657,
+        "string": "United"
+      },
+      {
+        "start": 657,
+        "end": 658,
+        "string": " "
+      },
+      {
+        "start": 658,
+        "end": 666,
+        "string": "captain"
+      },
+      {
+        "start": 666,
+        "end": 667,
+        "string": " "
+      },
+      {
+        "start": 667,
+        "end": 669,
+        "string": ","
+      },
+      {
+        "start": 669,
+        "end": 670,
+        "string": " "
+      },
+      {
+        "start": 670,
+        "end": 680,
+        "string": "according"
+      },
+      {
+        "start": 680,
+        "end": 681,
+        "string": " "
+      },
+      {
+        "start": 681,
+        "end": 684,
+        "string": "to"
+      },
+      {
+        "start": 684,
+        "end": 685,
+        "string": " "
+      },
+      {
+        "start": 685,
+        "end": 689,
+        "string": "The"
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 694,
+        "string": "Sun"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 697,
+        "string": "."
+      },
+      {
+        "start": 697,
+        "end": 698,
+        "string": " "
+      },
+      {
+        "start": 698,
+        "end": 707,
+        "string": "Mourinho"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 713,
+        "string": "took"
+      },
+      {
+        "start": 713,
+        "end": 714,
+        "string": " "
+      },
+      {
+        "start": 714,
+        "end": 718,
+        "string": "the"
+      },
+      {
+        "start": 718,
+        "end": 719,
+        "string": " "
+      },
+      {
+        "start": 719,
+        "end": 734,
+        "string": "vice-captaincy"
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 739,
+        "string": "off"
+      },
+      {
+        "start": 739,
+        "end": 740,
+        "string": " "
+      },
+      {
+        "start": 740,
+        "end": 744,
+        "string": "the"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 752,
+        "string": "French"
+      },
+      {
+        "start": 752,
+        "end": 753,
+        "string": " "
+      },
+      {
+        "start": 753,
+        "end": 764,
+        "string": "midfielder"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 769,
+        "string": "but"
+      },
+      {
+        "start": 769,
+        "end": 770,
+        "string": " "
+      },
+      {
+        "start": 770,
+        "end": 773,
+        "string": "he"
+      },
+      {
+        "start": 773,
+        "end": 774,
+        "string": " "
+      },
+      {
+        "start": 774,
+        "end": 778,
+        "string": "has"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 787,
+        "string": "enjoyed"
+      },
+      {
+        "start": 787,
+        "end": 788,
+        "string": " "
+      },
+      {
+        "start": 788,
+        "end": 790,
+        "string": "a"
+      },
+      {
+        "start": 790,
+        "end": 791,
+        "string": " "
+      },
+      {
+        "start": 791,
+        "end": 800,
+        "string": "stunning"
+      },
+      {
+        "start": 800,
+        "end": 801,
+        "string": " "
+      },
+      {
+        "start": 801,
+        "end": 808,
+        "string": "change"
+      },
+      {
+        "start": 808,
+        "end": 809,
+        "string": " "
+      },
+      {
+        "start": 809,
+        "end": 812,
+        "string": "in"
+      },
+      {
+        "start": 812,
+        "end": 813,
+        "string": " "
+      },
+      {
+        "start": 813,
+        "end": 822,
+        "string": "fortunes"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 829,
+        "string": "since"
+      },
+      {
+        "start": 829,
+        "end": 830,
+        "string": " "
+      },
+      {
+        "start": 830,
+        "end": 840,
+        "string": "Solskjaer"
+      },
+      {
+        "start": 840,
+        "end": 841,
+        "string": " "
+      },
+      {
+        "start": 841,
+        "end": 844,
+        "string": "'s"
+      },
+      {
+        "start": 844,
+        "end": 845,
+        "string": " "
+      },
+      {
+        "start": 845,
+        "end": 853,
+        "string": "arrival"
+      },
+      {
+        "start": 853,
+        "end": 854,
+        "string": " "
+      },
+      {
+        "start": 854,
+        "end": 856,
+        "string": "."
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 863,
+        "string": "Pogba"
+      },
+      {
+        "start": 863,
+        "end": 864,
+        "string": " "
+      },
+      {
+        "start": 864,
+        "end": 868,
+        "string": "has"
+      },
+      {
+        "start": 868,
+        "end": 869,
+        "string": " "
+      },
+      {
+        "start": 869,
+        "end": 874,
+        "string": "been"
+      },
+      {
+        "start": 874,
+        "end": 875,
+        "string": " "
+      },
+      {
+        "start": 875,
+        "end": 877,
+        "string": "a"
+      },
+      {
+        "start": 877,
+        "end": 878,
+        "string": " "
+      },
+      {
+        "start": 878,
+        "end": 886,
+        "string": "regular"
+      },
+      {
+        "start": 886,
+        "end": 887,
+        "string": " "
+      },
+      {
+        "start": 887,
+        "end": 891,
+        "string": "and"
+      },
+      {
+        "start": 891,
+        "end": 892,
+        "string": " "
+      },
+      {
+        "start": 892,
+        "end": 900,
+        "string": "chipped"
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 904,
+        "string": "in"
+      },
+      {
+        "start": 904,
+        "end": 905,
+        "string": " "
+      },
+      {
+        "start": 905,
+        "end": 910,
+        "string": "with"
+      },
+      {
+        "start": 910,
+        "end": 911,
+        "string": " "
+      },
+      {
+        "start": 911,
+        "end": 916,
+        "string": "nine"
+      },
+      {
+        "start": 916,
+        "end": 917,
+        "string": " "
+      },
+      {
+        "start": 917,
+        "end": 923,
+        "string": "goals"
+      },
+      {
+        "start": 923,
+        "end": 924,
+        "string": " "
+      },
+      {
+        "start": 924,
+        "end": 927,
+        "string": "as"
+      },
+      {
+        "start": 927,
+        "end": 928,
+        "string": " "
+      },
+      {
+        "start": 928,
+        "end": 932,
+        "string": "the"
+      },
+      {
+        "start": 932,
+        "end": 933,
+        "string": " "
+      },
+      {
+        "start": 933,
+        "end": 937,
+        "string": "Red"
+      },
+      {
+        "start": 937,
+        "end": 938,
+        "string": " "
+      },
+      {
+        "start": 938,
+        "end": 945,
+        "string": "Devils"
+      },
+      {
+        "start": 945,
+        "end": 946,
+        "string": " "
+      },
+      {
+        "start": 946,
+        "end": 951,
+        "string": "have"
+      },
+      {
+        "start": 951,
+        "end": 952,
+        "string": " "
+      },
+      {
+        "start": 952,
+        "end": 962,
+        "string": "reignited"
+      },
+      {
+        "start": 962,
+        "end": 963,
+        "string": " "
+      },
+      {
+        "start": 963,
+        "end": 969,
+        "string": "their"
+      },
+      {
+        "start": 969,
+        "end": 970,
+        "string": " "
+      },
+      {
+        "start": 970,
+        "end": 974,
+        "string": "top"
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 980,
+        "string": "four"
+      },
+      {
+        "start": 980,
+        "end": 981,
+        "string": " "
+      },
+      {
+        "start": 981,
+        "end": 987,
+        "string": "hopes"
+      },
+      {
+        "start": 987,
+        "end": 988,
+        "string": " "
+      },
+      {
+        "start": 988,
+        "end": 990,
+        "string": "."
+      },
+      {
+        "start": 990,
+        "end": 991,
+        "string": " "
+      },
+      {
+        "start": 991,
+        "end": 995,
+        "string": "His"
+      },
+      {
+        "start": 995,
+        "end": 996,
+        "string": " "
+      },
+      {
+        "start": 996,
+        "end": 1003,
+        "string": "future"
+      },
+      {
+        "start": 1003,
+        "end": 1004,
+        "string": " "
+      },
+      {
+        "start": 1004,
+        "end": 1007,
+        "string": "at"
+      },
+      {
+        "start": 1007,
+        "end": 1008,
+        "string": " "
+      },
+      {
+        "start": 1008,
+        "end": 1012,
+        "string": "Old"
+      },
+      {
+        "start": 1012,
+        "end": 1013,
+        "string": " "
+      },
+      {
+        "start": 1013,
+        "end": 1022,
+        "string": "Trafford"
+      },
+      {
+        "start": 1022,
+        "end": 1023,
+        "string": " "
+      },
+      {
+        "start": 1023,
+        "end": 1030,
+        "string": "looked"
+      },
+      {
+        "start": 1030,
+        "end": 1031,
+        "string": " "
+      },
+      {
+        "start": 1031,
+        "end": 1034,
+        "string": "to"
+      },
+      {
+        "start": 1034,
+        "end": 1035,
+        "string": " "
+      },
+      {
+        "start": 1035,
+        "end": 1038,
+        "string": "be"
+      },
+      {
+        "start": 1038,
+        "end": 1039,
+        "string": " "
+      },
+      {
+        "start": 1039,
+        "end": 1042,
+        "string": "in"
+      },
+      {
+        "start": 1042,
+        "end": 1043,
+        "string": " "
+      },
+      {
+        "start": 1043,
+        "end": 1051,
+        "string": "serious"
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1058,
+        "string": "doubt"
+      },
+      {
+        "start": 1058,
+        "end": 1059,
+        "string": " "
+      },
+      {
+        "start": 1059,
+        "end": 1066,
+        "string": "before"
+      },
+      {
+        "start": 1066,
+        "end": 1067,
+        "string": " "
+      },
+      {
+        "start": 1067,
+        "end": 1076,
+        "string": "Mourinho"
+      },
+      {
+        "start": 1076,
+        "end": 1077,
+        "string": " "
+      },
+      {
+        "start": 1077,
+        "end": 1080,
+        "string": "'s"
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1091,
+        "string": "departure"
+      },
+      {
+        "start": 1091,
+        "end": 1092,
+        "string": " "
+      },
+      {
+        "start": 1092,
+        "end": 1096,
+        "string": "but"
+      },
+      {
+        "start": 1096,
+        "end": 1097,
+        "string": " "
+      },
+      {
+        "start": 1097,
+        "end": 1100,
+        "string": "it"
+      },
+      {
+        "start": 1100,
+        "end": 1101,
+        "string": " "
+      },
+      {
+        "start": 1101,
+        "end": 1104,
+        "string": "is"
+      },
+      {
+        "start": 1104,
+        "end": 1105,
+        "string": " "
+      },
+      {
+        "start": 1105,
+        "end": 1113,
+        "string": "claimed"
+      },
+      {
+        "start": 1113,
+        "end": 1114,
+        "string": " "
+      },
+      {
+        "start": 1114,
+        "end": 1124,
+        "string": "Solskjaer"
+      },
+      {
+        "start": 1124,
+        "end": 1125,
+        "string": " "
+      },
+      {
+        "start": 1125,
+        "end": 1128,
+        "string": "is"
+      },
+      {
+        "start": 1128,
+        "end": 1129,
+        "string": " "
+      },
+      {
+        "start": 1129,
+        "end": 1135,
+        "string": "ready"
+      },
+      {
+        "start": 1135,
+        "end": 1136,
+        "string": " "
+      },
+      {
+        "start": 1136,
+        "end": 1139,
+        "string": "to"
+      },
+      {
+        "start": 1139,
+        "end": 1140,
+        "string": " "
+      },
+      {
+        "start": 1140,
+        "end": 1145,
+        "string": "hand"
+      },
+      {
+        "start": 1145,
+        "end": 1146,
+        "string": " "
+      },
+      {
+        "start": 1146,
+        "end": 1150,
+        "string": "him"
+      },
+      {
+        "start": 1150,
+        "end": 1151,
+        "string": " "
+      },
+      {
+        "start": 1151,
+        "end": 1155,
+        "string": "the"
+      },
+      {
+        "start": 1155,
+        "end": 1156,
+        "string": " "
+      },
+      {
+        "start": 1156,
+        "end": 1166,
+        "string": "captaincy"
+      },
+      {
+        "start": 1166,
+        "end": 1167,
+        "string": " "
+      },
+      {
+        "start": 1167,
+        "end": 1170,
+        "string": "in"
+      },
+      {
+        "start": 1170,
+        "end": 1171,
+        "string": " "
+      },
+      {
+        "start": 1171,
+        "end": 1175,
+        "string": "the"
+      },
+      {
+        "start": 1175,
+        "end": 1176,
+        "string": " "
+      },
+      {
+        "start": 1176,
+        "end": 1183,
+        "string": "summer"
+      },
+      {
+        "start": 1183,
+        "end": 1184,
+        "string": " "
+      },
+      {
+        "start": 1184,
+        "end": 1186,
+        "string": "."
+      },
+      {
+        "start": 1186,
+        "end": 1187,
+        "string": " "
+      },
+      {
+        "start": 1187,
+        "end": 1196,
+        "string": "Valencia"
+      },
+      {
+        "start": 1196,
+        "end": 1197,
+        "string": " "
+      },
+      {
+        "start": 1197,
+        "end": 1200,
+        "string": "is"
+      },
+      {
+        "start": 1200,
+        "end": 1201,
+        "string": " "
+      },
+      {
+        "start": 1201,
+        "end": 1210,
+        "string": "believed"
+      },
+      {
+        "start": 1210,
+        "end": 1211,
+        "string": " "
+      },
+      {
+        "start": 1211,
+        "end": 1214,
+        "string": "to"
+      },
+      {
+        "start": 1214,
+        "end": 1215,
+        "string": " "
+      },
+      {
+        "start": 1215,
+        "end": 1220,
+        "string": "have"
+      },
+      {
+        "start": 1220,
+        "end": 1221,
+        "string": " "
+      },
+      {
+        "start": 1221,
+        "end": 1230,
+        "string": "returned"
+      },
+      {
+        "start": 1230,
+        "end": 1231,
+        "string": " "
+      },
+      {
+        "start": 1231,
+        "end": 1234,
+        "string": "to"
+      },
+      {
+        "start": 1234,
+        "end": 1235,
+        "string": " "
+      },
+      {
+        "start": 1235,
+        "end": 1243,
+        "string": "Ecuador"
+      },
+      {
+        "start": 1243,
+        "end": 1244,
+        "string": " "
+      },
+      {
+        "start": 1244,
+        "end": 1247,
+        "string": "as"
+      },
+      {
+        "start": 1247,
+        "end": 1248,
+        "string": " "
+      },
+      {
+        "start": 1248,
+        "end": 1251,
+        "string": "he"
+      },
+      {
+        "start": 1251,
+        "end": 1252,
+        "string": " "
+      },
+      {
+        "start": 1252,
+        "end": 1261,
+        "string": "recovers"
+      },
+      {
+        "start": 1261,
+        "end": 1262,
+        "string": " "
+      },
+      {
+        "start": 1262,
+        "end": 1267,
+        "string": "from"
+      },
+      {
+        "start": 1267,
+        "end": 1268,
+        "string": " "
+      },
+      {
+        "start": 1268,
+        "end": 1272,
+        "string": "his"
+      },
+      {
+        "start": 1272,
+        "end": 1273,
+        "string": " "
+      },
+      {
+        "start": 1273,
+        "end": 1280,
+        "string": "latest"
+      },
+      {
+        "start": 1280,
+        "end": 1281,
+        "string": " "
+      },
+      {
+        "start": 1281,
+        "end": 1288,
+        "string": "injury"
+      },
+      {
+        "start": 1288,
+        "end": 1289,
+        "string": " "
+      },
+      {
+        "start": 1289,
+        "end": 1295,
+        "string": "issue"
+      },
+      {
+        "start": 1295,
+        "end": 1296,
+        "string": " "
+      },
+      {
+        "start": 1296,
+        "end": 1300,
+        "string": "and"
+      },
+      {
+        "start": 1300,
+        "end": 1301,
+        "string": " "
+      },
+      {
+        "start": 1301,
+        "end": 1309,
+        "string": "expects"
+      },
+      {
+        "start": 1309,
+        "end": 1310,
+        "string": " "
+      },
+      {
+        "start": 1310,
+        "end": 1313,
+        "string": "to"
+      },
+      {
+        "start": 1313,
+        "end": 1314,
+        "string": " "
+      },
+      {
+        "start": 1314,
+        "end": 1320,
+        "string": "leave"
+      },
+      {
+        "start": 1320,
+        "end": 1321,
+        "string": " "
+      },
+      {
+        "start": 1321,
+        "end": 1325,
+        "string": "the"
+      },
+      {
+        "start": 1325,
+        "end": 1326,
+        "string": " "
+      },
+      {
+        "start": 1326,
+        "end": 1331,
+        "string": "club"
+      },
+      {
+        "start": 1331,
+        "end": 1332,
+        "string": " "
+      },
+      {
+        "start": 1332,
+        "end": 1338,
+        "string": "after"
+      },
+      {
+        "start": 1338,
+        "end": 1339,
+        "string": " "
+      },
+      {
+        "start": 1339,
+        "end": 1341,
+        "string": "a"
+      },
+      {
+        "start": 1341,
+        "end": 1342,
+        "string": " "
+      },
+      {
+        "start": 1342,
+        "end": 1349,
+        "string": "decade"
+      },
+      {
+        "start": 1349,
+        "end": 1350,
+        "string": " "
+      },
+      {
+        "start": 1350,
+        "end": 1353,
+        "string": "of"
+      },
+      {
+        "start": 1353,
+        "end": 1354,
+        "string": " "
+      },
+      {
+        "start": 1354,
+        "end": 1362,
+        "string": "service"
+      },
+      {
+        "start": 1362,
+        "end": 1363,
+        "string": " "
+      },
+      {
+        "start": 1363,
+        "end": 1365,
+        "string": "."
+      },
+      {
+        "start": 1365,
+        "end": 1366,
+        "string": " "
+      },
+      {
+        "start": 1366,
+        "end": 1375,
+        "string": "Valencia"
+      },
+      {
+        "start": 1375,
+        "end": 1376,
+        "string": " "
+      },
+      {
+        "start": 1376,
+        "end": 1382,
+        "string": "wrote"
+      },
+      {
+        "start": 1382,
+        "end": 1383,
+        "string": " "
+      },
+      {
+        "start": 1383,
+        "end": 1386,
+        "string": "on"
+      },
+      {
+        "start": 1386,
+        "end": 1387,
+        "string": " "
+      },
+      {
+        "start": 1387,
+        "end": 1395,
+        "string": "Twitter"
+      },
+      {
+        "start": 1395,
+        "end": 1396,
+        "string": " "
+      },
+      {
+        "start": 1396,
+        "end": 1398,
+        "string": ":"
+      },
+      {
+        "start": 1398,
+        "end": 1399,
+        "string": " "
+      },
+      {
+        "start": 1399,
+        "end": 1401,
+        "string": "\""
+      },
+      {
+        "start": 1401,
+        "end": 1402,
+        "string": " "
+      },
+      {
+        "start": 1402,
+        "end": 1407,
+        "string": "Lago"
+      },
+      {
+        "start": 1407,
+        "end": 1408,
+        "string": " "
+      },
+      {
+        "start": 1408,
+        "end": 1414,
+        "string": "Agrio"
+      },
+      {
+        "start": 1414,
+        "end": 1415,
+        "string": " "
+      },
+      {
+        "start": 1415,
+        "end": 1418,
+        "string": "is"
+      },
+      {
+        "start": 1418,
+        "end": 1419,
+        "string": " "
+      },
+      {
+        "start": 1419,
+        "end": 1421,
+        "string": "a"
+      },
+      {
+        "start": 1421,
+        "end": 1422,
+        "string": " "
+      },
+      {
+        "start": 1422,
+        "end": 1427,
+        "string": "very"
+      },
+      {
+        "start": 1427,
+        "end": 1428,
+        "string": " "
+      },
+      {
+        "start": 1428,
+        "end": 1435,
+        "string": "humble"
+      },
+      {
+        "start": 1435,
+        "end": 1436,
+        "string": " "
+      },
+      {
+        "start": 1436,
+        "end": 1441,
+        "string": "town"
+      },
+      {
+        "start": 1441,
+        "end": 1442,
+        "string": " "
+      },
+      {
+        "start": 1442,
+        "end": 1445,
+        "string": "in"
+      },
+      {
+        "start": 1445,
+        "end": 1446,
+        "string": " "
+      },
+      {
+        "start": 1446,
+        "end": 1454,
+        "string": "Ecuador"
+      },
+      {
+        "start": 1454,
+        "end": 1455,
+        "string": " "
+      },
+      {
+        "start": 1455,
+        "end": 1457,
+        "string": "."
+      },
+      {
+        "start": 1457,
+        "end": 1458,
+        "string": " "
+      },
+      {
+        "start": 1458,
+        "end": 1463,
+        "string": "When"
+      },
+      {
+        "start": 1463,
+        "end": 1464,
+        "string": " "
+      },
+      {
+        "start": 1464,
+        "end": 1466,
+        "string": "I"
+      },
+      {
+        "start": 1466,
+        "end": 1467,
+        "string": " "
+      },
+      {
+        "start": 1467,
+        "end": 1471,
+        "string": "was"
+      },
+      {
+        "start": 1471,
+        "end": 1472,
+        "string": " "
+      },
+      {
+        "start": 1472,
+        "end": 1474,
+        "string": "a"
+      },
+      {
+        "start": 1474,
+        "end": 1475,
+        "string": " "
+      },
+      {
+        "start": 1475,
+        "end": 1481,
+        "string": "child"
+      },
+      {
+        "start": 1481,
+        "end": 1482,
+        "string": " "
+      },
+      {
+        "start": 1482,
+        "end": 1484,
+        "string": ","
+      },
+      {
+        "start": 1484,
+        "end": 1485,
+        "string": " "
+      },
+      {
+        "start": 1485,
+        "end": 1487,
+        "string": "I"
+      },
+      {
+        "start": 1487,
+        "end": 1488,
+        "string": " "
+      },
+      {
+        "start": 1488,
+        "end": 1494,
+        "string": "never"
+      },
+      {
+        "start": 1494,
+        "end": 1495,
+        "string": " "
+      },
+      {
+        "start": 1495,
+        "end": 1504,
+        "string": "imagined"
+      },
+      {
+        "start": 1504,
+        "end": 1505,
+        "string": " "
+      },
+      {
+        "start": 1505,
+        "end": 1512,
+        "string": "travel"
+      },
+      {
+        "start": 1512,
+        "end": 1513,
+        "string": " "
+      },
+      {
+        "start": 1513,
+        "end": 1516,
+        "string": "to"
+      },
+      {
+        "start": 1516,
+        "end": 1517,
+        "string": " "
+      },
+      {
+        "start": 1517,
+        "end": 1524,
+        "string": "Europe"
+      },
+      {
+        "start": 1524,
+        "end": 1525,
+        "string": " "
+      },
+      {
+        "start": 1525,
+        "end": 1527,
+        "string": "."
+      },
+      {
+        "start": 1527,
+        "end": 1528,
+        "string": " "
+      },
+      {
+        "start": 1528,
+        "end": 1535,
+        "string": "Thanks"
+      },
+      {
+        "start": 1535,
+        "end": 1536,
+        "string": " "
+      },
+      {
+        "start": 1536,
+        "end": 1539,
+        "string": "to"
+      },
+      {
+        "start": 1539,
+        "end": 1540,
+        "string": " "
+      },
+      {
+        "start": 1540,
+        "end": 1544,
+        "string": "God"
+      },
+      {
+        "start": 1544,
+        "end": 1545,
+        "string": " "
+      },
+      {
+        "start": 1545,
+        "end": 1549,
+        "string": "for"
+      },
+      {
+        "start": 1549,
+        "end": 1550,
+        "string": " "
+      },
+      {
+        "start": 1550,
+        "end": 1558,
+        "string": "letting"
+      },
+      {
+        "start": 1558,
+        "end": 1559,
+        "string": " "
+      },
+      {
+        "start": 1559,
+        "end": 1562,
+        "string": "me"
+      },
+      {
+        "start": 1562,
+        "end": 1563,
+        "string": " "
+      },
+      {
+        "start": 1563,
+        "end": 1568,
+        "string": "play"
+      },
+      {
+        "start": 1568,
+        "end": 1569,
+        "string": " "
+      },
+      {
+        "start": 1569,
+        "end": 1572,
+        "string": "10"
+      },
+      {
+        "start": 1572,
+        "end": 1573,
+        "string": " "
+      },
+      {
+        "start": 1573,
+        "end": 1579,
+        "string": "years"
+      },
+      {
+        "start": 1579,
+        "end": 1580,
+        "string": " "
+      },
+      {
+        "start": 1580,
+        "end": 1583,
+        "string": "in"
+      },
+      {
+        "start": 1583,
+        "end": 1584,
+        "string": " "
+      },
+      {
+        "start": 1584,
+        "end": 1588,
+        "string": "the"
+      },
+      {
+        "start": 1588,
+        "end": 1589,
+        "string": " "
+      },
+      {
+        "start": 1589,
+        "end": 1594,
+        "string": "best"
+      },
+      {
+        "start": 1594,
+        "end": 1595,
+        "string": " "
+      },
+      {
+        "start": 1595,
+        "end": 1600,
+        "string": "club"
+      },
+      {
+        "start": 1600,
+        "end": 1601,
+        "string": " "
+      },
+      {
+        "start": 1601,
+        "end": 1604,
+        "string": "in"
+      },
+      {
+        "start": 1604,
+        "end": 1605,
+        "string": " "
+      },
+      {
+        "start": 1605,
+        "end": 1609,
+        "string": "the"
+      },
+      {
+        "start": 1609,
+        "end": 1610,
+        "string": " "
+      },
+      {
+        "start": 1610,
+        "end": 1616,
+        "string": "world"
+      },
+      {
+        "start": 1616,
+        "end": 1617,
+        "string": " "
+      },
+      {
+        "start": 1617,
+        "end": 1619,
+        "string": ":"
+      },
+      {
+        "start": 1619,
+        "end": 1620,
+        "string": " "
+      },
+      {
+        "start": 1620,
+        "end": 1628,
+        "string": "@ManUtd"
+      },
+      {
+        "start": 1628,
+        "end": 1629,
+        "string": " "
+      },
+      {
+        "start": 1629,
+        "end": 1631,
+        "string": "."
+      },
+      {
+        "start": 1631,
+        "end": 1632,
+        "string": " "
+      },
+      {
+        "start": 1632,
+        "end": 1634,
+        "string": "\""
+      },
+      {
+        "start": 1634,
+        "end": 1635,
+        "string": " "
+      },
+      {
+        "start": 1635,
+        "end": 1639,
+        "string": "Now"
+      },
+      {
+        "start": 1639,
+        "end": 1640,
+        "string": " "
+      },
+      {
+        "start": 1640,
+        "end": 1642,
+        "string": "I"
+      },
+      {
+        "start": 1642,
+        "end": 1643,
+        "string": " "
+      },
+      {
+        "start": 1643,
+        "end": 1646,
+        "string": "am"
+      },
+      {
+        "start": 1646,
+        "end": 1647,
+        "string": " "
+      },
+      {
+        "start": 1647,
+        "end": 1655,
+        "string": "focused"
+      },
+      {
+        "start": 1655,
+        "end": 1656,
+        "string": " "
+      },
+      {
+        "start": 1656,
+        "end": 1659,
+        "string": "on"
+      },
+      {
+        "start": 1659,
+        "end": 1660,
+        "string": " "
+      },
+      {
+        "start": 1660,
+        "end": 1663,
+        "string": "my"
+      },
+      {
+        "start": 1663,
+        "end": 1664,
+        "string": " "
+      },
+      {
+        "start": 1664,
+        "end": 1673,
+        "string": "recovery"
+      },
+      {
+        "start": 1673,
+        "end": 1674,
+        "string": " "
+      },
+      {
+        "start": 1674,
+        "end": 1677,
+        "string": "so"
+      },
+      {
+        "start": 1677,
+        "end": 1678,
+        "string": " "
+      },
+      {
+        "start": 1678,
+        "end": 1680,
+        "string": "I"
+      },
+      {
+        "start": 1680,
+        "end": 1681,
+        "string": " "
+      },
+      {
+        "start": 1681,
+        "end": 1685,
+        "string": "can"
+      },
+      {
+        "start": 1685,
+        "end": 1686,
+        "string": " "
+      },
+      {
+        "start": 1686,
+        "end": 1690,
+        "string": "end"
+      },
+      {
+        "start": 1690,
+        "end": 1691,
+        "string": " "
+      },
+      {
+        "start": 1691,
+        "end": 1695,
+        "string": "the"
+      },
+      {
+        "start": 1695,
+        "end": 1696,
+        "string": " "
+      },
+      {
+        "start": 1696,
+        "end": 1703,
+        "string": "season"
+      },
+      {
+        "start": 1703,
+        "end": 1704,
+        "string": " "
+      },
+      {
+        "start": 1704,
+        "end": 1712,
+        "string": "playing"
+      },
+      {
+        "start": 1712,
+        "end": 1713,
+        "string": " "
+      },
+      {
+        "start": 1713,
+        "end": 1716,
+        "string": "at"
+      },
+      {
+        "start": 1716,
+        "end": 1717,
+        "string": " "
+      },
+      {
+        "start": 1717,
+        "end": 1721,
+        "string": "Old"
+      },
+      {
+        "start": 1721,
+        "end": 1722,
+        "string": " "
+      },
+      {
+        "start": 1722,
+        "end": 1731,
+        "string": "Trafford"
+      },
+      {
+        "start": 1731,
+        "end": 1732,
+        "string": " "
+      },
+      {
+        "start": 1732,
+        "end": 1734,
+        "string": "!"
+      },
+      {
+        "start": 1734,
+        "end": 1735,
+        "string": " "
+      },
+      {
+        "start": 1735,
+        "end": 1737,
+        "string": "\""
+      },
+      {
+        "start": 1737,
+        "end": 1738,
+        "string": " "
+      }
+    ]
+  }
+}

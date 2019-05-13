@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "096d07278b9344d7972a471d0f0cb7f4.doc",
+  "metadata": {
+    "title": "We members of the queer community begged our fellow Methodists to love us. They voted no.",
+    "sourceUrl": "https://www.chicagotribune.com/news/opinion/commentary/ct-perspec-methodists-church-queer-gay-marriage-clergy-0304-20190301-story.html",
+    "documentSource": "chicagotribune.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "ad742a66f78d42df81642cad261bf755.doc",
+  "metadata": {
+    "title": "Paris property prices soar to highest levels ever",
+    "sourceUrl": "https://www.thelocal.fr/20190301/paris-property-prices-soar-highest-levels-ever",
+    "documentSource": "thelocal.fr",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

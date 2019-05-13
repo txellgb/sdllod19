@@ -1,0 +1,1541 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "e86663fff71b48fb878e032219fb45a5.doc",
+  "id": "e86663fff71b48fb878e032219fb45a5.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "e86663fff71b48fb878e032219fb45a5.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 10,
+        "string": "CLEVELAND"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "string": "("
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "string": "AP"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "string": " "
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "string": ")"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "string": "--"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "string": " "
+      },
+      {
+        "start": 25,
+        "end": 35,
+        "string": "Cavaliers"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "string": "veteran"
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "string": " "
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "string": "forward"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 63,
+        "string": "Channing"
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "string": " "
+      },
+      {
+        "start": 64,
+        "end": 69,
+        "string": "Frye"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "string": "says"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "string": "he"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 86,
+        "string": "plans"
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "string": " "
+      },
+      {
+        "start": 87,
+        "end": 90,
+        "string": "to"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 98,
+        "string": "retire"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 102,
+        "string": "at"
+      },
+      {
+        "start": 102,
+        "end": 103,
+        "string": " "
+      },
+      {
+        "start": 103,
+        "end": 107,
+        "string": "the"
+      },
+      {
+        "start": 107,
+        "end": 108,
+        "string": " "
+      },
+      {
+        "start": 108,
+        "end": 112,
+        "string": "end"
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "string": " "
+      },
+      {
+        "start": 113,
+        "end": 116,
+        "string": "of"
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "string": " "
+      },
+      {
+        "start": 117,
+        "end": 122,
+        "string": "this"
+      },
+      {
+        "start": 122,
+        "end": 123,
+        "string": " "
+      },
+      {
+        "start": 123,
+        "end": 130,
+        "string": "season"
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "string": " "
+      },
+      {
+        "start": 131,
+        "end": 133,
+        "string": "."
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 138,
+        "string": "The"
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "string": " "
+      },
+      {
+        "start": 139,
+        "end": 151,
+        "string": "35-year-old"
+      },
+      {
+        "start": 151,
+        "end": 152,
+        "string": " "
+      },
+      {
+        "start": 152,
+        "end": 157,
+        "string": "made"
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "string": " "
+      },
+      {
+        "start": 158,
+        "end": 162,
+        "string": "the"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 176,
+        "string": "announcement"
+      },
+      {
+        "start": 176,
+        "end": 177,
+        "string": " "
+      },
+      {
+        "start": 177,
+        "end": 184,
+        "string": "Friday"
+      },
+      {
+        "start": 184,
+        "end": 185,
+        "string": " "
+      },
+      {
+        "start": 185,
+        "end": 188,
+        "string": "on"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 197,
+        "string": "Twitter"
+      },
+      {
+        "start": 197,
+        "end": 198,
+        "string": " "
+      },
+      {
+        "start": 198,
+        "end": 200,
+        "string": ","
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "string": " "
+      },
+      {
+        "start": 201,
+        "end": 208,
+        "string": "saying"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 211,
+        "string": "\""
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 215,
+        "string": "it"
+      },
+      {
+        "start": 215,
+        "end": 216,
+        "string": " "
+      },
+      {
+        "start": 216,
+        "end": 219,
+        "string": "'s"
+      },
+      {
+        "start": 219,
+        "end": 220,
+        "string": " "
+      },
+      {
+        "start": 220,
+        "end": 225,
+        "string": "been"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 228,
+        "string": "a"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 237,
+        "string": "amazing"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 243,
+        "string": "ride"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 246,
+        "string": "."
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 252,
+        "string": "Frye"
+      },
+      {
+        "start": 252,
+        "end": 253,
+        "string": " "
+      },
+      {
+        "start": 253,
+        "end": 256,
+        "string": "is"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 260,
+        "string": "in"
+      },
+      {
+        "start": 260,
+        "end": 261,
+        "string": " "
+      },
+      {
+        "start": 261,
+        "end": 265,
+        "string": "his"
+      },
+      {
+        "start": 265,
+        "end": 266,
+        "string": " "
+      },
+      {
+        "start": 266,
+        "end": 271,
+        "string": "13th"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 276,
+        "string": "NBA"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 284,
+        "string": "season"
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 287,
+        "string": "."
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 291,
+        "string": "He"
+      },
+      {
+        "start": 291,
+        "end": 292,
+        "string": " "
+      },
+      {
+        "start": 292,
+        "end": 295,
+        "string": "'s"
+      },
+      {
+        "start": 295,
+        "end": 296,
+        "string": " "
+      },
+      {
+        "start": 296,
+        "end": 299,
+        "string": "in"
+      },
+      {
+        "start": 299,
+        "end": 300,
+        "string": " "
+      },
+      {
+        "start": 300,
+        "end": 304,
+        "string": "his"
+      },
+      {
+        "start": 304,
+        "end": 305,
+        "string": " "
+      },
+      {
+        "start": 305,
+        "end": 312,
+        "string": "second"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 319,
+        "string": "stint"
+      },
+      {
+        "start": 319,
+        "end": 320,
+        "string": " "
+      },
+      {
+        "start": 320,
+        "end": 325,
+        "string": "with"
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 336,
+        "string": "Cleveland"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 343,
+        "string": "after"
+      },
+      {
+        "start": 343,
+        "end": 344,
+        "string": " "
+      },
+      {
+        "start": 344,
+        "end": 350,
+        "string": "being"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 358,
+        "string": "traded"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 364,
+        "string": "last"
+      },
+      {
+        "start": 364,
+        "end": 365,
+        "string": " "
+      },
+      {
+        "start": 365,
+        "end": 372,
+        "string": "season"
+      },
+      {
+        "start": 372,
+        "end": 373,
+        "string": " "
+      },
+      {
+        "start": 373,
+        "end": 375,
+        "string": "."
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 380,
+        "string": "One"
+      },
+      {
+        "start": 380,
+        "end": 381,
+        "string": " "
+      },
+      {
+        "start": 381,
+        "end": 384,
+        "string": "of"
+      },
+      {
+        "start": 384,
+        "end": 385,
+        "string": " "
+      },
+      {
+        "start": 385,
+        "end": 389,
+        "string": "the"
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 395,
+        "string": "team"
+      },
+      {
+        "start": 395,
+        "end": 396,
+        "string": " "
+      },
+      {
+        "start": 396,
+        "end": 399,
+        "string": "'s"
+      },
+      {
+        "start": 399,
+        "end": 400,
+        "string": " "
+      },
+      {
+        "start": 400,
+        "end": 405,
+        "string": "most"
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "string": " "
+      },
+      {
+        "start": 406,
+        "end": 414,
+        "string": "likable"
+      },
+      {
+        "start": 414,
+        "end": 415,
+        "string": " "
+      },
+      {
+        "start": 415,
+        "end": 423,
+        "string": "players"
+      },
+      {
+        "start": 423,
+        "end": 424,
+        "string": " "
+      },
+      {
+        "start": 424,
+        "end": 426,
+        "string": ","
+      },
+      {
+        "start": 426,
+        "end": 427,
+        "string": " "
+      },
+      {
+        "start": 427,
+        "end": 432,
+        "string": "Frye"
+      },
+      {
+        "start": 432,
+        "end": 433,
+        "string": " "
+      },
+      {
+        "start": 433,
+        "end": 437,
+        "string": "has"
+      },
+      {
+        "start": 437,
+        "end": 438,
+        "string": " "
+      },
+      {
+        "start": 438,
+        "end": 445,
+        "string": "become"
+      },
+      {
+        "start": 445,
+        "end": 446,
+        "string": " "
+      },
+      {
+        "start": 446,
+        "end": 448,
+        "string": "a"
+      },
+      {
+        "start": 448,
+        "end": 449,
+        "string": " "
+      },
+      {
+        "start": 449,
+        "end": 453,
+        "string": "fan"
+      },
+      {
+        "start": 453,
+        "end": 454,
+        "string": " "
+      },
+      {
+        "start": 454,
+        "end": 463,
+        "string": "favorite"
+      },
+      {
+        "start": 463,
+        "end": 464,
+        "string": " "
+      },
+      {
+        "start": 464,
+        "end": 472,
+        "string": "because"
+      },
+      {
+        "start": 472,
+        "end": 473,
+        "string": " "
+      },
+      {
+        "start": 473,
+        "end": 476,
+        "string": "of"
+      },
+      {
+        "start": 476,
+        "end": 477,
+        "string": " "
+      },
+      {
+        "start": 477,
+        "end": 481,
+        "string": "his"
+      },
+      {
+        "start": 481,
+        "end": 482,
+        "string": " "
+      },
+      {
+        "start": 482,
+        "end": 493,
+        "string": "enthusiasm"
+      },
+      {
+        "start": 493,
+        "end": 494,
+        "string": " "
+      },
+      {
+        "start": 494,
+        "end": 498,
+        "string": "and"
+      },
+      {
+        "start": 498,
+        "end": 499,
+        "string": " "
+      },
+      {
+        "start": 499,
+        "end": 510,
+        "string": "leadership"
+      },
+      {
+        "start": 510,
+        "end": 511,
+        "string": " "
+      },
+      {
+        "start": 511,
+        "end": 513,
+        "string": "."
+      },
+      {
+        "start": 513,
+        "end": 514,
+        "string": " "
+      },
+      {
+        "start": 514,
+        "end": 519,
+        "string": "Frye"
+      },
+      {
+        "start": 519,
+        "end": 520,
+        "string": " "
+      },
+      {
+        "start": 520,
+        "end": 522,
+        "string": ","
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 527,
+        "string": "who"
+      },
+      {
+        "start": 527,
+        "end": 528,
+        "string": " "
+      },
+      {
+        "start": 528,
+        "end": 535,
+        "string": "played"
+      },
+      {
+        "start": 535,
+        "end": 536,
+        "string": " "
+      },
+      {
+        "start": 536,
+        "end": 539,
+        "string": "on"
+      },
+      {
+        "start": 539,
+        "end": 540,
+        "string": " "
+      },
+      {
+        "start": 540,
+        "end": 550,
+        "string": "Cleveland"
+      },
+      {
+        "start": 550,
+        "end": 551,
+        "string": " "
+      },
+      {
+        "start": 551,
+        "end": 554,
+        "string": "'s"
+      },
+      {
+        "start": 554,
+        "end": 555,
+        "string": " "
+      },
+      {
+        "start": 555,
+        "end": 559,
+        "string": "NBA"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 566,
+        "string": "title"
+      },
+      {
+        "start": 566,
+        "end": 567,
+        "string": " "
+      },
+      {
+        "start": 567,
+        "end": 572,
+        "string": "team"
+      },
+      {
+        "start": 572,
+        "end": 573,
+        "string": " "
+      },
+      {
+        "start": 573,
+        "end": 576,
+        "string": "in"
+      },
+      {
+        "start": 576,
+        "end": 577,
+        "string": " "
+      },
+      {
+        "start": 577,
+        "end": 582,
+        "string": "2016"
+      },
+      {
+        "start": 582,
+        "end": 583,
+        "string": " "
+      },
+      {
+        "start": 583,
+        "end": 585,
+        "string": ","
+      },
+      {
+        "start": 585,
+        "end": 586,
+        "string": " "
+      },
+      {
+        "start": 586,
+        "end": 593,
+        "string": "signed"
+      },
+      {
+        "start": 593,
+        "end": 594,
+        "string": " "
+      },
+      {
+        "start": 594,
+        "end": 599,
+        "string": "with"
+      },
+      {
+        "start": 599,
+        "end": 600,
+        "string": " "
+      },
+      {
+        "start": 600,
+        "end": 604,
+        "string": "the"
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 610,
+        "string": "Cavs"
+      },
+      {
+        "start": 610,
+        "end": 611,
+        "string": " "
+      },
+      {
+        "start": 611,
+        "end": 616,
+        "string": "this"
+      },
+      {
+        "start": 616,
+        "end": 617,
+        "string": " "
+      },
+      {
+        "start": 617,
+        "end": 624,
+        "string": "season"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 628,
+        "string": "to"
+      },
+      {
+        "start": 628,
+        "end": 629,
+        "string": " "
+      },
+      {
+        "start": 629,
+        "end": 635,
+        "string": "serve"
+      },
+      {
+        "start": 635,
+        "end": 636,
+        "string": " "
+      },
+      {
+        "start": 636,
+        "end": 639,
+        "string": "in"
+      },
+      {
+        "start": 639,
+        "end": 640,
+        "string": " "
+      },
+      {
+        "start": 640,
+        "end": 642,
+        "string": "a"
+      },
+      {
+        "start": 642,
+        "end": 643,
+        "string": " "
+      },
+      {
+        "start": 643,
+        "end": 650,
+        "string": "mentor"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 654,
+        "string": "'s"
+      },
+      {
+        "start": 654,
+        "end": 655,
+        "string": " "
+      },
+      {
+        "start": 655,
+        "end": 660,
+        "string": "role"
+      },
+      {
+        "start": 660,
+        "end": 661,
+        "string": " "
+      },
+      {
+        "start": 661,
+        "end": 665,
+        "string": "for"
+      },
+      {
+        "start": 665,
+        "end": 666,
+        "string": " "
+      },
+      {
+        "start": 666,
+        "end": 670,
+        "string": "the"
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 676,
+        "string": "team"
+      },
+      {
+        "start": 676,
+        "end": 677,
+        "string": " "
+      },
+      {
+        "start": 677,
+        "end": 680,
+        "string": "'s"
+      },
+      {
+        "start": 680,
+        "end": 681,
+        "string": " "
+      },
+      {
+        "start": 681,
+        "end": 689,
+        "string": "younger"
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 698,
+        "string": "players"
+      },
+      {
+        "start": 698,
+        "end": 699,
+        "string": " "
+      },
+      {
+        "start": 699,
+        "end": 701,
+        "string": "."
+      },
+      {
+        "start": 701,
+        "end": 702,
+        "string": " "
+      },
+      {
+        "start": 702,
+        "end": 705,
+        "string": "He"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 709,
+        "string": "'s"
+      },
+      {
+        "start": 709,
+        "end": 710,
+        "string": " "
+      },
+      {
+        "start": 710,
+        "end": 720,
+        "string": "averaging"
+      },
+      {
+        "start": 720,
+        "end": 721,
+        "string": " "
+      },
+      {
+        "start": 721,
+        "end": 726,
+        "string": "just"
+      },
+      {
+        "start": 726,
+        "end": 727,
+        "string": " "
+      },
+      {
+        "start": 727,
+        "end": 731,
+        "string": "3.3"
+      },
+      {
+        "start": 731,
+        "end": 732,
+        "string": " "
+      },
+      {
+        "start": 732,
+        "end": 739,
+        "string": "points"
+      },
+      {
+        "start": 739,
+        "end": 740,
+        "string": " "
+      },
+      {
+        "start": 740,
+        "end": 744,
+        "string": "and"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 749,
+        "string": "9.5"
+      },
+      {
+        "start": 749,
+        "end": 750,
+        "string": " "
+      },
+      {
+        "start": 750,
+        "end": 758,
+        "string": "minutes"
+      },
+      {
+        "start": 758,
+        "end": 759,
+        "string": " "
+      },
+      {
+        "start": 759,
+        "end": 761,
+        "string": "."
+      },
+      {
+        "start": 761,
+        "end": 762,
+        "string": " "
+      },
+      {
+        "start": 762,
+        "end": 767,
+        "string": "Frye"
+      },
+      {
+        "start": 767,
+        "end": 768,
+        "string": " "
+      },
+      {
+        "start": 768,
+        "end": 772,
+        "string": "was"
+      },
+      {
+        "start": 772,
+        "end": 773,
+        "string": " "
+      },
+      {
+        "start": 773,
+        "end": 777,
+        "string": "the"
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 782,
+        "string": "No."
+      },
+      {
+        "start": 782,
+        "end": 783,
+        "string": " "
+      },
+      {
+        "start": 783,
+        "end": 785,
+        "string": "8"
+      },
+      {
+        "start": 785,
+        "end": 786,
+        "string": " "
+      },
+      {
+        "start": 786,
+        "end": 794,
+        "string": "overall"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 800,
+        "string": "pick"
+      },
+      {
+        "start": 800,
+        "end": 801,
+        "string": " "
+      },
+      {
+        "start": 801,
+        "end": 804,
+        "string": "by"
+      },
+      {
+        "start": 804,
+        "end": 805,
+        "string": " "
+      },
+      {
+        "start": 805,
+        "end": 809,
+        "string": "the"
+      },
+      {
+        "start": 809,
+        "end": 810,
+        "string": " "
+      },
+      {
+        "start": 810,
+        "end": 814,
+        "string": "New"
+      },
+      {
+        "start": 814,
+        "end": 815,
+        "string": " "
+      },
+      {
+        "start": 815,
+        "end": 820,
+        "string": "York"
+      },
+      {
+        "start": 820,
+        "end": 821,
+        "string": " "
+      },
+      {
+        "start": 821,
+        "end": 828,
+        "string": "Knicks"
+      },
+      {
+        "start": 828,
+        "end": 829,
+        "string": " "
+      },
+      {
+        "start": 829,
+        "end": 832,
+        "string": "in"
+      },
+      {
+        "start": 832,
+        "end": 833,
+        "string": " "
+      },
+      {
+        "start": 833,
+        "end": 838,
+        "string": "2005"
+      },
+      {
+        "start": 838,
+        "end": 839,
+        "string": " "
+      },
+      {
+        "start": 839,
+        "end": 841,
+        "string": "."
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 845,
+        "string": "He"
+      },
+      {
+        "start": 845,
+        "end": 846,
+        "string": " "
+      },
+      {
+        "start": 846,
+        "end": 850,
+        "string": "has"
+      },
+      {
+        "start": 850,
+        "end": 851,
+        "string": " "
+      },
+      {
+        "start": 851,
+        "end": 856,
+        "string": "also"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 864,
+        "string": "played"
+      },
+      {
+        "start": 864,
+        "end": 865,
+        "string": " "
+      },
+      {
+        "start": 865,
+        "end": 869,
+        "string": "for"
+      },
+      {
+        "start": 869,
+        "end": 870,
+        "string": " "
+      },
+      {
+        "start": 870,
+        "end": 879,
+        "string": "Portland"
+      },
+      {
+        "start": 879,
+        "end": 880,
+        "string": " "
+      },
+      {
+        "start": 880,
+        "end": 882,
+        "string": ","
+      },
+      {
+        "start": 882,
+        "end": 883,
+        "string": " "
+      },
+      {
+        "start": 883,
+        "end": 891,
+        "string": "Phoenix"
+      },
+      {
+        "start": 891,
+        "end": 892,
+        "string": " "
+      },
+      {
+        "start": 892,
+        "end": 896,
+        "string": "and"
+      },
+      {
+        "start": 896,
+        "end": 897,
+        "string": " "
+      },
+      {
+        "start": 897,
+        "end": 905,
+        "string": "Orlando"
+      },
+      {
+        "start": 905,
+        "end": 906,
+        "string": " "
+      },
+      {
+        "start": 906,
+        "end": 908,
+        "string": "."
+      },
+      {
+        "start": 908,
+        "end": 909,
+        "string": " "
+      }
+    ]
+  }
+}

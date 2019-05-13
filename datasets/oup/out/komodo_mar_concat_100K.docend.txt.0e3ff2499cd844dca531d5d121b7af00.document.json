@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "0e3ff2499cd844dca531d5d121b7af00.doc",
+  "metadata": {
+    "title": "Dozens of Australian journalists face charges over sex trial",
+    "sourceUrl": "https://indianexpress.com/article/world/dozens-of-australian-journalists-face-charges-over-sex-trial-5606044/",
+    "documentSource": "indianexpress.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

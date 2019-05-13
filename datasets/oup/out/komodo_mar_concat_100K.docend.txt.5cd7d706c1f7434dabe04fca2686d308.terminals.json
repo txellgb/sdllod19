@@ -1,0 +1,1671 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "5cd7d706c1f7434dabe04fca2686d308.doc",
+  "id": "5cd7d706c1f7434dabe04fca2686d308.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "5cd7d706c1f7434dabe04fca2686d308.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "string": "Union"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "string": " "
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "string": "Cabinet"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "string": "has"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "string": " "
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "string": "approved"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "string": "the"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 54,
+        "string": "promulgation"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "string": "of"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "string": "an"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "string": "ordinance"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 80,
+        "string": "which"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 87,
+        "string": "would"
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "string": " "
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "string": "allow"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 103,
+        "string": "private"
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "string": " "
+      },
+      {
+        "start": 104,
+        "end": 114,
+        "string": "companies"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "string": "to"
+      },
+      {
+        "start": 118,
+        "end": 119,
+        "string": " "
+      },
+      {
+        "start": 119,
+        "end": 123,
+        "string": "use"
+      },
+      {
+        "start": 123,
+        "end": 124,
+        "string": " "
+      },
+      {
+        "start": 124,
+        "end": 132,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "string": " "
+      },
+      {
+        "start": 133,
+        "end": 137,
+        "string": "for"
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      },
+      {
+        "start": 138,
+        "end": 153,
+        "string": "authentication"
+      },
+      {
+        "start": 153,
+        "end": 154,
+        "string": " "
+      },
+      {
+        "start": 154,
+        "end": 158,
+        "string": "and"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 172,
+        "string": "verification"
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 175,
+        "string": "."
+      },
+      {
+        "start": 175,
+        "end": 176,
+        "string": " "
+      },
+      {
+        "start": 176,
+        "end": 180,
+        "string": "The"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "string": " "
+      },
+      {
+        "start": 181,
+        "end": 191,
+        "string": "ordinance"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 196,
+        "string": "has"
+      },
+      {
+        "start": 196,
+        "end": 197,
+        "string": " "
+      },
+      {
+        "start": 197,
+        "end": 201,
+        "string": "the"
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "string": " "
+      },
+      {
+        "start": 202,
+        "end": 207,
+        "string": "same"
+      },
+      {
+        "start": 207,
+        "end": 208,
+        "string": " "
+      },
+      {
+        "start": 208,
+        "end": 216,
+        "string": "changes"
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "string": " "
+      },
+      {
+        "start": 217,
+        "end": 220,
+        "string": "to"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 225,
+        "string": "the"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 234,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 234,
+        "end": 235,
+        "string": " "
+      },
+      {
+        "start": 235,
+        "end": 239,
+        "string": "Act"
+      },
+      {
+        "start": 239,
+        "end": 240,
+        "string": " "
+      },
+      {
+        "start": 240,
+        "end": 243,
+        "string": "as"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 253,
+        "string": "proposed"
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 257,
+        "string": "by"
+      },
+      {
+        "start": 257,
+        "end": 258,
+        "string": " "
+      },
+      {
+        "start": 258,
+        "end": 262,
+        "string": "the"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 271,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 276,
+        "string": "and"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 283,
+        "string": "Other"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 289,
+        "string": "Laws"
+      },
+      {
+        "start": 289,
+        "end": 290,
+        "string": " "
+      },
+      {
+        "start": 290,
+        "end": 292,
+        "string": "("
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 303,
+        "string": "Amendment"
+      },
+      {
+        "start": 303,
+        "end": 304,
+        "string": " "
+      },
+      {
+        "start": 304,
+        "end": 309,
+        "string": "Bill"
+      },
+      {
+        "start": 309,
+        "end": 310,
+        "string": " "
+      },
+      {
+        "start": 310,
+        "end": 312,
+        "string": ")"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 315,
+        "string": ","
+      },
+      {
+        "start": 315,
+        "end": 316,
+        "string": " "
+      },
+      {
+        "start": 316,
+        "end": 321,
+        "string": "2018"
+      },
+      {
+        "start": 321,
+        "end": 322,
+        "string": " "
+      },
+      {
+        "start": 322,
+        "end": 324,
+        "string": ","
+      },
+      {
+        "start": 324,
+        "end": 325,
+        "string": " "
+      },
+      {
+        "start": 325,
+        "end": 331,
+        "string": "which"
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 336,
+        "string": "was"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 344,
+        "string": "passed"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 348,
+        "string": "in"
+      },
+      {
+        "start": 348,
+        "end": 349,
+        "string": " "
+      },
+      {
+        "start": 349,
+        "end": 353,
+        "string": "the"
+      },
+      {
+        "start": 353,
+        "end": 354,
+        "string": " "
+      },
+      {
+        "start": 354,
+        "end": 358,
+        "string": "Lok"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 365,
+        "string": "Sabha"
+      },
+      {
+        "start": 365,
+        "end": 366,
+        "string": " "
+      },
+      {
+        "start": 366,
+        "end": 371,
+        "string": "last"
+      },
+      {
+        "start": 371,
+        "end": 372,
+        "string": " "
+      },
+      {
+        "start": 372,
+        "end": 378,
+        "string": "month"
+      },
+      {
+        "start": 378,
+        "end": 379,
+        "string": " "
+      },
+      {
+        "start": 379,
+        "end": 381,
+        "string": ","
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 386,
+        "string": "but"
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 393,
+        "string": "later"
+      },
+      {
+        "start": 393,
+        "end": 394,
+        "string": " "
+      },
+      {
+        "start": 394,
+        "end": 401,
+        "string": "lapsed"
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 405,
+        "string": "in"
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "string": " "
+      },
+      {
+        "start": 406,
+        "end": 410,
+        "string": "the"
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 417,
+        "string": "Rajya"
+      },
+      {
+        "start": 417,
+        "end": 418,
+        "string": " "
+      },
+      {
+        "start": 418,
+        "end": 424,
+        "string": "Sabha"
+      },
+      {
+        "start": 424,
+        "end": 425,
+        "string": " "
+      },
+      {
+        "start": 425,
+        "end": 428,
+        "string": "in"
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "string": " "
+      },
+      {
+        "start": 429,
+        "end": 433,
+        "string": "the"
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 439,
+        "string": "same"
+      },
+      {
+        "start": 439,
+        "end": 440,
+        "string": " "
+      },
+      {
+        "start": 440,
+        "end": 446,
+        "string": "month"
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 449,
+        "string": "."
+      },
+      {
+        "start": 449,
+        "end": 450,
+        "string": " "
+      },
+      {
+        "start": 450,
+        "end": 456,
+        "string": "Apart"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 462,
+        "string": "from"
+      },
+      {
+        "start": 462,
+        "end": 463,
+        "string": " "
+      },
+      {
+        "start": 463,
+        "end": 467,
+        "string": "the"
+      },
+      {
+        "start": 467,
+        "end": 468,
+        "string": " "
+      },
+      {
+        "start": 468,
+        "end": 476,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 476,
+        "end": 477,
+        "string": " "
+      },
+      {
+        "start": 477,
+        "end": 481,
+        "string": "Act"
+      },
+      {
+        "start": 481,
+        "end": 482,
+        "string": " "
+      },
+      {
+        "start": 482,
+        "end": 484,
+        "string": ","
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 489,
+        "string": "the"
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "string": " "
+      },
+      {
+        "start": 490,
+        "end": 500,
+        "string": "ordinance"
+      },
+      {
+        "start": 500,
+        "end": 501,
+        "string": " "
+      },
+      {
+        "start": 501,
+        "end": 505,
+        "string": "has"
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "string": " "
+      },
+      {
+        "start": 506,
+        "end": 511,
+        "string": "also"
+      },
+      {
+        "start": 511,
+        "end": 512,
+        "string": " "
+      },
+      {
+        "start": 512,
+        "end": 520,
+        "string": "amended"
+      },
+      {
+        "start": 520,
+        "end": 521,
+        "string": " "
+      },
+      {
+        "start": 521,
+        "end": 525,
+        "string": "the"
+      },
+      {
+        "start": 525,
+        "end": 526,
+        "string": " "
+      },
+      {
+        "start": 526,
+        "end": 536,
+        "string": "Telegraph"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 541,
+        "string": "Act"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 546,
+        "string": "and"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 551,
+        "string": "the"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 563,
+        "string": "Prevention"
+      },
+      {
+        "start": 563,
+        "end": 564,
+        "string": " "
+      },
+      {
+        "start": 564,
+        "end": 567,
+        "string": "of"
+      },
+      {
+        "start": 567,
+        "end": 568,
+        "string": " "
+      },
+      {
+        "start": 568,
+        "end": 574,
+        "string": "Money"
+      },
+      {
+        "start": 574,
+        "end": 575,
+        "string": " "
+      },
+      {
+        "start": 575,
+        "end": 586,
+        "string": "Laundering"
+      },
+      {
+        "start": 586,
+        "end": 587,
+        "string": " "
+      },
+      {
+        "start": 587,
+        "end": 591,
+        "string": "Act"
+      },
+      {
+        "start": 591,
+        "end": 592,
+        "string": " "
+      },
+      {
+        "start": 592,
+        "end": 594,
+        "string": "."
+      },
+      {
+        "start": 594,
+        "end": 595,
+        "string": " "
+      },
+      {
+        "start": 595,
+        "end": 599,
+        "string": "The"
+      },
+      {
+        "start": 599,
+        "end": 600,
+        "string": " "
+      },
+      {
+        "start": 600,
+        "end": 610,
+        "string": "ordinance"
+      },
+      {
+        "start": 610,
+        "end": 611,
+        "string": " "
+      },
+      {
+        "start": 611,
+        "end": 615,
+        "string": "has"
+      },
+      {
+        "start": 615,
+        "end": 616,
+        "string": " "
+      },
+      {
+        "start": 616,
+        "end": 622,
+        "string": "given"
+      },
+      {
+        "start": 622,
+        "end": 623,
+        "string": " "
+      },
+      {
+        "start": 623,
+        "end": 630,
+        "string": "effect"
+      },
+      {
+        "start": 630,
+        "end": 631,
+        "string": " "
+      },
+      {
+        "start": 631,
+        "end": 634,
+        "string": "to"
+      },
+      {
+        "start": 634,
+        "end": 635,
+        "string": " "
+      },
+      {
+        "start": 635,
+        "end": 639,
+        "string": "the"
+      },
+      {
+        "start": 639,
+        "end": 640,
+        "string": " "
+      },
+      {
+        "start": 640,
+        "end": 645,
+        "string": "Bill"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 648,
+        "string": ","
+      },
+      {
+        "start": 648,
+        "end": 649,
+        "string": " "
+      },
+      {
+        "start": 649,
+        "end": 653,
+        "string": "and"
+      },
+      {
+        "start": 653,
+        "end": 654,
+        "string": " "
+      },
+      {
+        "start": 654,
+        "end": 659,
+        "string": "will"
+      },
+      {
+        "start": 659,
+        "end": 660,
+        "string": " "
+      },
+      {
+        "start": 660,
+        "end": 668,
+        "string": "restart"
+      },
+      {
+        "start": 668,
+        "end": 669,
+        "string": " "
+      },
+      {
+        "start": 669,
+        "end": 671,
+        "string": "\""
+      },
+      {
+        "start": 671,
+        "end": 672,
+        "string": " "
+      },
+      {
+        "start": 672,
+        "end": 682,
+        "string": "voluntary"
+      },
+      {
+        "start": 682,
+        "end": 683,
+        "string": " "
+      },
+      {
+        "start": 683,
+        "end": 685,
+        "string": "\""
+      },
+      {
+        "start": 685,
+        "end": 686,
+        "string": " "
+      },
+      {
+        "start": 686,
+        "end": 690,
+        "string": "use"
+      },
+      {
+        "start": 690,
+        "end": 691,
+        "string": " "
+      },
+      {
+        "start": 691,
+        "end": 694,
+        "string": "of"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 703,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 703,
+        "end": 704,
+        "string": " "
+      },
+      {
+        "start": 704,
+        "end": 708,
+        "string": "for"
+      },
+      {
+        "start": 708,
+        "end": 709,
+        "string": " "
+      },
+      {
+        "start": 709,
+        "end": 718,
+        "string": "physical"
+      },
+      {
+        "start": 718,
+        "end": 719,
+        "string": " "
+      },
+      {
+        "start": 719,
+        "end": 722,
+        "string": "or"
+      },
+      {
+        "start": 722,
+        "end": 723,
+        "string": " "
+      },
+      {
+        "start": 723,
+        "end": 734,
+        "string": "electronic"
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 750,
+        "string": "authentication"
+      },
+      {
+        "start": 750,
+        "end": 751,
+        "string": " "
+      },
+      {
+        "start": 751,
+        "end": 753,
+        "string": "."
+      },
+      {
+        "start": 753,
+        "end": 754,
+        "string": " "
+      },
+      {
+        "start": 754,
+        "end": 758,
+        "string": "The"
+      },
+      {
+        "start": 758,
+        "end": 759,
+        "string": " "
+      },
+      {
+        "start": 759,
+        "end": 769,
+        "string": "ordinance"
+      },
+      {
+        "start": 769,
+        "end": 770,
+        "string": " "
+      },
+      {
+        "start": 770,
+        "end": 777,
+        "string": "echoes"
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 782,
+        "string": "the"
+      },
+      {
+        "start": 782,
+        "end": 783,
+        "string": " "
+      },
+      {
+        "start": 783,
+        "end": 791,
+        "string": "passing"
+      },
+      {
+        "start": 791,
+        "end": 792,
+        "string": " "
+      },
+      {
+        "start": 792,
+        "end": 795,
+        "string": "of"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 804,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 804,
+        "end": 805,
+        "string": " "
+      },
+      {
+        "start": 805,
+        "end": 808,
+        "string": "as"
+      },
+      {
+        "start": 808,
+        "end": 809,
+        "string": " "
+      },
+      {
+        "start": 809,
+        "end": 811,
+        "string": "a"
+      },
+      {
+        "start": 811,
+        "end": 812,
+        "string": " "
+      },
+      {
+        "start": 812,
+        "end": 818,
+        "string": "money"
+      },
+      {
+        "start": 818,
+        "end": 819,
+        "string": " "
+      },
+      {
+        "start": 819,
+        "end": 824,
+        "string": "bill"
+      },
+      {
+        "start": 824,
+        "end": 825,
+        "string": " "
+      },
+      {
+        "start": 825,
+        "end": 828,
+        "string": "to"
+      },
+      {
+        "start": 828,
+        "end": 829,
+        "string": " "
+      },
+      {
+        "start": 829,
+        "end": 836,
+        "string": "bypass"
+      },
+      {
+        "start": 836,
+        "end": 837,
+        "string": " "
+      },
+      {
+        "start": 837,
+        "end": 841,
+        "string": "the"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 848,
+        "string": "Upper"
+      },
+      {
+        "start": 848,
+        "end": 849,
+        "string": " "
+      },
+      {
+        "start": 849,
+        "end": 855,
+        "string": "House"
+      },
+      {
+        "start": 855,
+        "end": 856,
+        "string": " "
+      },
+      {
+        "start": 856,
+        "end": 859,
+        "string": "of"
+      },
+      {
+        "start": 859,
+        "end": 860,
+        "string": " "
+      },
+      {
+        "start": 860,
+        "end": 864,
+        "string": "the"
+      },
+      {
+        "start": 864,
+        "end": 865,
+        "string": " "
+      },
+      {
+        "start": 865,
+        "end": 876,
+        "string": "Parliament"
+      },
+      {
+        "start": 876,
+        "end": 877,
+        "string": " "
+      },
+      {
+        "start": 877,
+        "end": 879,
+        "string": "."
+      },
+      {
+        "start": 879,
+        "end": 880,
+        "string": " "
+      },
+      {
+        "start": 880,
+        "end": 884,
+        "string": "The"
+      },
+      {
+        "start": 884,
+        "end": 885,
+        "string": " "
+      },
+      {
+        "start": 885,
+        "end": 890,
+        "string": "bill"
+      },
+      {
+        "start": 890,
+        "end": 891,
+        "string": " "
+      },
+      {
+        "start": 891,
+        "end": 896,
+        "string": "also"
+      },
+      {
+        "start": 896,
+        "end": 897,
+        "string": " "
+      },
+      {
+        "start": 897,
+        "end": 903,
+        "string": "gives"
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 907,
+        "string": "an"
+      },
+      {
+        "start": 907,
+        "end": 908,
+        "string": " "
+      },
+      {
+        "start": 908,
+        "end": 915,
+        "string": "option"
+      },
+      {
+        "start": 915,
+        "end": 916,
+        "string": " "
+      },
+      {
+        "start": 916,
+        "end": 919,
+        "string": "to"
+      },
+      {
+        "start": 919,
+        "end": 920,
+        "string": " "
+      },
+      {
+        "start": 920,
+        "end": 929,
+        "string": "children"
+      },
+      {
+        "start": 929,
+        "end": 930,
+        "string": " "
+      },
+      {
+        "start": 930,
+        "end": 934,
+        "string": "who"
+      },
+      {
+        "start": 934,
+        "end": 935,
+        "string": " "
+      },
+      {
+        "start": 935,
+        "end": 942,
+        "string": "attain"
+      },
+      {
+        "start": 942,
+        "end": 943,
+        "string": " "
+      },
+      {
+        "start": 943,
+        "end": 946,
+        "string": "18"
+      },
+      {
+        "start": 946,
+        "end": 947,
+        "string": " "
+      },
+      {
+        "start": 947,
+        "end": 953,
+        "string": "years"
+      },
+      {
+        "start": 953,
+        "end": 954,
+        "string": " "
+      },
+      {
+        "start": 954,
+        "end": 957,
+        "string": "of"
+      },
+      {
+        "start": 957,
+        "end": 958,
+        "string": " "
+      },
+      {
+        "start": 958,
+        "end": 962,
+        "string": "age"
+      },
+      {
+        "start": 962,
+        "end": 963,
+        "string": " "
+      },
+      {
+        "start": 963,
+        "end": 966,
+        "string": "to"
+      },
+      {
+        "start": 966,
+        "end": 967,
+        "string": " "
+      },
+      {
+        "start": 967,
+        "end": 972,
+        "string": "exit"
+      },
+      {
+        "start": 972,
+        "end": 973,
+        "string": " "
+      },
+      {
+        "start": 973,
+        "end": 978,
+        "string": "from"
+      },
+      {
+        "start": 978,
+        "end": 979,
+        "string": " "
+      },
+      {
+        "start": 979,
+        "end": 987,
+        "string": "Aadhaar"
+      },
+      {
+        "start": 987,
+        "end": 988,
+        "string": " "
+      },
+      {
+        "start": 988,
+        "end": 990,
+        "string": "."
+      },
+      {
+        "start": 990,
+        "end": 991,
+        "string": " "
+      },
+      {
+        "start": 991,
+        "end": 996,
+        "string": "Here"
+      },
+      {
+        "start": 996,
+        "end": 997,
+        "string": " "
+      },
+      {
+        "start": 997,
+        "end": 1001,
+        "string": "are"
+      },
+      {
+        "start": 1001,
+        "end": 1002,
+        "string": " "
+      },
+      {
+        "start": 1002,
+        "end": 1007,
+        "string": "some"
+      },
+      {
+        "start": 1007,
+        "end": 1008,
+        "string": " "
+      },
+      {
+        "start": 1008,
+        "end": 1011,
+        "string": "of"
+      },
+      {
+        "start": 1011,
+        "end": 1012,
+        "string": " "
+      },
+      {
+        "start": 1012,
+        "end": 1016,
+        "string": "the"
+      },
+      {
+        "start": 1016,
+        "end": 1017,
+        "string": " "
+      },
+      {
+        "start": 1017,
+        "end": 1022,
+        "string": "main"
+      },
+      {
+        "start": 1022,
+        "end": 1023,
+        "string": " "
+      },
+      {
+        "start": 1023,
+        "end": 1034,
+        "string": "amendments"
+      },
+      {
+        "start": 1034,
+        "end": 1035,
+        "string": " "
+      },
+      {
+        "start": 1035,
+        "end": 1040,
+        "string": "from"
+      },
+      {
+        "start": 1040,
+        "end": 1041,
+        "string": " "
+      },
+      {
+        "start": 1041,
+        "end": 1045,
+        "string": "the"
+      },
+      {
+        "start": 1045,
+        "end": 1046,
+        "string": " "
+      },
+      {
+        "start": 1046,
+        "end": 1051,
+        "string": "Bill"
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1054,
+        "string": ":"
+      },
+      {
+        "start": 1054,
+        "end": 1055,
+        "string": " "
+      }
+    ]
+  }
+}

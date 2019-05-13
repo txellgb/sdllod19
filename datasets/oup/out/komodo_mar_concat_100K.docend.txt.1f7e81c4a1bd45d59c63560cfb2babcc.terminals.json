@@ -1,0 +1,401 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "1f7e81c4a1bd45d59c63560cfb2babcc.doc",
+  "id": "1f7e81c4a1bd45d59c63560cfb2babcc.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "1f7e81c4a1bd45d59c63560cfb2babcc.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "SAN"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "string": "FRANCISCO"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "string": " "
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "string": ":"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "string": " "
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "string": "Tesla"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "string": " "
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "string": "said"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "string": " "
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "string": "Thursday"
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "string": " "
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "string": "its"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "string": "Model"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "string": "3"
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "string": "--"
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "string": " "
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "string": "heralded"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 74,
+        "string": "as"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "string": "an"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "string": "electric"
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "string": " "
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "string": "car"
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "string": " "
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "string": "for"
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "string": "the"
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "string": " "
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "string": "masses"
+      },
+      {
+        "start": 111,
+        "end": 112,
+        "string": " "
+      },
+      {
+        "start": 112,
+        "end": 115,
+        "string": "--"
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "string": "is"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "string": "available"
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "string": " "
+      },
+      {
+        "start": 131,
+        "end": 135,
+        "string": "for"
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "string": " "
+      },
+      {
+        "start": 136,
+        "end": 142,
+        "string": "order"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 150,
+        "string": "online"
+      },
+      {
+        "start": 150,
+        "end": 151,
+        "string": " "
+      },
+      {
+        "start": 151,
+        "end": 156,
+        "string": "only"
+      },
+      {
+        "start": 156,
+        "end": 157,
+        "string": " "
+      },
+      {
+        "start": 157,
+        "end": 159,
+        "string": ","
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 163,
+        "string": "at"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 166,
+        "string": "a"
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 173,
+        "string": "price"
+      },
+      {
+        "start": 173,
+        "end": 174,
+        "string": " "
+      },
+      {
+        "start": 174,
+        "end": 177,
+        "string": "of"
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 180,
+        "string": "$"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "string": " "
+      },
+      {
+        "start": 181,
+        "end": 188,
+        "string": "35,000"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 194,
+        "string": "with"
+      },
+      {
+        "start": 194,
+        "end": 195,
+        "string": " "
+      },
+      {
+        "start": 195,
+        "end": 204,
+        "string": "delivery"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 214,
+        "string": "promised"
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "string": " "
+      },
+      {
+        "start": 215,
+        "end": 222,
+        "string": "within"
+      },
+      {
+        "start": 222,
+        "end": 223,
+        "string": " "
+      },
+      {
+        "start": 223,
+        "end": 225,
+        "string": "a"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 232,
+        "string": "month"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 235,
+        "string": "."
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      }
+    ]
+  }
+}

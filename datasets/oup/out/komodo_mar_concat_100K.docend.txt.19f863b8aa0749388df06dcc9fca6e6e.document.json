@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "19f863b8aa0749388df06dcc9fca6e6e.doc",
+  "metadata": {
+    "title": "Vision to make Edinburgh the 'data capital of Europe'",
+    "sourceUrl": "https://www.edinburghnews.scotsman.com/news/vision-to-make-edinburgh-the-data-capital-of-europe-1-4881402",
+    "documentSource": "edinburghnews.scotsman.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

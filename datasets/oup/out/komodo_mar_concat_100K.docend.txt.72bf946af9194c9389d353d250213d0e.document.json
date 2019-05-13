@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "72bf946af9194c9389d353d250213d0e.doc",
+  "metadata": {
+    "title": "Fraudster stole \u00a3260k during Mr Clutch scam",
+    "sourceUrl": "https://www.kentonline.co.uk/maidstone/news/fraudster-stole-260k-during-mr-clutch-scam-199871/",
+    "documentSource": "kentonline.co.uk",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

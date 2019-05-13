@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "b10612848bb346b19c81f3aae3aaea9b.doc",
+  "metadata": {
+    "title": "Today's world news in brief",
+    "sourceUrl": "https://www.radionz.co.nz/news/world/383733/today-s-world-news-in-brief",
+    "documentSource": "radionz.co.nz",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

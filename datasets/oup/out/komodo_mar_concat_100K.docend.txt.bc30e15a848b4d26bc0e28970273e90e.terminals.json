@@ -1,0 +1,811 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "bc30e15a848b4d26bc0e28970273e90e.doc",
+  "id": "bc30e15a848b4d26bc0e28970273e90e.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "bc30e15a848b4d26bc0e28970273e90e.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 7,
+        "string": "Review"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "string": ":"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "string": "Phanteks"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "string": "Eclipse"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "string": " "
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "string": "P600s"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "string": "Chassis"
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "string": " "
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "string": "Samsung"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 61,
+        "string": "Smart"
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "string": " "
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "string": "TVs"
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "string": " "
+      },
+      {
+        "start": 67,
+        "end": 71,
+        "string": "and"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 84,
+        "string": "Smartphones"
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "string": " "
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "string": "get"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "string": "McAfee"
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "string": " "
+      },
+      {
+        "start": 98,
+        "end": 107,
+        "string": "security"
+      },
+      {
+        "start": 107,
+        "end": 108,
+        "string": " "
+      },
+      {
+        "start": 108,
+        "end": 117,
+        "string": "software"
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "string": " "
+      },
+      {
+        "start": 118,
+        "end": 124,
+        "string": "Tesla"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 133,
+        "string": "Finally"
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 142,
+        "string": "Unveils"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 145,
+        "string": "$"
+      },
+      {
+        "start": 145,
+        "end": 146,
+        "string": " "
+      },
+      {
+        "start": 146,
+        "end": 153,
+        "string": "35,000"
+      },
+      {
+        "start": 153,
+        "end": 154,
+        "string": " "
+      },
+      {
+        "start": 154,
+        "end": 163,
+        "string": "Standard"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 170,
+        "string": "Model"
+      },
+      {
+        "start": 170,
+        "end": 171,
+        "string": " "
+      },
+      {
+        "start": 171,
+        "end": 173,
+        "string": "3"
+      },
+      {
+        "start": 173,
+        "end": 174,
+        "string": " "
+      },
+      {
+        "start": 174,
+        "end": 182,
+        "string": "Lian-Li"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "string": " "
+      },
+      {
+        "start": 183,
+        "end": 190,
+        "string": "PC-O11"
+      },
+      {
+        "start": 190,
+        "end": 191,
+        "string": " "
+      },
+      {
+        "start": 191,
+        "end": 199,
+        "string": "Dynamic"
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 204,
+        "string": "Now"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 213,
+        "string": "Offered"
+      },
+      {
+        "start": 213,
+        "end": 214,
+        "string": " "
+      },
+      {
+        "start": 214,
+        "end": 217,
+        "string": "in"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 220,
+        "string": "a"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 227,
+        "string": "Razer"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 236,
+        "string": "Edition"
+      },
+      {
+        "start": 236,
+        "end": 237,
+        "string": " "
+      },
+      {
+        "start": 237,
+        "end": 244,
+        "string": "Nvidia"
+      },
+      {
+        "start": 244,
+        "end": 245,
+        "string": " "
+      },
+      {
+        "start": 245,
+        "end": 251,
+        "string": "shows"
+      },
+      {
+        "start": 251,
+        "end": 252,
+        "string": " "
+      },
+      {
+        "start": 252,
+        "end": 258,
+        "string": "signs"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 263,
+        "string": "..."
+      },
+      {
+        "start": 263,
+        "end": 264,
+        "string": " "
+      },
+      {
+        "start": 264,
+        "end": 273,
+        "string": "Download"
+      },
+      {
+        "start": 273,
+        "end": 274,
+        "string": " "
+      },
+      {
+        "start": 274,
+        "end": 276,
+        "string": ":"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 289,
+        "string": "Afterburner"
+      },
+      {
+        "start": 289,
+        "end": 290,
+        "string": " "
+      },
+      {
+        "start": 290,
+        "end": 296,
+        "string": "4.6.0"
+      },
+      {
+        "start": 296,
+        "end": 297,
+        "string": " "
+      },
+      {
+        "start": 297,
+        "end": 306,
+        "string": "Download"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 309,
+        "string": ":"
+      },
+      {
+        "start": 309,
+        "end": 310,
+        "string": " "
+      },
+      {
+        "start": 310,
+        "end": 314,
+        "string": "AMD"
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 322,
+        "string": "Radeon"
+      },
+      {
+        "start": 322,
+        "end": 323,
+        "string": " "
+      },
+      {
+        "start": 323,
+        "end": 333,
+        "string": "Adrenalin"
+      },
+      {
+        "start": 333,
+        "end": 334,
+        "string": " "
+      },
+      {
+        "start": 334,
+        "end": 342,
+        "string": "Edition"
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 350,
+        "string": "19.2.3"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 358,
+        "string": "driver"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 377,
+        "string": "AlphacoolReleases"
+      },
+      {
+        "start": 377,
+        "end": 378,
+        "string": " "
+      },
+      {
+        "start": 378,
+        "end": 386,
+        "string": "Eisbaer"
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 392,
+        "string": "Solo"
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      },
+      {
+        "start": 393,
+        "end": 400,
+        "string": "Chrome"
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 403,
+        "string": "("
+      },
+      {
+        "start": 403,
+        "end": 404,
+        "string": " "
+      },
+      {
+        "start": 404,
+        "end": 408,
+        "string": "DIY"
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 413,
+        "string": "CPU"
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 419,
+        "string": "Pump"
+      },
+      {
+        "start": 419,
+        "end": 420,
+        "string": " "
+      },
+      {
+        "start": 420,
+        "end": 424,
+        "string": "and"
+      },
+      {
+        "start": 424,
+        "end": 425,
+        "string": " "
+      },
+      {
+        "start": 425,
+        "end": 431,
+        "string": "Block"
+      },
+      {
+        "start": 431,
+        "end": 432,
+        "string": " "
+      },
+      {
+        "start": 432,
+        "end": 434,
+        "string": ")"
+      },
+      {
+        "start": 434,
+        "end": 435,
+        "string": " "
+      },
+      {
+        "start": 435,
+        "end": 443,
+        "string": "Version"
+      },
+      {
+        "start": 443,
+        "end": 444,
+        "string": " "
+      },
+      {
+        "start": 444,
+        "end": 451,
+        "string": "419.17"
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 457,
+        "string": "WHQL"
+      },
+      {
+        "start": 457,
+        "end": 458,
+        "string": " "
+      },
+      {
+        "start": 458,
+        "end": 460,
+        "string": "-"
+      },
+      {
+        "start": 460,
+        "end": 461,
+        "string": " "
+      },
+      {
+        "start": 461,
+        "end": 470,
+        "string": "Download"
+      },
+      {
+        "start": 470,
+        "end": 471,
+        "string": " "
+      },
+      {
+        "start": 471,
+        "end": 473,
+        "string": "&"
+      },
+      {
+        "start": 473,
+        "end": 474,
+        "string": " "
+      },
+      {
+        "start": 474,
+        "end": 485,
+        "string": "Discussion"
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 489,
+        "string": "EK"
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "string": " "
+      },
+      {
+        "start": 490,
+        "end": 496,
+        "string": "Water"
+      },
+      {
+        "start": 496,
+        "end": 497,
+        "string": " "
+      },
+      {
+        "start": 497,
+        "end": 504,
+        "string": "Blocks"
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 512,
+        "string": "Offers"
+      },
+      {
+        "start": 512,
+        "end": 513,
+        "string": " "
+      },
+      {
+        "start": 513,
+        "end": 528,
+        "string": "EK-Annihilator"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 533,
+        "string": "Pro"
+      },
+      {
+        "start": 533,
+        "end": 534,
+        "string": " "
+      },
+      {
+        "start": 534,
+        "end": 541,
+        "string": "Series"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 546,
+        "string": "CPU"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 554,
+        "string": "Blocks"
+      },
+      {
+        "start": 554,
+        "end": 555,
+        "string": " "
+      },
+      {
+        "start": 555,
+        "end": 560,
+        "string": "with"
+      },
+      {
+        "start": 560,
+        "end": 561,
+        "string": " "
+      },
+      {
+        "start": 561,
+        "end": 566,
+        "string": "Side"
+      },
+      {
+        "start": 566,
+        "end": 567,
+        "string": " "
+      },
+      {
+        "start": 567,
+        "end": 571,
+        "string": "and"
+      },
+      {
+        "start": 571,
+        "end": 572,
+        "string": " "
+      },
+      {
+        "start": 572,
+        "end": 576,
+        "string": "Top"
+      },
+      {
+        "start": 576,
+        "end": 577,
+        "string": " "
+      },
+      {
+        "start": 577,
+        "end": 586,
+        "string": "Fittings"
+      },
+      {
+        "start": 586,
+        "end": 587,
+        "string": " "
+      }
+    ]
+  }
+}

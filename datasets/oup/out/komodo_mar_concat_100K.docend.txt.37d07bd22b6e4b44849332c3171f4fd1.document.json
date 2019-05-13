@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "37d07bd22b6e4b44849332c3171f4fd1.doc",
+  "metadata": {
+    "title": "Canada blazes trail by including $C5.9bn cannabis market in national accounts",
+    "sourceUrl": "https://www.ft.com/content/961190d8-3c3b-11e9-b72b-2c7f526ca5d0",
+    "documentSource": "ft.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

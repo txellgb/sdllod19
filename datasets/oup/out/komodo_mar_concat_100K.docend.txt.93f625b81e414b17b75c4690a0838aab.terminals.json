@@ -1,0 +1,5311 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "93f625b81e414b17b75c4690a0838aab.doc",
+  "id": "93f625b81e414b17b75c4690a0838aab.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "93f625b81e414b17b75c4690a0838aab.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "string": "Young"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "string": " "
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "string": "and"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "string": " "
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "string": "the"
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "string": " "
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "string": "Restless"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "string": " "
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "string": "recap"
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "string": " "
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "string": "for"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "string": "Friday"
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "string": " "
+      },
+      {
+        "start": 52,
+        "end": 54,
+        "string": ","
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 61,
+        "string": "March"
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "string": " "
+      },
+      {
+        "start": 62,
+        "end": 64,
+        "string": "1"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "string": ","
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 75,
+        "string": "brings"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 78,
+        "string": "a"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 85,
+        "string": "twist"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "string": "in"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "string": "Mariah"
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "string": " "
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "string": "'s"
+      },
+      {
+        "start": 101,
+        "end": 102,
+        "string": " "
+      },
+      {
+        "start": 102,
+        "end": 110,
+        "string": "witness"
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "string": " "
+      },
+      {
+        "start": 111,
+        "end": 121,
+        "string": "testimony"
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "string": " "
+      },
+      {
+        "start": 122,
+        "end": 124,
+        "string": "."
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 130,
+        "string": "Plus"
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "string": " "
+      },
+      {
+        "start": 131,
+        "end": 133,
+        "string": ","
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 141,
+        "string": "Summer"
+      },
+      {
+        "start": 141,
+        "end": 142,
+        "string": " "
+      },
+      {
+        "start": 142,
+        "end": 148,
+        "string": "finds"
+      },
+      {
+        "start": 148,
+        "end": 149,
+        "string": " "
+      },
+      {
+        "start": 149,
+        "end": 153,
+        "string": "out"
+      },
+      {
+        "start": 153,
+        "end": 154,
+        "string": " "
+      },
+      {
+        "start": 154,
+        "end": 158,
+        "string": "she"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 162,
+        "string": "'s"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 165,
+        "string": "a"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 172,
+        "string": "match"
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 176,
+        "string": "to"
+      },
+      {
+        "start": 176,
+        "end": 177,
+        "string": " "
+      },
+      {
+        "start": 177,
+        "end": 182,
+        "string": "save"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "string": " "
+      },
+      {
+        "start": 183,
+        "end": 188,
+        "string": "Lola"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 192,
+        "string": "'s"
+      },
+      {
+        "start": 192,
+        "end": 193,
+        "string": " "
+      },
+      {
+        "start": 193,
+        "end": 198,
+        "string": "life"
+      },
+      {
+        "start": 198,
+        "end": 199,
+        "string": " "
+      },
+      {
+        "start": 199,
+        "end": 201,
+        "string": ","
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "string": " "
+      },
+      {
+        "start": 202,
+        "end": 206,
+        "string": "but"
+      },
+      {
+        "start": 206,
+        "end": 207,
+        "string": " "
+      },
+      {
+        "start": 207,
+        "end": 212,
+        "string": "will"
+      },
+      {
+        "start": 212,
+        "end": 213,
+        "string": " "
+      },
+      {
+        "start": 213,
+        "end": 217,
+        "string": "she"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 221,
+        "string": "do"
+      },
+      {
+        "start": 221,
+        "end": 222,
+        "string": " "
+      },
+      {
+        "start": 222,
+        "end": 225,
+        "string": "it"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 228,
+        "string": "?"
+      },
+      {
+        "start": 228,
+        "end": 229,
+        "string": " "
+      },
+      {
+        "start": 229,
+        "end": 238,
+        "string": "Brittany"
+      },
+      {
+        "start": 238,
+        "end": 239,
+        "string": " "
+      },
+      {
+        "start": 239,
+        "end": 241,
+        "string": "("
+      },
+      {
+        "start": 241,
+        "end": 242,
+        "string": " "
+      },
+      {
+        "start": 242,
+        "end": 249,
+        "string": "Lauren"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 259,
+        "string": "Woodland"
+      },
+      {
+        "start": 259,
+        "end": 260,
+        "string": " "
+      },
+      {
+        "start": 260,
+        "end": 262,
+        "string": ")"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 272,
+        "string": "reminded"
+      },
+      {
+        "start": 272,
+        "end": 273,
+        "string": " "
+      },
+      {
+        "start": 273,
+        "end": 280,
+        "string": "Sharon"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 283,
+        "string": "("
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 291,
+        "string": "Sharon"
+      },
+      {
+        "start": 291,
+        "end": 292,
+        "string": " "
+      },
+      {
+        "start": 292,
+        "end": 297,
+        "string": "Case"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 300,
+        "string": ")"
+      },
+      {
+        "start": 300,
+        "end": 301,
+        "string": " "
+      },
+      {
+        "start": 301,
+        "end": 305,
+        "string": "not"
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 309,
+        "string": "to"
+      },
+      {
+        "start": 309,
+        "end": 310,
+        "string": " "
+      },
+      {
+        "start": 310,
+        "end": 313,
+        "string": "be"
+      },
+      {
+        "start": 313,
+        "end": 314,
+        "string": " "
+      },
+      {
+        "start": 314,
+        "end": 318,
+        "string": "too"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 328,
+        "string": "friendly"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 334,
+        "string": "with"
+      },
+      {
+        "start": 334,
+        "end": 335,
+        "string": " "
+      },
+      {
+        "start": 335,
+        "end": 341,
+        "string": "Nikki"
+      },
+      {
+        "start": 341,
+        "end": 342,
+        "string": " "
+      },
+      {
+        "start": 342,
+        "end": 344,
+        "string": "("
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 352,
+        "string": "Melody"
+      },
+      {
+        "start": 352,
+        "end": 353,
+        "string": " "
+      },
+      {
+        "start": 353,
+        "end": 360,
+        "string": "Thomas"
+      },
+      {
+        "start": 360,
+        "end": 361,
+        "string": " "
+      },
+      {
+        "start": 361,
+        "end": 367,
+        "string": "Scott"
+      },
+      {
+        "start": 367,
+        "end": 368,
+        "string": " "
+      },
+      {
+        "start": 368,
+        "end": 370,
+        "string": ")"
+      },
+      {
+        "start": 370,
+        "end": 371,
+        "string": " "
+      },
+      {
+        "start": 371,
+        "end": 375,
+        "string": "and"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 385,
+        "string": "Victoria"
+      },
+      {
+        "start": 385,
+        "end": 386,
+        "string": " "
+      },
+      {
+        "start": 386,
+        "end": 388,
+        "string": "("
+      },
+      {
+        "start": 388,
+        "end": 389,
+        "string": " "
+      },
+      {
+        "start": 389,
+        "end": 396,
+        "string": "Amelia"
+      },
+      {
+        "start": 396,
+        "end": 397,
+        "string": " "
+      },
+      {
+        "start": 397,
+        "end": 404,
+        "string": "Heinle"
+      },
+      {
+        "start": 404,
+        "end": 405,
+        "string": " "
+      },
+      {
+        "start": 405,
+        "end": 407,
+        "string": ")"
+      },
+      {
+        "start": 407,
+        "end": 408,
+        "string": " "
+      },
+      {
+        "start": 408,
+        "end": 416,
+        "string": "because"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 421,
+        "string": "her"
+      },
+      {
+        "start": 421,
+        "end": 422,
+        "string": " "
+      },
+      {
+        "start": 422,
+        "end": 430,
+        "string": "defense"
+      },
+      {
+        "start": 430,
+        "end": 431,
+        "string": " "
+      },
+      {
+        "start": 431,
+        "end": 439,
+        "string": "depends"
+      },
+      {
+        "start": 439,
+        "end": 440,
+        "string": " "
+      },
+      {
+        "start": 440,
+        "end": 443,
+        "string": "on"
+      },
+      {
+        "start": 443,
+        "end": 444,
+        "string": " "
+      },
+      {
+        "start": 444,
+        "end": 447,
+        "string": "it"
+      },
+      {
+        "start": 447,
+        "end": 448,
+        "string": " "
+      },
+      {
+        "start": 448,
+        "end": 450,
+        "string": "."
+      },
+      {
+        "start": 450,
+        "end": 451,
+        "string": " "
+      },
+      {
+        "start": 451,
+        "end": 454,
+        "string": "If"
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 461,
+        "string": "Nikki"
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 466,
+        "string": "and"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 476,
+        "string": "Victoria"
+      },
+      {
+        "start": 476,
+        "end": 477,
+        "string": " "
+      },
+      {
+        "start": 477,
+        "end": 480,
+        "string": "do"
+      },
+      {
+        "start": 480,
+        "end": 481,
+        "string": " "
+      },
+      {
+        "start": 481,
+        "end": 485,
+        "string": "n't"
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 491,
+        "string": "take"
+      },
+      {
+        "start": 491,
+        "end": 492,
+        "string": " "
+      },
+      {
+        "start": 492,
+        "end": 496,
+        "string": "the"
+      },
+      {
+        "start": 496,
+        "end": 497,
+        "string": " "
+      },
+      {
+        "start": 497,
+        "end": 501,
+        "string": "hit"
+      },
+      {
+        "start": 501,
+        "end": 502,
+        "string": " "
+      },
+      {
+        "start": 502,
+        "end": 504,
+        "string": ","
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 512,
+        "string": "Sharon"
+      },
+      {
+        "start": 512,
+        "end": 513,
+        "string": " "
+      },
+      {
+        "start": 513,
+        "end": 518,
+        "string": "will"
+      },
+      {
+        "start": 518,
+        "end": 519,
+        "string": " "
+      },
+      {
+        "start": 519,
+        "end": 522,
+        "string": "go"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 529,
+        "string": "right"
+      },
+      {
+        "start": 529,
+        "end": 530,
+        "string": " "
+      },
+      {
+        "start": 530,
+        "end": 535,
+        "string": "down"
+      },
+      {
+        "start": 535,
+        "end": 536,
+        "string": " "
+      },
+      {
+        "start": 536,
+        "end": 541,
+        "string": "with"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 547,
+        "string": "them"
+      },
+      {
+        "start": 547,
+        "end": 548,
+        "string": " "
+      },
+      {
+        "start": 548,
+        "end": 550,
+        "string": "."
+      },
+      {
+        "start": 550,
+        "end": 551,
+        "string": " "
+      },
+      {
+        "start": 551,
+        "end": 559,
+        "string": "Michael"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 562,
+        "string": "("
+      },
+      {
+        "start": 562,
+        "end": 563,
+        "string": " "
+      },
+      {
+        "start": 563,
+        "end": 573,
+        "string": "Christian"
+      },
+      {
+        "start": 573,
+        "end": 574,
+        "string": " "
+      },
+      {
+        "start": 574,
+        "end": 582,
+        "string": "LeBlanc"
+      },
+      {
+        "start": 582,
+        "end": 583,
+        "string": " "
+      },
+      {
+        "start": 583,
+        "end": 585,
+        "string": ")"
+      },
+      {
+        "start": 585,
+        "end": 586,
+        "string": " "
+      },
+      {
+        "start": 586,
+        "end": 597,
+        "string": "complained"
+      },
+      {
+        "start": 597,
+        "end": 598,
+        "string": " "
+      },
+      {
+        "start": 598,
+        "end": 603,
+        "string": "that"
+      },
+      {
+        "start": 603,
+        "end": 604,
+        "string": " "
+      },
+      {
+        "start": 604,
+        "end": 608,
+        "string": "the"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 617,
+        "string": "Newmans"
+      },
+      {
+        "start": 617,
+        "end": 618,
+        "string": " "
+      },
+      {
+        "start": 618,
+        "end": 622,
+        "string": "had"
+      },
+      {
+        "start": 622,
+        "end": 623,
+        "string": " "
+      },
+      {
+        "start": 623,
+        "end": 627,
+        "string": "n't"
+      },
+      {
+        "start": 627,
+        "end": 628,
+        "string": " "
+      },
+      {
+        "start": 628,
+        "end": 634,
+        "string": "given"
+      },
+      {
+        "start": 634,
+        "end": 635,
+        "string": " "
+      },
+      {
+        "start": 635,
+        "end": 639,
+        "string": "him"
+      },
+      {
+        "start": 639,
+        "end": 640,
+        "string": " "
+      },
+      {
+        "start": 640,
+        "end": 645,
+        "string": "much"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 649,
+        "string": "to"
+      },
+      {
+        "start": 649,
+        "end": 650,
+        "string": " "
+      },
+      {
+        "start": 650,
+        "end": 655,
+        "string": "work"
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 661,
+        "string": "with"
+      },
+      {
+        "start": 661,
+        "end": 662,
+        "string": " "
+      },
+      {
+        "start": 662,
+        "end": 664,
+        "string": "."
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 670,
+        "string": "Then"
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 673,
+        "string": ","
+      },
+      {
+        "start": 673,
+        "end": 674,
+        "string": " "
+      },
+      {
+        "start": 674,
+        "end": 680,
+        "string": "Nikki"
+      },
+      {
+        "start": 680,
+        "end": 681,
+        "string": " "
+      },
+      {
+        "start": 681,
+        "end": 686,
+        "string": "told"
+      },
+      {
+        "start": 686,
+        "end": 687,
+        "string": " "
+      },
+      {
+        "start": 687,
+        "end": 696,
+        "string": "Victoria"
+      },
+      {
+        "start": 696,
+        "end": 697,
+        "string": " "
+      },
+      {
+        "start": 697,
+        "end": 700,
+        "string": "to"
+      },
+      {
+        "start": 700,
+        "end": 701,
+        "string": " "
+      },
+      {
+        "start": 701,
+        "end": 707,
+        "string": "stick"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 711,
+        "string": "to"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 718,
+        "string": "Nikki"
+      },
+      {
+        "start": 718,
+        "end": 719,
+        "string": " "
+      },
+      {
+        "start": 719,
+        "end": 722,
+        "string": "'s"
+      },
+      {
+        "start": 722,
+        "end": 723,
+        "string": " "
+      },
+      {
+        "start": 723,
+        "end": 732,
+        "string": "original"
+      },
+      {
+        "start": 732,
+        "end": 733,
+        "string": " "
+      },
+      {
+        "start": 733,
+        "end": 744,
+        "string": "confession"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 751,
+        "string": "story"
+      },
+      {
+        "start": 751,
+        "end": 752,
+        "string": " "
+      },
+      {
+        "start": 752,
+        "end": 754,
+        "string": "."
+      },
+      {
+        "start": 754,
+        "end": 755,
+        "string": " "
+      },
+      {
+        "start": 755,
+        "end": 765,
+        "string": "Christine"
+      },
+      {
+        "start": 765,
+        "end": 766,
+        "string": " "
+      },
+      {
+        "start": 766,
+        "end": 768,
+        "string": "("
+      },
+      {
+        "start": 768,
+        "end": 769,
+        "string": " "
+      },
+      {
+        "start": 769,
+        "end": 778,
+        "string": "Lauralee"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 784,
+        "string": "Bell"
+      },
+      {
+        "start": 784,
+        "end": 785,
+        "string": " "
+      },
+      {
+        "start": 785,
+        "end": 787,
+        "string": ")"
+      },
+      {
+        "start": 787,
+        "end": 788,
+        "string": " "
+      },
+      {
+        "start": 788,
+        "end": 795,
+        "string": "called"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 803,
+        "string": "Mariah"
+      },
+      {
+        "start": 803,
+        "end": 804,
+        "string": " "
+      },
+      {
+        "start": 804,
+        "end": 806,
+        "string": "("
+      },
+      {
+        "start": 806,
+        "end": 807,
+        "string": " "
+      },
+      {
+        "start": 807,
+        "end": 814,
+        "string": "Camryn"
+      },
+      {
+        "start": 814,
+        "end": 815,
+        "string": " "
+      },
+      {
+        "start": 815,
+        "end": 822,
+        "string": "Grimes"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 825,
+        "string": ")"
+      },
+      {
+        "start": 825,
+        "end": 826,
+        "string": " "
+      },
+      {
+        "start": 826,
+        "end": 829,
+        "string": "to"
+      },
+      {
+        "start": 829,
+        "end": 830,
+        "string": " "
+      },
+      {
+        "start": 830,
+        "end": 834,
+        "string": "the"
+      },
+      {
+        "start": 834,
+        "end": 835,
+        "string": " "
+      },
+      {
+        "start": 835,
+        "end": 841,
+        "string": "stand"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 845,
+        "string": "to"
+      },
+      {
+        "start": 845,
+        "end": 846,
+        "string": " "
+      },
+      {
+        "start": 846,
+        "end": 854,
+        "string": "discuss"
+      },
+      {
+        "start": 854,
+        "end": 855,
+        "string": " "
+      },
+      {
+        "start": 855,
+        "end": 859,
+        "string": "the"
+      },
+      {
+        "start": 859,
+        "end": 860,
+        "string": " "
+      },
+      {
+        "start": 860,
+        "end": 865,
+        "string": "girl"
+      },
+      {
+        "start": 865,
+        "end": 866,
+        "string": " "
+      },
+      {
+        "start": 866,
+        "end": 869,
+        "string": "'s"
+      },
+      {
+        "start": 869,
+        "end": 870,
+        "string": " "
+      },
+      {
+        "start": 870,
+        "end": 876,
+        "string": "night"
+      },
+      {
+        "start": 876,
+        "end": 877,
+        "string": " "
+      },
+      {
+        "start": 877,
+        "end": 880,
+        "string": "at"
+      },
+      {
+        "start": 880,
+        "end": 881,
+        "string": " "
+      },
+      {
+        "start": 881,
+        "end": 890,
+        "string": "Victoria"
+      },
+      {
+        "start": 890,
+        "end": 891,
+        "string": " "
+      },
+      {
+        "start": 891,
+        "end": 893,
+        "string": "."
+      },
+      {
+        "start": 893,
+        "end": 894,
+        "string": " "
+      },
+      {
+        "start": 894,
+        "end": 900,
+        "string": "Tessa"
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 903,
+        "string": "("
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 909,
+        "string": "Cait"
+      },
+      {
+        "start": 909,
+        "end": 910,
+        "string": " "
+      },
+      {
+        "start": 910,
+        "end": 920,
+        "string": "Fairbanks"
+      },
+      {
+        "start": 920,
+        "end": 921,
+        "string": " "
+      },
+      {
+        "start": 921,
+        "end": 923,
+        "string": ")"
+      },
+      {
+        "start": 923,
+        "end": 924,
+        "string": " "
+      },
+      {
+        "start": 924,
+        "end": 928,
+        "string": "was"
+      },
+      {
+        "start": 928,
+        "end": 929,
+        "string": " "
+      },
+      {
+        "start": 929,
+        "end": 932,
+        "string": "in"
+      },
+      {
+        "start": 932,
+        "end": 933,
+        "string": " "
+      },
+      {
+        "start": 933,
+        "end": 937,
+        "string": "the"
+      },
+      {
+        "start": 937,
+        "end": 938,
+        "string": " "
+      },
+      {
+        "start": 938,
+        "end": 943,
+        "string": "back"
+      },
+      {
+        "start": 943,
+        "end": 944,
+        "string": " "
+      },
+      {
+        "start": 944,
+        "end": 947,
+        "string": "of"
+      },
+      {
+        "start": 947,
+        "end": 948,
+        "string": " "
+      },
+      {
+        "start": 948,
+        "end": 952,
+        "string": "the"
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 963,
+        "string": "courtroom"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 975,
+        "string": "supporting"
+      },
+      {
+        "start": 975,
+        "end": 976,
+        "string": " "
+      },
+      {
+        "start": 976,
+        "end": 983,
+        "string": "Mariah"
+      },
+      {
+        "start": 983,
+        "end": 984,
+        "string": " "
+      },
+      {
+        "start": 984,
+        "end": 986,
+        "string": "."
+      },
+      {
+        "start": 986,
+        "end": 987,
+        "string": " "
+      },
+      {
+        "start": 987,
+        "end": 994,
+        "string": "Mariah"
+      },
+      {
+        "start": 994,
+        "end": 995,
+        "string": " "
+      },
+      {
+        "start": 995,
+        "end": 1005,
+        "string": "described"
+      },
+      {
+        "start": 1005,
+        "end": 1006,
+        "string": " "
+      },
+      {
+        "start": 1006,
+        "end": 1010,
+        "string": "the"
+      },
+      {
+        "start": 1010,
+        "end": 1011,
+        "string": " "
+      },
+      {
+        "start": 1011,
+        "end": 1019,
+        "string": "evening"
+      },
+      {
+        "start": 1019,
+        "end": 1020,
+        "string": " "
+      },
+      {
+        "start": 1020,
+        "end": 1024,
+        "string": "and"
+      },
+      {
+        "start": 1024,
+        "end": 1025,
+        "string": " "
+      },
+      {
+        "start": 1025,
+        "end": 1030,
+        "string": "told"
+      },
+      {
+        "start": 1030,
+        "end": 1031,
+        "string": " "
+      },
+      {
+        "start": 1031,
+        "end": 1036,
+        "string": "what"
+      },
+      {
+        "start": 1036,
+        "end": 1037,
+        "string": " "
+      },
+      {
+        "start": 1037,
+        "end": 1041,
+        "string": "she"
+      },
+      {
+        "start": 1041,
+        "end": 1042,
+        "string": " "
+      },
+      {
+        "start": 1042,
+        "end": 1047,
+        "string": "knew"
+      },
+      {
+        "start": 1047,
+        "end": 1048,
+        "string": " "
+      },
+      {
+        "start": 1048,
+        "end": 1050,
+        "string": "."
+      },
+      {
+        "start": 1050,
+        "end": 1051,
+        "string": " "
+      },
+      {
+        "start": 1051,
+        "end": 1061,
+        "string": "Christine"
+      },
+      {
+        "start": 1061,
+        "end": 1062,
+        "string": " "
+      },
+      {
+        "start": 1062,
+        "end": 1069,
+        "string": "showed"
+      },
+      {
+        "start": 1069,
+        "end": 1070,
+        "string": " "
+      },
+      {
+        "start": 1070,
+        "end": 1074,
+        "string": "the"
+      },
+      {
+        "start": 1074,
+        "end": 1075,
+        "string": " "
+      },
+      {
+        "start": 1075,
+        "end": 1081,
+        "string": "video"
+      },
+      {
+        "start": 1081,
+        "end": 1082,
+        "string": " "
+      },
+      {
+        "start": 1082,
+        "end": 1085,
+        "string": "of"
+      },
+      {
+        "start": 1085,
+        "end": 1086,
+        "string": " "
+      },
+      {
+        "start": 1086,
+        "end": 1090,
+        "string": "the"
+      },
+      {
+        "start": 1090,
+        "end": 1091,
+        "string": " "
+      },
+      {
+        "start": 1091,
+        "end": 1097,
+        "string": "women"
+      },
+      {
+        "start": 1097,
+        "end": 1098,
+        "string": " "
+      },
+      {
+        "start": 1098,
+        "end": 1106,
+        "string": "putting"
+      },
+      {
+        "start": 1106,
+        "end": 1107,
+        "string": " "
+      },
+      {
+        "start": 1107,
+        "end": 1111,
+        "string": "the"
+      },
+      {
+        "start": 1111,
+        "end": 1112,
+        "string": " "
+      },
+      {
+        "start": 1112,
+        "end": 1116,
+        "string": "rug"
+      },
+      {
+        "start": 1116,
+        "end": 1117,
+        "string": " "
+      },
+      {
+        "start": 1117,
+        "end": 1128,
+        "string": "containing"
+      },
+      {
+        "start": 1128,
+        "end": 1129,
+        "string": " "
+      },
+      {
+        "start": 1129,
+        "end": 1134,
+        "string": "J.T."
+      },
+      {
+        "start": 1134,
+        "end": 1135,
+        "string": " "
+      },
+      {
+        "start": 1135,
+        "end": 1138,
+        "string": "'s"
+      },
+      {
+        "start": 1138,
+        "end": 1139,
+        "string": " "
+      },
+      {
+        "start": 1139,
+        "end": 1141,
+        "string": "("
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1147,
+        "string": "Thad"
+      },
+      {
+        "start": 1147,
+        "end": 1148,
+        "string": " "
+      },
+      {
+        "start": 1148,
+        "end": 1159,
+        "string": "Luckinbill"
+      },
+      {
+        "start": 1159,
+        "end": 1160,
+        "string": " "
+      },
+      {
+        "start": 1160,
+        "end": 1162,
+        "string": ")"
+      },
+      {
+        "start": 1162,
+        "end": 1163,
+        "string": " "
+      },
+      {
+        "start": 1163,
+        "end": 1168,
+        "string": "body"
+      },
+      {
+        "start": 1168,
+        "end": 1169,
+        "string": " "
+      },
+      {
+        "start": 1169,
+        "end": 1172,
+        "string": "in"
+      },
+      {
+        "start": 1172,
+        "end": 1173,
+        "string": " "
+      },
+      {
+        "start": 1173,
+        "end": 1176,
+        "string": "it"
+      },
+      {
+        "start": 1176,
+        "end": 1177,
+        "string": " "
+      },
+      {
+        "start": 1177,
+        "end": 1180,
+        "string": "in"
+      },
+      {
+        "start": 1180,
+        "end": 1181,
+        "string": " "
+      },
+      {
+        "start": 1181,
+        "end": 1185,
+        "string": "the"
+      },
+      {
+        "start": 1185,
+        "end": 1186,
+        "string": " "
+      },
+      {
+        "start": 1186,
+        "end": 1192,
+        "string": "trunk"
+      },
+      {
+        "start": 1192,
+        "end": 1193,
+        "string": " "
+      },
+      {
+        "start": 1193,
+        "end": 1196,
+        "string": "of"
+      },
+      {
+        "start": 1196,
+        "end": 1197,
+        "string": " "
+      },
+      {
+        "start": 1197,
+        "end": 1201,
+        "string": "the"
+      },
+      {
+        "start": 1201,
+        "end": 1202,
+        "string": " "
+      },
+      {
+        "start": 1202,
+        "end": 1206,
+        "string": "car"
+      },
+      {
+        "start": 1206,
+        "end": 1207,
+        "string": " "
+      },
+      {
+        "start": 1207,
+        "end": 1209,
+        "string": "."
+      },
+      {
+        "start": 1209,
+        "end": 1210,
+        "string": " "
+      },
+      {
+        "start": 1210,
+        "end": 1215,
+        "string": "When"
+      },
+      {
+        "start": 1215,
+        "end": 1216,
+        "string": " "
+      },
+      {
+        "start": 1216,
+        "end": 1226,
+        "string": "Christine"
+      },
+      {
+        "start": 1226,
+        "end": 1227,
+        "string": " "
+      },
+      {
+        "start": 1227,
+        "end": 1236,
+        "string": "finished"
+      },
+      {
+        "start": 1236,
+        "end": 1237,
+        "string": " "
+      },
+      {
+        "start": 1237,
+        "end": 1239,
+        "string": ","
+      },
+      {
+        "start": 1239,
+        "end": 1240,
+        "string": " "
+      },
+      {
+        "start": 1240,
+        "end": 1248,
+        "string": "Michael"
+      },
+      {
+        "start": 1248,
+        "end": 1249,
+        "string": " "
+      },
+      {
+        "start": 1249,
+        "end": 1264,
+        "string": "cross-examined"
+      },
+      {
+        "start": 1264,
+        "end": 1265,
+        "string": " "
+      },
+      {
+        "start": 1265,
+        "end": 1272,
+        "string": "Mariah"
+      },
+      {
+        "start": 1272,
+        "end": 1273,
+        "string": " "
+      },
+      {
+        "start": 1273,
+        "end": 1277,
+        "string": "and"
+      },
+      {
+        "start": 1277,
+        "end": 1278,
+        "string": " "
+      },
+      {
+        "start": 1278,
+        "end": 1285,
+        "string": "wanted"
+      },
+      {
+        "start": 1285,
+        "end": 1286,
+        "string": " "
+      },
+      {
+        "start": 1286,
+        "end": 1289,
+        "string": "to"
+      },
+      {
+        "start": 1289,
+        "end": 1290,
+        "string": " "
+      },
+      {
+        "start": 1290,
+        "end": 1295,
+        "string": "know"
+      },
+      {
+        "start": 1295,
+        "end": 1296,
+        "string": " "
+      },
+      {
+        "start": 1296,
+        "end": 1300,
+        "string": "the"
+      },
+      {
+        "start": 1300,
+        "end": 1301,
+        "string": " "
+      },
+      {
+        "start": 1301,
+        "end": 1306,
+        "string": "real"
+      },
+      {
+        "start": 1306,
+        "end": 1307,
+        "string": " "
+      },
+      {
+        "start": 1307,
+        "end": 1313,
+        "string": "story"
+      },
+      {
+        "start": 1313,
+        "end": 1314,
+        "string": " "
+      },
+      {
+        "start": 1314,
+        "end": 1317,
+        "string": "of"
+      },
+      {
+        "start": 1317,
+        "end": 1318,
+        "string": " "
+      },
+      {
+        "start": 1318,
+        "end": 1322,
+        "string": "how"
+      },
+      {
+        "start": 1322,
+        "end": 1323,
+        "string": " "
+      },
+      {
+        "start": 1323,
+        "end": 1330,
+        "string": "Mariah"
+      },
+      {
+        "start": 1330,
+        "end": 1331,
+        "string": " "
+      },
+      {
+        "start": 1331,
+        "end": 1337,
+        "string": "first"
+      },
+      {
+        "start": 1337,
+        "end": 1338,
+        "string": " "
+      },
+      {
+        "start": 1338,
+        "end": 1342,
+        "string": "saw"
+      },
+      {
+        "start": 1342,
+        "end": 1343,
+        "string": " "
+      },
+      {
+        "start": 1343,
+        "end": 1347,
+        "string": "the"
+      },
+      {
+        "start": 1347,
+        "end": 1348,
+        "string": " "
+      },
+      {
+        "start": 1348,
+        "end": 1354,
+        "string": "video"
+      },
+      {
+        "start": 1354,
+        "end": 1355,
+        "string": " "
+      },
+      {
+        "start": 1355,
+        "end": 1358,
+        "string": "of"
+      },
+      {
+        "start": 1358,
+        "end": 1359,
+        "string": " "
+      },
+      {
+        "start": 1359,
+        "end": 1363,
+        "string": "the"
+      },
+      {
+        "start": 1363,
+        "end": 1364,
+        "string": " "
+      },
+      {
+        "start": 1364,
+        "end": 1370,
+        "string": "women"
+      },
+      {
+        "start": 1370,
+        "end": 1371,
+        "string": " "
+      },
+      {
+        "start": 1371,
+        "end": 1373,
+        "string": ","
+      },
+      {
+        "start": 1373,
+        "end": 1374,
+        "string": " "
+      },
+      {
+        "start": 1374,
+        "end": 1380,
+        "string": "which"
+      },
+      {
+        "start": 1380,
+        "end": 1381,
+        "string": " "
+      },
+      {
+        "start": 1381,
+        "end": 1387,
+        "string": "could"
+      },
+      {
+        "start": 1387,
+        "end": 1388,
+        "string": " "
+      },
+      {
+        "start": 1388,
+        "end": 1394,
+        "string": "spell"
+      },
+      {
+        "start": 1394,
+        "end": 1395,
+        "string": " "
+      },
+      {
+        "start": 1395,
+        "end": 1403,
+        "string": "serious"
+      },
+      {
+        "start": 1403,
+        "end": 1404,
+        "string": " "
+      },
+      {
+        "start": 1404,
+        "end": 1412,
+        "string": "trouble"
+      },
+      {
+        "start": 1412,
+        "end": 1413,
+        "string": " "
+      },
+      {
+        "start": 1413,
+        "end": 1417,
+        "string": "for"
+      },
+      {
+        "start": 1417,
+        "end": 1418,
+        "string": " "
+      },
+      {
+        "start": 1418,
+        "end": 1424,
+        "string": "Tessa"
+      },
+      {
+        "start": 1424,
+        "end": 1425,
+        "string": " "
+      },
+      {
+        "start": 1425,
+        "end": 1433,
+        "string": "because"
+      },
+      {
+        "start": 1433,
+        "end": 1434,
+        "string": " "
+      },
+      {
+        "start": 1434,
+        "end": 1437,
+        "string": "of"
+      },
+      {
+        "start": 1437,
+        "end": 1438,
+        "string": " "
+      },
+      {
+        "start": 1438,
+        "end": 1442,
+        "string": "her"
+      },
+      {
+        "start": 1442,
+        "end": 1443,
+        "string": " "
+      },
+      {
+        "start": 1443,
+        "end": 1453,
+        "string": "blackmail"
+      },
+      {
+        "start": 1453,
+        "end": 1454,
+        "string": " "
+      },
+      {
+        "start": 1454,
+        "end": 1461,
+        "string": "scheme"
+      },
+      {
+        "start": 1461,
+        "end": 1462,
+        "string": " "
+      },
+      {
+        "start": 1462,
+        "end": 1470,
+        "string": "against"
+      },
+      {
+        "start": 1470,
+        "end": 1471,
+        "string": " "
+      },
+      {
+        "start": 1471,
+        "end": 1475,
+        "string": "the"
+      },
+      {
+        "start": 1475,
+        "end": 1476,
+        "string": " "
+      },
+      {
+        "start": 1476,
+        "end": 1482,
+        "string": "women"
+      },
+      {
+        "start": 1482,
+        "end": 1483,
+        "string": " "
+      },
+      {
+        "start": 1483,
+        "end": 1485,
+        "string": "."
+      },
+      {
+        "start": 1485,
+        "end": 1486,
+        "string": " "
+      },
+      {
+        "start": 1486,
+        "end": 1490,
+        "string": "Ana"
+      },
+      {
+        "start": 1490,
+        "end": 1491,
+        "string": " "
+      },
+      {
+        "start": 1491,
+        "end": 1493,
+        "string": "("
+      },
+      {
+        "start": 1493,
+        "end": 1494,
+        "string": " "
+      },
+      {
+        "start": 1494,
+        "end": 1500,
+        "string": "Loren"
+      },
+      {
+        "start": 1500,
+        "end": 1501,
+        "string": " "
+      },
+      {
+        "start": 1501,
+        "end": 1506,
+        "string": "Lott"
+      },
+      {
+        "start": 1506,
+        "end": 1507,
+        "string": " "
+      },
+      {
+        "start": 1507,
+        "end": 1509,
+        "string": ")"
+      },
+      {
+        "start": 1509,
+        "end": 1510,
+        "string": " "
+      },
+      {
+        "start": 1510,
+        "end": 1514,
+        "string": "and"
+      },
+      {
+        "start": 1514,
+        "end": 1515,
+        "string": " "
+      },
+      {
+        "start": 1515,
+        "end": 1521,
+        "string": "Devon"
+      },
+      {
+        "start": 1521,
+        "end": 1522,
+        "string": " "
+      },
+      {
+        "start": 1522,
+        "end": 1524,
+        "string": "("
+      },
+      {
+        "start": 1524,
+        "end": 1525,
+        "string": " "
+      },
+      {
+        "start": 1525,
+        "end": 1532,
+        "string": "Bryton"
+      },
+      {
+        "start": 1532,
+        "end": 1533,
+        "string": " "
+      },
+      {
+        "start": 1533,
+        "end": 1539,
+        "string": "James"
+      },
+      {
+        "start": 1539,
+        "end": 1540,
+        "string": " "
+      },
+      {
+        "start": 1540,
+        "end": 1542,
+        "string": ")"
+      },
+      {
+        "start": 1542,
+        "end": 1543,
+        "string": " "
+      },
+      {
+        "start": 1543,
+        "end": 1550,
+        "string": "talked"
+      },
+      {
+        "start": 1550,
+        "end": 1551,
+        "string": " "
+      },
+      {
+        "start": 1551,
+        "end": 1560,
+        "string": "business"
+      },
+      {
+        "start": 1560,
+        "end": 1561,
+        "string": " "
+      },
+      {
+        "start": 1561,
+        "end": 1563,
+        "string": ","
+      },
+      {
+        "start": 1563,
+        "end": 1564,
+        "string": " "
+      },
+      {
+        "start": 1564,
+        "end": 1568,
+        "string": "and"
+      },
+      {
+        "start": 1568,
+        "end": 1569,
+        "string": " "
+      },
+      {
+        "start": 1569,
+        "end": 1574,
+        "string": "Kyle"
+      },
+      {
+        "start": 1574,
+        "end": 1575,
+        "string": " "
+      },
+      {
+        "start": 1575,
+        "end": 1577,
+        "string": "("
+      },
+      {
+        "start": 1577,
+        "end": 1578,
+        "string": " "
+      },
+      {
+        "start": 1578,
+        "end": 1586,
+        "string": "Michael"
+      },
+      {
+        "start": 1586,
+        "end": 1587,
+        "string": " "
+      },
+      {
+        "start": 1587,
+        "end": 1594,
+        "string": "Mealor"
+      },
+      {
+        "start": 1594,
+        "end": 1595,
+        "string": " "
+      },
+      {
+        "start": 1595,
+        "end": 1597,
+        "string": ")"
+      },
+      {
+        "start": 1597,
+        "end": 1598,
+        "string": " "
+      },
+      {
+        "start": 1598,
+        "end": 1603,
+        "string": "came"
+      },
+      {
+        "start": 1603,
+        "end": 1604,
+        "string": " "
+      },
+      {
+        "start": 1604,
+        "end": 1607,
+        "string": "by"
+      },
+      {
+        "start": 1607,
+        "end": 1608,
+        "string": " "
+      },
+      {
+        "start": 1608,
+        "end": 1612,
+        "string": "and"
+      },
+      {
+        "start": 1612,
+        "end": 1613,
+        "string": " "
+      },
+      {
+        "start": 1613,
+        "end": 1622,
+        "string": "informed"
+      },
+      {
+        "start": 1622,
+        "end": 1623,
+        "string": " "
+      },
+      {
+        "start": 1623,
+        "end": 1628,
+        "string": "them"
+      },
+      {
+        "start": 1628,
+        "end": 1629,
+        "string": " "
+      },
+      {
+        "start": 1629,
+        "end": 1634,
+        "string": "that"
+      },
+      {
+        "start": 1634,
+        "end": 1635,
+        "string": " "
+      },
+      {
+        "start": 1635,
+        "end": 1640,
+        "string": "Lola"
+      },
+      {
+        "start": 1640,
+        "end": 1641,
+        "string": " "
+      },
+      {
+        "start": 1641,
+        "end": 1644,
+        "string": "'s"
+      },
+      {
+        "start": 1644,
+        "end": 1645,
+        "string": " "
+      },
+      {
+        "start": 1645,
+        "end": 1647,
+        "string": "("
+      },
+      {
+        "start": 1647,
+        "end": 1648,
+        "string": " "
+      },
+      {
+        "start": 1648,
+        "end": 1654,
+        "string": "Sasha"
+      },
+      {
+        "start": 1654,
+        "end": 1655,
+        "string": " "
+      },
+      {
+        "start": 1655,
+        "end": 1661,
+        "string": "Calle"
+      },
+      {
+        "start": 1661,
+        "end": 1662,
+        "string": " "
+      },
+      {
+        "start": 1662,
+        "end": 1664,
+        "string": ")"
+      },
+      {
+        "start": 1664,
+        "end": 1665,
+        "string": " "
+      },
+      {
+        "start": 1665,
+        "end": 1670,
+        "string": "only"
+      },
+      {
+        "start": 1670,
+        "end": 1671,
+        "string": " "
+      },
+      {
+        "start": 1671,
+        "end": 1676,
+        "string": "hope"
+      },
+      {
+        "start": 1676,
+        "end": 1677,
+        "string": " "
+      },
+      {
+        "start": 1677,
+        "end": 1680,
+        "string": "is"
+      },
+      {
+        "start": 1680,
+        "end": 1681,
+        "string": " "
+      },
+      {
+        "start": 1681,
+        "end": 1683,
+        "string": "a"
+      },
+      {
+        "start": 1683,
+        "end": 1684,
+        "string": " "
+      },
+      {
+        "start": 1684,
+        "end": 1690,
+        "string": "liver"
+      },
+      {
+        "start": 1690,
+        "end": 1691,
+        "string": " "
+      },
+      {
+        "start": 1691,
+        "end": 1702,
+        "string": "transplant"
+      },
+      {
+        "start": 1702,
+        "end": 1703,
+        "string": " "
+      },
+      {
+        "start": 1703,
+        "end": 1705,
+        "string": "."
+      },
+      {
+        "start": 1705,
+        "end": 1706,
+        "string": " "
+      },
+      {
+        "start": 1706,
+        "end": 1712,
+        "string": "Devon"
+      },
+      {
+        "start": 1712,
+        "end": 1713,
+        "string": " "
+      },
+      {
+        "start": 1713,
+        "end": 1721,
+        "string": "offered"
+      },
+      {
+        "start": 1721,
+        "end": 1722,
+        "string": " "
+      },
+      {
+        "start": 1722,
+        "end": 1725,
+        "string": "to"
+      },
+      {
+        "start": 1725,
+        "end": 1726,
+        "string": " "
+      },
+      {
+        "start": 1726,
+        "end": 1731,
+        "string": "help"
+      },
+      {
+        "start": 1731,
+        "end": 1732,
+        "string": " "
+      },
+      {
+        "start": 1732,
+        "end": 1734,
+        "string": ","
+      },
+      {
+        "start": 1734,
+        "end": 1735,
+        "string": " "
+      },
+      {
+        "start": 1735,
+        "end": 1738,
+        "string": "so"
+      },
+      {
+        "start": 1738,
+        "end": 1739,
+        "string": " "
+      },
+      {
+        "start": 1739,
+        "end": 1742,
+        "string": "he"
+      },
+      {
+        "start": 1742,
+        "end": 1743,
+        "string": " "
+      },
+      {
+        "start": 1743,
+        "end": 1747,
+        "string": "and"
+      },
+      {
+        "start": 1747,
+        "end": 1748,
+        "string": " "
+      },
+      {
+        "start": 1748,
+        "end": 1752,
+        "string": "Ana"
+      },
+      {
+        "start": 1752,
+        "end": 1753,
+        "string": " "
+      },
+      {
+        "start": 1753,
+        "end": 1758,
+        "string": "went"
+      },
+      {
+        "start": 1758,
+        "end": 1759,
+        "string": " "
+      },
+      {
+        "start": 1759,
+        "end": 1762,
+        "string": "to"
+      },
+      {
+        "start": 1762,
+        "end": 1763,
+        "string": " "
+      },
+      {
+        "start": 1763,
+        "end": 1767,
+        "string": "get"
+      },
+      {
+        "start": 1767,
+        "end": 1768,
+        "string": " "
+      },
+      {
+        "start": 1768,
+        "end": 1775,
+        "string": "tested"
+      },
+      {
+        "start": 1775,
+        "end": 1776,
+        "string": " "
+      },
+      {
+        "start": 1776,
+        "end": 1781,
+        "string": "even"
+      },
+      {
+        "start": 1781,
+        "end": 1782,
+        "string": " "
+      },
+      {
+        "start": 1782,
+        "end": 1789,
+        "string": "though"
+      },
+      {
+        "start": 1789,
+        "end": 1790,
+        "string": " "
+      },
+      {
+        "start": 1790,
+        "end": 1793,
+        "string": "it"
+      },
+      {
+        "start": 1793,
+        "end": 1794,
+        "string": " "
+      },
+      {
+        "start": 1794,
+        "end": 1800,
+        "string": "meant"
+      },
+      {
+        "start": 1800,
+        "end": 1801,
+        "string": " "
+      },
+      {
+        "start": 1801,
+        "end": 1807,
+        "string": "Devon"
+      },
+      {
+        "start": 1807,
+        "end": 1808,
+        "string": " "
+      },
+      {
+        "start": 1808,
+        "end": 1812,
+        "string": "had"
+      },
+      {
+        "start": 1812,
+        "end": 1813,
+        "string": " "
+      },
+      {
+        "start": 1813,
+        "end": 1816,
+        "string": "to"
+      },
+      {
+        "start": 1816,
+        "end": 1817,
+        "string": " "
+      },
+      {
+        "start": 1817,
+        "end": 1824,
+        "string": "return"
+      },
+      {
+        "start": 1824,
+        "end": 1825,
+        "string": " "
+      },
+      {
+        "start": 1825,
+        "end": 1828,
+        "string": "to"
+      },
+      {
+        "start": 1828,
+        "end": 1829,
+        "string": " "
+      },
+      {
+        "start": 1829,
+        "end": 1833,
+        "string": "the"
+      },
+      {
+        "start": 1833,
+        "end": 1834,
+        "string": " "
+      },
+      {
+        "start": 1834,
+        "end": 1843,
+        "string": "hospital"
+      },
+      {
+        "start": 1843,
+        "end": 1844,
+        "string": " "
+      },
+      {
+        "start": 1844,
+        "end": 1848,
+        "string": "and"
+      },
+      {
+        "start": 1848,
+        "end": 1849,
+        "string": " "
+      },
+      {
+        "start": 1849,
+        "end": 1854,
+        "string": "face"
+      },
+      {
+        "start": 1854,
+        "end": 1855,
+        "string": " "
+      },
+      {
+        "start": 1855,
+        "end": 1859,
+        "string": "his"
+      },
+      {
+        "start": 1859,
+        "end": 1860,
+        "string": " "
+      },
+      {
+        "start": 1860,
+        "end": 1867,
+        "string": "demons"
+      },
+      {
+        "start": 1867,
+        "end": 1868,
+        "string": " "
+      },
+      {
+        "start": 1868,
+        "end": 1874,
+        "string": "about"
+      },
+      {
+        "start": 1874,
+        "end": 1875,
+        "string": " "
+      },
+      {
+        "start": 1875,
+        "end": 1882,
+        "string": "losing"
+      },
+      {
+        "start": 1882,
+        "end": 1883,
+        "string": " "
+      },
+      {
+        "start": 1883,
+        "end": 1890,
+        "string": "Hilary"
+      },
+      {
+        "start": 1890,
+        "end": 1891,
+        "string": " "
+      },
+      {
+        "start": 1891,
+        "end": 1897,
+        "string": "there"
+      },
+      {
+        "start": 1897,
+        "end": 1898,
+        "string": " "
+      },
+      {
+        "start": 1898,
+        "end": 1900,
+        "string": "."
+      },
+      {
+        "start": 1900,
+        "end": 1901,
+        "string": " "
+      },
+      {
+        "start": 1901,
+        "end": 1904,
+        "string": "At"
+      },
+      {
+        "start": 1904,
+        "end": 1905,
+        "string": " "
+      },
+      {
+        "start": 1905,
+        "end": 1909,
+        "string": "the"
+      },
+      {
+        "start": 1909,
+        "end": 1910,
+        "string": " "
+      },
+      {
+        "start": 1910,
+        "end": 1919,
+        "string": "hospital"
+      },
+      {
+        "start": 1919,
+        "end": 1920,
+        "string": " "
+      },
+      {
+        "start": 1920,
+        "end": 1922,
+        "string": ","
+      },
+      {
+        "start": 1922,
+        "end": 1923,
+        "string": " "
+      },
+      {
+        "start": 1923,
+        "end": 1930,
+        "string": "Summer"
+      },
+      {
+        "start": 1930,
+        "end": 1931,
+        "string": " "
+      },
+      {
+        "start": 1931,
+        "end": 1933,
+        "string": "("
+      },
+      {
+        "start": 1933,
+        "end": 1934,
+        "string": " "
+      },
+      {
+        "start": 1934,
+        "end": 1941,
+        "string": "Hunter"
+      },
+      {
+        "start": 1941,
+        "end": 1942,
+        "string": " "
+      },
+      {
+        "start": 1942,
+        "end": 1947,
+        "string": "King"
+      },
+      {
+        "start": 1947,
+        "end": 1948,
+        "string": " "
+      },
+      {
+        "start": 1948,
+        "end": 1950,
+        "string": ")"
+      },
+      {
+        "start": 1950,
+        "end": 1951,
+        "string": " "
+      },
+      {
+        "start": 1951,
+        "end": 1958,
+        "string": "showed"
+      },
+      {
+        "start": 1958,
+        "end": 1959,
+        "string": " "
+      },
+      {
+        "start": 1959,
+        "end": 1962,
+        "string": "up"
+      },
+      {
+        "start": 1962,
+        "end": 1963,
+        "string": " "
+      },
+      {
+        "start": 1963,
+        "end": 1966,
+        "string": "to"
+      },
+      {
+        "start": 1966,
+        "end": 1967,
+        "string": " "
+      },
+      {
+        "start": 1967,
+        "end": 1971,
+        "string": "get"
+      },
+      {
+        "start": 1971,
+        "end": 1972,
+        "string": " "
+      },
+      {
+        "start": 1972,
+        "end": 1979,
+        "string": "tested"
+      },
+      {
+        "start": 1979,
+        "end": 1980,
+        "string": " "
+      },
+      {
+        "start": 1980,
+        "end": 1982,
+        "string": ","
+      },
+      {
+        "start": 1982,
+        "end": 1983,
+        "string": " "
+      },
+      {
+        "start": 1983,
+        "end": 1987,
+        "string": "and"
+      },
+      {
+        "start": 1987,
+        "end": 1988,
+        "string": " "
+      },
+      {
+        "start": 1988,
+        "end": 1993,
+        "string": "Kyle"
+      },
+      {
+        "start": 1993,
+        "end": 1994,
+        "string": " "
+      },
+      {
+        "start": 1994,
+        "end": 1998,
+        "string": "was"
+      },
+      {
+        "start": 1998,
+        "end": 1999,
+        "string": " "
+      },
+      {
+        "start": 1999,
+        "end": 2004,
+        "string": "rude"
+      },
+      {
+        "start": 2004,
+        "end": 2005,
+        "string": " "
+      },
+      {
+        "start": 2005,
+        "end": 2008,
+        "string": "at"
+      },
+      {
+        "start": 2008,
+        "end": 2009,
+        "string": " "
+      },
+      {
+        "start": 2009,
+        "end": 2015,
+        "string": "first"
+      },
+      {
+        "start": 2015,
+        "end": 2016,
+        "string": " "
+      },
+      {
+        "start": 2016,
+        "end": 2018,
+        "string": ","
+      },
+      {
+        "start": 2018,
+        "end": 2019,
+        "string": " "
+      },
+      {
+        "start": 2019,
+        "end": 2023,
+        "string": "but"
+      },
+      {
+        "start": 2023,
+        "end": 2024,
+        "string": " "
+      },
+      {
+        "start": 2024,
+        "end": 2029,
+        "string": "then"
+      },
+      {
+        "start": 2029,
+        "end": 2030,
+        "string": " "
+      },
+      {
+        "start": 2030,
+        "end": 2035,
+        "string": "sent"
+      },
+      {
+        "start": 2035,
+        "end": 2036,
+        "string": " "
+      },
+      {
+        "start": 2036,
+        "end": 2040,
+        "string": "her"
+      },
+      {
+        "start": 2040,
+        "end": 2041,
+        "string": " "
+      },
+      {
+        "start": 2041,
+        "end": 2045,
+        "string": "off"
+      },
+      {
+        "start": 2045,
+        "end": 2046,
+        "string": " "
+      },
+      {
+        "start": 2046,
+        "end": 2049,
+        "string": "to"
+      },
+      {
+        "start": 2049,
+        "end": 2050,
+        "string": " "
+      },
+      {
+        "start": 2050,
+        "end": 2055,
+        "string": "find"
+      },
+      {
+        "start": 2055,
+        "end": 2056,
+        "string": " "
+      },
+      {
+        "start": 2056,
+        "end": 2060,
+        "string": "out"
+      },
+      {
+        "start": 2060,
+        "end": 2061,
+        "string": " "
+      },
+      {
+        "start": 2061,
+        "end": 2064,
+        "string": "if"
+      },
+      {
+        "start": 2064,
+        "end": 2065,
+        "string": " "
+      },
+      {
+        "start": 2065,
+        "end": 2069,
+        "string": "she"
+      },
+      {
+        "start": 2069,
+        "end": 2070,
+        "string": " "
+      },
+      {
+        "start": 2070,
+        "end": 2073,
+        "string": "'s"
+      },
+      {
+        "start": 2073,
+        "end": 2074,
+        "string": " "
+      },
+      {
+        "start": 2074,
+        "end": 2076,
+        "string": "a"
+      },
+      {
+        "start": 2076,
+        "end": 2077,
+        "string": " "
+      },
+      {
+        "start": 2077,
+        "end": 2083,
+        "string": "match"
+      },
+      {
+        "start": 2083,
+        "end": 2084,
+        "string": " "
+      },
+      {
+        "start": 2084,
+        "end": 2086,
+        "string": "."
+      },
+      {
+        "start": 2086,
+        "end": 2087,
+        "string": " "
+      },
+      {
+        "start": 2087,
+        "end": 2101,
+        "string": "Unfortunately"
+      },
+      {
+        "start": 2101,
+        "end": 2102,
+        "string": " "
+      },
+      {
+        "start": 2102,
+        "end": 2106,
+        "string": "for"
+      },
+      {
+        "start": 2106,
+        "end": 2107,
+        "string": " "
+      },
+      {
+        "start": 2107,
+        "end": 2112,
+        "string": "Kyle"
+      },
+      {
+        "start": 2112,
+        "end": 2113,
+        "string": " "
+      },
+      {
+        "start": 2113,
+        "end": 2115,
+        "string": ","
+      },
+      {
+        "start": 2115,
+        "end": 2116,
+        "string": " "
+      },
+      {
+        "start": 2116,
+        "end": 2119,
+        "string": "he"
+      },
+      {
+        "start": 2119,
+        "end": 2120,
+        "string": " "
+      },
+      {
+        "start": 2120,
+        "end": 2123,
+        "string": "is"
+      },
+      {
+        "start": 2123,
+        "end": 2124,
+        "string": " "
+      },
+      {
+        "start": 2124,
+        "end": 2128,
+        "string": "n't"
+      },
+      {
+        "start": 2128,
+        "end": 2129,
+        "string": " "
+      },
+      {
+        "start": 2129,
+        "end": 2131,
+        "string": ","
+      },
+      {
+        "start": 2131,
+        "end": 2132,
+        "string": " "
+      },
+      {
+        "start": 2132,
+        "end": 2135,
+        "string": "so"
+      },
+      {
+        "start": 2135,
+        "end": 2136,
+        "string": " "
+      },
+      {
+        "start": 2136,
+        "end": 2140,
+        "string": "all"
+      },
+      {
+        "start": 2140,
+        "end": 2141,
+        "string": " "
+      },
+      {
+        "start": 2141,
+        "end": 2144,
+        "string": "he"
+      },
+      {
+        "start": 2144,
+        "end": 2145,
+        "string": " "
+      },
+      {
+        "start": 2145,
+        "end": 2151,
+        "string": "could"
+      },
+      {
+        "start": 2151,
+        "end": 2152,
+        "string": " "
+      },
+      {
+        "start": 2152,
+        "end": 2155,
+        "string": "do"
+      },
+      {
+        "start": 2155,
+        "end": 2156,
+        "string": " "
+      },
+      {
+        "start": 2156,
+        "end": 2159,
+        "string": "to"
+      },
+      {
+        "start": 2159,
+        "end": 2160,
+        "string": " "
+      },
+      {
+        "start": 2160,
+        "end": 2165,
+        "string": "help"
+      },
+      {
+        "start": 2165,
+        "end": 2166,
+        "string": " "
+      },
+      {
+        "start": 2166,
+        "end": 2169,
+        "string": "is"
+      },
+      {
+        "start": 2169,
+        "end": 2170,
+        "string": " "
+      },
+      {
+        "start": 2170,
+        "end": 2175,
+        "string": "make"
+      },
+      {
+        "start": 2175,
+        "end": 2176,
+        "string": " "
+      },
+      {
+        "start": 2176,
+        "end": 2178,
+        "string": "a"
+      },
+      {
+        "start": 2178,
+        "end": 2179,
+        "string": " "
+      },
+      {
+        "start": 2179,
+        "end": 2188,
+        "string": "playlist"
+      },
+      {
+        "start": 2188,
+        "end": 2189,
+        "string": " "
+      },
+      {
+        "start": 2189,
+        "end": 2193,
+        "string": "for"
+      },
+      {
+        "start": 2193,
+        "end": 2194,
+        "string": " "
+      },
+      {
+        "start": 2194,
+        "end": 2199,
+        "string": "Lola"
+      },
+      {
+        "start": 2199,
+        "end": 2200,
+        "string": " "
+      },
+      {
+        "start": 2200,
+        "end": 2202,
+        "string": ","
+      },
+      {
+        "start": 2202,
+        "end": 2203,
+        "string": " "
+      },
+      {
+        "start": 2203,
+        "end": 2209,
+        "string": "which"
+      },
+      {
+        "start": 2209,
+        "end": 2210,
+        "string": " "
+      },
+      {
+        "start": 2210,
+        "end": 2215,
+        "string": "Nate"
+      },
+      {
+        "start": 2215,
+        "end": 2216,
+        "string": " "
+      },
+      {
+        "start": 2216,
+        "end": 2218,
+        "string": "("
+      },
+      {
+        "start": 2218,
+        "end": 2219,
+        "string": " "
+      },
+      {
+        "start": 2219,
+        "end": 2226,
+        "string": "Brooks"
+      },
+      {
+        "start": 2226,
+        "end": 2227,
+        "string": " "
+      },
+      {
+        "start": 2227,
+        "end": 2235,
+        "string": "Darnell"
+      },
+      {
+        "start": 2235,
+        "end": 2236,
+        "string": " "
+      },
+      {
+        "start": 2236,
+        "end": 2238,
+        "string": ")"
+      },
+      {
+        "start": 2238,
+        "end": 2239,
+        "string": " "
+      },
+      {
+        "start": 2239,
+        "end": 2250,
+        "string": "encouraged"
+      },
+      {
+        "start": 2250,
+        "end": 2251,
+        "string": " "
+      },
+      {
+        "start": 2251,
+        "end": 2255,
+        "string": "him"
+      },
+      {
+        "start": 2255,
+        "end": 2256,
+        "string": " "
+      },
+      {
+        "start": 2256,
+        "end": 2259,
+        "string": "to"
+      },
+      {
+        "start": 2259,
+        "end": 2260,
+        "string": " "
+      },
+      {
+        "start": 2260,
+        "end": 2265,
+        "string": "play"
+      },
+      {
+        "start": 2265,
+        "end": 2266,
+        "string": " "
+      },
+      {
+        "start": 2266,
+        "end": 2270,
+        "string": "for"
+      },
+      {
+        "start": 2270,
+        "end": 2271,
+        "string": " "
+      },
+      {
+        "start": 2271,
+        "end": 2275,
+        "string": "her"
+      },
+      {
+        "start": 2275,
+        "end": 2276,
+        "string": " "
+      },
+      {
+        "start": 2276,
+        "end": 2278,
+        "string": "."
+      },
+      {
+        "start": 2278,
+        "end": 2279,
+        "string": " "
+      },
+      {
+        "start": 2279,
+        "end": 2286,
+        "string": "People"
+      },
+      {
+        "start": 2286,
+        "end": 2287,
+        "string": " "
+      },
+      {
+        "start": 2287,
+        "end": 2290,
+        "string": "in"
+      },
+      {
+        "start": 2290,
+        "end": 2291,
+        "string": " "
+      },
+      {
+        "start": 2291,
+        "end": 2293,
+        "string": "a"
+      },
+      {
+        "start": 2293,
+        "end": 2294,
+        "string": " "
+      },
+      {
+        "start": 2294,
+        "end": 2299,
+        "string": "coma"
+      },
+      {
+        "start": 2299,
+        "end": 2300,
+        "string": " "
+      },
+      {
+        "start": 2300,
+        "end": 2304,
+        "string": "can"
+      },
+      {
+        "start": 2304,
+        "end": 2305,
+        "string": " "
+      },
+      {
+        "start": 2305,
+        "end": 2315,
+        "string": "sometimes"
+      },
+      {
+        "start": 2315,
+        "end": 2316,
+        "string": " "
+      },
+      {
+        "start": 2316,
+        "end": 2321,
+        "string": "hear"
+      },
+      {
+        "start": 2321,
+        "end": 2322,
+        "string": " "
+      },
+      {
+        "start": 2322,
+        "end": 2328,
+        "string": "music"
+      },
+      {
+        "start": 2328,
+        "end": 2329,
+        "string": " "
+      },
+      {
+        "start": 2329,
+        "end": 2331,
+        "string": ","
+      },
+      {
+        "start": 2331,
+        "end": 2332,
+        "string": " "
+      },
+      {
+        "start": 2332,
+        "end": 2336,
+        "string": "and"
+      },
+      {
+        "start": 2336,
+        "end": 2337,
+        "string": " "
+      },
+      {
+        "start": 2337,
+        "end": 2340,
+        "string": "it"
+      },
+      {
+        "start": 2340,
+        "end": 2341,
+        "string": " "
+      },
+      {
+        "start": 2341,
+        "end": 2347,
+        "string": "could"
+      },
+      {
+        "start": 2347,
+        "end": 2348,
+        "string": " "
+      },
+      {
+        "start": 2348,
+        "end": 2353,
+        "string": "help"
+      },
+      {
+        "start": 2353,
+        "end": 2354,
+        "string": " "
+      },
+      {
+        "start": 2354,
+        "end": 2359,
+        "string": "Lola"
+      },
+      {
+        "start": 2359,
+        "end": 2360,
+        "string": " "
+      },
+      {
+        "start": 2360,
+        "end": 2362,
+        "string": "."
+      },
+      {
+        "start": 2362,
+        "end": 2363,
+        "string": " "
+      },
+      {
+        "start": 2363,
+        "end": 2370,
+        "string": "Summer"
+      },
+      {
+        "start": 2370,
+        "end": 2371,
+        "string": " "
+      },
+      {
+        "start": 2371,
+        "end": 2377,
+        "string": "found"
+      },
+      {
+        "start": 2377,
+        "end": 2378,
+        "string": " "
+      },
+      {
+        "start": 2378,
+        "end": 2382,
+        "string": "out"
+      },
+      {
+        "start": 2382,
+        "end": 2383,
+        "string": " "
+      },
+      {
+        "start": 2383,
+        "end": 2387,
+        "string": "she"
+      },
+      {
+        "start": 2387,
+        "end": 2388,
+        "string": " "
+      },
+      {
+        "start": 2388,
+        "end": 2392,
+        "string": "was"
+      },
+      {
+        "start": 2392,
+        "end": 2393,
+        "string": " "
+      },
+      {
+        "start": 2393,
+        "end": 2395,
+        "string": "a"
+      },
+      {
+        "start": 2395,
+        "end": 2396,
+        "string": " "
+      },
+      {
+        "start": 2396,
+        "end": 2402,
+        "string": "match"
+      },
+      {
+        "start": 2402,
+        "end": 2403,
+        "string": " "
+      },
+      {
+        "start": 2403,
+        "end": 2407,
+        "string": "and"
+      },
+      {
+        "start": 2407,
+        "end": 2408,
+        "string": " "
+      },
+      {
+        "start": 2408,
+        "end": 2414,
+        "string": "asked"
+      },
+      {
+        "start": 2414,
+        "end": 2415,
+        "string": " "
+      },
+      {
+        "start": 2415,
+        "end": 2420,
+        "string": "Nate"
+      },
+      {
+        "start": 2420,
+        "end": 2421,
+        "string": " "
+      },
+      {
+        "start": 2421,
+        "end": 2427,
+        "string": "about"
+      },
+      {
+        "start": 2427,
+        "end": 2428,
+        "string": " "
+      },
+      {
+        "start": 2428,
+        "end": 2432,
+        "string": "the"
+      },
+      {
+        "start": 2432,
+        "end": 2433,
+        "string": " "
+      },
+      {
+        "start": 2433,
+        "end": 2439,
+        "string": "risks"
+      },
+      {
+        "start": 2439,
+        "end": 2440,
+        "string": " "
+      },
+      {
+        "start": 2440,
+        "end": 2443,
+        "string": "of"
+      },
+      {
+        "start": 2443,
+        "end": 2444,
+        "string": " "
+      },
+      {
+        "start": 2444,
+        "end": 2448,
+        "string": "the"
+      },
+      {
+        "start": 2448,
+        "end": 2449,
+        "string": " "
+      },
+      {
+        "start": 2449,
+        "end": 2457,
+        "string": "surgery"
+      },
+      {
+        "start": 2457,
+        "end": 2458,
+        "string": " "
+      },
+      {
+        "start": 2458,
+        "end": 2460,
+        "string": "."
+      },
+      {
+        "start": 2460,
+        "end": 2461,
+        "string": " "
+      },
+      {
+        "start": 2461,
+        "end": 2471,
+        "string": "According"
+      },
+      {
+        "start": 2471,
+        "end": 2472,
+        "string": " "
+      },
+      {
+        "start": 2472,
+        "end": 2475,
+        "string": "to"
+      },
+      {
+        "start": 2475,
+        "end": 2476,
+        "string": " "
+      },
+      {
+        "start": 2476,
+        "end": 2486,
+        "string": "Inquisitr"
+      },
+      {
+        "start": 2486,
+        "end": 2487,
+        "string": " "
+      },
+      {
+        "start": 2487,
+        "end": 2489,
+        "string": ","
+      },
+      {
+        "start": 2489,
+        "end": 2490,
+        "string": " "
+      },
+      {
+        "start": 2490,
+        "end": 2494,
+        "string": "she"
+      },
+      {
+        "start": 2494,
+        "end": 2495,
+        "string": " "
+      },
+      {
+        "start": 2495,
+        "end": 2501,
+        "string": "cooks"
+      },
+      {
+        "start": 2501,
+        "end": 2502,
+        "string": " "
+      },
+      {
+        "start": 2502,
+        "end": 2505,
+        "string": "up"
+      },
+      {
+        "start": 2505,
+        "end": 2506,
+        "string": " "
+      },
+      {
+        "start": 2506,
+        "end": 2508,
+        "string": "a"
+      },
+      {
+        "start": 2508,
+        "end": 2509,
+        "string": " "
+      },
+      {
+        "start": 2509,
+        "end": 2517,
+        "string": "devious"
+      },
+      {
+        "start": 2517,
+        "end": 2518,
+        "string": " "
+      },
+      {
+        "start": 2518,
+        "end": 2523,
+        "string": "plan"
+      },
+      {
+        "start": 2523,
+        "end": 2524,
+        "string": " "
+      },
+      {
+        "start": 2524,
+        "end": 2530,
+        "string": "since"
+      },
+      {
+        "start": 2530,
+        "end": 2531,
+        "string": " "
+      },
+      {
+        "start": 2531,
+        "end": 2535,
+        "string": "she"
+      },
+      {
+        "start": 2535,
+        "end": 2536,
+        "string": " "
+      },
+      {
+        "start": 2536,
+        "end": 2542,
+        "string": "holds"
+      },
+      {
+        "start": 2542,
+        "end": 2543,
+        "string": " "
+      },
+      {
+        "start": 2543,
+        "end": 2547,
+        "string": "the"
+      },
+      {
+        "start": 2547,
+        "end": 2548,
+        "string": " "
+      },
+      {
+        "start": 2548,
+        "end": 2552,
+        "string": "key"
+      },
+      {
+        "start": 2552,
+        "end": 2553,
+        "string": " "
+      },
+      {
+        "start": 2553,
+        "end": 2556,
+        "string": "to"
+      },
+      {
+        "start": 2556,
+        "end": 2557,
+        "string": " "
+      },
+      {
+        "start": 2557,
+        "end": 2564,
+        "string": "saving"
+      },
+      {
+        "start": 2564,
+        "end": 2565,
+        "string": " "
+      },
+      {
+        "start": 2565,
+        "end": 2570,
+        "string": "Lola"
+      },
+      {
+        "start": 2570,
+        "end": 2571,
+        "string": " "
+      },
+      {
+        "start": 2571,
+        "end": 2574,
+        "string": "'s"
+      },
+      {
+        "start": 2574,
+        "end": 2575,
+        "string": " "
+      },
+      {
+        "start": 2575,
+        "end": 2580,
+        "string": "life"
+      },
+      {
+        "start": 2580,
+        "end": 2581,
+        "string": " "
+      },
+      {
+        "start": 2581,
+        "end": 2583,
+        "string": "."
+      },
+      {
+        "start": 2583,
+        "end": 2584,
+        "string": " "
+      },
+      {
+        "start": 2584,
+        "end": 2594,
+        "string": "Elsewhere"
+      },
+      {
+        "start": 2594,
+        "end": 2595,
+        "string": " "
+      },
+      {
+        "start": 2595,
+        "end": 2597,
+        "string": ","
+      },
+      {
+        "start": 2597,
+        "end": 2598,
+        "string": " "
+      },
+      {
+        "start": 2598,
+        "end": 2604,
+        "string": "Billy"
+      },
+      {
+        "start": 2604,
+        "end": 2605,
+        "string": " "
+      },
+      {
+        "start": 2605,
+        "end": 2607,
+        "string": "("
+      },
+      {
+        "start": 2607,
+        "end": 2608,
+        "string": " "
+      },
+      {
+        "start": 2608,
+        "end": 2614,
+        "string": "Jason"
+      },
+      {
+        "start": 2614,
+        "end": 2615,
+        "string": " "
+      },
+      {
+        "start": 2615,
+        "end": 2624,
+        "string": "Thompson"
+      },
+      {
+        "start": 2624,
+        "end": 2625,
+        "string": " "
+      },
+      {
+        "start": 2625,
+        "end": 2627,
+        "string": ")"
+      },
+      {
+        "start": 2627,
+        "end": 2628,
+        "string": " "
+      },
+      {
+        "start": 2628,
+        "end": 2632,
+        "string": "and"
+      },
+      {
+        "start": 2632,
+        "end": 2633,
+        "string": " "
+      },
+      {
+        "start": 2633,
+        "end": 2638,
+        "string": "Jack"
+      },
+      {
+        "start": 2638,
+        "end": 2639,
+        "string": " "
+      },
+      {
+        "start": 2639,
+        "end": 2641,
+        "string": "("
+      },
+      {
+        "start": 2641,
+        "end": 2642,
+        "string": " "
+      },
+      {
+        "start": 2642,
+        "end": 2648,
+        "string": "Peter"
+      },
+      {
+        "start": 2648,
+        "end": 2649,
+        "string": " "
+      },
+      {
+        "start": 2649,
+        "end": 2657,
+        "string": "Bergman"
+      },
+      {
+        "start": 2657,
+        "end": 2658,
+        "string": " "
+      },
+      {
+        "start": 2658,
+        "end": 2660,
+        "string": ")"
+      },
+      {
+        "start": 2660,
+        "end": 2661,
+        "string": " "
+      },
+      {
+        "start": 2661,
+        "end": 2671,
+        "string": "discussed"
+      },
+      {
+        "start": 2671,
+        "end": 2672,
+        "string": " "
+      },
+      {
+        "start": 2672,
+        "end": 2680,
+        "string": "Phyllis"
+      },
+      {
+        "start": 2680,
+        "end": 2681,
+        "string": " "
+      },
+      {
+        "start": 2681,
+        "end": 2684,
+        "string": "'s"
+      },
+      {
+        "start": 2684,
+        "end": 2685,
+        "string": " "
+      },
+      {
+        "start": 2685,
+        "end": 2687,
+        "string": "("
+      },
+      {
+        "start": 2687,
+        "end": 2688,
+        "string": " "
+      },
+      {
+        "start": 2688,
+        "end": 2693,
+        "string": "Gina"
+      },
+      {
+        "start": 2693,
+        "end": 2694,
+        "string": " "
+      },
+      {
+        "start": 2694,
+        "end": 2702,
+        "string": "Tognoni"
+      },
+      {
+        "start": 2702,
+        "end": 2703,
+        "string": " "
+      },
+      {
+        "start": 2703,
+        "end": 2705,
+        "string": ")"
+      },
+      {
+        "start": 2705,
+        "end": 2706,
+        "string": " "
+      },
+      {
+        "start": 2706,
+        "end": 2711,
+        "string": "role"
+      },
+      {
+        "start": 2711,
+        "end": 2712,
+        "string": " "
+      },
+      {
+        "start": 2712,
+        "end": 2715,
+        "string": "at"
+      },
+      {
+        "start": 2715,
+        "end": 2716,
+        "string": " "
+      },
+      {
+        "start": 2716,
+        "end": 2722,
+        "string": "Jabot"
+      },
+      {
+        "start": 2722,
+        "end": 2723,
+        "string": " "
+      },
+      {
+        "start": 2723,
+        "end": 2727,
+        "string": "and"
+      },
+      {
+        "start": 2727,
+        "end": 2728,
+        "string": " "
+      },
+      {
+        "start": 2728,
+        "end": 2736,
+        "string": "worried"
+      },
+      {
+        "start": 2736,
+        "end": 2737,
+        "string": " "
+      },
+      {
+        "start": 2737,
+        "end": 2742,
+        "string": "that"
+      },
+      {
+        "start": 2742,
+        "end": 2743,
+        "string": " "
+      },
+      {
+        "start": 2743,
+        "end": 2747,
+        "string": "the"
+      },
+      {
+        "start": 2747,
+        "end": 2748,
+        "string": " "
+      },
+      {
+        "start": 2748,
+        "end": 2755,
+        "string": "murder"
+      },
+      {
+        "start": 2755,
+        "end": 2756,
+        "string": " "
+      },
+      {
+        "start": 2756,
+        "end": 2762,
+        "string": "trial"
+      },
+      {
+        "start": 2762,
+        "end": 2763,
+        "string": " "
+      },
+      {
+        "start": 2763,
+        "end": 2769,
+        "string": "would"
+      },
+      {
+        "start": 2769,
+        "end": 2770,
+        "string": " "
+      },
+      {
+        "start": 2770,
+        "end": 2775,
+        "string": "harm"
+      },
+      {
+        "start": 2775,
+        "end": 2776,
+        "string": " "
+      },
+      {
+        "start": 2776,
+        "end": 2780,
+        "string": "the"
+      },
+      {
+        "start": 2780,
+        "end": 2781,
+        "string": " "
+      },
+      {
+        "start": 2781,
+        "end": 2789,
+        "string": "company"
+      },
+      {
+        "start": 2789,
+        "end": 2790,
+        "string": " "
+      },
+      {
+        "start": 2790,
+        "end": 2792,
+        "string": "."
+      },
+      {
+        "start": 2792,
+        "end": 2793,
+        "string": " "
+      },
+      {
+        "start": 2793,
+        "end": 2798,
+        "string": "Jack"
+      },
+      {
+        "start": 2798,
+        "end": 2799,
+        "string": " "
+      },
+      {
+        "start": 2799,
+        "end": 2804,
+        "string": "told"
+      },
+      {
+        "start": 2804,
+        "end": 2805,
+        "string": " "
+      },
+      {
+        "start": 2805,
+        "end": 2811,
+        "string": "Billy"
+      },
+      {
+        "start": 2811,
+        "end": 2812,
+        "string": " "
+      },
+      {
+        "start": 2812,
+        "end": 2817,
+        "string": "that"
+      },
+      {
+        "start": 2817,
+        "end": 2818,
+        "string": " "
+      },
+      {
+        "start": 2818,
+        "end": 2824,
+        "string": "Kerry"
+      },
+      {
+        "start": 2824,
+        "end": 2825,
+        "string": " "
+      },
+      {
+        "start": 2825,
+        "end": 2827,
+        "string": "("
+      },
+      {
+        "start": 2827,
+        "end": 2828,
+        "string": " "
+      },
+      {
+        "start": 2828,
+        "end": 2834,
+        "string": "Alice"
+      },
+      {
+        "start": 2834,
+        "end": 2835,
+        "string": " "
+      },
+      {
+        "start": 2835,
+        "end": 2842,
+        "string": "Hunter"
+      },
+      {
+        "start": 2842,
+        "end": 2843,
+        "string": " "
+      },
+      {
+        "start": 2843,
+        "end": 2845,
+        "string": ")"
+      },
+      {
+        "start": 2845,
+        "end": 2846,
+        "string": " "
+      },
+      {
+        "start": 2846,
+        "end": 2849,
+        "string": "is"
+      },
+      {
+        "start": 2849,
+        "end": 2850,
+        "string": " "
+      },
+      {
+        "start": 2850,
+        "end": 2858,
+        "string": "devoted"
+      },
+      {
+        "start": 2858,
+        "end": 2859,
+        "string": " "
+      },
+      {
+        "start": 2859,
+        "end": 2862,
+        "string": "to"
+      },
+      {
+        "start": 2862,
+        "end": 2863,
+        "string": " "
+      },
+      {
+        "start": 2863,
+        "end": 2871,
+        "string": "Phyllis"
+      },
+      {
+        "start": 2871,
+        "end": 2872,
+        "string": " "
+      },
+      {
+        "start": 2872,
+        "end": 2874,
+        "string": ","
+      },
+      {
+        "start": 2874,
+        "end": 2875,
+        "string": " "
+      },
+      {
+        "start": 2875,
+        "end": 2879,
+        "string": "and"
+      },
+      {
+        "start": 2879,
+        "end": 2880,
+        "string": " "
+      },
+      {
+        "start": 2880,
+        "end": 2883,
+        "string": "it"
+      },
+      {
+        "start": 2883,
+        "end": 2884,
+        "string": " "
+      },
+      {
+        "start": 2884,
+        "end": 2890,
+        "string": "would"
+      },
+      {
+        "start": 2890,
+        "end": 2891,
+        "string": " "
+      },
+      {
+        "start": 2891,
+        "end": 2894,
+        "string": "be"
+      },
+      {
+        "start": 2894,
+        "end": 2895,
+        "string": " "
+      },
+      {
+        "start": 2895,
+        "end": 2904,
+        "string": "entirely"
+      },
+      {
+        "start": 2904,
+        "end": 2905,
+        "string": " "
+      },
+      {
+        "start": 2905,
+        "end": 2908,
+        "string": "up"
+      },
+      {
+        "start": 2908,
+        "end": 2909,
+        "string": " "
+      },
+      {
+        "start": 2909,
+        "end": 2912,
+        "string": "to"
+      },
+      {
+        "start": 2912,
+        "end": 2913,
+        "string": " "
+      },
+      {
+        "start": 2913,
+        "end": 2919,
+        "string": "Kerry"
+      },
+      {
+        "start": 2919,
+        "end": 2920,
+        "string": " "
+      },
+      {
+        "start": 2920,
+        "end": 2923,
+        "string": "if"
+      },
+      {
+        "start": 2923,
+        "end": 2924,
+        "string": " "
+      },
+      {
+        "start": 2924,
+        "end": 2928,
+        "string": "she"
+      },
+      {
+        "start": 2928,
+        "end": 2929,
+        "string": " "
+      },
+      {
+        "start": 2929,
+        "end": 2936,
+        "string": "wanted"
+      },
+      {
+        "start": 2936,
+        "end": 2937,
+        "string": " "
+      },
+      {
+        "start": 2937,
+        "end": 2940,
+        "string": "to"
+      },
+      {
+        "start": 2940,
+        "end": 2941,
+        "string": " "
+      },
+      {
+        "start": 2941,
+        "end": 2945,
+        "string": "spy"
+      },
+      {
+        "start": 2945,
+        "end": 2946,
+        "string": " "
+      },
+      {
+        "start": 2946,
+        "end": 2949,
+        "string": "on"
+      },
+      {
+        "start": 2949,
+        "end": 2950,
+        "string": " "
+      },
+      {
+        "start": 2950,
+        "end": 2954,
+        "string": "her"
+      },
+      {
+        "start": 2954,
+        "end": 2955,
+        "string": " "
+      },
+      {
+        "start": 2955,
+        "end": 2960,
+        "string": "boss"
+      },
+      {
+        "start": 2960,
+        "end": 2961,
+        "string": " "
+      },
+      {
+        "start": 2961,
+        "end": 2963,
+        "string": "."
+      },
+      {
+        "start": 2963,
+        "end": 2964,
+        "string": " "
+      },
+      {
+        "start": 2964,
+        "end": 2969,
+        "string": "When"
+      },
+      {
+        "start": 2969,
+        "end": 2970,
+        "string": " "
+      },
+      {
+        "start": 2970,
+        "end": 2975,
+        "string": "Jack"
+      },
+      {
+        "start": 2975,
+        "end": 2976,
+        "string": " "
+      },
+      {
+        "start": 2976,
+        "end": 2981,
+        "string": "said"
+      },
+      {
+        "start": 2981,
+        "end": 2982,
+        "string": " "
+      },
+      {
+        "start": 2982,
+        "end": 2988,
+        "string": "Kerry"
+      },
+      {
+        "start": 2988,
+        "end": 2989,
+        "string": " "
+      },
+      {
+        "start": 2989,
+        "end": 2992,
+        "string": "is"
+      },
+      {
+        "start": 2992,
+        "end": 2993,
+        "string": " "
+      },
+      {
+        "start": 2993,
+        "end": 3003,
+        "string": "important"
+      },
+      {
+        "start": 3003,
+        "end": 3004,
+        "string": " "
+      },
+      {
+        "start": 3004,
+        "end": 3007,
+        "string": "to"
+      },
+      {
+        "start": 3007,
+        "end": 3008,
+        "string": " "
+      },
+      {
+        "start": 3008,
+        "end": 3012,
+        "string": "him"
+      },
+      {
+        "start": 3012,
+        "end": 3013,
+        "string": " "
+      },
+      {
+        "start": 3013,
+        "end": 3015,
+        "string": ","
+      },
+      {
+        "start": 3015,
+        "end": 3016,
+        "string": " "
+      },
+      {
+        "start": 3016,
+        "end": 3022,
+        "string": "Billy"
+      },
+      {
+        "start": 3022,
+        "end": 3023,
+        "string": " "
+      },
+      {
+        "start": 3023,
+        "end": 3029,
+        "string": "asked"
+      },
+      {
+        "start": 3029,
+        "end": 3030,
+        "string": " "
+      },
+      {
+        "start": 3030,
+        "end": 3033,
+        "string": "if"
+      },
+      {
+        "start": 3033,
+        "end": 3034,
+        "string": " "
+      },
+      {
+        "start": 3034,
+        "end": 3040,
+        "string": "Kerry"
+      },
+      {
+        "start": 3040,
+        "end": 3041,
+        "string": " "
+      },
+      {
+        "start": 3041,
+        "end": 3045,
+        "string": "was"
+      },
+      {
+        "start": 3045,
+        "end": 3046,
+        "string": " "
+      },
+      {
+        "start": 3046,
+        "end": 3051,
+        "string": "more"
+      },
+      {
+        "start": 3051,
+        "end": 3052,
+        "string": " "
+      },
+      {
+        "start": 3052,
+        "end": 3062,
+        "string": "important"
+      },
+      {
+        "start": 3062,
+        "end": 3063,
+        "string": " "
+      },
+      {
+        "start": 3063,
+        "end": 3066,
+        "string": "to"
+      },
+      {
+        "start": 3066,
+        "end": 3067,
+        "string": " "
+      },
+      {
+        "start": 3067,
+        "end": 3071,
+        "string": "him"
+      },
+      {
+        "start": 3071,
+        "end": 3072,
+        "string": " "
+      },
+      {
+        "start": 3072,
+        "end": 3077,
+        "string": "than"
+      },
+      {
+        "start": 3077,
+        "end": 3078,
+        "string": " "
+      },
+      {
+        "start": 3078,
+        "end": 3084,
+        "string": "Jabot"
+      },
+      {
+        "start": 3084,
+        "end": 3085,
+        "string": " "
+      },
+      {
+        "start": 3085,
+        "end": 3089,
+        "string": "and"
+      },
+      {
+        "start": 3089,
+        "end": 3090,
+        "string": " "
+      },
+      {
+        "start": 3090,
+        "end": 3096,
+        "string": "their"
+      },
+      {
+        "start": 3096,
+        "end": 3097,
+        "string": " "
+      },
+      {
+        "start": 3097,
+        "end": 3104,
+        "string": "family"
+      },
+      {
+        "start": 3104,
+        "end": 3105,
+        "string": " "
+      },
+      {
+        "start": 3105,
+        "end": 3112,
+        "string": "legacy"
+      },
+      {
+        "start": 3112,
+        "end": 3113,
+        "string": " "
+      },
+      {
+        "start": 3113,
+        "end": 3115,
+        "string": "."
+      },
+      {
+        "start": 3115,
+        "end": 3116,
+        "string": " "
+      }
+    ]
+  }
+}

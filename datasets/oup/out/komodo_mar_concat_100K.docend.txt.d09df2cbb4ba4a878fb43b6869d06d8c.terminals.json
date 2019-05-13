@@ -1,0 +1,331 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "d09df2cbb4ba4a878fb43b6869d06d8c.doc",
+  "id": "d09df2cbb4ba4a878fb43b6869d06d8c.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "d09df2cbb4ba4a878fb43b6869d06d8c.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 13,
+        "string": "PHILADELPHIA"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "string": "--"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "string": " "
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "string": "From"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "string": "a"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "string": " "
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "string": "floral"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 46,
+        "string": "recreation"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "string": "of"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 61,
+        "string": "Woodstock"
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "string": " "
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "string": "to"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "string": "an"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "string": "exploration"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "string": "of"
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "string": " "
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "string": "the"
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 100,
+        "string": "optical"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 109,
+        "string": "effects"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "string": "of"
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "string": " "
+      },
+      {
+        "start": 114,
+        "end": 126,
+        "string": "psychedelia"
+      },
+      {
+        "start": 126,
+        "end": 127,
+        "string": " "
+      },
+      {
+        "start": 127,
+        "end": 129,
+        "string": ","
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 134,
+        "string": "the"
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "string": " "
+      },
+      {
+        "start": 135,
+        "end": 140,
+        "string": "2019"
+      },
+      {
+        "start": 140,
+        "end": 141,
+        "string": " "
+      },
+      {
+        "start": 141,
+        "end": 154,
+        "string": "Philadelphia"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 162,
+        "string": "Flower"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 168,
+        "string": "Show"
+      },
+      {
+        "start": 168,
+        "end": 169,
+        "string": " "
+      },
+      {
+        "start": 169,
+        "end": 182,
+        "string": "reinterprets"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "string": " "
+      },
+      {
+        "start": 183,
+        "end": 189,
+        "string": "1960s"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 205,
+        "string": "counterculture"
+      },
+      {
+        "start": 205,
+        "end": 206,
+        "string": " "
+      },
+      {
+        "start": 206,
+        "end": 209,
+        "string": "in"
+      },
+      {
+        "start": 209,
+        "end": 210,
+        "string": " "
+      },
+      {
+        "start": 210,
+        "end": 212,
+        "string": "a"
+      },
+      {
+        "start": 212,
+        "end": 213,
+        "string": " "
+      },
+      {
+        "start": 213,
+        "end": 227,
+        "string": "spectacularly"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 235,
+        "string": "trippy"
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      },
+      {
+        "start": 236,
+        "end": 240,
+        "string": "way"
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 243,
+        "string": "."
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      }
+    ]
+  }
+}

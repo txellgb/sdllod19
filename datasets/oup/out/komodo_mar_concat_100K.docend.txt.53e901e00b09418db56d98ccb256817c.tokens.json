@@ -1,0 +1,36 @@
+{
+  "$schema": "corpus.schema.json",
+  "id": "53e901e00b09418db56d98ccb256817c.tokens",
+  "documentId": "53e901e00b09418db56d98ccb256817c.document",
+  "type": "annotation",
+  "metadata": {
+    "annotationType": "tokenization",
+    "annotationSource": "",
+    "created": ""
+  },
+  "content": {
+    "layerRefs": [
+      "53e901e00b09418db56d98ccb256817c.terminals"
+    ],
+    "annotationNodes": [
+      {
+        "relation": {
+          "type": "tokenization",
+          "references": [
+            {
+              "layer": 0,
+              "node": 0,
+              "role": "tokenPart"
+            }
+          ]
+        },
+        "annotations": {
+          "pos": {
+            "tag": "NN"
+          },
+          "lemma": "https://www.belfasttelegraph.co.uk/sport/football/article37869521.ece/ad8b3/autocrop/h342/bpanews_54af72fb-a1b3-4994-ae43-2ea1bbd1ef8c_1"
+        }
+      }
+    ]
+  }
+}

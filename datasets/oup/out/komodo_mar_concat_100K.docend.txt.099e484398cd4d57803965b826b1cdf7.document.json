@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "099e484398cd4d57803965b826b1cdf7.doc",
+  "metadata": {
+    "title": "Storm Freya will bring ferocious 80mph gales to UK this weekend",
+    "sourceUrl": "https://www.dailymail.co.uk/news/article-6760095/Met-Office-warns-80mph-gales-hit-weekend-Storm-Freya-batters-United-Kingdom.html",
+    "documentSource": "dailymail.co.uk",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

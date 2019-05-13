@@ -1,0 +1,1201 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "593bc0035a3248148fdf7e8e5cca1c0c.doc",
+  "id": "593bc0035a3248148fdf7e8e5cca1c0c.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "593bc0035a3248148fdf7e8e5cca1c0c.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "INEC"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "string": "will"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "string": " "
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "string": "hold"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "string": " "
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "string": "the"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 37,
+        "string": "supplementary"
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "string": " "
+      },
+      {
+        "start": 38,
+        "end": 48,
+        "string": "elections"
+      },
+      {
+        "start": 48,
+        "end": 49,
+        "string": " "
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "string": "on"
+      },
+      {
+        "start": 52,
+        "end": 53,
+        "string": " "
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "string": "March"
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "string": " "
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "string": "9"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "string": ","
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "string": "the"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "string": "same"
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "string": " "
+      },
+      {
+        "start": 77,
+        "end": 81,
+        "string": "day"
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "string": " "
+      },
+      {
+        "start": 82,
+        "end": 85,
+        "string": "as"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "string": "the"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 99,
+        "string": "earlier"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "string": "scheduled"
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "string": " "
+      },
+      {
+        "start": 111,
+        "end": 124,
+        "string": "governorship"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 129,
+        "string": "and"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 136,
+        "string": "state"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 144,
+        "string": "Houses"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 148,
+        "string": "of"
+      },
+      {
+        "start": 148,
+        "end": 149,
+        "string": " "
+      },
+      {
+        "start": 149,
+        "end": 158,
+        "string": "Assembly"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 169,
+        "string": "elections"
+      },
+      {
+        "start": 169,
+        "end": 170,
+        "string": " "
+      },
+      {
+        "start": 170,
+        "end": 172,
+        "string": "."
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 180,
+        "string": "Festus"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "string": " "
+      },
+      {
+        "start": 181,
+        "end": 187,
+        "string": "Okoye"
+      },
+      {
+        "start": 187,
+        "end": 188,
+        "string": " "
+      },
+      {
+        "start": 188,
+        "end": 190,
+        "string": ","
+      },
+      {
+        "start": 190,
+        "end": 191,
+        "string": " "
+      },
+      {
+        "start": 191,
+        "end": 196,
+        "string": "INEC"
+      },
+      {
+        "start": 196,
+        "end": 197,
+        "string": " "
+      },
+      {
+        "start": 197,
+        "end": 200,
+        "string": "'s"
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "string": " "
+      },
+      {
+        "start": 201,
+        "end": 210,
+        "string": "national"
+      },
+      {
+        "start": 210,
+        "end": 211,
+        "string": " "
+      },
+      {
+        "start": 211,
+        "end": 224,
+        "string": "commissioner"
+      },
+      {
+        "start": 224,
+        "end": 225,
+        "string": " "
+      },
+      {
+        "start": 225,
+        "end": 229,
+        "string": "for"
+      },
+      {
+        "start": 229,
+        "end": 230,
+        "string": " "
+      },
+      {
+        "start": 230,
+        "end": 242,
+        "string": "information"
+      },
+      {
+        "start": 242,
+        "end": 243,
+        "string": " "
+      },
+      {
+        "start": 243,
+        "end": 247,
+        "string": "and"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 254,
+        "string": "voter"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 265,
+        "string": "education"
+      },
+      {
+        "start": 265,
+        "end": 266,
+        "string": " "
+      },
+      {
+        "start": 266,
+        "end": 268,
+        "string": ","
+      },
+      {
+        "start": 268,
+        "end": 269,
+        "string": " "
+      },
+      {
+        "start": 269,
+        "end": 274,
+        "string": "said"
+      },
+      {
+        "start": 274,
+        "end": 275,
+        "string": " "
+      },
+      {
+        "start": 275,
+        "end": 279,
+        "string": "the"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 294,
+        "string": "supplementary"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 301,
+        "string": "polls"
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 307,
+        "string": "will"
+      },
+      {
+        "start": 307,
+        "end": 308,
+        "string": " "
+      },
+      {
+        "start": 308,
+        "end": 311,
+        "string": "be"
+      },
+      {
+        "start": 311,
+        "end": 312,
+        "string": " "
+      },
+      {
+        "start": 312,
+        "end": 322,
+        "string": "conducted"
+      },
+      {
+        "start": 322,
+        "end": 323,
+        "string": " "
+      },
+      {
+        "start": 323,
+        "end": 326,
+        "string": "in"
+      },
+      {
+        "start": 326,
+        "end": 327,
+        "string": " "
+      },
+      {
+        "start": 327,
+        "end": 333,
+        "string": "areas"
+      },
+      {
+        "start": 333,
+        "end": 334,
+        "string": " "
+      },
+      {
+        "start": 334,
+        "end": 340,
+        "string": "where"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 345,
+        "string": "the"
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 351,
+        "string": "poll"
+      },
+      {
+        "start": 351,
+        "end": 352,
+        "string": " "
+      },
+      {
+        "start": 352,
+        "end": 356,
+        "string": "was"
+      },
+      {
+        "start": 356,
+        "end": 357,
+        "string": " "
+      },
+      {
+        "start": 357,
+        "end": 367,
+        "string": "cancelled"
+      },
+      {
+        "start": 367,
+        "end": 368,
+        "string": " "
+      },
+      {
+        "start": 368,
+        "end": 373,
+        "string": "last"
+      },
+      {
+        "start": 373,
+        "end": 374,
+        "string": " "
+      },
+      {
+        "start": 374,
+        "end": 383,
+        "string": "Saturday"
+      },
+      {
+        "start": 383,
+        "end": 384,
+        "string": " "
+      },
+      {
+        "start": 384,
+        "end": 386,
+        "string": ","
+      },
+      {
+        "start": 386,
+        "end": 387,
+        "string": " "
+      },
+      {
+        "start": 387,
+        "end": 397,
+        "string": "alongside"
+      },
+      {
+        "start": 397,
+        "end": 398,
+        "string": " "
+      },
+      {
+        "start": 398,
+        "end": 402,
+        "string": "the"
+      },
+      {
+        "start": 402,
+        "end": 403,
+        "string": " "
+      },
+      {
+        "start": 403,
+        "end": 416,
+        "string": "governorship"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 421,
+        "string": "and"
+      },
+      {
+        "start": 421,
+        "end": 422,
+        "string": " "
+      },
+      {
+        "start": 422,
+        "end": 428,
+        "string": "state"
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "string": " "
+      },
+      {
+        "start": 429,
+        "end": 436,
+        "string": "houses"
+      },
+      {
+        "start": 436,
+        "end": 437,
+        "string": " "
+      },
+      {
+        "start": 437,
+        "end": 440,
+        "string": "of"
+      },
+      {
+        "start": 440,
+        "end": 441,
+        "string": " "
+      },
+      {
+        "start": 441,
+        "end": 450,
+        "string": "assembly"
+      },
+      {
+        "start": 450,
+        "end": 451,
+        "string": " "
+      },
+      {
+        "start": 451,
+        "end": 461,
+        "string": "elections"
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 464,
+        "string": "."
+      },
+      {
+        "start": 464,
+        "end": 465,
+        "string": " "
+      },
+      {
+        "start": 465,
+        "end": 468,
+        "string": "He"
+      },
+      {
+        "start": 468,
+        "end": 469,
+        "string": " "
+      },
+      {
+        "start": 469,
+        "end": 474,
+        "string": "said"
+      },
+      {
+        "start": 474,
+        "end": 475,
+        "string": " "
+      },
+      {
+        "start": 475,
+        "end": 479,
+        "string": "the"
+      },
+      {
+        "start": 479,
+        "end": 480,
+        "string": " "
+      },
+      {
+        "start": 480,
+        "end": 489,
+        "string": "decision"
+      },
+      {
+        "start": 489,
+        "end": 490,
+        "string": " "
+      },
+      {
+        "start": 490,
+        "end": 494,
+        "string": "was"
+      },
+      {
+        "start": 494,
+        "end": 495,
+        "string": " "
+      },
+      {
+        "start": 495,
+        "end": 503,
+        "string": "reached"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 511,
+        "string": "during"
+      },
+      {
+        "start": 511,
+        "end": 512,
+        "string": " "
+      },
+      {
+        "start": 512,
+        "end": 516,
+        "string": "the"
+      },
+      {
+        "start": 516,
+        "end": 517,
+        "string": " "
+      },
+      {
+        "start": 517,
+        "end": 528,
+        "string": "commission"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 532,
+        "string": "'s"
+      },
+      {
+        "start": 532,
+        "end": 533,
+        "string": " "
+      },
+      {
+        "start": 533,
+        "end": 541,
+        "string": "meeting"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 547,
+        "string": "with"
+      },
+      {
+        "start": 547,
+        "end": 548,
+        "string": " "
+      },
+      {
+        "start": 548,
+        "end": 557,
+        "string": "resident"
+      },
+      {
+        "start": 557,
+        "end": 558,
+        "string": " "
+      },
+      {
+        "start": 558,
+        "end": 568,
+        "string": "electoral"
+      },
+      {
+        "start": 568,
+        "end": 569,
+        "string": " "
+      },
+      {
+        "start": 569,
+        "end": 583,
+        "string": "commissioners"
+      },
+      {
+        "start": 583,
+        "end": 584,
+        "string": " "
+      },
+      {
+        "start": 584,
+        "end": 586,
+        "string": "("
+      },
+      {
+        "start": 586,
+        "end": 587,
+        "string": " "
+      },
+      {
+        "start": 587,
+        "end": 592,
+        "string": "RECs"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 595,
+        "string": ")"
+      },
+      {
+        "start": 595,
+        "end": 596,
+        "string": " "
+      },
+      {
+        "start": 596,
+        "end": 599,
+        "string": "on"
+      },
+      {
+        "start": 599,
+        "end": 600,
+        "string": " "
+      },
+      {
+        "start": 600,
+        "end": 609,
+        "string": "Thursday"
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 613,
+        "string": "in"
+      },
+      {
+        "start": 613,
+        "end": 614,
+        "string": " "
+      },
+      {
+        "start": 614,
+        "end": 620,
+        "string": "Abuja"
+      },
+      {
+        "start": 620,
+        "end": 621,
+        "string": " "
+      },
+      {
+        "start": 621,
+        "end": 623,
+        "string": "."
+      },
+      {
+        "start": 623,
+        "end": 624,
+        "string": " "
+      },
+      {
+        "start": 624,
+        "end": 629,
+        "string": "INEC"
+      },
+      {
+        "start": 629,
+        "end": 630,
+        "string": " "
+      },
+      {
+        "start": 630,
+        "end": 634,
+        "string": "had"
+      },
+      {
+        "start": 634,
+        "end": 635,
+        "string": " "
+      },
+      {
+        "start": 635,
+        "end": 645,
+        "string": "cancelled"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 650,
+        "string": "the"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 664,
+        "string": "presidential"
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 675,
+        "string": "elections"
+      },
+      {
+        "start": 675,
+        "end": 676,
+        "string": " "
+      },
+      {
+        "start": 676,
+        "end": 679,
+        "string": "in"
+      },
+      {
+        "start": 679,
+        "end": 680,
+        "string": " "
+      },
+      {
+        "start": 680,
+        "end": 685,
+        "string": "some"
+      },
+      {
+        "start": 685,
+        "end": 686,
+        "string": " "
+      },
+      {
+        "start": 686,
+        "end": 692,
+        "string": "areas"
+      },
+      {
+        "start": 692,
+        "end": 693,
+        "string": " "
+      },
+      {
+        "start": 693,
+        "end": 696,
+        "string": "as"
+      },
+      {
+        "start": 696,
+        "end": 697,
+        "string": " "
+      },
+      {
+        "start": 697,
+        "end": 699,
+        "string": "a"
+      },
+      {
+        "start": 699,
+        "end": 700,
+        "string": " "
+      },
+      {
+        "start": 700,
+        "end": 707,
+        "string": "result"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 711,
+        "string": "of"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 721,
+        "string": "violence"
+      },
+      {
+        "start": 721,
+        "end": 722,
+        "string": " "
+      },
+      {
+        "start": 722,
+        "end": 725,
+        "string": "in"
+      },
+      {
+        "start": 725,
+        "end": 726,
+        "string": " "
+      },
+      {
+        "start": 726,
+        "end": 732,
+        "string": "River"
+      },
+      {
+        "start": 732,
+        "end": 733,
+        "string": " "
+      },
+      {
+        "start": 733,
+        "end": 739,
+        "string": "state"
+      },
+      {
+        "start": 739,
+        "end": 740,
+        "string": " "
+      },
+      {
+        "start": 740,
+        "end": 743,
+        "string": "as"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 749,
+        "string": "well"
+      },
+      {
+        "start": 749,
+        "end": 750,
+        "string": " "
+      },
+      {
+        "start": 750,
+        "end": 753,
+        "string": "as"
+      },
+      {
+        "start": 753,
+        "end": 754,
+        "string": " "
+      },
+      {
+        "start": 754,
+        "end": 760,
+        "string": "other"
+      },
+      {
+        "start": 760,
+        "end": 761,
+        "string": " "
+      },
+      {
+        "start": 761,
+        "end": 767,
+        "string": "parts"
+      },
+      {
+        "start": 767,
+        "end": 768,
+        "string": " "
+      },
+      {
+        "start": 768,
+        "end": 771,
+        "string": "of"
+      },
+      {
+        "start": 771,
+        "end": 772,
+        "string": " "
+      },
+      {
+        "start": 772,
+        "end": 778,
+        "string": "Lagos"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 783,
+        "string": "and"
+      },
+      {
+        "start": 783,
+        "end": 784,
+        "string": " "
+      },
+      {
+        "start": 784,
+        "end": 792,
+        "string": "Anambra"
+      },
+      {
+        "start": 792,
+        "end": 793,
+        "string": " "
+      },
+      {
+        "start": 793,
+        "end": 800,
+        "string": "states"
+      },
+      {
+        "start": 800,
+        "end": 801,
+        "string": " "
+      },
+      {
+        "start": 801,
+        "end": 803,
+        "string": "."
+      },
+      {
+        "start": 803,
+        "end": 804,
+        "string": " "
+      },
+      {
+        "start": 804,
+        "end": 811,
+        "string": "Source"
+      },
+      {
+        "start": 811,
+        "end": 812,
+        "string": " "
+      },
+      {
+        "start": 812,
+        "end": 814,
+        "string": ":"
+      },
+      {
+        "start": 814,
+        "end": 815,
+        "string": " "
+      },
+      {
+        "start": 815,
+        "end": 886,
+        "string": "https://www.twitter.com/inecnigeria/status/1101442933755133952/photo/2"
+      },
+      {
+        "start": 886,
+        "end": 887,
+        "string": " "
+      }
+    ]
+  }
+}

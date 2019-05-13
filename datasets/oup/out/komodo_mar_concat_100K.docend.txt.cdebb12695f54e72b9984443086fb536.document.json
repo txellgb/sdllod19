@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "cdebb12695f54e72b9984443086fb536.doc",
+  "metadata": {
+    "title": "Senate panel OKs motorcycles as public transportation | Philstar.com",
+    "sourceUrl": "https://www.philstar.com/nation/2019/03/02/1897852/senate-panel-oks-motorcycles-public-transportation",
+    "documentSource": "philstar.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

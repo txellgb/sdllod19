@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "b4df6e4449f544318f0d7e89a21522fe.doc",
+  "metadata": {
+    "title": "Don't miss Matt Chapman's latest column for Sun Racing",
+    "sourceUrl": "https://www.thesun.co.uk/sport/horseracing/8540036/att-chapman-column-sun-racing-faugheen/",
+    "documentSource": "thesun.co.uk",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-02",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

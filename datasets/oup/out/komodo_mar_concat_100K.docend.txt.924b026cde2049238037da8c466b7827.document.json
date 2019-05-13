@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "924b026cde2049238037da8c466b7827.doc",
+  "metadata": {
+    "title": "ARA p7",
+    "sourceUrl": "https://autoweek.com/content/objects/paragraph/ara-p7",
+    "documentSource": "autoweek.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

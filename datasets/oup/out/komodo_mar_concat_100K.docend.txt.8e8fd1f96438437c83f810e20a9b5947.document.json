@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "8e8fd1f96438437c83f810e20a9b5947.doc",
+  "metadata": {
+    "title": "Bethesda Announces a Closed Beta for 'Elder Scrolls: Blades' and an Early Access Launch for Spring",
+    "sourceUrl": "https://toucharcade.com/2019/03/01/elder-scrolls-blades-closed-beta-announced/",
+    "documentSource": "toucharcade.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "3795a7e4a09d4f5ca9a0ff9d8bbd3ea1.doc",
+  "metadata": {
+    "title": "Argentina's Macri to increase subsidies for poor families",
+    "sourceUrl": "https://www.thestar.com.my/news/world/2019/03/01/argentinas-macri-to-increase-subsidies-for-poor-families/",
+    "documentSource": "thestar.com.my",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

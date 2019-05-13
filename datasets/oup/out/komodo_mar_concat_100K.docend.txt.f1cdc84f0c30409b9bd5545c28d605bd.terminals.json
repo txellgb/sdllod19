@@ -1,0 +1,2181 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "f1cdc84f0c30409b9bd5545c28d605bd.doc",
+  "id": "f1cdc84f0c30409b9bd5545c28d605bd.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "f1cdc84f0c30409b9bd5545c28d605bd.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "Tubi"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "string": "has"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 18,
+        "string": "signed"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "string": " "
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "string": "an"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "string": "AVOD"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "string": "deal"
+      },
+      {
+        "start": 34,
+        "end": 35,
+        "string": " "
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "string": "with"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 54,
+        "string": "NBCUniversal"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "string": ","
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "string": "adding"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 73,
+        "string": "nearly"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "string": "400"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 90,
+        "string": "television"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 100,
+        "string": "episodes"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "string": "and"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 113,
+        "string": "movies"
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "string": " "
+      },
+      {
+        "start": 114,
+        "end": 117,
+        "string": "as"
+      },
+      {
+        "start": 117,
+        "end": 118,
+        "string": " "
+      },
+      {
+        "start": 118,
+        "end": 123,
+        "string": "part"
+      },
+      {
+        "start": 123,
+        "end": 124,
+        "string": " "
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "string": "of"
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 132,
+        "string": "its"
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "string": " "
+      },
+      {
+        "start": 133,
+        "end": 144,
+        "string": "aggressive"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 150,
+        "string": "plan"
+      },
+      {
+        "start": 150,
+        "end": 151,
+        "string": " "
+      },
+      {
+        "start": 151,
+        "end": 154,
+        "string": "to"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 162,
+        "string": "expand"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 166,
+        "string": "in"
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 172,
+        "string": "2019"
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 175,
+        "string": "."
+      },
+      {
+        "start": 175,
+        "end": 176,
+        "string": " "
+      },
+      {
+        "start": 176,
+        "end": 186,
+        "string": "Customers"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "string": " "
+      },
+      {
+        "start": 187,
+        "end": 190,
+        "string": "of"
+      },
+      {
+        "start": 190,
+        "end": 191,
+        "string": " "
+      },
+      {
+        "start": 191,
+        "end": 195,
+        "string": "the"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 209,
+        "string": "ad-supported"
+      },
+      {
+        "start": 209,
+        "end": 210,
+        "string": " "
+      },
+      {
+        "start": 210,
+        "end": 226,
+        "string": "video-on-demand"
+      },
+      {
+        "start": 226,
+        "end": 227,
+        "string": " "
+      },
+      {
+        "start": 227,
+        "end": 229,
+        "string": "("
+      },
+      {
+        "start": 229,
+        "end": 230,
+        "string": " "
+      },
+      {
+        "start": 230,
+        "end": 234,
+        "string": "VOD"
+      },
+      {
+        "start": 234,
+        "end": 235,
+        "string": " "
+      },
+      {
+        "start": 235,
+        "end": 237,
+        "string": ")"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 258,
+        "string": "servicead-supported"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 275,
+        "string": "video-on-demand"
+      },
+      {
+        "start": 275,
+        "end": 276,
+        "string": " "
+      },
+      {
+        "start": 276,
+        "end": 278,
+        "string": "("
+      },
+      {
+        "start": 278,
+        "end": 279,
+        "string": " "
+      },
+      {
+        "start": 279,
+        "end": 283,
+        "string": "VOD"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 286,
+        "string": ")"
+      },
+      {
+        "start": 286,
+        "end": 287,
+        "string": " "
+      },
+      {
+        "start": 287,
+        "end": 295,
+        "string": "service"
+      },
+      {
+        "start": 295,
+        "end": 296,
+        "string": " "
+      },
+      {
+        "start": 296,
+        "end": 301,
+        "string": "will"
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 306,
+        "string": "now"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 310,
+        "string": "be"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 316,
+        "string": "able"
+      },
+      {
+        "start": 316,
+        "end": 317,
+        "string": " "
+      },
+      {
+        "start": 317,
+        "end": 320,
+        "string": "to"
+      },
+      {
+        "start": 320,
+        "end": 321,
+        "string": " "
+      },
+      {
+        "start": 321,
+        "end": 328,
+        "string": "access"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 331,
+        "string": "a"
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 340,
+        "string": "variety"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 344,
+        "string": "of"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 351,
+        "string": "films"
+      },
+      {
+        "start": 351,
+        "end": 352,
+        "string": " "
+      },
+      {
+        "start": 352,
+        "end": 356,
+        "string": "and"
+      },
+      {
+        "start": 356,
+        "end": 357,
+        "string": " "
+      },
+      {
+        "start": 357,
+        "end": 368,
+        "string": "television"
+      },
+      {
+        "start": 368,
+        "end": 369,
+        "string": " "
+      },
+      {
+        "start": 369,
+        "end": 376,
+        "string": "series"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 382,
+        "string": "from"
+      },
+      {
+        "start": 382,
+        "end": 383,
+        "string": " "
+      },
+      {
+        "start": 383,
+        "end": 388,
+        "string": "NBCU"
+      },
+      {
+        "start": 388,
+        "end": 389,
+        "string": " "
+      },
+      {
+        "start": 389,
+        "end": 392,
+        "string": "'s"
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      },
+      {
+        "start": 393,
+        "end": 401,
+        "string": "content"
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 410,
+        "string": "library"
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 413,
+        "string": ","
+      },
+      {
+        "start": 413,
+        "end": 414,
+        "string": " "
+      },
+      {
+        "start": 414,
+        "end": 424,
+        "string": "including"
+      },
+      {
+        "start": 424,
+        "end": 425,
+        "string": " "
+      },
+      {
+        "start": 425,
+        "end": 432,
+        "string": "iconic"
+      },
+      {
+        "start": 432,
+        "end": 433,
+        "string": " "
+      },
+      {
+        "start": 433,
+        "end": 436,
+        "string": "TV"
+      },
+      {
+        "start": 436,
+        "end": 437,
+        "string": " "
+      },
+      {
+        "start": 437,
+        "end": 444,
+        "string": "series"
+      },
+      {
+        "start": 444,
+        "end": 445,
+        "string": " "
+      },
+      {
+        "start": 445,
+        "end": 450,
+        "string": "such"
+      },
+      {
+        "start": 450,
+        "end": 451,
+        "string": " "
+      },
+      {
+        "start": 451,
+        "end": 454,
+        "string": "as"
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 460,
+        "string": "Xena"
+      },
+      {
+        "start": 460,
+        "end": 461,
+        "string": " "
+      },
+      {
+        "start": 461,
+        "end": 463,
+        "string": ":"
+      },
+      {
+        "start": 463,
+        "end": 464,
+        "string": " "
+      },
+      {
+        "start": 464,
+        "end": 472,
+        "string": "Warrior"
+      },
+      {
+        "start": 472,
+        "end": 473,
+        "string": " "
+      },
+      {
+        "start": 473,
+        "end": 482,
+        "string": "Princess"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 485,
+        "string": ","
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 495,
+        "string": "Hercules"
+      },
+      {
+        "start": 495,
+        "end": 496,
+        "string": " "
+      },
+      {
+        "start": 496,
+        "end": 498,
+        "string": ":"
+      },
+      {
+        "start": 498,
+        "end": 499,
+        "string": " "
+      },
+      {
+        "start": 499,
+        "end": 503,
+        "string": "The"
+      },
+      {
+        "start": 503,
+        "end": 504,
+        "string": " "
+      },
+      {
+        "start": 504,
+        "end": 514,
+        "string": "Legendary"
+      },
+      {
+        "start": 514,
+        "end": 515,
+        "string": " "
+      },
+      {
+        "start": 515,
+        "end": 524,
+        "string": "Journeys"
+      },
+      {
+        "start": 524,
+        "end": 525,
+        "string": " "
+      },
+      {
+        "start": 525,
+        "end": 527,
+        "string": ","
+      },
+      {
+        "start": 527,
+        "end": 528,
+        "string": " "
+      },
+      {
+        "start": 528,
+        "end": 532,
+        "string": "The"
+      },
+      {
+        "start": 532,
+        "end": 533,
+        "string": " "
+      },
+      {
+        "start": 533,
+        "end": 540,
+        "string": "A-Team"
+      },
+      {
+        "start": 540,
+        "end": 541,
+        "string": " "
+      },
+      {
+        "start": 541,
+        "end": 543,
+        "string": ","
+      },
+      {
+        "start": 543,
+        "end": 544,
+        "string": " "
+      },
+      {
+        "start": 544,
+        "end": 550,
+        "string": "Punky"
+      },
+      {
+        "start": 550,
+        "end": 551,
+        "string": " "
+      },
+      {
+        "start": 551,
+        "end": 560,
+        "string": "Brewster"
+      },
+      {
+        "start": 560,
+        "end": 561,
+        "string": " "
+      },
+      {
+        "start": 561,
+        "end": 563,
+        "string": ","
+      },
+      {
+        "start": 563,
+        "end": 564,
+        "string": " "
+      },
+      {
+        "start": 564,
+        "end": 568,
+        "string": "The"
+      },
+      {
+        "start": 568,
+        "end": 569,
+        "string": " "
+      },
+      {
+        "start": 569,
+        "end": 580,
+        "string": "Incredible"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 586,
+        "string": "Hulk"
+      },
+      {
+        "start": 586,
+        "end": 587,
+        "string": " "
+      },
+      {
+        "start": 587,
+        "end": 589,
+        "string": ","
+      },
+      {
+        "start": 589,
+        "end": 590,
+        "string": " "
+      },
+      {
+        "start": 590,
+        "end": 598,
+        "string": "Quantum"
+      },
+      {
+        "start": 598,
+        "end": 599,
+        "string": " "
+      },
+      {
+        "start": 599,
+        "end": 604,
+        "string": "Leap"
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 609,
+        "string": "and"
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 614,
+        "string": "the"
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 624,
+        "string": "original"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 634,
+        "string": "versions"
+      },
+      {
+        "start": 634,
+        "end": 635,
+        "string": " "
+      },
+      {
+        "start": 635,
+        "end": 638,
+        "string": "of"
+      },
+      {
+        "start": 638,
+        "end": 639,
+        "string": " "
+      },
+      {
+        "start": 639,
+        "end": 646,
+        "string": "Magnum"
+      },
+      {
+        "start": 646,
+        "end": 647,
+        "string": " "
+      },
+      {
+        "start": 647,
+        "end": 649,
+        "string": ","
+      },
+      {
+        "start": 649,
+        "end": 650,
+        "string": " "
+      },
+      {
+        "start": 650,
+        "end": 655,
+        "string": "P.I."
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 658,
+        "string": ","
+      },
+      {
+        "start": 658,
+        "end": 659,
+        "string": " "
+      },
+      {
+        "start": 659,
+        "end": 670,
+        "string": "Battlestar"
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 681,
+        "string": "Galactica"
+      },
+      {
+        "start": 681,
+        "end": 682,
+        "string": " "
+      },
+      {
+        "start": 682,
+        "end": 684,
+        "string": ","
+      },
+      {
+        "start": 684,
+        "end": 685,
+        "string": " "
+      },
+      {
+        "start": 685,
+        "end": 692,
+        "string": "Bionic"
+      },
+      {
+        "start": 692,
+        "end": 693,
+        "string": " "
+      },
+      {
+        "start": 693,
+        "end": 699,
+        "string": "Woman"
+      },
+      {
+        "start": 699,
+        "end": 700,
+        "string": " "
+      },
+      {
+        "start": 700,
+        "end": 704,
+        "string": "and"
+      },
+      {
+        "start": 704,
+        "end": 705,
+        "string": " "
+      },
+      {
+        "start": 705,
+        "end": 712,
+        "string": "She-Ra"
+      },
+      {
+        "start": 712,
+        "end": 713,
+        "string": " "
+      },
+      {
+        "start": 713,
+        "end": 715,
+        "string": ":"
+      },
+      {
+        "start": 715,
+        "end": 716,
+        "string": " "
+      },
+      {
+        "start": 716,
+        "end": 725,
+        "string": "Princess"
+      },
+      {
+        "start": 725,
+        "end": 726,
+        "string": " "
+      },
+      {
+        "start": 726,
+        "end": 729,
+        "string": "of"
+      },
+      {
+        "start": 729,
+        "end": 730,
+        "string": " "
+      },
+      {
+        "start": 730,
+        "end": 736,
+        "string": "Power"
+      },
+      {
+        "start": 736,
+        "end": 737,
+        "string": " "
+      },
+      {
+        "start": 737,
+        "end": 739,
+        "string": "."
+      },
+      {
+        "start": 739,
+        "end": 740,
+        "string": " "
+      },
+      {
+        "start": 740,
+        "end": 742,
+        "string": "\""
+      },
+      {
+        "start": 742,
+        "end": 743,
+        "string": " "
+      },
+      {
+        "start": 743,
+        "end": 746,
+        "string": "We"
+      },
+      {
+        "start": 746,
+        "end": 747,
+        "string": " "
+      },
+      {
+        "start": 747,
+        "end": 751,
+        "string": "'re"
+      },
+      {
+        "start": 751,
+        "end": 752,
+        "string": " "
+      },
+      {
+        "start": 752,
+        "end": 760,
+        "string": "excited"
+      },
+      {
+        "start": 760,
+        "end": 761,
+        "string": " "
+      },
+      {
+        "start": 761,
+        "end": 764,
+        "string": "to"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 768,
+        "string": "be"
+      },
+      {
+        "start": 768,
+        "end": 769,
+        "string": " "
+      },
+      {
+        "start": 769,
+        "end": 771,
+        "string": "a"
+      },
+      {
+        "start": 771,
+        "end": 772,
+        "string": " "
+      },
+      {
+        "start": 772,
+        "end": 777,
+        "string": "home"
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 781,
+        "string": "to"
+      },
+      {
+        "start": 781,
+        "end": 782,
+        "string": " "
+      },
+      {
+        "start": 782,
+        "end": 787,
+        "string": "this"
+      },
+      {
+        "start": 787,
+        "end": 788,
+        "string": " "
+      },
+      {
+        "start": 788,
+        "end": 795,
+        "string": "robust"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 804,
+        "string": "library"
+      },
+      {
+        "start": 804,
+        "end": 805,
+        "string": " "
+      },
+      {
+        "start": 805,
+        "end": 808,
+        "string": "of"
+      },
+      {
+        "start": 808,
+        "end": 809,
+        "string": " "
+      },
+      {
+        "start": 809,
+        "end": 821,
+        "string": "world-class"
+      },
+      {
+        "start": 821,
+        "end": 822,
+        "string": " "
+      },
+      {
+        "start": 822,
+        "end": 824,
+        "string": ","
+      },
+      {
+        "start": 824,
+        "end": 825,
+        "string": " "
+      },
+      {
+        "start": 825,
+        "end": 832,
+        "string": "iconic"
+      },
+      {
+        "start": 832,
+        "end": 833,
+        "string": " "
+      },
+      {
+        "start": 833,
+        "end": 841,
+        "string": "content"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 847,
+        "string": "from"
+      },
+      {
+        "start": 847,
+        "end": 848,
+        "string": " "
+      },
+      {
+        "start": 848,
+        "end": 861,
+        "string": "NBCUniversal"
+      },
+      {
+        "start": 861,
+        "end": 862,
+        "string": " "
+      },
+      {
+        "start": 862,
+        "end": 867,
+        "string": "that"
+      },
+      {
+        "start": 867,
+        "end": 868,
+        "string": " "
+      },
+      {
+        "start": 868,
+        "end": 876,
+        "string": "appeals"
+      },
+      {
+        "start": 876,
+        "end": 877,
+        "string": " "
+      },
+      {
+        "start": 877,
+        "end": 884,
+        "string": "across"
+      },
+      {
+        "start": 884,
+        "end": 885,
+        "string": " "
+      },
+      {
+        "start": 885,
+        "end": 897,
+        "string": "generations"
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 900,
+        "string": ","
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 903,
+        "string": "\""
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 909,
+        "string": "said"
+      },
+      {
+        "start": 909,
+        "end": 910,
+        "string": " "
+      },
+      {
+        "start": 910,
+        "end": 915,
+        "string": "Adam"
+      },
+      {
+        "start": 915,
+        "end": 916,
+        "string": " "
+      },
+      {
+        "start": 916,
+        "end": 925,
+        "string": "Lewinson"
+      },
+      {
+        "start": 925,
+        "end": 926,
+        "string": " "
+      },
+      {
+        "start": 926,
+        "end": 928,
+        "string": ","
+      },
+      {
+        "start": 928,
+        "end": 929,
+        "string": " "
+      },
+      {
+        "start": 929,
+        "end": 935,
+        "string": "chief"
+      },
+      {
+        "start": 935,
+        "end": 936,
+        "string": " "
+      },
+      {
+        "start": 936,
+        "end": 944,
+        "string": "content"
+      },
+      {
+        "start": 944,
+        "end": 945,
+        "string": " "
+      },
+      {
+        "start": 945,
+        "end": 953,
+        "string": "officer"
+      },
+      {
+        "start": 953,
+        "end": 954,
+        "string": " "
+      },
+      {
+        "start": 954,
+        "end": 956,
+        "string": ","
+      },
+      {
+        "start": 956,
+        "end": 957,
+        "string": " "
+      },
+      {
+        "start": 957,
+        "end": 962,
+        "string": "Tubi"
+      },
+      {
+        "start": 962,
+        "end": 963,
+        "string": " "
+      },
+      {
+        "start": 963,
+        "end": 965,
+        "string": "."
+      },
+      {
+        "start": 965,
+        "end": 966,
+        "string": " "
+      },
+      {
+        "start": 966,
+        "end": 970,
+        "string": "The"
+      },
+      {
+        "start": 970,
+        "end": 971,
+        "string": " "
+      },
+      {
+        "start": 971,
+        "end": 979,
+        "string": "service"
+      },
+      {
+        "start": 979,
+        "end": 980,
+        "string": " "
+      },
+      {
+        "start": 980,
+        "end": 987,
+        "string": "claims"
+      },
+      {
+        "start": 987,
+        "end": 988,
+        "string": " "
+      },
+      {
+        "start": 988,
+        "end": 993,
+        "string": "that"
+      },
+      {
+        "start": 993,
+        "end": 994,
+        "string": " "
+      },
+      {
+        "start": 994,
+        "end": 998,
+        "string": "its"
+      },
+      {
+        "start": 998,
+        "end": 999,
+        "string": " "
+      },
+      {
+        "start": 999,
+        "end": 1007,
+        "string": "content"
+      },
+      {
+        "start": 1007,
+        "end": 1008,
+        "string": " "
+      },
+      {
+        "start": 1008,
+        "end": 1015,
+        "string": "volume"
+      },
+      {
+        "start": 1015,
+        "end": 1016,
+        "string": " "
+      },
+      {
+        "start": 1016,
+        "end": 1019,
+        "string": "is"
+      },
+      {
+        "start": 1019,
+        "end": 1020,
+        "string": " "
+      },
+      {
+        "start": 1020,
+        "end": 1025,
+        "string": "more"
+      },
+      {
+        "start": 1025,
+        "end": 1026,
+        "string": " "
+      },
+      {
+        "start": 1026,
+        "end": 1031,
+        "string": "than"
+      },
+      {
+        "start": 1031,
+        "end": 1032,
+        "string": " "
+      },
+      {
+        "start": 1032,
+        "end": 1039,
+        "string": "double"
+      },
+      {
+        "start": 1039,
+        "end": 1040,
+        "string": " "
+      },
+      {
+        "start": 1040,
+        "end": 1043,
+        "string": "in"
+      },
+      {
+        "start": 1043,
+        "end": 1044,
+        "string": " "
+      },
+      {
+        "start": 1044,
+        "end": 1049,
+        "string": "size"
+      },
+      {
+        "start": 1049,
+        "end": 1050,
+        "string": " "
+      },
+      {
+        "start": 1050,
+        "end": 1053,
+        "string": "to"
+      },
+      {
+        "start": 1053,
+        "end": 1054,
+        "string": " "
+      },
+      {
+        "start": 1054,
+        "end": 1062,
+        "string": "Netflix"
+      },
+      {
+        "start": 1062,
+        "end": 1063,
+        "string": " "
+      },
+      {
+        "start": 1063,
+        "end": 1065,
+        "string": "-"
+      },
+      {
+        "start": 1065,
+        "end": 1066,
+        "string": " "
+      },
+      {
+        "start": 1066,
+        "end": 1080,
+        "string": "approximately"
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1088,
+        "string": "40,000"
+      },
+      {
+        "start": 1088,
+        "end": 1089,
+        "string": " "
+      },
+      {
+        "start": 1089,
+        "end": 1095,
+        "string": "hours"
+      },
+      {
+        "start": 1095,
+        "end": 1096,
+        "string": " "
+      },
+      {
+        "start": 1096,
+        "end": 1099,
+        "string": "of"
+      },
+      {
+        "start": 1099,
+        "end": 1100,
+        "string": " "
+      },
+      {
+        "start": 1100,
+        "end": 1108,
+        "string": "content"
+      },
+      {
+        "start": 1108,
+        "end": 1109,
+        "string": " "
+      },
+      {
+        "start": 1109,
+        "end": 1111,
+        "string": "."
+      },
+      {
+        "start": 1111,
+        "end": 1112,
+        "string": " "
+      },
+      {
+        "start": 1112,
+        "end": 1117,
+        "string": "Tubi"
+      },
+      {
+        "start": 1117,
+        "end": 1118,
+        "string": " "
+      },
+      {
+        "start": 1118,
+        "end": 1131,
+        "string": "consistently"
+      },
+      {
+        "start": 1131,
+        "end": 1132,
+        "string": " "
+      },
+      {
+        "start": 1132,
+        "end": 1138,
+        "string": "ranks"
+      },
+      {
+        "start": 1138,
+        "end": 1139,
+        "string": " "
+      },
+      {
+        "start": 1139,
+        "end": 1142,
+        "string": "as"
+      },
+      {
+        "start": 1142,
+        "end": 1143,
+        "string": " "
+      },
+      {
+        "start": 1143,
+        "end": 1147,
+        "string": "one"
+      },
+      {
+        "start": 1147,
+        "end": 1148,
+        "string": " "
+      },
+      {
+        "start": 1148,
+        "end": 1151,
+        "string": "of"
+      },
+      {
+        "start": 1151,
+        "end": 1152,
+        "string": " "
+      },
+      {
+        "start": 1152,
+        "end": 1156,
+        "string": "the"
+      },
+      {
+        "start": 1156,
+        "end": 1157,
+        "string": " "
+      },
+      {
+        "start": 1157,
+        "end": 1162,
+        "string": "most"
+      },
+      {
+        "start": 1162,
+        "end": 1163,
+        "string": " "
+      },
+      {
+        "start": 1163,
+        "end": 1171,
+        "string": "watched"
+      },
+      {
+        "start": 1171,
+        "end": 1172,
+        "string": " "
+      },
+      {
+        "start": 1172,
+        "end": 1177,
+        "string": "apps"
+      },
+      {
+        "start": 1177,
+        "end": 1178,
+        "string": " "
+      },
+      {
+        "start": 1178,
+        "end": 1181,
+        "string": "on"
+      },
+      {
+        "start": 1181,
+        "end": 1182,
+        "string": " "
+      },
+      {
+        "start": 1182,
+        "end": 1186,
+        "string": "the"
+      },
+      {
+        "start": 1186,
+        "end": 1187,
+        "string": " "
+      },
+      {
+        "start": 1187,
+        "end": 1193,
+        "string": "world"
+      },
+      {
+        "start": 1193,
+        "end": 1194,
+        "string": " "
+      },
+      {
+        "start": 1194,
+        "end": 1197,
+        "string": "'s"
+      },
+      {
+        "start": 1197,
+        "end": 1198,
+        "string": " "
+      },
+      {
+        "start": 1198,
+        "end": 1206,
+        "string": "largest"
+      },
+      {
+        "start": 1206,
+        "end": 1207,
+        "string": " "
+      },
+      {
+        "start": 1207,
+        "end": 1217,
+        "string": "platforms"
+      },
+      {
+        "start": 1217,
+        "end": 1218,
+        "string": " "
+      },
+      {
+        "start": 1218,
+        "end": 1220,
+        "string": ","
+      },
+      {
+        "start": 1220,
+        "end": 1221,
+        "string": " "
+      },
+      {
+        "start": 1221,
+        "end": 1231,
+        "string": "including"
+      },
+      {
+        "start": 1231,
+        "end": 1232,
+        "string": " "
+      },
+      {
+        "start": 1232,
+        "end": 1239,
+        "string": "Amazon"
+      },
+      {
+        "start": 1239,
+        "end": 1240,
+        "string": " "
+      },
+      {
+        "start": 1240,
+        "end": 1243,
+        "string": "'s"
+      },
+      {
+        "start": 1243,
+        "end": 1244,
+        "string": " "
+      },
+      {
+        "start": 1244,
+        "end": 1249,
+        "string": "Fire"
+      },
+      {
+        "start": 1249,
+        "end": 1250,
+        "string": " "
+      },
+      {
+        "start": 1250,
+        "end": 1253,
+        "string": "TV"
+      },
+      {
+        "start": 1253,
+        "end": 1254,
+        "string": " "
+      },
+      {
+        "start": 1254,
+        "end": 1256,
+        "string": ","
+      },
+      {
+        "start": 1256,
+        "end": 1257,
+        "string": " "
+      },
+      {
+        "start": 1257,
+        "end": 1262,
+        "string": "Roku"
+      },
+      {
+        "start": 1262,
+        "end": 1263,
+        "string": " "
+      },
+      {
+        "start": 1263,
+        "end": 1267,
+        "string": "iOS"
+      },
+      {
+        "start": 1267,
+        "end": 1268,
+        "string": " "
+      },
+      {
+        "start": 1268,
+        "end": 1270,
+        "string": ","
+      },
+      {
+        "start": 1270,
+        "end": 1271,
+        "string": " "
+      },
+      {
+        "start": 1271,
+        "end": 1279,
+        "string": "Android"
+      },
+      {
+        "start": 1279,
+        "end": 1280,
+        "string": " "
+      },
+      {
+        "start": 1280,
+        "end": 1282,
+        "string": ","
+      },
+      {
+        "start": 1282,
+        "end": 1283,
+        "string": " "
+      },
+      {
+        "start": 1283,
+        "end": 1291,
+        "string": "Xfinity"
+      },
+      {
+        "start": 1291,
+        "end": 1292,
+        "string": " "
+      },
+      {
+        "start": 1292,
+        "end": 1295,
+        "string": "X1"
+      },
+      {
+        "start": 1295,
+        "end": 1296,
+        "string": " "
+      },
+      {
+        "start": 1296,
+        "end": 1300,
+        "string": "and"
+      },
+      {
+        "start": 1300,
+        "end": 1301,
+        "string": " "
+      },
+      {
+        "start": 1301,
+        "end": 1306,
+        "string": "many"
+      },
+      {
+        "start": 1306,
+        "end": 1307,
+        "string": " "
+      },
+      {
+        "start": 1307,
+        "end": 1314,
+        "string": "others"
+      },
+      {
+        "start": 1314,
+        "end": 1315,
+        "string": " "
+      },
+      {
+        "start": 1315,
+        "end": 1317,
+        "string": "."
+      },
+      {
+        "start": 1317,
+        "end": 1318,
+        "string": " "
+      },
+      {
+        "start": 1318,
+        "end": 1322,
+        "string": "The"
+      },
+      {
+        "start": 1322,
+        "end": 1323,
+        "string": " "
+      },
+      {
+        "start": 1323,
+        "end": 1331,
+        "string": "company"
+      },
+      {
+        "start": 1331,
+        "end": 1332,
+        "string": " "
+      },
+      {
+        "start": 1332,
+        "end": 1337,
+        "string": "also"
+      },
+      {
+        "start": 1337,
+        "end": 1338,
+        "string": " "
+      },
+      {
+        "start": 1338,
+        "end": 1348,
+        "string": "announced"
+      },
+      {
+        "start": 1348,
+        "end": 1349,
+        "string": " "
+      },
+      {
+        "start": 1349,
+        "end": 1355,
+        "string": "plans"
+      },
+      {
+        "start": 1355,
+        "end": 1356,
+        "string": " "
+      },
+      {
+        "start": 1356,
+        "end": 1359,
+        "string": "to"
+      },
+      {
+        "start": 1359,
+        "end": 1360,
+        "string": " "
+      },
+      {
+        "start": 1360,
+        "end": 1367,
+        "string": "invest"
+      },
+      {
+        "start": 1367,
+        "end": 1368,
+        "string": " "
+      },
+      {
+        "start": 1368,
+        "end": 1373,
+        "string": "over"
+      },
+      {
+        "start": 1373,
+        "end": 1374,
+        "string": " "
+      },
+      {
+        "start": 1374,
+        "end": 1379,
+        "string": "nine"
+      },
+      {
+        "start": 1379,
+        "end": 1380,
+        "string": " "
+      },
+      {
+        "start": 1380,
+        "end": 1388,
+        "string": "figures"
+      },
+      {
+        "start": 1388,
+        "end": 1389,
+        "string": " "
+      },
+      {
+        "start": 1389,
+        "end": 1394,
+        "string": "into"
+      },
+      {
+        "start": 1394,
+        "end": 1395,
+        "string": " "
+      },
+      {
+        "start": 1395,
+        "end": 1403,
+        "string": "content"
+      },
+      {
+        "start": 1403,
+        "end": 1404,
+        "string": " "
+      },
+      {
+        "start": 1404,
+        "end": 1417,
+        "string": "acquisitions"
+      },
+      {
+        "start": 1417,
+        "end": 1418,
+        "string": " "
+      },
+      {
+        "start": 1418,
+        "end": 1421,
+        "string": "in"
+      },
+      {
+        "start": 1421,
+        "end": 1422,
+        "string": " "
+      },
+      {
+        "start": 1422,
+        "end": 1427,
+        "string": "2019"
+      },
+      {
+        "start": 1427,
+        "end": 1428,
+        "string": " "
+      },
+      {
+        "start": 1428,
+        "end": 1430,
+        "string": "."
+      },
+      {
+        "start": 1430,
+        "end": 1431,
+        "string": " "
+      }
+    ]
+  }
+}

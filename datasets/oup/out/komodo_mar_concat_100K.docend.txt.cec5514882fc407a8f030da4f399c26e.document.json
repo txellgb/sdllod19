@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "cec5514882fc407a8f030da4f399c26e.doc",
+  "metadata": {
+    "title": "SBU looks to extend streak vs GW",
+    "sourceUrl": "https://www.stltoday.com/sports/college/sbu-looks-to-extend-streak-vs-gw/article_a66b5663-601d-56e8-b0c2-69f2112adfe8.html",
+    "documentSource": "stltoday.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

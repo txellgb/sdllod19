@@ -1,0 +1,1071 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "f7d4572b741444f2bc90125a72066a22.doc",
+  "id": "f7d4572b741444f2bc90125a72066a22.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "f7d4572b741444f2bc90125a72066a22.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 14,
+        "string": "Nanoparticles"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "string": "influence"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "string": " "
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "string": "their"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "string": "liquid"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "string": "environment"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "string": "("
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "string": "Nanowerk"
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "string": " "
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "string": "News"
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 75,
+        "string": ")"
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "string": " "
+      },
+      {
+        "start": 76,
+        "end": 82,
+        "string": "These"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 88,
+        "string": "days"
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "string": " "
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "string": ","
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 106,
+        "string": "nanoparticles"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "string": "finely"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 127,
+        "string": "distributed"
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 131,
+        "string": "in"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 144,
+        "string": "suspensions"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 149,
+        "string": "are"
+      },
+      {
+        "start": 149,
+        "end": 150,
+        "string": " "
+      },
+      {
+        "start": 150,
+        "end": 155,
+        "string": "used"
+      },
+      {
+        "start": 155,
+        "end": 156,
+        "string": " "
+      },
+      {
+        "start": 156,
+        "end": 159,
+        "string": "in"
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 165,
+        "string": "many"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 172,
+        "string": "areas"
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 175,
+        "string": "-"
+      },
+      {
+        "start": 175,
+        "end": 176,
+        "string": " "
+      },
+      {
+        "start": 176,
+        "end": 180,
+        "string": "for"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "string": " "
+      },
+      {
+        "start": 181,
+        "end": 189,
+        "string": "example"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 193,
+        "string": "in"
+      },
+      {
+        "start": 193,
+        "end": 194,
+        "string": " "
+      },
+      {
+        "start": 194,
+        "end": 203,
+        "string": "cosmetic"
+      },
+      {
+        "start": 203,
+        "end": 204,
+        "string": " "
+      },
+      {
+        "start": 204,
+        "end": 213,
+        "string": "products"
+      },
+      {
+        "start": 213,
+        "end": 214,
+        "string": " "
+      },
+      {
+        "start": 214,
+        "end": 216,
+        "string": ","
+      },
+      {
+        "start": 216,
+        "end": 217,
+        "string": " "
+      },
+      {
+        "start": 217,
+        "end": 220,
+        "string": "in"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 232,
+        "string": "industrial"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 243,
+        "string": "catalysts"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 246,
+        "string": ","
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 250,
+        "string": "or"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 254,
+        "string": "in"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 264,
+        "string": "contrast"
+      },
+      {
+        "start": 264,
+        "end": 265,
+        "string": " "
+      },
+      {
+        "start": 265,
+        "end": 272,
+        "string": "agents"
+      },
+      {
+        "start": 272,
+        "end": 273,
+        "string": " "
+      },
+      {
+        "start": 273,
+        "end": 277,
+        "string": "for"
+      },
+      {
+        "start": 277,
+        "end": 278,
+        "string": " "
+      },
+      {
+        "start": 278,
+        "end": 288,
+        "string": "medicinal"
+      },
+      {
+        "start": 288,
+        "end": 289,
+        "string": " "
+      },
+      {
+        "start": 289,
+        "end": 302,
+        "string": "examinations"
+      },
+      {
+        "start": 302,
+        "end": 303,
+        "string": " "
+      },
+      {
+        "start": 303,
+        "end": 305,
+        "string": "."
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 310,
+        "string": "For"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 315,
+        "string": "the"
+      },
+      {
+        "start": 315,
+        "end": 316,
+        "string": " "
+      },
+      {
+        "start": 316,
+        "end": 322,
+        "string": "first"
+      },
+      {
+        "start": 322,
+        "end": 323,
+        "string": " "
+      },
+      {
+        "start": 323,
+        "end": 328,
+        "string": "time"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 331,
+        "string": ","
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 334,
+        "string": "a"
+      },
+      {
+        "start": 334,
+        "end": 335,
+        "string": " "
+      },
+      {
+        "start": 335,
+        "end": 344,
+        "string": "research"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 350,
+        "string": "team"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 356,
+        "string": "from"
+      },
+      {
+        "start": 356,
+        "end": 357,
+        "string": " "
+      },
+      {
+        "start": 357,
+        "end": 361,
+        "string": "the"
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 373,
+        "string": "University"
+      },
+      {
+        "start": 373,
+        "end": 374,
+        "string": " "
+      },
+      {
+        "start": 374,
+        "end": 377,
+        "string": "of"
+      },
+      {
+        "start": 377,
+        "end": 378,
+        "string": " "
+      },
+      {
+        "start": 378,
+        "end": 387,
+        "string": "Bayreuth"
+      },
+      {
+        "start": 387,
+        "end": 388,
+        "string": " "
+      },
+      {
+        "start": 388,
+        "end": 392,
+        "string": "has"
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      },
+      {
+        "start": 393,
+        "end": 401,
+        "string": "managed"
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 405,
+        "string": "to"
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "string": " "
+      },
+      {
+        "start": 406,
+        "end": 416,
+        "string": "precisely"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 427,
+        "string": "determine"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 432,
+        "string": "the"
+      },
+      {
+        "start": 432,
+        "end": 433,
+        "string": " "
+      },
+      {
+        "start": 433,
+        "end": 452,
+        "string": "interrelationships"
+      },
+      {
+        "start": 452,
+        "end": 453,
+        "string": " "
+      },
+      {
+        "start": 453,
+        "end": 456,
+        "string": "of"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 466,
+        "string": "magnetic"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 481,
+        "string": "nanoparticles"
+      },
+      {
+        "start": 481,
+        "end": 482,
+        "string": " "
+      },
+      {
+        "start": 482,
+        "end": 487,
+        "string": "with"
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 492,
+        "string": "the"
+      },
+      {
+        "start": 492,
+        "end": 493,
+        "string": " "
+      },
+      {
+        "start": 493,
+        "end": 500,
+        "string": "liquid"
+      },
+      {
+        "start": 500,
+        "end": 501,
+        "string": " "
+      },
+      {
+        "start": 501,
+        "end": 513,
+        "string": "surrounding"
+      },
+      {
+        "start": 513,
+        "end": 514,
+        "string": " "
+      },
+      {
+        "start": 514,
+        "end": 519,
+        "string": "them"
+      },
+      {
+        "start": 519,
+        "end": 520,
+        "string": " "
+      },
+      {
+        "start": 520,
+        "end": 522,
+        "string": ","
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 528,
+        "string": "even"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 534,
+        "string": "down"
+      },
+      {
+        "start": 534,
+        "end": 535,
+        "string": " "
+      },
+      {
+        "start": 535,
+        "end": 538,
+        "string": "to"
+      },
+      {
+        "start": 538,
+        "end": 539,
+        "string": " "
+      },
+      {
+        "start": 539,
+        "end": 543,
+        "string": "the"
+      },
+      {
+        "start": 543,
+        "end": 544,
+        "string": " "
+      },
+      {
+        "start": 544,
+        "end": 551,
+        "string": "atomic"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 558,
+        "string": "level"
+      },
+      {
+        "start": 558,
+        "end": 559,
+        "string": " "
+      },
+      {
+        "start": 559,
+        "end": 561,
+        "string": "."
+      },
+      {
+        "start": 561,
+        "end": 562,
+        "string": " "
+      },
+      {
+        "start": 562,
+        "end": 565,
+        "string": "As"
+      },
+      {
+        "start": 565,
+        "end": 566,
+        "string": " "
+      },
+      {
+        "start": 566,
+        "end": 569,
+        "string": "it"
+      },
+      {
+        "start": 569,
+        "end": 570,
+        "string": " "
+      },
+      {
+        "start": 570,
+        "end": 576,
+        "string": "turns"
+      },
+      {
+        "start": 576,
+        "end": 577,
+        "string": " "
+      },
+      {
+        "start": 577,
+        "end": 581,
+        "string": "out"
+      },
+      {
+        "start": 581,
+        "end": 582,
+        "string": " "
+      },
+      {
+        "start": 582,
+        "end": 584,
+        "string": ","
+      },
+      {
+        "start": 584,
+        "end": 585,
+        "string": " "
+      },
+      {
+        "start": 585,
+        "end": 588,
+        "string": "it"
+      },
+      {
+        "start": 588,
+        "end": 589,
+        "string": " "
+      },
+      {
+        "start": 589,
+        "end": 592,
+        "string": "is"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 600,
+        "string": "mainly"
+      },
+      {
+        "start": 600,
+        "end": 601,
+        "string": " "
+      },
+      {
+        "start": 601,
+        "end": 603,
+        "string": "a"
+      },
+      {
+        "start": 603,
+        "end": 604,
+        "string": " "
+      },
+      {
+        "start": 604,
+        "end": 613,
+        "string": "question"
+      },
+      {
+        "start": 613,
+        "end": 614,
+        "string": " "
+      },
+      {
+        "start": 614,
+        "end": 617,
+        "string": "of"
+      },
+      {
+        "start": 617,
+        "end": 618,
+        "string": " "
+      },
+      {
+        "start": 618,
+        "end": 622,
+        "string": "the"
+      },
+      {
+        "start": 622,
+        "end": 623,
+        "string": " "
+      },
+      {
+        "start": 623,
+        "end": 635,
+        "string": "crystalline"
+      },
+      {
+        "start": 635,
+        "end": 636,
+        "string": " "
+      },
+      {
+        "start": 636,
+        "end": 646,
+        "string": "structure"
+      },
+      {
+        "start": 646,
+        "end": 647,
+        "string": " "
+      },
+      {
+        "start": 647,
+        "end": 650,
+        "string": "of"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 655,
+        "string": "the"
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 670,
+        "string": "nano-particle"
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 674,
+        "string": "as"
+      },
+      {
+        "start": 674,
+        "end": 675,
+        "string": " "
+      },
+      {
+        "start": 675,
+        "end": 678,
+        "string": "to"
+      },
+      {
+        "start": 678,
+        "end": 679,
+        "string": " "
+      },
+      {
+        "start": 679,
+        "end": 683,
+        "string": "how"
+      },
+      {
+        "start": 683,
+        "end": 684,
+        "string": " "
+      },
+      {
+        "start": 684,
+        "end": 690,
+        "string": "water"
+      },
+      {
+        "start": 690,
+        "end": 691,
+        "string": " "
+      },
+      {
+        "start": 691,
+        "end": 701,
+        "string": "molecules"
+      },
+      {
+        "start": 701,
+        "end": 702,
+        "string": " "
+      },
+      {
+        "start": 702,
+        "end": 705,
+        "string": "in"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 712,
+        "string": "their"
+      },
+      {
+        "start": 712,
+        "end": 713,
+        "string": " "
+      },
+      {
+        "start": 713,
+        "end": 723,
+        "string": "immediate"
+      },
+      {
+        "start": 723,
+        "end": 724,
+        "string": " "
+      },
+      {
+        "start": 724,
+        "end": 733,
+        "string": "vicinity"
+      },
+      {
+        "start": 733,
+        "end": 734,
+        "string": " "
+      },
+      {
+        "start": 734,
+        "end": 743,
+        "string": "re-align"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 755,
+        "string": "themselves"
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 758,
+        "string": "."
+      },
+      {
+        "start": 758,
+        "end": 759,
+        "string": " "
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "0accdfe4d2c04525bf5df23699bb796e.doc",
+  "metadata": {
+    "title": "Stephen A. Smith says James Harden 'is the greatest offensive player of this generation'",
+    "sourceUrl": "https://clutchpoints.com/rockets-news-stephen-a-smith-says-james-harden-is-greatest-offensive-player-of-this-generation/",
+    "documentSource": "clutchpoints.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-02",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

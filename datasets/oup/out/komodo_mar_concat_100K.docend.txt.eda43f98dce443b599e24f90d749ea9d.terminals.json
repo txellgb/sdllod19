@@ -1,0 +1,381 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "eda43f98dce443b599e24f90d749ea9d.doc",
+  "id": "eda43f98dce443b599e24f90d749ea9d.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "eda43f98dce443b599e24f90d749ea9d.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "string": "US"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "string": " "
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "string": "Navy"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "string": "'s"
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "string": " "
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "string": "version"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "string": "of"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "string": " "
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "string": "the"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "string": "F-35"
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "string": " "
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "string": "stealth"
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "string": " "
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "string": "fighter"
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "string": " "
+      },
+      {
+        "start": 61,
+        "end": 65,
+        "string": "jet"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "string": "is"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "string": "\""
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 79,
+        "string": "ready"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "string": "for"
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "string": " "
+      },
+      {
+        "start": 85,
+        "end": 92,
+        "string": "combat"
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "string": " "
+      },
+      {
+        "start": 93,
+        "end": 95,
+        "string": ","
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 98,
+        "string": "\""
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "string": " "
+      },
+      {
+        "start": 99,
+        "end": 109,
+        "string": "officials"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 115,
+        "string": "said"
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "string": "on"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 129,
+        "string": "Thursday"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 132,
+        "string": ","
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "string": " "
+      },
+      {
+        "start": 133,
+        "end": 141,
+        "string": "marking"
+      },
+      {
+        "start": 141,
+        "end": 142,
+        "string": " "
+      },
+      {
+        "start": 142,
+        "end": 150,
+        "string": "another"
+      },
+      {
+        "start": 150,
+        "end": 151,
+        "string": " "
+      },
+      {
+        "start": 151,
+        "end": 161,
+        "string": "milestone"
+      },
+      {
+        "start": 161,
+        "end": 162,
+        "string": " "
+      },
+      {
+        "start": 162,
+        "end": 165,
+        "string": "in"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 170,
+        "string": "the"
+      },
+      {
+        "start": 170,
+        "end": 171,
+        "string": " "
+      },
+      {
+        "start": 171,
+        "end": 183,
+        "string": "development"
+      },
+      {
+        "start": 183,
+        "end": 184,
+        "string": " "
+      },
+      {
+        "start": 184,
+        "end": 187,
+        "string": "of"
+      },
+      {
+        "start": 187,
+        "end": 188,
+        "string": " "
+      },
+      {
+        "start": 188,
+        "end": 192,
+        "string": "the"
+      },
+      {
+        "start": 192,
+        "end": 193,
+        "string": " "
+      },
+      {
+        "start": 193,
+        "end": 198,
+        "string": "most"
+      },
+      {
+        "start": 198,
+        "end": 199,
+        "string": " "
+      },
+      {
+        "start": 199,
+        "end": 209,
+        "string": "expensive"
+      },
+      {
+        "start": 209,
+        "end": 210,
+        "string": " "
+      },
+      {
+        "start": 210,
+        "end": 218,
+        "string": "weapons"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 227,
+        "string": "program"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 233,
+        "string": "ever"
+      },
+      {
+        "start": 233,
+        "end": 234,
+        "string": " "
+      },
+      {
+        "start": 234,
+        "end": 236,
+        "string": "."
+      },
+      {
+        "start": 236,
+        "end": 237,
+        "string": " "
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "64e08a67ade242858ea99a81a6d795cc.doc",
+  "metadata": {
+    "title": "National Review's Goldberg, Weekly Standard's Hayes to launch conservative media company",
+    "sourceUrl": "https://thehill.com/homenews/media/432167-national-reviews-goldberg-weekly-standards-hayes-to-launch-conservative-media",
+    "documentSource": "thehill.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

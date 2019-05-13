@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "561345407da44b0fb9ac1fed229f8d09.doc",
+  "metadata": {
+    "title": "TCN records 30,281,04 MW decrease in February, transmits 98,876.66MW",
+    "sourceUrl": "https://www.pulse.ng/news/local/tcn-records-3028104-mw-decrease-in-february-transmits-9887666mw/7mmg9vw",
+    "documentSource": "pulse.ng",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

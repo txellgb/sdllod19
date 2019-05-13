@@ -1,0 +1,621 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "ed6692c265b345118e045e0fe10308d1.doc",
+  "id": "ed6692c265b345118e045e0fe10308d1.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "ed6692c265b345118e045e0fe10308d1.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "string": "boos"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "string": "and"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "string": " "
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "string": "chants"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "string": "returned"
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "string": " "
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "string": "when"
+      },
+      {
+        "start": 39,
+        "end": 40,
+        "string": " "
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "string": "the"
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "string": " "
+      },
+      {
+        "start": 45,
+        "end": 51,
+        "string": "Maple"
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "string": " "
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "string": "Leafs"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "string": "came"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 70,
+        "string": "back"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 74,
+        "string": "on"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 79,
+        "string": "the"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "string": "ice"
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "string": " "
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "string": "for"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "string": "the"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 100,
+        "string": "game"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 103,
+        "string": ","
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "string": " "
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "string": "and"
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "string": "also"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "string": "when"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "string": "Tavares"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 138,
+        "string": "entered"
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "string": " "
+      },
+      {
+        "start": 139,
+        "end": 144,
+        "string": "play"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 148,
+        "string": "in"
+      },
+      {
+        "start": 148,
+        "end": 149,
+        "string": " "
+      },
+      {
+        "start": 149,
+        "end": 153,
+        "string": "the"
+      },
+      {
+        "start": 153,
+        "end": 154,
+        "string": " "
+      },
+      {
+        "start": 154,
+        "end": 162,
+        "string": "opening"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 170,
+        "string": "minute"
+      },
+      {
+        "start": 170,
+        "end": 171,
+        "string": " "
+      },
+      {
+        "start": 171,
+        "end": 173,
+        "string": "."
+      },
+      {
+        "start": 173,
+        "end": 174,
+        "string": " "
+      },
+      {
+        "start": 174,
+        "end": 179,
+        "string": "Fans"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 185,
+        "string": "also"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 192,
+        "string": "booed"
+      },
+      {
+        "start": 192,
+        "end": 193,
+        "string": " "
+      },
+      {
+        "start": 193,
+        "end": 200,
+        "string": "during"
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "string": " "
+      },
+      {
+        "start": 201,
+        "end": 203,
+        "string": "a"
+      },
+      {
+        "start": 203,
+        "end": 204,
+        "string": " "
+      },
+      {
+        "start": 204,
+        "end": 210,
+        "string": "video"
+      },
+      {
+        "start": 210,
+        "end": 211,
+        "string": " "
+      },
+      {
+        "start": 211,
+        "end": 219,
+        "string": "tribute"
+      },
+      {
+        "start": 219,
+        "end": 220,
+        "string": " "
+      },
+      {
+        "start": 220,
+        "end": 223,
+        "string": "to"
+      },
+      {
+        "start": 223,
+        "end": 224,
+        "string": " "
+      },
+      {
+        "start": 224,
+        "end": 232,
+        "string": "Tavares"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 240,
+        "string": "midway"
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 249,
+        "string": "through"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 254,
+        "string": "the"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 261,
+        "string": "first"
+      },
+      {
+        "start": 261,
+        "end": 262,
+        "string": " "
+      },
+      {
+        "start": 262,
+        "end": 269,
+        "string": "period"
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 272,
+        "string": ","
+      },
+      {
+        "start": 272,
+        "end": 273,
+        "string": " "
+      },
+      {
+        "start": 273,
+        "end": 277,
+        "string": "and"
+      },
+      {
+        "start": 277,
+        "end": 278,
+        "string": " "
+      },
+      {
+        "start": 278,
+        "end": 284,
+        "string": "again"
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 292,
+        "string": "loudly"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 302,
+        "string": "chanting"
+      },
+      {
+        "start": 302,
+        "end": 303,
+        "string": " "
+      },
+      {
+        "start": 303,
+        "end": 305,
+        "string": "\""
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 309,
+        "string": "We"
+      },
+      {
+        "start": 309,
+        "end": 310,
+        "string": " "
+      },
+      {
+        "start": 310,
+        "end": 313,
+        "string": "do"
+      },
+      {
+        "start": 313,
+        "end": 314,
+        "string": " "
+      },
+      {
+        "start": 314,
+        "end": 318,
+        "string": "n't"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 324,
+        "string": "need"
+      },
+      {
+        "start": 324,
+        "end": 325,
+        "string": " "
+      },
+      {
+        "start": 325,
+        "end": 329,
+        "string": "you"
+      },
+      {
+        "start": 329,
+        "end": 330,
+        "string": " "
+      },
+      {
+        "start": 330,
+        "end": 332,
+        "string": "!"
+      },
+      {
+        "start": 332,
+        "end": 333,
+        "string": " "
+      },
+      {
+        "start": 333,
+        "end": 335,
+        "string": "\""
+      },
+      {
+        "start": 335,
+        "end": 336,
+        "string": " "
+      },
+      {
+        "start": 336,
+        "end": 339,
+        "string": "as"
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 344,
+        "string": "the"
+      },
+      {
+        "start": 344,
+        "end": 345,
+        "string": " "
+      },
+      {
+        "start": 345,
+        "end": 351,
+        "string": "video"
+      },
+      {
+        "start": 351,
+        "end": 352,
+        "string": " "
+      },
+      {
+        "start": 352,
+        "end": 358,
+        "string": "ended"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 361,
+        "string": "."
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      }
+    ]
+  }
+}

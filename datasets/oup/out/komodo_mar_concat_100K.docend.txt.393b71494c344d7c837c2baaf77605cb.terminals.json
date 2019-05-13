@@ -1,0 +1,191 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "393b71494c344d7c837c2baaf77605cb.doc",
+  "id": "393b71494c344d7c837c2baaf77605cb.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "393b71494c344d7c837c2baaf77605cb.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "Nick"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 14,
+        "string": "Martini"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "string": "out"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "string": "at"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "string": "least"
+      },
+      {
+        "start": 30,
+        "end": 31,
+        "string": " "
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "string": "two"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "string": "weeks"
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "string": " "
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "string": ","
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "string": " "
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "string": "Robbie"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 63,
+        "string": "Grossman"
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "string": " "
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "string": "in"
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "string": "line"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 78,
+        "string": "for"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "string": "job"
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "string": " "
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "string": "originally"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 105,
+        "string": "appeared"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 109,
+        "string": "on"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 131,
+        "string": "nbcsportsbayarea.com"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      }
+    ]
+  }
+}

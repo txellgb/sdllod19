@@ -1,0 +1,5401 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "fa4c850d58a4435d838aa591dc170aca.doc",
+  "id": "fa4c850d58a4435d838aa591dc170aca.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "fa4c850d58a4435d838aa591dc170aca.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 5,
+        "string": "What"
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "string": " "
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "string": "the"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "string": "Liberty"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "string": "Lancers"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "string": "lacked"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "string": "in"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 52,
+        "string": "tournament"
+      },
+      {
+        "start": 52,
+        "end": 53,
+        "string": " "
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "string": "experience"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "string": ","
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "string": "they"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "string": "more"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "string": "than"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "string": "made"
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 95,
+        "string": "up"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "string": "for"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 104,
+        "string": "in"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "string": "height"
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "string": " "
+      },
+      {
+        "start": 113,
+        "end": 115,
+        "string": "."
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 120,
+        "string": "The"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "string": "Lancers"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 132,
+        "string": "'"
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "string": " "
+      },
+      {
+        "start": 133,
+        "end": 138,
+        "string": "trio"
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "string": " "
+      },
+      {
+        "start": 139,
+        "end": 142,
+        "string": "of"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 153,
+        "string": "6-footers"
+      },
+      {
+        "start": 153,
+        "end": 154,
+        "string": " "
+      },
+      {
+        "start": 154,
+        "end": 163,
+        "string": "combined"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 168,
+        "string": "for"
+      },
+      {
+        "start": 168,
+        "end": 169,
+        "string": " "
+      },
+      {
+        "start": 169,
+        "end": 172,
+        "string": "42"
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 180,
+        "string": "points"
+      },
+      {
+        "start": 180,
+        "end": 181,
+        "string": " "
+      },
+      {
+        "start": 181,
+        "end": 183,
+        "string": ","
+      },
+      {
+        "start": 183,
+        "end": 184,
+        "string": " "
+      },
+      {
+        "start": 184,
+        "end": 188,
+        "string": "and"
+      },
+      {
+        "start": 188,
+        "end": 189,
+        "string": " "
+      },
+      {
+        "start": 189,
+        "end": 202,
+        "string": "sixth-seeded"
+      },
+      {
+        "start": 202,
+        "end": 203,
+        "string": " "
+      },
+      {
+        "start": 203,
+        "end": 211,
+        "string": "Liberty"
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 217,
+        "string": "beat"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 222,
+        "string": "the"
+      },
+      {
+        "start": 222,
+        "end": 223,
+        "string": " "
+      },
+      {
+        "start": 223,
+        "end": 236,
+        "string": "fifth-seeded"
+      },
+      {
+        "start": 236,
+        "end": 237,
+        "string": " "
+      },
+      {
+        "start": 237,
+        "end": 247,
+        "string": "Davenport"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 257,
+        "string": "Gorillas"
+      },
+      {
+        "start": 257,
+        "end": 258,
+        "string": " "
+      },
+      {
+        "start": 258,
+        "end": 260,
+        "string": ","
+      },
+      {
+        "start": 260,
+        "end": 261,
+        "string": " "
+      },
+      {
+        "start": 261,
+        "end": 266,
+        "string": "last"
+      },
+      {
+        "start": 266,
+        "end": 267,
+        "string": " "
+      },
+      {
+        "start": 267,
+        "end": 272,
+        "string": "year"
+      },
+      {
+        "start": 272,
+        "end": 273,
+        "string": " "
+      },
+      {
+        "start": 273,
+        "end": 276,
+        "string": "'s"
+      },
+      {
+        "start": 276,
+        "end": 277,
+        "string": " "
+      },
+      {
+        "start": 277,
+        "end": 283,
+        "string": "State"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 287,
+        "string": "2B"
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 298,
+        "string": "runner-up"
+      },
+      {
+        "start": 298,
+        "end": 299,
+        "string": " "
+      },
+      {
+        "start": 299,
+        "end": 301,
+        "string": ","
+      },
+      {
+        "start": 301,
+        "end": 302,
+        "string": " "
+      },
+      {
+        "start": 302,
+        "end": 308,
+        "string": "55-45"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 312,
+        "string": "on"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 322,
+        "string": "Thursday"
+      },
+      {
+        "start": 322,
+        "end": 323,
+        "string": " "
+      },
+      {
+        "start": 323,
+        "end": 333,
+        "string": "afternoon"
+      },
+      {
+        "start": 333,
+        "end": 334,
+        "string": " "
+      },
+      {
+        "start": 334,
+        "end": 337,
+        "string": "at"
+      },
+      {
+        "start": 337,
+        "end": 338,
+        "string": " "
+      },
+      {
+        "start": 338,
+        "end": 342,
+        "string": "the"
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 351,
+        "string": "Spokane"
+      },
+      {
+        "start": 351,
+        "end": 352,
+        "string": " "
+      },
+      {
+        "start": 352,
+        "end": 358,
+        "string": "Arena"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 362,
+        "string": "to"
+      },
+      {
+        "start": 362,
+        "end": 363,
+        "string": " "
+      },
+      {
+        "start": 363,
+        "end": 371,
+        "string": "advance"
+      },
+      {
+        "start": 371,
+        "end": 372,
+        "string": " "
+      },
+      {
+        "start": 372,
+        "end": 375,
+        "string": "to"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 380,
+        "string": "the"
+      },
+      {
+        "start": 380,
+        "end": 381,
+        "string": " "
+      },
+      {
+        "start": 381,
+        "end": 392,
+        "string": "semifinals"
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      },
+      {
+        "start": 393,
+        "end": 395,
+        "string": "."
+      },
+      {
+        "start": 395,
+        "end": 396,
+        "string": " "
+      },
+      {
+        "start": 396,
+        "end": 399,
+        "string": "In"
+      },
+      {
+        "start": 399,
+        "end": 400,
+        "string": " "
+      },
+      {
+        "start": 400,
+        "end": 408,
+        "string": "Liberty"
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 412,
+        "string": "'s"
+      },
+      {
+        "start": 412,
+        "end": 413,
+        "string": " "
+      },
+      {
+        "start": 413,
+        "end": 419,
+        "string": "first"
+      },
+      {
+        "start": 419,
+        "end": 420,
+        "string": " "
+      },
+      {
+        "start": 420,
+        "end": 431,
+        "string": "appearance"
+      },
+      {
+        "start": 431,
+        "end": 432,
+        "string": " "
+      },
+      {
+        "start": 432,
+        "end": 435,
+        "string": "at"
+      },
+      {
+        "start": 435,
+        "end": 436,
+        "string": " "
+      },
+      {
+        "start": 436,
+        "end": 442,
+        "string": "state"
+      },
+      {
+        "start": 442,
+        "end": 443,
+        "string": " "
+      },
+      {
+        "start": 443,
+        "end": 446,
+        "string": "in"
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 449,
+        "string": "a"
+      },
+      {
+        "start": 449,
+        "end": 450,
+        "string": " "
+      },
+      {
+        "start": 450,
+        "end": 457,
+        "string": "decade"
+      },
+      {
+        "start": 457,
+        "end": 458,
+        "string": " "
+      },
+      {
+        "start": 458,
+        "end": 460,
+        "string": ","
+      },
+      {
+        "start": 460,
+        "end": 461,
+        "string": " "
+      },
+      {
+        "start": 461,
+        "end": 464,
+        "string": "it"
+      },
+      {
+        "start": 464,
+        "end": 465,
+        "string": " "
+      },
+      {
+        "start": 465,
+        "end": 469,
+        "string": "has"
+      },
+      {
+        "start": 469,
+        "end": 470,
+        "string": " "
+      },
+      {
+        "start": 470,
+        "end": 474,
+        "string": "won"
+      },
+      {
+        "start": 474,
+        "end": 475,
+        "string": " "
+      },
+      {
+        "start": 475,
+        "end": 479,
+        "string": "two"
+      },
+      {
+        "start": 479,
+        "end": 480,
+        "string": " "
+      },
+      {
+        "start": 480,
+        "end": 492,
+        "string": "consecutive"
+      },
+      {
+        "start": 492,
+        "end": 493,
+        "string": " "
+      },
+      {
+        "start": 493,
+        "end": 499,
+        "string": "games"
+      },
+      {
+        "start": 499,
+        "end": 500,
+        "string": " "
+      },
+      {
+        "start": 500,
+        "end": 504,
+        "string": "and"
+      },
+      {
+        "start": 504,
+        "end": 505,
+        "string": " "
+      },
+      {
+        "start": 505,
+        "end": 510,
+        "string": "will"
+      },
+      {
+        "start": 510,
+        "end": 511,
+        "string": " "
+      },
+      {
+        "start": 511,
+        "end": 516,
+        "string": "face"
+      },
+      {
+        "start": 516,
+        "end": 517,
+        "string": " "
+      },
+      {
+        "start": 517,
+        "end": 524,
+        "string": "either"
+      },
+      {
+        "start": 524,
+        "end": 525,
+        "string": " "
+      },
+      {
+        "start": 525,
+        "end": 536,
+        "string": "top-seeded"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 547,
+        "string": "Wahkiakum"
+      },
+      {
+        "start": 547,
+        "end": 548,
+        "string": " "
+      },
+      {
+        "start": 548,
+        "end": 551,
+        "string": "or"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 564,
+        "string": "15th-seeded"
+      },
+      {
+        "start": 564,
+        "end": 565,
+        "string": " "
+      },
+      {
+        "start": 565,
+        "end": 571,
+        "string": "South"
+      },
+      {
+        "start": 571,
+        "end": 572,
+        "string": " "
+      },
+      {
+        "start": 572,
+        "end": 577,
+        "string": "Bend"
+      },
+      {
+        "start": 577,
+        "end": 578,
+        "string": " "
+      },
+      {
+        "start": 578,
+        "end": 581,
+        "string": "at"
+      },
+      {
+        "start": 581,
+        "end": 582,
+        "string": " "
+      },
+      {
+        "start": 582,
+        "end": 587,
+        "string": "7:15"
+      },
+      {
+        "start": 587,
+        "end": 588,
+        "string": " "
+      },
+      {
+        "start": 588,
+        "end": 593,
+        "string": "p.m."
+      },
+      {
+        "start": 593,
+        "end": 594,
+        "string": " "
+      },
+      {
+        "start": 594,
+        "end": 601,
+        "string": "Friday"
+      },
+      {
+        "start": 601,
+        "end": 602,
+        "string": " "
+      },
+      {
+        "start": 602,
+        "end": 604,
+        "string": "."
+      },
+      {
+        "start": 604,
+        "end": 605,
+        "string": " "
+      },
+      {
+        "start": 605,
+        "end": 607,
+        "string": "\""
+      },
+      {
+        "start": 607,
+        "end": 608,
+        "string": " "
+      },
+      {
+        "start": 608,
+        "end": 612,
+        "string": "The"
+      },
+      {
+        "start": 612,
+        "end": 613,
+        "string": " "
+      },
+      {
+        "start": 613,
+        "end": 619,
+        "string": "girls"
+      },
+      {
+        "start": 619,
+        "end": 620,
+        "string": " "
+      },
+      {
+        "start": 620,
+        "end": 628,
+        "string": "program"
+      },
+      {
+        "start": 628,
+        "end": 629,
+        "string": " "
+      },
+      {
+        "start": 629,
+        "end": 633,
+        "string": "has"
+      },
+      {
+        "start": 633,
+        "end": 634,
+        "string": " "
+      },
+      {
+        "start": 634,
+        "end": 638,
+        "string": "n't"
+      },
+      {
+        "start": 638,
+        "end": 639,
+        "string": " "
+      },
+      {
+        "start": 639,
+        "end": 644,
+        "string": "gone"
+      },
+      {
+        "start": 644,
+        "end": 645,
+        "string": " "
+      },
+      {
+        "start": 645,
+        "end": 650,
+        "string": "this"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 655,
+        "string": "far"
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 659,
+        "string": "in"
+      },
+      {
+        "start": 659,
+        "end": 660,
+        "string": " "
+      },
+      {
+        "start": 660,
+        "end": 662,
+        "string": "a"
+      },
+      {
+        "start": 662,
+        "end": 663,
+        "string": " "
+      },
+      {
+        "start": 663,
+        "end": 668,
+        "string": "long"
+      },
+      {
+        "start": 668,
+        "end": 669,
+        "string": " "
+      },
+      {
+        "start": 669,
+        "end": 674,
+        "string": "time"
+      },
+      {
+        "start": 674,
+        "end": 675,
+        "string": " "
+      },
+      {
+        "start": 675,
+        "end": 677,
+        "string": ","
+      },
+      {
+        "start": 677,
+        "end": 678,
+        "string": " "
+      },
+      {
+        "start": 678,
+        "end": 681,
+        "string": "so"
+      },
+      {
+        "start": 681,
+        "end": 682,
+        "string": " "
+      },
+      {
+        "start": 682,
+        "end": 685,
+        "string": "it"
+      },
+      {
+        "start": 685,
+        "end": 686,
+        "string": " "
+      },
+      {
+        "start": 686,
+        "end": 689,
+        "string": "'s"
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 695,
+        "string": "very"
+      },
+      {
+        "start": 695,
+        "end": 696,
+        "string": " "
+      },
+      {
+        "start": 696,
+        "end": 705,
+        "string": "humbling"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 710,
+        "string": "and"
+      },
+      {
+        "start": 710,
+        "end": 711,
+        "string": " "
+      },
+      {
+        "start": 711,
+        "end": 719,
+        "string": "awesome"
+      },
+      {
+        "start": 719,
+        "end": 720,
+        "string": " "
+      },
+      {
+        "start": 720,
+        "end": 724,
+        "string": "for"
+      },
+      {
+        "start": 724,
+        "end": 725,
+        "string": " "
+      },
+      {
+        "start": 725,
+        "end": 728,
+        "string": "us"
+      },
+      {
+        "start": 728,
+        "end": 729,
+        "string": " "
+      },
+      {
+        "start": 729,
+        "end": 731,
+        "string": ","
+      },
+      {
+        "start": 731,
+        "end": 732,
+        "string": " "
+      },
+      {
+        "start": 732,
+        "end": 734,
+        "string": "\""
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 743,
+        "string": "Lancers"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 751,
+        "string": "junior"
+      },
+      {
+        "start": 751,
+        "end": 752,
+        "string": " "
+      },
+      {
+        "start": 752,
+        "end": 759,
+        "string": "Maisie"
+      },
+      {
+        "start": 759,
+        "end": 760,
+        "string": " "
+      },
+      {
+        "start": 760,
+        "end": 768,
+        "string": "Burnham"
+      },
+      {
+        "start": 768,
+        "end": 769,
+        "string": " "
+      },
+      {
+        "start": 769,
+        "end": 774,
+        "string": "said"
+      },
+      {
+        "start": 774,
+        "end": 775,
+        "string": " "
+      },
+      {
+        "start": 775,
+        "end": 777,
+        "string": "."
+      },
+      {
+        "start": 777,
+        "end": 778,
+        "string": " "
+      },
+      {
+        "start": 778,
+        "end": 780,
+        "string": "\""
+      },
+      {
+        "start": 780,
+        "end": 781,
+        "string": " "
+      },
+      {
+        "start": 781,
+        "end": 784,
+        "string": "We"
+      },
+      {
+        "start": 784,
+        "end": 785,
+        "string": " "
+      },
+      {
+        "start": 785,
+        "end": 789,
+        "string": "'ve"
+      },
+      {
+        "start": 789,
+        "end": 790,
+        "string": " "
+      },
+      {
+        "start": 790,
+        "end": 795,
+        "string": "been"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 804,
+        "string": "waiting"
+      },
+      {
+        "start": 804,
+        "end": 805,
+        "string": " "
+      },
+      {
+        "start": 805,
+        "end": 809,
+        "string": "for"
+      },
+      {
+        "start": 809,
+        "end": 810,
+        "string": " "
+      },
+      {
+        "start": 810,
+        "end": 815,
+        "string": "this"
+      },
+      {
+        "start": 815,
+        "end": 816,
+        "string": " "
+      },
+      {
+        "start": 816,
+        "end": 822,
+        "string": "since"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 826,
+        "string": "we"
+      },
+      {
+        "start": 826,
+        "end": 827,
+        "string": " "
+      },
+      {
+        "start": 827,
+        "end": 832,
+        "string": "were"
+      },
+      {
+        "start": 832,
+        "end": 833,
+        "string": " "
+      },
+      {
+        "start": 833,
+        "end": 840,
+        "string": "little"
+      },
+      {
+        "start": 840,
+        "end": 841,
+        "string": " "
+      },
+      {
+        "start": 841,
+        "end": 843,
+        "string": "."
+      },
+      {
+        "start": 843,
+        "end": 844,
+        "string": " "
+      },
+      {
+        "start": 844,
+        "end": 847,
+        "string": "It"
+      },
+      {
+        "start": 847,
+        "end": 848,
+        "string": " "
+      },
+      {
+        "start": 848,
+        "end": 851,
+        "string": "'s"
+      },
+      {
+        "start": 851,
+        "end": 852,
+        "string": " "
+      },
+      {
+        "start": 852,
+        "end": 856,
+        "string": "our"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 862,
+        "string": "time"
+      },
+      {
+        "start": 862,
+        "end": 863,
+        "string": " "
+      },
+      {
+        "start": 863,
+        "end": 866,
+        "string": "to"
+      },
+      {
+        "start": 866,
+        "end": 867,
+        "string": " "
+      },
+      {
+        "start": 867,
+        "end": 873,
+        "string": "shine"
+      },
+      {
+        "start": 873,
+        "end": 874,
+        "string": " "
+      },
+      {
+        "start": 874,
+        "end": 876,
+        "string": ","
+      },
+      {
+        "start": 876,
+        "end": 877,
+        "string": " "
+      },
+      {
+        "start": 877,
+        "end": 881,
+        "string": "and"
+      },
+      {
+        "start": 881,
+        "end": 882,
+        "string": " "
+      },
+      {
+        "start": 882,
+        "end": 885,
+        "string": "we"
+      },
+      {
+        "start": 885,
+        "end": 886,
+        "string": " "
+      },
+      {
+        "start": 886,
+        "end": 890,
+        "string": "'re"
+      },
+      {
+        "start": 890,
+        "end": 891,
+        "string": " "
+      },
+      {
+        "start": 891,
+        "end": 897,
+        "string": "ready"
+      },
+      {
+        "start": 897,
+        "end": 898,
+        "string": " "
+      },
+      {
+        "start": 898,
+        "end": 900,
+        "string": "."
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 903,
+        "string": "\""
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 912,
+        "string": "Burnham"
+      },
+      {
+        "start": 912,
+        "end": 913,
+        "string": " "
+      },
+      {
+        "start": 913,
+        "end": 917,
+        "string": "led"
+      },
+      {
+        "start": 917,
+        "end": 918,
+        "string": " "
+      },
+      {
+        "start": 918,
+        "end": 922,
+        "string": "all"
+      },
+      {
+        "start": 922,
+        "end": 923,
+        "string": " "
+      },
+      {
+        "start": 923,
+        "end": 931,
+        "string": "scorers"
+      },
+      {
+        "start": 931,
+        "end": 932,
+        "string": " "
+      },
+      {
+        "start": 932,
+        "end": 937,
+        "string": "with"
+      },
+      {
+        "start": 937,
+        "end": 938,
+        "string": " "
+      },
+      {
+        "start": 938,
+        "end": 941,
+        "string": "17"
+      },
+      {
+        "start": 941,
+        "end": 942,
+        "string": " "
+      },
+      {
+        "start": 942,
+        "end": 949,
+        "string": "points"
+      },
+      {
+        "start": 949,
+        "end": 950,
+        "string": " "
+      },
+      {
+        "start": 950,
+        "end": 952,
+        "string": ","
+      },
+      {
+        "start": 952,
+        "end": 953,
+        "string": " "
+      },
+      {
+        "start": 953,
+        "end": 963,
+        "string": "including"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 966,
+        "string": "a"
+      },
+      {
+        "start": 966,
+        "end": 967,
+        "string": " "
+      },
+      {
+        "start": 967,
+        "end": 976,
+        "string": "9-for-12"
+      },
+      {
+        "start": 976,
+        "end": 977,
+        "string": " "
+      },
+      {
+        "start": 977,
+        "end": 981,
+        "string": "day"
+      },
+      {
+        "start": 981,
+        "end": 982,
+        "string": " "
+      },
+      {
+        "start": 982,
+        "end": 985,
+        "string": "at"
+      },
+      {
+        "start": 985,
+        "end": 986,
+        "string": " "
+      },
+      {
+        "start": 986,
+        "end": 990,
+        "string": "the"
+      },
+      {
+        "start": 990,
+        "end": 991,
+        "string": " "
+      },
+      {
+        "start": 991,
+        "end": 1002,
+        "string": "free-throw"
+      },
+      {
+        "start": 1002,
+        "end": 1003,
+        "string": " "
+      },
+      {
+        "start": 1003,
+        "end": 1008,
+        "string": "line"
+      },
+      {
+        "start": 1008,
+        "end": 1009,
+        "string": " "
+      },
+      {
+        "start": 1009,
+        "end": 1011,
+        "string": "."
+      },
+      {
+        "start": 1011,
+        "end": 1012,
+        "string": " "
+      },
+      {
+        "start": 1012,
+        "end": 1020,
+        "string": "Liberty"
+      },
+      {
+        "start": 1020,
+        "end": 1021,
+        "string": " "
+      },
+      {
+        "start": 1021,
+        "end": 1025,
+        "string": "hit"
+      },
+      {
+        "start": 1025,
+        "end": 1026,
+        "string": " "
+      },
+      {
+        "start": 1026,
+        "end": 1029,
+        "string": "17"
+      },
+      {
+        "start": 1029,
+        "end": 1030,
+        "string": " "
+      },
+      {
+        "start": 1030,
+        "end": 1033,
+        "string": "of"
+      },
+      {
+        "start": 1033,
+        "end": 1034,
+        "string": " "
+      },
+      {
+        "start": 1034,
+        "end": 1037,
+        "string": "22"
+      },
+      {
+        "start": 1037,
+        "end": 1038,
+        "string": " "
+      },
+      {
+        "start": 1038,
+        "end": 1049,
+        "string": "free-throw"
+      },
+      {
+        "start": 1049,
+        "end": 1050,
+        "string": " "
+      },
+      {
+        "start": 1050,
+        "end": 1059,
+        "string": "attempts"
+      },
+      {
+        "start": 1059,
+        "end": 1060,
+        "string": " "
+      },
+      {
+        "start": 1060,
+        "end": 1062,
+        "string": ","
+      },
+      {
+        "start": 1062,
+        "end": 1063,
+        "string": " "
+      },
+      {
+        "start": 1063,
+        "end": 1073,
+        "string": "Davenport"
+      },
+      {
+        "start": 1073,
+        "end": 1074,
+        "string": " "
+      },
+      {
+        "start": 1074,
+        "end": 1079,
+        "string": "just"
+      },
+      {
+        "start": 1079,
+        "end": 1080,
+        "string": " "
+      },
+      {
+        "start": 1080,
+        "end": 1082,
+        "string": "9"
+      },
+      {
+        "start": 1082,
+        "end": 1083,
+        "string": " "
+      },
+      {
+        "start": 1083,
+        "end": 1086,
+        "string": "of"
+      },
+      {
+        "start": 1086,
+        "end": 1087,
+        "string": " "
+      },
+      {
+        "start": 1087,
+        "end": 1090,
+        "string": "20"
+      },
+      {
+        "start": 1090,
+        "end": 1091,
+        "string": " "
+      },
+      {
+        "start": 1091,
+        "end": 1093,
+        "string": "."
+      },
+      {
+        "start": 1093,
+        "end": 1094,
+        "string": " "
+      },
+      {
+        "start": 1094,
+        "end": 1104,
+        "string": "Sophomore"
+      },
+      {
+        "start": 1104,
+        "end": 1105,
+        "string": " "
+      },
+      {
+        "start": 1105,
+        "end": 1113,
+        "string": "Delaney"
+      },
+      {
+        "start": 1113,
+        "end": 1114,
+        "string": " "
+      },
+      {
+        "start": 1114,
+        "end": 1122,
+        "string": "Goodwin"
+      },
+      {
+        "start": 1122,
+        "end": 1123,
+        "string": " "
+      },
+      {
+        "start": 1123,
+        "end": 1127,
+        "string": "and"
+      },
+      {
+        "start": 1127,
+        "end": 1128,
+        "string": " "
+      },
+      {
+        "start": 1128,
+        "end": 1135,
+        "string": "junior"
+      },
+      {
+        "start": 1135,
+        "end": 1136,
+        "string": " "
+      },
+      {
+        "start": 1136,
+        "end": 1143,
+        "string": "Aleena"
+      },
+      {
+        "start": 1143,
+        "end": 1144,
+        "string": " "
+      },
+      {
+        "start": 1144,
+        "end": 1149,
+        "string": "Cook"
+      },
+      {
+        "start": 1149,
+        "end": 1150,
+        "string": " "
+      },
+      {
+        "start": 1150,
+        "end": 1152,
+        "string": "-"
+      },
+      {
+        "start": 1152,
+        "end": 1153,
+        "string": " "
+      },
+      {
+        "start": 1153,
+        "end": 1158,
+        "string": "both"
+      },
+      {
+        "start": 1158,
+        "end": 1159,
+        "string": " "
+      },
+      {
+        "start": 1159,
+        "end": 1166,
+        "string": "listed"
+      },
+      {
+        "start": 1166,
+        "end": 1167,
+        "string": " "
+      },
+      {
+        "start": 1167,
+        "end": 1170,
+        "string": "at"
+      },
+      {
+        "start": 1170,
+        "end": 1171,
+        "string": " "
+      },
+      {
+        "start": 1171,
+        "end": 1178,
+        "string": "6-foot"
+      },
+      {
+        "start": 1178,
+        "end": 1179,
+        "string": " "
+      },
+      {
+        "start": 1179,
+        "end": 1181,
+        "string": "-"
+      },
+      {
+        "start": 1181,
+        "end": 1182,
+        "string": " "
+      },
+      {
+        "start": 1182,
+        "end": 1188,
+        "string": "added"
+      },
+      {
+        "start": 1188,
+        "end": 1189,
+        "string": " "
+      },
+      {
+        "start": 1189,
+        "end": 1192,
+        "string": "13"
+      },
+      {
+        "start": 1192,
+        "end": 1193,
+        "string": " "
+      },
+      {
+        "start": 1193,
+        "end": 1197,
+        "string": "and"
+      },
+      {
+        "start": 1197,
+        "end": 1198,
+        "string": " "
+      },
+      {
+        "start": 1198,
+        "end": 1201,
+        "string": "12"
+      },
+      {
+        "start": 1201,
+        "end": 1202,
+        "string": " "
+      },
+      {
+        "start": 1202,
+        "end": 1209,
+        "string": "points"
+      },
+      {
+        "start": 1209,
+        "end": 1210,
+        "string": " "
+      },
+      {
+        "start": 1210,
+        "end": 1212,
+        "string": ","
+      },
+      {
+        "start": 1212,
+        "end": 1213,
+        "string": " "
+      },
+      {
+        "start": 1213,
+        "end": 1226,
+        "string": "respectively"
+      },
+      {
+        "start": 1226,
+        "end": 1227,
+        "string": " "
+      },
+      {
+        "start": 1227,
+        "end": 1229,
+        "string": ","
+      },
+      {
+        "start": 1229,
+        "end": 1230,
+        "string": " "
+      },
+      {
+        "start": 1230,
+        "end": 1234,
+        "string": "for"
+      },
+      {
+        "start": 1234,
+        "end": 1235,
+        "string": " "
+      },
+      {
+        "start": 1235,
+        "end": 1243,
+        "string": "Liberty"
+      },
+      {
+        "start": 1243,
+        "end": 1244,
+        "string": " "
+      },
+      {
+        "start": 1244,
+        "end": 1246,
+        "string": "."
+      },
+      {
+        "start": 1246,
+        "end": 1247,
+        "string": " "
+      },
+      {
+        "start": 1247,
+        "end": 1252,
+        "string": "Cook"
+      },
+      {
+        "start": 1252,
+        "end": 1253,
+        "string": " "
+      },
+      {
+        "start": 1253,
+        "end": 1257,
+        "string": "had"
+      },
+      {
+        "start": 1257,
+        "end": 1258,
+        "string": " "
+      },
+      {
+        "start": 1258,
+        "end": 1261,
+        "string": "11"
+      },
+      {
+        "start": 1261,
+        "end": 1262,
+        "string": " "
+      },
+      {
+        "start": 1262,
+        "end": 1271,
+        "string": "rebounds"
+      },
+      {
+        "start": 1271,
+        "end": 1272,
+        "string": " "
+      },
+      {
+        "start": 1272,
+        "end": 1274,
+        "string": ","
+      },
+      {
+        "start": 1274,
+        "end": 1275,
+        "string": " "
+      },
+      {
+        "start": 1275,
+        "end": 1283,
+        "string": "Burnham"
+      },
+      {
+        "start": 1283,
+        "end": 1284,
+        "string": " "
+      },
+      {
+        "start": 1284,
+        "end": 1287,
+        "string": "14"
+      },
+      {
+        "start": 1287,
+        "end": 1288,
+        "string": " "
+      },
+      {
+        "start": 1288,
+        "end": 1290,
+        "string": "."
+      },
+      {
+        "start": 1290,
+        "end": 1291,
+        "string": " "
+      },
+      {
+        "start": 1291,
+        "end": 1293,
+        "string": "\""
+      },
+      {
+        "start": 1293,
+        "end": 1294,
+        "string": " "
+      },
+      {
+        "start": 1294,
+        "end": 1297,
+        "string": "We"
+      },
+      {
+        "start": 1297,
+        "end": 1298,
+        "string": " "
+      },
+      {
+        "start": 1298,
+        "end": 1305,
+        "string": "always"
+      },
+      {
+        "start": 1305,
+        "end": 1306,
+        "string": " "
+      },
+      {
+        "start": 1306,
+        "end": 1310,
+        "string": "try"
+      },
+      {
+        "start": 1310,
+        "end": 1311,
+        "string": " "
+      },
+      {
+        "start": 1311,
+        "end": 1314,
+        "string": "to"
+      },
+      {
+        "start": 1314,
+        "end": 1315,
+        "string": " "
+      },
+      {
+        "start": 1315,
+        "end": 1323,
+        "string": "exploit"
+      },
+      {
+        "start": 1323,
+        "end": 1324,
+        "string": " "
+      },
+      {
+        "start": 1324,
+        "end": 1335,
+        "string": "mismatches"
+      },
+      {
+        "start": 1335,
+        "end": 1336,
+        "string": " "
+      },
+      {
+        "start": 1336,
+        "end": 1341,
+        "string": "when"
+      },
+      {
+        "start": 1341,
+        "end": 1342,
+        "string": " "
+      },
+      {
+        "start": 1342,
+        "end": 1345,
+        "string": "we"
+      },
+      {
+        "start": 1345,
+        "end": 1346,
+        "string": " "
+      },
+      {
+        "start": 1346,
+        "end": 1351,
+        "string": "have"
+      },
+      {
+        "start": 1351,
+        "end": 1352,
+        "string": " "
+      },
+      {
+        "start": 1352,
+        "end": 1357,
+        "string": "them"
+      },
+      {
+        "start": 1357,
+        "end": 1358,
+        "string": " "
+      },
+      {
+        "start": 1358,
+        "end": 1360,
+        "string": ","
+      },
+      {
+        "start": 1360,
+        "end": 1361,
+        "string": " "
+      },
+      {
+        "start": 1361,
+        "end": 1364,
+        "string": "so"
+      },
+      {
+        "start": 1364,
+        "end": 1365,
+        "string": " "
+      },
+      {
+        "start": 1365,
+        "end": 1372,
+        "string": "having"
+      },
+      {
+        "start": 1372,
+        "end": 1373,
+        "string": " "
+      },
+      {
+        "start": 1373,
+        "end": 1383,
+        "string": "6-footers"
+      },
+      {
+        "start": 1383,
+        "end": 1384,
+        "string": " "
+      },
+      {
+        "start": 1384,
+        "end": 1389,
+        "string": "that"
+      },
+      {
+        "start": 1389,
+        "end": 1390,
+        "string": " "
+      },
+      {
+        "start": 1390,
+        "end": 1394,
+        "string": "can"
+      },
+      {
+        "start": 1394,
+        "end": 1395,
+        "string": " "
+      },
+      {
+        "start": 1395,
+        "end": 1400,
+        "string": "play"
+      },
+      {
+        "start": 1400,
+        "end": 1401,
+        "string": " "
+      },
+      {
+        "start": 1401,
+        "end": 1405,
+        "string": "the"
+      },
+      {
+        "start": 1405,
+        "end": 1406,
+        "string": " "
+      },
+      {
+        "start": 1406,
+        "end": 1411,
+        "string": "game"
+      },
+      {
+        "start": 1411,
+        "end": 1412,
+        "string": " "
+      },
+      {
+        "start": 1412,
+        "end": 1415,
+        "string": "at"
+      },
+      {
+        "start": 1415,
+        "end": 1416,
+        "string": " "
+      },
+      {
+        "start": 1416,
+        "end": 1418,
+        "string": "a"
+      },
+      {
+        "start": 1418,
+        "end": 1419,
+        "string": " "
+      },
+      {
+        "start": 1419,
+        "end": 1424,
+        "string": "high"
+      },
+      {
+        "start": 1424,
+        "end": 1425,
+        "string": " "
+      },
+      {
+        "start": 1425,
+        "end": 1431,
+        "string": "level"
+      },
+      {
+        "start": 1431,
+        "end": 1432,
+        "string": " "
+      },
+      {
+        "start": 1432,
+        "end": 1435,
+        "string": "is"
+      },
+      {
+        "start": 1435,
+        "end": 1436,
+        "string": " "
+      },
+      {
+        "start": 1436,
+        "end": 1447,
+        "string": "definitely"
+      },
+      {
+        "start": 1447,
+        "end": 1448,
+        "string": " "
+      },
+      {
+        "start": 1448,
+        "end": 1450,
+        "string": "a"
+      },
+      {
+        "start": 1450,
+        "end": 1451,
+        "string": " "
+      },
+      {
+        "start": 1451,
+        "end": 1459,
+        "string": "benefit"
+      },
+      {
+        "start": 1459,
+        "end": 1460,
+        "string": " "
+      },
+      {
+        "start": 1460,
+        "end": 1462,
+        "string": ","
+      },
+      {
+        "start": 1462,
+        "end": 1463,
+        "string": " "
+      },
+      {
+        "start": 1463,
+        "end": 1474,
+        "string": "regardless"
+      },
+      {
+        "start": 1474,
+        "end": 1475,
+        "string": " "
+      },
+      {
+        "start": 1475,
+        "end": 1478,
+        "string": "of"
+      },
+      {
+        "start": 1478,
+        "end": 1479,
+        "string": " "
+      },
+      {
+        "start": 1479,
+        "end": 1483,
+        "string": "who"
+      },
+      {
+        "start": 1483,
+        "end": 1484,
+        "string": " "
+      },
+      {
+        "start": 1484,
+        "end": 1487,
+        "string": "we"
+      },
+      {
+        "start": 1487,
+        "end": 1488,
+        "string": " "
+      },
+      {
+        "start": 1488,
+        "end": 1493,
+        "string": "play"
+      },
+      {
+        "start": 1493,
+        "end": 1494,
+        "string": " "
+      },
+      {
+        "start": 1494,
+        "end": 1496,
+        "string": ","
+      },
+      {
+        "start": 1496,
+        "end": 1497,
+        "string": " "
+      },
+      {
+        "start": 1497,
+        "end": 1499,
+        "string": "\""
+      },
+      {
+        "start": 1499,
+        "end": 1500,
+        "string": " "
+      },
+      {
+        "start": 1500,
+        "end": 1508,
+        "string": "Liberty"
+      },
+      {
+        "start": 1508,
+        "end": 1509,
+        "string": " "
+      },
+      {
+        "start": 1509,
+        "end": 1515,
+        "string": "coach"
+      },
+      {
+        "start": 1515,
+        "end": 1516,
+        "string": " "
+      },
+      {
+        "start": 1516,
+        "end": 1522,
+        "string": "Chris"
+      },
+      {
+        "start": 1522,
+        "end": 1523,
+        "string": " "
+      },
+      {
+        "start": 1523,
+        "end": 1530,
+        "string": "Colvin"
+      },
+      {
+        "start": 1530,
+        "end": 1531,
+        "string": " "
+      },
+      {
+        "start": 1531,
+        "end": 1536,
+        "string": "said"
+      },
+      {
+        "start": 1536,
+        "end": 1537,
+        "string": " "
+      },
+      {
+        "start": 1537,
+        "end": 1539,
+        "string": "."
+      },
+      {
+        "start": 1539,
+        "end": 1540,
+        "string": " "
+      },
+      {
+        "start": 1540,
+        "end": 1550,
+        "string": "Davenport"
+      },
+      {
+        "start": 1550,
+        "end": 1551,
+        "string": " "
+      },
+      {
+        "start": 1551,
+        "end": 1553,
+        "string": "("
+      },
+      {
+        "start": 1553,
+        "end": 1554,
+        "string": " "
+      },
+      {
+        "start": 1554,
+        "end": 1559,
+        "string": "21-5"
+      },
+      {
+        "start": 1559,
+        "end": 1560,
+        "string": " "
+      },
+      {
+        "start": 1560,
+        "end": 1562,
+        "string": ")"
+      },
+      {
+        "start": 1562,
+        "end": 1563,
+        "string": " "
+      },
+      {
+        "start": 1563,
+        "end": 1565,
+        "string": ","
+      },
+      {
+        "start": 1565,
+        "end": 1566,
+        "string": " "
+      },
+      {
+        "start": 1566,
+        "end": 1578,
+        "string": "experienced"
+      },
+      {
+        "start": 1578,
+        "end": 1579,
+        "string": " "
+      },
+      {
+        "start": 1579,
+        "end": 1585,
+        "string": "after"
+      },
+      {
+        "start": 1585,
+        "end": 1586,
+        "string": " "
+      },
+      {
+        "start": 1586,
+        "end": 1588,
+        "string": "a"
+      },
+      {
+        "start": 1588,
+        "end": 1589,
+        "string": " "
+      },
+      {
+        "start": 1589,
+        "end": 1594,
+        "string": "2017"
+      },
+      {
+        "start": 1594,
+        "end": 1595,
+        "string": " "
+      },
+      {
+        "start": 1595,
+        "end": 1601,
+        "string": "state"
+      },
+      {
+        "start": 1601,
+        "end": 1602,
+        "string": " "
+      },
+      {
+        "start": 1602,
+        "end": 1615,
+        "string": "championship"
+      },
+      {
+        "start": 1615,
+        "end": 1616,
+        "string": " "
+      },
+      {
+        "start": 1616,
+        "end": 1620,
+        "string": "and"
+      },
+      {
+        "start": 1620,
+        "end": 1621,
+        "string": " "
+      },
+      {
+        "start": 1621,
+        "end": 1626,
+        "string": "last"
+      },
+      {
+        "start": 1626,
+        "end": 1627,
+        "string": " "
+      },
+      {
+        "start": 1627,
+        "end": 1632,
+        "string": "year"
+      },
+      {
+        "start": 1632,
+        "end": 1633,
+        "string": " "
+      },
+      {
+        "start": 1633,
+        "end": 1636,
+        "string": "'s"
+      },
+      {
+        "start": 1636,
+        "end": 1637,
+        "string": " "
+      },
+      {
+        "start": 1637,
+        "end": 1650,
+        "string": "second-place"
+      },
+      {
+        "start": 1650,
+        "end": 1651,
+        "string": " "
+      },
+      {
+        "start": 1651,
+        "end": 1658,
+        "string": "finish"
+      },
+      {
+        "start": 1658,
+        "end": 1659,
+        "string": " "
+      },
+      {
+        "start": 1659,
+        "end": 1661,
+        "string": ","
+      },
+      {
+        "start": 1661,
+        "end": 1662,
+        "string": " "
+      },
+      {
+        "start": 1662,
+        "end": 1666,
+        "string": "was"
+      },
+      {
+        "start": 1666,
+        "end": 1667,
+        "string": " "
+      },
+      {
+        "start": 1667,
+        "end": 1680,
+        "string": "outrebounded"
+      },
+      {
+        "start": 1680,
+        "end": 1681,
+        "string": " "
+      },
+      {
+        "start": 1681,
+        "end": 1687,
+        "string": "39-29"
+      },
+      {
+        "start": 1687,
+        "end": 1688,
+        "string": " "
+      },
+      {
+        "start": 1688,
+        "end": 1692,
+        "string": "and"
+      },
+      {
+        "start": 1692,
+        "end": 1693,
+        "string": " "
+      },
+      {
+        "start": 1693,
+        "end": 1699,
+        "string": "never"
+      },
+      {
+        "start": 1699,
+        "end": 1700,
+        "string": " "
+      },
+      {
+        "start": 1700,
+        "end": 1704,
+        "string": "led"
+      },
+      {
+        "start": 1704,
+        "end": 1705,
+        "string": " "
+      },
+      {
+        "start": 1705,
+        "end": 1707,
+        "string": "."
+      },
+      {
+        "start": 1707,
+        "end": 1708,
+        "string": " "
+      },
+      {
+        "start": 1708,
+        "end": 1712,
+        "string": "The"
+      },
+      {
+        "start": 1712,
+        "end": 1713,
+        "string": " "
+      },
+      {
+        "start": 1713,
+        "end": 1722,
+        "string": "Gorillas"
+      },
+      {
+        "start": 1722,
+        "end": 1723,
+        "string": " "
+      },
+      {
+        "start": 1723,
+        "end": 1728,
+        "string": "also"
+      },
+      {
+        "start": 1728,
+        "end": 1729,
+        "string": " "
+      },
+      {
+        "start": 1729,
+        "end": 1733,
+        "string": "had"
+      },
+      {
+        "start": 1733,
+        "end": 1734,
+        "string": " "
+      },
+      {
+        "start": 1734,
+        "end": 1739,
+        "string": "four"
+      },
+      {
+        "start": 1739,
+        "end": 1740,
+        "string": " "
+      },
+      {
+        "start": 1740,
+        "end": 1748,
+        "string": "players"
+      },
+      {
+        "start": 1748,
+        "end": 1749,
+        "string": " "
+      },
+      {
+        "start": 1749,
+        "end": 1754,
+        "string": "foul"
+      },
+      {
+        "start": 1754,
+        "end": 1755,
+        "string": " "
+      },
+      {
+        "start": 1755,
+        "end": 1759,
+        "string": "out"
+      },
+      {
+        "start": 1759,
+        "end": 1760,
+        "string": " "
+      },
+      {
+        "start": 1760,
+        "end": 1762,
+        "string": ","
+      },
+      {
+        "start": 1762,
+        "end": 1763,
+        "string": " "
+      },
+      {
+        "start": 1763,
+        "end": 1773,
+        "string": "including"
+      },
+      {
+        "start": 1773,
+        "end": 1774,
+        "string": " "
+      },
+      {
+        "start": 1774,
+        "end": 1784,
+        "string": "sophomore"
+      },
+      {
+        "start": 1784,
+        "end": 1785,
+        "string": " "
+      },
+      {
+        "start": 1785,
+        "end": 1792,
+        "string": "Janaye"
+      },
+      {
+        "start": 1792,
+        "end": 1793,
+        "string": " "
+      },
+      {
+        "start": 1793,
+        "end": 1800,
+        "string": "Wilkie"
+      },
+      {
+        "start": 1800,
+        "end": 1801,
+        "string": " "
+      },
+      {
+        "start": 1801,
+        "end": 1803,
+        "string": ","
+      },
+      {
+        "start": 1803,
+        "end": 1804,
+        "string": " "
+      },
+      {
+        "start": 1804,
+        "end": 1808,
+        "string": "who"
+      },
+      {
+        "start": 1808,
+        "end": 1809,
+        "string": " "
+      },
+      {
+        "start": 1809,
+        "end": 1816,
+        "string": "picked"
+      },
+      {
+        "start": 1816,
+        "end": 1817,
+        "string": " "
+      },
+      {
+        "start": 1817,
+        "end": 1820,
+        "string": "up"
+      },
+      {
+        "start": 1820,
+        "end": 1821,
+        "string": " "
+      },
+      {
+        "start": 1821,
+        "end": 1825,
+        "string": "her"
+      },
+      {
+        "start": 1825,
+        "end": 1826,
+        "string": " "
+      },
+      {
+        "start": 1826,
+        "end": 1832,
+        "string": "fifth"
+      },
+      {
+        "start": 1832,
+        "end": 1833,
+        "string": " "
+      },
+      {
+        "start": 1833,
+        "end": 1838,
+        "string": "foul"
+      },
+      {
+        "start": 1838,
+        "end": 1839,
+        "string": " "
+      },
+      {
+        "start": 1839,
+        "end": 1844,
+        "string": "with"
+      },
+      {
+        "start": 1844,
+        "end": 1845,
+        "string": " "
+      },
+      {
+        "start": 1845,
+        "end": 1851,
+        "string": "2\u00a01/2"
+      },
+      {
+        "start": 1851,
+        "end": 1852,
+        "string": " "
+      },
+      {
+        "start": 1852,
+        "end": 1860,
+        "string": "minutes"
+      },
+      {
+        "start": 1860,
+        "end": 1861,
+        "string": " "
+      },
+      {
+        "start": 1861,
+        "end": 1866,
+        "string": "left"
+      },
+      {
+        "start": 1866,
+        "end": 1867,
+        "string": " "
+      },
+      {
+        "start": 1867,
+        "end": 1869,
+        "string": ","
+      },
+      {
+        "start": 1869,
+        "end": 1870,
+        "string": " "
+      },
+      {
+        "start": 1870,
+        "end": 1878,
+        "string": "Burnham"
+      },
+      {
+        "start": 1878,
+        "end": 1879,
+        "string": " "
+      },
+      {
+        "start": 1879,
+        "end": 1887,
+        "string": "driving"
+      },
+      {
+        "start": 1887,
+        "end": 1888,
+        "string": " "
+      },
+      {
+        "start": 1888,
+        "end": 1895,
+        "string": "toward"
+      },
+      {
+        "start": 1895,
+        "end": 1896,
+        "string": " "
+      },
+      {
+        "start": 1896,
+        "end": 1900,
+        "string": "the"
+      },
+      {
+        "start": 1900,
+        "end": 1901,
+        "string": " "
+      },
+      {
+        "start": 1901,
+        "end": 1908,
+        "string": "basket"
+      },
+      {
+        "start": 1908,
+        "end": 1909,
+        "string": " "
+      },
+      {
+        "start": 1909,
+        "end": 1911,
+        "string": "."
+      },
+      {
+        "start": 1911,
+        "end": 1912,
+        "string": " "
+      },
+      {
+        "start": 1912,
+        "end": 1919,
+        "string": "Wilkie"
+      },
+      {
+        "start": 1919,
+        "end": 1920,
+        "string": " "
+      },
+      {
+        "start": 1920,
+        "end": 1924,
+        "string": "led"
+      },
+      {
+        "start": 1924,
+        "end": 1925,
+        "string": " "
+      },
+      {
+        "start": 1925,
+        "end": 1935,
+        "string": "Davenport"
+      },
+      {
+        "start": 1935,
+        "end": 1936,
+        "string": " "
+      },
+      {
+        "start": 1936,
+        "end": 1941,
+        "string": "with"
+      },
+      {
+        "start": 1941,
+        "end": 1942,
+        "string": " "
+      },
+      {
+        "start": 1942,
+        "end": 1945,
+        "string": "16"
+      },
+      {
+        "start": 1945,
+        "end": 1946,
+        "string": " "
+      },
+      {
+        "start": 1946,
+        "end": 1953,
+        "string": "points"
+      },
+      {
+        "start": 1953,
+        "end": 1954,
+        "string": " "
+      },
+      {
+        "start": 1954,
+        "end": 1956,
+        "string": "."
+      },
+      {
+        "start": 1956,
+        "end": 1957,
+        "string": " "
+      },
+      {
+        "start": 1957,
+        "end": 1961,
+        "string": "The"
+      },
+      {
+        "start": 1961,
+        "end": 1962,
+        "string": " "
+      },
+      {
+        "start": 1962,
+        "end": 1971,
+        "string": "Gorillas"
+      },
+      {
+        "start": 1971,
+        "end": 1972,
+        "string": " "
+      },
+      {
+        "start": 1972,
+        "end": 1980,
+        "string": "trailed"
+      },
+      {
+        "start": 1980,
+        "end": 1981,
+        "string": " "
+      },
+      {
+        "start": 1981,
+        "end": 1987,
+        "string": "47-40"
+      },
+      {
+        "start": 1987,
+        "end": 1988,
+        "string": " "
+      },
+      {
+        "start": 1988,
+        "end": 1991,
+        "string": "at"
+      },
+      {
+        "start": 1991,
+        "end": 1992,
+        "string": " "
+      },
+      {
+        "start": 1992,
+        "end": 1996,
+        "string": "the"
+      },
+      {
+        "start": 1996,
+        "end": 1997,
+        "string": " "
+      },
+      {
+        "start": 1997,
+        "end": 2002,
+        "string": "time"
+      },
+      {
+        "start": 2002,
+        "end": 2003,
+        "string": " "
+      },
+      {
+        "start": 2003,
+        "end": 2005,
+        "string": "."
+      },
+      {
+        "start": 2005,
+        "end": 2006,
+        "string": " "
+      },
+      {
+        "start": 2006,
+        "end": 2013,
+        "string": "Junior"
+      },
+      {
+        "start": 2013,
+        "end": 2014,
+        "string": " "
+      },
+      {
+        "start": 2014,
+        "end": 2020,
+        "string": "Lainy"
+      },
+      {
+        "start": 2020,
+        "end": 2021,
+        "string": " "
+      },
+      {
+        "start": 2021,
+        "end": 2030,
+        "string": "Jacobsen"
+      },
+      {
+        "start": 2030,
+        "end": 2031,
+        "string": " "
+      },
+      {
+        "start": 2031,
+        "end": 2034,
+        "string": "'s"
+      },
+      {
+        "start": 2034,
+        "end": 2035,
+        "string": " "
+      },
+      {
+        "start": 2035,
+        "end": 2042,
+        "string": "basket"
+      },
+      {
+        "start": 2042,
+        "end": 2043,
+        "string": " "
+      },
+      {
+        "start": 2043,
+        "end": 2047,
+        "string": "got"
+      },
+      {
+        "start": 2047,
+        "end": 2048,
+        "string": " "
+      },
+      {
+        "start": 2048,
+        "end": 2053,
+        "string": "them"
+      },
+      {
+        "start": 2053,
+        "end": 2054,
+        "string": " "
+      },
+      {
+        "start": 2054,
+        "end": 2061,
+        "string": "within"
+      },
+      {
+        "start": 2061,
+        "end": 2062,
+        "string": " "
+      },
+      {
+        "start": 2062,
+        "end": 2067,
+        "string": "five"
+      },
+      {
+        "start": 2067,
+        "end": 2068,
+        "string": " "
+      },
+      {
+        "start": 2068,
+        "end": 2075,
+        "string": "points"
+      },
+      {
+        "start": 2075,
+        "end": 2076,
+        "string": " "
+      },
+      {
+        "start": 2076,
+        "end": 2079,
+        "string": "on"
+      },
+      {
+        "start": 2079,
+        "end": 2080,
+        "string": " "
+      },
+      {
+        "start": 2080,
+        "end": 2084,
+        "string": "the"
+      },
+      {
+        "start": 2084,
+        "end": 2085,
+        "string": " "
+      },
+      {
+        "start": 2085,
+        "end": 2090,
+        "string": "next"
+      },
+      {
+        "start": 2090,
+        "end": 2091,
+        "string": " "
+      },
+      {
+        "start": 2091,
+        "end": 2102,
+        "string": "possession"
+      },
+      {
+        "start": 2102,
+        "end": 2103,
+        "string": " "
+      },
+      {
+        "start": 2103,
+        "end": 2105,
+        "string": ","
+      },
+      {
+        "start": 2105,
+        "end": 2106,
+        "string": " "
+      },
+      {
+        "start": 2106,
+        "end": 2110,
+        "string": "but"
+      },
+      {
+        "start": 2110,
+        "end": 2111,
+        "string": " "
+      },
+      {
+        "start": 2111,
+        "end": 2116,
+        "string": "they"
+      },
+      {
+        "start": 2116,
+        "end": 2117,
+        "string": " "
+      },
+      {
+        "start": 2117,
+        "end": 2123,
+        "string": "never"
+      },
+      {
+        "start": 2123,
+        "end": 2124,
+        "string": " "
+      },
+      {
+        "start": 2124,
+        "end": 2128,
+        "string": "got"
+      },
+      {
+        "start": 2128,
+        "end": 2129,
+        "string": " "
+      },
+      {
+        "start": 2129,
+        "end": 2136,
+        "string": "closer"
+      },
+      {
+        "start": 2136,
+        "end": 2137,
+        "string": " "
+      },
+      {
+        "start": 2137,
+        "end": 2139,
+        "string": "."
+      },
+      {
+        "start": 2139,
+        "end": 2140,
+        "string": " "
+      },
+      {
+        "start": 2140,
+        "end": 2150,
+        "string": "Davenport"
+      },
+      {
+        "start": 2150,
+        "end": 2151,
+        "string": " "
+      },
+      {
+        "start": 2151,
+        "end": 2157,
+        "string": "coach"
+      },
+      {
+        "start": 2157,
+        "end": 2158,
+        "string": " "
+      },
+      {
+        "start": 2158,
+        "end": 2165,
+        "string": "Stacia"
+      },
+      {
+        "start": 2165,
+        "end": 2166,
+        "string": " "
+      },
+      {
+        "start": 2166,
+        "end": 2174,
+        "string": "Soliday"
+      },
+      {
+        "start": 2174,
+        "end": 2175,
+        "string": " "
+      },
+      {
+        "start": 2175,
+        "end": 2180,
+        "string": "said"
+      },
+      {
+        "start": 2180,
+        "end": 2181,
+        "string": " "
+      },
+      {
+        "start": 2181,
+        "end": 2185,
+        "string": "she"
+      },
+      {
+        "start": 2185,
+        "end": 2186,
+        "string": " "
+      },
+      {
+        "start": 2186,
+        "end": 2190,
+        "string": "did"
+      },
+      {
+        "start": 2190,
+        "end": 2191,
+        "string": " "
+      },
+      {
+        "start": 2191,
+        "end": 2195,
+        "string": "n't"
+      },
+      {
+        "start": 2195,
+        "end": 2196,
+        "string": " "
+      },
+      {
+        "start": 2196,
+        "end": 2202,
+        "string": "think"
+      },
+      {
+        "start": 2202,
+        "end": 2203,
+        "string": " "
+      },
+      {
+        "start": 2203,
+        "end": 2207,
+        "string": "her"
+      },
+      {
+        "start": 2207,
+        "end": 2208,
+        "string": " "
+      },
+      {
+        "start": 2208,
+        "end": 2213,
+        "string": "team"
+      },
+      {
+        "start": 2213,
+        "end": 2214,
+        "string": " "
+      },
+      {
+        "start": 2214,
+        "end": 2217,
+        "string": "'s"
+      },
+      {
+        "start": 2217,
+        "end": 2218,
+        "string": " "
+      },
+      {
+        "start": 2218,
+        "end": 2224,
+        "string": "youth"
+      },
+      {
+        "start": 2224,
+        "end": 2225,
+        "string": " "
+      },
+      {
+        "start": 2225,
+        "end": 2229,
+        "string": "was"
+      },
+      {
+        "start": 2229,
+        "end": 2230,
+        "string": " "
+      },
+      {
+        "start": 2230,
+        "end": 2232,
+        "string": "a"
+      },
+      {
+        "start": 2232,
+        "end": 2233,
+        "string": " "
+      },
+      {
+        "start": 2233,
+        "end": 2240,
+        "string": "factor"
+      },
+      {
+        "start": 2240,
+        "end": 2241,
+        "string": " "
+      },
+      {
+        "start": 2241,
+        "end": 2243,
+        "string": ","
+      },
+      {
+        "start": 2243,
+        "end": 2244,
+        "string": " "
+      },
+      {
+        "start": 2244,
+        "end": 2251,
+        "string": "except"
+      },
+      {
+        "start": 2251,
+        "end": 2252,
+        "string": " "
+      },
+      {
+        "start": 2252,
+        "end": 2260,
+        "string": "perhaps"
+      },
+      {
+        "start": 2260,
+        "end": 2261,
+        "string": " "
+      },
+      {
+        "start": 2261,
+        "end": 2264,
+        "string": "at"
+      },
+      {
+        "start": 2264,
+        "end": 2265,
+        "string": " "
+      },
+      {
+        "start": 2265,
+        "end": 2269,
+        "string": "the"
+      },
+      {
+        "start": 2269,
+        "end": 2270,
+        "string": " "
+      },
+      {
+        "start": 2270,
+        "end": 2274,
+        "string": "end"
+      },
+      {
+        "start": 2274,
+        "end": 2275,
+        "string": " "
+      },
+      {
+        "start": 2275,
+        "end": 2277,
+        "string": "."
+      },
+      {
+        "start": 2277,
+        "end": 2278,
+        "string": " "
+      },
+      {
+        "start": 2278,
+        "end": 2280,
+        "string": "\""
+      },
+      {
+        "start": 2280,
+        "end": 2281,
+        "string": " "
+      },
+      {
+        "start": 2281,
+        "end": 2287,
+        "string": "There"
+      },
+      {
+        "start": 2287,
+        "end": 2288,
+        "string": " "
+      },
+      {
+        "start": 2288,
+        "end": 2292,
+        "string": "was"
+      },
+      {
+        "start": 2292,
+        "end": 2293,
+        "string": " "
+      },
+      {
+        "start": 2293,
+        "end": 2298,
+        "string": "some"
+      },
+      {
+        "start": 2298,
+        "end": 2299,
+        "string": " "
+      },
+      {
+        "start": 2299,
+        "end": 2315,
+        "string": "end-of-the-game"
+      },
+      {
+        "start": 2315,
+        "end": 2316,
+        "string": " "
+      },
+      {
+        "start": 2316,
+        "end": 2327,
+        "string": "management"
+      },
+      {
+        "start": 2327,
+        "end": 2328,
+        "string": " "
+      },
+      {
+        "start": 2328,
+        "end": 2333,
+        "string": "that"
+      },
+      {
+        "start": 2333,
+        "end": 2334,
+        "string": " "
+      },
+      {
+        "start": 2334,
+        "end": 2337,
+        "string": "we"
+      },
+      {
+        "start": 2337,
+        "end": 2338,
+        "string": " "
+      },
+      {
+        "start": 2338,
+        "end": 2342,
+        "string": "'re"
+      },
+      {
+        "start": 2342,
+        "end": 2343,
+        "string": " "
+      },
+      {
+        "start": 2343,
+        "end": 2347,
+        "string": "not"
+      },
+      {
+        "start": 2347,
+        "end": 2348,
+        "string": " "
+      },
+      {
+        "start": 2348,
+        "end": 2356,
+        "string": "experts"
+      },
+      {
+        "start": 2356,
+        "end": 2357,
+        "string": " "
+      },
+      {
+        "start": 2357,
+        "end": 2360,
+        "string": "at"
+      },
+      {
+        "start": 2360,
+        "end": 2361,
+        "string": " "
+      },
+      {
+        "start": 2361,
+        "end": 2369,
+        "string": "because"
+      },
+      {
+        "start": 2369,
+        "end": 2370,
+        "string": " "
+      },
+      {
+        "start": 2370,
+        "end": 2373,
+        "string": "we"
+      },
+      {
+        "start": 2373,
+        "end": 2374,
+        "string": " "
+      },
+      {
+        "start": 2374,
+        "end": 2378,
+        "string": "are"
+      },
+      {
+        "start": 2378,
+        "end": 2379,
+        "string": " "
+      },
+      {
+        "start": 2379,
+        "end": 2385,
+        "string": "young"
+      },
+      {
+        "start": 2385,
+        "end": 2386,
+        "string": " "
+      },
+      {
+        "start": 2386,
+        "end": 2388,
+        "string": ","
+      },
+      {
+        "start": 2388,
+        "end": 2389,
+        "string": " "
+      },
+      {
+        "start": 2389,
+        "end": 2391,
+        "string": "\""
+      },
+      {
+        "start": 2391,
+        "end": 2392,
+        "string": " "
+      },
+      {
+        "start": 2392,
+        "end": 2400,
+        "string": "Soliday"
+      },
+      {
+        "start": 2400,
+        "end": 2401,
+        "string": " "
+      },
+      {
+        "start": 2401,
+        "end": 2406,
+        "string": "said"
+      },
+      {
+        "start": 2406,
+        "end": 2407,
+        "string": " "
+      },
+      {
+        "start": 2407,
+        "end": 2409,
+        "string": "."
+      },
+      {
+        "start": 2409,
+        "end": 2410,
+        "string": " "
+      },
+      {
+        "start": 2410,
+        "end": 2418,
+        "string": "Neither"
+      },
+      {
+        "start": 2418,
+        "end": 2419,
+        "string": " "
+      },
+      {
+        "start": 2419,
+        "end": 2424,
+        "string": "team"
+      },
+      {
+        "start": 2424,
+        "end": 2425,
+        "string": " "
+      },
+      {
+        "start": 2425,
+        "end": 2430,
+        "string": "shot"
+      },
+      {
+        "start": 2430,
+        "end": 2431,
+        "string": " "
+      },
+      {
+        "start": 2431,
+        "end": 2437,
+        "string": "above"
+      },
+      {
+        "start": 2437,
+        "end": 2438,
+        "string": " "
+      },
+      {
+        "start": 2438,
+        "end": 2441,
+        "string": "30"
+      },
+      {
+        "start": 2441,
+        "end": 2442,
+        "string": " "
+      },
+      {
+        "start": 2442,
+        "end": 2450,
+        "string": "percent"
+      },
+      {
+        "start": 2450,
+        "end": 2451,
+        "string": " "
+      },
+      {
+        "start": 2451,
+        "end": 2454,
+        "string": "in"
+      },
+      {
+        "start": 2454,
+        "end": 2455,
+        "string": " "
+      },
+      {
+        "start": 2455,
+        "end": 2459,
+        "string": "the"
+      },
+      {
+        "start": 2459,
+        "end": 2460,
+        "string": " "
+      },
+      {
+        "start": 2460,
+        "end": 2466,
+        "string": "first"
+      },
+      {
+        "start": 2466,
+        "end": 2467,
+        "string": " "
+      },
+      {
+        "start": 2467,
+        "end": 2472,
+        "string": "half"
+      },
+      {
+        "start": 2472,
+        "end": 2473,
+        "string": " "
+      },
+      {
+        "start": 2473,
+        "end": 2475,
+        "string": "-"
+      },
+      {
+        "start": 2475,
+        "end": 2476,
+        "string": " "
+      },
+      {
+        "start": 2476,
+        "end": 2484,
+        "string": "Liberty"
+      },
+      {
+        "start": 2484,
+        "end": 2485,
+        "string": " "
+      },
+      {
+        "start": 2485,
+        "end": 2489,
+        "string": "led"
+      },
+      {
+        "start": 2489,
+        "end": 2490,
+        "string": " "
+      },
+      {
+        "start": 2490,
+        "end": 2496,
+        "string": "22-17"
+      },
+      {
+        "start": 2496,
+        "end": 2497,
+        "string": " "
+      },
+      {
+        "start": 2497,
+        "end": 2500,
+        "string": "at"
+      },
+      {
+        "start": 2500,
+        "end": 2501,
+        "string": " "
+      },
+      {
+        "start": 2501,
+        "end": 2505,
+        "string": "the"
+      },
+      {
+        "start": 2505,
+        "end": 2506,
+        "string": " "
+      },
+      {
+        "start": 2506,
+        "end": 2512,
+        "string": "break"
+      },
+      {
+        "start": 2512,
+        "end": 2513,
+        "string": " "
+      },
+      {
+        "start": 2513,
+        "end": 2515,
+        "string": "-"
+      },
+      {
+        "start": 2515,
+        "end": 2516,
+        "string": " "
+      },
+      {
+        "start": 2516,
+        "end": 2520,
+        "string": "but"
+      },
+      {
+        "start": 2520,
+        "end": 2521,
+        "string": " "
+      },
+      {
+        "start": 2521,
+        "end": 2526,
+        "string": "both"
+      },
+      {
+        "start": 2526,
+        "end": 2527,
+        "string": " "
+      },
+      {
+        "start": 2527,
+        "end": 2534,
+        "string": "picked"
+      },
+      {
+        "start": 2534,
+        "end": 2535,
+        "string": " "
+      },
+      {
+        "start": 2535,
+        "end": 2538,
+        "string": "up"
+      },
+      {
+        "start": 2538,
+        "end": 2539,
+        "string": " "
+      },
+      {
+        "start": 2539,
+        "end": 2543,
+        "string": "the"
+      },
+      {
+        "start": 2543,
+        "end": 2544,
+        "string": " "
+      },
+      {
+        "start": 2544,
+        "end": 2549,
+        "string": "pace"
+      },
+      {
+        "start": 2549,
+        "end": 2550,
+        "string": " "
+      },
+      {
+        "start": 2550,
+        "end": 2553,
+        "string": "in"
+      },
+      {
+        "start": 2553,
+        "end": 2554,
+        "string": " "
+      },
+      {
+        "start": 2554,
+        "end": 2558,
+        "string": "the"
+      },
+      {
+        "start": 2558,
+        "end": 2559,
+        "string": " "
+      },
+      {
+        "start": 2559,
+        "end": 2566,
+        "string": "second"
+      },
+      {
+        "start": 2566,
+        "end": 2567,
+        "string": " "
+      },
+      {
+        "start": 2567,
+        "end": 2569,
+        "string": "."
+      },
+      {
+        "start": 2569,
+        "end": 2570,
+        "string": " "
+      },
+      {
+        "start": 2570,
+        "end": 2578,
+        "string": "Liberty"
+      },
+      {
+        "start": 2578,
+        "end": 2579,
+        "string": " "
+      },
+      {
+        "start": 2579,
+        "end": 2581,
+        "string": "("
+      },
+      {
+        "start": 2581,
+        "end": 2582,
+        "string": " "
+      },
+      {
+        "start": 2582,
+        "end": 2587,
+        "string": "22-4"
+      },
+      {
+        "start": 2587,
+        "end": 2588,
+        "string": " "
+      },
+      {
+        "start": 2588,
+        "end": 2590,
+        "string": ")"
+      },
+      {
+        "start": 2590,
+        "end": 2591,
+        "string": " "
+      },
+      {
+        "start": 2591,
+        "end": 2598,
+        "string": "pushed"
+      },
+      {
+        "start": 2598,
+        "end": 2599,
+        "string": " "
+      },
+      {
+        "start": 2599,
+        "end": 2603,
+        "string": "its"
+      },
+      {
+        "start": 2603,
+        "end": 2604,
+        "string": " "
+      },
+      {
+        "start": 2604,
+        "end": 2609,
+        "string": "lead"
+      },
+      {
+        "start": 2609,
+        "end": 2610,
+        "string": " "
+      },
+      {
+        "start": 2610,
+        "end": 2613,
+        "string": "to"
+      },
+      {
+        "start": 2613,
+        "end": 2614,
+        "string": " "
+      },
+      {
+        "start": 2614,
+        "end": 2621,
+        "string": "double"
+      },
+      {
+        "start": 2621,
+        "end": 2622,
+        "string": " "
+      },
+      {
+        "start": 2622,
+        "end": 2629,
+        "string": "digits"
+      },
+      {
+        "start": 2629,
+        "end": 2630,
+        "string": " "
+      },
+      {
+        "start": 2630,
+        "end": 2636,
+        "string": "early"
+      },
+      {
+        "start": 2636,
+        "end": 2637,
+        "string": " "
+      },
+      {
+        "start": 2637,
+        "end": 2640,
+        "string": "in"
+      },
+      {
+        "start": 2640,
+        "end": 2641,
+        "string": " "
+      },
+      {
+        "start": 2641,
+        "end": 2645,
+        "string": "the"
+      },
+      {
+        "start": 2645,
+        "end": 2646,
+        "string": " "
+      },
+      {
+        "start": 2646,
+        "end": 2652,
+        "string": "third"
+      },
+      {
+        "start": 2652,
+        "end": 2653,
+        "string": " "
+      },
+      {
+        "start": 2653,
+        "end": 2661,
+        "string": "quarter"
+      },
+      {
+        "start": 2661,
+        "end": 2662,
+        "string": " "
+      },
+      {
+        "start": 2662,
+        "end": 2664,
+        "string": "."
+      },
+      {
+        "start": 2664,
+        "end": 2665,
+        "string": " "
+      },
+      {
+        "start": 2665,
+        "end": 2673,
+        "string": "Burnham"
+      },
+      {
+        "start": 2673,
+        "end": 2674,
+        "string": " "
+      },
+      {
+        "start": 2674,
+        "end": 2681,
+        "string": "picked"
+      },
+      {
+        "start": 2681,
+        "end": 2682,
+        "string": " "
+      },
+      {
+        "start": 2682,
+        "end": 2685,
+        "string": "up"
+      },
+      {
+        "start": 2685,
+        "end": 2686,
+        "string": " "
+      },
+      {
+        "start": 2686,
+        "end": 2690,
+        "string": "her"
+      },
+      {
+        "start": 2690,
+        "end": 2691,
+        "string": " "
+      },
+      {
+        "start": 2691,
+        "end": 2698,
+        "string": "fourth"
+      },
+      {
+        "start": 2698,
+        "end": 2699,
+        "string": " "
+      },
+      {
+        "start": 2699,
+        "end": 2704,
+        "string": "foul"
+      },
+      {
+        "start": 2704,
+        "end": 2705,
+        "string": " "
+      },
+      {
+        "start": 2705,
+        "end": 2710,
+        "string": "with"
+      },
+      {
+        "start": 2710,
+        "end": 2711,
+        "string": " "
+      },
+      {
+        "start": 2711,
+        "end": 2717,
+        "string": "1\u00a01/2"
+      },
+      {
+        "start": 2717,
+        "end": 2718,
+        "string": " "
+      },
+      {
+        "start": 2718,
+        "end": 2726,
+        "string": "minutes"
+      },
+      {
+        "start": 2726,
+        "end": 2727,
+        "string": " "
+      },
+      {
+        "start": 2727,
+        "end": 2732,
+        "string": "left"
+      },
+      {
+        "start": 2732,
+        "end": 2733,
+        "string": " "
+      },
+      {
+        "start": 2733,
+        "end": 2736,
+        "string": "in"
+      },
+      {
+        "start": 2736,
+        "end": 2737,
+        "string": " "
+      },
+      {
+        "start": 2737,
+        "end": 2741,
+        "string": "the"
+      },
+      {
+        "start": 2741,
+        "end": 2742,
+        "string": " "
+      },
+      {
+        "start": 2742,
+        "end": 2750,
+        "string": "quarter"
+      },
+      {
+        "start": 2750,
+        "end": 2751,
+        "string": " "
+      },
+      {
+        "start": 2751,
+        "end": 2753,
+        "string": ","
+      },
+      {
+        "start": 2753,
+        "end": 2754,
+        "string": " "
+      },
+      {
+        "start": 2754,
+        "end": 2758,
+        "string": "the"
+      },
+      {
+        "start": 2758,
+        "end": 2759,
+        "string": " "
+      },
+      {
+        "start": 2759,
+        "end": 2767,
+        "string": "Lancers"
+      },
+      {
+        "start": 2767,
+        "end": 2768,
+        "string": " "
+      },
+      {
+        "start": 2768,
+        "end": 2774,
+        "string": "ahead"
+      },
+      {
+        "start": 2774,
+        "end": 2775,
+        "string": " "
+      },
+      {
+        "start": 2775,
+        "end": 2781,
+        "string": "37-28"
+      },
+      {
+        "start": 2781,
+        "end": 2782,
+        "string": " "
+      },
+      {
+        "start": 2782,
+        "end": 2784,
+        "string": "."
+      },
+      {
+        "start": 2784,
+        "end": 2785,
+        "string": " "
+      },
+      {
+        "start": 2785,
+        "end": 2789,
+        "string": "She"
+      },
+      {
+        "start": 2789,
+        "end": 2790,
+        "string": " "
+      },
+      {
+        "start": 2790,
+        "end": 2794,
+        "string": "sat"
+      },
+      {
+        "start": 2794,
+        "end": 2795,
+        "string": " "
+      },
+      {
+        "start": 2795,
+        "end": 2799,
+        "string": "the"
+      },
+      {
+        "start": 2799,
+        "end": 2800,
+        "string": " "
+      },
+      {
+        "start": 2800,
+        "end": 2805,
+        "string": "rest"
+      },
+      {
+        "start": 2805,
+        "end": 2806,
+        "string": " "
+      },
+      {
+        "start": 2806,
+        "end": 2809,
+        "string": "of"
+      },
+      {
+        "start": 2809,
+        "end": 2810,
+        "string": " "
+      },
+      {
+        "start": 2810,
+        "end": 2814,
+        "string": "the"
+      },
+      {
+        "start": 2814,
+        "end": 2815,
+        "string": " "
+      },
+      {
+        "start": 2815,
+        "end": 2823,
+        "string": "quarter"
+      },
+      {
+        "start": 2823,
+        "end": 2824,
+        "string": " "
+      },
+      {
+        "start": 2824,
+        "end": 2828,
+        "string": "but"
+      },
+      {
+        "start": 2828,
+        "end": 2829,
+        "string": " "
+      },
+      {
+        "start": 2829,
+        "end": 2836,
+        "string": "played"
+      },
+      {
+        "start": 2836,
+        "end": 2837,
+        "string": " "
+      },
+      {
+        "start": 2837,
+        "end": 2841,
+        "string": "all"
+      },
+      {
+        "start": 2841,
+        "end": 2842,
+        "string": " "
+      },
+      {
+        "start": 2842,
+        "end": 2845,
+        "string": "of"
+      },
+      {
+        "start": 2845,
+        "end": 2846,
+        "string": " "
+      },
+      {
+        "start": 2846,
+        "end": 2850,
+        "string": "the"
+      },
+      {
+        "start": 2850,
+        "end": 2851,
+        "string": " "
+      },
+      {
+        "start": 2851,
+        "end": 2858,
+        "string": "fourth"
+      },
+      {
+        "start": 2858,
+        "end": 2859,
+        "string": " "
+      },
+      {
+        "start": 2859,
+        "end": 2864,
+        "string": "with"
+      },
+      {
+        "start": 2864,
+        "end": 2865,
+        "string": " "
+      },
+      {
+        "start": 2865,
+        "end": 2871,
+        "string": "those"
+      },
+      {
+        "start": 2871,
+        "end": 2872,
+        "string": " "
+      },
+      {
+        "start": 2872,
+        "end": 2877,
+        "string": "four"
+      },
+      {
+        "start": 2877,
+        "end": 2878,
+        "string": " "
+      },
+      {
+        "start": 2878,
+        "end": 2884,
+        "string": "fouls"
+      },
+      {
+        "start": 2884,
+        "end": 2885,
+        "string": " "
+      },
+      {
+        "start": 2885,
+        "end": 2887,
+        "string": "."
+      },
+      {
+        "start": 2887,
+        "end": 2888,
+        "string": " "
+      },
+      {
+        "start": 2888,
+        "end": 2890,
+        "string": "\""
+      },
+      {
+        "start": 2890,
+        "end": 2891,
+        "string": " "
+      },
+      {
+        "start": 2891,
+        "end": 2893,
+        "string": "I"
+      },
+      {
+        "start": 2893,
+        "end": 2894,
+        "string": " "
+      },
+      {
+        "start": 2894,
+        "end": 2900,
+        "string": "trust"
+      },
+      {
+        "start": 2900,
+        "end": 2901,
+        "string": " "
+      },
+      {
+        "start": 2901,
+        "end": 2908,
+        "string": "Maisie"
+      },
+      {
+        "start": 2908,
+        "end": 2909,
+        "string": " "
+      },
+      {
+        "start": 2909,
+        "end": 2912,
+        "string": "to"
+      },
+      {
+        "start": 2912,
+        "end": 2913,
+        "string": " "
+      },
+      {
+        "start": 2913,
+        "end": 2916,
+        "string": "go"
+      },
+      {
+        "start": 2916,
+        "end": 2917,
+        "string": " "
+      },
+      {
+        "start": 2917,
+        "end": 2921,
+        "string": "out"
+      },
+      {
+        "start": 2921,
+        "end": 2922,
+        "string": " "
+      },
+      {
+        "start": 2922,
+        "end": 2928,
+        "string": "there"
+      },
+      {
+        "start": 2928,
+        "end": 2929,
+        "string": " "
+      },
+      {
+        "start": 2929,
+        "end": 2933,
+        "string": "and"
+      },
+      {
+        "start": 2933,
+        "end": 2934,
+        "string": " "
+      },
+      {
+        "start": 2934,
+        "end": 2939,
+        "string": "play"
+      },
+      {
+        "start": 2939,
+        "end": 2940,
+        "string": " "
+      },
+      {
+        "start": 2940,
+        "end": 2944,
+        "string": "the"
+      },
+      {
+        "start": 2944,
+        "end": 2945,
+        "string": " "
+      },
+      {
+        "start": 2945,
+        "end": 2950,
+        "string": "game"
+      },
+      {
+        "start": 2950,
+        "end": 2951,
+        "string": " "
+      },
+      {
+        "start": 2951,
+        "end": 2955,
+        "string": "the"
+      },
+      {
+        "start": 2955,
+        "end": 2956,
+        "string": " "
+      },
+      {
+        "start": 2956,
+        "end": 2960,
+        "string": "way"
+      },
+      {
+        "start": 2960,
+        "end": 2961,
+        "string": " "
+      },
+      {
+        "start": 2961,
+        "end": 2966,
+        "string": "that"
+      },
+      {
+        "start": 2966,
+        "end": 2967,
+        "string": " "
+      },
+      {
+        "start": 2967,
+        "end": 2971,
+        "string": "she"
+      },
+      {
+        "start": 2971,
+        "end": 2972,
+        "string": " "
+      },
+      {
+        "start": 2972,
+        "end": 2978,
+        "string": "knows"
+      },
+      {
+        "start": 2978,
+        "end": 2979,
+        "string": " "
+      },
+      {
+        "start": 2979,
+        "end": 2983,
+        "string": "she"
+      },
+      {
+        "start": 2983,
+        "end": 2984,
+        "string": " "
+      },
+      {
+        "start": 2984,
+        "end": 2991,
+        "string": "should"
+      },
+      {
+        "start": 2991,
+        "end": 2992,
+        "string": " "
+      },
+      {
+        "start": 2992,
+        "end": 2995,
+        "string": "be"
+      },
+      {
+        "start": 2995,
+        "end": 2996,
+        "string": " "
+      },
+      {
+        "start": 2996,
+        "end": 3004,
+        "string": "playing"
+      },
+      {
+        "start": 3004,
+        "end": 3005,
+        "string": " "
+      },
+      {
+        "start": 3005,
+        "end": 3009,
+        "string": "and"
+      },
+      {
+        "start": 3009,
+        "end": 3010,
+        "string": " "
+      },
+      {
+        "start": 3010,
+        "end": 3014,
+        "string": "not"
+      },
+      {
+        "start": 3014,
+        "end": 3015,
+        "string": " "
+      },
+      {
+        "start": 3015,
+        "end": 3020,
+        "string": "make"
+      },
+      {
+        "start": 3020,
+        "end": 3021,
+        "string": " "
+      },
+      {
+        "start": 3021,
+        "end": 3027,
+        "string": "silly"
+      },
+      {
+        "start": 3027,
+        "end": 3028,
+        "string": " "
+      },
+      {
+        "start": 3028,
+        "end": 3037,
+        "string": "mistakes"
+      },
+      {
+        "start": 3037,
+        "end": 3038,
+        "string": " "
+      },
+      {
+        "start": 3038,
+        "end": 3040,
+        "string": ","
+      },
+      {
+        "start": 3040,
+        "end": 3041,
+        "string": " "
+      },
+      {
+        "start": 3041,
+        "end": 3043,
+        "string": "\""
+      },
+      {
+        "start": 3043,
+        "end": 3044,
+        "string": " "
+      },
+      {
+        "start": 3044,
+        "end": 3051,
+        "string": "Colvin"
+      },
+      {
+        "start": 3051,
+        "end": 3052,
+        "string": " "
+      },
+      {
+        "start": 3052,
+        "end": 3057,
+        "string": "said"
+      },
+      {
+        "start": 3057,
+        "end": 3058,
+        "string": " "
+      },
+      {
+        "start": 3058,
+        "end": 3060,
+        "string": "."
+      },
+      {
+        "start": 3060,
+        "end": 3061,
+        "string": " "
+      },
+      {
+        "start": 3061,
+        "end": 3069,
+        "string": "Liberty"
+      },
+      {
+        "start": 3069,
+        "end": 3070,
+        "string": " "
+      },
+      {
+        "start": 3070,
+        "end": 3077,
+        "string": "pushed"
+      },
+      {
+        "start": 3077,
+        "end": 3078,
+        "string": " "
+      },
+      {
+        "start": 3078,
+        "end": 3082,
+        "string": "its"
+      },
+      {
+        "start": 3082,
+        "end": 3083,
+        "string": " "
+      },
+      {
+        "start": 3083,
+        "end": 3088,
+        "string": "lead"
+      },
+      {
+        "start": 3088,
+        "end": 3089,
+        "string": " "
+      },
+      {
+        "start": 3089,
+        "end": 3092,
+        "string": "to"
+      },
+      {
+        "start": 3092,
+        "end": 3093,
+        "string": " "
+      },
+      {
+        "start": 3093,
+        "end": 3096,
+        "string": "as"
+      },
+      {
+        "start": 3096,
+        "end": 3097,
+        "string": " "
+      },
+      {
+        "start": 3097,
+        "end": 3102,
+        "string": "many"
+      },
+      {
+        "start": 3102,
+        "end": 3103,
+        "string": " "
+      },
+      {
+        "start": 3103,
+        "end": 3106,
+        "string": "as"
+      },
+      {
+        "start": 3106,
+        "end": 3107,
+        "string": " "
+      },
+      {
+        "start": 3107,
+        "end": 3110,
+        "string": "12"
+      },
+      {
+        "start": 3110,
+        "end": 3111,
+        "string": " "
+      },
+      {
+        "start": 3111,
+        "end": 3114,
+        "string": "in"
+      },
+      {
+        "start": 3114,
+        "end": 3115,
+        "string": " "
+      },
+      {
+        "start": 3115,
+        "end": 3119,
+        "string": "the"
+      },
+      {
+        "start": 3119,
+        "end": 3120,
+        "string": " "
+      },
+      {
+        "start": 3120,
+        "end": 3127,
+        "string": "fourth"
+      },
+      {
+        "start": 3127,
+        "end": 3128,
+        "string": " "
+      },
+      {
+        "start": 3128,
+        "end": 3136,
+        "string": "quarter"
+      },
+      {
+        "start": 3136,
+        "end": 3137,
+        "string": " "
+      },
+      {
+        "start": 3137,
+        "end": 3139,
+        "string": "."
+      },
+      {
+        "start": 3139,
+        "end": 3140,
+        "string": " "
+      },
+      {
+        "start": 3140,
+        "end": 3151,
+        "string": "Sophomores"
+      },
+      {
+        "start": 3151,
+        "end": 3152,
+        "string": " "
+      },
+      {
+        "start": 3152,
+        "end": 3158,
+        "string": "Ellie"
+      },
+      {
+        "start": 3158,
+        "end": 3159,
+        "string": " "
+      },
+      {
+        "start": 3159,
+        "end": 3167,
+        "string": "Telford"
+      },
+      {
+        "start": 3167,
+        "end": 3168,
+        "string": " "
+      },
+      {
+        "start": 3168,
+        "end": 3172,
+        "string": "and"
+      },
+      {
+        "start": 3172,
+        "end": 3173,
+        "string": " "
+      },
+      {
+        "start": 3173,
+        "end": 3179,
+        "string": "Darby"
+      },
+      {
+        "start": 3179,
+        "end": 3180,
+        "string": " "
+      },
+      {
+        "start": 3180,
+        "end": 3188,
+        "string": "Soliday"
+      },
+      {
+        "start": 3188,
+        "end": 3189,
+        "string": " "
+      },
+      {
+        "start": 3189,
+        "end": 3196,
+        "string": "scored"
+      },
+      {
+        "start": 3196,
+        "end": 3197,
+        "string": " "
+      },
+      {
+        "start": 3197,
+        "end": 3200,
+        "string": "11"
+      },
+      {
+        "start": 3200,
+        "end": 3201,
+        "string": " "
+      },
+      {
+        "start": 3201,
+        "end": 3208,
+        "string": "apiece"
+      },
+      {
+        "start": 3208,
+        "end": 3209,
+        "string": " "
+      },
+      {
+        "start": 3209,
+        "end": 3213,
+        "string": "for"
+      },
+      {
+        "start": 3213,
+        "end": 3214,
+        "string": " "
+      },
+      {
+        "start": 3214,
+        "end": 3218,
+        "string": "the"
+      },
+      {
+        "start": 3218,
+        "end": 3219,
+        "string": " "
+      },
+      {
+        "start": 3219,
+        "end": 3228,
+        "string": "Gorillas"
+      },
+      {
+        "start": 3228,
+        "end": 3229,
+        "string": " "
+      },
+      {
+        "start": 3229,
+        "end": 3231,
+        "string": ","
+      },
+      {
+        "start": 3231,
+        "end": 3232,
+        "string": " "
+      },
+      {
+        "start": 3232,
+        "end": 3236,
+        "string": "who"
+      },
+      {
+        "start": 3236,
+        "end": 3237,
+        "string": " "
+      },
+      {
+        "start": 3237,
+        "end": 3242,
+        "string": "will"
+      },
+      {
+        "start": 3242,
+        "end": 3243,
+        "string": " "
+      },
+      {
+        "start": 3243,
+        "end": 3248,
+        "string": "play"
+      },
+      {
+        "start": 3248,
+        "end": 3249,
+        "string": " "
+      },
+      {
+        "start": 3249,
+        "end": 3251,
+        "string": "a"
+      },
+      {
+        "start": 3251,
+        "end": 3252,
+        "string": " "
+      },
+      {
+        "start": 3252,
+        "end": 3262,
+        "string": "loser-out"
+      },
+      {
+        "start": 3262,
+        "end": 3263,
+        "string": " "
+      },
+      {
+        "start": 3263,
+        "end": 3268,
+        "string": "game"
+      },
+      {
+        "start": 3268,
+        "end": 3269,
+        "string": " "
+      },
+      {
+        "start": 3269,
+        "end": 3277,
+        "string": "against"
+      },
+      {
+        "start": 3277,
+        "end": 3278,
+        "string": " "
+      },
+      {
+        "start": 3278,
+        "end": 3281,
+        "string": "at"
+      },
+      {
+        "start": 3281,
+        "end": 3282,
+        "string": " "
+      },
+      {
+        "start": 3282,
+        "end": 3288,
+        "string": "12:15"
+      },
+      {
+        "start": 3288,
+        "end": 3289,
+        "string": " "
+      },
+      {
+        "start": 3289,
+        "end": 3294,
+        "string": "p.m."
+      },
+      {
+        "start": 3294,
+        "end": 3295,
+        "string": " "
+      },
+      {
+        "start": 3295,
+        "end": 3302,
+        "string": "Friday"
+      },
+      {
+        "start": 3302,
+        "end": 3303,
+        "string": " "
+      },
+      {
+        "start": 3303,
+        "end": 3305,
+        "string": "."
+      },
+      {
+        "start": 3305,
+        "end": 3306,
+        "string": " "
+      }
+    ]
+  }
+}

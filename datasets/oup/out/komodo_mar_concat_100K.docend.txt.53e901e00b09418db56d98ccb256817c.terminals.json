@@ -1,0 +1,21 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "53e901e00b09418db56d98ccb256817c.doc",
+  "id": "53e901e00b09418db56d98ccb256817c.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "53e901e00b09418db56d98ccb256817c.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 137,
+        "string": "https://www.belfasttelegraph.co.uk/sport/football/article37869521.ece/ad8b3/AUTOCROP/h342/bpanews_54af72fb-a1b3-4994-ae43-2ea1bbd1ef8c_1"
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      }
+    ]
+  }
+}

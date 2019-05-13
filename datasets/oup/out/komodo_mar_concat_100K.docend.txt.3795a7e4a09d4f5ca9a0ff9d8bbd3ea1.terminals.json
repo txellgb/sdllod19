@@ -1,0 +1,811 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "3795a7e4a09d4f5ca9a0ff9d8bbd3ea1.doc",
+  "id": "3795a7e4a09d4f5ca9a0ff9d8bbd3ea1.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "3795a7e4a09d4f5ca9a0ff9d8bbd3ea1.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 7,
+        "string": "BUENOS"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "string": "AIRES"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "string": "("
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "string": " "
+      },
+      {
+        "start": 18,
+        "end": 26,
+        "string": "Reuters"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "string": " "
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "string": ")"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "string": " "
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "string": "-"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 43,
+        "string": "Argentine"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 54,
+        "string": "President"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 64,
+        "string": "Mauricio"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "string": "Macri"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "string": "said"
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "string": " "
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "string": "on"
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "string": " "
+      },
+      {
+        "start": 82,
+        "end": 89,
+        "string": "Friday"
+      },
+      {
+        "start": 89,
+        "end": 90,
+        "string": " "
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "string": "he"
+      },
+      {
+        "start": 93,
+        "end": 94,
+        "string": " "
+      },
+      {
+        "start": 94,
+        "end": 99,
+        "string": "will"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 109,
+        "string": "increase"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 120,
+        "string": "subsidies"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 125,
+        "string": "for"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 131,
+        "string": "poor"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 141,
+        "string": "families"
+      },
+      {
+        "start": 141,
+        "end": 142,
+        "string": " "
+      },
+      {
+        "start": 142,
+        "end": 147,
+        "string": "with"
+      },
+      {
+        "start": 147,
+        "end": 148,
+        "string": " "
+      },
+      {
+        "start": 148,
+        "end": 157,
+        "string": "children"
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "string": " "
+      },
+      {
+        "start": 158,
+        "end": 161,
+        "string": "by"
+      },
+      {
+        "start": 161,
+        "end": 162,
+        "string": " "
+      },
+      {
+        "start": 162,
+        "end": 165,
+        "string": "46"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 174,
+        "string": "percent"
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 177,
+        "string": ","
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 181,
+        "string": "as"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "string": " "
+      },
+      {
+        "start": 182,
+        "end": 186,
+        "string": "the"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "string": " "
+      },
+      {
+        "start": 187,
+        "end": 200,
+        "string": "centre-right"
+      },
+      {
+        "start": 200,
+        "end": 201,
+        "string": " "
+      },
+      {
+        "start": 201,
+        "end": 208,
+        "string": "leader"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 218,
+        "string": "prepares"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 222,
+        "string": "to"
+      },
+      {
+        "start": 222,
+        "end": 223,
+        "string": " "
+      },
+      {
+        "start": 223,
+        "end": 227,
+        "string": "run"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 232,
+        "string": "for"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 235,
+        "string": "a"
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      },
+      {
+        "start": 236,
+        "end": 243,
+        "string": "second"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 249,
+        "string": "term"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 253,
+        "string": "in"
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 262,
+        "string": "October"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 265,
+        "string": "."
+      },
+      {
+        "start": 265,
+        "end": 266,
+        "string": " "
+      },
+      {
+        "start": 266,
+        "end": 269,
+        "string": "In"
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 274,
+        "string": "his"
+      },
+      {
+        "start": 274,
+        "end": 275,
+        "string": " "
+      },
+      {
+        "start": 275,
+        "end": 282,
+        "string": "annual"
+      },
+      {
+        "start": 282,
+        "end": 283,
+        "string": " "
+      },
+      {
+        "start": 283,
+        "end": 289,
+        "string": "State"
+      },
+      {
+        "start": 289,
+        "end": 290,
+        "string": " "
+      },
+      {
+        "start": 290,
+        "end": 293,
+        "string": "of"
+      },
+      {
+        "start": 293,
+        "end": 294,
+        "string": " "
+      },
+      {
+        "start": 294,
+        "end": 298,
+        "string": "the"
+      },
+      {
+        "start": 298,
+        "end": 299,
+        "string": " "
+      },
+      {
+        "start": 299,
+        "end": 305,
+        "string": "Union"
+      },
+      {
+        "start": 305,
+        "end": 306,
+        "string": " "
+      },
+      {
+        "start": 306,
+        "end": 314,
+        "string": "address"
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 318,
+        "string": "to"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 328,
+        "string": "Congress"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 331,
+        "string": ","
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 338,
+        "string": "Macri"
+      },
+      {
+        "start": 338,
+        "end": 339,
+        "string": " "
+      },
+      {
+        "start": 339,
+        "end": 345,
+        "string": "vowed"
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 349,
+        "string": "to"
+      },
+      {
+        "start": 349,
+        "end": 350,
+        "string": " "
+      },
+      {
+        "start": 350,
+        "end": 359,
+        "string": "continue"
+      },
+      {
+        "start": 359,
+        "end": 360,
+        "string": " "
+      },
+      {
+        "start": 360,
+        "end": 364,
+        "string": "his"
+      },
+      {
+        "start": 364,
+        "end": 365,
+        "string": " "
+      },
+      {
+        "start": 365,
+        "end": 375,
+        "string": "programme"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 379,
+        "string": "of"
+      },
+      {
+        "start": 379,
+        "end": 380,
+        "string": " "
+      },
+      {
+        "start": 380,
+        "end": 400,
+        "string": "investment-friendly"
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 409,
+        "string": "reforms"
+      },
+      {
+        "start": 409,
+        "end": 410,
+        "string": " "
+      },
+      {
+        "start": 410,
+        "end": 418,
+        "string": "despite"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 425,
+        "string": "being"
+      },
+      {
+        "start": 425,
+        "end": 426,
+        "string": " "
+      },
+      {
+        "start": 426,
+        "end": 433,
+        "string": "jeered"
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 437,
+        "string": "by"
+      },
+      {
+        "start": 437,
+        "end": 438,
+        "string": " "
+      },
+      {
+        "start": 438,
+        "end": 449,
+        "string": "opposition"
+      },
+      {
+        "start": 449,
+        "end": 450,
+        "string": " "
+      },
+      {
+        "start": 450,
+        "end": 460,
+        "string": "lawmakers"
+      },
+      {
+        "start": 460,
+        "end": 461,
+        "string": " "
+      },
+      {
+        "start": 461,
+        "end": 465,
+        "string": "who"
+      },
+      {
+        "start": 465,
+        "end": 466,
+        "string": " "
+      },
+      {
+        "start": 466,
+        "end": 473,
+        "string": "favour"
+      },
+      {
+        "start": 473,
+        "end": 474,
+        "string": " "
+      },
+      {
+        "start": 474,
+        "end": 476,
+        "string": "a"
+      },
+      {
+        "start": 476,
+        "end": 477,
+        "string": " "
+      },
+      {
+        "start": 477,
+        "end": 484,
+        "string": "bigger"
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 496,
+        "string": "government"
+      },
+      {
+        "start": 496,
+        "end": 497,
+        "string": " "
+      },
+      {
+        "start": 497,
+        "end": 502,
+        "string": "role"
+      },
+      {
+        "start": 502,
+        "end": 503,
+        "string": " "
+      },
+      {
+        "start": 503,
+        "end": 506,
+        "string": "in"
+      },
+      {
+        "start": 506,
+        "end": 507,
+        "string": " "
+      },
+      {
+        "start": 507,
+        "end": 513,
+        "string": "Latin"
+      },
+      {
+        "start": 513,
+        "end": 514,
+        "string": " "
+      },
+      {
+        "start": 514,
+        "end": 522,
+        "string": "America"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 526,
+        "string": "'s"
+      },
+      {
+        "start": 526,
+        "end": 527,
+        "string": " "
+      },
+      {
+        "start": 527,
+        "end": 533,
+        "string": "third"
+      },
+      {
+        "start": 533,
+        "end": 534,
+        "string": " "
+      },
+      {
+        "start": 534,
+        "end": 542,
+        "string": "largest"
+      },
+      {
+        "start": 542,
+        "end": 543,
+        "string": " "
+      },
+      {
+        "start": 543,
+        "end": 551,
+        "string": "economy"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 554,
+        "string": "."
+      },
+      {
+        "start": 554,
+        "end": 555,
+        "string": " "
+      }
+    ]
+  }
+}

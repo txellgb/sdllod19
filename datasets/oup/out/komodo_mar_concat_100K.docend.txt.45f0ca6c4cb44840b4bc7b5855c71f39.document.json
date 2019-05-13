@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "45f0ca6c4cb44840b4bc7b5855c71f39.doc",
+  "metadata": {
+    "title": "NBA: Harden scores 58 points, Rockets beat Heat 121-118",
+    "sourceUrl": "https://www.yenisafak.com/en/sports/nba-harden-scores-58-points-rockets-beat-heat-121-118-3475724",
+    "documentSource": "yenisafak.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

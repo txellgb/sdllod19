@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "970d7cb6303b494b869443d5f89db68c.doc",
+  "metadata": {
+    "title": "So Fit for Mars It's Like Being There",
+    "sourceUrl": "http://www.marsdaily.com/reports/So_Fit_for_Mars_Its_Like_Being_There_999.html",
+    "documentSource": "marsdaily.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

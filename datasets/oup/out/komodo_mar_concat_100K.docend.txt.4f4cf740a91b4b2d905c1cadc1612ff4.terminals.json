@@ -1,0 +1,621 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "4f4cf740a91b4b2d905c1cadc1612ff4.doc",
+  "id": "4f4cf740a91b4b2d905c1cadc1612ff4.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "4f4cf740a91b4b2d905c1cadc1612ff4.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 7,
+        "string": "GOSHEN"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "string": "--"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "string": " "
+      },
+      {
+        "start": 12,
+        "end": 23,
+        "string": "Elementary"
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "string": "school"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "string": " "
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "string": "students"
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "string": " "
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "string": "in"
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "string": " "
+      },
+      {
+        "start": 46,
+        "end": 53,
+        "string": "Region"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "string": "6"
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "string": "came"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "string": "together"
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 80,
+        "string": "Friday"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "string": "not"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "string": "only"
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 95,
+        "string": "to"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 106,
+        "string": "celebrate"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 112,
+        "string": "Read"
+      },
+      {
+        "start": 112,
+        "end": 113,
+        "string": " "
+      },
+      {
+        "start": 113,
+        "end": 120,
+        "string": "Across"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 129,
+        "string": "America"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 134,
+        "string": "Day"
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "string": " "
+      },
+      {
+        "start": 135,
+        "end": 139,
+        "string": "and"
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "string": " "
+      },
+      {
+        "start": 140,
+        "end": 144,
+        "string": "the"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 154,
+        "string": "birthday"
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 158,
+        "string": "of"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 163,
+        "string": "the"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 169,
+        "string": "late"
+      },
+      {
+        "start": 169,
+        "end": 170,
+        "string": " "
+      },
+      {
+        "start": 170,
+        "end": 174,
+        "string": "Dr."
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 181,
+        "string": "Seuss"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "string": " "
+      },
+      {
+        "start": 182,
+        "end": 184,
+        "string": ","
+      },
+      {
+        "start": 184,
+        "end": 185,
+        "string": " "
+      },
+      {
+        "start": 185,
+        "end": 189,
+        "string": "but"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 195,
+        "string": "also"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 199,
+        "string": "to"
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 206,
+        "string": "renew"
+      },
+      {
+        "start": 206,
+        "end": 207,
+        "string": " "
+      },
+      {
+        "start": 207,
+        "end": 219,
+        "string": "friendships"
+      },
+      {
+        "start": 219,
+        "end": 220,
+        "string": " "
+      },
+      {
+        "start": 220,
+        "end": 225,
+        "string": "they"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 230,
+        "string": "'ve"
+      },
+      {
+        "start": 230,
+        "end": 231,
+        "string": " "
+      },
+      {
+        "start": 231,
+        "end": 241,
+        "string": "developed"
+      },
+      {
+        "start": 241,
+        "end": 242,
+        "string": " "
+      },
+      {
+        "start": 242,
+        "end": 247,
+        "string": "over"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 252,
+        "string": "the"
+      },
+      {
+        "start": 252,
+        "end": 253,
+        "string": " "
+      },
+      {
+        "start": 253,
+        "end": 258,
+        "string": "past"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 263,
+        "string": "few"
+      },
+      {
+        "start": 263,
+        "end": 264,
+        "string": " "
+      },
+      {
+        "start": 264,
+        "end": 270,
+        "string": "years"
+      },
+      {
+        "start": 270,
+        "end": 271,
+        "string": " "
+      },
+      {
+        "start": 271,
+        "end": 275,
+        "string": "and"
+      },
+      {
+        "start": 275,
+        "end": 276,
+        "string": " "
+      },
+      {
+        "start": 276,
+        "end": 282,
+        "string": "build"
+      },
+      {
+        "start": 282,
+        "end": 283,
+        "string": " "
+      },
+      {
+        "start": 283,
+        "end": 287,
+        "string": "new"
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 293,
+        "string": "ones"
+      },
+      {
+        "start": 293,
+        "end": 294,
+        "string": " "
+      },
+      {
+        "start": 294,
+        "end": 296,
+        "string": "."
+      },
+      {
+        "start": 296,
+        "end": 297,
+        "string": " "
+      },
+      {
+        "start": 297,
+        "end": 306,
+        "string": "Students"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 312,
+        "string": "from"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 320,
+        "string": "Warren"
+      },
+      {
+        "start": 320,
+        "end": 321,
+        "string": " "
+      },
+      {
+        "start": 321,
+        "end": 328,
+        "string": "School"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 333,
+        "string": "and"
+      },
+      {
+        "start": 333,
+        "end": 334,
+        "string": " "
+      },
+      {
+        "start": 334,
+        "end": 340,
+        "string": "James"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 348,
+        "string": "Morris"
+      },
+      {
+        "start": 348,
+        "end": 349,
+        "string": " "
+      },
+      {
+        "start": 349,
+        "end": 356,
+        "string": "School"
+      },
+      {
+        "start": 356,
+        "end": 357,
+        "string": " "
+      },
+      {
+        "start": 357,
+        "end": 360,
+        "string": "in"
+      },
+      {
+        "start": 360,
+        "end": 361,
+        "string": " "
+      },
+      {
+        "start": 361,
+        "end": 368,
+        "string": "Morris"
+      },
+      {
+        "start": 368,
+        "end": 369,
+        "string": " "
+      },
+      {
+        "start": 369,
+        "end": 374,
+        "string": "were"
+      },
+      {
+        "start": 374,
+        "end": 375,
+        "string": " "
+      },
+      {
+        "start": 375,
+        "end": 381,
+        "string": "bused"
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 384,
+        "string": "["
+      },
+      {
+        "start": 384,
+        "end": 385,
+        "string": " "
+      },
+      {
+        "start": 385,
+        "end": 389,
+        "string": "..."
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 392,
+        "string": "]"
+      },
+      {
+        "start": 392,
+        "end": 393,
+        "string": " "
+      }
+    ]
+  }
+}

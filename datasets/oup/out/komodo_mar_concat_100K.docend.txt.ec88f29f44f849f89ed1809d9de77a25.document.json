@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "ec88f29f44f849f89ed1809d9de77a25.doc",
+  "metadata": {
+    "title": "Stabbing in Pasadena Leaves 48-Year-Old Man Critically Wounded - MyNewsLA.com",
+    "sourceUrl": "https://mynewsla.com/crime/2019/03/01/stabbing-in-pasadena-leaves-48-year-old-man-critically-wounded/",
+    "documentSource": "mynewsla.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "1e460adf07d741778cb00e84fb4d654a.doc",
+  "id": "1e460adf07d741778cb00e84fb4d654a.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "1e460adf07d741778cb00e84fb4d654a.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 3,
+        "string": "By"
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "string": " "
+      },
+      {
+        "start": 4,
+        "end": 15,
+        "string": "Associated"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "string": " "
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "string": "Press"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 29,
+        "string": "March"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "string": " "
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "string": "1"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "string": "at"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "string": "1:01"
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "string": " "
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "string": "PM"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      }
+    ]
+  }
+}

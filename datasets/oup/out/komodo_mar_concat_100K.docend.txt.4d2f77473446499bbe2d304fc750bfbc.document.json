@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "4d2f77473446499bbe2d304fc750bfbc.doc",
+  "metadata": {
+    "title": "Sanders on reparations: There are better ways than 'just writing a check'",
+    "sourceUrl": "https://thehill.com/homenews/campaign/432254-sanders-on-reparations-there-are-better-ways-than-just-writing-a-check",
+    "documentSource": "thehill.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

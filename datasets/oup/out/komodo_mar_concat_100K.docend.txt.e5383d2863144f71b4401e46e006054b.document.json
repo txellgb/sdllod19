@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "e5383d2863144f71b4401e46e006054b.doc",
+  "metadata": {
+    "title": "Vaping Linked to a Noisy, Foreboding Consequence of Poor Lung Health",
+    "sourceUrl": "https://www.inverse.com/article/53730-e-cigarette-vape-use-wheezing-increase",
+    "documentSource": "inverse.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

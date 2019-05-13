@@ -1,0 +1,201 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "9048718d181b47a2aaf84ce125f5a171.doc",
+  "id": "9048718d181b47a2aaf84ce125f5a171.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "9048718d181b47a2aaf84ce125f5a171.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 11,
+        "string": "WASHINGTON"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "string": " "
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "string": "|"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "string": "The"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "string": "Trump"
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "string": " "
+      },
+      {
+        "start": 27,
+        "end": 42,
+        "string": "administration"
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "string": " "
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "string": "'s"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 56,
+        "string": "proposed"
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "string": " "
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "string": "Space"
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "string": " "
+      },
+      {
+        "start": 64,
+        "end": 70,
+        "string": "Force"
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "string": " "
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "string": "would"
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "string": " "
+      },
+      {
+        "start": 78,
+        "end": 81,
+        "string": "be"
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "string": " "
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "string": "the"
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "string": " "
+      },
+      {
+        "start": 87,
+        "end": 96,
+        "string": "smallest"
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "string": " "
+      },
+      {
+        "start": 97,
+        "end": 106,
+        "string": "military"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 115,
+        "string": "service"
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "string": "--"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 123,
+        "string": "by"
+      },
+      {
+        "start": 123,
+        "end": 124,
+        "string": " "
+      },
+      {
+        "start": 124,
+        "end": 128,
+        "string": "far"
+      },
+      {
+        "start": 128,
+        "end": 129,
+        "string": " "
+      },
+      {
+        "start": 129,
+        "end": 131,
+        "string": "."
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      }
+    ]
+  }
+}

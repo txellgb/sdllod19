@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "1f7e81c4a1bd45d59c63560cfb2babcc.doc",
+  "metadata": {
+    "title": "Tesla's 'mass market' $35k electric car ready to order, online",
+    "sourceUrl": "http://www.aaj.tv/2019/03/teslas-mass-market-35k-electric-car-ready-to-order-online/",
+    "documentSource": "aaj.tv",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

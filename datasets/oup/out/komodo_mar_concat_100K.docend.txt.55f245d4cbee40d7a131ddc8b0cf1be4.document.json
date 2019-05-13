@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "55f245d4cbee40d7a131ddc8b0cf1be4.doc",
+  "metadata": {
+    "title": "Beyond Brexit: what might the Independent Group's economic or welfare",
+    "sourceUrl": "https://www.newstatesman.com/politics/staggers/2019/03/beyond-brexit-what-might-independent-group-s-economic-or-welfare-policies",
+    "documentSource": "newstatesman.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

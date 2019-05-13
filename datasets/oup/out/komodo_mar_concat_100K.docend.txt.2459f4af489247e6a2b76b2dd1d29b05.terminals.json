@@ -1,0 +1,3341 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "2459f4af489247e6a2b76b2dd1d29b05.doc",
+  "id": "2459f4af489247e6a2b76b2dd1d29b05.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "2459f4af489247e6a2b76b2dd1d29b05.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 13,
+        "string": "Presidential"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "string": "candidate"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "string": " "
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "string": "of"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "string": "the"
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "string": " "
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "string": "Peoples"
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "string": " "
+      },
+      {
+        "start": 43,
+        "end": 54,
+        "string": "Democratic"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 61,
+        "string": "Party"
+      },
+      {
+        "start": 61,
+        "end": 62,
+        "string": " "
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "string": "and"
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "string": " "
+      },
+      {
+        "start": 67,
+        "end": 74,
+        "string": "former"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 80,
+        "string": "Vice"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "string": "President"
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 95,
+        "string": "of"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 104,
+        "string": "Nigeria"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 111,
+        "string": "Atiku"
+      },
+      {
+        "start": 111,
+        "end": 112,
+        "string": " "
+      },
+      {
+        "start": 112,
+        "end": 121,
+        "string": "Abubakar"
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "string": " "
+      },
+      {
+        "start": 122,
+        "end": 125,
+        "string": "on"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 135,
+        "string": "Thursday"
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "string": " "
+      },
+      {
+        "start": 136,
+        "end": 138,
+        "string": ","
+      },
+      {
+        "start": 138,
+        "end": 139,
+        "string": " "
+      },
+      {
+        "start": 139,
+        "end": 142,
+        "string": "28"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 152,
+        "string": "February"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "string": " "
+      },
+      {
+        "start": 153,
+        "end": 157,
+        "string": "met"
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "string": " "
+      },
+      {
+        "start": 158,
+        "end": 163,
+        "string": "with"
+      },
+      {
+        "start": 163,
+        "end": 164,
+        "string": " "
+      },
+      {
+        "start": 164,
+        "end": 168,
+        "string": "the"
+      },
+      {
+        "start": 168,
+        "end": 169,
+        "string": " "
+      },
+      {
+        "start": 169,
+        "end": 178,
+        "string": "National"
+      },
+      {
+        "start": 178,
+        "end": 179,
+        "string": " "
+      },
+      {
+        "start": 179,
+        "end": 185,
+        "string": "Peace"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 196,
+        "string": "Committee"
+      },
+      {
+        "start": 196,
+        "end": 197,
+        "string": " "
+      },
+      {
+        "start": 197,
+        "end": 199,
+        "string": "."
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 204,
+        "string": "The"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 214,
+        "string": "National"
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "string": " "
+      },
+      {
+        "start": 215,
+        "end": 221,
+        "string": "Peace"
+      },
+      {
+        "start": 221,
+        "end": 222,
+        "string": " "
+      },
+      {
+        "start": 222,
+        "end": 232,
+        "string": "Committee"
+      },
+      {
+        "start": 232,
+        "end": 233,
+        "string": " "
+      },
+      {
+        "start": 233,
+        "end": 237,
+        "string": "was"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 250,
+        "string": "represented"
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 254,
+        "string": "at"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 259,
+        "string": "the"
+      },
+      {
+        "start": 259,
+        "end": 260,
+        "string": " "
+      },
+      {
+        "start": 260,
+        "end": 268,
+        "string": "meeting"
+      },
+      {
+        "start": 268,
+        "end": 269,
+        "string": " "
+      },
+      {
+        "start": 269,
+        "end": 275,
+        "string": "which"
+      },
+      {
+        "start": 275,
+        "end": 276,
+        "string": " "
+      },
+      {
+        "start": 276,
+        "end": 281,
+        "string": "took"
+      },
+      {
+        "start": 281,
+        "end": 282,
+        "string": " "
+      },
+      {
+        "start": 282,
+        "end": 288,
+        "string": "place"
+      },
+      {
+        "start": 288,
+        "end": 289,
+        "string": " "
+      },
+      {
+        "start": 289,
+        "end": 292,
+        "string": "in"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 297,
+        "string": "his"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 308,
+        "string": "residence"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 312,
+        "string": "in"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 319,
+        "string": "Abuja"
+      },
+      {
+        "start": 319,
+        "end": 320,
+        "string": " "
+      },
+      {
+        "start": 320,
+        "end": 323,
+        "string": "by"
+      },
+      {
+        "start": 323,
+        "end": 324,
+        "string": " "
+      },
+      {
+        "start": 324,
+        "end": 331,
+        "string": "former"
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 341,
+        "string": "military"
+      },
+      {
+        "start": 341,
+        "end": 342,
+        "string": " "
+      },
+      {
+        "start": 342,
+        "end": 347,
+        "string": "Head"
+      },
+      {
+        "start": 347,
+        "end": 348,
+        "string": " "
+      },
+      {
+        "start": 348,
+        "end": 351,
+        "string": "of"
+      },
+      {
+        "start": 351,
+        "end": 352,
+        "string": " "
+      },
+      {
+        "start": 352,
+        "end": 358,
+        "string": "State"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 361,
+        "string": ","
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 367,
+        "string": "Gen."
+      },
+      {
+        "start": 367,
+        "end": 368,
+        "string": " "
+      },
+      {
+        "start": 368,
+        "end": 381,
+        "string": "Abdulasalami"
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 391,
+        "string": "Abubakar"
+      },
+      {
+        "start": 391,
+        "end": 392,
+        "string": " "
+      },
+      {
+        "start": 392,
+        "end": 394,
+        "string": "("
+      },
+      {
+        "start": 394,
+        "end": 395,
+        "string": " "
+      },
+      {
+        "start": 395,
+        "end": 404,
+        "string": "Chairman"
+      },
+      {
+        "start": 404,
+        "end": 405,
+        "string": " "
+      },
+      {
+        "start": 405,
+        "end": 407,
+        "string": ")"
+      },
+      {
+        "start": 407,
+        "end": 408,
+        "string": " "
+      },
+      {
+        "start": 408,
+        "end": 410,
+        "string": ","
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 416,
+        "string": "John"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 426,
+        "string": "Cardinal"
+      },
+      {
+        "start": 426,
+        "end": 427,
+        "string": " "
+      },
+      {
+        "start": 427,
+        "end": 437,
+        "string": "Onaiyekan"
+      },
+      {
+        "start": 437,
+        "end": 438,
+        "string": " "
+      },
+      {
+        "start": 438,
+        "end": 442,
+        "string": "and"
+      },
+      {
+        "start": 442,
+        "end": 443,
+        "string": " "
+      },
+      {
+        "start": 443,
+        "end": 450,
+        "string": "Bishop"
+      },
+      {
+        "start": 450,
+        "end": 451,
+        "string": " "
+      },
+      {
+        "start": 451,
+        "end": 459,
+        "string": "Matthew"
+      },
+      {
+        "start": 459,
+        "end": 460,
+        "string": " "
+      },
+      {
+        "start": 460,
+        "end": 467,
+        "string": "Hassan"
+      },
+      {
+        "start": 467,
+        "end": 468,
+        "string": " "
+      },
+      {
+        "start": 468,
+        "end": 474,
+        "string": "Kukah"
+      },
+      {
+        "start": 474,
+        "end": 475,
+        "string": " "
+      },
+      {
+        "start": 475,
+        "end": 477,
+        "string": "."
+      },
+      {
+        "start": 477,
+        "end": 478,
+        "string": " "
+      },
+      {
+        "start": 478,
+        "end": 482,
+        "string": "The"
+      },
+      {
+        "start": 482,
+        "end": 483,
+        "string": " "
+      },
+      {
+        "start": 483,
+        "end": 487,
+        "string": "PDP"
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 501,
+        "string": "presidential"
+      },
+      {
+        "start": 501,
+        "end": 502,
+        "string": " "
+      },
+      {
+        "start": 502,
+        "end": 512,
+        "string": "candidate"
+      },
+      {
+        "start": 512,
+        "end": 513,
+        "string": " "
+      },
+      {
+        "start": 513,
+        "end": 517,
+        "string": "was"
+      },
+      {
+        "start": 517,
+        "end": 518,
+        "string": " "
+      },
+      {
+        "start": 518,
+        "end": 530,
+        "string": "represented"
+      },
+      {
+        "start": 530,
+        "end": 531,
+        "string": " "
+      },
+      {
+        "start": 531,
+        "end": 534,
+        "string": "by"
+      },
+      {
+        "start": 534,
+        "end": 535,
+        "string": " "
+      },
+      {
+        "start": 535,
+        "end": 543,
+        "string": "himself"
+      },
+      {
+        "start": 543,
+        "end": 544,
+        "string": " "
+      },
+      {
+        "start": 544,
+        "end": 546,
+        "string": ","
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 551,
+        "string": "his"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 557,
+        "string": "Vice"
+      },
+      {
+        "start": 557,
+        "end": 558,
+        "string": " "
+      },
+      {
+        "start": 558,
+        "end": 571,
+        "string": "Presidential"
+      },
+      {
+        "start": 571,
+        "end": 572,
+        "string": " "
+      },
+      {
+        "start": 572,
+        "end": 582,
+        "string": "candidate"
+      },
+      {
+        "start": 582,
+        "end": 583,
+        "string": " "
+      },
+      {
+        "start": 583,
+        "end": 585,
+        "string": ","
+      },
+      {
+        "start": 585,
+        "end": 586,
+        "string": " "
+      },
+      {
+        "start": 586,
+        "end": 592,
+        "string": "Peter"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 597,
+        "string": "Obi"
+      },
+      {
+        "start": 597,
+        "end": 598,
+        "string": " "
+      },
+      {
+        "start": 598,
+        "end": 600,
+        "string": ","
+      },
+      {
+        "start": 600,
+        "end": 601,
+        "string": " "
+      },
+      {
+        "start": 601,
+        "end": 608,
+        "string": "Senate"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 619,
+        "string": "President"
+      },
+      {
+        "start": 619,
+        "end": 620,
+        "string": " "
+      },
+      {
+        "start": 620,
+        "end": 624,
+        "string": "and"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 628,
+        "string": "DG"
+      },
+      {
+        "start": 628,
+        "end": 629,
+        "string": " "
+      },
+      {
+        "start": 629,
+        "end": 632,
+        "string": "of"
+      },
+      {
+        "start": 632,
+        "end": 633,
+        "string": " "
+      },
+      {
+        "start": 633,
+        "end": 637,
+        "string": "PDP"
+      },
+      {
+        "start": 637,
+        "end": 638,
+        "string": " "
+      },
+      {
+        "start": 638,
+        "end": 651,
+        "string": "Presidential"
+      },
+      {
+        "start": 651,
+        "end": 652,
+        "string": " "
+      },
+      {
+        "start": 652,
+        "end": 661,
+        "string": "Campaign"
+      },
+      {
+        "start": 661,
+        "end": 662,
+        "string": " "
+      },
+      {
+        "start": 662,
+        "end": 670,
+        "string": "Council"
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 673,
+        "string": ","
+      },
+      {
+        "start": 673,
+        "end": 674,
+        "string": " "
+      },
+      {
+        "start": 674,
+        "end": 679,
+        "string": "Sen."
+      },
+      {
+        "start": 679,
+        "end": 680,
+        "string": " "
+      },
+      {
+        "start": 680,
+        "end": 687,
+        "string": "Bukola"
+      },
+      {
+        "start": 687,
+        "end": 688,
+        "string": " "
+      },
+      {
+        "start": 688,
+        "end": 695,
+        "string": "Saraki"
+      },
+      {
+        "start": 695,
+        "end": 696,
+        "string": " "
+      },
+      {
+        "start": 696,
+        "end": 698,
+        "string": ","
+      },
+      {
+        "start": 698,
+        "end": 699,
+        "string": " "
+      },
+      {
+        "start": 699,
+        "end": 707,
+        "string": "Speaker"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 711,
+        "string": "of"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 716,
+        "string": "the"
+      },
+      {
+        "start": 716,
+        "end": 717,
+        "string": " "
+      },
+      {
+        "start": 717,
+        "end": 723,
+        "string": "House"
+      },
+      {
+        "start": 723,
+        "end": 724,
+        "string": " "
+      },
+      {
+        "start": 724,
+        "end": 727,
+        "string": "of"
+      },
+      {
+        "start": 727,
+        "end": 728,
+        "string": " "
+      },
+      {
+        "start": 728,
+        "end": 744,
+        "string": "Representatives"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 747,
+        "string": ","
+      },
+      {
+        "start": 747,
+        "end": 748,
+        "string": " "
+      },
+      {
+        "start": 748,
+        "end": 755,
+        "string": "Yakubu"
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 763,
+        "string": "Dogara"
+      },
+      {
+        "start": 763,
+        "end": 764,
+        "string": " "
+      },
+      {
+        "start": 764,
+        "end": 768,
+        "string": "and"
+      },
+      {
+        "start": 768,
+        "end": 769,
+        "string": " "
+      },
+      {
+        "start": 769,
+        "end": 778,
+        "string": "National"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 788,
+        "string": "Chairman"
+      },
+      {
+        "start": 788,
+        "end": 789,
+        "string": " "
+      },
+      {
+        "start": 789,
+        "end": 792,
+        "string": "of"
+      },
+      {
+        "start": 792,
+        "end": 793,
+        "string": " "
+      },
+      {
+        "start": 793,
+        "end": 797,
+        "string": "PDP"
+      },
+      {
+        "start": 797,
+        "end": 798,
+        "string": " "
+      },
+      {
+        "start": 798,
+        "end": 805,
+        "string": "Prince"
+      },
+      {
+        "start": 805,
+        "end": 806,
+        "string": " "
+      },
+      {
+        "start": 806,
+        "end": 811,
+        "string": "Uche"
+      },
+      {
+        "start": 811,
+        "end": 812,
+        "string": " "
+      },
+      {
+        "start": 812,
+        "end": 821,
+        "string": "Secondus"
+      },
+      {
+        "start": 821,
+        "end": 822,
+        "string": " "
+      },
+      {
+        "start": 822,
+        "end": 824,
+        "string": "."
+      },
+      {
+        "start": 824,
+        "end": 825,
+        "string": " "
+      },
+      {
+        "start": 825,
+        "end": 831,
+        "string": "Atiku"
+      },
+      {
+        "start": 831,
+        "end": 832,
+        "string": " "
+      },
+      {
+        "start": 832,
+        "end": 841,
+        "string": "Abubakar"
+      },
+      {
+        "start": 841,
+        "end": 842,
+        "string": " "
+      },
+      {
+        "start": 842,
+        "end": 846,
+        "string": "and"
+      },
+      {
+        "start": 846,
+        "end": 847,
+        "string": " "
+      },
+      {
+        "start": 847,
+        "end": 851,
+        "string": "his"
+      },
+      {
+        "start": 851,
+        "end": 852,
+        "string": " "
+      },
+      {
+        "start": 852,
+        "end": 857,
+        "string": "team"
+      },
+      {
+        "start": 857,
+        "end": 858,
+        "string": " "
+      },
+      {
+        "start": 858,
+        "end": 869,
+        "string": "reaffirmed"
+      },
+      {
+        "start": 869,
+        "end": 870,
+        "string": " "
+      },
+      {
+        "start": 870,
+        "end": 875,
+        "string": "that"
+      },
+      {
+        "start": 875,
+        "end": 876,
+        "string": " "
+      },
+      {
+        "start": 876,
+        "end": 880,
+        "string": "the"
+      },
+      {
+        "start": 880,
+        "end": 881,
+        "string": " "
+      },
+      {
+        "start": 881,
+        "end": 894,
+        "string": "presidential"
+      },
+      {
+        "start": 894,
+        "end": 895,
+        "string": " "
+      },
+      {
+        "start": 895,
+        "end": 904,
+        "string": "election"
+      },
+      {
+        "start": 904,
+        "end": 905,
+        "string": " "
+      },
+      {
+        "start": 905,
+        "end": 908,
+        "string": "of"
+      },
+      {
+        "start": 908,
+        "end": 909,
+        "string": " "
+      },
+      {
+        "start": 909,
+        "end": 912,
+        "string": "23"
+      },
+      {
+        "start": 912,
+        "end": 913,
+        "string": " "
+      },
+      {
+        "start": 913,
+        "end": 922,
+        "string": "February"
+      },
+      {
+        "start": 922,
+        "end": 923,
+        "string": " "
+      },
+      {
+        "start": 923,
+        "end": 927,
+        "string": "was"
+      },
+      {
+        "start": 927,
+        "end": 928,
+        "string": " "
+      },
+      {
+        "start": 928,
+        "end": 932,
+        "string": "the"
+      },
+      {
+        "start": 932,
+        "end": 933,
+        "string": " "
+      },
+      {
+        "start": 933,
+        "end": 939,
+        "string": "worst"
+      },
+      {
+        "start": 939,
+        "end": 940,
+        "string": " "
+      },
+      {
+        "start": 940,
+        "end": 943,
+        "string": "in"
+      },
+      {
+        "start": 943,
+        "end": 944,
+        "string": " "
+      },
+      {
+        "start": 944,
+        "end": 948,
+        "string": "the"
+      },
+      {
+        "start": 948,
+        "end": 949,
+        "string": " "
+      },
+      {
+        "start": 949,
+        "end": 957,
+        "string": "history"
+      },
+      {
+        "start": 957,
+        "end": 958,
+        "string": " "
+      },
+      {
+        "start": 958,
+        "end": 961,
+        "string": "of"
+      },
+      {
+        "start": 961,
+        "end": 962,
+        "string": " "
+      },
+      {
+        "start": 962,
+        "end": 966,
+        "string": "the"
+      },
+      {
+        "start": 966,
+        "end": 967,
+        "string": " "
+      },
+      {
+        "start": 967,
+        "end": 975,
+        "string": "country"
+      },
+      {
+        "start": 975,
+        "end": 976,
+        "string": " "
+      },
+      {
+        "start": 976,
+        "end": 982,
+        "string": "since"
+      },
+      {
+        "start": 982,
+        "end": 983,
+        "string": " "
+      },
+      {
+        "start": 983,
+        "end": 987,
+        "string": "the"
+      },
+      {
+        "start": 987,
+        "end": 988,
+        "string": " "
+      },
+      {
+        "start": 988,
+        "end": 995,
+        "string": "return"
+      },
+      {
+        "start": 995,
+        "end": 996,
+        "string": " "
+      },
+      {
+        "start": 996,
+        "end": 999,
+        "string": "to"
+      },
+      {
+        "start": 999,
+        "end": 1000,
+        "string": " "
+      },
+      {
+        "start": 1000,
+        "end": 1010,
+        "string": "democracy"
+      },
+      {
+        "start": 1010,
+        "end": 1011,
+        "string": " "
+      },
+      {
+        "start": 1011,
+        "end": 1014,
+        "string": "in"
+      },
+      {
+        "start": 1014,
+        "end": 1015,
+        "string": " "
+      },
+      {
+        "start": 1015,
+        "end": 1020,
+        "string": "1999"
+      },
+      {
+        "start": 1020,
+        "end": 1021,
+        "string": " "
+      },
+      {
+        "start": 1021,
+        "end": 1023,
+        "string": "."
+      },
+      {
+        "start": 1023,
+        "end": 1024,
+        "string": " "
+      },
+      {
+        "start": 1024,
+        "end": 1034,
+        "string": "According"
+      },
+      {
+        "start": 1034,
+        "end": 1035,
+        "string": " "
+      },
+      {
+        "start": 1035,
+        "end": 1038,
+        "string": "to"
+      },
+      {
+        "start": 1038,
+        "end": 1039,
+        "string": " "
+      },
+      {
+        "start": 1039,
+        "end": 1043,
+        "string": "him"
+      },
+      {
+        "start": 1043,
+        "end": 1044,
+        "string": " "
+      },
+      {
+        "start": 1044,
+        "end": 1046,
+        "string": ","
+      },
+      {
+        "start": 1046,
+        "end": 1047,
+        "string": " "
+      },
+      {
+        "start": 1047,
+        "end": 1051,
+        "string": "the"
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1057,
+        "string": "sham"
+      },
+      {
+        "start": 1057,
+        "end": 1058,
+        "string": " "
+      },
+      {
+        "start": 1058,
+        "end": 1067,
+        "string": "election"
+      },
+      {
+        "start": 1067,
+        "end": 1068,
+        "string": " "
+      },
+      {
+        "start": 1068,
+        "end": 1072,
+        "string": "was"
+      },
+      {
+        "start": 1072,
+        "end": 1073,
+        "string": " "
+      },
+      {
+        "start": 1073,
+        "end": 1080,
+        "string": "marked"
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1084,
+        "string": "by"
+      },
+      {
+        "start": 1084,
+        "end": 1085,
+        "string": " "
+      },
+      {
+        "start": 1085,
+        "end": 1100,
+        "string": "militarization"
+      },
+      {
+        "start": 1100,
+        "end": 1101,
+        "string": " "
+      },
+      {
+        "start": 1101,
+        "end": 1104,
+        "string": "of"
+      },
+      {
+        "start": 1104,
+        "end": 1105,
+        "string": " "
+      },
+      {
+        "start": 1105,
+        "end": 1109,
+        "string": "the"
+      },
+      {
+        "start": 1109,
+        "end": 1110,
+        "string": " "
+      },
+      {
+        "start": 1110,
+        "end": 1118,
+        "string": "process"
+      },
+      {
+        "start": 1118,
+        "end": 1119,
+        "string": " "
+      },
+      {
+        "start": 1119,
+        "end": 1121,
+        "string": ","
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1127,
+        "string": "vote"
+      },
+      {
+        "start": 1127,
+        "end": 1128,
+        "string": " "
+      },
+      {
+        "start": 1128,
+        "end": 1140,
+        "string": "suppression"
+      },
+      {
+        "start": 1140,
+        "end": 1141,
+        "string": " "
+      },
+      {
+        "start": 1141,
+        "end": 1143,
+        "string": ","
+      },
+      {
+        "start": 1143,
+        "end": 1144,
+        "string": " "
+      },
+      {
+        "start": 1144,
+        "end": 1157,
+        "string": "intimidation"
+      },
+      {
+        "start": 1157,
+        "end": 1158,
+        "string": " "
+      },
+      {
+        "start": 1158,
+        "end": 1160,
+        "string": ","
+      },
+      {
+        "start": 1160,
+        "end": 1161,
+        "string": " "
+      },
+      {
+        "start": 1161,
+        "end": 1165,
+        "string": "and"
+      },
+      {
+        "start": 1165,
+        "end": 1166,
+        "string": " "
+      },
+      {
+        "start": 1166,
+        "end": 1180,
+        "string": "collaboration"
+      },
+      {
+        "start": 1180,
+        "end": 1181,
+        "string": " "
+      },
+      {
+        "start": 1181,
+        "end": 1184,
+        "string": "of"
+      },
+      {
+        "start": 1184,
+        "end": 1185,
+        "string": " "
+      },
+      {
+        "start": 1185,
+        "end": 1194,
+        "string": "security"
+      },
+      {
+        "start": 1194,
+        "end": 1195,
+        "string": " "
+      },
+      {
+        "start": 1195,
+        "end": 1204,
+        "string": "agencies"
+      },
+      {
+        "start": 1204,
+        "end": 1205,
+        "string": " "
+      },
+      {
+        "start": 1205,
+        "end": 1207,
+        "string": ","
+      },
+      {
+        "start": 1207,
+        "end": 1208,
+        "string": " "
+      },
+      {
+        "start": 1208,
+        "end": 1213,
+        "string": "INEC"
+      },
+      {
+        "start": 1213,
+        "end": 1214,
+        "string": " "
+      },
+      {
+        "start": 1214,
+        "end": 1218,
+        "string": "and"
+      },
+      {
+        "start": 1218,
+        "end": 1219,
+        "string": " "
+      },
+      {
+        "start": 1219,
+        "end": 1223,
+        "string": "the"
+      },
+      {
+        "start": 1223,
+        "end": 1224,
+        "string": " "
+      },
+      {
+        "start": 1224,
+        "end": 1231,
+        "string": "ruling"
+      },
+      {
+        "start": 1231,
+        "end": 1232,
+        "string": " "
+      },
+      {
+        "start": 1232,
+        "end": 1238,
+        "string": "party"
+      },
+      {
+        "start": 1238,
+        "end": 1239,
+        "string": " "
+      },
+      {
+        "start": 1239,
+        "end": 1242,
+        "string": "to"
+      },
+      {
+        "start": 1242,
+        "end": 1243,
+        "string": " "
+      },
+      {
+        "start": 1243,
+        "end": 1251,
+        "string": "subvert"
+      },
+      {
+        "start": 1251,
+        "end": 1252,
+        "string": " "
+      },
+      {
+        "start": 1252,
+        "end": 1256,
+        "string": "the"
+      },
+      {
+        "start": 1256,
+        "end": 1257,
+        "string": " "
+      },
+      {
+        "start": 1257,
+        "end": 1262,
+        "string": "will"
+      },
+      {
+        "start": 1262,
+        "end": 1263,
+        "string": " "
+      },
+      {
+        "start": 1263,
+        "end": 1266,
+        "string": "of"
+      },
+      {
+        "start": 1266,
+        "end": 1267,
+        "string": " "
+      },
+      {
+        "start": 1267,
+        "end": 1277,
+        "string": "Nigerians"
+      },
+      {
+        "start": 1277,
+        "end": 1278,
+        "string": " "
+      },
+      {
+        "start": 1278,
+        "end": 1280,
+        "string": "."
+      },
+      {
+        "start": 1280,
+        "end": 1281,
+        "string": " "
+      },
+      {
+        "start": 1281,
+        "end": 1287,
+        "string": "Ahead"
+      },
+      {
+        "start": 1287,
+        "end": 1288,
+        "string": " "
+      },
+      {
+        "start": 1288,
+        "end": 1291,
+        "string": "of"
+      },
+      {
+        "start": 1291,
+        "end": 1292,
+        "string": " "
+      },
+      {
+        "start": 1292,
+        "end": 1296,
+        "string": "the"
+      },
+      {
+        "start": 1296,
+        "end": 1297,
+        "string": " "
+      },
+      {
+        "start": 1297,
+        "end": 1299,
+        "string": "9"
+      },
+      {
+        "start": 1299,
+        "end": 1300,
+        "string": " "
+      },
+      {
+        "start": 1300,
+        "end": 1306,
+        "string": "March"
+      },
+      {
+        "start": 1306,
+        "end": 1307,
+        "string": " "
+      },
+      {
+        "start": 1307,
+        "end": 1320,
+        "string": "governorship"
+      },
+      {
+        "start": 1320,
+        "end": 1321,
+        "string": " "
+      },
+      {
+        "start": 1321,
+        "end": 1325,
+        "string": "and"
+      },
+      {
+        "start": 1325,
+        "end": 1326,
+        "string": " "
+      },
+      {
+        "start": 1326,
+        "end": 1332,
+        "string": "state"
+      },
+      {
+        "start": 1332,
+        "end": 1333,
+        "string": " "
+      },
+      {
+        "start": 1333,
+        "end": 1339,
+        "string": "house"
+      },
+      {
+        "start": 1339,
+        "end": 1340,
+        "string": " "
+      },
+      {
+        "start": 1340,
+        "end": 1343,
+        "string": "of"
+      },
+      {
+        "start": 1343,
+        "end": 1344,
+        "string": " "
+      },
+      {
+        "start": 1344,
+        "end": 1353,
+        "string": "assembly"
+      },
+      {
+        "start": 1353,
+        "end": 1354,
+        "string": " "
+      },
+      {
+        "start": 1354,
+        "end": 1363,
+        "string": "election"
+      },
+      {
+        "start": 1363,
+        "end": 1364,
+        "string": " "
+      },
+      {
+        "start": 1364,
+        "end": 1366,
+        "string": ","
+      },
+      {
+        "start": 1366,
+        "end": 1367,
+        "string": " "
+      },
+      {
+        "start": 1367,
+        "end": 1371,
+        "string": "the"
+      },
+      {
+        "start": 1371,
+        "end": 1372,
+        "string": " "
+      },
+      {
+        "start": 1372,
+        "end": 1378,
+        "string": "Atiku"
+      },
+      {
+        "start": 1378,
+        "end": 1379,
+        "string": " "
+      },
+      {
+        "start": 1379,
+        "end": 1388,
+        "string": "Abubakar"
+      },
+      {
+        "start": 1388,
+        "end": 1389,
+        "string": " "
+      },
+      {
+        "start": 1389,
+        "end": 1394,
+        "string": "team"
+      },
+      {
+        "start": 1394,
+        "end": 1395,
+        "string": " "
+      },
+      {
+        "start": 1395,
+        "end": 1402,
+        "string": "called"
+      },
+      {
+        "start": 1402,
+        "end": 1403,
+        "string": " "
+      },
+      {
+        "start": 1403,
+        "end": 1407,
+        "string": "for"
+      },
+      {
+        "start": 1407,
+        "end": 1408,
+        "string": " "
+      },
+      {
+        "start": 1408,
+        "end": 1412,
+        "string": "the"
+      },
+      {
+        "start": 1412,
+        "end": 1413,
+        "string": " "
+      },
+      {
+        "start": 1413,
+        "end": 1427,
+        "string": "unconditional"
+      },
+      {
+        "start": 1427,
+        "end": 1428,
+        "string": " "
+      },
+      {
+        "start": 1428,
+        "end": 1436,
+        "string": "release"
+      },
+      {
+        "start": 1436,
+        "end": 1437,
+        "string": " "
+      },
+      {
+        "start": 1437,
+        "end": 1440,
+        "string": "of"
+      },
+      {
+        "start": 1440,
+        "end": 1441,
+        "string": " "
+      },
+      {
+        "start": 1441,
+        "end": 1445,
+        "string": "all"
+      },
+      {
+        "start": 1445,
+        "end": 1446,
+        "string": " "
+      },
+      {
+        "start": 1446,
+        "end": 1452,
+        "string": "those"
+      },
+      {
+        "start": 1452,
+        "end": 1453,
+        "string": " "
+      },
+      {
+        "start": 1453,
+        "end": 1463,
+        "string": "illegally"
+      },
+      {
+        "start": 1463,
+        "end": 1464,
+        "string": " "
+      },
+      {
+        "start": 1464,
+        "end": 1473,
+        "string": "arrested"
+      },
+      {
+        "start": 1473,
+        "end": 1474,
+        "string": " "
+      },
+      {
+        "start": 1474,
+        "end": 1478,
+        "string": "and"
+      },
+      {
+        "start": 1478,
+        "end": 1479,
+        "string": " "
+      },
+      {
+        "start": 1479,
+        "end": 1488,
+        "string": "detained"
+      },
+      {
+        "start": 1488,
+        "end": 1489,
+        "string": " "
+      },
+      {
+        "start": 1489,
+        "end": 1493,
+        "string": "for"
+      },
+      {
+        "start": 1493,
+        "end": 1494,
+        "string": " "
+      },
+      {
+        "start": 1494,
+        "end": 1504,
+        "string": "political"
+      },
+      {
+        "start": 1504,
+        "end": 1505,
+        "string": " "
+      },
+      {
+        "start": 1505,
+        "end": 1513,
+        "string": "reasons"
+      },
+      {
+        "start": 1513,
+        "end": 1514,
+        "string": " "
+      },
+      {
+        "start": 1514,
+        "end": 1516,
+        "string": "."
+      },
+      {
+        "start": 1516,
+        "end": 1517,
+        "string": " "
+      },
+      {
+        "start": 1517,
+        "end": 1522,
+        "string": "They"
+      },
+      {
+        "start": 1522,
+        "end": 1523,
+        "string": " "
+      },
+      {
+        "start": 1523,
+        "end": 1528,
+        "string": "also"
+      },
+      {
+        "start": 1528,
+        "end": 1529,
+        "string": " "
+      },
+      {
+        "start": 1529,
+        "end": 1536,
+        "string": "called"
+      },
+      {
+        "start": 1536,
+        "end": 1537,
+        "string": " "
+      },
+      {
+        "start": 1537,
+        "end": 1541,
+        "string": "for"
+      },
+      {
+        "start": 1541,
+        "end": 1542,
+        "string": " "
+      },
+      {
+        "start": 1542,
+        "end": 1546,
+        "string": "the"
+      },
+      {
+        "start": 1546,
+        "end": 1547,
+        "string": " "
+      },
+      {
+        "start": 1547,
+        "end": 1551,
+        "string": "non"
+      },
+      {
+        "start": 1551,
+        "end": 1552,
+        "string": " "
+      },
+      {
+        "start": 1552,
+        "end": 1563,
+        "string": "deployment"
+      },
+      {
+        "start": 1563,
+        "end": 1564,
+        "string": " "
+      },
+      {
+        "start": 1564,
+        "end": 1567,
+        "string": "of"
+      },
+      {
+        "start": 1567,
+        "end": 1568,
+        "string": " "
+      },
+      {
+        "start": 1568,
+        "end": 1572,
+        "string": "the"
+      },
+      {
+        "start": 1572,
+        "end": 1573,
+        "string": " "
+      },
+      {
+        "start": 1573,
+        "end": 1582,
+        "string": "military"
+      },
+      {
+        "start": 1582,
+        "end": 1583,
+        "string": " "
+      },
+      {
+        "start": 1583,
+        "end": 1586,
+        "string": "in"
+      },
+      {
+        "start": 1586,
+        "end": 1587,
+        "string": " "
+      },
+      {
+        "start": 1587,
+        "end": 1598,
+        "string": "compliance"
+      },
+      {
+        "start": 1598,
+        "end": 1599,
+        "string": " "
+      },
+      {
+        "start": 1599,
+        "end": 1604,
+        "string": "with"
+      },
+      {
+        "start": 1604,
+        "end": 1605,
+        "string": " "
+      },
+      {
+        "start": 1605,
+        "end": 1620,
+        "string": "constitutional"
+      },
+      {
+        "start": 1620,
+        "end": 1621,
+        "string": " "
+      },
+      {
+        "start": 1621,
+        "end": 1632,
+        "string": "provisions"
+      },
+      {
+        "start": 1632,
+        "end": 1633,
+        "string": " "
+      },
+      {
+        "start": 1633,
+        "end": 1637,
+        "string": "and"
+      },
+      {
+        "start": 1637,
+        "end": 1638,
+        "string": " "
+      },
+      {
+        "start": 1638,
+        "end": 1642,
+        "string": "the"
+      },
+      {
+        "start": 1642,
+        "end": 1643,
+        "string": " "
+      },
+      {
+        "start": 1643,
+        "end": 1654,
+        "string": "subsisting"
+      },
+      {
+        "start": 1654,
+        "end": 1655,
+        "string": " "
+      },
+      {
+        "start": 1655,
+        "end": 1665,
+        "string": "judgement"
+      },
+      {
+        "start": 1665,
+        "end": 1666,
+        "string": " "
+      },
+      {
+        "start": 1666,
+        "end": 1669,
+        "string": "of"
+      },
+      {
+        "start": 1669,
+        "end": 1670,
+        "string": " "
+      },
+      {
+        "start": 1670,
+        "end": 1674,
+        "string": "the"
+      },
+      {
+        "start": 1674,
+        "end": 1675,
+        "string": " "
+      },
+      {
+        "start": 1675,
+        "end": 1681,
+        "string": "court"
+      },
+      {
+        "start": 1681,
+        "end": 1682,
+        "string": " "
+      },
+      {
+        "start": 1682,
+        "end": 1684,
+        "string": "."
+      },
+      {
+        "start": 1684,
+        "end": 1685,
+        "string": " "
+      },
+      {
+        "start": 1685,
+        "end": 1689,
+        "string": "The"
+      },
+      {
+        "start": 1689,
+        "end": 1690,
+        "string": " "
+      },
+      {
+        "start": 1690,
+        "end": 1696,
+        "string": "issue"
+      },
+      {
+        "start": 1696,
+        "end": 1697,
+        "string": " "
+      },
+      {
+        "start": 1697,
+        "end": 1700,
+        "string": "of"
+      },
+      {
+        "start": 1700,
+        "end": 1701,
+        "string": " "
+      },
+      {
+        "start": 1701,
+        "end": 1707,
+        "string": "Atiku"
+      },
+      {
+        "start": 1707,
+        "end": 1708,
+        "string": " "
+      },
+      {
+        "start": 1708,
+        "end": 1717,
+        "string": "Abubakar"
+      },
+      {
+        "start": 1717,
+        "end": 1718,
+        "string": " "
+      },
+      {
+        "start": 1718,
+        "end": 1722,
+        "string": "and"
+      },
+      {
+        "start": 1722,
+        "end": 1723,
+        "string": " "
+      },
+      {
+        "start": 1723,
+        "end": 1727,
+        "string": "his"
+      },
+      {
+        "start": 1727,
+        "end": 1728,
+        "string": " "
+      },
+      {
+        "start": 1728,
+        "end": 1734,
+        "string": "party"
+      },
+      {
+        "start": 1734,
+        "end": 1735,
+        "string": " "
+      },
+      {
+        "start": 1735,
+        "end": 1738,
+        "string": "'s"
+      },
+      {
+        "start": 1738,
+        "end": 1739,
+        "string": " "
+      },
+      {
+        "start": 1739,
+        "end": 1748,
+        "string": "recourse"
+      },
+      {
+        "start": 1748,
+        "end": 1749,
+        "string": " "
+      },
+      {
+        "start": 1749,
+        "end": 1752,
+        "string": "to"
+      },
+      {
+        "start": 1752,
+        "end": 1753,
+        "string": " "
+      },
+      {
+        "start": 1753,
+        "end": 1764,
+        "string": "legitimate"
+      },
+      {
+        "start": 1764,
+        "end": 1765,
+        "string": " "
+      },
+      {
+        "start": 1765,
+        "end": 1773,
+        "string": "actions"
+      },
+      {
+        "start": 1773,
+        "end": 1774,
+        "string": " "
+      },
+      {
+        "start": 1774,
+        "end": 1777,
+        "string": "to"
+      },
+      {
+        "start": 1777,
+        "end": 1778,
+        "string": " "
+      },
+      {
+        "start": 1778,
+        "end": 1786,
+        "string": "reclaim"
+      },
+      {
+        "start": 1786,
+        "end": 1787,
+        "string": " "
+      },
+      {
+        "start": 1787,
+        "end": 1791,
+        "string": "his"
+      },
+      {
+        "start": 1791,
+        "end": 1792,
+        "string": " "
+      },
+      {
+        "start": 1792,
+        "end": 1799,
+        "string": "stolen"
+      },
+      {
+        "start": 1799,
+        "end": 1800,
+        "string": " "
+      },
+      {
+        "start": 1800,
+        "end": 1808,
+        "string": "mandate"
+      },
+      {
+        "start": 1808,
+        "end": 1809,
+        "string": " "
+      },
+      {
+        "start": 1809,
+        "end": 1813,
+        "string": "was"
+      },
+      {
+        "start": 1813,
+        "end": 1814,
+        "string": " "
+      },
+      {
+        "start": 1814,
+        "end": 1818,
+        "string": "not"
+      },
+      {
+        "start": 1818,
+        "end": 1819,
+        "string": " "
+      },
+      {
+        "start": 1819,
+        "end": 1829,
+        "string": "discussed"
+      },
+      {
+        "start": 1829,
+        "end": 1830,
+        "string": " "
+      },
+      {
+        "start": 1830,
+        "end": 1833,
+        "string": "at"
+      },
+      {
+        "start": 1833,
+        "end": 1834,
+        "string": " "
+      },
+      {
+        "start": 1834,
+        "end": 1838,
+        "string": "the"
+      },
+      {
+        "start": 1838,
+        "end": 1839,
+        "string": " "
+      },
+      {
+        "start": 1839,
+        "end": 1847,
+        "string": "meeting"
+      },
+      {
+        "start": 1847,
+        "end": 1848,
+        "string": " "
+      },
+      {
+        "start": 1848,
+        "end": 1850,
+        "string": "."
+      },
+      {
+        "start": 1850,
+        "end": 1851,
+        "string": " "
+      },
+      {
+        "start": 1851,
+        "end": 1857,
+        "string": "Atiku"
+      },
+      {
+        "start": 1857,
+        "end": 1858,
+        "string": " "
+      },
+      {
+        "start": 1858,
+        "end": 1867,
+        "string": "Abubakar"
+      },
+      {
+        "start": 1867,
+        "end": 1868,
+        "string": " "
+      },
+      {
+        "start": 1868,
+        "end": 1877,
+        "string": "restates"
+      },
+      {
+        "start": 1877,
+        "end": 1878,
+        "string": " "
+      },
+      {
+        "start": 1878,
+        "end": 1883,
+        "string": "that"
+      },
+      {
+        "start": 1883,
+        "end": 1884,
+        "string": " "
+      },
+      {
+        "start": 1884,
+        "end": 1887,
+        "string": "as"
+      },
+      {
+        "start": 1887,
+        "end": 1888,
+        "string": " "
+      },
+      {
+        "start": 1888,
+        "end": 1890,
+        "string": "a"
+      },
+      {
+        "start": 1890,
+        "end": 1891,
+        "string": " "
+      },
+      {
+        "start": 1891,
+        "end": 1900,
+        "string": "democrat"
+      },
+      {
+        "start": 1900,
+        "end": 1901,
+        "string": " "
+      },
+      {
+        "start": 1901,
+        "end": 1903,
+        "string": ","
+      },
+      {
+        "start": 1903,
+        "end": 1904,
+        "string": " "
+      },
+      {
+        "start": 1904,
+        "end": 1907,
+        "string": "he"
+      },
+      {
+        "start": 1907,
+        "end": 1908,
+        "string": " "
+      },
+      {
+        "start": 1908,
+        "end": 1913,
+        "string": "will"
+      },
+      {
+        "start": 1913,
+        "end": 1914,
+        "string": " "
+      },
+      {
+        "start": 1914,
+        "end": 1921,
+        "string": "follow"
+      },
+      {
+        "start": 1921,
+        "end": 1922,
+        "string": " "
+      },
+      {
+        "start": 1922,
+        "end": 1927,
+        "string": "laid"
+      },
+      {
+        "start": 1927,
+        "end": 1928,
+        "string": " "
+      },
+      {
+        "start": 1928,
+        "end": 1933,
+        "string": "down"
+      },
+      {
+        "start": 1933,
+        "end": 1934,
+        "string": " "
+      },
+      {
+        "start": 1934,
+        "end": 1949,
+        "string": "constitutional"
+      },
+      {
+        "start": 1949,
+        "end": 1950,
+        "string": " "
+      },
+      {
+        "start": 1950,
+        "end": 1954,
+        "string": "and"
+      },
+      {
+        "start": 1954,
+        "end": 1955,
+        "string": " "
+      },
+      {
+        "start": 1955,
+        "end": 1966,
+        "string": "democratic"
+      },
+      {
+        "start": 1966,
+        "end": 1967,
+        "string": " "
+      },
+      {
+        "start": 1967,
+        "end": 1978,
+        "string": "procedures"
+      },
+      {
+        "start": 1978,
+        "end": 1979,
+        "string": " "
+      },
+      {
+        "start": 1979,
+        "end": 1982,
+        "string": "to"
+      },
+      {
+        "start": 1982,
+        "end": 1983,
+        "string": " "
+      },
+      {
+        "start": 1983,
+        "end": 1993,
+        "string": "challenge"
+      },
+      {
+        "start": 1993,
+        "end": 1994,
+        "string": " "
+      },
+      {
+        "start": 1994,
+        "end": 1998,
+        "string": "the"
+      },
+      {
+        "start": 1998,
+        "end": 1999,
+        "string": " "
+      },
+      {
+        "start": 1999,
+        "end": 2009,
+        "string": "electoral"
+      },
+      {
+        "start": 2009,
+        "end": 2010,
+        "string": " "
+      },
+      {
+        "start": 2010,
+        "end": 2022,
+        "string": "malfeasance"
+      },
+      {
+        "start": 2022,
+        "end": 2023,
+        "string": " "
+      },
+      {
+        "start": 2023,
+        "end": 2033,
+        "string": "committed"
+      },
+      {
+        "start": 2033,
+        "end": 2034,
+        "string": " "
+      },
+      {
+        "start": 2034,
+        "end": 2037,
+        "string": "by"
+      },
+      {
+        "start": 2037,
+        "end": 2038,
+        "string": " "
+      },
+      {
+        "start": 2038,
+        "end": 2042,
+        "string": "APC"
+      },
+      {
+        "start": 2042,
+        "end": 2043,
+        "string": " "
+      },
+      {
+        "start": 2043,
+        "end": 2046,
+        "string": "in"
+      },
+      {
+        "start": 2046,
+        "end": 2047,
+        "string": " "
+      },
+      {
+        "start": 2047,
+        "end": 2054,
+        "string": "cohort"
+      },
+      {
+        "start": 2054,
+        "end": 2055,
+        "string": " "
+      },
+      {
+        "start": 2055,
+        "end": 2060,
+        "string": "with"
+      },
+      {
+        "start": 2060,
+        "end": 2061,
+        "string": " "
+      },
+      {
+        "start": 2061,
+        "end": 2066,
+        "string": "INEC"
+      },
+      {
+        "start": 2066,
+        "end": 2067,
+        "string": " "
+      },
+      {
+        "start": 2067,
+        "end": 2069,
+        "string": "."
+      },
+      {
+        "start": 2069,
+        "end": 2070,
+        "string": " "
+      },
+      {
+        "start": 2070,
+        "end": 2076,
+        "string": "Atiku"
+      },
+      {
+        "start": 2076,
+        "end": 2077,
+        "string": " "
+      },
+      {
+        "start": 2077,
+        "end": 2086,
+        "string": "Abubakar"
+      },
+      {
+        "start": 2086,
+        "end": 2087,
+        "string": " "
+      },
+      {
+        "start": 2087,
+        "end": 2095,
+        "string": "further"
+      },
+      {
+        "start": 2095,
+        "end": 2096,
+        "string": " "
+      },
+      {
+        "start": 2096,
+        "end": 2102,
+        "string": "urges"
+      },
+      {
+        "start": 2102,
+        "end": 2103,
+        "string": " "
+      },
+      {
+        "start": 2103,
+        "end": 2113,
+        "string": "Nigerians"
+      },
+      {
+        "start": 2113,
+        "end": 2114,
+        "string": " "
+      },
+      {
+        "start": 2114,
+        "end": 2117,
+        "string": "to"
+      },
+      {
+        "start": 2117,
+        "end": 2118,
+        "string": " "
+      },
+      {
+        "start": 2118,
+        "end": 2123,
+        "string": "come"
+      },
+      {
+        "start": 2123,
+        "end": 2124,
+        "string": " "
+      },
+      {
+        "start": 2124,
+        "end": 2128,
+        "string": "out"
+      },
+      {
+        "start": 2128,
+        "end": 2129,
+        "string": " "
+      },
+      {
+        "start": 2129,
+        "end": 2132,
+        "string": "en"
+      },
+      {
+        "start": 2132,
+        "end": 2133,
+        "string": " "
+      },
+      {
+        "start": 2133,
+        "end": 2139,
+        "string": "masse"
+      },
+      {
+        "start": 2139,
+        "end": 2140,
+        "string": " "
+      },
+      {
+        "start": 2140,
+        "end": 2144,
+        "string": "and"
+      },
+      {
+        "start": 2144,
+        "end": 2145,
+        "string": " "
+      },
+      {
+        "start": 2145,
+        "end": 2150,
+        "string": "vote"
+      },
+      {
+        "start": 2150,
+        "end": 2151,
+        "string": " "
+      },
+      {
+        "start": 2151,
+        "end": 2154,
+        "string": "in"
+      },
+      {
+        "start": 2154,
+        "end": 2155,
+        "string": " "
+      },
+      {
+        "start": 2155,
+        "end": 2159,
+        "string": "the"
+      },
+      {
+        "start": 2159,
+        "end": 2160,
+        "string": " "
+      },
+      {
+        "start": 2160,
+        "end": 2162,
+        "string": "9"
+      },
+      {
+        "start": 2162,
+        "end": 2163,
+        "string": " "
+      },
+      {
+        "start": 2163,
+        "end": 2169,
+        "string": "March"
+      },
+      {
+        "start": 2169,
+        "end": 2170,
+        "string": " "
+      },
+      {
+        "start": 2170,
+        "end": 2184,
+        "string": "gubernatorial"
+      },
+      {
+        "start": 2184,
+        "end": 2185,
+        "string": " "
+      },
+      {
+        "start": 2185,
+        "end": 2189,
+        "string": "and"
+      },
+      {
+        "start": 2189,
+        "end": 2190,
+        "string": " "
+      },
+      {
+        "start": 2190,
+        "end": 2196,
+        "string": "state"
+      },
+      {
+        "start": 2196,
+        "end": 2197,
+        "string": " "
+      },
+      {
+        "start": 2197,
+        "end": 2203,
+        "string": "house"
+      },
+      {
+        "start": 2203,
+        "end": 2204,
+        "string": " "
+      },
+      {
+        "start": 2204,
+        "end": 2207,
+        "string": "of"
+      },
+      {
+        "start": 2207,
+        "end": 2208,
+        "string": " "
+      },
+      {
+        "start": 2208,
+        "end": 2217,
+        "string": "assembly"
+      },
+      {
+        "start": 2217,
+        "end": 2218,
+        "string": " "
+      },
+      {
+        "start": 2218,
+        "end": 2228,
+        "string": "elections"
+      },
+      {
+        "start": 2228,
+        "end": 2229,
+        "string": " "
+      },
+      {
+        "start": 2229,
+        "end": 2233,
+        "string": "for"
+      },
+      {
+        "start": 2233,
+        "end": 2234,
+        "string": " "
+      },
+      {
+        "start": 2234,
+        "end": 2238,
+        "string": "the"
+      },
+      {
+        "start": 2238,
+        "end": 2239,
+        "string": " "
+      },
+      {
+        "start": 2239,
+        "end": 2243,
+        "string": "PDP"
+      },
+      {
+        "start": 2243,
+        "end": 2244,
+        "string": " "
+      },
+      {
+        "start": 2244,
+        "end": 2255,
+        "string": "candidates"
+      },
+      {
+        "start": 2255,
+        "end": 2256,
+        "string": " "
+      },
+      {
+        "start": 2256,
+        "end": 2260,
+        "string": "and"
+      },
+      {
+        "start": 2260,
+        "end": 2261,
+        "string": " "
+      },
+      {
+        "start": 2261,
+        "end": 2266,
+        "string": "stay"
+      },
+      {
+        "start": 2266,
+        "end": 2267,
+        "string": " "
+      },
+      {
+        "start": 2267,
+        "end": 2270,
+        "string": "to"
+      },
+      {
+        "start": 2270,
+        "end": 2271,
+        "string": " "
+      },
+      {
+        "start": 2271,
+        "end": 2278,
+        "string": "defend"
+      },
+      {
+        "start": 2278,
+        "end": 2279,
+        "string": " "
+      },
+      {
+        "start": 2279,
+        "end": 2285,
+        "string": "their"
+      },
+      {
+        "start": 2285,
+        "end": 2286,
+        "string": " "
+      },
+      {
+        "start": 2286,
+        "end": 2292,
+        "string": "votes"
+      },
+      {
+        "start": 2292,
+        "end": 2293,
+        "string": " "
+      },
+      {
+        "start": 2293,
+        "end": 2296,
+        "string": "up"
+      },
+      {
+        "start": 2296,
+        "end": 2297,
+        "string": " "
+      },
+      {
+        "start": 2297,
+        "end": 2300,
+        "string": "to"
+      },
+      {
+        "start": 2300,
+        "end": 2301,
+        "string": " "
+      },
+      {
+        "start": 2301,
+        "end": 2311,
+        "string": "collation"
+      },
+      {
+        "start": 2311,
+        "end": 2312,
+        "string": " "
+      },
+      {
+        "start": 2312,
+        "end": 2318,
+        "string": "point"
+      },
+      {
+        "start": 2318,
+        "end": 2319,
+        "string": " "
+      },
+      {
+        "start": 2319,
+        "end": 2321,
+        "string": "."
+      },
+      {
+        "start": 2321,
+        "end": 2322,
+        "string": " "
+      }
+    ]
+  }
+}

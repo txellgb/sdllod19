@@ -1,0 +1,4191 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "b13743433d7f48ee9fea316fecb48075.doc",
+  "id": "b13743433d7f48ee9fea316fecb48075.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "b13743433d7f48ee9fea316fecb48075.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 7,
+        "string": "Rwanda"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "string": "has"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "string": "launched"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "string": "a"
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "string": " "
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "string": "satellite"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "string": "named"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "string": "Icyerekezo"
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "string": " "
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "string": ","
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "string": "which"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 71,
+        "string": "will"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 78,
+        "string": "bring"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "string": "internet"
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "string": " "
+      },
+      {
+        "start": 89,
+        "end": 102,
+        "string": "connectivity"
+      },
+      {
+        "start": 102,
+        "end": 103,
+        "string": " "
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "string": "to"
+      },
+      {
+        "start": 106,
+        "end": 107,
+        "string": " "
+      },
+      {
+        "start": 107,
+        "end": 116,
+        "string": "students"
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "string": " "
+      },
+      {
+        "start": 117,
+        "end": 120,
+        "string": "at"
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "string": " "
+      },
+      {
+        "start": 121,
+        "end": 128,
+        "string": "Nkombo"
+      },
+      {
+        "start": 128,
+        "end": 129,
+        "string": " "
+      },
+      {
+        "start": 129,
+        "end": 136,
+        "string": "Island"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 139,
+        "string": ","
+      },
+      {
+        "start": 139,
+        "end": 140,
+        "string": " "
+      },
+      {
+        "start": 140,
+        "end": 143,
+        "string": "in"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 149,
+        "string": "Lake"
+      },
+      {
+        "start": 149,
+        "end": 150,
+        "string": " "
+      },
+      {
+        "start": 150,
+        "end": 155,
+        "string": "Kivu"
+      },
+      {
+        "start": 155,
+        "end": 156,
+        "string": " "
+      },
+      {
+        "start": 156,
+        "end": 158,
+        "string": "."
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 166,
+        "string": "Rwanda"
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 173,
+        "string": "wants"
+      },
+      {
+        "start": 173,
+        "end": 174,
+        "string": " "
+      },
+      {
+        "start": 174,
+        "end": 177,
+        "string": "to"
+      },
+      {
+        "start": 177,
+        "end": 178,
+        "string": " "
+      },
+      {
+        "start": 178,
+        "end": 185,
+        "string": "bridge"
+      },
+      {
+        "start": 185,
+        "end": 186,
+        "string": " "
+      },
+      {
+        "start": 186,
+        "end": 195,
+        "string": "internet"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 207,
+        "string": "connection"
+      },
+      {
+        "start": 207,
+        "end": 208,
+        "string": " "
+      },
+      {
+        "start": 208,
+        "end": 211,
+        "string": "in"
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 218,
+        "string": "rural"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 225,
+        "string": "areas"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 233,
+        "string": "around"
+      },
+      {
+        "start": 233,
+        "end": 234,
+        "string": " "
+      },
+      {
+        "start": 234,
+        "end": 238,
+        "string": "the"
+      },
+      {
+        "start": 238,
+        "end": 239,
+        "string": " "
+      },
+      {
+        "start": 239,
+        "end": 247,
+        "string": "country"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 250,
+        "string": "."
+      },
+      {
+        "start": 250,
+        "end": 251,
+        "string": " "
+      },
+      {
+        "start": 251,
+        "end": 253,
+        "string": "A"
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 264,
+        "string": "satellite"
+      },
+      {
+        "start": 264,
+        "end": 265,
+        "string": " "
+      },
+      {
+        "start": 265,
+        "end": 271,
+        "string": "named"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 283,
+        "string": "Icyerekezo"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 287,
+        "string": "by"
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 297,
+        "string": "students"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 303,
+        "string": "from"
+      },
+      {
+        "start": 303,
+        "end": 304,
+        "string": " "
+      },
+      {
+        "start": 304,
+        "end": 311,
+        "string": "Nkombo"
+      },
+      {
+        "start": 311,
+        "end": 312,
+        "string": " "
+      },
+      {
+        "start": 312,
+        "end": 319,
+        "string": "Island"
+      },
+      {
+        "start": 319,
+        "end": 320,
+        "string": " "
+      },
+      {
+        "start": 320,
+        "end": 323,
+        "string": "in"
+      },
+      {
+        "start": 323,
+        "end": 324,
+        "string": " "
+      },
+      {
+        "start": 324,
+        "end": 330,
+        "string": "rural"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 338,
+        "string": "Rwanda"
+      },
+      {
+        "start": 338,
+        "end": 339,
+        "string": " "
+      },
+      {
+        "start": 339,
+        "end": 342,
+        "string": "at"
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 348,
+        "string": "Lake"
+      },
+      {
+        "start": 348,
+        "end": 349,
+        "string": " "
+      },
+      {
+        "start": 349,
+        "end": 354,
+        "string": "Kivu"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 359,
+        "string": "was"
+      },
+      {
+        "start": 359,
+        "end": 360,
+        "string": " "
+      },
+      {
+        "start": 360,
+        "end": 369,
+        "string": "launched"
+      },
+      {
+        "start": 369,
+        "end": 370,
+        "string": " "
+      },
+      {
+        "start": 370,
+        "end": 373,
+        "string": "on"
+      },
+      {
+        "start": 373,
+        "end": 374,
+        "string": " "
+      },
+      {
+        "start": 374,
+        "end": 378,
+        "string": "the"
+      },
+      {
+        "start": 378,
+        "end": 379,
+        "string": " "
+      },
+      {
+        "start": 379,
+        "end": 384,
+        "string": "26th"
+      },
+      {
+        "start": 384,
+        "end": 385,
+        "string": " "
+      },
+      {
+        "start": 385,
+        "end": 388,
+        "string": "of"
+      },
+      {
+        "start": 388,
+        "end": 389,
+        "string": " "
+      },
+      {
+        "start": 389,
+        "end": 398,
+        "string": "February"
+      },
+      {
+        "start": 398,
+        "end": 399,
+        "string": " "
+      },
+      {
+        "start": 399,
+        "end": 401,
+        "string": ","
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 407,
+        "string": "2019"
+      },
+      {
+        "start": 407,
+        "end": 408,
+        "string": " "
+      },
+      {
+        "start": 408,
+        "end": 410,
+        "string": "."
+      },
+      {
+        "start": 410,
+        "end": 411,
+        "string": " "
+      },
+      {
+        "start": 411,
+        "end": 415,
+        "string": "The"
+      },
+      {
+        "start": 415,
+        "end": 416,
+        "string": " "
+      },
+      {
+        "start": 416,
+        "end": 427,
+        "string": "satellites"
+      },
+      {
+        "start": 427,
+        "end": 428,
+        "string": " "
+      },
+      {
+        "start": 428,
+        "end": 433,
+        "string": "were"
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 443,
+        "string": "launched"
+      },
+      {
+        "start": 443,
+        "end": 444,
+        "string": " "
+      },
+      {
+        "start": 444,
+        "end": 447,
+        "string": "in"
+      },
+      {
+        "start": 447,
+        "end": 448,
+        "string": " "
+      },
+      {
+        "start": 448,
+        "end": 455,
+        "string": "French"
+      },
+      {
+        "start": 455,
+        "end": 456,
+        "string": " "
+      },
+      {
+        "start": 456,
+        "end": 463,
+        "string": "Guiana"
+      },
+      {
+        "start": 463,
+        "end": 464,
+        "string": " "
+      },
+      {
+        "start": 464,
+        "end": 467,
+        "string": "by"
+      },
+      {
+        "start": 467,
+        "end": 468,
+        "string": " "
+      },
+      {
+        "start": 468,
+        "end": 471,
+        "string": "UK"
+      },
+      {
+        "start": 471,
+        "end": 472,
+        "string": " "
+      },
+      {
+        "start": 472,
+        "end": 480,
+        "string": "company"
+      },
+      {
+        "start": 480,
+        "end": 481,
+        "string": " "
+      },
+      {
+        "start": 481,
+        "end": 488,
+        "string": "OneWeb"
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "string": " "
+      },
+      {
+        "start": 489,
+        "end": 492,
+        "string": "in"
+      },
+      {
+        "start": 492,
+        "end": 493,
+        "string": " "
+      },
+      {
+        "start": 493,
+        "end": 505,
+        "string": "partnership"
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "string": " "
+      },
+      {
+        "start": 506,
+        "end": 511,
+        "string": "with"
+      },
+      {
+        "start": 511,
+        "end": 512,
+        "string": " "
+      },
+      {
+        "start": 512,
+        "end": 516,
+        "string": "the"
+      },
+      {
+        "start": 516,
+        "end": 517,
+        "string": " "
+      },
+      {
+        "start": 517,
+        "end": 525,
+        "string": "Rwandan"
+      },
+      {
+        "start": 525,
+        "end": 526,
+        "string": " "
+      },
+      {
+        "start": 526,
+        "end": 537,
+        "string": "government"
+      },
+      {
+        "start": 537,
+        "end": 538,
+        "string": " "
+      },
+      {
+        "start": 538,
+        "end": 540,
+        "string": "."
+      },
+      {
+        "start": 540,
+        "end": 541,
+        "string": " "
+      },
+      {
+        "start": 541,
+        "end": 545,
+        "string": "The"
+      },
+      {
+        "start": 545,
+        "end": 546,
+        "string": " "
+      },
+      {
+        "start": 546,
+        "end": 557,
+        "string": "satellites"
+      },
+      {
+        "start": 557,
+        "end": 558,
+        "string": " "
+      },
+      {
+        "start": 558,
+        "end": 563,
+        "string": "were"
+      },
+      {
+        "start": 563,
+        "end": 564,
+        "string": " "
+      },
+      {
+        "start": 564,
+        "end": 573,
+        "string": "launched"
+      },
+      {
+        "start": 573,
+        "end": 574,
+        "string": " "
+      },
+      {
+        "start": 574,
+        "end": 577,
+        "string": "to"
+      },
+      {
+        "start": 577,
+        "end": 578,
+        "string": " "
+      },
+      {
+        "start": 578,
+        "end": 580,
+        "string": "\""
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 588,
+        "string": "bridge"
+      },
+      {
+        "start": 588,
+        "end": 589,
+        "string": " "
+      },
+      {
+        "start": 589,
+        "end": 593,
+        "string": "the"
+      },
+      {
+        "start": 593,
+        "end": 594,
+        "string": " "
+      },
+      {
+        "start": 594,
+        "end": 602,
+        "string": "digital"
+      },
+      {
+        "start": 602,
+        "end": 603,
+        "string": " "
+      },
+      {
+        "start": 603,
+        "end": 610,
+        "string": "divide"
+      },
+      {
+        "start": 610,
+        "end": 611,
+        "string": " "
+      },
+      {
+        "start": 611,
+        "end": 613,
+        "string": "\""
+      },
+      {
+        "start": 613,
+        "end": 614,
+        "string": " "
+      },
+      {
+        "start": 614,
+        "end": 617,
+        "string": "in"
+      },
+      {
+        "start": 617,
+        "end": 618,
+        "string": " "
+      },
+      {
+        "start": 618,
+        "end": 624,
+        "string": "rural"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 633,
+        "string": "schools"
+      },
+      {
+        "start": 633,
+        "end": 634,
+        "string": " "
+      },
+      {
+        "start": 634,
+        "end": 637,
+        "string": "in"
+      },
+      {
+        "start": 637,
+        "end": 638,
+        "string": " "
+      },
+      {
+        "start": 638,
+        "end": 645,
+        "string": "Rwanda"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 652,
+        "string": "where"
+      },
+      {
+        "start": 652,
+        "end": 653,
+        "string": " "
+      },
+      {
+        "start": 653,
+        "end": 662,
+        "string": "internet"
+      },
+      {
+        "start": 662,
+        "end": 663,
+        "string": " "
+      },
+      {
+        "start": 663,
+        "end": 670,
+        "string": "access"
+      },
+      {
+        "start": 670,
+        "end": 671,
+        "string": " "
+      },
+      {
+        "start": 671,
+        "end": 674,
+        "string": "is"
+      },
+      {
+        "start": 674,
+        "end": 675,
+        "string": " "
+      },
+      {
+        "start": 675,
+        "end": 688,
+        "string": "non-existent"
+      },
+      {
+        "start": 688,
+        "end": 689,
+        "string": " "
+      },
+      {
+        "start": 689,
+        "end": 691,
+        "string": "."
+      },
+      {
+        "start": 691,
+        "end": 692,
+        "string": " "
+      },
+      {
+        "start": 692,
+        "end": 699,
+        "string": "OneWeb"
+      },
+      {
+        "start": 699,
+        "end": 700,
+        "string": " "
+      },
+      {
+        "start": 700,
+        "end": 702,
+        "string": ","
+      },
+      {
+        "start": 702,
+        "end": 703,
+        "string": " "
+      },
+      {
+        "start": 703,
+        "end": 705,
+        "string": "a"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 713,
+        "string": "global"
+      },
+      {
+        "start": 713,
+        "end": 714,
+        "string": " "
+      },
+      {
+        "start": 714,
+        "end": 728,
+        "string": "communication"
+      },
+      {
+        "start": 728,
+        "end": 729,
+        "string": " "
+      },
+      {
+        "start": 729,
+        "end": 734,
+        "string": "firm"
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 741,
+        "string": "which"
+      },
+      {
+        "start": 741,
+        "end": 742,
+        "string": " "
+      },
+      {
+        "start": 742,
+        "end": 748,
+        "string": "seeks"
+      },
+      {
+        "start": 748,
+        "end": 749,
+        "string": " "
+      },
+      {
+        "start": 749,
+        "end": 752,
+        "string": "to"
+      },
+      {
+        "start": 752,
+        "end": 753,
+        "string": " "
+      },
+      {
+        "start": 753,
+        "end": 755,
+        "string": "\""
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 764,
+        "string": "deliver"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 778,
+        "string": "connectivity"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 783,
+        "string": "for"
+      },
+      {
+        "start": 783,
+        "end": 784,
+        "string": " "
+      },
+      {
+        "start": 784,
+        "end": 793,
+        "string": "everyone"
+      },
+      {
+        "start": 793,
+        "end": 794,
+        "string": " "
+      },
+      {
+        "start": 794,
+        "end": 796,
+        "string": ","
+      },
+      {
+        "start": 796,
+        "end": 797,
+        "string": " "
+      },
+      {
+        "start": 797,
+        "end": 808,
+        "string": "everywhere"
+      },
+      {
+        "start": 808,
+        "end": 809,
+        "string": " "
+      },
+      {
+        "start": 809,
+        "end": 811,
+        "string": ","
+      },
+      {
+        "start": 811,
+        "end": 812,
+        "string": " "
+      },
+      {
+        "start": 812,
+        "end": 820,
+        "string": "through"
+      },
+      {
+        "start": 820,
+        "end": 821,
+        "string": " "
+      },
+      {
+        "start": 821,
+        "end": 823,
+        "string": "a"
+      },
+      {
+        "start": 823,
+        "end": 824,
+        "string": " "
+      },
+      {
+        "start": 824,
+        "end": 831,
+        "string": "global"
+      },
+      {
+        "start": 831,
+        "end": 832,
+        "string": " "
+      },
+      {
+        "start": 832,
+        "end": 842,
+        "string": "satellite"
+      },
+      {
+        "start": 842,
+        "end": 843,
+        "string": " "
+      },
+      {
+        "start": 843,
+        "end": 857,
+        "string": "constellation"
+      },
+      {
+        "start": 857,
+        "end": 858,
+        "string": " "
+      },
+      {
+        "start": 858,
+        "end": 860,
+        "string": ","
+      },
+      {
+        "start": 860,
+        "end": 861,
+        "string": " "
+      },
+      {
+        "start": 861,
+        "end": 863,
+        "string": "\""
+      },
+      {
+        "start": 863,
+        "end": 864,
+        "string": " "
+      },
+      {
+        "start": 864,
+        "end": 872,
+        "string": "through"
+      },
+      {
+        "start": 872,
+        "end": 873,
+        "string": " "
+      },
+      {
+        "start": 873,
+        "end": 877,
+        "string": "its"
+      },
+      {
+        "start": 877,
+        "end": 878,
+        "string": " "
+      },
+      {
+        "start": 878,
+        "end": 886,
+        "string": "founder"
+      },
+      {
+        "start": 886,
+        "end": 887,
+        "string": " "
+      },
+      {
+        "start": 887,
+        "end": 892,
+        "string": "Greg"
+      },
+      {
+        "start": 892,
+        "end": 893,
+        "string": " "
+      },
+      {
+        "start": 893,
+        "end": 899,
+        "string": "Wyler"
+      },
+      {
+        "start": 899,
+        "end": 900,
+        "string": " "
+      },
+      {
+        "start": 900,
+        "end": 905,
+        "string": "said"
+      },
+      {
+        "start": 905,
+        "end": 906,
+        "string": " "
+      },
+      {
+        "start": 906,
+        "end": 908,
+        "string": "\""
+      },
+      {
+        "start": 908,
+        "end": 909,
+        "string": " "
+      },
+      {
+        "start": 909,
+        "end": 920,
+        "string": "Connecting"
+      },
+      {
+        "start": 920,
+        "end": 921,
+        "string": " "
+      },
+      {
+        "start": 921,
+        "end": 928,
+        "string": "remote"
+      },
+      {
+        "start": 928,
+        "end": 929,
+        "string": " "
+      },
+      {
+        "start": 929,
+        "end": 937,
+        "string": "schools"
+      },
+      {
+        "start": 937,
+        "end": 938,
+        "string": " "
+      },
+      {
+        "start": 938,
+        "end": 941,
+        "string": "to"
+      },
+      {
+        "start": 941,
+        "end": 942,
+        "string": " "
+      },
+      {
+        "start": 942,
+        "end": 949,
+        "string": "bridge"
+      },
+      {
+        "start": 949,
+        "end": 950,
+        "string": " "
+      },
+      {
+        "start": 950,
+        "end": 954,
+        "string": "the"
+      },
+      {
+        "start": 954,
+        "end": 955,
+        "string": " "
+      },
+      {
+        "start": 955,
+        "end": 963,
+        "string": "digital"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 971,
+        "string": "divide"
+      },
+      {
+        "start": 971,
+        "end": 972,
+        "string": " "
+      },
+      {
+        "start": 972,
+        "end": 977,
+        "string": "that"
+      },
+      {
+        "start": 977,
+        "end": 978,
+        "string": " "
+      },
+      {
+        "start": 978,
+        "end": 984,
+        "string": "still"
+      },
+      {
+        "start": 984,
+        "end": 985,
+        "string": " "
+      },
+      {
+        "start": 985,
+        "end": 993,
+        "string": "impacts"
+      },
+      {
+        "start": 993,
+        "end": 994,
+        "string": " "
+      },
+      {
+        "start": 994,
+        "end": 999,
+        "string": "half"
+      },
+      {
+        "start": 999,
+        "end": 1000,
+        "string": " "
+      },
+      {
+        "start": 1000,
+        "end": 1004,
+        "string": "the"
+      },
+      {
+        "start": 1004,
+        "end": 1005,
+        "string": " "
+      },
+      {
+        "start": 1005,
+        "end": 1016,
+        "string": "population"
+      },
+      {
+        "start": 1016,
+        "end": 1017,
+        "string": " "
+      },
+      {
+        "start": 1017,
+        "end": 1020,
+        "string": "of"
+      },
+      {
+        "start": 1020,
+        "end": 1021,
+        "string": " "
+      },
+      {
+        "start": 1021,
+        "end": 1025,
+        "string": "the"
+      },
+      {
+        "start": 1025,
+        "end": 1026,
+        "string": " "
+      },
+      {
+        "start": 1026,
+        "end": 1032,
+        "string": "world"
+      },
+      {
+        "start": 1032,
+        "end": 1033,
+        "string": " "
+      },
+      {
+        "start": 1033,
+        "end": 1036,
+        "string": "is"
+      },
+      {
+        "start": 1036,
+        "end": 1037,
+        "string": " "
+      },
+      {
+        "start": 1037,
+        "end": 1040,
+        "string": "at"
+      },
+      {
+        "start": 1040,
+        "end": 1041,
+        "string": " "
+      },
+      {
+        "start": 1041,
+        "end": 1045,
+        "string": "the"
+      },
+      {
+        "start": 1045,
+        "end": 1046,
+        "string": " "
+      },
+      {
+        "start": 1046,
+        "end": 1052,
+        "string": "heart"
+      },
+      {
+        "start": 1052,
+        "end": 1053,
+        "string": " "
+      },
+      {
+        "start": 1053,
+        "end": 1056,
+        "string": "of"
+      },
+      {
+        "start": 1056,
+        "end": 1057,
+        "string": " "
+      },
+      {
+        "start": 1057,
+        "end": 1064,
+        "string": "OneWeb"
+      },
+      {
+        "start": 1064,
+        "end": 1065,
+        "string": " "
+      },
+      {
+        "start": 1065,
+        "end": 1068,
+        "string": "'s"
+      },
+      {
+        "start": 1068,
+        "end": 1069,
+        "string": " "
+      },
+      {
+        "start": 1069,
+        "end": 1076,
+        "string": "vision"
+      },
+      {
+        "start": 1076,
+        "end": 1077,
+        "string": " "
+      },
+      {
+        "start": 1077,
+        "end": 1079,
+        "string": "."
+      },
+      {
+        "start": 1079,
+        "end": 1080,
+        "string": " "
+      },
+      {
+        "start": 1080,
+        "end": 1084,
+        "string": "The"
+      },
+      {
+        "start": 1084,
+        "end": 1085,
+        "string": " "
+      },
+      {
+        "start": 1085,
+        "end": 1096,
+        "string": "satellites"
+      },
+      {
+        "start": 1096,
+        "end": 1097,
+        "string": " "
+      },
+      {
+        "start": 1097,
+        "end": 1102,
+        "string": "were"
+      },
+      {
+        "start": 1102,
+        "end": 1103,
+        "string": " "
+      },
+      {
+        "start": 1103,
+        "end": 1107,
+        "string": "not"
+      },
+      {
+        "start": 1107,
+        "end": 1108,
+        "string": " "
+      },
+      {
+        "start": 1108,
+        "end": 1117,
+        "string": "launched"
+      },
+      {
+        "start": 1117,
+        "end": 1118,
+        "string": " "
+      },
+      {
+        "start": 1118,
+        "end": 1121,
+        "string": "in"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1129,
+        "string": "Rwanda"
+      },
+      {
+        "start": 1129,
+        "end": 1130,
+        "string": " "
+      },
+      {
+        "start": 1130,
+        "end": 1138,
+        "string": "because"
+      },
+      {
+        "start": 1138,
+        "end": 1139,
+        "string": " "
+      },
+      {
+        "start": 1139,
+        "end": 1150,
+        "string": "satellites"
+      },
+      {
+        "start": 1150,
+        "end": 1151,
+        "string": " "
+      },
+      {
+        "start": 1151,
+        "end": 1155,
+        "string": "are"
+      },
+      {
+        "start": 1155,
+        "end": 1156,
+        "string": " "
+      },
+      {
+        "start": 1156,
+        "end": 1165,
+        "string": "normally"
+      },
+      {
+        "start": 1165,
+        "end": 1166,
+        "string": " "
+      },
+      {
+        "start": 1166,
+        "end": 1175,
+        "string": "launched"
+      },
+      {
+        "start": 1175,
+        "end": 1176,
+        "string": " "
+      },
+      {
+        "start": 1176,
+        "end": 1179,
+        "string": "by"
+      },
+      {
+        "start": 1179,
+        "end": 1180,
+        "string": " "
+      },
+      {
+        "start": 1180,
+        "end": 1184,
+        "string": "the"
+      },
+      {
+        "start": 1184,
+        "end": 1185,
+        "string": " "
+      },
+      {
+        "start": 1185,
+        "end": 1189,
+        "string": "sea"
+      },
+      {
+        "start": 1189,
+        "end": 1190,
+        "string": " "
+      },
+      {
+        "start": 1190,
+        "end": 1193,
+        "string": "to"
+      },
+      {
+        "start": 1193,
+        "end": 1194,
+        "string": " "
+      },
+      {
+        "start": 1194,
+        "end": 1203,
+        "string": "minimise"
+      },
+      {
+        "start": 1203,
+        "end": 1204,
+        "string": " "
+      },
+      {
+        "start": 1204,
+        "end": 1210,
+        "string": "risks"
+      },
+      {
+        "start": 1210,
+        "end": 1211,
+        "string": " "
+      },
+      {
+        "start": 1211,
+        "end": 1213,
+        "string": ","
+      },
+      {
+        "start": 1213,
+        "end": 1214,
+        "string": " "
+      },
+      {
+        "start": 1214,
+        "end": 1218,
+        "string": "and"
+      },
+      {
+        "start": 1218,
+        "end": 1219,
+        "string": " "
+      },
+      {
+        "start": 1219,
+        "end": 1224,
+        "string": "this"
+      },
+      {
+        "start": 1224,
+        "end": 1225,
+        "string": " "
+      },
+      {
+        "start": 1225,
+        "end": 1232,
+        "string": "launch"
+      },
+      {
+        "start": 1232,
+        "end": 1233,
+        "string": " "
+      },
+      {
+        "start": 1233,
+        "end": 1237,
+        "string": "was"
+      },
+      {
+        "start": 1237,
+        "end": 1238,
+        "string": " "
+      },
+      {
+        "start": 1238,
+        "end": 1240,
+        "string": "a"
+      },
+      {
+        "start": 1240,
+        "end": 1241,
+        "string": " "
+      },
+      {
+        "start": 1241,
+        "end": 1253,
+        "string": "partnership"
+      },
+      {
+        "start": 1253,
+        "end": 1254,
+        "string": " "
+      },
+      {
+        "start": 1254,
+        "end": 1256,
+        "string": "."
+      },
+      {
+        "start": 1256,
+        "end": 1257,
+        "string": " "
+      },
+      {
+        "start": 1257,
+        "end": 1261,
+        "string": "The"
+      },
+      {
+        "start": 1261,
+        "end": 1262,
+        "string": " "
+      },
+      {
+        "start": 1262,
+        "end": 1270,
+        "string": "Rwandan"
+      },
+      {
+        "start": 1270,
+        "end": 1271,
+        "string": " "
+      },
+      {
+        "start": 1271,
+        "end": 1282,
+        "string": "government"
+      },
+      {
+        "start": 1282,
+        "end": 1283,
+        "string": " "
+      },
+      {
+        "start": 1283,
+        "end": 1287,
+        "string": "has"
+      },
+      {
+        "start": 1287,
+        "end": 1288,
+        "string": " "
+      },
+      {
+        "start": 1288,
+        "end": 1295,
+        "string": "always"
+      },
+      {
+        "start": 1295,
+        "end": 1296,
+        "string": " "
+      },
+      {
+        "start": 1296,
+        "end": 1303,
+        "string": "sought"
+      },
+      {
+        "start": 1303,
+        "end": 1304,
+        "string": " "
+      },
+      {
+        "start": 1304,
+        "end": 1308,
+        "string": "the"
+      },
+      {
+        "start": 1308,
+        "end": 1309,
+        "string": " "
+      },
+      {
+        "start": 1309,
+        "end": 1313,
+        "string": "use"
+      },
+      {
+        "start": 1313,
+        "end": 1314,
+        "string": " "
+      },
+      {
+        "start": 1314,
+        "end": 1317,
+        "string": "of"
+      },
+      {
+        "start": 1317,
+        "end": 1318,
+        "string": " "
+      },
+      {
+        "start": 1318,
+        "end": 1329,
+        "string": "technology"
+      },
+      {
+        "start": 1329,
+        "end": 1330,
+        "string": " "
+      },
+      {
+        "start": 1330,
+        "end": 1333,
+        "string": "to"
+      },
+      {
+        "start": 1333,
+        "end": 1334,
+        "string": " "
+      },
+      {
+        "start": 1334,
+        "end": 1340,
+        "string": "solve"
+      },
+      {
+        "start": 1340,
+        "end": 1341,
+        "string": " "
+      },
+      {
+        "start": 1341,
+        "end": 1352,
+        "string": "challenges"
+      },
+      {
+        "start": 1352,
+        "end": 1353,
+        "string": " "
+      },
+      {
+        "start": 1353,
+        "end": 1357,
+        "string": "the"
+      },
+      {
+        "start": 1357,
+        "end": 1358,
+        "string": " "
+      },
+      {
+        "start": 1358,
+        "end": 1366,
+        "string": "country"
+      },
+      {
+        "start": 1366,
+        "end": 1367,
+        "string": " "
+      },
+      {
+        "start": 1367,
+        "end": 1373,
+        "string": "faces"
+      },
+      {
+        "start": 1373,
+        "end": 1374,
+        "string": " "
+      },
+      {
+        "start": 1374,
+        "end": 1376,
+        "string": "."
+      },
+      {
+        "start": 1376,
+        "end": 1377,
+        "string": " "
+      },
+      {
+        "start": 1377,
+        "end": 1384,
+        "string": "Rwanda"
+      },
+      {
+        "start": 1384,
+        "end": 1385,
+        "string": " "
+      },
+      {
+        "start": 1385,
+        "end": 1389,
+        "string": "was"
+      },
+      {
+        "start": 1389,
+        "end": 1390,
+        "string": " "
+      },
+      {
+        "start": 1390,
+        "end": 1394,
+        "string": "the"
+      },
+      {
+        "start": 1394,
+        "end": 1395,
+        "string": " "
+      },
+      {
+        "start": 1395,
+        "end": 1401,
+        "string": "first"
+      },
+      {
+        "start": 1401,
+        "end": 1402,
+        "string": " "
+      },
+      {
+        "start": 1402,
+        "end": 1410,
+        "string": "country"
+      },
+      {
+        "start": 1410,
+        "end": 1411,
+        "string": " "
+      },
+      {
+        "start": 1411,
+        "end": 1414,
+        "string": "in"
+      },
+      {
+        "start": 1414,
+        "end": 1415,
+        "string": " "
+      },
+      {
+        "start": 1415,
+        "end": 1419,
+        "string": "the"
+      },
+      {
+        "start": 1419,
+        "end": 1420,
+        "string": " "
+      },
+      {
+        "start": 1420,
+        "end": 1426,
+        "string": "world"
+      },
+      {
+        "start": 1426,
+        "end": 1427,
+        "string": " "
+      },
+      {
+        "start": 1427,
+        "end": 1430,
+        "string": "to"
+      },
+      {
+        "start": 1430,
+        "end": 1431,
+        "string": " "
+      },
+      {
+        "start": 1431,
+        "end": 1435,
+        "string": "use"
+      },
+      {
+        "start": 1435,
+        "end": 1436,
+        "string": " "
+      },
+      {
+        "start": 1436,
+        "end": 1443,
+        "string": "drones"
+      },
+      {
+        "start": 1443,
+        "end": 1444,
+        "string": " "
+      },
+      {
+        "start": 1444,
+        "end": 1447,
+        "string": "to"
+      },
+      {
+        "start": 1447,
+        "end": 1448,
+        "string": " "
+      },
+      {
+        "start": 1448,
+        "end": 1458,
+        "string": "transport"
+      },
+      {
+        "start": 1458,
+        "end": 1459,
+        "string": " "
+      },
+      {
+        "start": 1459,
+        "end": 1465,
+        "string": "blood"
+      },
+      {
+        "start": 1465,
+        "end": 1466,
+        "string": " "
+      },
+      {
+        "start": 1466,
+        "end": 1469,
+        "string": "to"
+      },
+      {
+        "start": 1469,
+        "end": 1470,
+        "string": " "
+      },
+      {
+        "start": 1470,
+        "end": 1477,
+        "string": "remote"
+      },
+      {
+        "start": 1477,
+        "end": 1478,
+        "string": " "
+      },
+      {
+        "start": 1478,
+        "end": 1486,
+        "string": "clinics"
+      },
+      {
+        "start": 1486,
+        "end": 1487,
+        "string": " "
+      },
+      {
+        "start": 1487,
+        "end": 1489,
+        "string": "."
+      },
+      {
+        "start": 1489,
+        "end": 1490,
+        "string": " "
+      },
+      {
+        "start": 1490,
+        "end": 1494,
+        "string": "The"
+      },
+      {
+        "start": 1494,
+        "end": 1495,
+        "string": " "
+      },
+      {
+        "start": 1495,
+        "end": 1502,
+        "string": "launch"
+      },
+      {
+        "start": 1502,
+        "end": 1503,
+        "string": " "
+      },
+      {
+        "start": 1503,
+        "end": 1506,
+        "string": "of"
+      },
+      {
+        "start": 1506,
+        "end": 1507,
+        "string": " "
+      },
+      {
+        "start": 1507,
+        "end": 1518,
+        "string": "Icyerekezo"
+      },
+      {
+        "start": 1518,
+        "end": 1519,
+        "string": " "
+      },
+      {
+        "start": 1519,
+        "end": 1523,
+        "string": "has"
+      },
+      {
+        "start": 1523,
+        "end": 1524,
+        "string": " "
+      },
+      {
+        "start": 1524,
+        "end": 1528,
+        "string": "far"
+      },
+      {
+        "start": 1528,
+        "end": 1529,
+        "string": " "
+      },
+      {
+        "start": 1529,
+        "end": 1534,
+        "string": "more"
+      },
+      {
+        "start": 1534,
+        "end": 1535,
+        "string": " "
+      },
+      {
+        "start": 1535,
+        "end": 1544,
+        "string": "reaching"
+      },
+      {
+        "start": 1544,
+        "end": 1545,
+        "string": " "
+      },
+      {
+        "start": 1545,
+        "end": 1553,
+        "string": "impacts"
+      },
+      {
+        "start": 1553,
+        "end": 1554,
+        "string": " "
+      },
+      {
+        "start": 1554,
+        "end": 1559,
+        "string": "than"
+      },
+      {
+        "start": 1559,
+        "end": 1560,
+        "string": " "
+      },
+      {
+        "start": 1560,
+        "end": 1565,
+        "string": "just"
+      },
+      {
+        "start": 1565,
+        "end": 1566,
+        "string": " "
+      },
+      {
+        "start": 1566,
+        "end": 1575,
+        "string": "internet"
+      },
+      {
+        "start": 1575,
+        "end": 1576,
+        "string": " "
+      },
+      {
+        "start": 1576,
+        "end": 1583,
+        "string": "access"
+      },
+      {
+        "start": 1583,
+        "end": 1584,
+        "string": " "
+      },
+      {
+        "start": 1584,
+        "end": 1586,
+        "string": "."
+      },
+      {
+        "start": 1586,
+        "end": 1587,
+        "string": " "
+      },
+      {
+        "start": 1587,
+        "end": 1594,
+        "string": "Rwanda"
+      },
+      {
+        "start": 1594,
+        "end": 1595,
+        "string": " "
+      },
+      {
+        "start": 1595,
+        "end": 1598,
+        "string": "'s"
+      },
+      {
+        "start": 1598,
+        "end": 1599,
+        "string": " "
+      },
+      {
+        "start": 1599,
+        "end": 1608,
+        "string": "Minister"
+      },
+      {
+        "start": 1608,
+        "end": 1609,
+        "string": " "
+      },
+      {
+        "start": 1609,
+        "end": 1612,
+        "string": "of"
+      },
+      {
+        "start": 1612,
+        "end": 1613,
+        "string": " "
+      },
+      {
+        "start": 1613,
+        "end": 1623,
+        "string": "Education"
+      },
+      {
+        "start": 1623,
+        "end": 1624,
+        "string": " "
+      },
+      {
+        "start": 1624,
+        "end": 1628,
+        "string": "Dr."
+      },
+      {
+        "start": 1628,
+        "end": 1629,
+        "string": " "
+      },
+      {
+        "start": 1629,
+        "end": 1636,
+        "string": "Eugene"
+      },
+      {
+        "start": 1636,
+        "end": 1637,
+        "string": " "
+      },
+      {
+        "start": 1637,
+        "end": 1646,
+        "string": "Mutimura"
+      },
+      {
+        "start": 1646,
+        "end": 1647,
+        "string": " "
+      },
+      {
+        "start": 1647,
+        "end": 1652,
+        "string": "said"
+      },
+      {
+        "start": 1652,
+        "end": 1653,
+        "string": " "
+      },
+      {
+        "start": 1653,
+        "end": 1655,
+        "string": ","
+      },
+      {
+        "start": 1655,
+        "end": 1656,
+        "string": " "
+      },
+      {
+        "start": 1656,
+        "end": 1658,
+        "string": "\""
+      },
+      {
+        "start": 1658,
+        "end": 1659,
+        "string": " "
+      },
+      {
+        "start": 1659,
+        "end": 1670,
+        "string": "Connecting"
+      },
+      {
+        "start": 1670,
+        "end": 1671,
+        "string": " "
+      },
+      {
+        "start": 1671,
+        "end": 1679,
+        "string": "schools"
+      },
+      {
+        "start": 1679,
+        "end": 1680,
+        "string": " "
+      },
+      {
+        "start": 1680,
+        "end": 1683,
+        "string": "is"
+      },
+      {
+        "start": 1683,
+        "end": 1684,
+        "string": " "
+      },
+      {
+        "start": 1684,
+        "end": 1686,
+        "string": "a"
+      },
+      {
+        "start": 1686,
+        "end": 1687,
+        "string": " "
+      },
+      {
+        "start": 1687,
+        "end": 1700,
+        "string": "foundational"
+      },
+      {
+        "start": 1700,
+        "end": 1701,
+        "string": " "
+      },
+      {
+        "start": 1701,
+        "end": 1708,
+        "string": "aspect"
+      },
+      {
+        "start": 1708,
+        "end": 1709,
+        "string": " "
+      },
+      {
+        "start": 1709,
+        "end": 1713,
+        "string": "and"
+      },
+      {
+        "start": 1713,
+        "end": 1714,
+        "string": " "
+      },
+      {
+        "start": 1714,
+        "end": 1721,
+        "string": "driver"
+      },
+      {
+        "start": 1721,
+        "end": 1722,
+        "string": " "
+      },
+      {
+        "start": 1722,
+        "end": 1725,
+        "string": "of"
+      },
+      {
+        "start": 1725,
+        "end": 1726,
+        "string": " "
+      },
+      {
+        "start": 1726,
+        "end": 1741,
+        "string": "transformative"
+      },
+      {
+        "start": 1741,
+        "end": 1742,
+        "string": " "
+      },
+      {
+        "start": 1742,
+        "end": 1751,
+        "string": "learning"
+      },
+      {
+        "start": 1751,
+        "end": 1752,
+        "string": " "
+      },
+      {
+        "start": 1752,
+        "end": 1754,
+        "string": "."
+      },
+      {
+        "start": 1754,
+        "end": 1755,
+        "string": " "
+      },
+      {
+        "start": 1755,
+        "end": 1762,
+        "string": "Rwanda"
+      },
+      {
+        "start": 1762,
+        "end": 1763,
+        "string": " "
+      },
+      {
+        "start": 1763,
+        "end": 1766,
+        "string": "'s"
+      },
+      {
+        "start": 1766,
+        "end": 1767,
+        "string": " "
+      },
+      {
+        "start": 1767,
+        "end": 1771,
+        "string": "ICT"
+      },
+      {
+        "start": 1771,
+        "end": 1772,
+        "string": " "
+      },
+      {
+        "start": 1772,
+        "end": 1775,
+        "string": "in"
+      },
+      {
+        "start": 1775,
+        "end": 1776,
+        "string": " "
+      },
+      {
+        "start": 1776,
+        "end": 1786,
+        "string": "education"
+      },
+      {
+        "start": 1786,
+        "end": 1787,
+        "string": " "
+      },
+      {
+        "start": 1787,
+        "end": 1794,
+        "string": "Master"
+      },
+      {
+        "start": 1794,
+        "end": 1795,
+        "string": " "
+      },
+      {
+        "start": 1795,
+        "end": 1800,
+        "string": "Plan"
+      },
+      {
+        "start": 1800,
+        "end": 1801,
+        "string": " "
+      },
+      {
+        "start": 1801,
+        "end": 1810,
+        "string": "outlines"
+      },
+      {
+        "start": 1810,
+        "end": 1811,
+        "string": " "
+      },
+      {
+        "start": 1811,
+        "end": 1821,
+        "string": "ambitions"
+      },
+      {
+        "start": 1821,
+        "end": 1822,
+        "string": " "
+      },
+      {
+        "start": 1822,
+        "end": 1825,
+        "string": "of"
+      },
+      {
+        "start": 1825,
+        "end": 1826,
+        "string": " "
+      },
+      {
+        "start": 1826,
+        "end": 1840,
+        "string": "interventions"
+      },
+      {
+        "start": 1840,
+        "end": 1841,
+        "string": " "
+      },
+      {
+        "start": 1841,
+        "end": 1844,
+        "string": "to"
+      },
+      {
+        "start": 1844,
+        "end": 1845,
+        "string": " "
+      },
+      {
+        "start": 1845,
+        "end": 1853,
+        "string": "connect"
+      },
+      {
+        "start": 1853,
+        "end": 1854,
+        "string": " "
+      },
+      {
+        "start": 1854,
+        "end": 1862,
+        "string": "schools"
+      },
+      {
+        "start": 1862,
+        "end": 1863,
+        "string": " "
+      },
+      {
+        "start": 1863,
+        "end": 1867,
+        "string": "and"
+      },
+      {
+        "start": 1867,
+        "end": 1868,
+        "string": " "
+      },
+      {
+        "start": 1868,
+        "end": 1876,
+        "string": "empower"
+      },
+      {
+        "start": 1876,
+        "end": 1877,
+        "string": " "
+      },
+      {
+        "start": 1877,
+        "end": 1885,
+        "string": "Rwandan"
+      },
+      {
+        "start": 1885,
+        "end": 1886,
+        "string": " "
+      },
+      {
+        "start": 1886,
+        "end": 1895,
+        "string": "children"
+      },
+      {
+        "start": 1895,
+        "end": 1896,
+        "string": " "
+      },
+      {
+        "start": 1896,
+        "end": 1901,
+        "string": "with"
+      },
+      {
+        "start": 1901,
+        "end": 1902,
+        "string": " "
+      },
+      {
+        "start": 1902,
+        "end": 1910,
+        "string": "immense"
+      },
+      {
+        "start": 1910,
+        "end": 1911,
+        "string": " "
+      },
+      {
+        "start": 1911,
+        "end": 1923,
+        "string": "opportunity"
+      },
+      {
+        "start": 1923,
+        "end": 1924,
+        "string": " "
+      },
+      {
+        "start": 1924,
+        "end": 1926,
+        "string": ","
+      },
+      {
+        "start": 1926,
+        "end": 1927,
+        "string": " "
+      },
+      {
+        "start": 1927,
+        "end": 1935,
+        "string": "notably"
+      },
+      {
+        "start": 1935,
+        "end": 1936,
+        "string": " "
+      },
+      {
+        "start": 1936,
+        "end": 1945,
+        "string": "research"
+      },
+      {
+        "start": 1945,
+        "end": 1946,
+        "string": " "
+      },
+      {
+        "start": 1946,
+        "end": 1948,
+        "string": ","
+      },
+      {
+        "start": 1948,
+        "end": 1949,
+        "string": " "
+      },
+      {
+        "start": 1949,
+        "end": 1957,
+        "string": "support"
+      },
+      {
+        "start": 1957,
+        "end": 1958,
+        "string": " "
+      },
+      {
+        "start": 1958,
+        "end": 1962,
+        "string": "our"
+      },
+      {
+        "start": 1962,
+        "end": 1963,
+        "string": " "
+      },
+      {
+        "start": 1963,
+        "end": 1974,
+        "string": "competence"
+      },
+      {
+        "start": 1974,
+        "end": 1975,
+        "string": " "
+      },
+      {
+        "start": 1975,
+        "end": 1981,
+        "string": "based"
+      },
+      {
+        "start": 1981,
+        "end": 1982,
+        "string": " "
+      },
+      {
+        "start": 1982,
+        "end": 1991,
+        "string": "learning"
+      },
+      {
+        "start": 1991,
+        "end": 1992,
+        "string": " "
+      },
+      {
+        "start": 1992,
+        "end": 1994,
+        "string": ","
+      },
+      {
+        "start": 1994,
+        "end": 1995,
+        "string": " "
+      },
+      {
+        "start": 1995,
+        "end": 2000,
+        "string": "ease"
+      },
+      {
+        "start": 2000,
+        "end": 2001,
+        "string": " "
+      },
+      {
+        "start": 2001,
+        "end": 2004,
+        "string": "to"
+      },
+      {
+        "start": 2004,
+        "end": 2005,
+        "string": " "
+      },
+      {
+        "start": 2005,
+        "end": 2012,
+        "string": "access"
+      },
+      {
+        "start": 2012,
+        "end": 2013,
+        "string": " "
+      },
+      {
+        "start": 2013,
+        "end": 2017,
+        "string": "and"
+      },
+      {
+        "start": 2017,
+        "end": 2018,
+        "string": " "
+      },
+      {
+        "start": 2018,
+        "end": 2024,
+        "string": "share"
+      },
+      {
+        "start": 2024,
+        "end": 2025,
+        "string": " "
+      },
+      {
+        "start": 2025,
+        "end": 2033,
+        "string": "digital"
+      },
+      {
+        "start": 2033,
+        "end": 2034,
+        "string": " "
+      },
+      {
+        "start": 2034,
+        "end": 2042,
+        "string": "content"
+      },
+      {
+        "start": 2042,
+        "end": 2043,
+        "string": " "
+      },
+      {
+        "start": 2043,
+        "end": 2045,
+        "string": ","
+      },
+      {
+        "start": 2045,
+        "end": 2046,
+        "string": " "
+      },
+      {
+        "start": 2046,
+        "end": 2054,
+        "string": "support"
+      },
+      {
+        "start": 2054,
+        "end": 2055,
+        "string": " "
+      },
+      {
+        "start": 2055,
+        "end": 2063,
+        "string": "systems"
+      },
+      {
+        "start": 2063,
+        "end": 2064,
+        "string": " "
+      },
+      {
+        "start": 2064,
+        "end": 2067,
+        "string": "to"
+      },
+      {
+        "start": 2067,
+        "end": 2068,
+        "string": " "
+      },
+      {
+        "start": 2068,
+        "end": 2076,
+        "string": "monitor"
+      },
+      {
+        "start": 2076,
+        "end": 2077,
+        "string": " "
+      },
+      {
+        "start": 2077,
+        "end": 2081,
+        "string": "and"
+      },
+      {
+        "start": 2081,
+        "end": 2082,
+        "string": " "
+      },
+      {
+        "start": 2082,
+        "end": 2091,
+        "string": "evaluate"
+      },
+      {
+        "start": 2091,
+        "end": 2092,
+        "string": " "
+      },
+      {
+        "start": 2092,
+        "end": 2100,
+        "string": "process"
+      },
+      {
+        "start": 2100,
+        "end": 2101,
+        "string": " "
+      },
+      {
+        "start": 2101,
+        "end": 2107,
+        "string": "among"
+      },
+      {
+        "start": 2107,
+        "end": 2108,
+        "string": " "
+      },
+      {
+        "start": 2108,
+        "end": 2115,
+        "string": "others"
+      },
+      {
+        "start": 2115,
+        "end": 2116,
+        "string": " "
+      },
+      {
+        "start": 2116,
+        "end": 2118,
+        "string": "."
+      },
+      {
+        "start": 2118,
+        "end": 2119,
+        "string": " "
+      },
+      {
+        "start": 2119,
+        "end": 2121,
+        "string": "\""
+      },
+      {
+        "start": 2121,
+        "end": 2122,
+        "string": " "
+      },
+      {
+        "start": 2122,
+        "end": 2126,
+        "string": "The"
+      },
+      {
+        "start": 2126,
+        "end": 2127,
+        "string": " "
+      },
+      {
+        "start": 2127,
+        "end": 2131,
+        "string": "use"
+      },
+      {
+        "start": 2131,
+        "end": 2132,
+        "string": " "
+      },
+      {
+        "start": 2132,
+        "end": 2135,
+        "string": "of"
+      },
+      {
+        "start": 2135,
+        "end": 2136,
+        "string": " "
+      },
+      {
+        "start": 2136,
+        "end": 2145,
+        "string": "standard"
+      },
+      {
+        "start": 2145,
+        "end": 2146,
+        "string": " "
+      },
+      {
+        "start": 2146,
+        "end": 2152,
+        "string": "fiber"
+      },
+      {
+        "start": 2152,
+        "end": 2153,
+        "string": " "
+      },
+      {
+        "start": 2153,
+        "end": 2160,
+        "string": "optics"
+      },
+      {
+        "start": 2160,
+        "end": 2161,
+        "string": " "
+      },
+      {
+        "start": 2161,
+        "end": 2167,
+        "string": "would"
+      },
+      {
+        "start": 2167,
+        "end": 2168,
+        "string": " "
+      },
+      {
+        "start": 2168,
+        "end": 2173,
+        "string": "have"
+      },
+      {
+        "start": 2173,
+        "end": 2174,
+        "string": " "
+      },
+      {
+        "start": 2174,
+        "end": 2179,
+        "string": "been"
+      },
+      {
+        "start": 2179,
+        "end": 2180,
+        "string": " "
+      },
+      {
+        "start": 2180,
+        "end": 2182,
+        "string": "a"
+      },
+      {
+        "start": 2182,
+        "end": 2183,
+        "string": " "
+      },
+      {
+        "start": 2183,
+        "end": 2188,
+        "string": "more"
+      },
+      {
+        "start": 2188,
+        "end": 2189,
+        "string": " "
+      },
+      {
+        "start": 2189,
+        "end": 2199,
+        "string": "expensive"
+      },
+      {
+        "start": 2199,
+        "end": 2200,
+        "string": " "
+      },
+      {
+        "start": 2200,
+        "end": 2204,
+        "string": "and"
+      },
+      {
+        "start": 2204,
+        "end": 2205,
+        "string": " "
+      },
+      {
+        "start": 2205,
+        "end": 2217,
+        "string": "inefficient"
+      },
+      {
+        "start": 2217,
+        "end": 2218,
+        "string": " "
+      },
+      {
+        "start": 2218,
+        "end": 2225,
+        "string": "choice"
+      },
+      {
+        "start": 2225,
+        "end": 2226,
+        "string": " "
+      },
+      {
+        "start": 2226,
+        "end": 2230,
+        "string": "for"
+      },
+      {
+        "start": 2230,
+        "end": 2231,
+        "string": " "
+      },
+      {
+        "start": 2231,
+        "end": 2238,
+        "string": "Rwanda"
+      },
+      {
+        "start": 2238,
+        "end": 2239,
+        "string": " "
+      },
+      {
+        "start": 2239,
+        "end": 2241,
+        "string": "."
+      },
+      {
+        "start": 2241,
+        "end": 2242,
+        "string": " "
+      },
+      {
+        "start": 2242,
+        "end": 2247,
+        "string": "Paul"
+      },
+      {
+        "start": 2247,
+        "end": 2248,
+        "string": " "
+      },
+      {
+        "start": 2248,
+        "end": 2257,
+        "string": "Ingabire"
+      },
+      {
+        "start": 2257,
+        "end": 2258,
+        "string": " "
+      },
+      {
+        "start": 2258,
+        "end": 2260,
+        "string": ","
+      },
+      {
+        "start": 2260,
+        "end": 2261,
+        "string": " "
+      },
+      {
+        "start": 2261,
+        "end": 2268,
+        "string": "Rwanda"
+      },
+      {
+        "start": 2268,
+        "end": 2269,
+        "string": " "
+      },
+      {
+        "start": 2269,
+        "end": 2272,
+        "string": "'s"
+      },
+      {
+        "start": 2272,
+        "end": 2273,
+        "string": " "
+      },
+      {
+        "start": 2273,
+        "end": 2282,
+        "string": "Minister"
+      },
+      {
+        "start": 2282,
+        "end": 2283,
+        "string": " "
+      },
+      {
+        "start": 2283,
+        "end": 2286,
+        "string": "of"
+      },
+      {
+        "start": 2286,
+        "end": 2287,
+        "string": " "
+      },
+      {
+        "start": 2287,
+        "end": 2291,
+        "string": "ICT"
+      },
+      {
+        "start": 2291,
+        "end": 2292,
+        "string": " "
+      },
+      {
+        "start": 2292,
+        "end": 2296,
+        "string": "and"
+      },
+      {
+        "start": 2296,
+        "end": 2297,
+        "string": " "
+      },
+      {
+        "start": 2297,
+        "end": 2308,
+        "string": "Innovation"
+      },
+      {
+        "start": 2308,
+        "end": 2309,
+        "string": " "
+      },
+      {
+        "start": 2309,
+        "end": 2314,
+        "string": "said"
+      },
+      {
+        "start": 2314,
+        "end": 2315,
+        "string": " "
+      },
+      {
+        "start": 2315,
+        "end": 2317,
+        "string": ","
+      },
+      {
+        "start": 2317,
+        "end": 2318,
+        "string": " "
+      },
+      {
+        "start": 2318,
+        "end": 2320,
+        "string": "\""
+      },
+      {
+        "start": 2320,
+        "end": 2321,
+        "string": " "
+      },
+      {
+        "start": 2321,
+        "end": 2328,
+        "string": "Rwanda"
+      },
+      {
+        "start": 2328,
+        "end": 2329,
+        "string": " "
+      },
+      {
+        "start": 2329,
+        "end": 2332,
+        "string": "'s"
+      },
+      {
+        "start": 2332,
+        "end": 2333,
+        "string": " "
+      },
+      {
+        "start": 2333,
+        "end": 2340,
+        "string": "choice"
+      },
+      {
+        "start": 2340,
+        "end": 2341,
+        "string": " "
+      },
+      {
+        "start": 2341,
+        "end": 2344,
+        "string": "to"
+      },
+      {
+        "start": 2344,
+        "end": 2345,
+        "string": " "
+      },
+      {
+        "start": 2345,
+        "end": 2352,
+        "string": "invest"
+      },
+      {
+        "start": 2352,
+        "end": 2353,
+        "string": " "
+      },
+      {
+        "start": 2353,
+        "end": 2356,
+        "string": "in"
+      },
+      {
+        "start": 2356,
+        "end": 2357,
+        "string": " "
+      },
+      {
+        "start": 2357,
+        "end": 2363,
+        "string": "space"
+      },
+      {
+        "start": 2363,
+        "end": 2364,
+        "string": " "
+      },
+      {
+        "start": 2364,
+        "end": 2377,
+        "string": "technologies"
+      },
+      {
+        "start": 2377,
+        "end": 2378,
+        "string": " "
+      },
+      {
+        "start": 2378,
+        "end": 2381,
+        "string": "is"
+      },
+      {
+        "start": 2381,
+        "end": 2382,
+        "string": " "
+      },
+      {
+        "start": 2382,
+        "end": 2387,
+        "string": "part"
+      },
+      {
+        "start": 2387,
+        "end": 2388,
+        "string": " "
+      },
+      {
+        "start": 2388,
+        "end": 2391,
+        "string": "of"
+      },
+      {
+        "start": 2391,
+        "end": 2392,
+        "string": " "
+      },
+      {
+        "start": 2392,
+        "end": 2396,
+        "string": "our"
+      },
+      {
+        "start": 2396,
+        "end": 2397,
+        "string": " "
+      },
+      {
+        "start": 2397,
+        "end": 2405,
+        "string": "broader"
+      },
+      {
+        "start": 2405,
+        "end": 2406,
+        "string": " "
+      },
+      {
+        "start": 2406,
+        "end": 2414,
+        "string": "mission"
+      },
+      {
+        "start": 2414,
+        "end": 2415,
+        "string": " "
+      },
+      {
+        "start": 2415,
+        "end": 2418,
+        "string": "to"
+      },
+      {
+        "start": 2418,
+        "end": 2419,
+        "string": " "
+      },
+      {
+        "start": 2419,
+        "end": 2426,
+        "string": "bridge"
+      },
+      {
+        "start": 2426,
+        "end": 2427,
+        "string": " "
+      },
+      {
+        "start": 2427,
+        "end": 2431,
+        "string": "the"
+      },
+      {
+        "start": 2431,
+        "end": 2432,
+        "string": " "
+      },
+      {
+        "start": 2432,
+        "end": 2440,
+        "string": "digital"
+      },
+      {
+        "start": 2440,
+        "end": 2441,
+        "string": " "
+      },
+      {
+        "start": 2441,
+        "end": 2448,
+        "string": "divide"
+      },
+      {
+        "start": 2448,
+        "end": 2449,
+        "string": " "
+      },
+      {
+        "start": 2449,
+        "end": 2452,
+        "string": "by"
+      },
+      {
+        "start": 2452,
+        "end": 2453,
+        "string": " "
+      },
+      {
+        "start": 2453,
+        "end": 2463,
+        "string": "providing"
+      },
+      {
+        "start": 2463,
+        "end": 2464,
+        "string": " "
+      },
+      {
+        "start": 2464,
+        "end": 2470,
+        "string": "equal"
+      },
+      {
+        "start": 2470,
+        "end": 2471,
+        "string": " "
+      },
+      {
+        "start": 2471,
+        "end": 2479,
+        "string": "digital"
+      },
+      {
+        "start": 2479,
+        "end": 2480,
+        "string": " "
+      },
+      {
+        "start": 2480,
+        "end": 2494,
+        "string": "opportunities"
+      },
+      {
+        "start": 2494,
+        "end": 2495,
+        "string": " "
+      },
+      {
+        "start": 2495,
+        "end": 2498,
+        "string": "to"
+      },
+      {
+        "start": 2498,
+        "end": 2499,
+        "string": " "
+      },
+      {
+        "start": 2499,
+        "end": 2505,
+        "string": "rural"
+      },
+      {
+        "start": 2505,
+        "end": 2506,
+        "string": " "
+      },
+      {
+        "start": 2506,
+        "end": 2510,
+        "string": "and"
+      },
+      {
+        "start": 2510,
+        "end": 2511,
+        "string": " "
+      },
+      {
+        "start": 2511,
+        "end": 2518,
+        "string": "remote"
+      },
+      {
+        "start": 2518,
+        "end": 2519,
+        "string": " "
+      },
+      {
+        "start": 2519,
+        "end": 2531,
+        "string": "communities"
+      },
+      {
+        "start": 2531,
+        "end": 2532,
+        "string": " "
+      },
+      {
+        "start": 2532,
+        "end": 2534,
+        "string": "."
+      },
+      {
+        "start": 2534,
+        "end": 2535,
+        "string": " "
+      },
+      {
+        "start": 2535,
+        "end": 2539,
+        "string": "The"
+      },
+      {
+        "start": 2539,
+        "end": 2540,
+        "string": " "
+      },
+      {
+        "start": 2540,
+        "end": 2549,
+        "string": "students"
+      },
+      {
+        "start": 2549,
+        "end": 2550,
+        "string": " "
+      },
+      {
+        "start": 2550,
+        "end": 2553,
+        "string": "at"
+      },
+      {
+        "start": 2553,
+        "end": 2554,
+        "string": " "
+      },
+      {
+        "start": 2554,
+        "end": 2556,
+        "string": "\""
+      },
+      {
+        "start": 2556,
+        "end": 2557,
+        "string": " "
+      },
+      {
+        "start": 2557,
+        "end": 2564,
+        "string": "Nkombo"
+      },
+      {
+        "start": 2564,
+        "end": 2565,
+        "string": " "
+      },
+      {
+        "start": 2565,
+        "end": 2567,
+        "string": "\""
+      },
+      {
+        "start": 2567,
+        "end": 2568,
+        "string": " "
+      },
+      {
+        "start": 2568,
+        "end": 2574,
+        "string": "named"
+      },
+      {
+        "start": 2574,
+        "end": 2575,
+        "string": " "
+      },
+      {
+        "start": 2575,
+        "end": 2579,
+        "string": "the"
+      },
+      {
+        "start": 2579,
+        "end": 2580,
+        "string": " "
+      },
+      {
+        "start": 2580,
+        "end": 2590,
+        "string": "satellite"
+      },
+      {
+        "start": 2590,
+        "end": 2591,
+        "string": " "
+      },
+      {
+        "start": 2591,
+        "end": 2593,
+        "string": "\""
+      },
+      {
+        "start": 2593,
+        "end": 2594,
+        "string": " "
+      },
+      {
+        "start": 2594,
+        "end": 2605,
+        "string": "Icyerekezo"
+      },
+      {
+        "start": 2605,
+        "end": 2606,
+        "string": " "
+      },
+      {
+        "start": 2606,
+        "end": 2608,
+        "string": "\""
+      },
+      {
+        "start": 2608,
+        "end": 2609,
+        "string": " "
+      },
+      {
+        "start": 2609,
+        "end": 2611,
+        "string": ","
+      },
+      {
+        "start": 2611,
+        "end": 2612,
+        "string": " "
+      },
+      {
+        "start": 2612,
+        "end": 2617,
+        "string": "this"
+      },
+      {
+        "start": 2617,
+        "end": 2618,
+        "string": " "
+      },
+      {
+        "start": 2618,
+        "end": 2624,
+        "string": "truly"
+      },
+      {
+        "start": 2624,
+        "end": 2625,
+        "string": " "
+      },
+      {
+        "start": 2625,
+        "end": 2633,
+        "string": "depicts"
+      },
+      {
+        "start": 2633,
+        "end": 2634,
+        "string": " "
+      },
+      {
+        "start": 2634,
+        "end": 2640,
+        "string": "their"
+      },
+      {
+        "start": 2640,
+        "end": 2641,
+        "string": " "
+      },
+      {
+        "start": 2641,
+        "end": 2645,
+        "string": "own"
+      },
+      {
+        "start": 2645,
+        "end": 2646,
+        "string": " "
+      },
+      {
+        "start": 2646,
+        "end": 2658,
+        "string": "aspirations"
+      },
+      {
+        "start": 2658,
+        "end": 2659,
+        "string": " "
+      },
+      {
+        "start": 2659,
+        "end": 2662,
+        "string": "to"
+      },
+      {
+        "start": 2662,
+        "end": 2663,
+        "string": " "
+      },
+      {
+        "start": 2663,
+        "end": 2671,
+        "string": "embrace"
+      },
+      {
+        "start": 2671,
+        "end": 2672,
+        "string": " "
+      },
+      {
+        "start": 2672,
+        "end": 2677,
+        "string": "STEM"
+      },
+      {
+        "start": 2677,
+        "end": 2678,
+        "string": " "
+      },
+      {
+        "start": 2678,
+        "end": 2685,
+        "string": "fields"
+      },
+      {
+        "start": 2685,
+        "end": 2686,
+        "string": " "
+      },
+      {
+        "start": 2686,
+        "end": 2690,
+        "string": "and"
+      },
+      {
+        "start": 2690,
+        "end": 2691,
+        "string": " "
+      },
+      {
+        "start": 2691,
+        "end": 2698,
+        "string": "emerge"
+      },
+      {
+        "start": 2698,
+        "end": 2699,
+        "string": " "
+      },
+      {
+        "start": 2699,
+        "end": 2703,
+        "string": "the"
+      },
+      {
+        "start": 2703,
+        "end": 2704,
+        "string": " "
+      },
+      {
+        "start": 2704,
+        "end": 2714,
+        "string": "workforce"
+      },
+      {
+        "start": 2714,
+        "end": 2715,
+        "string": " "
+      },
+      {
+        "start": 2715,
+        "end": 2718,
+        "string": "of"
+      },
+      {
+        "start": 2718,
+        "end": 2719,
+        "string": " "
+      },
+      {
+        "start": 2719,
+        "end": 2723,
+        "string": "the"
+      },
+      {
+        "start": 2723,
+        "end": 2724,
+        "string": " "
+      },
+      {
+        "start": 2724,
+        "end": 2731,
+        "string": "future"
+      },
+      {
+        "start": 2731,
+        "end": 2732,
+        "string": " "
+      },
+      {
+        "start": 2732,
+        "end": 2734,
+        "string": "."
+      },
+      {
+        "start": 2734,
+        "end": 2735,
+        "string": " "
+      },
+      {
+        "start": 2735,
+        "end": 2742,
+        "string": "OneWeb"
+      },
+      {
+        "start": 2742,
+        "end": 2743,
+        "string": " "
+      },
+      {
+        "start": 2743,
+        "end": 2746,
+        "string": "is"
+      },
+      {
+        "start": 2746,
+        "end": 2747,
+        "string": " "
+      },
+      {
+        "start": 2747,
+        "end": 2758,
+        "string": "partnering"
+      },
+      {
+        "start": 2758,
+        "end": 2759,
+        "string": " "
+      },
+      {
+        "start": 2759,
+        "end": 2764,
+        "string": "with"
+      },
+      {
+        "start": 2764,
+        "end": 2765,
+        "string": " "
+      },
+      {
+        "start": 2765,
+        "end": 2771,
+        "string": "other"
+      },
+      {
+        "start": 2771,
+        "end": 2772,
+        "string": " "
+      },
+      {
+        "start": 2772,
+        "end": 2780,
+        "string": "African"
+      },
+      {
+        "start": 2780,
+        "end": 2781,
+        "string": " "
+      },
+      {
+        "start": 2781,
+        "end": 2791,
+        "string": "countries"
+      },
+      {
+        "start": 2791,
+        "end": 2792,
+        "string": " "
+      },
+      {
+        "start": 2792,
+        "end": 2797,
+        "string": "like"
+      },
+      {
+        "start": 2797,
+        "end": 2798,
+        "string": " "
+      },
+      {
+        "start": 2798,
+        "end": 2805,
+        "string": "Sierra"
+      },
+      {
+        "start": 2805,
+        "end": 2806,
+        "string": " "
+      },
+      {
+        "start": 2806,
+        "end": 2812,
+        "string": "Leone"
+      },
+      {
+        "start": 2812,
+        "end": 2813,
+        "string": " "
+      },
+      {
+        "start": 2813,
+        "end": 2816,
+        "string": "to"
+      },
+      {
+        "start": 2816,
+        "end": 2817,
+        "string": " "
+      },
+      {
+        "start": 2817,
+        "end": 2822,
+        "string": "make"
+      },
+      {
+        "start": 2822,
+        "end": 2823,
+        "string": " "
+      },
+      {
+        "start": 2823,
+        "end": 2831,
+        "string": "schools"
+      },
+      {
+        "start": 2831,
+        "end": 2832,
+        "string": " "
+      },
+      {
+        "start": 2832,
+        "end": 2837,
+        "string": "have"
+      },
+      {
+        "start": 2837,
+        "end": 2838,
+        "string": " "
+      },
+      {
+        "start": 2838,
+        "end": 2843,
+        "string": "more"
+      },
+      {
+        "start": 2843,
+        "end": 2844,
+        "string": " "
+      },
+      {
+        "start": 2844,
+        "end": 2851,
+        "string": "access"
+      },
+      {
+        "start": 2851,
+        "end": 2852,
+        "string": " "
+      },
+      {
+        "start": 2852,
+        "end": 2855,
+        "string": "to"
+      },
+      {
+        "start": 2855,
+        "end": 2856,
+        "string": " "
+      },
+      {
+        "start": 2856,
+        "end": 2860,
+        "string": "the"
+      },
+      {
+        "start": 2860,
+        "end": 2861,
+        "string": " "
+      },
+      {
+        "start": 2861,
+        "end": 2870,
+        "string": "internet"
+      },
+      {
+        "start": 2870,
+        "end": 2871,
+        "string": " "
+      },
+      {
+        "start": 2871,
+        "end": 2873,
+        "string": "."
+      },
+      {
+        "start": 2873,
+        "end": 2874,
+        "string": " "
+      }
+    ]
+  }
+}

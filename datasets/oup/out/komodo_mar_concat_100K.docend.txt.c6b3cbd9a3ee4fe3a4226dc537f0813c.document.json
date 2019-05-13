@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "c6b3cbd9a3ee4fe3a4226dc537f0813c.doc",
+  "metadata": {
+    "title": "Sulfur inversion: dated Brent benchmark at discount to Mideast...",
+    "sourceUrl": "https://www.reuters.com/article/us-asia-oil-idUSKCN1QI3G5",
+    "documentSource": "reuters.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "d09df2cbb4ba4a878fb43b6869d06d8c.doc",
+  "metadata": {
+    "title": "Philadelphia Flower Show has '60s vibe with 'Flower Power'",
+    "sourceUrl": "https://toronto.citynews.ca/2019/03/01/philadelphia-flower-show-has-60s-vibe-with-flower-power/",
+    "documentSource": "toronto.citynews.ca",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

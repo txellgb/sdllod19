@@ -1,0 +1,1141 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "2f925ee8d48944dda15e6ba7f43c3fa6.doc",
+  "id": "2f925ee8d48944dda15e6ba7f43c3fa6.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "2f925ee8d48944dda15e6ba7f43c3fa6.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 6,
+        "string": "Zafar"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "string": " "
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "string": "Ahmad"
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "string": " "
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "string": "Ghani"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "string": ","
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "string": " "
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "string": "who"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "string": "heads"
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "string": " "
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "string": "the"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "string": "Myanmar"
+      },
+      {
+        "start": 49,
+        "end": 50,
+        "string": " "
+      },
+      {
+        "start": 50,
+        "end": 57,
+        "string": "Ethnic"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "string": "Rohingya"
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "string": " "
+      },
+      {
+        "start": 68,
+        "end": 74,
+        "string": "Human"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "string": "Rights"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 96,
+        "string": "Organisation"
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "string": " "
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "string": "of"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 110,
+        "string": "Malaysia"
+      },
+      {
+        "start": 110,
+        "end": 111,
+        "string": " "
+      },
+      {
+        "start": 111,
+        "end": 113,
+        "string": ","
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "string": " "
+      },
+      {
+        "start": 114,
+        "end": 119,
+        "string": "said"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 123,
+        "string": "he"
+      },
+      {
+        "start": 123,
+        "end": 124,
+        "string": " "
+      },
+      {
+        "start": 124,
+        "end": 133,
+        "string": "obtained"
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 146,
+        "string": "information"
+      },
+      {
+        "start": 146,
+        "end": 147,
+        "string": " "
+      },
+      {
+        "start": 147,
+        "end": 152,
+        "string": "that"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "string": " "
+      },
+      {
+        "start": 153,
+        "end": 158,
+        "string": "many"
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 164,
+        "string": "more"
+      },
+      {
+        "start": 164,
+        "end": 165,
+        "string": " "
+      },
+      {
+        "start": 165,
+        "end": 174,
+        "string": "Rohingya"
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 179,
+        "string": "are"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 186,
+        "string": "being"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "string": " "
+      },
+      {
+        "start": 187,
+        "end": 195,
+        "string": "tricked"
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "string": " "
+      },
+      {
+        "start": 196,
+        "end": 199,
+        "string": "by"
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 212,
+        "string": "traffickers"
+      },
+      {
+        "start": 212,
+        "end": 213,
+        "string": " "
+      },
+      {
+        "start": 213,
+        "end": 218,
+        "string": "into"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 227,
+        "string": "leaving"
+      },
+      {
+        "start": 227,
+        "end": 228,
+        "string": " "
+      },
+      {
+        "start": 228,
+        "end": 239,
+        "string": "Bangladesh"
+      },
+      {
+        "start": 239,
+        "end": 240,
+        "string": " "
+      },
+      {
+        "start": 240,
+        "end": 246,
+        "string": "after"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 253,
+        "string": "being"
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 261,
+        "string": "warned"
+      },
+      {
+        "start": 261,
+        "end": 262,
+        "string": " "
+      },
+      {
+        "start": 262,
+        "end": 267,
+        "string": "they"
+      },
+      {
+        "start": 267,
+        "end": 268,
+        "string": " "
+      },
+      {
+        "start": 268,
+        "end": 272,
+        "string": "may"
+      },
+      {
+        "start": 272,
+        "end": 273,
+        "string": " "
+      },
+      {
+        "start": 273,
+        "end": 278,
+        "string": "face"
+      },
+      {
+        "start": 278,
+        "end": 279,
+        "string": " "
+      },
+      {
+        "start": 279,
+        "end": 285,
+        "string": "death"
+      },
+      {
+        "start": 285,
+        "end": 286,
+        "string": " "
+      },
+      {
+        "start": 286,
+        "end": 289,
+        "string": "if"
+      },
+      {
+        "start": 289,
+        "end": 290,
+        "string": " "
+      },
+      {
+        "start": 290,
+        "end": 302,
+        "string": "repatriated"
+      },
+      {
+        "start": 302,
+        "end": 303,
+        "string": " "
+      },
+      {
+        "start": 303,
+        "end": 306,
+        "string": "to"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 315,
+        "string": "Myanmar"
+      },
+      {
+        "start": 315,
+        "end": 316,
+        "string": " "
+      },
+      {
+        "start": 316,
+        "end": 318,
+        "string": "."
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 324,
+        "string": "More"
+      },
+      {
+        "start": 324,
+        "end": 325,
+        "string": " "
+      },
+      {
+        "start": 325,
+        "end": 330,
+        "string": "than"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 335,
+        "string": "700"
+      },
+      {
+        "start": 335,
+        "end": 336,
+        "string": " "
+      },
+      {
+        "start": 336,
+        "end": 340,
+        "string": "000"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 348,
+        "string": "ethnic"
+      },
+      {
+        "start": 348,
+        "end": 349,
+        "string": " "
+      },
+      {
+        "start": 349,
+        "end": 358,
+        "string": "Rohingya"
+      },
+      {
+        "start": 358,
+        "end": 359,
+        "string": " "
+      },
+      {
+        "start": 359,
+        "end": 364,
+        "string": "have"
+      },
+      {
+        "start": 364,
+        "end": 365,
+        "string": " "
+      },
+      {
+        "start": 365,
+        "end": 370,
+        "string": "fled"
+      },
+      {
+        "start": 370,
+        "end": 371,
+        "string": " "
+      },
+      {
+        "start": 371,
+        "end": 376,
+        "string": "from"
+      },
+      {
+        "start": 376,
+        "end": 377,
+        "string": " "
+      },
+      {
+        "start": 377,
+        "end": 385,
+        "string": "Myanmar"
+      },
+      {
+        "start": 385,
+        "end": 386,
+        "string": " "
+      },
+      {
+        "start": 386,
+        "end": 389,
+        "string": "to"
+      },
+      {
+        "start": 389,
+        "end": 390,
+        "string": " "
+      },
+      {
+        "start": 390,
+        "end": 401,
+        "string": "Bangladesh"
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 408,
+        "string": "since"
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 416,
+        "string": "August"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 422,
+        "string": "2017"
+      },
+      {
+        "start": 422,
+        "end": 423,
+        "string": " "
+      },
+      {
+        "start": 423,
+        "end": 425,
+        "string": ","
+      },
+      {
+        "start": 425,
+        "end": 426,
+        "string": " "
+      },
+      {
+        "start": 426,
+        "end": 431,
+        "string": "when"
+      },
+      {
+        "start": 431,
+        "end": 432,
+        "string": " "
+      },
+      {
+        "start": 432,
+        "end": 434,
+        "string": "a"
+      },
+      {
+        "start": 434,
+        "end": 435,
+        "string": " "
+      },
+      {
+        "start": 435,
+        "end": 441,
+        "string": "group"
+      },
+      {
+        "start": 441,
+        "end": 442,
+        "string": " "
+      },
+      {
+        "start": 442,
+        "end": 445,
+        "string": "of"
+      },
+      {
+        "start": 445,
+        "end": 446,
+        "string": " "
+      },
+      {
+        "start": 446,
+        "end": 456,
+        "string": "militants"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 466,
+        "string": "attacked"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 476,
+        "string": "security"
+      },
+      {
+        "start": 476,
+        "end": 477,
+        "string": " "
+      },
+      {
+        "start": 477,
+        "end": 484,
+        "string": "forces"
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 487,
+        "string": ","
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 499,
+        "string": "triggering"
+      },
+      {
+        "start": 499,
+        "end": 500,
+        "string": " "
+      },
+      {
+        "start": 500,
+        "end": 502,
+        "string": "a"
+      },
+      {
+        "start": 502,
+        "end": 503,
+        "string": " "
+      },
+      {
+        "start": 503,
+        "end": 511,
+        "string": "massive"
+      },
+      {
+        "start": 511,
+        "end": 512,
+        "string": " "
+      },
+      {
+        "start": 512,
+        "end": 524,
+        "string": "retaliation"
+      },
+      {
+        "start": 524,
+        "end": 525,
+        "string": " "
+      },
+      {
+        "start": 525,
+        "end": 528,
+        "string": "by"
+      },
+      {
+        "start": 528,
+        "end": 529,
+        "string": " "
+      },
+      {
+        "start": 529,
+        "end": 537,
+        "string": "Myanmar"
+      },
+      {
+        "start": 537,
+        "end": 538,
+        "string": " "
+      },
+      {
+        "start": 538,
+        "end": 541,
+        "string": "'s"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 547,
+        "string": "army"
+      },
+      {
+        "start": 547,
+        "end": 548,
+        "string": " "
+      },
+      {
+        "start": 548,
+        "end": 550,
+        "string": "."
+      },
+      {
+        "start": 550,
+        "end": 551,
+        "string": " "
+      },
+      {
+        "start": 551,
+        "end": 557,
+        "string": "Chris"
+      },
+      {
+        "start": 557,
+        "end": 558,
+        "string": " "
+      },
+      {
+        "start": 558,
+        "end": 563,
+        "string": "Lewa"
+      },
+      {
+        "start": 563,
+        "end": 564,
+        "string": " "
+      },
+      {
+        "start": 564,
+        "end": 566,
+        "string": ","
+      },
+      {
+        "start": 566,
+        "end": 567,
+        "string": " "
+      },
+      {
+        "start": 567,
+        "end": 575,
+        "string": "founder"
+      },
+      {
+        "start": 575,
+        "end": 576,
+        "string": " "
+      },
+      {
+        "start": 576,
+        "end": 579,
+        "string": "of"
+      },
+      {
+        "start": 579,
+        "end": 580,
+        "string": " "
+      },
+      {
+        "start": 580,
+        "end": 584,
+        "string": "the"
+      },
+      {
+        "start": 584,
+        "end": 585,
+        "string": " "
+      },
+      {
+        "start": 585,
+        "end": 592,
+        "string": "Arakan"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 601,
+        "string": "Project"
+      },
+      {
+        "start": 601,
+        "end": 602,
+        "string": " "
+      },
+      {
+        "start": 602,
+        "end": 608,
+        "string": "which"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 615,
+        "string": "works"
+      },
+      {
+        "start": 615,
+        "end": 616,
+        "string": " "
+      },
+      {
+        "start": 616,
+        "end": 619,
+        "string": "to"
+      },
+      {
+        "start": 619,
+        "end": 620,
+        "string": " "
+      },
+      {
+        "start": 620,
+        "end": 628,
+        "string": "improve"
+      },
+      {
+        "start": 628,
+        "end": 629,
+        "string": " "
+      },
+      {
+        "start": 629,
+        "end": 640,
+        "string": "conditions"
+      },
+      {
+        "start": 640,
+        "end": 641,
+        "string": " "
+      },
+      {
+        "start": 641,
+        "end": 645,
+        "string": "for"
+      },
+      {
+        "start": 645,
+        "end": 646,
+        "string": " "
+      },
+      {
+        "start": 646,
+        "end": 655,
+        "string": "Rohingya"
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 658,
+        "string": ","
+      },
+      {
+        "start": 658,
+        "end": 659,
+        "string": " "
+      },
+      {
+        "start": 659,
+        "end": 664,
+        "string": "said"
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 669,
+        "string": "the"
+      },
+      {
+        "start": 669,
+        "end": 670,
+        "string": " "
+      },
+      {
+        "start": 670,
+        "end": 676,
+        "string": "women"
+      },
+      {
+        "start": 676,
+        "end": 677,
+        "string": " "
+      },
+      {
+        "start": 677,
+        "end": 681,
+        "string": "and"
+      },
+      {
+        "start": 681,
+        "end": 682,
+        "string": " "
+      },
+      {
+        "start": 682,
+        "end": 691,
+        "string": "children"
+      },
+      {
+        "start": 691,
+        "end": 692,
+        "string": " "
+      },
+      {
+        "start": 692,
+        "end": 697,
+        "string": "were"
+      },
+      {
+        "start": 697,
+        "end": 698,
+        "string": " "
+      },
+      {
+        "start": 698,
+        "end": 703,
+        "string": "part"
+      },
+      {
+        "start": 703,
+        "end": 704,
+        "string": " "
+      },
+      {
+        "start": 704,
+        "end": 707,
+        "string": "of"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 710,
+        "string": "a"
+      },
+      {
+        "start": 710,
+        "end": 711,
+        "string": " "
+      },
+      {
+        "start": 711,
+        "end": 717,
+        "string": "large"
+      },
+      {
+        "start": 717,
+        "end": 718,
+        "string": " "
+      },
+      {
+        "start": 718,
+        "end": 724,
+        "string": "group"
+      },
+      {
+        "start": 724,
+        "end": 725,
+        "string": " "
+      },
+      {
+        "start": 725,
+        "end": 730,
+        "string": "that"
+      },
+      {
+        "start": 730,
+        "end": 731,
+        "string": " "
+      },
+      {
+        "start": 731,
+        "end": 738,
+        "string": "sailed"
+      },
+      {
+        "start": 738,
+        "end": 739,
+        "string": " "
+      },
+      {
+        "start": 739,
+        "end": 744,
+        "string": "from"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 756,
+        "string": "Bangladesh"
+      },
+      {
+        "start": 756,
+        "end": 757,
+        "string": " "
+      },
+      {
+        "start": 757,
+        "end": 764,
+        "string": "around"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 774,
+        "string": "February"
+      },
+      {
+        "start": 774,
+        "end": 775,
+        "string": " "
+      },
+      {
+        "start": 775,
+        "end": 778,
+        "string": "15"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 781,
+        "string": "."
+      },
+      {
+        "start": 781,
+        "end": 782,
+        "string": " "
+      }
+    ]
+  }
+}

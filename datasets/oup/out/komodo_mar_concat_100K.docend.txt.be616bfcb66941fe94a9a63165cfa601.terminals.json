@@ -1,0 +1,2741 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "be616bfcb66941fe94a9a63165cfa601.doc",
+  "id": "be616bfcb66941fe94a9a63165cfa601.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "be616bfcb66941fe94a9a63165cfa601.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 2,
+        "string": "("
+      },
+      {
+        "start": 2,
+        "end": 3,
+        "string": " "
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "string": "CNN"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "string": ")"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "string": "President"
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "string": " "
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "string": "Donald"
+      },
+      {
+        "start": 29,
+        "end": 30,
+        "string": " "
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "string": "Trump"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "string": "asked"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "string": "China"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "string": "in"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 57,
+        "string": "a"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 64,
+        "string": "tweet"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 72,
+        "string": "Friday"
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "string": "to"
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "string": " "
+      },
+      {
+        "start": 77,
+        "end": 82,
+        "string": "lift"
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "string": " "
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "string": "all"
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "string": " "
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "string": "of"
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "string": "its"
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "string": " "
+      },
+      {
+        "start": 97,
+        "end": 105,
+        "string": "tariffs"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 109,
+        "string": "on"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 119,
+        "string": "American"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 133,
+        "string": "agricultural"
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "string": " "
+      },
+      {
+        "start": 134,
+        "end": 143,
+        "string": "products"
+      },
+      {
+        "start": 143,
+        "end": 144,
+        "string": " "
+      },
+      {
+        "start": 144,
+        "end": 146,
+        "string": ","
+      },
+      {
+        "start": 146,
+        "end": 147,
+        "string": " "
+      },
+      {
+        "start": 147,
+        "end": 156,
+        "string": "pointing"
+      },
+      {
+        "start": 156,
+        "end": 157,
+        "string": " "
+      },
+      {
+        "start": 157,
+        "end": 160,
+        "string": "to"
+      },
+      {
+        "start": 160,
+        "end": 161,
+        "string": " "
+      },
+      {
+        "start": 161,
+        "end": 165,
+        "string": "his"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 175,
+        "string": "decision"
+      },
+      {
+        "start": 175,
+        "end": 176,
+        "string": " "
+      },
+      {
+        "start": 176,
+        "end": 179,
+        "string": "to"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 186,
+        "string": "delay"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "string": " "
+      },
+      {
+        "start": 187,
+        "end": 189,
+        "string": "a"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 197,
+        "string": "second"
+      },
+      {
+        "start": 197,
+        "end": 198,
+        "string": " "
+      },
+      {
+        "start": 198,
+        "end": 204,
+        "string": "round"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 208,
+        "string": "of"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 217,
+        "string": "tariffs"
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      },
+      {
+        "start": 218,
+        "end": 222,
+        "string": "and"
+      },
+      {
+        "start": 222,
+        "end": 223,
+        "string": " "
+      },
+      {
+        "start": 223,
+        "end": 226,
+        "string": "to"
+      },
+      {
+        "start": 226,
+        "end": 227,
+        "string": " "
+      },
+      {
+        "start": 227,
+        "end": 237,
+        "string": "improving"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 244,
+        "string": "trade"
+      },
+      {
+        "start": 244,
+        "end": 245,
+        "string": " "
+      },
+      {
+        "start": 245,
+        "end": 255,
+        "string": "relations"
+      },
+      {
+        "start": 255,
+        "end": 256,
+        "string": " "
+      },
+      {
+        "start": 256,
+        "end": 261,
+        "string": "with"
+      },
+      {
+        "start": 261,
+        "end": 262,
+        "string": " "
+      },
+      {
+        "start": 262,
+        "end": 268,
+        "string": "China"
+      },
+      {
+        "start": 268,
+        "end": 269,
+        "string": " "
+      },
+      {
+        "start": 269,
+        "end": 271,
+        "string": "."
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 277,
+        "string": "This"
+      },
+      {
+        "start": 277,
+        "end": 278,
+        "string": " "
+      },
+      {
+        "start": 278,
+        "end": 281,
+        "string": "is"
+      },
+      {
+        "start": 281,
+        "end": 282,
+        "string": " "
+      },
+      {
+        "start": 282,
+        "end": 287,
+        "string": "very"
+      },
+      {
+        "start": 287,
+        "end": 288,
+        "string": " "
+      },
+      {
+        "start": 288,
+        "end": 298,
+        "string": "important"
+      },
+      {
+        "start": 298,
+        "end": 299,
+        "string": " "
+      },
+      {
+        "start": 299,
+        "end": 303,
+        "string": "for"
+      },
+      {
+        "start": 303,
+        "end": 304,
+        "string": " "
+      },
+      {
+        "start": 304,
+        "end": 308,
+        "string": "our"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 315,
+        "string": "great"
+      },
+      {
+        "start": 315,
+        "end": 316,
+        "string": " "
+      },
+      {
+        "start": 316,
+        "end": 324,
+        "string": "farmers"
+      },
+      {
+        "start": 324,
+        "end": 325,
+        "string": " "
+      },
+      {
+        "start": 325,
+        "end": 327,
+        "string": "-"
+      },
+      {
+        "start": 327,
+        "end": 328,
+        "string": " "
+      },
+      {
+        "start": 328,
+        "end": 332,
+        "string": "and"
+      },
+      {
+        "start": 332,
+        "end": 333,
+        "string": " "
+      },
+      {
+        "start": 333,
+        "end": 336,
+        "string": "me"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 339,
+        "string": "!"
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 342,
+        "string": "\""
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 349,
+        "string": "Trump"
+      },
+      {
+        "start": 349,
+        "end": 350,
+        "string": " "
+      },
+      {
+        "start": 350,
+        "end": 354,
+        "string": "had"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 365,
+        "string": "announced"
+      },
+      {
+        "start": 365,
+        "end": 366,
+        "string": " "
+      },
+      {
+        "start": 366,
+        "end": 370,
+        "string": "the"
+      },
+      {
+        "start": 370,
+        "end": 371,
+        "string": " "
+      },
+      {
+        "start": 371,
+        "end": 380,
+        "string": "decision"
+      },
+      {
+        "start": 380,
+        "end": 381,
+        "string": " "
+      },
+      {
+        "start": 381,
+        "end": 384,
+        "string": "to"
+      },
+      {
+        "start": 384,
+        "end": 385,
+        "string": " "
+      },
+      {
+        "start": 385,
+        "end": 391,
+        "string": "delay"
+      },
+      {
+        "start": 391,
+        "end": 392,
+        "string": " "
+      },
+      {
+        "start": 392,
+        "end": 396,
+        "string": "the"
+      },
+      {
+        "start": 396,
+        "end": 397,
+        "string": " "
+      },
+      {
+        "start": 397,
+        "end": 405,
+        "string": "tariffs"
+      },
+      {
+        "start": 405,
+        "end": 406,
+        "string": " "
+      },
+      {
+        "start": 406,
+        "end": 408,
+        "string": ","
+      },
+      {
+        "start": 408,
+        "end": 409,
+        "string": " "
+      },
+      {
+        "start": 409,
+        "end": 412,
+        "string": "as"
+      },
+      {
+        "start": 412,
+        "end": 413,
+        "string": " "
+      },
+      {
+        "start": 413,
+        "end": 418,
+        "string": "well"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 422,
+        "string": "as"
+      },
+      {
+        "start": 422,
+        "end": 423,
+        "string": " "
+      },
+      {
+        "start": 423,
+        "end": 425,
+        "string": "a"
+      },
+      {
+        "start": 425,
+        "end": 426,
+        "string": " "
+      },
+      {
+        "start": 426,
+        "end": 434,
+        "string": "planned"
+      },
+      {
+        "start": 434,
+        "end": 435,
+        "string": " "
+      },
+      {
+        "start": 435,
+        "end": 442,
+        "string": "summit"
+      },
+      {
+        "start": 442,
+        "end": 443,
+        "string": " "
+      },
+      {
+        "start": 443,
+        "end": 446,
+        "string": "to"
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 452,
+        "string": "wrap"
+      },
+      {
+        "start": 452,
+        "end": 453,
+        "string": " "
+      },
+      {
+        "start": 453,
+        "end": 456,
+        "string": "up"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 461,
+        "string": "the"
+      },
+      {
+        "start": 461,
+        "end": 462,
+        "string": " "
+      },
+      {
+        "start": 462,
+        "end": 468,
+        "string": "trade"
+      },
+      {
+        "start": 468,
+        "end": 469,
+        "string": " "
+      },
+      {
+        "start": 469,
+        "end": 479,
+        "string": "agreement"
+      },
+      {
+        "start": 479,
+        "end": 480,
+        "string": " "
+      },
+      {
+        "start": 480,
+        "end": 485,
+        "string": "with"
+      },
+      {
+        "start": 485,
+        "end": 486,
+        "string": " "
+      },
+      {
+        "start": 486,
+        "end": 494,
+        "string": "Chinese"
+      },
+      {
+        "start": 494,
+        "end": 495,
+        "string": " "
+      },
+      {
+        "start": 495,
+        "end": 505,
+        "string": "President"
+      },
+      {
+        "start": 505,
+        "end": 506,
+        "string": " "
+      },
+      {
+        "start": 506,
+        "end": 509,
+        "string": "Xi"
+      },
+      {
+        "start": 509,
+        "end": 510,
+        "string": " "
+      },
+      {
+        "start": 510,
+        "end": 518,
+        "string": "Jinping"
+      },
+      {
+        "start": 518,
+        "end": 519,
+        "string": " "
+      },
+      {
+        "start": 519,
+        "end": 522,
+        "string": "at"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 534,
+        "string": "Mar-a-Lago"
+      },
+      {
+        "start": 534,
+        "end": 535,
+        "string": " "
+      },
+      {
+        "start": 535,
+        "end": 537,
+        "string": ","
+      },
+      {
+        "start": 537,
+        "end": 538,
+        "string": " "
+      },
+      {
+        "start": 538,
+        "end": 541,
+        "string": "in"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 544,
+        "string": "a"
+      },
+      {
+        "start": 544,
+        "end": 545,
+        "string": " "
+      },
+      {
+        "start": 545,
+        "end": 551,
+        "string": "tweet"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 559,
+        "string": "Sunday"
+      },
+      {
+        "start": 559,
+        "end": 560,
+        "string": " "
+      },
+      {
+        "start": 560,
+        "end": 562,
+        "string": "."
+      },
+      {
+        "start": 562,
+        "end": 563,
+        "string": " "
+      },
+      {
+        "start": 563,
+        "end": 567,
+        "string": "The"
+      },
+      {
+        "start": 567,
+        "end": 568,
+        "string": " "
+      },
+      {
+        "start": 568,
+        "end": 576,
+        "string": "tariffs"
+      },
+      {
+        "start": 576,
+        "end": 577,
+        "string": " "
+      },
+      {
+        "start": 577,
+        "end": 581,
+        "string": "had"
+      },
+      {
+        "start": 581,
+        "end": 582,
+        "string": " "
+      },
+      {
+        "start": 582,
+        "end": 587,
+        "string": "been"
+      },
+      {
+        "start": 587,
+        "end": 588,
+        "string": " "
+      },
+      {
+        "start": 588,
+        "end": 592,
+        "string": "set"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 596,
+        "string": "to"
+      },
+      {
+        "start": 596,
+        "end": 597,
+        "string": " "
+      },
+      {
+        "start": 597,
+        "end": 600,
+        "string": "go"
+      },
+      {
+        "start": 600,
+        "end": 601,
+        "string": " "
+      },
+      {
+        "start": 601,
+        "end": 606,
+        "string": "into"
+      },
+      {
+        "start": 606,
+        "end": 607,
+        "string": " "
+      },
+      {
+        "start": 607,
+        "end": 614,
+        "string": "effect"
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 622,
+        "string": "Friday"
+      },
+      {
+        "start": 622,
+        "end": 623,
+        "string": " "
+      },
+      {
+        "start": 623,
+        "end": 626,
+        "string": "if"
+      },
+      {
+        "start": 626,
+        "end": 627,
+        "string": " "
+      },
+      {
+        "start": 627,
+        "end": 630,
+        "string": "no"
+      },
+      {
+        "start": 630,
+        "end": 631,
+        "string": " "
+      },
+      {
+        "start": 631,
+        "end": 637,
+        "string": "trade"
+      },
+      {
+        "start": 637,
+        "end": 638,
+        "string": " "
+      },
+      {
+        "start": 638,
+        "end": 643,
+        "string": "deal"
+      },
+      {
+        "start": 643,
+        "end": 644,
+        "string": " "
+      },
+      {
+        "start": 644,
+        "end": 649,
+        "string": "were"
+      },
+      {
+        "start": 649,
+        "end": 650,
+        "string": " "
+      },
+      {
+        "start": 650,
+        "end": 664,
+        "string": "reached.China"
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 668,
+        "string": "is"
+      },
+      {
+        "start": 668,
+        "end": 669,
+        "string": " "
+      },
+      {
+        "start": 669,
+        "end": 673,
+        "string": "the"
+      },
+      {
+        "start": 673,
+        "end": 674,
+        "string": " "
+      },
+      {
+        "start": 674,
+        "end": 681,
+        "string": "United"
+      },
+      {
+        "start": 681,
+        "end": 682,
+        "string": " "
+      },
+      {
+        "start": 682,
+        "end": 689,
+        "string": "States"
+      },
+      {
+        "start": 689,
+        "end": 690,
+        "string": " "
+      },
+      {
+        "start": 690,
+        "end": 692,
+        "string": "'"
+      },
+      {
+        "start": 692,
+        "end": 693,
+        "string": " "
+      },
+      {
+        "start": 693,
+        "end": 700,
+        "string": "second"
+      },
+      {
+        "start": 700,
+        "end": 701,
+        "string": " "
+      },
+      {
+        "start": 701,
+        "end": 709,
+        "string": "largest"
+      },
+      {
+        "start": 709,
+        "end": 710,
+        "string": " "
+      },
+      {
+        "start": 710,
+        "end": 723,
+        "string": "agricultural"
+      },
+      {
+        "start": 723,
+        "end": 724,
+        "string": " "
+      },
+      {
+        "start": 724,
+        "end": 731,
+        "string": "market"
+      },
+      {
+        "start": 731,
+        "end": 732,
+        "string": " "
+      },
+      {
+        "start": 732,
+        "end": 734,
+        "string": ","
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 745,
+        "string": "according"
+      },
+      {
+        "start": 745,
+        "end": 746,
+        "string": " "
+      },
+      {
+        "start": 746,
+        "end": 749,
+        "string": "to"
+      },
+      {
+        "start": 749,
+        "end": 750,
+        "string": " "
+      },
+      {
+        "start": 750,
+        "end": 755,
+        "string": "data"
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 761,
+        "string": "from"
+      },
+      {
+        "start": 761,
+        "end": 762,
+        "string": " "
+      },
+      {
+        "start": 762,
+        "end": 766,
+        "string": "the"
+      },
+      {
+        "start": 766,
+        "end": 767,
+        "string": " "
+      },
+      {
+        "start": 767,
+        "end": 774,
+        "string": "Office"
+      },
+      {
+        "start": 774,
+        "end": 775,
+        "string": " "
+      },
+      {
+        "start": 775,
+        "end": 778,
+        "string": "of"
+      },
+      {
+        "start": 778,
+        "end": 779,
+        "string": " "
+      },
+      {
+        "start": 779,
+        "end": 783,
+        "string": "the"
+      },
+      {
+        "start": 783,
+        "end": 784,
+        "string": " "
+      },
+      {
+        "start": 784,
+        "end": 787,
+        "string": "US"
+      },
+      {
+        "start": 787,
+        "end": 788,
+        "string": " "
+      },
+      {
+        "start": 788,
+        "end": 794,
+        "string": "Trade"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 810,
+        "string": "Representative"
+      },
+      {
+        "start": 810,
+        "end": 811,
+        "string": " "
+      },
+      {
+        "start": 811,
+        "end": 813,
+        "string": "."
+      },
+      {
+        "start": 813,
+        "end": 814,
+        "string": " "
+      },
+      {
+        "start": 814,
+        "end": 820,
+        "string": "Trump"
+      },
+      {
+        "start": 820,
+        "end": 821,
+        "string": " "
+      },
+      {
+        "start": 821,
+        "end": 824,
+        "string": "on"
+      },
+      {
+        "start": 824,
+        "end": 825,
+        "string": " "
+      },
+      {
+        "start": 825,
+        "end": 832,
+        "string": "Sunday"
+      },
+      {
+        "start": 832,
+        "end": 833,
+        "string": " "
+      },
+      {
+        "start": 833,
+        "end": 837,
+        "string": "had"
+      },
+      {
+        "start": 837,
+        "end": 838,
+        "string": " "
+      },
+      {
+        "start": 838,
+        "end": 845,
+        "string": "lauded"
+      },
+      {
+        "start": 845,
+        "end": 846,
+        "string": " "
+      },
+      {
+        "start": 846,
+        "end": 848,
+        "string": "\""
+      },
+      {
+        "start": 848,
+        "end": 849,
+        "string": " "
+      },
+      {
+        "start": 849,
+        "end": 861,
+        "string": "substantial"
+      },
+      {
+        "start": 861,
+        "end": 862,
+        "string": " "
+      },
+      {
+        "start": 862,
+        "end": 871,
+        "string": "progress"
+      },
+      {
+        "start": 871,
+        "end": 872,
+        "string": " "
+      },
+      {
+        "start": 872,
+        "end": 874,
+        "string": "\""
+      },
+      {
+        "start": 874,
+        "end": 875,
+        "string": " "
+      },
+      {
+        "start": 875,
+        "end": 878,
+        "string": "in"
+      },
+      {
+        "start": 878,
+        "end": 879,
+        "string": " "
+      },
+      {
+        "start": 879,
+        "end": 883,
+        "string": "the"
+      },
+      {
+        "start": 883,
+        "end": 884,
+        "string": " "
+      },
+      {
+        "start": 884,
+        "end": 890,
+        "string": "talks"
+      },
+      {
+        "start": 890,
+        "end": 891,
+        "string": " "
+      },
+      {
+        "start": 891,
+        "end": 900,
+        "string": "covering"
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 903,
+        "string": "\""
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 914,
+        "string": "important"
+      },
+      {
+        "start": 914,
+        "end": 915,
+        "string": " "
+      },
+      {
+        "start": 915,
+        "end": 926,
+        "string": "structural"
+      },
+      {
+        "start": 926,
+        "end": 927,
+        "string": " "
+      },
+      {
+        "start": 927,
+        "end": 934,
+        "string": "issues"
+      },
+      {
+        "start": 934,
+        "end": 935,
+        "string": " "
+      },
+      {
+        "start": 935,
+        "end": 945,
+        "string": "including"
+      },
+      {
+        "start": 945,
+        "end": 946,
+        "string": " "
+      },
+      {
+        "start": 946,
+        "end": 959,
+        "string": "intellectual"
+      },
+      {
+        "start": 959,
+        "end": 960,
+        "string": " "
+      },
+      {
+        "start": 960,
+        "end": 969,
+        "string": "property"
+      },
+      {
+        "start": 969,
+        "end": 970,
+        "string": " "
+      },
+      {
+        "start": 970,
+        "end": 981,
+        "string": "protection"
+      },
+      {
+        "start": 981,
+        "end": 982,
+        "string": " "
+      },
+      {
+        "start": 982,
+        "end": 984,
+        "string": ","
+      },
+      {
+        "start": 984,
+        "end": 985,
+        "string": " "
+      },
+      {
+        "start": 985,
+        "end": 996,
+        "string": "technology"
+      },
+      {
+        "start": 996,
+        "end": 997,
+        "string": " "
+      },
+      {
+        "start": 997,
+        "end": 1006,
+        "string": "transfer"
+      },
+      {
+        "start": 1006,
+        "end": 1007,
+        "string": " "
+      },
+      {
+        "start": 1007,
+        "end": 1009,
+        "string": ","
+      },
+      {
+        "start": 1009,
+        "end": 1010,
+        "string": " "
+      },
+      {
+        "start": 1010,
+        "end": 1022,
+        "string": "agriculture"
+      },
+      {
+        "start": 1022,
+        "end": 1023,
+        "string": " "
+      },
+      {
+        "start": 1023,
+        "end": 1025,
+        "string": ","
+      },
+      {
+        "start": 1025,
+        "end": 1026,
+        "string": " "
+      },
+      {
+        "start": 1026,
+        "end": 1035,
+        "string": "services"
+      },
+      {
+        "start": 1035,
+        "end": 1036,
+        "string": " "
+      },
+      {
+        "start": 1036,
+        "end": 1038,
+        "string": ","
+      },
+      {
+        "start": 1038,
+        "end": 1039,
+        "string": " "
+      },
+      {
+        "start": 1039,
+        "end": 1048,
+        "string": "currency"
+      },
+      {
+        "start": 1048,
+        "end": 1049,
+        "string": " "
+      },
+      {
+        "start": 1049,
+        "end": 1051,
+        "string": ","
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1056,
+        "string": "and"
+      },
+      {
+        "start": 1056,
+        "end": 1057,
+        "string": " "
+      },
+      {
+        "start": 1057,
+        "end": 1062,
+        "string": "many"
+      },
+      {
+        "start": 1062,
+        "end": 1063,
+        "string": " "
+      },
+      {
+        "start": 1063,
+        "end": 1069,
+        "string": "other"
+      },
+      {
+        "start": 1069,
+        "end": 1070,
+        "string": " "
+      },
+      {
+        "start": 1070,
+        "end": 1077,
+        "string": "issues"
+      },
+      {
+        "start": 1077,
+        "end": 1078,
+        "string": " "
+      },
+      {
+        "start": 1078,
+        "end": 1080,
+        "string": "\""
+      },
+      {
+        "start": 1080,
+        "end": 1081,
+        "string": " "
+      },
+      {
+        "start": 1081,
+        "end": 1085,
+        "string": "and"
+      },
+      {
+        "start": 1085,
+        "end": 1086,
+        "string": " "
+      },
+      {
+        "start": 1086,
+        "end": 1096,
+        "string": "resulting"
+      },
+      {
+        "start": 1096,
+        "end": 1097,
+        "string": " "
+      },
+      {
+        "start": 1097,
+        "end": 1100,
+        "string": "in"
+      },
+      {
+        "start": 1100,
+        "end": 1101,
+        "string": " "
+      },
+      {
+        "start": 1101,
+        "end": 1103,
+        "string": "\""
+      },
+      {
+        "start": 1103,
+        "end": 1104,
+        "string": " "
+      },
+      {
+        "start": 1104,
+        "end": 1106,
+        "string": "a"
+      },
+      {
+        "start": 1106,
+        "end": 1107,
+        "string": " "
+      },
+      {
+        "start": 1107,
+        "end": 1112,
+        "string": "very"
+      },
+      {
+        "start": 1112,
+        "end": 1113,
+        "string": " "
+      },
+      {
+        "start": 1113,
+        "end": 1118,
+        "string": "good"
+      },
+      {
+        "start": 1118,
+        "end": 1119,
+        "string": " "
+      },
+      {
+        "start": 1119,
+        "end": 1127,
+        "string": "weekend"
+      },
+      {
+        "start": 1127,
+        "end": 1128,
+        "string": " "
+      },
+      {
+        "start": 1128,
+        "end": 1132,
+        "string": "for"
+      },
+      {
+        "start": 1132,
+        "end": 1133,
+        "string": " "
+      },
+      {
+        "start": 1133,
+        "end": 1138,
+        "string": "U.S."
+      },
+      {
+        "start": 1138,
+        "end": 1139,
+        "string": " "
+      },
+      {
+        "start": 1139,
+        "end": 1141,
+        "string": "&"
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1148,
+        "string": "China"
+      },
+      {
+        "start": 1148,
+        "end": 1149,
+        "string": " "
+      },
+      {
+        "start": 1149,
+        "end": 1151,
+        "string": "!"
+      },
+      {
+        "start": 1151,
+        "end": 1152,
+        "string": " "
+      },
+      {
+        "start": 1152,
+        "end": 1154,
+        "string": "\""
+      },
+      {
+        "start": 1154,
+        "end": 1155,
+        "string": " "
+      },
+      {
+        "start": 1155,
+        "end": 1160,
+        "string": "Read"
+      },
+      {
+        "start": 1160,
+        "end": 1161,
+        "string": " "
+      },
+      {
+        "start": 1161,
+        "end": 1171,
+        "string": "MoreTrump"
+      },
+      {
+        "start": 1171,
+        "end": 1172,
+        "string": " "
+      },
+      {
+        "start": 1172,
+        "end": 1175,
+        "string": "'s"
+      },
+      {
+        "start": 1175,
+        "end": 1176,
+        "string": " "
+      },
+      {
+        "start": 1176,
+        "end": 1184,
+        "string": "request"
+      },
+      {
+        "start": 1184,
+        "end": 1185,
+        "string": " "
+      },
+      {
+        "start": 1185,
+        "end": 1192,
+        "string": "Friday"
+      },
+      {
+        "start": 1192,
+        "end": 1193,
+        "string": " "
+      },
+      {
+        "start": 1193,
+        "end": 1198,
+        "string": "came"
+      },
+      {
+        "start": 1198,
+        "end": 1199,
+        "string": " "
+      },
+      {
+        "start": 1199,
+        "end": 1209,
+        "string": "following"
+      },
+      {
+        "start": 1209,
+        "end": 1210,
+        "string": " "
+      },
+      {
+        "start": 1210,
+        "end": 1214,
+        "string": "his"
+      },
+      {
+        "start": 1214,
+        "end": 1215,
+        "string": " "
+      },
+      {
+        "start": 1215,
+        "end": 1224,
+        "string": "decision"
+      },
+      {
+        "start": 1224,
+        "end": 1225,
+        "string": " "
+      },
+      {
+        "start": 1225,
+        "end": 1228,
+        "string": "to"
+      },
+      {
+        "start": 1228,
+        "end": 1229,
+        "string": " "
+      },
+      {
+        "start": 1229,
+        "end": 1234,
+        "string": "walk"
+      },
+      {
+        "start": 1234,
+        "end": 1235,
+        "string": " "
+      },
+      {
+        "start": 1235,
+        "end": 1240,
+        "string": "away"
+      },
+      {
+        "start": 1240,
+        "end": 1241,
+        "string": " "
+      },
+      {
+        "start": 1241,
+        "end": 1246,
+        "string": "from"
+      },
+      {
+        "start": 1246,
+        "end": 1247,
+        "string": " "
+      },
+      {
+        "start": 1247,
+        "end": 1260,
+        "string": "negotiations"
+      },
+      {
+        "start": 1260,
+        "end": 1261,
+        "string": " "
+      },
+      {
+        "start": 1261,
+        "end": 1266,
+        "string": "with"
+      },
+      {
+        "start": 1266,
+        "end": 1267,
+        "string": " "
+      },
+      {
+        "start": 1267,
+        "end": 1273,
+        "string": "North"
+      },
+      {
+        "start": 1273,
+        "end": 1274,
+        "string": " "
+      },
+      {
+        "start": 1274,
+        "end": 1280,
+        "string": "Korea"
+      },
+      {
+        "start": 1280,
+        "end": 1281,
+        "string": " "
+      },
+      {
+        "start": 1281,
+        "end": 1284,
+        "string": "at"
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1287,
+        "string": "a"
+      },
+      {
+        "start": 1287,
+        "end": 1288,
+        "string": " "
+      },
+      {
+        "start": 1288,
+        "end": 1295,
+        "string": "summit"
+      },
+      {
+        "start": 1295,
+        "end": 1296,
+        "string": " "
+      },
+      {
+        "start": 1296,
+        "end": 1299,
+        "string": "in"
+      },
+      {
+        "start": 1299,
+        "end": 1300,
+        "string": " "
+      },
+      {
+        "start": 1300,
+        "end": 1308,
+        "string": "Vietnam"
+      },
+      {
+        "start": 1308,
+        "end": 1309,
+        "string": " "
+      },
+      {
+        "start": 1309,
+        "end": 1312,
+        "string": "on"
+      },
+      {
+        "start": 1312,
+        "end": 1313,
+        "string": " "
+      },
+      {
+        "start": 1313,
+        "end": 1322,
+        "string": "Thursday"
+      },
+      {
+        "start": 1322,
+        "end": 1323,
+        "string": " "
+      },
+      {
+        "start": 1323,
+        "end": 1325,
+        "string": ","
+      },
+      {
+        "start": 1325,
+        "end": 1326,
+        "string": " "
+      },
+      {
+        "start": 1326,
+        "end": 1335,
+        "string": "alleging"
+      },
+      {
+        "start": 1335,
+        "end": 1336,
+        "string": " "
+      },
+      {
+        "start": 1336,
+        "end": 1341,
+        "string": "that"
+      },
+      {
+        "start": 1341,
+        "end": 1342,
+        "string": " "
+      },
+      {
+        "start": 1342,
+        "end": 1349,
+        "string": "leader"
+      },
+      {
+        "start": 1349,
+        "end": 1350,
+        "string": " "
+      },
+      {
+        "start": 1350,
+        "end": 1354,
+        "string": "Kim"
+      },
+      {
+        "start": 1354,
+        "end": 1355,
+        "string": " "
+      },
+      {
+        "start": 1355,
+        "end": 1360,
+        "string": "Jong"
+      },
+      {
+        "start": 1360,
+        "end": 1361,
+        "string": " "
+      },
+      {
+        "start": 1361,
+        "end": 1364,
+        "string": "Un"
+      },
+      {
+        "start": 1364,
+        "end": 1365,
+        "string": " "
+      },
+      {
+        "start": 1365,
+        "end": 1369,
+        "string": "had"
+      },
+      {
+        "start": 1369,
+        "end": 1370,
+        "string": " "
+      },
+      {
+        "start": 1370,
+        "end": 1379,
+        "string": "insisted"
+      },
+      {
+        "start": 1379,
+        "end": 1380,
+        "string": " "
+      },
+      {
+        "start": 1380,
+        "end": 1383,
+        "string": "on"
+      },
+      {
+        "start": 1383,
+        "end": 1384,
+        "string": " "
+      },
+      {
+        "start": 1384,
+        "end": 1389,
+        "string": "full"
+      },
+      {
+        "start": 1389,
+        "end": 1390,
+        "string": " "
+      },
+      {
+        "start": 1390,
+        "end": 1400,
+        "string": "sanctions"
+      },
+      {
+        "start": 1400,
+        "end": 1401,
+        "string": " "
+      },
+      {
+        "start": 1401,
+        "end": 1408,
+        "string": "relief"
+      },
+      {
+        "start": 1408,
+        "end": 1409,
+        "string": " "
+      },
+      {
+        "start": 1409,
+        "end": 1412,
+        "string": "in"
+      },
+      {
+        "start": 1412,
+        "end": 1413,
+        "string": " "
+      },
+      {
+        "start": 1413,
+        "end": 1422,
+        "string": "exchange"
+      },
+      {
+        "start": 1422,
+        "end": 1423,
+        "string": " "
+      },
+      {
+        "start": 1423,
+        "end": 1427,
+        "string": "for"
+      },
+      {
+        "start": 1427,
+        "end": 1428,
+        "string": " "
+      },
+      {
+        "start": 1428,
+        "end": 1436,
+        "string": "partial"
+      },
+      {
+        "start": 1436,
+        "end": 1437,
+        "string": " "
+      },
+      {
+        "start": 1437,
+        "end": 1454,
+        "string": "denuclearization"
+      },
+      {
+        "start": 1454,
+        "end": 1455,
+        "string": " "
+      },
+      {
+        "start": 1455,
+        "end": 1458,
+        "string": "in"
+      },
+      {
+        "start": 1458,
+        "end": 1459,
+        "string": " "
+      },
+      {
+        "start": 1459,
+        "end": 1462,
+        "string": "an"
+      },
+      {
+        "start": 1462,
+        "end": 1463,
+        "string": " "
+      },
+      {
+        "start": 1463,
+        "end": 1476,
+        "string": "unacceptable"
+      },
+      {
+        "start": 1476,
+        "end": 1477,
+        "string": " "
+      },
+      {
+        "start": 1477,
+        "end": 1483,
+        "string": "offer"
+      },
+      {
+        "start": 1483,
+        "end": 1484,
+        "string": " "
+      },
+      {
+        "start": 1484,
+        "end": 1486,
+        "string": "."
+      },
+      {
+        "start": 1486,
+        "end": 1487,
+        "string": " "
+      },
+      {
+        "start": 1487,
+        "end": 1493,
+        "string": "Trump"
+      },
+      {
+        "start": 1493,
+        "end": 1494,
+        "string": " "
+      },
+      {
+        "start": 1494,
+        "end": 1498,
+        "string": "had"
+      },
+      {
+        "start": 1498,
+        "end": 1499,
+        "string": " "
+      },
+      {
+        "start": 1499,
+        "end": 1513,
+        "string": "characterized"
+      },
+      {
+        "start": 1513,
+        "end": 1514,
+        "string": " "
+      },
+      {
+        "start": 1514,
+        "end": 1518,
+        "string": "his"
+      },
+      {
+        "start": 1518,
+        "end": 1519,
+        "string": " "
+      },
+      {
+        "start": 1519,
+        "end": 1532,
+        "string": "relationship"
+      },
+      {
+        "start": 1532,
+        "end": 1533,
+        "string": " "
+      },
+      {
+        "start": 1533,
+        "end": 1538,
+        "string": "with"
+      },
+      {
+        "start": 1538,
+        "end": 1539,
+        "string": " "
+      },
+      {
+        "start": 1539,
+        "end": 1542,
+        "string": "Xi"
+      },
+      {
+        "start": 1542,
+        "end": 1543,
+        "string": " "
+      },
+      {
+        "start": 1543,
+        "end": 1546,
+        "string": "as"
+      },
+      {
+        "start": 1546,
+        "end": 1547,
+        "string": " "
+      },
+      {
+        "start": 1547,
+        "end": 1556,
+        "string": "positive"
+      },
+      {
+        "start": 1556,
+        "end": 1557,
+        "string": " "
+      },
+      {
+        "start": 1557,
+        "end": 1561,
+        "string": "and"
+      },
+      {
+        "start": 1561,
+        "end": 1562,
+        "string": " "
+      },
+      {
+        "start": 1562,
+        "end": 1573,
+        "string": "beneficial"
+      },
+      {
+        "start": 1573,
+        "end": 1574,
+        "string": " "
+      },
+      {
+        "start": 1574,
+        "end": 1582,
+        "string": "leading"
+      },
+      {
+        "start": 1582,
+        "end": 1583,
+        "string": " "
+      },
+      {
+        "start": 1583,
+        "end": 1588,
+        "string": "into"
+      },
+      {
+        "start": 1588,
+        "end": 1589,
+        "string": " "
+      },
+      {
+        "start": 1589,
+        "end": 1593,
+        "string": "the"
+      },
+      {
+        "start": 1593,
+        "end": 1594,
+        "string": " "
+      },
+      {
+        "start": 1594,
+        "end": 1601,
+        "string": "summit"
+      },
+      {
+        "start": 1601,
+        "end": 1602,
+        "string": " "
+      },
+      {
+        "start": 1602,
+        "end": 1607,
+        "string": "with"
+      },
+      {
+        "start": 1607,
+        "end": 1608,
+        "string": " "
+      },
+      {
+        "start": 1608,
+        "end": 1614,
+        "string": "North"
+      },
+      {
+        "start": 1614,
+        "end": 1615,
+        "string": " "
+      },
+      {
+        "start": 1615,
+        "end": 1621,
+        "string": "Korea"
+      },
+      {
+        "start": 1621,
+        "end": 1622,
+        "string": " "
+      },
+      {
+        "start": 1622,
+        "end": 1625,
+        "string": "in"
+      },
+      {
+        "start": 1625,
+        "end": 1626,
+        "string": " "
+      },
+      {
+        "start": 1626,
+        "end": 1628,
+        "string": "a"
+      },
+      {
+        "start": 1628,
+        "end": 1629,
+        "string": " "
+      },
+      {
+        "start": 1629,
+        "end": 1635,
+        "string": "tweet"
+      },
+      {
+        "start": 1635,
+        "end": 1636,
+        "string": " "
+      },
+      {
+        "start": 1636,
+        "end": 1644,
+        "string": "earlier"
+      },
+      {
+        "start": 1644,
+        "end": 1645,
+        "string": " "
+      },
+      {
+        "start": 1645,
+        "end": 1652,
+        "string": "Sunday"
+      },
+      {
+        "start": 1652,
+        "end": 1653,
+        "string": " "
+      },
+      {
+        "start": 1653,
+        "end": 1655,
+        "string": "."
+      },
+      {
+        "start": 1655,
+        "end": 1656,
+        "string": " "
+      },
+      {
+        "start": 1656,
+        "end": 1658,
+        "string": "\""
+      },
+      {
+        "start": 1658,
+        "end": 1659,
+        "string": " "
+      },
+      {
+        "start": 1659,
+        "end": 1669,
+        "string": "President"
+      },
+      {
+        "start": 1669,
+        "end": 1670,
+        "string": " "
+      },
+      {
+        "start": 1670,
+        "end": 1673,
+        "string": "Xi"
+      },
+      {
+        "start": 1673,
+        "end": 1674,
+        "string": " "
+      },
+      {
+        "start": 1674,
+        "end": 1677,
+        "string": "of"
+      },
+      {
+        "start": 1677,
+        "end": 1678,
+        "string": " "
+      },
+      {
+        "start": 1678,
+        "end": 1684,
+        "string": "China"
+      },
+      {
+        "start": 1684,
+        "end": 1685,
+        "string": " "
+      },
+      {
+        "start": 1685,
+        "end": 1689,
+        "string": "has"
+      },
+      {
+        "start": 1689,
+        "end": 1690,
+        "string": " "
+      },
+      {
+        "start": 1690,
+        "end": 1695,
+        "string": "been"
+      },
+      {
+        "start": 1695,
+        "end": 1696,
+        "string": " "
+      },
+      {
+        "start": 1696,
+        "end": 1701,
+        "string": "very"
+      },
+      {
+        "start": 1701,
+        "end": 1702,
+        "string": " "
+      },
+      {
+        "start": 1702,
+        "end": 1710,
+        "string": "helpful"
+      },
+      {
+        "start": 1710,
+        "end": 1711,
+        "string": " "
+      },
+      {
+        "start": 1711,
+        "end": 1714,
+        "string": "in"
+      },
+      {
+        "start": 1714,
+        "end": 1715,
+        "string": " "
+      },
+      {
+        "start": 1715,
+        "end": 1719,
+        "string": "his"
+      },
+      {
+        "start": 1719,
+        "end": 1720,
+        "string": " "
+      },
+      {
+        "start": 1720,
+        "end": 1728,
+        "string": "support"
+      },
+      {
+        "start": 1728,
+        "end": 1729,
+        "string": " "
+      },
+      {
+        "start": 1729,
+        "end": 1732,
+        "string": "of"
+      },
+      {
+        "start": 1732,
+        "end": 1733,
+        "string": " "
+      },
+      {
+        "start": 1733,
+        "end": 1736,
+        "string": "my"
+      },
+      {
+        "start": 1736,
+        "end": 1737,
+        "string": " "
+      },
+      {
+        "start": 1737,
+        "end": 1745,
+        "string": "meeting"
+      },
+      {
+        "start": 1745,
+        "end": 1746,
+        "string": " "
+      },
+      {
+        "start": 1746,
+        "end": 1751,
+        "string": "with"
+      },
+      {
+        "start": 1751,
+        "end": 1752,
+        "string": " "
+      },
+      {
+        "start": 1752,
+        "end": 1756,
+        "string": "Kim"
+      },
+      {
+        "start": 1756,
+        "end": 1757,
+        "string": " "
+      },
+      {
+        "start": 1757,
+        "end": 1762,
+        "string": "Jong"
+      },
+      {
+        "start": 1762,
+        "end": 1763,
+        "string": " "
+      },
+      {
+        "start": 1763,
+        "end": 1766,
+        "string": "Un"
+      },
+      {
+        "start": 1766,
+        "end": 1767,
+        "string": " "
+      },
+      {
+        "start": 1767,
+        "end": 1769,
+        "string": ","
+      },
+      {
+        "start": 1769,
+        "end": 1770,
+        "string": " "
+      },
+      {
+        "start": 1770,
+        "end": 1772,
+        "string": "\""
+      },
+      {
+        "start": 1772,
+        "end": 1773,
+        "string": " "
+      },
+      {
+        "start": 1773,
+        "end": 1776,
+        "string": "he"
+      },
+      {
+        "start": 1776,
+        "end": 1777,
+        "string": " "
+      },
+      {
+        "start": 1777,
+        "end": 1785,
+        "string": "tweeted"
+      },
+      {
+        "start": 1785,
+        "end": 1786,
+        "string": " "
+      },
+      {
+        "start": 1786,
+        "end": 1788,
+        "string": "."
+      },
+      {
+        "start": 1788,
+        "end": 1789,
+        "string": " "
+      }
+    ]
+  }
+}

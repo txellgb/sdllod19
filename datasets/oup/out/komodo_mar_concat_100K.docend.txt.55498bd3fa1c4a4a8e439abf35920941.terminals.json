@@ -1,0 +1,4221 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "55498bd3fa1c4a4a8e439abf35920941.doc",
+  "id": "55498bd3fa1c4a4a8e439abf35920941.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "55498bd3fa1c4a4a8e439abf35920941.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 7,
+        "string": "People"
+      },
+      {
+        "start": 7,
+        "end": 8,
+        "string": " "
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "string": "and"
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "string": " "
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "string": "industries"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "string": " "
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "string": "spread"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "string": "across"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "string": "20"
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "string": " "
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "string": "counties"
+      },
+      {
+        "start": 54,
+        "end": 55,
+        "string": " "
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "string": "in"
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "string": " "
+      },
+      {
+        "start": 59,
+        "end": 69,
+        "string": "southwest"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "string": "Georgia"
+      },
+      {
+        "start": 78,
+        "end": 79,
+        "string": " "
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "string": "are"
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "string": " "
+      },
+      {
+        "start": 84,
+        "end": 90,
+        "string": "still"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 99,
+        "string": "looking"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 104,
+        "string": "for"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 109,
+        "string": "aid"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "string": "in"
+      },
+      {
+        "start": 113,
+        "end": 114,
+        "string": " "
+      },
+      {
+        "start": 114,
+        "end": 125,
+        "string": "recovering"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 131,
+        "string": "from"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 142,
+        "string": "Hurricane"
+      },
+      {
+        "start": 142,
+        "end": 143,
+        "string": " "
+      },
+      {
+        "start": 143,
+        "end": 151,
+        "string": "Michael"
+      },
+      {
+        "start": 151,
+        "end": 152,
+        "string": " "
+      },
+      {
+        "start": 152,
+        "end": 154,
+        "string": "."
+      },
+      {
+        "start": 154,
+        "end": 155,
+        "string": " "
+      },
+      {
+        "start": 155,
+        "end": 159,
+        "string": "And"
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 164,
+        "string": "the"
+      },
+      {
+        "start": 164,
+        "end": 165,
+        "string": " "
+      },
+      {
+        "start": 165,
+        "end": 176,
+        "string": "challenges"
+      },
+      {
+        "start": 176,
+        "end": 177,
+        "string": " "
+      },
+      {
+        "start": 177,
+        "end": 181,
+        "string": "for"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "string": " "
+      },
+      {
+        "start": 182,
+        "end": 191,
+        "string": "families"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 199,
+        "string": "trying"
+      },
+      {
+        "start": 199,
+        "end": 200,
+        "string": " "
+      },
+      {
+        "start": 200,
+        "end": 203,
+        "string": "to"
+      },
+      {
+        "start": 203,
+        "end": 204,
+        "string": " "
+      },
+      {
+        "start": 204,
+        "end": 208,
+        "string": "get"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 214,
+        "string": "back"
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "string": " "
+      },
+      {
+        "start": 215,
+        "end": 218,
+        "string": "on"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 225,
+        "string": "their"
+      },
+      {
+        "start": 225,
+        "end": 226,
+        "string": " "
+      },
+      {
+        "start": 226,
+        "end": 231,
+        "string": "feet"
+      },
+      {
+        "start": 231,
+        "end": 232,
+        "string": " "
+      },
+      {
+        "start": 232,
+        "end": 236,
+        "string": "has"
+      },
+      {
+        "start": 236,
+        "end": 237,
+        "string": " "
+      },
+      {
+        "start": 237,
+        "end": 246,
+        "string": "prompted"
+      },
+      {
+        "start": 246,
+        "end": 247,
+        "string": " "
+      },
+      {
+        "start": 247,
+        "end": 249,
+        "string": "a"
+      },
+      {
+        "start": 249,
+        "end": 250,
+        "string": " "
+      },
+      {
+        "start": 250,
+        "end": 256,
+        "string": "first"
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 262,
+        "string": "ever"
+      },
+      {
+        "start": 262,
+        "end": 263,
+        "string": " "
+      },
+      {
+        "start": 263,
+        "end": 267,
+        "string": "use"
+      },
+      {
+        "start": 267,
+        "end": 268,
+        "string": " "
+      },
+      {
+        "start": 268,
+        "end": 271,
+        "string": "of"
+      },
+      {
+        "start": 271,
+        "end": 272,
+        "string": " "
+      },
+      {
+        "start": 272,
+        "end": 274,
+        "string": "a"
+      },
+      {
+        "start": 274,
+        "end": 275,
+        "string": " "
+      },
+      {
+        "start": 275,
+        "end": 283,
+        "string": "welfare"
+      },
+      {
+        "start": 283,
+        "end": 284,
+        "string": " "
+      },
+      {
+        "start": 284,
+        "end": 292,
+        "string": "benefit"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 296,
+        "string": "as"
+      },
+      {
+        "start": 296,
+        "end": 297,
+        "string": " "
+      },
+      {
+        "start": 297,
+        "end": 306,
+        "string": "disaster"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 311,
+        "string": "aid"
+      },
+      {
+        "start": 311,
+        "end": 312,
+        "string": " "
+      },
+      {
+        "start": 312,
+        "end": 314,
+        "string": "."
+      },
+      {
+        "start": 314,
+        "end": 315,
+        "string": " "
+      },
+      {
+        "start": 315,
+        "end": 318,
+        "string": "At"
+      },
+      {
+        "start": 318,
+        "end": 319,
+        "string": " "
+      },
+      {
+        "start": 319,
+        "end": 323,
+        "string": "the"
+      },
+      {
+        "start": 323,
+        "end": 324,
+        "string": " "
+      },
+      {
+        "start": 324,
+        "end": 330,
+        "string": "level"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 334,
+        "string": "of"
+      },
+      {
+        "start": 334,
+        "end": 335,
+        "string": " "
+      },
+      {
+        "start": 335,
+        "end": 339,
+        "string": "the"
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 348,
+        "string": "overall"
+      },
+      {
+        "start": 348,
+        "end": 349,
+        "string": " "
+      },
+      {
+        "start": 349,
+        "end": 357,
+        "string": "economy"
+      },
+      {
+        "start": 357,
+        "end": 358,
+        "string": " "
+      },
+      {
+        "start": 358,
+        "end": 361,
+        "string": "of"
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 366,
+        "string": "the"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 374,
+        "string": "region"
+      },
+      {
+        "start": 374,
+        "end": 375,
+        "string": " "
+      },
+      {
+        "start": 375,
+        "end": 377,
+        "string": ","
+      },
+      {
+        "start": 377,
+        "end": 378,
+        "string": " "
+      },
+      {
+        "start": 378,
+        "end": 387,
+        "string": "Senators"
+      },
+      {
+        "start": 387,
+        "end": 388,
+        "string": " "
+      },
+      {
+        "start": 388,
+        "end": 393,
+        "string": "from"
+      },
+      {
+        "start": 393,
+        "end": 394,
+        "string": " "
+      },
+      {
+        "start": 394,
+        "end": 398,
+        "string": "the"
+      },
+      {
+        "start": 398,
+        "end": 399,
+        "string": " "
+      },
+      {
+        "start": 399,
+        "end": 412,
+        "string": "southeastern"
+      },
+      {
+        "start": 412,
+        "end": 413,
+        "string": " "
+      },
+      {
+        "start": 413,
+        "end": 420,
+        "string": "United"
+      },
+      {
+        "start": 420,
+        "end": 421,
+        "string": " "
+      },
+      {
+        "start": 421,
+        "end": 428,
+        "string": "States"
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "string": " "
+      },
+      {
+        "start": 429,
+        "end": 433,
+        "string": "are"
+      },
+      {
+        "start": 433,
+        "end": 434,
+        "string": " "
+      },
+      {
+        "start": 434,
+        "end": 441,
+        "string": "asking"
+      },
+      {
+        "start": 441,
+        "end": 442,
+        "string": " "
+      },
+      {
+        "start": 442,
+        "end": 451,
+        "string": "Congress"
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 456,
+        "string": "for"
+      },
+      {
+        "start": 456,
+        "end": 457,
+        "string": " "
+      },
+      {
+        "start": 457,
+        "end": 466,
+        "string": "billions"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 470,
+        "string": "of"
+      },
+      {
+        "start": 470,
+        "end": 471,
+        "string": " "
+      },
+      {
+        "start": 471,
+        "end": 479,
+        "string": "dollars"
+      },
+      {
+        "start": 479,
+        "end": 480,
+        "string": " "
+      },
+      {
+        "start": 480,
+        "end": 483,
+        "string": "in"
+      },
+      {
+        "start": 483,
+        "end": 484,
+        "string": " "
+      },
+      {
+        "start": 484,
+        "end": 490,
+        "string": "extra"
+      },
+      {
+        "start": 490,
+        "end": 491,
+        "string": " "
+      },
+      {
+        "start": 491,
+        "end": 500,
+        "string": "disaster"
+      },
+      {
+        "start": 500,
+        "end": 501,
+        "string": " "
+      },
+      {
+        "start": 501,
+        "end": 508,
+        "string": "relief"
+      },
+      {
+        "start": 508,
+        "end": 509,
+        "string": " "
+      },
+      {
+        "start": 509,
+        "end": 511,
+        "string": "."
+      },
+      {
+        "start": 511,
+        "end": 512,
+        "string": " "
+      },
+      {
+        "start": 512,
+        "end": 514,
+        "string": "A"
+      },
+      {
+        "start": 514,
+        "end": 515,
+        "string": " "
+      },
+      {
+        "start": 515,
+        "end": 520,
+        "string": "bill"
+      },
+      {
+        "start": 520,
+        "end": 521,
+        "string": " "
+      },
+      {
+        "start": 521,
+        "end": 532,
+        "string": "introduced"
+      },
+      {
+        "start": 532,
+        "end": 533,
+        "string": " "
+      },
+      {
+        "start": 533,
+        "end": 536,
+        "string": "by"
+      },
+      {
+        "start": 536,
+        "end": 537,
+        "string": " "
+      },
+      {
+        "start": 537,
+        "end": 545,
+        "string": "Georgia"
+      },
+      {
+        "start": 545,
+        "end": 546,
+        "string": " "
+      },
+      {
+        "start": 546,
+        "end": 554,
+        "string": "Senator"
+      },
+      {
+        "start": 554,
+        "end": 555,
+        "string": " "
+      },
+      {
+        "start": 555,
+        "end": 561,
+        "string": "David"
+      },
+      {
+        "start": 561,
+        "end": 562,
+        "string": " "
+      },
+      {
+        "start": 562,
+        "end": 569,
+        "string": "Perdue"
+      },
+      {
+        "start": 569,
+        "end": 570,
+        "string": " "
+      },
+      {
+        "start": 570,
+        "end": 576,
+        "string": "would"
+      },
+      {
+        "start": 576,
+        "end": 577,
+        "string": " "
+      },
+      {
+        "start": 577,
+        "end": 585,
+        "string": "provide"
+      },
+      {
+        "start": 585,
+        "end": 586,
+        "string": " "
+      },
+      {
+        "start": 586,
+        "end": 592,
+        "string": "money"
+      },
+      {
+        "start": 592,
+        "end": 593,
+        "string": " "
+      },
+      {
+        "start": 593,
+        "end": 597,
+        "string": "for"
+      },
+      {
+        "start": 597,
+        "end": 598,
+        "string": " "
+      },
+      {
+        "start": 598,
+        "end": 608,
+        "string": "repairing"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 624,
+        "string": "infrastructure"
+      },
+      {
+        "start": 624,
+        "end": 625,
+        "string": " "
+      },
+      {
+        "start": 625,
+        "end": 627,
+        "string": ","
+      },
+      {
+        "start": 627,
+        "end": 628,
+        "string": " "
+      },
+      {
+        "start": 628,
+        "end": 638,
+        "string": "restoring"
+      },
+      {
+        "start": 638,
+        "end": 639,
+        "string": " "
+      },
+      {
+        "start": 639,
+        "end": 650,
+        "string": "coastlines"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 655,
+        "string": "and"
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 664,
+        "string": "helping"
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 673,
+        "string": "farmers"
+      },
+      {
+        "start": 673,
+        "end": 674,
+        "string": " "
+      },
+      {
+        "start": 674,
+        "end": 678,
+        "string": "who"
+      },
+      {
+        "start": 678,
+        "end": 679,
+        "string": " "
+      },
+      {
+        "start": 679,
+        "end": 684,
+        "string": "lost"
+      },
+      {
+        "start": 684,
+        "end": 685,
+        "string": " "
+      },
+      {
+        "start": 685,
+        "end": 691,
+        "string": "crops"
+      },
+      {
+        "start": 691,
+        "end": 692,
+        "string": " "
+      },
+      {
+        "start": 692,
+        "end": 696,
+        "string": "not"
+      },
+      {
+        "start": 696,
+        "end": 697,
+        "string": " "
+      },
+      {
+        "start": 697,
+        "end": 702,
+        "string": "just"
+      },
+      {
+        "start": 702,
+        "end": 703,
+        "string": " "
+      },
+      {
+        "start": 703,
+        "end": 706,
+        "string": "in"
+      },
+      {
+        "start": 706,
+        "end": 707,
+        "string": " "
+      },
+      {
+        "start": 707,
+        "end": 715,
+        "string": "Georgia"
+      },
+      {
+        "start": 715,
+        "end": 716,
+        "string": " "
+      },
+      {
+        "start": 716,
+        "end": 720,
+        "string": "but"
+      },
+      {
+        "start": 720,
+        "end": 721,
+        "string": " "
+      },
+      {
+        "start": 721,
+        "end": 728,
+        "string": "across"
+      },
+      {
+        "start": 728,
+        "end": 729,
+        "string": " "
+      },
+      {
+        "start": 729,
+        "end": 733,
+        "string": "the"
+      },
+      {
+        "start": 733,
+        "end": 734,
+        "string": " "
+      },
+      {
+        "start": 734,
+        "end": 744,
+        "string": "Southeast"
+      },
+      {
+        "start": 744,
+        "end": 745,
+        "string": " "
+      },
+      {
+        "start": 745,
+        "end": 748,
+        "string": "as"
+      },
+      {
+        "start": 748,
+        "end": 749,
+        "string": " "
+      },
+      {
+        "start": 749,
+        "end": 754,
+        "string": "well"
+      },
+      {
+        "start": 754,
+        "end": 755,
+        "string": " "
+      },
+      {
+        "start": 755,
+        "end": 758,
+        "string": "as"
+      },
+      {
+        "start": 758,
+        "end": 759,
+        "string": " "
+      },
+      {
+        "start": 759,
+        "end": 762,
+        "string": "in"
+      },
+      {
+        "start": 762,
+        "end": 763,
+        "string": " "
+      },
+      {
+        "start": 763,
+        "end": 770,
+        "string": "Puerto"
+      },
+      {
+        "start": 770,
+        "end": 771,
+        "string": " "
+      },
+      {
+        "start": 771,
+        "end": 776,
+        "string": "Rico"
+      },
+      {
+        "start": 776,
+        "end": 777,
+        "string": " "
+      },
+      {
+        "start": 777,
+        "end": 781,
+        "string": "and"
+      },
+      {
+        "start": 781,
+        "end": 782,
+        "string": " "
+      },
+      {
+        "start": 782,
+        "end": 786,
+        "string": "the"
+      },
+      {
+        "start": 786,
+        "end": 787,
+        "string": " "
+      },
+      {
+        "start": 787,
+        "end": 794,
+        "string": "island"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 798,
+        "string": "of"
+      },
+      {
+        "start": 798,
+        "end": 799,
+        "string": " "
+      },
+      {
+        "start": 799,
+        "end": 809,
+        "string": "Mauritius"
+      },
+      {
+        "start": 809,
+        "end": 810,
+        "string": " "
+      },
+      {
+        "start": 810,
+        "end": 812,
+        "string": "."
+      },
+      {
+        "start": 812,
+        "end": 813,
+        "string": " "
+      },
+      {
+        "start": 813,
+        "end": 821,
+        "string": "Senator"
+      },
+      {
+        "start": 821,
+        "end": 822,
+        "string": " "
+      },
+      {
+        "start": 822,
+        "end": 829,
+        "string": "Johnny"
+      },
+      {
+        "start": 829,
+        "end": 830,
+        "string": " "
+      },
+      {
+        "start": 830,
+        "end": 838,
+        "string": "Isakson"
+      },
+      {
+        "start": 838,
+        "end": 839,
+        "string": " "
+      },
+      {
+        "start": 839,
+        "end": 842,
+        "string": "is"
+      },
+      {
+        "start": 842,
+        "end": 843,
+        "string": " "
+      },
+      {
+        "start": 843,
+        "end": 847,
+        "string": "one"
+      },
+      {
+        "start": 847,
+        "end": 848,
+        "string": " "
+      },
+      {
+        "start": 848,
+        "end": 851,
+        "string": "of"
+      },
+      {
+        "start": 851,
+        "end": 852,
+        "string": " "
+      },
+      {
+        "start": 852,
+        "end": 856,
+        "string": "the"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 862,
+        "string": "bill"
+      },
+      {
+        "start": 862,
+        "end": 863,
+        "string": " "
+      },
+      {
+        "start": 863,
+        "end": 866,
+        "string": "'s"
+      },
+      {
+        "start": 866,
+        "end": 867,
+        "string": " "
+      },
+      {
+        "start": 867,
+        "end": 879,
+        "string": "co-sponsors"
+      },
+      {
+        "start": 879,
+        "end": 880,
+        "string": " "
+      },
+      {
+        "start": 880,
+        "end": 882,
+        "string": "."
+      },
+      {
+        "start": 882,
+        "end": 883,
+        "string": " "
+      },
+      {
+        "start": 883,
+        "end": 886,
+        "string": "He"
+      },
+      {
+        "start": 886,
+        "end": 887,
+        "string": " "
+      },
+      {
+        "start": 887,
+        "end": 892,
+        "string": "said"
+      },
+      {
+        "start": 892,
+        "end": 893,
+        "string": " "
+      },
+      {
+        "start": 893,
+        "end": 896,
+        "string": "an"
+      },
+      {
+        "start": 896,
+        "end": 897,
+        "string": " "
+      },
+      {
+        "start": 897,
+        "end": 902,
+        "string": "area"
+      },
+      {
+        "start": 902,
+        "end": 903,
+        "string": " "
+      },
+      {
+        "start": 903,
+        "end": 906,
+        "string": "of"
+      },
+      {
+        "start": 906,
+        "end": 907,
+        "string": " "
+      },
+      {
+        "start": 907,
+        "end": 915,
+        "string": "special"
+      },
+      {
+        "start": 915,
+        "end": 916,
+        "string": " "
+      },
+      {
+        "start": 916,
+        "end": 924,
+        "string": "concern"
+      },
+      {
+        "start": 924,
+        "end": 925,
+        "string": " "
+      },
+      {
+        "start": 925,
+        "end": 929,
+        "string": "the"
+      },
+      {
+        "start": 929,
+        "end": 930,
+        "string": " "
+      },
+      {
+        "start": 930,
+        "end": 935,
+        "string": "bill"
+      },
+      {
+        "start": 935,
+        "end": 936,
+        "string": " "
+      },
+      {
+        "start": 936,
+        "end": 942,
+        "string": "would"
+      },
+      {
+        "start": 942,
+        "end": 943,
+        "string": " "
+      },
+      {
+        "start": 943,
+        "end": 951,
+        "string": "address"
+      },
+      {
+        "start": 951,
+        "end": 952,
+        "string": " "
+      },
+      {
+        "start": 952,
+        "end": 955,
+        "string": "in"
+      },
+      {
+        "start": 955,
+        "end": 956,
+        "string": " "
+      },
+      {
+        "start": 956,
+        "end": 964,
+        "string": "Georgia"
+      },
+      {
+        "start": 964,
+        "end": 965,
+        "string": " "
+      },
+      {
+        "start": 965,
+        "end": 968,
+        "string": "is"
+      },
+      {
+        "start": 968,
+        "end": 969,
+        "string": " "
+      },
+      {
+        "start": 969,
+        "end": 973,
+        "string": "the"
+      },
+      {
+        "start": 973,
+        "end": 974,
+        "string": " "
+      },
+      {
+        "start": 974,
+        "end": 980,
+        "string": "state"
+      },
+      {
+        "start": 980,
+        "end": 981,
+        "string": " "
+      },
+      {
+        "start": 981,
+        "end": 984,
+        "string": "'s"
+      },
+      {
+        "start": 984,
+        "end": 985,
+        "string": " "
+      },
+      {
+        "start": 985,
+        "end": 991,
+        "string": "pecan"
+      },
+      {
+        "start": 991,
+        "end": 992,
+        "string": " "
+      },
+      {
+        "start": 992,
+        "end": 1001,
+        "string": "industry"
+      },
+      {
+        "start": 1001,
+        "end": 1002,
+        "string": " "
+      },
+      {
+        "start": 1002,
+        "end": 1004,
+        "string": "."
+      },
+      {
+        "start": 1004,
+        "end": 1005,
+        "string": " "
+      },
+      {
+        "start": 1005,
+        "end": 1007,
+        "string": "\""
+      },
+      {
+        "start": 1007,
+        "end": 1008,
+        "string": " "
+      },
+      {
+        "start": 1008,
+        "end": 1011,
+        "string": "75"
+      },
+      {
+        "start": 1011,
+        "end": 1012,
+        "string": " "
+      },
+      {
+        "start": 1012,
+        "end": 1020,
+        "string": "percent"
+      },
+      {
+        "start": 1020,
+        "end": 1021,
+        "string": " "
+      },
+      {
+        "start": 1021,
+        "end": 1024,
+        "string": "of"
+      },
+      {
+        "start": 1024,
+        "end": 1025,
+        "string": " "
+      },
+      {
+        "start": 1025,
+        "end": 1028,
+        "string": "it"
+      },
+      {
+        "start": 1028,
+        "end": 1029,
+        "string": " "
+      },
+      {
+        "start": 1029,
+        "end": 1033,
+        "string": "was"
+      },
+      {
+        "start": 1033,
+        "end": 1034,
+        "string": " "
+      },
+      {
+        "start": 1034,
+        "end": 1040,
+        "string": "wiped"
+      },
+      {
+        "start": 1040,
+        "end": 1041,
+        "string": " "
+      },
+      {
+        "start": 1041,
+        "end": 1045,
+        "string": "out"
+      },
+      {
+        "start": 1045,
+        "end": 1046,
+        "string": " "
+      },
+      {
+        "start": 1046,
+        "end": 1048,
+        "string": "."
+      },
+      {
+        "start": 1048,
+        "end": 1049,
+        "string": " "
+      },
+      {
+        "start": 1049,
+        "end": 1053,
+        "string": "And"
+      },
+      {
+        "start": 1053,
+        "end": 1054,
+        "string": " "
+      },
+      {
+        "start": 1054,
+        "end": 1058,
+        "string": "you"
+      },
+      {
+        "start": 1058,
+        "end": 1059,
+        "string": " "
+      },
+      {
+        "start": 1059,
+        "end": 1064,
+        "string": "know"
+      },
+      {
+        "start": 1064,
+        "end": 1065,
+        "string": " "
+      },
+      {
+        "start": 1065,
+        "end": 1069,
+        "string": "how"
+      },
+      {
+        "start": 1069,
+        "end": 1070,
+        "string": " "
+      },
+      {
+        "start": 1070,
+        "end": 1075,
+        "string": "long"
+      },
+      {
+        "start": 1075,
+        "end": 1076,
+        "string": " "
+      },
+      {
+        "start": 1076,
+        "end": 1079,
+        "string": "it"
+      },
+      {
+        "start": 1079,
+        "end": 1080,
+        "string": " "
+      },
+      {
+        "start": 1080,
+        "end": 1086,
+        "string": "takes"
+      },
+      {
+        "start": 1086,
+        "end": 1087,
+        "string": " "
+      },
+      {
+        "start": 1087,
+        "end": 1090,
+        "string": "to"
+      },
+      {
+        "start": 1090,
+        "end": 1091,
+        "string": " "
+      },
+      {
+        "start": 1091,
+        "end": 1099,
+        "string": "replace"
+      },
+      {
+        "start": 1099,
+        "end": 1100,
+        "string": " "
+      },
+      {
+        "start": 1100,
+        "end": 1102,
+        "string": "a"
+      },
+      {
+        "start": 1102,
+        "end": 1103,
+        "string": " "
+      },
+      {
+        "start": 1103,
+        "end": 1109,
+        "string": "pecan"
+      },
+      {
+        "start": 1109,
+        "end": 1110,
+        "string": " "
+      },
+      {
+        "start": 1110,
+        "end": 1118,
+        "string": "orchard"
+      },
+      {
+        "start": 1118,
+        "end": 1119,
+        "string": " "
+      },
+      {
+        "start": 1119,
+        "end": 1121,
+        "string": "?"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1130,
+        "string": "Fifteen"
+      },
+      {
+        "start": 1130,
+        "end": 1131,
+        "string": " "
+      },
+      {
+        "start": 1131,
+        "end": 1134,
+        "string": "to"
+      },
+      {
+        "start": 1134,
+        "end": 1135,
+        "string": " "
+      },
+      {
+        "start": 1135,
+        "end": 1142,
+        "string": "twenty"
+      },
+      {
+        "start": 1142,
+        "end": 1143,
+        "string": " "
+      },
+      {
+        "start": 1143,
+        "end": 1149,
+        "string": "years"
+      },
+      {
+        "start": 1149,
+        "end": 1150,
+        "string": " "
+      },
+      {
+        "start": 1150,
+        "end": 1152,
+        "string": ","
+      },
+      {
+        "start": 1152,
+        "end": 1153,
+        "string": " "
+      },
+      {
+        "start": 1153,
+        "end": 1155,
+        "string": "\""
+      },
+      {
+        "start": 1155,
+        "end": 1156,
+        "string": " "
+      },
+      {
+        "start": 1156,
+        "end": 1164,
+        "string": "Isakson"
+      },
+      {
+        "start": 1164,
+        "end": 1165,
+        "string": " "
+      },
+      {
+        "start": 1165,
+        "end": 1170,
+        "string": "said"
+      },
+      {
+        "start": 1170,
+        "end": 1171,
+        "string": " "
+      },
+      {
+        "start": 1171,
+        "end": 1176,
+        "string": "from"
+      },
+      {
+        "start": 1176,
+        "end": 1177,
+        "string": " "
+      },
+      {
+        "start": 1177,
+        "end": 1181,
+        "string": "the"
+      },
+      {
+        "start": 1181,
+        "end": 1182,
+        "string": " "
+      },
+      {
+        "start": 1182,
+        "end": 1188,
+        "string": "floor"
+      },
+      {
+        "start": 1188,
+        "end": 1189,
+        "string": " "
+      },
+      {
+        "start": 1189,
+        "end": 1192,
+        "string": "of"
+      },
+      {
+        "start": 1192,
+        "end": 1193,
+        "string": " "
+      },
+      {
+        "start": 1193,
+        "end": 1197,
+        "string": "the"
+      },
+      {
+        "start": 1197,
+        "end": 1198,
+        "string": " "
+      },
+      {
+        "start": 1198,
+        "end": 1205,
+        "string": "Senate"
+      },
+      {
+        "start": 1205,
+        "end": 1206,
+        "string": " "
+      },
+      {
+        "start": 1206,
+        "end": 1212,
+        "string": "while"
+      },
+      {
+        "start": 1212,
+        "end": 1213,
+        "string": " "
+      },
+      {
+        "start": 1213,
+        "end": 1220,
+        "string": "asking"
+      },
+      {
+        "start": 1220,
+        "end": 1221,
+        "string": " "
+      },
+      {
+        "start": 1221,
+        "end": 1225,
+        "string": "for"
+      },
+      {
+        "start": 1225,
+        "end": 1226,
+        "string": " "
+      },
+      {
+        "start": 1226,
+        "end": 1228,
+        "string": "a"
+      },
+      {
+        "start": 1228,
+        "end": 1229,
+        "string": " "
+      },
+      {
+        "start": 1229,
+        "end": 1236,
+        "string": "speedy"
+      },
+      {
+        "start": 1236,
+        "end": 1237,
+        "string": " "
+      },
+      {
+        "start": 1237,
+        "end": 1245,
+        "string": "passage"
+      },
+      {
+        "start": 1245,
+        "end": 1246,
+        "string": " "
+      },
+      {
+        "start": 1246,
+        "end": 1249,
+        "string": "of"
+      },
+      {
+        "start": 1249,
+        "end": 1250,
+        "string": " "
+      },
+      {
+        "start": 1250,
+        "end": 1254,
+        "string": "the"
+      },
+      {
+        "start": 1254,
+        "end": 1255,
+        "string": " "
+      },
+      {
+        "start": 1255,
+        "end": 1264,
+        "string": "disaster"
+      },
+      {
+        "start": 1264,
+        "end": 1265,
+        "string": " "
+      },
+      {
+        "start": 1265,
+        "end": 1272,
+        "string": "relief"
+      },
+      {
+        "start": 1272,
+        "end": 1273,
+        "string": " "
+      },
+      {
+        "start": 1273,
+        "end": 1278,
+        "string": "bill"
+      },
+      {
+        "start": 1278,
+        "end": 1279,
+        "string": " "
+      },
+      {
+        "start": 1279,
+        "end": 1281,
+        "string": "."
+      },
+      {
+        "start": 1281,
+        "end": 1282,
+        "string": " "
+      },
+      {
+        "start": 1282,
+        "end": 1292,
+        "string": "Hurricane"
+      },
+      {
+        "start": 1292,
+        "end": 1293,
+        "string": " "
+      },
+      {
+        "start": 1293,
+        "end": 1301,
+        "string": "Michael"
+      },
+      {
+        "start": 1301,
+        "end": 1302,
+        "string": " "
+      },
+      {
+        "start": 1302,
+        "end": 1309,
+        "string": "caused"
+      },
+      {
+        "start": 1309,
+        "end": 1310,
+        "string": " "
+      },
+      {
+        "start": 1310,
+        "end": 1313,
+        "string": "an"
+      },
+      {
+        "start": 1313,
+        "end": 1314,
+        "string": " "
+      },
+      {
+        "start": 1314,
+        "end": 1324,
+        "string": "estimated"
+      },
+      {
+        "start": 1324,
+        "end": 1325,
+        "string": " "
+      },
+      {
+        "start": 1325,
+        "end": 1327,
+        "string": "$"
+      },
+      {
+        "start": 1327,
+        "end": 1328,
+        "string": " "
+      },
+      {
+        "start": 1328,
+        "end": 1332,
+        "string": "2.5"
+      },
+      {
+        "start": 1332,
+        "end": 1333,
+        "string": " "
+      },
+      {
+        "start": 1333,
+        "end": 1341,
+        "string": "billion"
+      },
+      {
+        "start": 1341,
+        "end": 1342,
+        "string": " "
+      },
+      {
+        "start": 1342,
+        "end": 1350,
+        "string": "dollars"
+      },
+      {
+        "start": 1350,
+        "end": 1351,
+        "string": " "
+      },
+      {
+        "start": 1351,
+        "end": 1354,
+        "string": "in"
+      },
+      {
+        "start": 1354,
+        "end": 1355,
+        "string": " "
+      },
+      {
+        "start": 1355,
+        "end": 1362,
+        "string": "losses"
+      },
+      {
+        "start": 1362,
+        "end": 1363,
+        "string": " "
+      },
+      {
+        "start": 1363,
+        "end": 1366,
+        "string": "to"
+      },
+      {
+        "start": 1366,
+        "end": 1367,
+        "string": " "
+      },
+      {
+        "start": 1367,
+        "end": 1375,
+        "string": "Georgia"
+      },
+      {
+        "start": 1375,
+        "end": 1376,
+        "string": " "
+      },
+      {
+        "start": 1376,
+        "end": 1388,
+        "string": "agriculture"
+      },
+      {
+        "start": 1388,
+        "end": 1389,
+        "string": " "
+      },
+      {
+        "start": 1389,
+        "end": 1391,
+        "string": "."
+      },
+      {
+        "start": 1391,
+        "end": 1392,
+        "string": " "
+      },
+      {
+        "start": 1392,
+        "end": 1402,
+        "string": "Meanwhile"
+      },
+      {
+        "start": 1402,
+        "end": 1403,
+        "string": " "
+      },
+      {
+        "start": 1403,
+        "end": 1405,
+        "string": ","
+      },
+      {
+        "start": 1405,
+        "end": 1406,
+        "string": " "
+      },
+      {
+        "start": 1406,
+        "end": 1410,
+        "string": "the"
+      },
+      {
+        "start": 1410,
+        "end": 1411,
+        "string": " "
+      },
+      {
+        "start": 1411,
+        "end": 1417,
+        "string": "storm"
+      },
+      {
+        "start": 1417,
+        "end": 1418,
+        "string": " "
+      },
+      {
+        "start": 1418,
+        "end": 1425,
+        "string": "pushed"
+      },
+      {
+        "start": 1425,
+        "end": 1426,
+        "string": " "
+      },
+      {
+        "start": 1426,
+        "end": 1431,
+        "string": "many"
+      },
+      {
+        "start": 1431,
+        "end": 1432,
+        "string": " "
+      },
+      {
+        "start": 1432,
+        "end": 1439,
+        "string": "people"
+      },
+      {
+        "start": 1439,
+        "end": 1440,
+        "string": " "
+      },
+      {
+        "start": 1440,
+        "end": 1445,
+        "string": "into"
+      },
+      {
+        "start": 1445,
+        "end": 1446,
+        "string": " "
+      },
+      {
+        "start": 1446,
+        "end": 1454,
+        "string": "poverty"
+      },
+      {
+        "start": 1454,
+        "end": 1455,
+        "string": " "
+      },
+      {
+        "start": 1455,
+        "end": 1459,
+        "string": "who"
+      },
+      {
+        "start": 1459,
+        "end": 1460,
+        "string": " "
+      },
+      {
+        "start": 1460,
+        "end": 1464,
+        "string": "had"
+      },
+      {
+        "start": 1464,
+        "end": 1465,
+        "string": " "
+      },
+      {
+        "start": 1465,
+        "end": 1470,
+        "string": "been"
+      },
+      {
+        "start": 1470,
+        "end": 1471,
+        "string": " "
+      },
+      {
+        "start": 1471,
+        "end": 1478,
+        "string": "living"
+      },
+      {
+        "start": 1478,
+        "end": 1479,
+        "string": " "
+      },
+      {
+        "start": 1479,
+        "end": 1484,
+        "string": "just"
+      },
+      {
+        "start": 1484,
+        "end": 1485,
+        "string": " "
+      },
+      {
+        "start": 1485,
+        "end": 1488,
+        "string": "on"
+      },
+      {
+        "start": 1488,
+        "end": 1489,
+        "string": " "
+      },
+      {
+        "start": 1489,
+        "end": 1493,
+        "string": "the"
+      },
+      {
+        "start": 1493,
+        "end": 1494,
+        "string": " "
+      },
+      {
+        "start": 1494,
+        "end": 1499,
+        "string": "cusp"
+      },
+      {
+        "start": 1499,
+        "end": 1500,
+        "string": " "
+      },
+      {
+        "start": 1500,
+        "end": 1503,
+        "string": "of"
+      },
+      {
+        "start": 1503,
+        "end": 1504,
+        "string": " "
+      },
+      {
+        "start": 1504,
+        "end": 1515,
+        "string": "qualifying"
+      },
+      {
+        "start": 1515,
+        "end": 1516,
+        "string": " "
+      },
+      {
+        "start": 1516,
+        "end": 1520,
+        "string": "for"
+      },
+      {
+        "start": 1520,
+        "end": 1521,
+        "string": " "
+      },
+      {
+        "start": 1521,
+        "end": 1531,
+        "string": "temporary"
+      },
+      {
+        "start": 1531,
+        "end": 1532,
+        "string": " "
+      },
+      {
+        "start": 1532,
+        "end": 1543,
+        "string": "assistance"
+      },
+      {
+        "start": 1543,
+        "end": 1544,
+        "string": " "
+      },
+      {
+        "start": 1544,
+        "end": 1548,
+        "string": "for"
+      },
+      {
+        "start": 1548,
+        "end": 1549,
+        "string": " "
+      },
+      {
+        "start": 1549,
+        "end": 1555,
+        "string": "needy"
+      },
+      {
+        "start": 1555,
+        "end": 1556,
+        "string": " "
+      },
+      {
+        "start": 1556,
+        "end": 1565,
+        "string": "families"
+      },
+      {
+        "start": 1565,
+        "end": 1566,
+        "string": " "
+      },
+      {
+        "start": 1566,
+        "end": 1568,
+        "string": ","
+      },
+      {
+        "start": 1568,
+        "end": 1569,
+        "string": " "
+      },
+      {
+        "start": 1569,
+        "end": 1572,
+        "string": "or"
+      },
+      {
+        "start": 1572,
+        "end": 1573,
+        "string": " "
+      },
+      {
+        "start": 1573,
+        "end": 1578,
+        "string": "TANF"
+      },
+      {
+        "start": 1578,
+        "end": 1579,
+        "string": " "
+      },
+      {
+        "start": 1579,
+        "end": 1581,
+        "string": ","
+      },
+      {
+        "start": 1581,
+        "end": 1582,
+        "string": " "
+      },
+      {
+        "start": 1582,
+        "end": 1591,
+        "string": "benefits"
+      },
+      {
+        "start": 1591,
+        "end": 1592,
+        "string": " "
+      },
+      {
+        "start": 1592,
+        "end": 1594,
+        "string": "."
+      },
+      {
+        "start": 1594,
+        "end": 1595,
+        "string": " "
+      },
+      {
+        "start": 1595,
+        "end": 1598,
+        "string": "So"
+      },
+      {
+        "start": 1598,
+        "end": 1599,
+        "string": " "
+      },
+      {
+        "start": 1599,
+        "end": 1601,
+        "string": ","
+      },
+      {
+        "start": 1601,
+        "end": 1602,
+        "string": " "
+      },
+      {
+        "start": 1602,
+        "end": 1606,
+        "string": "The"
+      },
+      {
+        "start": 1606,
+        "end": 1607,
+        "string": " "
+      },
+      {
+        "start": 1607,
+        "end": 1615,
+        "string": "Georgia"
+      },
+      {
+        "start": 1615,
+        "end": 1616,
+        "string": " "
+      },
+      {
+        "start": 1616,
+        "end": 1625,
+        "string": "Division"
+      },
+      {
+        "start": 1625,
+        "end": 1626,
+        "string": " "
+      },
+      {
+        "start": 1626,
+        "end": 1629,
+        "string": "of"
+      },
+      {
+        "start": 1629,
+        "end": 1630,
+        "string": " "
+      },
+      {
+        "start": 1630,
+        "end": 1637,
+        "string": "Family"
+      },
+      {
+        "start": 1637,
+        "end": 1638,
+        "string": " "
+      },
+      {
+        "start": 1638,
+        "end": 1642,
+        "string": "and"
+      },
+      {
+        "start": 1642,
+        "end": 1643,
+        "string": " "
+      },
+      {
+        "start": 1643,
+        "end": 1652,
+        "string": "Children"
+      },
+      {
+        "start": 1652,
+        "end": 1653,
+        "string": " "
+      },
+      {
+        "start": 1653,
+        "end": 1662,
+        "string": "Services"
+      },
+      {
+        "start": 1662,
+        "end": 1663,
+        "string": " "
+      },
+      {
+        "start": 1663,
+        "end": 1666,
+        "string": "is"
+      },
+      {
+        "start": 1666,
+        "end": 1667,
+        "string": " "
+      },
+      {
+        "start": 1667,
+        "end": 1675,
+        "string": "issuing"
+      },
+      {
+        "start": 1675,
+        "end": 1676,
+        "string": " "
+      },
+      {
+        "start": 1676,
+        "end": 1683,
+        "string": "around"
+      },
+      {
+        "start": 1683,
+        "end": 1684,
+        "string": " "
+      },
+      {
+        "start": 1684,
+        "end": 1686,
+        "string": "$"
+      },
+      {
+        "start": 1686,
+        "end": 1687,
+        "string": " "
+      },
+      {
+        "start": 1687,
+        "end": 1690,
+        "string": "15"
+      },
+      {
+        "start": 1690,
+        "end": 1691,
+        "string": " "
+      },
+      {
+        "start": 1691,
+        "end": 1699,
+        "string": "million"
+      },
+      {
+        "start": 1699,
+        "end": 1700,
+        "string": " "
+      },
+      {
+        "start": 1700,
+        "end": 1703,
+        "string": "in"
+      },
+      {
+        "start": 1703,
+        "end": 1704,
+        "string": " "
+      },
+      {
+        "start": 1704,
+        "end": 1712,
+        "string": "special"
+      },
+      {
+        "start": 1712,
+        "end": 1713,
+        "string": " "
+      },
+      {
+        "start": 1713,
+        "end": 1722,
+        "string": "disaster"
+      },
+      {
+        "start": 1722,
+        "end": 1723,
+        "string": " "
+      },
+      {
+        "start": 1723,
+        "end": 1728,
+        "string": "TANF"
+      },
+      {
+        "start": 1728,
+        "end": 1729,
+        "string": " "
+      },
+      {
+        "start": 1729,
+        "end": 1738,
+        "string": "benefits"
+      },
+      {
+        "start": 1738,
+        "end": 1739,
+        "string": " "
+      },
+      {
+        "start": 1739,
+        "end": 1742,
+        "string": "to"
+      },
+      {
+        "start": 1742,
+        "end": 1743,
+        "string": " "
+      },
+      {
+        "start": 1743,
+        "end": 1752,
+        "string": "families"
+      },
+      {
+        "start": 1752,
+        "end": 1753,
+        "string": " "
+      },
+      {
+        "start": 1753,
+        "end": 1760,
+        "string": "trying"
+      },
+      {
+        "start": 1760,
+        "end": 1761,
+        "string": " "
+      },
+      {
+        "start": 1761,
+        "end": 1768,
+        "string": "repair"
+      },
+      {
+        "start": 1768,
+        "end": 1769,
+        "string": " "
+      },
+      {
+        "start": 1769,
+        "end": 1775,
+        "string": "homes"
+      },
+      {
+        "start": 1775,
+        "end": 1776,
+        "string": " "
+      },
+      {
+        "start": 1776,
+        "end": 1779,
+        "string": "or"
+      },
+      {
+        "start": 1779,
+        "end": 1780,
+        "string": " "
+      },
+      {
+        "start": 1780,
+        "end": 1785,
+        "string": "make"
+      },
+      {
+        "start": 1785,
+        "end": 1786,
+        "string": " "
+      },
+      {
+        "start": 1786,
+        "end": 1791,
+        "string": "down"
+      },
+      {
+        "start": 1791,
+        "end": 1792,
+        "string": " "
+      },
+      {
+        "start": 1792,
+        "end": 1801,
+        "string": "payments"
+      },
+      {
+        "start": 1801,
+        "end": 1802,
+        "string": " "
+      },
+      {
+        "start": 1802,
+        "end": 1805,
+        "string": "on"
+      },
+      {
+        "start": 1805,
+        "end": 1806,
+        "string": " "
+      },
+      {
+        "start": 1806,
+        "end": 1810,
+        "string": "new"
+      },
+      {
+        "start": 1810,
+        "end": 1811,
+        "string": " "
+      },
+      {
+        "start": 1811,
+        "end": 1821,
+        "string": "apartment"
+      },
+      {
+        "start": 1821,
+        "end": 1822,
+        "string": " "
+      },
+      {
+        "start": 1822,
+        "end": 1829,
+        "string": "leases"
+      },
+      {
+        "start": 1829,
+        "end": 1830,
+        "string": " "
+      },
+      {
+        "start": 1830,
+        "end": 1832,
+        "string": "."
+      },
+      {
+        "start": 1832,
+        "end": 1833,
+        "string": " "
+      },
+      {
+        "start": 1833,
+        "end": 1840,
+        "string": "Deputy"
+      },
+      {
+        "start": 1840,
+        "end": 1841,
+        "string": " "
+      },
+      {
+        "start": 1841,
+        "end": 1850,
+        "string": "Director"
+      },
+      {
+        "start": 1850,
+        "end": 1851,
+        "string": " "
+      },
+      {
+        "start": 1851,
+        "end": 1855,
+        "string": "Jon"
+      },
+      {
+        "start": 1855,
+        "end": 1856,
+        "string": " "
+      },
+      {
+        "start": 1856,
+        "end": 1865,
+        "string": "Anderson"
+      },
+      {
+        "start": 1865,
+        "end": 1866,
+        "string": " "
+      },
+      {
+        "start": 1866,
+        "end": 1871,
+        "string": "says"
+      },
+      {
+        "start": 1871,
+        "end": 1872,
+        "string": " "
+      },
+      {
+        "start": 1872,
+        "end": 1877,
+        "string": "this"
+      },
+      {
+        "start": 1877,
+        "end": 1878,
+        "string": " "
+      },
+      {
+        "start": 1878,
+        "end": 1881,
+        "string": "is"
+      },
+      {
+        "start": 1881,
+        "end": 1882,
+        "string": " "
+      },
+      {
+        "start": 1882,
+        "end": 1886,
+        "string": "the"
+      },
+      {
+        "start": 1886,
+        "end": 1887,
+        "string": " "
+      },
+      {
+        "start": 1887,
+        "end": 1893,
+        "string": "first"
+      },
+      {
+        "start": 1893,
+        "end": 1894,
+        "string": " "
+      },
+      {
+        "start": 1894,
+        "end": 1899,
+        "string": "time"
+      },
+      {
+        "start": 1899,
+        "end": 1900,
+        "string": " "
+      },
+      {
+        "start": 1900,
+        "end": 1904,
+        "string": "any"
+      },
+      {
+        "start": 1904,
+        "end": 1905,
+        "string": " "
+      },
+      {
+        "start": 1905,
+        "end": 1911,
+        "string": "state"
+      },
+      {
+        "start": 1911,
+        "end": 1912,
+        "string": " "
+      },
+      {
+        "start": 1912,
+        "end": 1916,
+        "string": "has"
+      },
+      {
+        "start": 1916,
+        "end": 1917,
+        "string": " "
+      },
+      {
+        "start": 1917,
+        "end": 1922,
+        "string": "used"
+      },
+      {
+        "start": 1922,
+        "end": 1923,
+        "string": " "
+      },
+      {
+        "start": 1923,
+        "end": 1928,
+        "string": "this"
+      },
+      {
+        "start": 1928,
+        "end": 1929,
+        "string": " "
+      },
+      {
+        "start": 1929,
+        "end": 1937,
+        "string": "welfare"
+      },
+      {
+        "start": 1937,
+        "end": 1938,
+        "string": " "
+      },
+      {
+        "start": 1938,
+        "end": 1946,
+        "string": "benefit"
+      },
+      {
+        "start": 1946,
+        "end": 1947,
+        "string": " "
+      },
+      {
+        "start": 1947,
+        "end": 1950,
+        "string": "as"
+      },
+      {
+        "start": 1950,
+        "end": 1951,
+        "string": " "
+      },
+      {
+        "start": 1951,
+        "end": 1960,
+        "string": "disaster"
+      },
+      {
+        "start": 1960,
+        "end": 1961,
+        "string": " "
+      },
+      {
+        "start": 1961,
+        "end": 1965,
+        "string": "aid"
+      },
+      {
+        "start": 1965,
+        "end": 1966,
+        "string": " "
+      },
+      {
+        "start": 1966,
+        "end": 1968,
+        "string": "."
+      },
+      {
+        "start": 1968,
+        "end": 1969,
+        "string": " "
+      },
+      {
+        "start": 1969,
+        "end": 1971,
+        "string": "\""
+      },
+      {
+        "start": 1971,
+        "end": 1972,
+        "string": " "
+      },
+      {
+        "start": 1972,
+        "end": 1975,
+        "string": "We"
+      },
+      {
+        "start": 1975,
+        "end": 1976,
+        "string": " "
+      },
+      {
+        "start": 1976,
+        "end": 1983,
+        "string": "really"
+      },
+      {
+        "start": 1983,
+        "end": 1984,
+        "string": " "
+      },
+      {
+        "start": 1984,
+        "end": 1989,
+        "string": "feel"
+      },
+      {
+        "start": 1989,
+        "end": 1990,
+        "string": " "
+      },
+      {
+        "start": 1990,
+        "end": 1995,
+        "string": "like"
+      },
+      {
+        "start": 1995,
+        "end": 1996,
+        "string": " "
+      },
+      {
+        "start": 1996,
+        "end": 2001,
+        "string": "what"
+      },
+      {
+        "start": 2001,
+        "end": 2002,
+        "string": " "
+      },
+      {
+        "start": 2002,
+        "end": 2011,
+        "string": "happened"
+      },
+      {
+        "start": 2011,
+        "end": 2012,
+        "string": " "
+      },
+      {
+        "start": 2012,
+        "end": 2017,
+        "string": "with"
+      },
+      {
+        "start": 2017,
+        "end": 2018,
+        "string": " "
+      },
+      {
+        "start": 2018,
+        "end": 2028,
+        "string": "Hurricane"
+      },
+      {
+        "start": 2028,
+        "end": 2029,
+        "string": " "
+      },
+      {
+        "start": 2029,
+        "end": 2037,
+        "string": "Michael"
+      },
+      {
+        "start": 2037,
+        "end": 2038,
+        "string": " "
+      },
+      {
+        "start": 2038,
+        "end": 2041,
+        "string": "is"
+      },
+      {
+        "start": 2041,
+        "end": 2042,
+        "string": " "
+      },
+      {
+        "start": 2042,
+        "end": 2056,
+        "string": "unprecedented"
+      },
+      {
+        "start": 2056,
+        "end": 2057,
+        "string": " "
+      },
+      {
+        "start": 2057,
+        "end": 2061,
+        "string": "and"
+      },
+      {
+        "start": 2061,
+        "end": 2062,
+        "string": " "
+      },
+      {
+        "start": 2062,
+        "end": 2069,
+        "string": "really"
+      },
+      {
+        "start": 2069,
+        "end": 2070,
+        "string": " "
+      },
+      {
+        "start": 2070,
+        "end": 2073,
+        "string": "we"
+      },
+      {
+        "start": 2073,
+        "end": 2074,
+        "string": " "
+      },
+      {
+        "start": 2074,
+        "end": 2079,
+        "string": "need"
+      },
+      {
+        "start": 2079,
+        "end": 2080,
+        "string": " "
+      },
+      {
+        "start": 2080,
+        "end": 2083,
+        "string": "to"
+      },
+      {
+        "start": 2083,
+        "end": 2084,
+        "string": " "
+      },
+      {
+        "start": 2084,
+        "end": 2088,
+        "string": "get"
+      },
+      {
+        "start": 2088,
+        "end": 2089,
+        "string": " "
+      },
+      {
+        "start": 2089,
+        "end": 2094,
+        "string": "this"
+      },
+      {
+        "start": 2094,
+        "end": 2095,
+        "string": " "
+      },
+      {
+        "start": 2095,
+        "end": 2103,
+        "string": "program"
+      },
+      {
+        "start": 2103,
+        "end": 2104,
+        "string": " "
+      },
+      {
+        "start": 2104,
+        "end": 2108,
+        "string": "out"
+      },
+      {
+        "start": 2108,
+        "end": 2109,
+        "string": " "
+      },
+      {
+        "start": 2109,
+        "end": 2111,
+        "string": ","
+      },
+      {
+        "start": 2111,
+        "end": 2112,
+        "string": " "
+      },
+      {
+        "start": 2112,
+        "end": 2114,
+        "string": "\""
+      },
+      {
+        "start": 2114,
+        "end": 2115,
+        "string": " "
+      },
+      {
+        "start": 2115,
+        "end": 2124,
+        "string": "Anderson"
+      },
+      {
+        "start": 2124,
+        "end": 2125,
+        "string": " "
+      },
+      {
+        "start": 2125,
+        "end": 2130,
+        "string": "said"
+      },
+      {
+        "start": 2130,
+        "end": 2131,
+        "string": " "
+      },
+      {
+        "start": 2131,
+        "end": 2133,
+        "string": "."
+      },
+      {
+        "start": 2133,
+        "end": 2134,
+        "string": " "
+      },
+      {
+        "start": 2134,
+        "end": 2138,
+        "string": "The"
+      },
+      {
+        "start": 2138,
+        "end": 2139,
+        "string": " "
+      },
+      {
+        "start": 2139,
+        "end": 2148,
+        "string": "benefits"
+      },
+      {
+        "start": 2148,
+        "end": 2149,
+        "string": " "
+      },
+      {
+        "start": 2149,
+        "end": 2154,
+        "string": "will"
+      },
+      {
+        "start": 2154,
+        "end": 2155,
+        "string": " "
+      },
+      {
+        "start": 2155,
+        "end": 2158,
+        "string": "be"
+      },
+      {
+        "start": 2158,
+        "end": 2159,
+        "string": " "
+      },
+      {
+        "start": 2159,
+        "end": 2167,
+        "string": "limited"
+      },
+      {
+        "start": 2167,
+        "end": 2168,
+        "string": " "
+      },
+      {
+        "start": 2168,
+        "end": 2171,
+        "string": "to"
+      },
+      {
+        "start": 2171,
+        "end": 2172,
+        "string": " "
+      },
+      {
+        "start": 2172,
+        "end": 2181,
+        "string": "families"
+      },
+      {
+        "start": 2181,
+        "end": 2182,
+        "string": " "
+      },
+      {
+        "start": 2182,
+        "end": 2188,
+        "string": "which"
+      },
+      {
+        "start": 2188,
+        "end": 2189,
+        "string": " "
+      },
+      {
+        "start": 2189,
+        "end": 2194,
+        "string": "have"
+      },
+      {
+        "start": 2194,
+        "end": 2195,
+        "string": " "
+      },
+      {
+        "start": 2195,
+        "end": 2203,
+        "string": "already"
+      },
+      {
+        "start": 2203,
+        "end": 2204,
+        "string": " "
+      },
+      {
+        "start": 2204,
+        "end": 2209,
+        "string": "been"
+      },
+      {
+        "start": 2209,
+        "end": 2210,
+        "string": " "
+      },
+      {
+        "start": 2210,
+        "end": 2218,
+        "string": "working"
+      },
+      {
+        "start": 2218,
+        "end": 2219,
+        "string": " "
+      },
+      {
+        "start": 2219,
+        "end": 2224,
+        "string": "with"
+      },
+      {
+        "start": 2224,
+        "end": 2225,
+        "string": " "
+      },
+      {
+        "start": 2225,
+        "end": 2230,
+        "string": "FEMA"
+      },
+      {
+        "start": 2230,
+        "end": 2231,
+        "string": " "
+      },
+      {
+        "start": 2231,
+        "end": 2234,
+        "string": "in"
+      },
+      {
+        "start": 2234,
+        "end": 2235,
+        "string": " "
+      },
+      {
+        "start": 2235,
+        "end": 2246,
+        "string": "recovering"
+      },
+      {
+        "start": 2246,
+        "end": 2247,
+        "string": " "
+      },
+      {
+        "start": 2247,
+        "end": 2252,
+        "string": "from"
+      },
+      {
+        "start": 2252,
+        "end": 2253,
+        "string": " "
+      },
+      {
+        "start": 2253,
+        "end": 2257,
+        "string": "the"
+      },
+      {
+        "start": 2257,
+        "end": 2258,
+        "string": " "
+      },
+      {
+        "start": 2258,
+        "end": 2264,
+        "string": "storm"
+      },
+      {
+        "start": 2264,
+        "end": 2265,
+        "string": " "
+      },
+      {
+        "start": 2265,
+        "end": 2267,
+        "string": "."
+      },
+      {
+        "start": 2267,
+        "end": 2268,
+        "string": " "
+      },
+      {
+        "start": 2268,
+        "end": 2272,
+        "string": "But"
+      },
+      {
+        "start": 2272,
+        "end": 2273,
+        "string": " "
+      },
+      {
+        "start": 2273,
+        "end": 2275,
+        "string": ","
+      },
+      {
+        "start": 2275,
+        "end": 2276,
+        "string": " "
+      },
+      {
+        "start": 2276,
+        "end": 2280,
+        "string": "the"
+      },
+      {
+        "start": 2280,
+        "end": 2281,
+        "string": " "
+      },
+      {
+        "start": 2281,
+        "end": 2288,
+        "string": "income"
+      },
+      {
+        "start": 2288,
+        "end": 2289,
+        "string": " "
+      },
+      {
+        "start": 2289,
+        "end": 2297,
+        "string": "ceiling"
+      },
+      {
+        "start": 2297,
+        "end": 2298,
+        "string": " "
+      },
+      {
+        "start": 2298,
+        "end": 2303,
+        "string": "tips"
+      },
+      {
+        "start": 2303,
+        "end": 2304,
+        "string": " "
+      },
+      {
+        "start": 2304,
+        "end": 2309,
+        "string": "well"
+      },
+      {
+        "start": 2309,
+        "end": 2310,
+        "string": " "
+      },
+      {
+        "start": 2310,
+        "end": 2315,
+        "string": "into"
+      },
+      {
+        "start": 2315,
+        "end": 2316,
+        "string": " "
+      },
+      {
+        "start": 2316,
+        "end": 2320,
+        "string": "the"
+      },
+      {
+        "start": 2320,
+        "end": 2321,
+        "string": " "
+      },
+      {
+        "start": 2321,
+        "end": 2328,
+        "string": "middle"
+      },
+      {
+        "start": 2328,
+        "end": 2329,
+        "string": " "
+      },
+      {
+        "start": 2329,
+        "end": 2335,
+        "string": "class"
+      },
+      {
+        "start": 2335,
+        "end": 2336,
+        "string": " "
+      },
+      {
+        "start": 2336,
+        "end": 2338,
+        "string": "."
+      },
+      {
+        "start": 2338,
+        "end": 2339,
+        "string": " "
+      },
+      {
+        "start": 2339,
+        "end": 2343,
+        "string": "For"
+      },
+      {
+        "start": 2343,
+        "end": 2344,
+        "string": " "
+      },
+      {
+        "start": 2344,
+        "end": 2353,
+        "string": "instance"
+      },
+      {
+        "start": 2353,
+        "end": 2354,
+        "string": " "
+      },
+      {
+        "start": 2354,
+        "end": 2356,
+        "string": ","
+      },
+      {
+        "start": 2356,
+        "end": 2357,
+        "string": " "
+      },
+      {
+        "start": 2357,
+        "end": 2359,
+        "string": "a"
+      },
+      {
+        "start": 2359,
+        "end": 2360,
+        "string": " "
+      },
+      {
+        "start": 2360,
+        "end": 2367,
+        "string": "family"
+      },
+      {
+        "start": 2367,
+        "end": 2368,
+        "string": " "
+      },
+      {
+        "start": 2368,
+        "end": 2371,
+        "string": "of"
+      },
+      {
+        "start": 2371,
+        "end": 2372,
+        "string": " "
+      },
+      {
+        "start": 2372,
+        "end": 2377,
+        "string": "four"
+      },
+      {
+        "start": 2377,
+        "end": 2378,
+        "string": " "
+      },
+      {
+        "start": 2378,
+        "end": 2383,
+        "string": "with"
+      },
+      {
+        "start": 2383,
+        "end": 2384,
+        "string": " "
+      },
+      {
+        "start": 2384,
+        "end": 2390,
+        "string": "gross"
+      },
+      {
+        "start": 2390,
+        "end": 2391,
+        "string": " "
+      },
+      {
+        "start": 2391,
+        "end": 2398,
+        "string": "income"
+      },
+      {
+        "start": 2398,
+        "end": 2399,
+        "string": " "
+      },
+      {
+        "start": 2399,
+        "end": 2402,
+        "string": "of"
+      },
+      {
+        "start": 2402,
+        "end": 2403,
+        "string": " "
+      },
+      {
+        "start": 2403,
+        "end": 2405,
+        "string": "$"
+      },
+      {
+        "start": 2405,
+        "end": 2406,
+        "string": " "
+      },
+      {
+        "start": 2406,
+        "end": 2413,
+        "string": "75,000"
+      },
+      {
+        "start": 2413,
+        "end": 2414,
+        "string": " "
+      },
+      {
+        "start": 2414,
+        "end": 2420,
+        "string": "might"
+      },
+      {
+        "start": 2420,
+        "end": 2421,
+        "string": " "
+      },
+      {
+        "start": 2421,
+        "end": 2427,
+        "string": "still"
+      },
+      {
+        "start": 2427,
+        "end": 2428,
+        "string": " "
+      },
+      {
+        "start": 2428,
+        "end": 2436,
+        "string": "qualify"
+      },
+      {
+        "start": 2436,
+        "end": 2437,
+        "string": " "
+      },
+      {
+        "start": 2437,
+        "end": 2447,
+        "string": "according"
+      },
+      {
+        "start": 2447,
+        "end": 2448,
+        "string": " "
+      },
+      {
+        "start": 2448,
+        "end": 2451,
+        "string": "to"
+      },
+      {
+        "start": 2451,
+        "end": 2452,
+        "string": " "
+      },
+      {
+        "start": 2452,
+        "end": 2456,
+        "string": "the"
+      },
+      {
+        "start": 2456,
+        "end": 2457,
+        "string": " "
+      },
+      {
+        "start": 2457,
+        "end": 2463,
+        "string": "rules"
+      },
+      {
+        "start": 2463,
+        "end": 2464,
+        "string": " "
+      },
+      {
+        "start": 2464,
+        "end": 2476,
+        "string": "established"
+      },
+      {
+        "start": 2476,
+        "end": 2477,
+        "string": " "
+      },
+      {
+        "start": 2477,
+        "end": 2480,
+        "string": "by"
+      },
+      {
+        "start": 2480,
+        "end": 2481,
+        "string": " "
+      },
+      {
+        "start": 2481,
+        "end": 2489,
+        "string": "Georgia"
+      },
+      {
+        "start": 2489,
+        "end": 2490,
+        "string": " "
+      },
+      {
+        "start": 2490,
+        "end": 2495,
+        "string": "DFCS"
+      },
+      {
+        "start": 2495,
+        "end": 2496,
+        "string": " "
+      },
+      {
+        "start": 2496,
+        "end": 2498,
+        "string": "."
+      },
+      {
+        "start": 2498,
+        "end": 2499,
+        "string": " "
+      },
+      {
+        "start": 2499,
+        "end": 2503,
+        "string": "The"
+      },
+      {
+        "start": 2503,
+        "end": 2504,
+        "string": " "
+      },
+      {
+        "start": 2504,
+        "end": 2512,
+        "string": "federal"
+      },
+      {
+        "start": 2512,
+        "end": 2513,
+        "string": " "
+      },
+      {
+        "start": 2513,
+        "end": 2519,
+        "string": "block"
+      },
+      {
+        "start": 2519,
+        "end": 2520,
+        "string": " "
+      },
+      {
+        "start": 2520,
+        "end": 2526,
+        "string": "grant"
+      },
+      {
+        "start": 2526,
+        "end": 2527,
+        "string": " "
+      },
+      {
+        "start": 2527,
+        "end": 2531,
+        "string": "the"
+      },
+      {
+        "start": 2531,
+        "end": 2532,
+        "string": " "
+      },
+      {
+        "start": 2532,
+        "end": 2538,
+        "string": "money"
+      },
+      {
+        "start": 2538,
+        "end": 2539,
+        "string": " "
+      },
+      {
+        "start": 2539,
+        "end": 2545,
+        "string": "comes"
+      },
+      {
+        "start": 2545,
+        "end": 2546,
+        "string": " "
+      },
+      {
+        "start": 2546,
+        "end": 2551,
+        "string": "from"
+      },
+      {
+        "start": 2551,
+        "end": 2552,
+        "string": " "
+      },
+      {
+        "start": 2552,
+        "end": 2558,
+        "string": "still"
+      },
+      {
+        "start": 2558,
+        "end": 2559,
+        "string": " "
+      },
+      {
+        "start": 2559,
+        "end": 2563,
+        "string": "has"
+      },
+      {
+        "start": 2563,
+        "end": 2564,
+        "string": " "
+      },
+      {
+        "start": 2564,
+        "end": 2567,
+        "string": "to"
+      },
+      {
+        "start": 2567,
+        "end": 2568,
+        "string": " "
+      },
+      {
+        "start": 2568,
+        "end": 2574,
+        "string": "cover"
+      },
+      {
+        "start": 2574,
+        "end": 2575,
+        "string": " "
+      },
+      {
+        "start": 2575,
+        "end": 2588,
+        "string": "conventional"
+      },
+      {
+        "start": 2588,
+        "end": 2589,
+        "string": " "
+      },
+      {
+        "start": 2589,
+        "end": 2600,
+        "string": "assistance"
+      },
+      {
+        "start": 2600,
+        "end": 2601,
+        "string": " "
+      },
+      {
+        "start": 2601,
+        "end": 2604,
+        "string": "to"
+      },
+      {
+        "start": 2604,
+        "end": 2605,
+        "string": " "
+      },
+      {
+        "start": 2605,
+        "end": 2611,
+        "string": "needy"
+      },
+      {
+        "start": 2611,
+        "end": 2612,
+        "string": " "
+      },
+      {
+        "start": 2612,
+        "end": 2621,
+        "string": "families"
+      },
+      {
+        "start": 2621,
+        "end": 2622,
+        "string": " "
+      },
+      {
+        "start": 2622,
+        "end": 2624,
+        "string": "."
+      },
+      {
+        "start": 2624,
+        "end": 2625,
+        "string": " "
+      },
+      {
+        "start": 2625,
+        "end": 2629,
+        "string": "The"
+      },
+      {
+        "start": 2629,
+        "end": 2630,
+        "string": " "
+      },
+      {
+        "start": 2630,
+        "end": 2640,
+        "string": "estimated"
+      },
+      {
+        "start": 2640,
+        "end": 2641,
+        "string": " "
+      },
+      {
+        "start": 2641,
+        "end": 2648,
+        "string": "33,000"
+      },
+      {
+        "start": 2648,
+        "end": 2649,
+        "string": " "
+      },
+      {
+        "start": 2649,
+        "end": 2658,
+        "string": "families"
+      },
+      {
+        "start": 2658,
+        "end": 2659,
+        "string": " "
+      },
+      {
+        "start": 2659,
+        "end": 2668,
+        "string": "affected"
+      },
+      {
+        "start": 2668,
+        "end": 2669,
+        "string": " "
+      },
+      {
+        "start": 2669,
+        "end": 2674,
+        "string": "have"
+      },
+      {
+        "start": 2674,
+        "end": 2675,
+        "string": " "
+      },
+      {
+        "start": 2675,
+        "end": 2680,
+        "string": "from"
+      },
+      {
+        "start": 2680,
+        "end": 2681,
+        "string": " "
+      },
+      {
+        "start": 2681,
+        "end": 2687,
+        "string": "March"
+      },
+      {
+        "start": 2687,
+        "end": 2688,
+        "string": " "
+      },
+      {
+        "start": 2688,
+        "end": 2690,
+        "string": "4"
+      },
+      {
+        "start": 2690,
+        "end": 2691,
+        "string": " "
+      },
+      {
+        "start": 2691,
+        "end": 2694,
+        "string": "to"
+      },
+      {
+        "start": 2694,
+        "end": 2695,
+        "string": " "
+      },
+      {
+        "start": 2695,
+        "end": 2699,
+        "string": "the"
+      },
+      {
+        "start": 2699,
+        "end": 2700,
+        "string": " "
+      },
+      {
+        "start": 2700,
+        "end": 2706,
+        "string": "March"
+      },
+      {
+        "start": 2706,
+        "end": 2707,
+        "string": " "
+      },
+      {
+        "start": 2707,
+        "end": 2710,
+        "string": "15"
+      },
+      {
+        "start": 2710,
+        "end": 2711,
+        "string": " "
+      },
+      {
+        "start": 2711,
+        "end": 2714,
+        "string": "to"
+      },
+      {
+        "start": 2714,
+        "end": 2715,
+        "string": " "
+      },
+      {
+        "start": 2715,
+        "end": 2720,
+        "string": "mail"
+      },
+      {
+        "start": 2720,
+        "end": 2721,
+        "string": " "
+      },
+      {
+        "start": 2721,
+        "end": 2724,
+        "string": "in"
+      },
+      {
+        "start": 2724,
+        "end": 2725,
+        "string": " "
+      },
+      {
+        "start": 2725,
+        "end": 2727,
+        "string": "a"
+      },
+      {
+        "start": 2727,
+        "end": 2728,
+        "string": " "
+      },
+      {
+        "start": 2728,
+        "end": 2734,
+        "string": "paper"
+      },
+      {
+        "start": 2734,
+        "end": 2735,
+        "string": " "
+      },
+      {
+        "start": 2735,
+        "end": 2747,
+        "string": "application"
+      },
+      {
+        "start": 2747,
+        "end": 2748,
+        "string": " "
+      },
+      {
+        "start": 2748,
+        "end": 2750,
+        "string": "."
+      },
+      {
+        "start": 2750,
+        "end": 2751,
+        "string": " "
+      }
+    ]
+  }
+}

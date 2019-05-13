@@ -1,0 +1,291 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "35acdd899ea8461585d5c6bf3825aaea.doc",
+  "id": "35acdd899ea8461585d5c6bf3825aaea.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "35acdd899ea8461585d5c6bf3825aaea.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 6,
+        "string": "Lloyd"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "string": " "
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "string": "Doggett"
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "string": " "
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "string": "and"
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "string": " "
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "string": "David"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "string": "Cicilline"
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "string": " "
+      },
+      {
+        "start": 39,
+        "end": 50,
+        "string": "introduced"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 55,
+        "string": "the"
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "string": " "
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "string": "Special"
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "string": " "
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "string": "Counsel"
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "string": " "
+      },
+      {
+        "start": 74,
+        "end": 87,
+        "string": "Transparency"
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "string": " "
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "string": "Act"
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "string": " "
+      },
+      {
+        "start": 93,
+        "end": 96,
+        "string": "on"
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "string": " "
+      },
+      {
+        "start": 97,
+        "end": 105,
+        "string": "Tuesday"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 108,
+        "string": "."
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 115,
+        "string": "Lloyd"
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 124,
+        "string": "Doggett"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 129,
+        "string": "and"
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "string": " "
+      },
+      {
+        "start": 130,
+        "end": 136,
+        "string": "David"
+      },
+      {
+        "start": 136,
+        "end": 137,
+        "string": " "
+      },
+      {
+        "start": 137,
+        "end": 147,
+        "string": "Cicilline"
+      },
+      {
+        "start": 147,
+        "end": 148,
+        "string": " "
+      },
+      {
+        "start": 148,
+        "end": 159,
+        "string": "introduced"
+      },
+      {
+        "start": 159,
+        "end": 160,
+        "string": " "
+      },
+      {
+        "start": 160,
+        "end": 164,
+        "string": "the"
+      },
+      {
+        "start": 164,
+        "end": 165,
+        "string": " "
+      },
+      {
+        "start": 165,
+        "end": 173,
+        "string": "Special"
+      },
+      {
+        "start": 173,
+        "end": 174,
+        "string": " "
+      },
+      {
+        "start": 174,
+        "end": 182,
+        "string": "Counsel"
+      },
+      {
+        "start": 182,
+        "end": 183,
+        "string": " "
+      },
+      {
+        "start": 183,
+        "end": 196,
+        "string": "Transparency"
+      },
+      {
+        "start": 196,
+        "end": 197,
+        "string": " "
+      },
+      {
+        "start": 197,
+        "end": 201,
+        "string": "Act"
+      },
+      {
+        "start": 201,
+        "end": 202,
+        "string": " "
+      },
+      {
+        "start": 202,
+        "end": 205,
+        "string": "on"
+      },
+      {
+        "start": 205,
+        "end": 206,
+        "string": " "
+      },
+      {
+        "start": 206,
+        "end": 214,
+        "string": "Tuesday"
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "string": " "
+      },
+      {
+        "start": 215,
+        "end": 217,
+        "string": "."
+      },
+      {
+        "start": 217,
+        "end": 218,
+        "string": " "
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "01e13c6a916a4796828d85b7873cf45e.doc",
+  "metadata": {
+    "title": "1 killed in quadruple shooting near 76 gas station in Oakland",
+    "sourceUrl": "https://abc7ne.ws/2Vtjb6u",
+    "documentSource": "abc7news.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

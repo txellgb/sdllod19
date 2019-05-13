@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "f91e628fca9248299957769e046be6cc.doc",
+  "metadata": {
+    "title": "Active Stock under Review -- The Chemours Company (CC)",
+    "sourceUrl": "http://www.stockmarketstop.com/2019/03/active-stock-under-review-the-chemours-company-cc/",
+    "documentSource": "stockmarketstop.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

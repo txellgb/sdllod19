@@ -1,0 +1,1511 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "7cbf2347f5054c3baf0aeb89fe297ad5.doc",
+  "id": "7cbf2347f5054c3baf0aeb89fe297ad5.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "7cbf2347f5054c3baf0aeb89fe297ad5.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 6,
+        "string": "Parts"
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "string": " "
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "string": "of"
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "string": " "
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "string": "western"
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "string": " "
+      },
+      {
+        "start": 20,
+        "end": 27,
+        "string": "Sydney"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "string": "and"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "string": "the"
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "string": " "
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "string": "Central"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "string": " "
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "string": "Coast"
+      },
+      {
+        "start": 53,
+        "end": 54,
+        "string": " "
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "string": "will"
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "string": " "
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "string": "receive"
+      },
+      {
+        "start": 68,
+        "end": 69,
+        "string": " "
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "string": "an"
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "string": " "
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "string": "additional"
+      },
+      {
+        "start": 84,
+        "end": 85,
+        "string": " "
+      },
+      {
+        "start": 85,
+        "end": 92,
+        "string": "14,000"
+      },
+      {
+        "start": 92,
+        "end": 93,
+        "string": " "
+      },
+      {
+        "start": 93,
+        "end": 100,
+        "string": "weekly"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "string": "bus"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 115,
+        "string": "services"
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 119,
+        "string": "if"
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "string": " "
+      },
+      {
+        "start": 120,
+        "end": 124,
+        "string": "the"
+      },
+      {
+        "start": 124,
+        "end": 125,
+        "string": " "
+      },
+      {
+        "start": 125,
+        "end": 135,
+        "string": "Coalition"
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "string": " "
+      },
+      {
+        "start": 136,
+        "end": 141,
+        "string": "wins"
+      },
+      {
+        "start": 141,
+        "end": 142,
+        "string": " "
+      },
+      {
+        "start": 142,
+        "end": 153,
+        "string": "government"
+      },
+      {
+        "start": 153,
+        "end": 154,
+        "string": " "
+      },
+      {
+        "start": 154,
+        "end": 157,
+        "string": "at"
+      },
+      {
+        "start": 157,
+        "end": 158,
+        "string": " "
+      },
+      {
+        "start": 158,
+        "end": 162,
+        "string": "the"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 172,
+        "string": "upcoming"
+      },
+      {
+        "start": 172,
+        "end": 173,
+        "string": " "
+      },
+      {
+        "start": 173,
+        "end": 179,
+        "string": "state"
+      },
+      {
+        "start": 179,
+        "end": 180,
+        "string": " "
+      },
+      {
+        "start": 180,
+        "end": 189,
+        "string": "election"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 192,
+        "string": ","
+      },
+      {
+        "start": 192,
+        "end": 193,
+        "string": " "
+      },
+      {
+        "start": 193,
+        "end": 197,
+        "string": "NSW"
+      },
+      {
+        "start": 197,
+        "end": 198,
+        "string": " "
+      },
+      {
+        "start": 198,
+        "end": 208,
+        "string": "Transport"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "string": " "
+      },
+      {
+        "start": 209,
+        "end": 218,
+        "string": "Minister"
+      },
+      {
+        "start": 218,
+        "end": 219,
+        "string": " "
+      },
+      {
+        "start": 219,
+        "end": 226,
+        "string": "Andrew"
+      },
+      {
+        "start": 226,
+        "end": 227,
+        "string": " "
+      },
+      {
+        "start": 227,
+        "end": 237,
+        "string": "Constance"
+      },
+      {
+        "start": 237,
+        "end": 238,
+        "string": " "
+      },
+      {
+        "start": 238,
+        "end": 242,
+        "string": "has"
+      },
+      {
+        "start": 242,
+        "end": 243,
+        "string": " "
+      },
+      {
+        "start": 243,
+        "end": 253,
+        "string": "announced"
+      },
+      {
+        "start": 253,
+        "end": 254,
+        "string": " "
+      },
+      {
+        "start": 254,
+        "end": 256,
+        "string": "."
+      },
+      {
+        "start": 256,
+        "end": 257,
+        "string": " "
+      },
+      {
+        "start": 257,
+        "end": 259,
+        "string": "\""
+      },
+      {
+        "start": 259,
+        "end": 260,
+        "string": " "
+      },
+      {
+        "start": 260,
+        "end": 263,
+        "string": "We"
+      },
+      {
+        "start": 263,
+        "end": 264,
+        "string": " "
+      },
+      {
+        "start": 264,
+        "end": 269,
+        "string": "will"
+      },
+      {
+        "start": 269,
+        "end": 270,
+        "string": " "
+      },
+      {
+        "start": 270,
+        "end": 279,
+        "string": "continue"
+      },
+      {
+        "start": 279,
+        "end": 280,
+        "string": " "
+      },
+      {
+        "start": 280,
+        "end": 284,
+        "string": "our"
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 292,
+        "string": "record"
+      },
+      {
+        "start": 292,
+        "end": 293,
+        "string": " "
+      },
+      {
+        "start": 293,
+        "end": 304,
+        "string": "investment"
+      },
+      {
+        "start": 304,
+        "end": 305,
+        "string": " "
+      },
+      {
+        "start": 305,
+        "end": 308,
+        "string": "in"
+      },
+      {
+        "start": 308,
+        "end": 309,
+        "string": " "
+      },
+      {
+        "start": 309,
+        "end": 316,
+        "string": "public"
+      },
+      {
+        "start": 316,
+        "end": 317,
+        "string": " "
+      },
+      {
+        "start": 317,
+        "end": 327,
+        "string": "transport"
+      },
+      {
+        "start": 327,
+        "end": 328,
+        "string": " "
+      },
+      {
+        "start": 328,
+        "end": 331,
+        "string": "by"
+      },
+      {
+        "start": 331,
+        "end": 332,
+        "string": " "
+      },
+      {
+        "start": 332,
+        "end": 339,
+        "string": "adding"
+      },
+      {
+        "start": 339,
+        "end": 340,
+        "string": " "
+      },
+      {
+        "start": 340,
+        "end": 350,
+        "string": "thousands"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 354,
+        "string": "of"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 361,
+        "string": "extra"
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 369,
+        "string": "weekly"
+      },
+      {
+        "start": 369,
+        "end": 370,
+        "string": " "
+      },
+      {
+        "start": 370,
+        "end": 374,
+        "string": "bus"
+      },
+      {
+        "start": 374,
+        "end": 375,
+        "string": " "
+      },
+      {
+        "start": 375,
+        "end": 384,
+        "string": "services"
+      },
+      {
+        "start": 384,
+        "end": 385,
+        "string": " "
+      },
+      {
+        "start": 385,
+        "end": 388,
+        "string": "to"
+      },
+      {
+        "start": 388,
+        "end": 389,
+        "string": " "
+      },
+      {
+        "start": 389,
+        "end": 395,
+        "string": "boost"
+      },
+      {
+        "start": 395,
+        "end": 396,
+        "string": " "
+      },
+      {
+        "start": 396,
+        "end": 404,
+        "string": "service"
+      },
+      {
+        "start": 404,
+        "end": 405,
+        "string": " "
+      },
+      {
+        "start": 405,
+        "end": 415,
+        "string": "frequency"
+      },
+      {
+        "start": 415,
+        "end": 416,
+        "string": " "
+      },
+      {
+        "start": 416,
+        "end": 420,
+        "string": "and"
+      },
+      {
+        "start": 420,
+        "end": 421,
+        "string": " "
+      },
+      {
+        "start": 421,
+        "end": 425,
+        "string": "the"
+      },
+      {
+        "start": 425,
+        "end": 426,
+        "string": " "
+      },
+      {
+        "start": 426,
+        "end": 432,
+        "string": "hours"
+      },
+      {
+        "start": 432,
+        "end": 433,
+        "string": " "
+      },
+      {
+        "start": 433,
+        "end": 439,
+        "string": "buses"
+      },
+      {
+        "start": 439,
+        "end": 440,
+        "string": " "
+      },
+      {
+        "start": 440,
+        "end": 448,
+        "string": "operate"
+      },
+      {
+        "start": 448,
+        "end": 449,
+        "string": " "
+      },
+      {
+        "start": 449,
+        "end": 451,
+        "string": ","
+      },
+      {
+        "start": 451,
+        "end": 452,
+        "string": " "
+      },
+      {
+        "start": 452,
+        "end": 454,
+        "string": "\""
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 459,
+        "string": "the"
+      },
+      {
+        "start": 459,
+        "end": 460,
+        "string": " "
+      },
+      {
+        "start": 460,
+        "end": 467,
+        "string": "member"
+      },
+      {
+        "start": 467,
+        "end": 468,
+        "string": " "
+      },
+      {
+        "start": 468,
+        "end": 472,
+        "string": "for"
+      },
+      {
+        "start": 472,
+        "end": 473,
+        "string": " "
+      },
+      {
+        "start": 473,
+        "end": 478,
+        "string": "Bega"
+      },
+      {
+        "start": 478,
+        "end": 479,
+        "string": " "
+      },
+      {
+        "start": 479,
+        "end": 484,
+        "string": "said"
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 488,
+        "string": "in"
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "string": " "
+      },
+      {
+        "start": 489,
+        "end": 491,
+        "string": "a"
+      },
+      {
+        "start": 491,
+        "end": 492,
+        "string": " "
+      },
+      {
+        "start": 492,
+        "end": 498,
+        "string": "press"
+      },
+      {
+        "start": 498,
+        "end": 499,
+        "string": " "
+      },
+      {
+        "start": 499,
+        "end": 507,
+        "string": "release"
+      },
+      {
+        "start": 507,
+        "end": 508,
+        "string": " "
+      },
+      {
+        "start": 508,
+        "end": 515,
+        "string": "issued"
+      },
+      {
+        "start": 515,
+        "end": 516,
+        "string": " "
+      },
+      {
+        "start": 516,
+        "end": 519,
+        "string": "on"
+      },
+      {
+        "start": 519,
+        "end": 520,
+        "string": " "
+      },
+      {
+        "start": 520,
+        "end": 529,
+        "string": "Saturday"
+      },
+      {
+        "start": 529,
+        "end": 530,
+        "string": " "
+      },
+      {
+        "start": 530,
+        "end": 538,
+        "string": "morning"
+      },
+      {
+        "start": 538,
+        "end": 539,
+        "string": " "
+      },
+      {
+        "start": 539,
+        "end": 541,
+        "string": "."
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 546,
+        "string": "The"
+      },
+      {
+        "start": 546,
+        "end": 547,
+        "string": " "
+      },
+      {
+        "start": 547,
+        "end": 551,
+        "string": "bus"
+      },
+      {
+        "start": 551,
+        "end": 552,
+        "string": " "
+      },
+      {
+        "start": 552,
+        "end": 560,
+        "string": "network"
+      },
+      {
+        "start": 560,
+        "end": 561,
+        "string": " "
+      },
+      {
+        "start": 561,
+        "end": 565,
+        "string": "has"
+      },
+      {
+        "start": 565,
+        "end": 566,
+        "string": " "
+      },
+      {
+        "start": 566,
+        "end": 571,
+        "string": "seen"
+      },
+      {
+        "start": 571,
+        "end": 572,
+        "string": " "
+      },
+      {
+        "start": 572,
+        "end": 574,
+        "string": "a"
+      },
+      {
+        "start": 574,
+        "end": 575,
+        "string": " "
+      },
+      {
+        "start": 575,
+        "end": 578,
+        "string": "55"
+      },
+      {
+        "start": 578,
+        "end": 579,
+        "string": " "
+      },
+      {
+        "start": 579,
+        "end": 583,
+        "string": "per"
+      },
+      {
+        "start": 583,
+        "end": 584,
+        "string": " "
+      },
+      {
+        "start": 584,
+        "end": 589,
+        "string": "cent"
+      },
+      {
+        "start": 589,
+        "end": 590,
+        "string": " "
+      },
+      {
+        "start": 590,
+        "end": 599,
+        "string": "increase"
+      },
+      {
+        "start": 599,
+        "end": 600,
+        "string": " "
+      },
+      {
+        "start": 600,
+        "end": 603,
+        "string": "in"
+      },
+      {
+        "start": 603,
+        "end": 604,
+        "string": " "
+      },
+      {
+        "start": 604,
+        "end": 608,
+        "string": "use"
+      },
+      {
+        "start": 608,
+        "end": 609,
+        "string": " "
+      },
+      {
+        "start": 609,
+        "end": 614,
+        "string": "over"
+      },
+      {
+        "start": 614,
+        "end": 615,
+        "string": " "
+      },
+      {
+        "start": 615,
+        "end": 619,
+        "string": "the"
+      },
+      {
+        "start": 619,
+        "end": 620,
+        "string": " "
+      },
+      {
+        "start": 620,
+        "end": 625,
+        "string": "past"
+      },
+      {
+        "start": 625,
+        "end": 626,
+        "string": " "
+      },
+      {
+        "start": 626,
+        "end": 632,
+        "string": "eight"
+      },
+      {
+        "start": 632,
+        "end": 633,
+        "string": " "
+      },
+      {
+        "start": 633,
+        "end": 639,
+        "string": "years"
+      },
+      {
+        "start": 639,
+        "end": 640,
+        "string": " "
+      },
+      {
+        "start": 640,
+        "end": 642,
+        "string": ","
+      },
+      {
+        "start": 642,
+        "end": 643,
+        "string": " "
+      },
+      {
+        "start": 643,
+        "end": 646,
+        "string": "Mr"
+      },
+      {
+        "start": 646,
+        "end": 647,
+        "string": " "
+      },
+      {
+        "start": 647,
+        "end": 657,
+        "string": "Constance"
+      },
+      {
+        "start": 657,
+        "end": 658,
+        "string": " "
+      },
+      {
+        "start": 658,
+        "end": 663,
+        "string": "said"
+      },
+      {
+        "start": 663,
+        "end": 664,
+        "string": " "
+      },
+      {
+        "start": 664,
+        "end": 666,
+        "string": "."
+      },
+      {
+        "start": 666,
+        "end": 667,
+        "string": " "
+      },
+      {
+        "start": 667,
+        "end": 669,
+        "string": "\""
+      },
+      {
+        "start": 669,
+        "end": 670,
+        "string": " "
+      },
+      {
+        "start": 670,
+        "end": 673,
+        "string": "By"
+      },
+      {
+        "start": 673,
+        "end": 674,
+        "string": " "
+      },
+      {
+        "start": 674,
+        "end": 682,
+        "string": "putting"
+      },
+      {
+        "start": 682,
+        "end": 683,
+        "string": " "
+      },
+      {
+        "start": 683,
+        "end": 686,
+        "string": "on"
+      },
+      {
+        "start": 686,
+        "end": 687,
+        "string": " "
+      },
+      {
+        "start": 687,
+        "end": 692,
+        "string": "more"
+      },
+      {
+        "start": 692,
+        "end": 693,
+        "string": " "
+      },
+      {
+        "start": 693,
+        "end": 697,
+        "string": "bus"
+      },
+      {
+        "start": 697,
+        "end": 698,
+        "string": " "
+      },
+      {
+        "start": 698,
+        "end": 707,
+        "string": "services"
+      },
+      {
+        "start": 707,
+        "end": 708,
+        "string": " "
+      },
+      {
+        "start": 708,
+        "end": 711,
+        "string": "we"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 716,
+        "string": "are"
+      },
+      {
+        "start": 716,
+        "end": 717,
+        "string": " "
+      },
+      {
+        "start": 717,
+        "end": 724,
+        "string": "making"
+      },
+      {
+        "start": 724,
+        "end": 725,
+        "string": " "
+      },
+      {
+        "start": 725,
+        "end": 728,
+        "string": "it"
+      },
+      {
+        "start": 728,
+        "end": 729,
+        "string": " "
+      },
+      {
+        "start": 729,
+        "end": 736,
+        "string": "easier"
+      },
+      {
+        "start": 736,
+        "end": 737,
+        "string": " "
+      },
+      {
+        "start": 737,
+        "end": 741,
+        "string": "for"
+      },
+      {
+        "start": 741,
+        "end": 742,
+        "string": " "
+      },
+      {
+        "start": 742,
+        "end": 752,
+        "string": "commuters"
+      },
+      {
+        "start": 752,
+        "end": 753,
+        "string": " "
+      },
+      {
+        "start": 753,
+        "end": 756,
+        "string": "to"
+      },
+      {
+        "start": 756,
+        "end": 757,
+        "string": " "
+      },
+      {
+        "start": 757,
+        "end": 763,
+        "string": "leave"
+      },
+      {
+        "start": 763,
+        "end": 764,
+        "string": " "
+      },
+      {
+        "start": 764,
+        "end": 770,
+        "string": "their"
+      },
+      {
+        "start": 770,
+        "end": 771,
+        "string": " "
+      },
+      {
+        "start": 771,
+        "end": 776,
+        "string": "cars"
+      },
+      {
+        "start": 776,
+        "end": 777,
+        "string": " "
+      },
+      {
+        "start": 777,
+        "end": 780,
+        "string": "at"
+      },
+      {
+        "start": 780,
+        "end": 781,
+        "string": " "
+      },
+      {
+        "start": 781,
+        "end": 786,
+        "string": "home"
+      },
+      {
+        "start": 786,
+        "end": 787,
+        "string": " "
+      },
+      {
+        "start": 787,
+        "end": 794,
+        "string": "easing"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 806,
+        "string": "congestion"
+      },
+      {
+        "start": 806,
+        "end": 807,
+        "string": " "
+      },
+      {
+        "start": 807,
+        "end": 810,
+        "string": "on"
+      },
+      {
+        "start": 810,
+        "end": 811,
+        "string": " "
+      },
+      {
+        "start": 811,
+        "end": 815,
+        "string": "our"
+      },
+      {
+        "start": 815,
+        "end": 816,
+        "string": " "
+      },
+      {
+        "start": 816,
+        "end": 822,
+        "string": "roads"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 825,
+        "string": "."
+      },
+      {
+        "start": 825,
+        "end": 826,
+        "string": " "
+      },
+      {
+        "start": 826,
+        "end": 828,
+        "string": "\""
+      },
+      {
+        "start": 828,
+        "end": 829,
+        "string": " "
+      },
+      {
+        "start": 829,
+        "end": 837,
+        "string": "Suburbs"
+      },
+      {
+        "start": 837,
+        "end": 838,
+        "string": " "
+      },
+      {
+        "start": 838,
+        "end": 843,
+        "string": "that"
+      },
+      {
+        "start": 843,
+        "end": 844,
+        "string": " "
+      },
+      {
+        "start": 844,
+        "end": 849,
+        "string": "will"
+      },
+      {
+        "start": 849,
+        "end": 850,
+        "string": " "
+      },
+      {
+        "start": 850,
+        "end": 858,
+        "string": "benefit"
+      },
+      {
+        "start": 858,
+        "end": 859,
+        "string": " "
+      },
+      {
+        "start": 859,
+        "end": 864,
+        "string": "from"
+      },
+      {
+        "start": 864,
+        "end": 865,
+        "string": " "
+      },
+      {
+        "start": 865,
+        "end": 869,
+        "string": "the"
+      },
+      {
+        "start": 869,
+        "end": 870,
+        "string": " "
+      },
+      {
+        "start": 870,
+        "end": 879,
+        "string": "proposal"
+      },
+      {
+        "start": 879,
+        "end": 880,
+        "string": " "
+      },
+      {
+        "start": 880,
+        "end": 888,
+        "string": "include"
+      },
+      {
+        "start": 888,
+        "end": 889,
+        "string": " "
+      },
+      {
+        "start": 889,
+        "end": 900,
+        "string": "Riverstone"
+      },
+      {
+        "start": 900,
+        "end": 901,
+        "string": " "
+      },
+      {
+        "start": 901,
+        "end": 903,
+        "string": ","
+      },
+      {
+        "start": 903,
+        "end": 904,
+        "string": " "
+      },
+      {
+        "start": 904,
+        "end": 914,
+        "string": "Macquarie"
+      },
+      {
+        "start": 914,
+        "end": 915,
+        "string": " "
+      },
+      {
+        "start": 915,
+        "end": 920,
+        "string": "Park"
+      },
+      {
+        "start": 920,
+        "end": 921,
+        "string": " "
+      },
+      {
+        "start": 921,
+        "end": 923,
+        "string": ","
+      },
+      {
+        "start": 923,
+        "end": 924,
+        "string": " "
+      },
+      {
+        "start": 924,
+        "end": 935,
+        "string": "Schofields"
+      },
+      {
+        "start": 935,
+        "end": 936,
+        "string": " "
+      },
+      {
+        "start": 936,
+        "end": 938,
+        "string": ","
+      },
+      {
+        "start": 938,
+        "end": 939,
+        "string": " "
+      },
+      {
+        "start": 939,
+        "end": 943,
+        "string": "The"
+      },
+      {
+        "start": 943,
+        "end": 944,
+        "string": " "
+      },
+      {
+        "start": 944,
+        "end": 953,
+        "string": "Entrance"
+      },
+      {
+        "start": 953,
+        "end": 954,
+        "string": " "
+      },
+      {
+        "start": 954,
+        "end": 956,
+        "string": ","
+      },
+      {
+        "start": 956,
+        "end": 957,
+        "string": " "
+      },
+      {
+        "start": 957,
+        "end": 965,
+        "string": "Raymond"
+      },
+      {
+        "start": 965,
+        "end": 966,
+        "string": " "
+      },
+      {
+        "start": 966,
+        "end": 974,
+        "string": "Terrace"
+      },
+      {
+        "start": 974,
+        "end": 975,
+        "string": " "
+      },
+      {
+        "start": 975,
+        "end": 979,
+        "string": "and"
+      },
+      {
+        "start": 979,
+        "end": 980,
+        "string": " "
+      },
+      {
+        "start": 980,
+        "end": 993,
+        "string": "Shellharbour"
+      },
+      {
+        "start": 993,
+        "end": 994,
+        "string": " "
+      },
+      {
+        "start": 994,
+        "end": 996,
+        "string": "."
+      },
+      {
+        "start": 996,
+        "end": 997,
+        "string": " "
+      }
+    ]
+  }
+}

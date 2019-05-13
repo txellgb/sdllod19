@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "572a994f94bd409f8c0397f9b46c3886.doc",
+  "metadata": {
+    "title": "Lyft's IPO filing shows surging revenue, widening losses",
+    "sourceUrl": "https://in.reuters.com/article/lyft-ipo-filing-idINKCN1QI51D",
+    "documentSource": "in.reuters.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

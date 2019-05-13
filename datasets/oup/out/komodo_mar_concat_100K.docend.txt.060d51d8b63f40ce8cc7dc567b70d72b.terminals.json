@@ -1,0 +1,5161 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "060d51d8b63f40ce8cc7dc567b70d72b.doc",
+  "id": "060d51d8b63f40ce8cc7dc567b70d72b.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "060d51d8b63f40ce8cc7dc567b70d72b.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 14,
+        "string": "Mercedes-Benz"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "string": " "
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "string": "unveiled"
+      },
+      {
+        "start": 24,
+        "end": 25,
+        "string": " "
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "string": "an"
+      },
+      {
+        "start": 28,
+        "end": 29,
+        "string": " "
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "string": "updated"
+      },
+      {
+        "start": 37,
+        "end": 38,
+        "string": " "
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "string": "2020"
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "string": " "
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "string": "GLC"
+      },
+      {
+        "start": 48,
+        "end": 49,
+        "string": " "
+      },
+      {
+        "start": 49,
+        "end": 57,
+        "string": "300/300"
+      },
+      {
+        "start": 57,
+        "end": 58,
+        "string": " "
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "string": "4Matic"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "string": "it"
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "string": " "
+      },
+      {
+        "start": 70,
+        "end": 76,
+        "string": "plans"
+      },
+      {
+        "start": 76,
+        "end": 77,
+        "string": " "
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "string": "to"
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "string": " "
+      },
+      {
+        "start": 81,
+        "end": 86,
+        "string": "sell"
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "string": " "
+      },
+      {
+        "start": 87,
+        "end": 90,
+        "string": "by"
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "string": " "
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "string": "the"
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "string": " "
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "string": "end"
+      },
+      {
+        "start": 100,
+        "end": 101,
+        "string": " "
+      },
+      {
+        "start": 101,
+        "end": 104,
+        "string": "of"
+      },
+      {
+        "start": 104,
+        "end": 105,
+        "string": " "
+      },
+      {
+        "start": 105,
+        "end": 109,
+        "string": "the"
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "string": " "
+      },
+      {
+        "start": 110,
+        "end": 115,
+        "string": "year"
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "string": " "
+      },
+      {
+        "start": 116,
+        "end": 121,
+        "string": "that"
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "string": " "
+      },
+      {
+        "start": 122,
+        "end": 131,
+        "string": "features"
+      },
+      {
+        "start": 131,
+        "end": 132,
+        "string": " "
+      },
+      {
+        "start": 132,
+        "end": 134,
+        "string": "a"
+      },
+      {
+        "start": 134,
+        "end": 135,
+        "string": " "
+      },
+      {
+        "start": 135,
+        "end": 145,
+        "string": "freshened"
+      },
+      {
+        "start": 145,
+        "end": 146,
+        "string": " "
+      },
+      {
+        "start": 146,
+        "end": 155,
+        "string": "exterior"
+      },
+      {
+        "start": 155,
+        "end": 156,
+        "string": " "
+      },
+      {
+        "start": 156,
+        "end": 158,
+        "string": ","
+      },
+      {
+        "start": 158,
+        "end": 159,
+        "string": " "
+      },
+      {
+        "start": 159,
+        "end": 161,
+        "string": "a"
+      },
+      {
+        "start": 161,
+        "end": 162,
+        "string": " "
+      },
+      {
+        "start": 162,
+        "end": 166,
+        "string": "new"
+      },
+      {
+        "start": 166,
+        "end": 167,
+        "string": " "
+      },
+      {
+        "start": 167,
+        "end": 178,
+        "string": "4-cylinder"
+      },
+      {
+        "start": 178,
+        "end": 179,
+        "string": " "
+      },
+      {
+        "start": 179,
+        "end": 186,
+        "string": "engine"
+      },
+      {
+        "start": 186,
+        "end": 187,
+        "string": " "
+      },
+      {
+        "start": 187,
+        "end": 191,
+        "string": "and"
+      },
+      {
+        "start": 191,
+        "end": 192,
+        "string": " "
+      },
+      {
+        "start": 192,
+        "end": 194,
+        "string": "a"
+      },
+      {
+        "start": 194,
+        "end": 195,
+        "string": " "
+      },
+      {
+        "start": 195,
+        "end": 204,
+        "string": "revamped"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      },
+      {
+        "start": 205,
+        "end": 214,
+        "string": "interior"
+      },
+      {
+        "start": 214,
+        "end": 215,
+        "string": " "
+      },
+      {
+        "start": 215,
+        "end": 220,
+        "string": "that"
+      },
+      {
+        "start": 220,
+        "end": 221,
+        "string": " "
+      },
+      {
+        "start": 221,
+        "end": 230,
+        "string": "includes"
+      },
+      {
+        "start": 230,
+        "end": 231,
+        "string": " "
+      },
+      {
+        "start": 231,
+        "end": 235,
+        "string": "the"
+      },
+      {
+        "start": 235,
+        "end": 236,
+        "string": " "
+      },
+      {
+        "start": 236,
+        "end": 243,
+        "string": "German"
+      },
+      {
+        "start": 243,
+        "end": 244,
+        "string": " "
+      },
+      {
+        "start": 244,
+        "end": 254,
+        "string": "automaker"
+      },
+      {
+        "start": 254,
+        "end": 255,
+        "string": " "
+      },
+      {
+        "start": 255,
+        "end": 258,
+        "string": "'s"
+      },
+      {
+        "start": 258,
+        "end": 259,
+        "string": " "
+      },
+      {
+        "start": 259,
+        "end": 264,
+        "string": "MBUX"
+      },
+      {
+        "start": 264,
+        "end": 265,
+        "string": " "
+      },
+      {
+        "start": 265,
+        "end": 270,
+        "string": "user"
+      },
+      {
+        "start": 270,
+        "end": 271,
+        "string": " "
+      },
+      {
+        "start": 271,
+        "end": 281,
+        "string": "interface"
+      },
+      {
+        "start": 281,
+        "end": 282,
+        "string": " "
+      },
+      {
+        "start": 282,
+        "end": 284,
+        "string": "."
+      },
+      {
+        "start": 284,
+        "end": 285,
+        "string": " "
+      },
+      {
+        "start": 285,
+        "end": 293,
+        "string": "Offered"
+      },
+      {
+        "start": 293,
+        "end": 294,
+        "string": " "
+      },
+      {
+        "start": 294,
+        "end": 297,
+        "string": "in"
+      },
+      {
+        "start": 297,
+        "end": 298,
+        "string": " "
+      },
+      {
+        "start": 298,
+        "end": 303,
+        "string": "rear"
+      },
+      {
+        "start": 303,
+        "end": 304,
+        "string": " "
+      },
+      {
+        "start": 304,
+        "end": 306,
+        "string": "-"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 310,
+        "string": "or"
+      },
+      {
+        "start": 310,
+        "end": 311,
+        "string": " "
+      },
+      {
+        "start": 311,
+        "end": 321,
+        "string": "all-wheel"
+      },
+      {
+        "start": 321,
+        "end": 322,
+        "string": " "
+      },
+      {
+        "start": 322,
+        "end": 328,
+        "string": "drive"
+      },
+      {
+        "start": 328,
+        "end": 329,
+        "string": " "
+      },
+      {
+        "start": 329,
+        "end": 336,
+        "string": "4Matic"
+      },
+      {
+        "start": 336,
+        "end": 337,
+        "string": " "
+      },
+      {
+        "start": 337,
+        "end": 342,
+        "string": "trim"
+      },
+      {
+        "start": 342,
+        "end": 343,
+        "string": " "
+      },
+      {
+        "start": 343,
+        "end": 345,
+        "string": ","
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 350,
+        "string": "the"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 356,
+        "string": "2020"
+      },
+      {
+        "start": 356,
+        "end": 357,
+        "string": " "
+      },
+      {
+        "start": 357,
+        "end": 361,
+        "string": "GLC"
+      },
+      {
+        "start": 361,
+        "end": 362,
+        "string": " "
+      },
+      {
+        "start": 362,
+        "end": 366,
+        "string": "300"
+      },
+      {
+        "start": 366,
+        "end": 367,
+        "string": " "
+      },
+      {
+        "start": 367,
+        "end": 375,
+        "string": "styling"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 385,
+        "string": "features"
+      },
+      {
+        "start": 385,
+        "end": 386,
+        "string": " "
+      },
+      {
+        "start": 386,
+        "end": 388,
+        "string": "a"
+      },
+      {
+        "start": 388,
+        "end": 389,
+        "string": " "
+      },
+      {
+        "start": 389,
+        "end": 393,
+        "string": "new"
+      },
+      {
+        "start": 393,
+        "end": 394,
+        "string": " "
+      },
+      {
+        "start": 394,
+        "end": 401,
+        "string": "grille"
+      },
+      {
+        "start": 401,
+        "end": 402,
+        "string": " "
+      },
+      {
+        "start": 402,
+        "end": 404,
+        "string": ","
+      },
+      {
+        "start": 404,
+        "end": 405,
+        "string": " "
+      },
+      {
+        "start": 405,
+        "end": 416,
+        "string": "redesigned"
+      },
+      {
+        "start": 416,
+        "end": 417,
+        "string": " "
+      },
+      {
+        "start": 417,
+        "end": 423,
+        "string": "front"
+      },
+      {
+        "start": 423,
+        "end": 424,
+        "string": " "
+      },
+      {
+        "start": 424,
+        "end": 428,
+        "string": "and"
+      },
+      {
+        "start": 428,
+        "end": 429,
+        "string": " "
+      },
+      {
+        "start": 429,
+        "end": 434,
+        "string": "rear"
+      },
+      {
+        "start": 434,
+        "end": 435,
+        "string": " "
+      },
+      {
+        "start": 435,
+        "end": 443,
+        "string": "fascias"
+      },
+      {
+        "start": 443,
+        "end": 444,
+        "string": " "
+      },
+      {
+        "start": 444,
+        "end": 446,
+        "string": ","
+      },
+      {
+        "start": 446,
+        "end": 447,
+        "string": " "
+      },
+      {
+        "start": 447,
+        "end": 455,
+        "string": "slimmer"
+      },
+      {
+        "start": 455,
+        "end": 456,
+        "string": " "
+      },
+      {
+        "start": 456,
+        "end": 466,
+        "string": "headlamps"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 472,
+        "string": "with"
+      },
+      {
+        "start": 472,
+        "end": 473,
+        "string": " "
+      },
+      {
+        "start": 473,
+        "end": 477,
+        "string": "LED"
+      },
+      {
+        "start": 477,
+        "end": 478,
+        "string": " "
+      },
+      {
+        "start": 478,
+        "end": 487,
+        "string": "lighting"
+      },
+      {
+        "start": 487,
+        "end": 488,
+        "string": " "
+      },
+      {
+        "start": 488,
+        "end": 492,
+        "string": "and"
+      },
+      {
+        "start": 492,
+        "end": 493,
+        "string": " "
+      },
+      {
+        "start": 493,
+        "end": 497,
+        "string": "new"
+      },
+      {
+        "start": 497,
+        "end": 498,
+        "string": " "
+      },
+      {
+        "start": 498,
+        "end": 509,
+        "string": "taillights"
+      },
+      {
+        "start": 509,
+        "end": 510,
+        "string": " "
+      },
+      {
+        "start": 510,
+        "end": 512,
+        "string": "."
+      },
+      {
+        "start": 512,
+        "end": 513,
+        "string": " "
+      },
+      {
+        "start": 513,
+        "end": 517,
+        "string": "The"
+      },
+      {
+        "start": 517,
+        "end": 518,
+        "string": " "
+      },
+      {
+        "start": 518,
+        "end": 522,
+        "string": "GLC"
+      },
+      {
+        "start": 522,
+        "end": 523,
+        "string": " "
+      },
+      {
+        "start": 523,
+        "end": 527,
+        "string": "can"
+      },
+      {
+        "start": 527,
+        "end": 528,
+        "string": " "
+      },
+      {
+        "start": 528,
+        "end": 533,
+        "string": "also"
+      },
+      {
+        "start": 533,
+        "end": 534,
+        "string": " "
+      },
+      {
+        "start": 534,
+        "end": 537,
+        "string": "be"
+      },
+      {
+        "start": 537,
+        "end": 538,
+        "string": " "
+      },
+      {
+        "start": 538,
+        "end": 547,
+        "string": "equipped"
+      },
+      {
+        "start": 547,
+        "end": 548,
+        "string": " "
+      },
+      {
+        "start": 548,
+        "end": 553,
+        "string": "with"
+      },
+      {
+        "start": 553,
+        "end": 554,
+        "string": " "
+      },
+      {
+        "start": 554,
+        "end": 556,
+        "string": "a"
+      },
+      {
+        "start": 556,
+        "end": 557,
+        "string": " "
+      },
+      {
+        "start": 557,
+        "end": 564,
+        "string": "choice"
+      },
+      {
+        "start": 564,
+        "end": 565,
+        "string": " "
+      },
+      {
+        "start": 565,
+        "end": 568,
+        "string": "of"
+      },
+      {
+        "start": 568,
+        "end": 569,
+        "string": " "
+      },
+      {
+        "start": 569,
+        "end": 573,
+        "string": "new"
+      },
+      {
+        "start": 573,
+        "end": 574,
+        "string": " "
+      },
+      {
+        "start": 574,
+        "end": 577,
+        "string": "18"
+      },
+      {
+        "start": 577,
+        "end": 578,
+        "string": " "
+      },
+      {
+        "start": 578,
+        "end": 580,
+        "string": "-"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 584,
+        "string": "to"
+      },
+      {
+        "start": 584,
+        "end": 585,
+        "string": " "
+      },
+      {
+        "start": 585,
+        "end": 593,
+        "string": "20-inch"
+      },
+      {
+        "start": 593,
+        "end": 594,
+        "string": " "
+      },
+      {
+        "start": 594,
+        "end": 600,
+        "string": "wheel"
+      },
+      {
+        "start": 600,
+        "end": 601,
+        "string": " "
+      },
+      {
+        "start": 601,
+        "end": 609,
+        "string": "designs"
+      },
+      {
+        "start": 609,
+        "end": 610,
+        "string": " "
+      },
+      {
+        "start": 610,
+        "end": 612,
+        "string": "."
+      },
+      {
+        "start": 612,
+        "end": 613,
+        "string": " "
+      },
+      {
+        "start": 613,
+        "end": 617,
+        "string": "AMG"
+      },
+      {
+        "start": 617,
+        "end": 618,
+        "string": " "
+      },
+      {
+        "start": 618,
+        "end": 623,
+        "string": "Line"
+      },
+      {
+        "start": 623,
+        "end": 624,
+        "string": " "
+      },
+      {
+        "start": 624,
+        "end": 629,
+        "string": "trim"
+      },
+      {
+        "start": 629,
+        "end": 630,
+        "string": " "
+      },
+      {
+        "start": 630,
+        "end": 635,
+        "string": "also"
+      },
+      {
+        "start": 635,
+        "end": 636,
+        "string": " "
+      },
+      {
+        "start": 636,
+        "end": 644,
+        "string": "returns"
+      },
+      {
+        "start": 644,
+        "end": 645,
+        "string": " "
+      },
+      {
+        "start": 645,
+        "end": 649,
+        "string": "and"
+      },
+      {
+        "start": 649,
+        "end": 650,
+        "string": " "
+      },
+      {
+        "start": 650,
+        "end": 655,
+        "string": "will"
+      },
+      {
+        "start": 655,
+        "end": 656,
+        "string": " "
+      },
+      {
+        "start": 656,
+        "end": 664,
+        "string": "feature"
+      },
+      {
+        "start": 664,
+        "end": 665,
+        "string": " "
+      },
+      {
+        "start": 665,
+        "end": 667,
+        "string": "a"
+      },
+      {
+        "start": 667,
+        "end": 668,
+        "string": " "
+      },
+      {
+        "start": 668,
+        "end": 672,
+        "string": "new"
+      },
+      {
+        "start": 672,
+        "end": 673,
+        "string": " "
+      },
+      {
+        "start": 673,
+        "end": 680,
+        "string": "chrome"
+      },
+      {
+        "start": 680,
+        "end": 681,
+        "string": " "
+      },
+      {
+        "start": 681,
+        "end": 695,
+        "string": "diamond-block"
+      },
+      {
+        "start": 695,
+        "end": 696,
+        "string": " "
+      },
+      {
+        "start": 696,
+        "end": 703,
+        "string": "grille"
+      },
+      {
+        "start": 703,
+        "end": 704,
+        "string": " "
+      },
+      {
+        "start": 704,
+        "end": 711,
+        "string": "design"
+      },
+      {
+        "start": 711,
+        "end": 712,
+        "string": " "
+      },
+      {
+        "start": 712,
+        "end": 714,
+        "string": ","
+      },
+      {
+        "start": 714,
+        "end": 715,
+        "string": " "
+      },
+      {
+        "start": 715,
+        "end": 717,
+        "string": "a"
+      },
+      {
+        "start": 717,
+        "end": 718,
+        "string": " "
+      },
+      {
+        "start": 718,
+        "end": 723,
+        "string": "more"
+      },
+      {
+        "start": 723,
+        "end": 724,
+        "string": " "
+      },
+      {
+        "start": 724,
+        "end": 735,
+        "string": "aggressive"
+      },
+      {
+        "start": 735,
+        "end": 736,
+        "string": " "
+      },
+      {
+        "start": 736,
+        "end": 742,
+        "string": "front"
+      },
+      {
+        "start": 742,
+        "end": 743,
+        "string": " "
+      },
+      {
+        "start": 743,
+        "end": 750,
+        "string": "bumper"
+      },
+      {
+        "start": 750,
+        "end": 751,
+        "string": " "
+      },
+      {
+        "start": 751,
+        "end": 755,
+        "string": "and"
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 764,
+        "string": "angular"
+      },
+      {
+        "start": 764,
+        "end": 765,
+        "string": " "
+      },
+      {
+        "start": 765,
+        "end": 770,
+        "string": "rear"
+      },
+      {
+        "start": 770,
+        "end": 771,
+        "string": " "
+      },
+      {
+        "start": 771,
+        "end": 779,
+        "string": "exhaust"
+      },
+      {
+        "start": 779,
+        "end": 780,
+        "string": " "
+      },
+      {
+        "start": 780,
+        "end": 785,
+        "string": "tips"
+      },
+      {
+        "start": 785,
+        "end": 786,
+        "string": " "
+      },
+      {
+        "start": 786,
+        "end": 788,
+        "string": "."
+      },
+      {
+        "start": 788,
+        "end": 789,
+        "string": " "
+      },
+      {
+        "start": 789,
+        "end": 795,
+        "string": "Other"
+      },
+      {
+        "start": 795,
+        "end": 796,
+        "string": " "
+      },
+      {
+        "start": 796,
+        "end": 800,
+        "string": "AMG"
+      },
+      {
+        "start": 800,
+        "end": 801,
+        "string": " "
+      },
+      {
+        "start": 801,
+        "end": 810,
+        "string": "features"
+      },
+      {
+        "start": 810,
+        "end": 811,
+        "string": " "
+      },
+      {
+        "start": 811,
+        "end": 814,
+        "string": "on"
+      },
+      {
+        "start": 814,
+        "end": 815,
+        "string": " "
+      },
+      {
+        "start": 815,
+        "end": 820,
+        "string": "this"
+      },
+      {
+        "start": 820,
+        "end": 821,
+        "string": " "
+      },
+      {
+        "start": 821,
+        "end": 827,
+        "string": "model"
+      },
+      {
+        "start": 827,
+        "end": 828,
+        "string": " "
+      },
+      {
+        "start": 828,
+        "end": 836,
+        "string": "include"
+      },
+      {
+        "start": 836,
+        "end": 837,
+        "string": " "
+      },
+      {
+        "start": 837,
+        "end": 843,
+        "string": "sport"
+      },
+      {
+        "start": 843,
+        "end": 844,
+        "string": " "
+      },
+      {
+        "start": 844,
+        "end": 850,
+        "string": "seats"
+      },
+      {
+        "start": 850,
+        "end": 851,
+        "string": " "
+      },
+      {
+        "start": 851,
+        "end": 856,
+        "string": "with"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 864,
+        "string": "bigger"
+      },
+      {
+        "start": 864,
+        "end": 865,
+        "string": " "
+      },
+      {
+        "start": 865,
+        "end": 870,
+        "string": "side"
+      },
+      {
+        "start": 870,
+        "end": 871,
+        "string": " "
+      },
+      {
+        "start": 871,
+        "end": 880,
+        "string": "bolsters"
+      },
+      {
+        "start": 880,
+        "end": 881,
+        "string": " "
+      },
+      {
+        "start": 881,
+        "end": 883,
+        "string": ","
+      },
+      {
+        "start": 883,
+        "end": 884,
+        "string": " "
+      },
+      {
+        "start": 884,
+        "end": 893,
+        "string": "standard"
+      },
+      {
+        "start": 893,
+        "end": 894,
+        "string": " "
+      },
+      {
+        "start": 894,
+        "end": 902,
+        "string": "19-inch"
+      },
+      {
+        "start": 902,
+        "end": 903,
+        "string": " "
+      },
+      {
+        "start": 903,
+        "end": 910,
+        "string": "wheels"
+      },
+      {
+        "start": 910,
+        "end": 911,
+        "string": " "
+      },
+      {
+        "start": 911,
+        "end": 915,
+        "string": "and"
+      },
+      {
+        "start": 915,
+        "end": 916,
+        "string": " "
+      },
+      {
+        "start": 916,
+        "end": 920,
+        "string": "new"
+      },
+      {
+        "start": 920,
+        "end": 921,
+        "string": " "
+      },
+      {
+        "start": 921,
+        "end": 929,
+        "string": "20-inch"
+      },
+      {
+        "start": 929,
+        "end": 930,
+        "string": " "
+      },
+      {
+        "start": 930,
+        "end": 936,
+        "string": "split"
+      },
+      {
+        "start": 936,
+        "end": 937,
+        "string": " "
+      },
+      {
+        "start": 937,
+        "end": 945,
+        "string": "5-spoke"
+      },
+      {
+        "start": 945,
+        "end": 946,
+        "string": " "
+      },
+      {
+        "start": 946,
+        "end": 951,
+        "string": "rims"
+      },
+      {
+        "start": 951,
+        "end": 952,
+        "string": " "
+      },
+      {
+        "start": 952,
+        "end": 954,
+        "string": "."
+      },
+      {
+        "start": 954,
+        "end": 955,
+        "string": " "
+      },
+      {
+        "start": 955,
+        "end": 963,
+        "string": "Refined"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 973,
+        "string": "interior"
+      },
+      {
+        "start": 973,
+        "end": 974,
+        "string": " "
+      },
+      {
+        "start": 974,
+        "end": 978,
+        "string": "The"
+      },
+      {
+        "start": 978,
+        "end": 979,
+        "string": " "
+      },
+      {
+        "start": 979,
+        "end": 983,
+        "string": "new"
+      },
+      {
+        "start": 983,
+        "end": 984,
+        "string": " "
+      },
+      {
+        "start": 984,
+        "end": 990,
+        "string": "cabin"
+      },
+      {
+        "start": 990,
+        "end": 991,
+        "string": " "
+      },
+      {
+        "start": 991,
+        "end": 998,
+        "string": "design"
+      },
+      {
+        "start": 998,
+        "end": 999,
+        "string": " "
+      },
+      {
+        "start": 999,
+        "end": 1008,
+        "string": "features"
+      },
+      {
+        "start": 1008,
+        "end": 1009,
+        "string": " "
+      },
+      {
+        "start": 1009,
+        "end": 1017,
+        "string": "flowing"
+      },
+      {
+        "start": 1017,
+        "end": 1018,
+        "string": " "
+      },
+      {
+        "start": 1018,
+        "end": 1027,
+        "string": "surfaces"
+      },
+      {
+        "start": 1027,
+        "end": 1028,
+        "string": " "
+      },
+      {
+        "start": 1028,
+        "end": 1033,
+        "string": "with"
+      },
+      {
+        "start": 1033,
+        "end": 1034,
+        "string": " "
+      },
+      {
+        "start": 1034,
+        "end": 1036,
+        "string": "a"
+      },
+      {
+        "start": 1036,
+        "end": 1037,
+        "string": " "
+      },
+      {
+        "start": 1037,
+        "end": 1043,
+        "string": "large"
+      },
+      {
+        "start": 1043,
+        "end": 1044,
+        "string": " "
+      },
+      {
+        "start": 1044,
+        "end": 1051,
+        "string": "center"
+      },
+      {
+        "start": 1051,
+        "end": 1052,
+        "string": " "
+      },
+      {
+        "start": 1052,
+        "end": 1060,
+        "string": "console"
+      },
+      {
+        "start": 1060,
+        "end": 1061,
+        "string": " "
+      },
+      {
+        "start": 1061,
+        "end": 1066,
+        "string": "with"
+      },
+      {
+        "start": 1066,
+        "end": 1067,
+        "string": " "
+      },
+      {
+        "start": 1067,
+        "end": 1069,
+        "string": "a"
+      },
+      {
+        "start": 1069,
+        "end": 1070,
+        "string": " "
+      },
+      {
+        "start": 1070,
+        "end": 1074,
+        "string": "new"
+      },
+      {
+        "start": 1074,
+        "end": 1075,
+        "string": " "
+      },
+      {
+        "start": 1075,
+        "end": 1084,
+        "string": "touchpad"
+      },
+      {
+        "start": 1084,
+        "end": 1085,
+        "string": " "
+      },
+      {
+        "start": 1085,
+        "end": 1095,
+        "string": "interface"
+      },
+      {
+        "start": 1095,
+        "end": 1096,
+        "string": " "
+      },
+      {
+        "start": 1096,
+        "end": 1101,
+        "string": "that"
+      },
+      {
+        "start": 1101,
+        "end": 1102,
+        "string": " "
+      },
+      {
+        "start": 1102,
+        "end": 1109,
+        "string": "sweeps"
+      },
+      {
+        "start": 1109,
+        "end": 1110,
+        "string": " "
+      },
+      {
+        "start": 1110,
+        "end": 1113,
+        "string": "up"
+      },
+      {
+        "start": 1113,
+        "end": 1114,
+        "string": " "
+      },
+      {
+        "start": 1114,
+        "end": 1119,
+        "string": "into"
+      },
+      {
+        "start": 1119,
+        "end": 1120,
+        "string": " "
+      },
+      {
+        "start": 1120,
+        "end": 1124,
+        "string": "the"
+      },
+      {
+        "start": 1124,
+        "end": 1125,
+        "string": " "
+      },
+      {
+        "start": 1125,
+        "end": 1130,
+        "string": "dash"
+      },
+      {
+        "start": 1130,
+        "end": 1131,
+        "string": " "
+      },
+      {
+        "start": 1131,
+        "end": 1135,
+        "string": "and"
+      },
+      {
+        "start": 1135,
+        "end": 1136,
+        "string": " "
+      },
+      {
+        "start": 1136,
+        "end": 1143,
+        "string": "topped"
+      },
+      {
+        "start": 1143,
+        "end": 1144,
+        "string": " "
+      },
+      {
+        "start": 1144,
+        "end": 1147,
+        "string": "by"
+      },
+      {
+        "start": 1147,
+        "end": 1148,
+        "string": " "
+      },
+      {
+        "start": 1148,
+        "end": 1150,
+        "string": "a"
+      },
+      {
+        "start": 1150,
+        "end": 1151,
+        "string": " "
+      },
+      {
+        "start": 1151,
+        "end": 1162,
+        "string": "10.25-inch"
+      },
+      {
+        "start": 1162,
+        "end": 1163,
+        "string": " "
+      },
+      {
+        "start": 1163,
+        "end": 1175,
+        "string": "touchscreen"
+      },
+      {
+        "start": 1175,
+        "end": 1176,
+        "string": " "
+      },
+      {
+        "start": 1176,
+        "end": 1178,
+        "string": "."
+      },
+      {
+        "start": 1178,
+        "end": 1179,
+        "string": " "
+      },
+      {
+        "start": 1179,
+        "end": 1183,
+        "string": "The"
+      },
+      {
+        "start": 1183,
+        "end": 1184,
+        "string": " "
+      },
+      {
+        "start": 1184,
+        "end": 1192,
+        "string": "digital"
+      },
+      {
+        "start": 1192,
+        "end": 1193,
+        "string": " "
+      },
+      {
+        "start": 1193,
+        "end": 1204,
+        "string": "instrument"
+      },
+      {
+        "start": 1204,
+        "end": 1205,
+        "string": " "
+      },
+      {
+        "start": 1205,
+        "end": 1213,
+        "string": "display"
+      },
+      {
+        "start": 1213,
+        "end": 1214,
+        "string": " "
+      },
+      {
+        "start": 1214,
+        "end": 1217,
+        "string": "in"
+      },
+      {
+        "start": 1217,
+        "end": 1218,
+        "string": " "
+      },
+      {
+        "start": 1218,
+        "end": 1224,
+        "string": "front"
+      },
+      {
+        "start": 1224,
+        "end": 1225,
+        "string": " "
+      },
+      {
+        "start": 1225,
+        "end": 1228,
+        "string": "of"
+      },
+      {
+        "start": 1228,
+        "end": 1229,
+        "string": " "
+      },
+      {
+        "start": 1229,
+        "end": 1233,
+        "string": "the"
+      },
+      {
+        "start": 1233,
+        "end": 1234,
+        "string": " "
+      },
+      {
+        "start": 1234,
+        "end": 1241,
+        "string": "driver"
+      },
+      {
+        "start": 1241,
+        "end": 1242,
+        "string": " "
+      },
+      {
+        "start": 1242,
+        "end": 1245,
+        "string": "is"
+      },
+      {
+        "start": 1245,
+        "end": 1246,
+        "string": " "
+      },
+      {
+        "start": 1246,
+        "end": 1250,
+        "string": "now"
+      },
+      {
+        "start": 1250,
+        "end": 1251,
+        "string": " "
+      },
+      {
+        "start": 1251,
+        "end": 1258,
+        "string": "housed"
+      },
+      {
+        "start": 1258,
+        "end": 1259,
+        "string": " "
+      },
+      {
+        "start": 1259,
+        "end": 1262,
+        "string": "in"
+      },
+      {
+        "start": 1262,
+        "end": 1263,
+        "string": " "
+      },
+      {
+        "start": 1263,
+        "end": 1265,
+        "string": "a"
+      },
+      {
+        "start": 1265,
+        "end": 1266,
+        "string": " "
+      },
+      {
+        "start": 1266,
+        "end": 1276,
+        "string": "12.3-inch"
+      },
+      {
+        "start": 1276,
+        "end": 1277,
+        "string": " "
+      },
+      {
+        "start": 1277,
+        "end": 1284,
+        "string": "screen"
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1287,
+        "string": "."
+      },
+      {
+        "start": 1287,
+        "end": 1288,
+        "string": " "
+      },
+      {
+        "start": 1288,
+        "end": 1292,
+        "string": "The"
+      },
+      {
+        "start": 1292,
+        "end": 1293,
+        "string": " "
+      },
+      {
+        "start": 1293,
+        "end": 1301,
+        "string": "updated"
+      },
+      {
+        "start": 1301,
+        "end": 1302,
+        "string": " "
+      },
+      {
+        "start": 1302,
+        "end": 1315,
+        "string": "infotainment"
+      },
+      {
+        "start": 1315,
+        "end": 1316,
+        "string": " "
+      },
+      {
+        "start": 1316,
+        "end": 1323,
+        "string": "system"
+      },
+      {
+        "start": 1323,
+        "end": 1324,
+        "string": " "
+      },
+      {
+        "start": 1324,
+        "end": 1333,
+        "string": "includes"
+      },
+      {
+        "start": 1333,
+        "end": 1334,
+        "string": " "
+      },
+      {
+        "start": 1334,
+        "end": 1339,
+        "string": "MBUX"
+      },
+      {
+        "start": 1339,
+        "end": 1340,
+        "string": " "
+      },
+      {
+        "start": 1340,
+        "end": 1342,
+        "string": "("
+      },
+      {
+        "start": 1342,
+        "end": 1343,
+        "string": " "
+      },
+      {
+        "start": 1343,
+        "end": 1357,
+        "string": "Mercedes-Benz"
+      },
+      {
+        "start": 1357,
+        "end": 1358,
+        "string": " "
+      },
+      {
+        "start": 1358,
+        "end": 1363,
+        "string": "User"
+      },
+      {
+        "start": 1363,
+        "end": 1364,
+        "string": " "
+      },
+      {
+        "start": 1364,
+        "end": 1375,
+        "string": "Experience"
+      },
+      {
+        "start": 1375,
+        "end": 1376,
+        "string": " "
+      },
+      {
+        "start": 1376,
+        "end": 1378,
+        "string": ")"
+      },
+      {
+        "start": 1378,
+        "end": 1379,
+        "string": " "
+      },
+      {
+        "start": 1379,
+        "end": 1384,
+        "string": "that"
+      },
+      {
+        "start": 1384,
+        "end": 1385,
+        "string": " "
+      },
+      {
+        "start": 1385,
+        "end": 1390,
+        "string": "uses"
+      },
+      {
+        "start": 1390,
+        "end": 1391,
+        "string": " "
+      },
+      {
+        "start": 1391,
+        "end": 1399,
+        "string": "natural"
+      },
+      {
+        "start": 1399,
+        "end": 1400,
+        "string": " "
+      },
+      {
+        "start": 1400,
+        "end": 1407,
+        "string": "speech"
+      },
+      {
+        "start": 1407,
+        "end": 1408,
+        "string": " "
+      },
+      {
+        "start": 1408,
+        "end": 1420,
+        "string": "recognition"
+      },
+      {
+        "start": 1420,
+        "end": 1421,
+        "string": " "
+      },
+      {
+        "start": 1421,
+        "end": 1426,
+        "string": "that"
+      },
+      {
+        "start": 1426,
+        "end": 1427,
+        "string": " "
+      },
+      {
+        "start": 1427,
+        "end": 1436,
+        "string": "responds"
+      },
+      {
+        "start": 1436,
+        "end": 1437,
+        "string": " "
+      },
+      {
+        "start": 1437,
+        "end": 1440,
+        "string": "to"
+      },
+      {
+        "start": 1440,
+        "end": 1441,
+        "string": " "
+      },
+      {
+        "start": 1441,
+        "end": 1443,
+        "string": "\""
+      },
+      {
+        "start": 1443,
+        "end": 1444,
+        "string": " "
+      },
+      {
+        "start": 1444,
+        "end": 1448,
+        "string": "Hey"
+      },
+      {
+        "start": 1448,
+        "end": 1449,
+        "string": " "
+      },
+      {
+        "start": 1449,
+        "end": 1451,
+        "string": ","
+      },
+      {
+        "start": 1451,
+        "end": 1452,
+        "string": " "
+      },
+      {
+        "start": 1452,
+        "end": 1461,
+        "string": "Mercedes"
+      },
+      {
+        "start": 1461,
+        "end": 1462,
+        "string": " "
+      },
+      {
+        "start": 1462,
+        "end": 1464,
+        "string": "\""
+      },
+      {
+        "start": 1464,
+        "end": 1465,
+        "string": " "
+      },
+      {
+        "start": 1465,
+        "end": 1470,
+        "string": "when"
+      },
+      {
+        "start": 1470,
+        "end": 1471,
+        "string": " "
+      },
+      {
+        "start": 1471,
+        "end": 1478,
+        "string": "making"
+      },
+      {
+        "start": 1478,
+        "end": 1479,
+        "string": " "
+      },
+      {
+        "start": 1479,
+        "end": 1488,
+        "string": "requests"
+      },
+      {
+        "start": 1488,
+        "end": 1489,
+        "string": " "
+      },
+      {
+        "start": 1489,
+        "end": 1491,
+        "string": "."
+      },
+      {
+        "start": 1491,
+        "end": 1492,
+        "string": " "
+      },
+      {
+        "start": 1492,
+        "end": 1498,
+        "string": "Among"
+      },
+      {
+        "start": 1498,
+        "end": 1499,
+        "string": " "
+      },
+      {
+        "start": 1499,
+        "end": 1503,
+        "string": "the"
+      },
+      {
+        "start": 1503,
+        "end": 1504,
+        "string": " "
+      },
+      {
+        "start": 1504,
+        "end": 1513,
+        "string": "standard"
+      },
+      {
+        "start": 1513,
+        "end": 1514,
+        "string": " "
+      },
+      {
+        "start": 1514,
+        "end": 1523,
+        "string": "features"
+      },
+      {
+        "start": 1523,
+        "end": 1524,
+        "string": " "
+      },
+      {
+        "start": 1524,
+        "end": 1527,
+        "string": "on"
+      },
+      {
+        "start": 1527,
+        "end": 1528,
+        "string": " "
+      },
+      {
+        "start": 1528,
+        "end": 1532,
+        "string": "the"
+      },
+      {
+        "start": 1532,
+        "end": 1533,
+        "string": " "
+      },
+      {
+        "start": 1533,
+        "end": 1542,
+        "string": "Mercedes"
+      },
+      {
+        "start": 1542,
+        "end": 1543,
+        "string": " "
+      },
+      {
+        "start": 1543,
+        "end": 1547,
+        "string": "GLC"
+      },
+      {
+        "start": 1547,
+        "end": 1548,
+        "string": " "
+      },
+      {
+        "start": 1548,
+        "end": 1552,
+        "string": "300"
+      },
+      {
+        "start": 1552,
+        "end": 1553,
+        "string": " "
+      },
+      {
+        "start": 1553,
+        "end": 1557,
+        "string": "are"
+      },
+      {
+        "start": 1557,
+        "end": 1558,
+        "string": " "
+      },
+      {
+        "start": 1558,
+        "end": 1569,
+        "string": "smartphone"
+      },
+      {
+        "start": 1569,
+        "end": 1570,
+        "string": " "
+      },
+      {
+        "start": 1570,
+        "end": 1582,
+        "string": "integration"
+      },
+      {
+        "start": 1582,
+        "end": 1583,
+        "string": " "
+      },
+      {
+        "start": 1583,
+        "end": 1588,
+        "string": "with"
+      },
+      {
+        "start": 1588,
+        "end": 1589,
+        "string": " "
+      },
+      {
+        "start": 1589,
+        "end": 1595,
+        "string": "Apple"
+      },
+      {
+        "start": 1595,
+        "end": 1596,
+        "string": " "
+      },
+      {
+        "start": 1596,
+        "end": 1604,
+        "string": "CarPlay"
+      },
+      {
+        "start": 1604,
+        "end": 1605,
+        "string": " "
+      },
+      {
+        "start": 1605,
+        "end": 1609,
+        "string": "and"
+      },
+      {
+        "start": 1609,
+        "end": 1610,
+        "string": " "
+      },
+      {
+        "start": 1610,
+        "end": 1618,
+        "string": "Android"
+      },
+      {
+        "start": 1618,
+        "end": 1619,
+        "string": " "
+      },
+      {
+        "start": 1619,
+        "end": 1624,
+        "string": "Auto"
+      },
+      {
+        "start": 1624,
+        "end": 1625,
+        "string": " "
+      },
+      {
+        "start": 1625,
+        "end": 1639,
+        "string": "compatibility"
+      },
+      {
+        "start": 1639,
+        "end": 1640,
+        "string": " "
+      },
+      {
+        "start": 1640,
+        "end": 1642,
+        "string": ","
+      },
+      {
+        "start": 1642,
+        "end": 1643,
+        "string": " "
+      },
+      {
+        "start": 1643,
+        "end": 1649,
+        "string": "blind"
+      },
+      {
+        "start": 1649,
+        "end": 1650,
+        "string": " "
+      },
+      {
+        "start": 1650,
+        "end": 1655,
+        "string": "spot"
+      },
+      {
+        "start": 1655,
+        "end": 1656,
+        "string": " "
+      },
+      {
+        "start": 1656,
+        "end": 1663,
+        "string": "assist"
+      },
+      {
+        "start": 1663,
+        "end": 1664,
+        "string": " "
+      },
+      {
+        "start": 1664,
+        "end": 1666,
+        "string": ","
+      },
+      {
+        "start": 1666,
+        "end": 1667,
+        "string": " "
+      },
+      {
+        "start": 1667,
+        "end": 1674,
+        "string": "heated"
+      },
+      {
+        "start": 1674,
+        "end": 1675,
+        "string": " "
+      },
+      {
+        "start": 1675,
+        "end": 1681,
+        "string": "front"
+      },
+      {
+        "start": 1681,
+        "end": 1682,
+        "string": " "
+      },
+      {
+        "start": 1682,
+        "end": 1688,
+        "string": "seats"
+      },
+      {
+        "start": 1688,
+        "end": 1689,
+        "string": " "
+      },
+      {
+        "start": 1689,
+        "end": 1691,
+        "string": ","
+      },
+      {
+        "start": 1691,
+        "end": 1692,
+        "string": " "
+      },
+      {
+        "start": 1692,
+        "end": 1696,
+        "string": "new"
+      },
+      {
+        "start": 1696,
+        "end": 1697,
+        "string": " "
+      },
+      {
+        "start": 1697,
+        "end": 1712,
+        "string": "multi-function"
+      },
+      {
+        "start": 1712,
+        "end": 1713,
+        "string": " "
+      },
+      {
+        "start": 1713,
+        "end": 1719,
+        "string": "sport"
+      },
+      {
+        "start": 1719,
+        "end": 1720,
+        "string": " "
+      },
+      {
+        "start": 1720,
+        "end": 1729,
+        "string": "steering"
+      },
+      {
+        "start": 1729,
+        "end": 1730,
+        "string": " "
+      },
+      {
+        "start": 1730,
+        "end": 1736,
+        "string": "wheel"
+      },
+      {
+        "start": 1736,
+        "end": 1737,
+        "string": " "
+      },
+      {
+        "start": 1737,
+        "end": 1742,
+        "string": "with"
+      },
+      {
+        "start": 1742,
+        "end": 1743,
+        "string": " "
+      },
+      {
+        "start": 1743,
+        "end": 1754,
+        "string": "integrated"
+      },
+      {
+        "start": 1754,
+        "end": 1755,
+        "string": " "
+      },
+      {
+        "start": 1755,
+        "end": 1762,
+        "string": "paddle"
+      },
+      {
+        "start": 1762,
+        "end": 1763,
+        "string": " "
+      },
+      {
+        "start": 1763,
+        "end": 1772,
+        "string": "shifters"
+      },
+      {
+        "start": 1772,
+        "end": 1773,
+        "string": " "
+      },
+      {
+        "start": 1773,
+        "end": 1775,
+        "string": ","
+      },
+      {
+        "start": 1775,
+        "end": 1776,
+        "string": " "
+      },
+      {
+        "start": 1776,
+        "end": 1784,
+        "string": "keyless"
+      },
+      {
+        "start": 1784,
+        "end": 1785,
+        "string": " "
+      },
+      {
+        "start": 1785,
+        "end": 1791,
+        "string": "start"
+      },
+      {
+        "start": 1791,
+        "end": 1792,
+        "string": " "
+      },
+      {
+        "start": 1792,
+        "end": 1794,
+        "string": ","
+      },
+      {
+        "start": 1794,
+        "end": 1795,
+        "string": " "
+      },
+      {
+        "start": 1795,
+        "end": 1800,
+        "string": "dual"
+      },
+      {
+        "start": 1800,
+        "end": 1801,
+        "string": " "
+      },
+      {
+        "start": 1801,
+        "end": 1806,
+        "string": "zone"
+      },
+      {
+        "start": 1806,
+        "end": 1807,
+        "string": " "
+      },
+      {
+        "start": 1807,
+        "end": 1815,
+        "string": "climate"
+      },
+      {
+        "start": 1815,
+        "end": 1816,
+        "string": " "
+      },
+      {
+        "start": 1816,
+        "end": 1824,
+        "string": "control"
+      },
+      {
+        "start": 1824,
+        "end": 1825,
+        "string": " "
+      },
+      {
+        "start": 1825,
+        "end": 1827,
+        "string": ","
+      },
+      {
+        "start": 1827,
+        "end": 1828,
+        "string": " "
+      },
+      {
+        "start": 1828,
+        "end": 1834,
+        "string": "power"
+      },
+      {
+        "start": 1834,
+        "end": 1835,
+        "string": " "
+      },
+      {
+        "start": 1835,
+        "end": 1844,
+        "string": "liftgate"
+      },
+      {
+        "start": 1844,
+        "end": 1845,
+        "string": " "
+      },
+      {
+        "start": 1845,
+        "end": 1847,
+        "string": ","
+      },
+      {
+        "start": 1847,
+        "end": 1848,
+        "string": " "
+      },
+      {
+        "start": 1848,
+        "end": 1855,
+        "string": "active"
+      },
+      {
+        "start": 1855,
+        "end": 1856,
+        "string": " "
+      },
+      {
+        "start": 1856,
+        "end": 1862,
+        "string": "brake"
+      },
+      {
+        "start": 1862,
+        "end": 1863,
+        "string": " "
+      },
+      {
+        "start": 1863,
+        "end": 1870,
+        "string": "assist"
+      },
+      {
+        "start": 1870,
+        "end": 1871,
+        "string": " "
+      },
+      {
+        "start": 1871,
+        "end": 1873,
+        "string": ","
+      },
+      {
+        "start": 1873,
+        "end": 1874,
+        "string": " "
+      },
+      {
+        "start": 1874,
+        "end": 1884,
+        "string": "crosswind"
+      },
+      {
+        "start": 1884,
+        "end": 1885,
+        "string": " "
+      },
+      {
+        "start": 1885,
+        "end": 1892,
+        "string": "assist"
+      },
+      {
+        "start": 1892,
+        "end": 1893,
+        "string": " "
+      },
+      {
+        "start": 1893,
+        "end": 1897,
+        "string": "and"
+      },
+      {
+        "start": 1897,
+        "end": 1898,
+        "string": " "
+      },
+      {
+        "start": 1898,
+        "end": 1907,
+        "string": "adaptive"
+      },
+      {
+        "start": 1907,
+        "end": 1908,
+        "string": " "
+      },
+      {
+        "start": 1908,
+        "end": 1915,
+        "string": "brakes"
+      },
+      {
+        "start": 1915,
+        "end": 1916,
+        "string": " "
+      },
+      {
+        "start": 1916,
+        "end": 1921,
+        "string": "with"
+      },
+      {
+        "start": 1921,
+        "end": 1922,
+        "string": " "
+      },
+      {
+        "start": 1922,
+        "end": 1933,
+        "string": "hill-start"
+      },
+      {
+        "start": 1933,
+        "end": 1934,
+        "string": " "
+      },
+      {
+        "start": 1934,
+        "end": 1941,
+        "string": "assist"
+      },
+      {
+        "start": 1941,
+        "end": 1942,
+        "string": " "
+      },
+      {
+        "start": 1942,
+        "end": 1946,
+        "string": "and"
+      },
+      {
+        "start": 1946,
+        "end": 1947,
+        "string": " "
+      },
+      {
+        "start": 1947,
+        "end": 1953,
+        "string": "brake"
+      },
+      {
+        "start": 1953,
+        "end": 1954,
+        "string": " "
+      },
+      {
+        "start": 1954,
+        "end": 1959,
+        "string": "hold"
+      },
+      {
+        "start": 1959,
+        "end": 1960,
+        "string": " "
+      },
+      {
+        "start": 1960,
+        "end": 1969,
+        "string": "features"
+      },
+      {
+        "start": 1969,
+        "end": 1970,
+        "string": " "
+      },
+      {
+        "start": 1970,
+        "end": 1972,
+        "string": "."
+      },
+      {
+        "start": 1972,
+        "end": 1973,
+        "string": " "
+      },
+      {
+        "start": 1973,
+        "end": 1975,
+        "string": "A"
+      },
+      {
+        "start": 1975,
+        "end": 1976,
+        "string": " "
+      },
+      {
+        "start": 1976,
+        "end": 1980,
+        "string": "new"
+      },
+      {
+        "start": 1980,
+        "end": 1981,
+        "string": " "
+      },
+      {
+        "start": 1981,
+        "end": 1991,
+        "string": "2.0-liter"
+      },
+      {
+        "start": 1991,
+        "end": 1992,
+        "string": " "
+      },
+      {
+        "start": 1992,
+        "end": 2005,
+        "string": "turbocharged"
+      },
+      {
+        "start": 2005,
+        "end": 2006,
+        "string": " "
+      },
+      {
+        "start": 2006,
+        "end": 2017,
+        "string": "4-cylinder"
+      },
+      {
+        "start": 2017,
+        "end": 2018,
+        "string": " "
+      },
+      {
+        "start": 2018,
+        "end": 2025,
+        "string": "engine"
+      },
+      {
+        "start": 2025,
+        "end": 2026,
+        "string": " "
+      },
+      {
+        "start": 2026,
+        "end": 2031,
+        "string": "will"
+      },
+      {
+        "start": 2031,
+        "end": 2032,
+        "string": " "
+      },
+      {
+        "start": 2032,
+        "end": 2038,
+        "string": "power"
+      },
+      {
+        "start": 2038,
+        "end": 2039,
+        "string": " "
+      },
+      {
+        "start": 2039,
+        "end": 2043,
+        "string": "the"
+      },
+      {
+        "start": 2043,
+        "end": 2044,
+        "string": " "
+      },
+      {
+        "start": 2044,
+        "end": 2049,
+        "string": "2020"
+      },
+      {
+        "start": 2049,
+        "end": 2050,
+        "string": " "
+      },
+      {
+        "start": 2050,
+        "end": 2054,
+        "string": "GLC"
+      },
+      {
+        "start": 2054,
+        "end": 2055,
+        "string": " "
+      },
+      {
+        "start": 2055,
+        "end": 2059,
+        "string": "300"
+      },
+      {
+        "start": 2059,
+        "end": 2060,
+        "string": " "
+      },
+      {
+        "start": 2060,
+        "end": 2062,
+        "string": "."
+      },
+      {
+        "start": 2062,
+        "end": 2063,
+        "string": " "
+      },
+      {
+        "start": 2063,
+        "end": 2067,
+        "string": "The"
+      },
+      {
+        "start": 2067,
+        "end": 2068,
+        "string": " "
+      },
+      {
+        "start": 2068,
+        "end": 2079,
+        "string": "redesigned"
+      },
+      {
+        "start": 2079,
+        "end": 2080,
+        "string": " "
+      },
+      {
+        "start": 2080,
+        "end": 2091,
+        "string": "powerplant"
+      },
+      {
+        "start": 2091,
+        "end": 2092,
+        "string": " "
+      },
+      {
+        "start": 2092,
+        "end": 2096,
+        "string": "now"
+      },
+      {
+        "start": 2096,
+        "end": 2097,
+        "string": " "
+      },
+      {
+        "start": 2097,
+        "end": 2103,
+        "string": "makes"
+      },
+      {
+        "start": 2103,
+        "end": 2104,
+        "string": " "
+      },
+      {
+        "start": 2104,
+        "end": 2108,
+        "string": "255"
+      },
+      {
+        "start": 2108,
+        "end": 2109,
+        "string": " "
+      },
+      {
+        "start": 2109,
+        "end": 2120,
+        "string": "horsepower"
+      },
+      {
+        "start": 2120,
+        "end": 2121,
+        "string": " "
+      },
+      {
+        "start": 2121,
+        "end": 2125,
+        "string": "and"
+      },
+      {
+        "start": 2125,
+        "end": 2126,
+        "string": " "
+      },
+      {
+        "start": 2126,
+        "end": 2130,
+        "string": "273"
+      },
+      {
+        "start": 2130,
+        "end": 2131,
+        "string": " "
+      },
+      {
+        "start": 2131,
+        "end": 2137,
+        "string": "lb-ft"
+      },
+      {
+        "start": 2137,
+        "end": 2138,
+        "string": " "
+      },
+      {
+        "start": 2138,
+        "end": 2141,
+        "string": "of"
+      },
+      {
+        "start": 2141,
+        "end": 2142,
+        "string": " "
+      },
+      {
+        "start": 2142,
+        "end": 2149,
+        "string": "torque"
+      },
+      {
+        "start": 2149,
+        "end": 2150,
+        "string": " "
+      },
+      {
+        "start": 2150,
+        "end": 2152,
+        "string": "."
+      },
+      {
+        "start": 2152,
+        "end": 2153,
+        "string": " "
+      },
+      {
+        "start": 2153,
+        "end": 2157,
+        "string": "The"
+      },
+      {
+        "start": 2157,
+        "end": 2158,
+        "string": " "
+      },
+      {
+        "start": 2158,
+        "end": 2171,
+        "string": "improvements"
+      },
+      {
+        "start": 2171,
+        "end": 2172,
+        "string": " "
+      },
+      {
+        "start": 2172,
+        "end": 2179,
+        "string": "result"
+      },
+      {
+        "start": 2179,
+        "end": 2180,
+        "string": " "
+      },
+      {
+        "start": 2180,
+        "end": 2183,
+        "string": "in"
+      },
+      {
+        "start": 2183,
+        "end": 2184,
+        "string": " "
+      },
+      {
+        "start": 2184,
+        "end": 2186,
+        "string": "a"
+      },
+      {
+        "start": 2186,
+        "end": 2187,
+        "string": " "
+      },
+      {
+        "start": 2187,
+        "end": 2201,
+        "string": "14-horsepower"
+      },
+      {
+        "start": 2201,
+        "end": 2202,
+        "string": " "
+      },
+      {
+        "start": 2202,
+        "end": 2207,
+        "string": "gain"
+      },
+      {
+        "start": 2207,
+        "end": 2208,
+        "string": " "
+      },
+      {
+        "start": 2208,
+        "end": 2211,
+        "string": "in"
+      },
+      {
+        "start": 2211,
+        "end": 2212,
+        "string": " "
+      },
+      {
+        "start": 2212,
+        "end": 2219,
+        "string": "output"
+      },
+      {
+        "start": 2219,
+        "end": 2220,
+        "string": " "
+      },
+      {
+        "start": 2220,
+        "end": 2222,
+        "string": "."
+      },
+      {
+        "start": 2222,
+        "end": 2223,
+        "string": " "
+      },
+      {
+        "start": 2223,
+        "end": 2227,
+        "string": "The"
+      },
+      {
+        "start": 2227,
+        "end": 2228,
+        "string": " "
+      },
+      {
+        "start": 2228,
+        "end": 2235,
+        "string": "engine"
+      },
+      {
+        "start": 2235,
+        "end": 2236,
+        "string": " "
+      },
+      {
+        "start": 2236,
+        "end": 2239,
+        "string": "is"
+      },
+      {
+        "start": 2239,
+        "end": 2240,
+        "string": " "
+      },
+      {
+        "start": 2240,
+        "end": 2246,
+        "string": "mated"
+      },
+      {
+        "start": 2246,
+        "end": 2247,
+        "string": " "
+      },
+      {
+        "start": 2247,
+        "end": 2250,
+        "string": "to"
+      },
+      {
+        "start": 2250,
+        "end": 2251,
+        "string": " "
+      },
+      {
+        "start": 2251,
+        "end": 2253,
+        "string": "a"
+      },
+      {
+        "start": 2253,
+        "end": 2254,
+        "string": " "
+      },
+      {
+        "start": 2254,
+        "end": 2262,
+        "string": "9-speed"
+      },
+      {
+        "start": 2262,
+        "end": 2263,
+        "string": " "
+      },
+      {
+        "start": 2263,
+        "end": 2273,
+        "string": "automatic"
+      },
+      {
+        "start": 2273,
+        "end": 2274,
+        "string": " "
+      },
+      {
+        "start": 2274,
+        "end": 2287,
+        "string": "transmission"
+      },
+      {
+        "start": 2287,
+        "end": 2288,
+        "string": " "
+      },
+      {
+        "start": 2288,
+        "end": 2291,
+        "string": "in"
+      },
+      {
+        "start": 2291,
+        "end": 2292,
+        "string": " "
+      },
+      {
+        "start": 2292,
+        "end": 2297,
+        "string": "both"
+      },
+      {
+        "start": 2297,
+        "end": 2298,
+        "string": " "
+      },
+      {
+        "start": 2298,
+        "end": 2309,
+        "string": "rear-drive"
+      },
+      {
+        "start": 2309,
+        "end": 2310,
+        "string": " "
+      },
+      {
+        "start": 2310,
+        "end": 2314,
+        "string": "and"
+      },
+      {
+        "start": 2314,
+        "end": 2315,
+        "string": " "
+      },
+      {
+        "start": 2315,
+        "end": 2322,
+        "string": "4Matic"
+      },
+      {
+        "start": 2322,
+        "end": 2323,
+        "string": " "
+      },
+      {
+        "start": 2323,
+        "end": 2333,
+        "string": "all-wheel"
+      },
+      {
+        "start": 2333,
+        "end": 2334,
+        "string": " "
+      },
+      {
+        "start": 2334,
+        "end": 2340,
+        "string": "drive"
+      },
+      {
+        "start": 2340,
+        "end": 2341,
+        "string": " "
+      },
+      {
+        "start": 2341,
+        "end": 2350,
+        "string": "variants"
+      },
+      {
+        "start": 2350,
+        "end": 2351,
+        "string": " "
+      },
+      {
+        "start": 2351,
+        "end": 2353,
+        "string": "."
+      },
+      {
+        "start": 2353,
+        "end": 2354,
+        "string": " "
+      },
+      {
+        "start": 2354,
+        "end": 2358,
+        "string": "The"
+      },
+      {
+        "start": 2358,
+        "end": 2359,
+        "string": " "
+      },
+      {
+        "start": 2359,
+        "end": 2363,
+        "string": "GLC"
+      },
+      {
+        "start": 2363,
+        "end": 2364,
+        "string": " "
+      },
+      {
+        "start": 2364,
+        "end": 2368,
+        "string": "300"
+      },
+      {
+        "start": 2368,
+        "end": 2369,
+        "string": " "
+      },
+      {
+        "start": 2369,
+        "end": 2372,
+        "string": "is"
+      },
+      {
+        "start": 2372,
+        "end": 2373,
+        "string": " "
+      },
+      {
+        "start": 2373,
+        "end": 2382,
+        "string": "equipped"
+      },
+      {
+        "start": 2382,
+        "end": 2383,
+        "string": " "
+      },
+      {
+        "start": 2383,
+        "end": 2388,
+        "string": "with"
+      },
+      {
+        "start": 2388,
+        "end": 2389,
+        "string": " "
+      },
+      {
+        "start": 2389,
+        "end": 2397,
+        "string": "Dynamic"
+      },
+      {
+        "start": 2397,
+        "end": 2398,
+        "string": " "
+      },
+      {
+        "start": 2398,
+        "end": 2405,
+        "string": "Select"
+      },
+      {
+        "start": 2405,
+        "end": 2406,
+        "string": " "
+      },
+      {
+        "start": 2406,
+        "end": 2412,
+        "string": "drive"
+      },
+      {
+        "start": 2412,
+        "end": 2413,
+        "string": " "
+      },
+      {
+        "start": 2413,
+        "end": 2419,
+        "string": "modes"
+      },
+      {
+        "start": 2419,
+        "end": 2420,
+        "string": " "
+      },
+      {
+        "start": 2420,
+        "end": 2425,
+        "string": "that"
+      },
+      {
+        "start": 2425,
+        "end": 2426,
+        "string": " "
+      },
+      {
+        "start": 2426,
+        "end": 2432,
+        "string": "allow"
+      },
+      {
+        "start": 2432,
+        "end": 2433,
+        "string": " "
+      },
+      {
+        "start": 2433,
+        "end": 2437,
+        "string": "the"
+      },
+      {
+        "start": 2437,
+        "end": 2438,
+        "string": " "
+      },
+      {
+        "start": 2438,
+        "end": 2445,
+        "string": "driver"
+      },
+      {
+        "start": 2445,
+        "end": 2446,
+        "string": " "
+      },
+      {
+        "start": 2446,
+        "end": 2449,
+        "string": "to"
+      },
+      {
+        "start": 2449,
+        "end": 2450,
+        "string": " "
+      },
+      {
+        "start": 2450,
+        "end": 2460,
+        "string": "configure"
+      },
+      {
+        "start": 2460,
+        "end": 2461,
+        "string": " "
+      },
+      {
+        "start": 2461,
+        "end": 2465,
+        "string": "the"
+      },
+      {
+        "start": 2465,
+        "end": 2466,
+        "string": " "
+      },
+      {
+        "start": 2466,
+        "end": 2474,
+        "string": "vehicle"
+      },
+      {
+        "start": 2474,
+        "end": 2475,
+        "string": " "
+      },
+      {
+        "start": 2475,
+        "end": 2484,
+        "string": "response"
+      },
+      {
+        "start": 2484,
+        "end": 2485,
+        "string": " "
+      },
+      {
+        "start": 2485,
+        "end": 2488,
+        "string": "to"
+      },
+      {
+        "start": 2488,
+        "end": 2489,
+        "string": " "
+      },
+      {
+        "start": 2489,
+        "end": 2495,
+        "string": "match"
+      },
+      {
+        "start": 2495,
+        "end": 2496,
+        "string": " "
+      },
+      {
+        "start": 2496,
+        "end": 2501,
+        "string": "road"
+      },
+      {
+        "start": 2501,
+        "end": 2502,
+        "string": " "
+      },
+      {
+        "start": 2502,
+        "end": 2506,
+        "string": "and"
+      },
+      {
+        "start": 2506,
+        "end": 2507,
+        "string": " "
+      },
+      {
+        "start": 2507,
+        "end": 2515,
+        "string": "driving"
+      },
+      {
+        "start": 2515,
+        "end": 2516,
+        "string": " "
+      },
+      {
+        "start": 2516,
+        "end": 2527,
+        "string": "conditions"
+      },
+      {
+        "start": 2527,
+        "end": 2528,
+        "string": " "
+      },
+      {
+        "start": 2528,
+        "end": 2530,
+        "string": "."
+      },
+      {
+        "start": 2530,
+        "end": 2531,
+        "string": " "
+      },
+      {
+        "start": 2531,
+        "end": 2535,
+        "string": "The"
+      },
+      {
+        "start": 2535,
+        "end": 2536,
+        "string": " "
+      },
+      {
+        "start": 2536,
+        "end": 2543,
+        "string": "4Matic"
+      },
+      {
+        "start": 2543,
+        "end": 2544,
+        "string": " "
+      },
+      {
+        "start": 2544,
+        "end": 2554,
+        "string": "all-wheel"
+      },
+      {
+        "start": 2554,
+        "end": 2555,
+        "string": " "
+      },
+      {
+        "start": 2555,
+        "end": 2561,
+        "string": "drive"
+      },
+      {
+        "start": 2561,
+        "end": 2562,
+        "string": " "
+      },
+      {
+        "start": 2562,
+        "end": 2566,
+        "string": "can"
+      },
+      {
+        "start": 2566,
+        "end": 2567,
+        "string": " "
+      },
+      {
+        "start": 2567,
+        "end": 2572,
+        "string": "also"
+      },
+      {
+        "start": 2572,
+        "end": 2573,
+        "string": " "
+      },
+      {
+        "start": 2573,
+        "end": 2576,
+        "string": "be"
+      },
+      {
+        "start": 2576,
+        "end": 2577,
+        "string": " "
+      },
+      {
+        "start": 2577,
+        "end": 2590,
+        "string": "recalibrated"
+      },
+      {
+        "start": 2590,
+        "end": 2591,
+        "string": " "
+      },
+      {
+        "start": 2591,
+        "end": 2596,
+        "string": "with"
+      },
+      {
+        "start": 2596,
+        "end": 2597,
+        "string": " "
+      },
+      {
+        "start": 2597,
+        "end": 2599,
+        "string": "a"
+      },
+      {
+        "start": 2599,
+        "end": 2600,
+        "string": " "
+      },
+      {
+        "start": 2600,
+        "end": 2608,
+        "string": "3-stage"
+      },
+      {
+        "start": 2608,
+        "end": 2609,
+        "string": " "
+      },
+      {
+        "start": 2609,
+        "end": 2619,
+        "string": "stability"
+      },
+      {
+        "start": 2619,
+        "end": 2620,
+        "string": " "
+      },
+      {
+        "start": 2620,
+        "end": 2628,
+        "string": "control"
+      },
+      {
+        "start": 2628,
+        "end": 2629,
+        "string": " "
+      },
+      {
+        "start": 2629,
+        "end": 2637,
+        "string": "program"
+      },
+      {
+        "start": 2637,
+        "end": 2638,
+        "string": " "
+      },
+      {
+        "start": 2638,
+        "end": 2644,
+        "string": "which"
+      },
+      {
+        "start": 2644,
+        "end": 2645,
+        "string": " "
+      },
+      {
+        "start": 2645,
+        "end": 2654,
+        "string": "provides"
+      },
+      {
+        "start": 2654,
+        "end": 2655,
+        "string": " "
+      },
+      {
+        "start": 2655,
+        "end": 2659,
+        "string": "for"
+      },
+      {
+        "start": 2659,
+        "end": 2660,
+        "string": " "
+      },
+      {
+        "start": 2660,
+        "end": 2662,
+        "string": "a"
+      },
+      {
+        "start": 2662,
+        "end": 2663,
+        "string": " "
+      },
+      {
+        "start": 2663,
+        "end": 2669,
+        "string": "wider"
+      },
+      {
+        "start": 2669,
+        "end": 2670,
+        "string": " "
+      },
+      {
+        "start": 2670,
+        "end": 2677,
+        "string": "spread"
+      },
+      {
+        "start": 2677,
+        "end": 2678,
+        "string": " "
+      },
+      {
+        "start": 2678,
+        "end": 2681,
+        "string": "in"
+      },
+      {
+        "start": 2681,
+        "end": 2682,
+        "string": " "
+      },
+      {
+        "start": 2682,
+        "end": 2695,
+        "string": "intervention"
+      },
+      {
+        "start": 2695,
+        "end": 2696,
+        "string": " "
+      },
+      {
+        "start": 2696,
+        "end": 2704,
+        "string": "between"
+      },
+      {
+        "start": 2704,
+        "end": 2705,
+        "string": " "
+      },
+      {
+        "start": 2705,
+        "end": 2709,
+        "string": "the"
+      },
+      {
+        "start": 2709,
+        "end": 2710,
+        "string": " "
+      },
+      {
+        "start": 2710,
+        "end": 2716,
+        "string": "Sport"
+      },
+      {
+        "start": 2716,
+        "end": 2717,
+        "string": " "
+      },
+      {
+        "start": 2717,
+        "end": 2721,
+        "string": "and"
+      },
+      {
+        "start": 2721,
+        "end": 2722,
+        "string": " "
+      },
+      {
+        "start": 2722,
+        "end": 2728,
+        "string": "Sport"
+      },
+      {
+        "start": 2728,
+        "end": 2729,
+        "string": " "
+      },
+      {
+        "start": 2729,
+        "end": 2731,
+        "string": "+"
+      },
+      {
+        "start": 2731,
+        "end": 2732,
+        "string": " "
+      },
+      {
+        "start": 2732,
+        "end": 2738,
+        "string": "modes"
+      },
+      {
+        "start": 2738,
+        "end": 2739,
+        "string": " "
+      },
+      {
+        "start": 2739,
+        "end": 2741,
+        "string": "."
+      },
+      {
+        "start": 2741,
+        "end": 2742,
+        "string": " "
+      },
+      {
+        "start": 2742,
+        "end": 2746,
+        "string": "The"
+      },
+      {
+        "start": 2746,
+        "end": 2747,
+        "string": " "
+      },
+      {
+        "start": 2747,
+        "end": 2752,
+        "string": "2020"
+      },
+      {
+        "start": 2752,
+        "end": 2753,
+        "string": " "
+      },
+      {
+        "start": 2753,
+        "end": 2767,
+        "string": "Mercedes-Benz"
+      },
+      {
+        "start": 2767,
+        "end": 2768,
+        "string": " "
+      },
+      {
+        "start": 2768,
+        "end": 2772,
+        "string": "GLC"
+      },
+      {
+        "start": 2772,
+        "end": 2773,
+        "string": " "
+      },
+      {
+        "start": 2773,
+        "end": 2777,
+        "string": "300"
+      },
+      {
+        "start": 2777,
+        "end": 2778,
+        "string": " "
+      },
+      {
+        "start": 2778,
+        "end": 2782,
+        "string": "has"
+      },
+      {
+        "start": 2782,
+        "end": 2783,
+        "string": " "
+      },
+      {
+        "start": 2783,
+        "end": 2785,
+        "string": "a"
+      },
+      {
+        "start": 2785,
+        "end": 2786,
+        "string": " "
+      },
+      {
+        "start": 2786,
+        "end": 2795,
+        "string": "complete"
+      },
+      {
+        "start": 2795,
+        "end": 2796,
+        "string": " "
+      },
+      {
+        "start": 2796,
+        "end": 2802,
+        "string": "suite"
+      },
+      {
+        "start": 2802,
+        "end": 2803,
+        "string": " "
+      },
+      {
+        "start": 2803,
+        "end": 2806,
+        "string": "of"
+      },
+      {
+        "start": 2806,
+        "end": 2807,
+        "string": " "
+      },
+      {
+        "start": 2807,
+        "end": 2814,
+        "string": "driver"
+      },
+      {
+        "start": 2814,
+        "end": 2815,
+        "string": " "
+      },
+      {
+        "start": 2815,
+        "end": 2823,
+        "string": "assists"
+      },
+      {
+        "start": 2823,
+        "end": 2824,
+        "string": " "
+      },
+      {
+        "start": 2824,
+        "end": 2834,
+        "string": "available"
+      },
+      {
+        "start": 2834,
+        "end": 2835,
+        "string": " "
+      },
+      {
+        "start": 2835,
+        "end": 2845,
+        "string": "including"
+      },
+      {
+        "start": 2845,
+        "end": 2846,
+        "string": " "
+      },
+      {
+        "start": 2846,
+        "end": 2853,
+        "string": "active"
+      },
+      {
+        "start": 2853,
+        "end": 2854,
+        "string": " "
+      },
+      {
+        "start": 2854,
+        "end": 2863,
+        "string": "distance"
+      },
+      {
+        "start": 2863,
+        "end": 2864,
+        "string": " "
+      },
+      {
+        "start": 2864,
+        "end": 2871,
+        "string": "assist"
+      },
+      {
+        "start": 2871,
+        "end": 2872,
+        "string": " "
+      },
+      {
+        "start": 2872,
+        "end": 2875,
+        "string": "on"
+      },
+      {
+        "start": 2875,
+        "end": 2876,
+        "string": " "
+      },
+      {
+        "start": 2876,
+        "end": 2880,
+        "string": "the"
+      },
+      {
+        "start": 2880,
+        "end": 2881,
+        "string": " "
+      },
+      {
+        "start": 2881,
+        "end": 2891,
+        "string": "Distronic"
+      },
+      {
+        "start": 2891,
+        "end": 2892,
+        "string": " "
+      },
+      {
+        "start": 2892,
+        "end": 2899,
+        "string": "cruise"
+      },
+      {
+        "start": 2899,
+        "end": 2900,
+        "string": " "
+      },
+      {
+        "start": 2900,
+        "end": 2908,
+        "string": "control"
+      },
+      {
+        "start": 2908,
+        "end": 2909,
+        "string": " "
+      },
+      {
+        "start": 2909,
+        "end": 2911,
+        "string": ","
+      },
+      {
+        "start": 2911,
+        "end": 2912,
+        "string": " "
+      },
+      {
+        "start": 2912,
+        "end": 2924,
+        "string": "route-based"
+      },
+      {
+        "start": 2924,
+        "end": 2925,
+        "string": " "
+      },
+      {
+        "start": 2925,
+        "end": 2931,
+        "string": "speed"
+      },
+      {
+        "start": 2931,
+        "end": 2932,
+        "string": " "
+      },
+      {
+        "start": 2932,
+        "end": 2943,
+        "string": "adaptation"
+      },
+      {
+        "start": 2943,
+        "end": 2944,
+        "string": " "
+      },
+      {
+        "start": 2944,
+        "end": 2949,
+        "string": "that"
+      },
+      {
+        "start": 2949,
+        "end": 2950,
+        "string": " "
+      },
+      {
+        "start": 2950,
+        "end": 2958,
+        "string": "employs"
+      },
+      {
+        "start": 2958,
+        "end": 2959,
+        "string": " "
+      },
+      {
+        "start": 2959,
+        "end": 2963,
+        "string": "the"
+      },
+      {
+        "start": 2963,
+        "end": 2964,
+        "string": " "
+      },
+      {
+        "start": 2964,
+        "end": 2975,
+        "string": "navigation"
+      },
+      {
+        "start": 2975,
+        "end": 2976,
+        "string": " "
+      },
+      {
+        "start": 2976,
+        "end": 2983,
+        "string": "system"
+      },
+      {
+        "start": 2983,
+        "end": 2984,
+        "string": " "
+      },
+      {
+        "start": 2984,
+        "end": 2986,
+        "string": ","
+      },
+      {
+        "start": 2986,
+        "end": 2987,
+        "string": " "
+      },
+      {
+        "start": 2987,
+        "end": 2991,
+        "string": "and"
+      },
+      {
+        "start": 2991,
+        "end": 2992,
+        "string": " "
+      },
+      {
+        "start": 2992,
+        "end": 2999,
+        "string": "active"
+      },
+      {
+        "start": 2999,
+        "end": 3000,
+        "string": " "
+      },
+      {
+        "start": 3000,
+        "end": 3008,
+        "string": "assists"
+      },
+      {
+        "start": 3008,
+        "end": 3009,
+        "string": " "
+      },
+      {
+        "start": 3009,
+        "end": 3013,
+        "string": "for"
+      },
+      {
+        "start": 3013,
+        "end": 3014,
+        "string": " "
+      },
+      {
+        "start": 3014,
+        "end": 3023,
+        "string": "steering"
+      },
+      {
+        "start": 3023,
+        "end": 3024,
+        "string": " "
+      },
+      {
+        "start": 3024,
+        "end": 3026,
+        "string": ","
+      },
+      {
+        "start": 3026,
+        "end": 3027,
+        "string": " "
+      },
+      {
+        "start": 3027,
+        "end": 3032,
+        "string": "lane"
+      },
+      {
+        "start": 3032,
+        "end": 3033,
+        "string": " "
+      },
+      {
+        "start": 3033,
+        "end": 3040,
+        "string": "change"
+      },
+      {
+        "start": 3040,
+        "end": 3041,
+        "string": " "
+      },
+      {
+        "start": 3041,
+        "end": 3045,
+        "string": "and"
+      },
+      {
+        "start": 3045,
+        "end": 3046,
+        "string": " "
+      },
+      {
+        "start": 3046,
+        "end": 3054,
+        "string": "keeping"
+      },
+      {
+        "start": 3054,
+        "end": 3055,
+        "string": " "
+      },
+      {
+        "start": 3055,
+        "end": 3057,
+        "string": ","
+      },
+      {
+        "start": 3057,
+        "end": 3058,
+        "string": " "
+      },
+      {
+        "start": 3058,
+        "end": 3064,
+        "string": "blind"
+      },
+      {
+        "start": 3064,
+        "end": 3065,
+        "string": " "
+      },
+      {
+        "start": 3065,
+        "end": 3070,
+        "string": "spot"
+      },
+      {
+        "start": 3070,
+        "end": 3071,
+        "string": " "
+      },
+      {
+        "start": 3071,
+        "end": 3073,
+        "string": ","
+      },
+      {
+        "start": 3073,
+        "end": 3074,
+        "string": " "
+      },
+      {
+        "start": 3074,
+        "end": 3078,
+        "string": "and"
+      },
+      {
+        "start": 3078,
+        "end": 3079,
+        "string": " "
+      },
+      {
+        "start": 3079,
+        "end": 3085,
+        "string": "speed"
+      },
+      {
+        "start": 3085,
+        "end": 3086,
+        "string": " "
+      },
+      {
+        "start": 3086,
+        "end": 3093,
+        "string": "limits"
+      },
+      {
+        "start": 3093,
+        "end": 3094,
+        "string": " "
+      },
+      {
+        "start": 3094,
+        "end": 3096,
+        "string": "."
+      },
+      {
+        "start": 3096,
+        "end": 3097,
+        "string": " "
+      },
+      {
+        "start": 3097,
+        "end": 3101,
+        "string": "The"
+      },
+      {
+        "start": 3101,
+        "end": 3102,
+        "string": " "
+      },
+      {
+        "start": 3102,
+        "end": 3106,
+        "string": "GLC"
+      },
+      {
+        "start": 3106,
+        "end": 3107,
+        "string": " "
+      },
+      {
+        "start": 3107,
+        "end": 3110,
+        "string": "is"
+      },
+      {
+        "start": 3110,
+        "end": 3111,
+        "string": " "
+      },
+      {
+        "start": 3111,
+        "end": 3116,
+        "string": "also"
+      },
+      {
+        "start": 3116,
+        "end": 3117,
+        "string": " "
+      },
+      {
+        "start": 3117,
+        "end": 3126,
+        "string": "equipped"
+      },
+      {
+        "start": 3126,
+        "end": 3127,
+        "string": " "
+      },
+      {
+        "start": 3127,
+        "end": 3132,
+        "string": "with"
+      },
+      {
+        "start": 3132,
+        "end": 3133,
+        "string": " "
+      },
+      {
+        "start": 3133,
+        "end": 3143,
+        "string": "emergency"
+      },
+      {
+        "start": 3143,
+        "end": 3144,
+        "string": " "
+      },
+      {
+        "start": 3144,
+        "end": 3149,
+        "string": "stop"
+      },
+      {
+        "start": 3149,
+        "end": 3150,
+        "string": " "
+      },
+      {
+        "start": 3150,
+        "end": 3157,
+        "string": "assist"
+      },
+      {
+        "start": 3157,
+        "end": 3158,
+        "string": " "
+      },
+      {
+        "start": 3158,
+        "end": 3163,
+        "string": "when"
+      },
+      {
+        "start": 3163,
+        "end": 3164,
+        "string": " "
+      },
+      {
+        "start": 3164,
+        "end": 3167,
+        "string": "it"
+      },
+      {
+        "start": 3167,
+        "end": 3168,
+        "string": " "
+      },
+      {
+        "start": 3168,
+        "end": 3175,
+        "string": "senses"
+      },
+      {
+        "start": 3175,
+        "end": 3176,
+        "string": " "
+      },
+      {
+        "start": 3176,
+        "end": 3180,
+        "string": "the"
+      },
+      {
+        "start": 3180,
+        "end": 3181,
+        "string": " "
+      },
+      {
+        "start": 3181,
+        "end": 3188,
+        "string": "driver"
+      },
+      {
+        "start": 3188,
+        "end": 3189,
+        "string": " "
+      },
+      {
+        "start": 3189,
+        "end": 3192,
+        "string": "is"
+      },
+      {
+        "start": 3192,
+        "end": 3193,
+        "string": " "
+      },
+      {
+        "start": 3193,
+        "end": 3204,
+        "string": "distracted"
+      },
+      {
+        "start": 3204,
+        "end": 3205,
+        "string": " "
+      },
+      {
+        "start": 3205,
+        "end": 3209,
+        "string": "for"
+      },
+      {
+        "start": 3209,
+        "end": 3210,
+        "string": " "
+      },
+      {
+        "start": 3210,
+        "end": 3212,
+        "string": "a"
+      },
+      {
+        "start": 3212,
+        "end": 3213,
+        "string": " "
+      },
+      {
+        "start": 3213,
+        "end": 3218,
+        "string": "long"
+      },
+      {
+        "start": 3218,
+        "end": 3219,
+        "string": " "
+      },
+      {
+        "start": 3219,
+        "end": 3226,
+        "string": "period"
+      },
+      {
+        "start": 3226,
+        "end": 3227,
+        "string": " "
+      },
+      {
+        "start": 3227,
+        "end": 3230,
+        "string": "or"
+      },
+      {
+        "start": 3230,
+        "end": 3231,
+        "string": " "
+      },
+      {
+        "start": 3231,
+        "end": 3234,
+        "string": "ca"
+      },
+      {
+        "start": 3234,
+        "end": 3235,
+        "string": " "
+      },
+      {
+        "start": 3235,
+        "end": 3239,
+        "string": "n't"
+      },
+      {
+        "start": 3239,
+        "end": 3240,
+        "string": " "
+      },
+      {
+        "start": 3240,
+        "end": 3250,
+        "string": "intervene"
+      },
+      {
+        "start": 3250,
+        "end": 3251,
+        "string": " "
+      },
+      {
+        "start": 3251,
+        "end": 3254,
+        "string": "in"
+      },
+      {
+        "start": 3254,
+        "end": 3255,
+        "string": " "
+      },
+      {
+        "start": 3255,
+        "end": 3263,
+        "string": "vehicle"
+      },
+      {
+        "start": 3263,
+        "end": 3264,
+        "string": " "
+      },
+      {
+        "start": 3264,
+        "end": 3272,
+        "string": "control"
+      },
+      {
+        "start": 3272,
+        "end": 3273,
+        "string": " "
+      },
+      {
+        "start": 3273,
+        "end": 3275,
+        "string": ","
+      },
+      {
+        "start": 3275,
+        "end": 3276,
+        "string": " "
+      },
+      {
+        "start": 3276,
+        "end": 3279,
+        "string": "as"
+      },
+      {
+        "start": 3279,
+        "end": 3280,
+        "string": " "
+      },
+      {
+        "start": 3280,
+        "end": 3285,
+        "string": "well"
+      },
+      {
+        "start": 3285,
+        "end": 3286,
+        "string": " "
+      },
+      {
+        "start": 3286,
+        "end": 3289,
+        "string": "as"
+      },
+      {
+        "start": 3289,
+        "end": 3290,
+        "string": " "
+      },
+      {
+        "start": 3290,
+        "end": 3297,
+        "string": "active"
+      },
+      {
+        "start": 3297,
+        "end": 3298,
+        "string": " "
+      },
+      {
+        "start": 3298,
+        "end": 3304,
+        "string": "brake"
+      },
+      {
+        "start": 3304,
+        "end": 3305,
+        "string": " "
+      },
+      {
+        "start": 3305,
+        "end": 3312,
+        "string": "assist"
+      },
+      {
+        "start": 3312,
+        "end": 3313,
+        "string": " "
+      },
+      {
+        "start": 3313,
+        "end": 3318,
+        "string": "with"
+      },
+      {
+        "start": 3318,
+        "end": 3319,
+        "string": " "
+      },
+      {
+        "start": 3319,
+        "end": 3333,
+        "string": "cross-traffic"
+      },
+      {
+        "start": 3333,
+        "end": 3334,
+        "string": " "
+      },
+      {
+        "start": 3334,
+        "end": 3348,
+        "string": "functionality"
+      },
+      {
+        "start": 3348,
+        "end": 3349,
+        "string": " "
+      },
+      {
+        "start": 3349,
+        "end": 3351,
+        "string": "."
+      },
+      {
+        "start": 3351,
+        "end": 3352,
+        "string": " "
+      },
+      {
+        "start": 3352,
+        "end": 3360,
+        "string": "Pricing"
+      },
+      {
+        "start": 3360,
+        "end": 3361,
+        "string": " "
+      },
+      {
+        "start": 3361,
+        "end": 3364,
+        "string": "on"
+      },
+      {
+        "start": 3364,
+        "end": 3365,
+        "string": " "
+      },
+      {
+        "start": 3365,
+        "end": 3369,
+        "string": "the"
+      },
+      {
+        "start": 3369,
+        "end": 3370,
+        "string": " "
+      },
+      {
+        "start": 3370,
+        "end": 3375,
+        "string": "2020"
+      },
+      {
+        "start": 3375,
+        "end": 3376,
+        "string": " "
+      },
+      {
+        "start": 3376,
+        "end": 3390,
+        "string": "Mercedes-Benz"
+      },
+      {
+        "start": 3390,
+        "end": 3391,
+        "string": " "
+      },
+      {
+        "start": 3391,
+        "end": 3395,
+        "string": "GLC"
+      },
+      {
+        "start": 3395,
+        "end": 3396,
+        "string": " "
+      },
+      {
+        "start": 3396,
+        "end": 3400,
+        "string": "300"
+      },
+      {
+        "start": 3400,
+        "end": 3401,
+        "string": " "
+      },
+      {
+        "start": 3401,
+        "end": 3406,
+        "string": "will"
+      },
+      {
+        "start": 3406,
+        "end": 3407,
+        "string": " "
+      },
+      {
+        "start": 3407,
+        "end": 3410,
+        "string": "be"
+      },
+      {
+        "start": 3410,
+        "end": 3411,
+        "string": " "
+      },
+      {
+        "start": 3411,
+        "end": 3421,
+        "string": "announced"
+      },
+      {
+        "start": 3421,
+        "end": 3422,
+        "string": " "
+      },
+      {
+        "start": 3422,
+        "end": 3429,
+        "string": "closer"
+      },
+      {
+        "start": 3429,
+        "end": 3430,
+        "string": " "
+      },
+      {
+        "start": 3430,
+        "end": 3433,
+        "string": "to"
+      },
+      {
+        "start": 3433,
+        "end": 3434,
+        "string": " "
+      },
+      {
+        "start": 3434,
+        "end": 3438,
+        "string": "its"
+      },
+      {
+        "start": 3438,
+        "end": 3439,
+        "string": " "
+      },
+      {
+        "start": 3439,
+        "end": 3447,
+        "string": "on-sale"
+      },
+      {
+        "start": 3447,
+        "end": 3448,
+        "string": " "
+      },
+      {
+        "start": 3448,
+        "end": 3453,
+        "string": "date"
+      },
+      {
+        "start": 3453,
+        "end": 3454,
+        "string": " "
+      },
+      {
+        "start": 3454,
+        "end": 3459,
+        "string": "late"
+      },
+      {
+        "start": 3459,
+        "end": 3460,
+        "string": " "
+      },
+      {
+        "start": 3460,
+        "end": 3463,
+        "string": "in"
+      },
+      {
+        "start": 3463,
+        "end": 3464,
+        "string": " "
+      },
+      {
+        "start": 3464,
+        "end": 3468,
+        "string": "the"
+      },
+      {
+        "start": 3468,
+        "end": 3469,
+        "string": " "
+      },
+      {
+        "start": 3469,
+        "end": 3474,
+        "string": "year"
+      },
+      {
+        "start": 3474,
+        "end": 3475,
+        "string": " "
+      },
+      {
+        "start": 3475,
+        "end": 3477,
+        "string": "."
+      },
+      {
+        "start": 3477,
+        "end": 3478,
+        "string": " "
+      },
+      {
+        "start": 3478,
+        "end": 3482,
+        "string": "The"
+      },
+      {
+        "start": 3482,
+        "end": 3483,
+        "string": " "
+      },
+      {
+        "start": 3483,
+        "end": 3488,
+        "string": "2019"
+      },
+      {
+        "start": 3488,
+        "end": 3489,
+        "string": " "
+      },
+      {
+        "start": 3489,
+        "end": 3493,
+        "string": "GLC"
+      },
+      {
+        "start": 3493,
+        "end": 3494,
+        "string": " "
+      },
+      {
+        "start": 3494,
+        "end": 3498,
+        "string": "300"
+      },
+      {
+        "start": 3498,
+        "end": 3499,
+        "string": " "
+      },
+      {
+        "start": 3499,
+        "end": 3506,
+        "string": "starts"
+      },
+      {
+        "start": 3506,
+        "end": 3507,
+        "string": " "
+      },
+      {
+        "start": 3507,
+        "end": 3510,
+        "string": "at"
+      },
+      {
+        "start": 3510,
+        "end": 3511,
+        "string": " "
+      },
+      {
+        "start": 3511,
+        "end": 3513,
+        "string": "$"
+      },
+      {
+        "start": 3513,
+        "end": 3514,
+        "string": " "
+      },
+      {
+        "start": 3514,
+        "end": 3521,
+        "string": "40,700"
+      },
+      {
+        "start": 3521,
+        "end": 3522,
+        "string": " "
+      },
+      {
+        "start": 3522,
+        "end": 3524,
+        "string": "."
+      },
+      {
+        "start": 3524,
+        "end": 3525,
+        "string": " "
+      }
+    ]
+  }
+}

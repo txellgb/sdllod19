@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "588f85a71edd4b9292440b99fca90def.doc",
+  "metadata": {
+    "title": "Wolves vs Cardiff: TV channel, live stream, kick off time and team news",
+    "sourceUrl": "https://www.thesun.ie/sport/football/3815577/is-wolves-vs-cardiff-on-tv-channel-live-stream-kick-off-time-and-team-news-for-premier-league/",
+    "documentSource": "thesun.ie",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}

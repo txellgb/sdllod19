@@ -1,0 +1,5981 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "022767f6b68a4bfd9edf264ec61f2de9.doc",
+  "id": "022767f6b68a4bfd9edf264ec61f2de9.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "022767f6b68a4bfd9edf264ec61f2de9.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 4,
+        "string": "The"
+      },
+      {
+        "start": 4,
+        "end": 5,
+        "string": " "
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "string": "crime"
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "string": " "
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "string": "rate"
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "string": " "
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "string": "for"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "string": "one"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "string": "of"
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "string": " "
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "string": "Florida"
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "string": " "
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "string": "'s"
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "string": " "
+      },
+      {
+        "start": 45,
+        "end": 52,
+        "string": "safest"
+      },
+      {
+        "start": 52,
+        "end": 53,
+        "string": " "
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "string": "cities"
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "string": " "
+      },
+      {
+        "start": 61,
+        "end": 65,
+        "string": "may"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 71,
+        "string": "have"
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "string": " "
+      },
+      {
+        "start": 72,
+        "end": 79,
+        "string": "dipped"
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "string": " "
+      },
+      {
+        "start": 80,
+        "end": 85,
+        "string": "last"
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "string": " "
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "string": "year"
+      },
+      {
+        "start": 91,
+        "end": 92,
+        "string": " "
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "string": ","
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "string": "but"
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "string": " "
+      },
+      {
+        "start": 100,
+        "end": 108,
+        "string": "violent"
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "string": "crimes"
+      },
+      {
+        "start": 116,
+        "end": 117,
+        "string": " "
+      },
+      {
+        "start": 117,
+        "end": 127,
+        "string": "increased"
+      },
+      {
+        "start": 127,
+        "end": 128,
+        "string": " "
+      },
+      {
+        "start": 128,
+        "end": 130,
+        "string": "."
+      },
+      {
+        "start": 130,
+        "end": 131,
+        "string": " "
+      },
+      {
+        "start": 131,
+        "end": 135,
+        "string": "The"
+      },
+      {
+        "start": 135,
+        "end": 136,
+        "string": " "
+      },
+      {
+        "start": 136,
+        "end": 140,
+        "string": "FBI"
+      },
+      {
+        "start": 140,
+        "end": 141,
+        "string": " "
+      },
+      {
+        "start": 141,
+        "end": 144,
+        "string": "'s"
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "string": " "
+      },
+      {
+        "start": 145,
+        "end": 152,
+        "string": "latest"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "string": " "
+      },
+      {
+        "start": 153,
+        "end": 165,
+        "string": "semi-annual"
+      },
+      {
+        "start": 165,
+        "end": 166,
+        "string": " "
+      },
+      {
+        "start": 166,
+        "end": 174,
+        "string": "Uniform"
+      },
+      {
+        "start": 174,
+        "end": 175,
+        "string": " "
+      },
+      {
+        "start": 175,
+        "end": 181,
+        "string": "Crime"
+      },
+      {
+        "start": 181,
+        "end": 182,
+        "string": " "
+      },
+      {
+        "start": 182,
+        "end": 189,
+        "string": "Report"
+      },
+      {
+        "start": 189,
+        "end": 190,
+        "string": " "
+      },
+      {
+        "start": 190,
+        "end": 196,
+        "string": "shows"
+      },
+      {
+        "start": 196,
+        "end": 197,
+        "string": " "
+      },
+      {
+        "start": 197,
+        "end": 202,
+        "string": "that"
+      },
+      {
+        "start": 202,
+        "end": 203,
+        "string": " "
+      },
+      {
+        "start": 203,
+        "end": 211,
+        "string": "violent"
+      },
+      {
+        "start": 211,
+        "end": 212,
+        "string": " "
+      },
+      {
+        "start": 212,
+        "end": 219,
+        "string": "crimes"
+      },
+      {
+        "start": 219,
+        "end": 220,
+        "string": " "
+      },
+      {
+        "start": 220,
+        "end": 230,
+        "string": "increased"
+      },
+      {
+        "start": 230,
+        "end": 231,
+        "string": " "
+      },
+      {
+        "start": 231,
+        "end": 234,
+        "string": "in"
+      },
+      {
+        "start": 234,
+        "end": 235,
+        "string": " "
+      },
+      {
+        "start": 235,
+        "end": 240,
+        "string": "Cape"
+      },
+      {
+        "start": 240,
+        "end": 241,
+        "string": " "
+      },
+      {
+        "start": 241,
+        "end": 247,
+        "string": "Coral"
+      },
+      {
+        "start": 247,
+        "end": 248,
+        "string": " "
+      },
+      {
+        "start": 248,
+        "end": 252,
+        "string": "for"
+      },
+      {
+        "start": 252,
+        "end": 253,
+        "string": " "
+      },
+      {
+        "start": 253,
+        "end": 257,
+        "string": "the"
+      },
+      {
+        "start": 257,
+        "end": 258,
+        "string": " "
+      },
+      {
+        "start": 258,
+        "end": 264,
+        "string": "first"
+      },
+      {
+        "start": 264,
+        "end": 265,
+        "string": " "
+      },
+      {
+        "start": 265,
+        "end": 270,
+        "string": "half"
+      },
+      {
+        "start": 270,
+        "end": 271,
+        "string": " "
+      },
+      {
+        "start": 271,
+        "end": 274,
+        "string": "of"
+      },
+      {
+        "start": 274,
+        "end": 275,
+        "string": " "
+      },
+      {
+        "start": 275,
+        "end": 280,
+        "string": "2018"
+      },
+      {
+        "start": 280,
+        "end": 281,
+        "string": " "
+      },
+      {
+        "start": 281,
+        "end": 290,
+        "string": "compared"
+      },
+      {
+        "start": 290,
+        "end": 291,
+        "string": " "
+      },
+      {
+        "start": 291,
+        "end": 294,
+        "string": "to"
+      },
+      {
+        "start": 294,
+        "end": 295,
+        "string": " "
+      },
+      {
+        "start": 295,
+        "end": 299,
+        "string": "the"
+      },
+      {
+        "start": 299,
+        "end": 300,
+        "string": " "
+      },
+      {
+        "start": 300,
+        "end": 306,
+        "string": "first"
+      },
+      {
+        "start": 306,
+        "end": 307,
+        "string": " "
+      },
+      {
+        "start": 307,
+        "end": 312,
+        "string": "half"
+      },
+      {
+        "start": 312,
+        "end": 313,
+        "string": " "
+      },
+      {
+        "start": 313,
+        "end": 316,
+        "string": "of"
+      },
+      {
+        "start": 316,
+        "end": 317,
+        "string": " "
+      },
+      {
+        "start": 317,
+        "end": 322,
+        "string": "2017"
+      },
+      {
+        "start": 322,
+        "end": 323,
+        "string": " "
+      },
+      {
+        "start": 323,
+        "end": 325,
+        "string": "."
+      },
+      {
+        "start": 325,
+        "end": 326,
+        "string": " "
+      },
+      {
+        "start": 326,
+        "end": 330,
+        "string": "The"
+      },
+      {
+        "start": 330,
+        "end": 331,
+        "string": " "
+      },
+      {
+        "start": 331,
+        "end": 340,
+        "string": "increase"
+      },
+      {
+        "start": 340,
+        "end": 341,
+        "string": " "
+      },
+      {
+        "start": 341,
+        "end": 345,
+        "string": "was"
+      },
+      {
+        "start": 345,
+        "end": 346,
+        "string": " "
+      },
+      {
+        "start": 346,
+        "end": 350,
+        "string": "due"
+      },
+      {
+        "start": 350,
+        "end": 351,
+        "string": " "
+      },
+      {
+        "start": 351,
+        "end": 354,
+        "string": "to"
+      },
+      {
+        "start": 354,
+        "end": 355,
+        "string": " "
+      },
+      {
+        "start": 355,
+        "end": 365,
+        "string": "robberies"
+      },
+      {
+        "start": 365,
+        "end": 366,
+        "string": " "
+      },
+      {
+        "start": 366,
+        "end": 368,
+        "string": ","
+      },
+      {
+        "start": 368,
+        "end": 369,
+        "string": " "
+      },
+      {
+        "start": 369,
+        "end": 375,
+        "string": "which"
+      },
+      {
+        "start": 375,
+        "end": 376,
+        "string": " "
+      },
+      {
+        "start": 376,
+        "end": 381,
+        "string": "more"
+      },
+      {
+        "start": 381,
+        "end": 382,
+        "string": " "
+      },
+      {
+        "start": 382,
+        "end": 387,
+        "string": "than"
+      },
+      {
+        "start": 387,
+        "end": 388,
+        "string": " "
+      },
+      {
+        "start": 388,
+        "end": 396,
+        "string": "doubled"
+      },
+      {
+        "start": 396,
+        "end": 397,
+        "string": " "
+      },
+      {
+        "start": 397,
+        "end": 400,
+        "string": "in"
+      },
+      {
+        "start": 400,
+        "end": 401,
+        "string": " "
+      },
+      {
+        "start": 401,
+        "end": 406,
+        "string": "that"
+      },
+      {
+        "start": 406,
+        "end": 407,
+        "string": " "
+      },
+      {
+        "start": 407,
+        "end": 412,
+        "string": "time"
+      },
+      {
+        "start": 412,
+        "end": 413,
+        "string": " "
+      },
+      {
+        "start": 413,
+        "end": 418,
+        "string": "from"
+      },
+      {
+        "start": 418,
+        "end": 419,
+        "string": " "
+      },
+      {
+        "start": 419,
+        "end": 422,
+        "string": "12"
+      },
+      {
+        "start": 422,
+        "end": 423,
+        "string": " "
+      },
+      {
+        "start": 423,
+        "end": 426,
+        "string": "in"
+      },
+      {
+        "start": 426,
+        "end": 427,
+        "string": " "
+      },
+      {
+        "start": 427,
+        "end": 431,
+        "string": "the"
+      },
+      {
+        "start": 431,
+        "end": 432,
+        "string": " "
+      },
+      {
+        "start": 432,
+        "end": 438,
+        "string": "first"
+      },
+      {
+        "start": 438,
+        "end": 439,
+        "string": " "
+      },
+      {
+        "start": 439,
+        "end": 444,
+        "string": "half"
+      },
+      {
+        "start": 444,
+        "end": 445,
+        "string": " "
+      },
+      {
+        "start": 445,
+        "end": 448,
+        "string": "of"
+      },
+      {
+        "start": 448,
+        "end": 449,
+        "string": " "
+      },
+      {
+        "start": 449,
+        "end": 454,
+        "string": "2017"
+      },
+      {
+        "start": 454,
+        "end": 455,
+        "string": " "
+      },
+      {
+        "start": 455,
+        "end": 458,
+        "string": "to"
+      },
+      {
+        "start": 458,
+        "end": 459,
+        "string": " "
+      },
+      {
+        "start": 459,
+        "end": 462,
+        "string": "28"
+      },
+      {
+        "start": 462,
+        "end": 463,
+        "string": " "
+      },
+      {
+        "start": 463,
+        "end": 466,
+        "string": "in"
+      },
+      {
+        "start": 466,
+        "end": 467,
+        "string": " "
+      },
+      {
+        "start": 467,
+        "end": 471,
+        "string": "the"
+      },
+      {
+        "start": 471,
+        "end": 472,
+        "string": " "
+      },
+      {
+        "start": 472,
+        "end": 478,
+        "string": "first"
+      },
+      {
+        "start": 478,
+        "end": 479,
+        "string": " "
+      },
+      {
+        "start": 479,
+        "end": 484,
+        "string": "half"
+      },
+      {
+        "start": 484,
+        "end": 485,
+        "string": " "
+      },
+      {
+        "start": 485,
+        "end": 488,
+        "string": "of"
+      },
+      {
+        "start": 488,
+        "end": 489,
+        "string": " "
+      },
+      {
+        "start": 489,
+        "end": 494,
+        "string": "2018"
+      },
+      {
+        "start": 494,
+        "end": 495,
+        "string": " "
+      },
+      {
+        "start": 495,
+        "end": 497,
+        "string": ","
+      },
+      {
+        "start": 497,
+        "end": 498,
+        "string": " "
+      },
+      {
+        "start": 498,
+        "end": 502,
+        "string": "the"
+      },
+      {
+        "start": 502,
+        "end": 503,
+        "string": " "
+      },
+      {
+        "start": 503,
+        "end": 510,
+        "string": "report"
+      },
+      {
+        "start": 510,
+        "end": 511,
+        "string": " "
+      },
+      {
+        "start": 511,
+        "end": 517,
+        "string": "shows"
+      },
+      {
+        "start": 517,
+        "end": 518,
+        "string": " "
+      },
+      {
+        "start": 518,
+        "end": 520,
+        "string": "."
+      },
+      {
+        "start": 520,
+        "end": 521,
+        "string": " "
+      },
+      {
+        "start": 521,
+        "end": 525,
+        "string": "All"
+      },
+      {
+        "start": 525,
+        "end": 526,
+        "string": " "
+      },
+      {
+        "start": 526,
+        "end": 532,
+        "string": "other"
+      },
+      {
+        "start": 532,
+        "end": 533,
+        "string": " "
+      },
+      {
+        "start": 533,
+        "end": 541,
+        "string": "violent"
+      },
+      {
+        "start": 541,
+        "end": 542,
+        "string": " "
+      },
+      {
+        "start": 542,
+        "end": 549,
+        "string": "crimes"
+      },
+      {
+        "start": 549,
+        "end": 550,
+        "string": " "
+      },
+      {
+        "start": 550,
+        "end": 560,
+        "string": "decreased"
+      },
+      {
+        "start": 560,
+        "end": 561,
+        "string": " "
+      },
+      {
+        "start": 561,
+        "end": 568,
+        "string": "during"
+      },
+      {
+        "start": 568,
+        "end": 569,
+        "string": " "
+      },
+      {
+        "start": 569,
+        "end": 574,
+        "string": "that"
+      },
+      {
+        "start": 574,
+        "end": 575,
+        "string": " "
+      },
+      {
+        "start": 575,
+        "end": 580,
+        "string": "time"
+      },
+      {
+        "start": 580,
+        "end": 581,
+        "string": " "
+      },
+      {
+        "start": 581,
+        "end": 583,
+        "string": "."
+      },
+      {
+        "start": 583,
+        "end": 584,
+        "string": " "
+      },
+      {
+        "start": 584,
+        "end": 593,
+        "string": "Previous"
+      },
+      {
+        "start": 593,
+        "end": 594,
+        "string": " "
+      },
+      {
+        "start": 594,
+        "end": 603,
+        "string": "coverage"
+      },
+      {
+        "start": 603,
+        "end": 604,
+        "string": " "
+      },
+      {
+        "start": 604,
+        "end": 606,
+        "string": ":"
+      },
+      {
+        "start": 606,
+        "end": 607,
+        "string": " "
+      },
+      {
+        "start": 607,
+        "end": 615,
+        "string": "Florida"
+      },
+      {
+        "start": 615,
+        "end": 616,
+        "string": " "
+      },
+      {
+        "start": 616,
+        "end": 622,
+        "string": "crime"
+      },
+      {
+        "start": 622,
+        "end": 623,
+        "string": " "
+      },
+      {
+        "start": 623,
+        "end": 629,
+        "string": "drops"
+      },
+      {
+        "start": 629,
+        "end": 630,
+        "string": " "
+      },
+      {
+        "start": 630,
+        "end": 633,
+        "string": "in"
+      },
+      {
+        "start": 633,
+        "end": 634,
+        "string": " "
+      },
+      {
+        "start": 634,
+        "end": 640,
+        "string": "first"
+      },
+      {
+        "start": 640,
+        "end": 641,
+        "string": " "
+      },
+      {
+        "start": 641,
+        "end": 646,
+        "string": "half"
+      },
+      {
+        "start": 646,
+        "end": 647,
+        "string": " "
+      },
+      {
+        "start": 647,
+        "end": 650,
+        "string": "of"
+      },
+      {
+        "start": 650,
+        "end": 651,
+        "string": " "
+      },
+      {
+        "start": 651,
+        "end": 656,
+        "string": "2018"
+      },
+      {
+        "start": 656,
+        "end": 657,
+        "string": " "
+      },
+      {
+        "start": 657,
+        "end": 659,
+        "string": ","
+      },
+      {
+        "start": 659,
+        "end": 660,
+        "string": " "
+      },
+      {
+        "start": 660,
+        "end": 665,
+        "string": "down"
+      },
+      {
+        "start": 665,
+        "end": 666,
+        "string": " "
+      },
+      {
+        "start": 666,
+        "end": 668,
+        "string": "4"
+      },
+      {
+        "start": 668,
+        "end": 669,
+        "string": " "
+      },
+      {
+        "start": 669,
+        "end": 677,
+        "string": "percent"
+      },
+      {
+        "start": 677,
+        "end": 678,
+        "string": " "
+      },
+      {
+        "start": 678,
+        "end": 681,
+        "string": "in"
+      },
+      {
+        "start": 681,
+        "end": 682,
+        "string": " "
+      },
+      {
+        "start": 682,
+        "end": 686,
+        "string": "Lee"
+      },
+      {
+        "start": 686,
+        "end": 687,
+        "string": " "
+      },
+      {
+        "start": 687,
+        "end": 694,
+        "string": "County"
+      },
+      {
+        "start": 694,
+        "end": 695,
+        "string": " "
+      },
+      {
+        "start": 695,
+        "end": 705,
+        "string": "Robberies"
+      },
+      {
+        "start": 705,
+        "end": 706,
+        "string": " "
+      },
+      {
+        "start": 706,
+        "end": 710,
+        "string": "are"
+      },
+      {
+        "start": 710,
+        "end": 711,
+        "string": " "
+      },
+      {
+        "start": 711,
+        "end": 718,
+        "string": "nearly"
+      },
+      {
+        "start": 718,
+        "end": 719,
+        "string": " "
+      },
+      {
+        "start": 719,
+        "end": 730,
+        "string": "impossible"
+      },
+      {
+        "start": 730,
+        "end": 731,
+        "string": " "
+      },
+      {
+        "start": 731,
+        "end": 734,
+        "string": "to"
+      },
+      {
+        "start": 734,
+        "end": 735,
+        "string": " "
+      },
+      {
+        "start": 735,
+        "end": 743,
+        "string": "prevent"
+      },
+      {
+        "start": 743,
+        "end": 744,
+        "string": " "
+      },
+      {
+        "start": 744,
+        "end": 746,
+        "string": ","
+      },
+      {
+        "start": 746,
+        "end": 747,
+        "string": " "
+      },
+      {
+        "start": 747,
+        "end": 755,
+        "string": "because"
+      },
+      {
+        "start": 755,
+        "end": 756,
+        "string": " "
+      },
+      {
+        "start": 756,
+        "end": 761,
+        "string": "they"
+      },
+      {
+        "start": 761,
+        "end": 762,
+        "string": " "
+      },
+      {
+        "start": 762,
+        "end": 766,
+        "string": "can"
+      },
+      {
+        "start": 766,
+        "end": 767,
+        "string": " "
+      },
+      {
+        "start": 767,
+        "end": 770,
+        "string": "be"
+      },
+      {
+        "start": 770,
+        "end": 771,
+        "string": " "
+      },
+      {
+        "start": 771,
+        "end": 774,
+        "string": "as"
+      },
+      {
+        "start": 774,
+        "end": 775,
+        "string": " "
+      },
+      {
+        "start": 775,
+        "end": 782,
+        "string": "simple"
+      },
+      {
+        "start": 782,
+        "end": 783,
+        "string": " "
+      },
+      {
+        "start": 783,
+        "end": 786,
+        "string": "as"
+      },
+      {
+        "start": 786,
+        "end": 787,
+        "string": " "
+      },
+      {
+        "start": 787,
+        "end": 794,
+        "string": "people"
+      },
+      {
+        "start": 794,
+        "end": 795,
+        "string": " "
+      },
+      {
+        "start": 795,
+        "end": 805,
+        "string": "snatching"
+      },
+      {
+        "start": 805,
+        "end": 806,
+        "string": " "
+      },
+      {
+        "start": 806,
+        "end": 813,
+        "string": "purses"
+      },
+      {
+        "start": 813,
+        "end": 814,
+        "string": " "
+      },
+      {
+        "start": 814,
+        "end": 817,
+        "string": "on"
+      },
+      {
+        "start": 817,
+        "end": 818,
+        "string": " "
+      },
+      {
+        "start": 818,
+        "end": 822,
+        "string": "the"
+      },
+      {
+        "start": 822,
+        "end": 823,
+        "string": " "
+      },
+      {
+        "start": 823,
+        "end": 830,
+        "string": "street"
+      },
+      {
+        "start": 830,
+        "end": 831,
+        "string": " "
+      },
+      {
+        "start": 831,
+        "end": 833,
+        "string": ","
+      },
+      {
+        "start": 833,
+        "end": 834,
+        "string": " "
+      },
+      {
+        "start": 834,
+        "end": 844,
+        "string": "according"
+      },
+      {
+        "start": 844,
+        "end": 845,
+        "string": " "
+      },
+      {
+        "start": 845,
+        "end": 848,
+        "string": "to"
+      },
+      {
+        "start": 848,
+        "end": 849,
+        "string": " "
+      },
+      {
+        "start": 849,
+        "end": 856,
+        "string": "Master"
+      },
+      {
+        "start": 856,
+        "end": 857,
+        "string": " "
+      },
+      {
+        "start": 857,
+        "end": 862,
+        "string": "Sgt."
+      },
+      {
+        "start": 862,
+        "end": 863,
+        "string": " "
+      },
+      {
+        "start": 863,
+        "end": 868,
+        "string": "Alan"
+      },
+      {
+        "start": 868,
+        "end": 869,
+        "string": " "
+      },
+      {
+        "start": 869,
+        "end": 875,
+        "string": "Kolak"
+      },
+      {
+        "start": 875,
+        "end": 876,
+        "string": " "
+      },
+      {
+        "start": 876,
+        "end": 878,
+        "string": ","
+      },
+      {
+        "start": 878,
+        "end": 879,
+        "string": " "
+      },
+      {
+        "start": 879,
+        "end": 889,
+        "string": "spokesman"
+      },
+      {
+        "start": 889,
+        "end": 890,
+        "string": " "
+      },
+      {
+        "start": 890,
+        "end": 894,
+        "string": "for"
+      },
+      {
+        "start": 894,
+        "end": 895,
+        "string": " "
+      },
+      {
+        "start": 895,
+        "end": 899,
+        "string": "the"
+      },
+      {
+        "start": 899,
+        "end": 900,
+        "string": " "
+      },
+      {
+        "start": 900,
+        "end": 905,
+        "string": "Cape"
+      },
+      {
+        "start": 905,
+        "end": 906,
+        "string": " "
+      },
+      {
+        "start": 906,
+        "end": 912,
+        "string": "Coral"
+      },
+      {
+        "start": 912,
+        "end": 913,
+        "string": " "
+      },
+      {
+        "start": 913,
+        "end": 920,
+        "string": "Police"
+      },
+      {
+        "start": 920,
+        "end": 921,
+        "string": " "
+      },
+      {
+        "start": 921,
+        "end": 932,
+        "string": "Department"
+      },
+      {
+        "start": 932,
+        "end": 933,
+        "string": " "
+      },
+      {
+        "start": 933,
+        "end": 935,
+        "string": "."
+      },
+      {
+        "start": 935,
+        "end": 936,
+        "string": " "
+      },
+      {
+        "start": 936,
+        "end": 939,
+        "string": "In"
+      },
+      {
+        "start": 939,
+        "end": 940,
+        "string": " "
+      },
+      {
+        "start": 940,
+        "end": 945,
+        "string": "fact"
+      },
+      {
+        "start": 945,
+        "end": 946,
+        "string": " "
+      },
+      {
+        "start": 946,
+        "end": 948,
+        "string": ","
+      },
+      {
+        "start": 948,
+        "end": 949,
+        "string": " "
+      },
+      {
+        "start": 949,
+        "end": 953,
+        "string": "the"
+      },
+      {
+        "start": 953,
+        "end": 954,
+        "string": " "
+      },
+      {
+        "start": 954,
+        "end": 963,
+        "string": "majority"
+      },
+      {
+        "start": 963,
+        "end": 964,
+        "string": " "
+      },
+      {
+        "start": 964,
+        "end": 967,
+        "string": "of"
+      },
+      {
+        "start": 967,
+        "end": 968,
+        "string": " "
+      },
+      {
+        "start": 968,
+        "end": 972,
+        "string": "the"
+      },
+      {
+        "start": 972,
+        "end": 973,
+        "string": " "
+      },
+      {
+        "start": 973,
+        "end": 983,
+        "string": "robberies"
+      },
+      {
+        "start": 983,
+        "end": 984,
+        "string": " "
+      },
+      {
+        "start": 984,
+        "end": 989,
+        "string": "were"
+      },
+      {
+        "start": 989,
+        "end": 990,
+        "string": " "
+      },
+      {
+        "start": 990,
+        "end": 992,
+        "string": "\""
+      },
+      {
+        "start": 992,
+        "end": 993,
+        "string": " "
+      },
+      {
+        "start": 993,
+        "end": 1000,
+        "string": "person"
+      },
+      {
+        "start": 1000,
+        "end": 1001,
+        "string": " "
+      },
+      {
+        "start": 1001,
+        "end": 1004,
+        "string": "on"
+      },
+      {
+        "start": 1004,
+        "end": 1005,
+        "string": " "
+      },
+      {
+        "start": 1005,
+        "end": 1012,
+        "string": "person"
+      },
+      {
+        "start": 1012,
+        "end": 1013,
+        "string": " "
+      },
+      {
+        "start": 1013,
+        "end": 1015,
+        "string": ","
+      },
+      {
+        "start": 1015,
+        "end": 1016,
+        "string": " "
+      },
+      {
+        "start": 1016,
+        "end": 1018,
+        "string": "\""
+      },
+      {
+        "start": 1018,
+        "end": 1019,
+        "string": " "
+      },
+      {
+        "start": 1019,
+        "end": 1022,
+        "string": "he"
+      },
+      {
+        "start": 1022,
+        "end": 1023,
+        "string": " "
+      },
+      {
+        "start": 1023,
+        "end": 1028,
+        "string": "said"
+      },
+      {
+        "start": 1028,
+        "end": 1029,
+        "string": " "
+      },
+      {
+        "start": 1029,
+        "end": 1031,
+        "string": "."
+      },
+      {
+        "start": 1031,
+        "end": 1032,
+        "string": " "
+      },
+      {
+        "start": 1032,
+        "end": 1037,
+        "string": "Most"
+      },
+      {
+        "start": 1037,
+        "end": 1038,
+        "string": " "
+      },
+      {
+        "start": 1038,
+        "end": 1041,
+        "string": "of"
+      },
+      {
+        "start": 1041,
+        "end": 1042,
+        "string": " "
+      },
+      {
+        "start": 1042,
+        "end": 1047,
+        "string": "them"
+      },
+      {
+        "start": 1047,
+        "end": 1048,
+        "string": " "
+      },
+      {
+        "start": 1048,
+        "end": 1055,
+        "string": "seemed"
+      },
+      {
+        "start": 1055,
+        "end": 1056,
+        "string": " "
+      },
+      {
+        "start": 1056,
+        "end": 1059,
+        "string": "to"
+      },
+      {
+        "start": 1059,
+        "end": 1060,
+        "string": " "
+      },
+      {
+        "start": 1060,
+        "end": 1063,
+        "string": "be"
+      },
+      {
+        "start": 1063,
+        "end": 1064,
+        "string": " "
+      },
+      {
+        "start": 1064,
+        "end": 1069,
+        "string": "drug"
+      },
+      {
+        "start": 1069,
+        "end": 1070,
+        "string": " "
+      },
+      {
+        "start": 1070,
+        "end": 1078,
+        "string": "related"
+      },
+      {
+        "start": 1078,
+        "end": 1079,
+        "string": " "
+      },
+      {
+        "start": 1079,
+        "end": 1082,
+        "string": "or"
+      },
+      {
+        "start": 1082,
+        "end": 1083,
+        "string": " "
+      },
+      {
+        "start": 1083,
+        "end": 1088,
+        "string": "drug"
+      },
+      {
+        "start": 1088,
+        "end": 1089,
+        "string": " "
+      },
+      {
+        "start": 1089,
+        "end": 1095,
+        "string": "deals"
+      },
+      {
+        "start": 1095,
+        "end": 1096,
+        "string": " "
+      },
+      {
+        "start": 1096,
+        "end": 1101,
+        "string": "gone"
+      },
+      {
+        "start": 1101,
+        "end": 1102,
+        "string": " "
+      },
+      {
+        "start": 1102,
+        "end": 1108,
+        "string": "wrong"
+      },
+      {
+        "start": 1108,
+        "end": 1109,
+        "string": " "
+      },
+      {
+        "start": 1109,
+        "end": 1111,
+        "string": ","
+      },
+      {
+        "start": 1111,
+        "end": 1112,
+        "string": " "
+      },
+      {
+        "start": 1112,
+        "end": 1115,
+        "string": "he"
+      },
+      {
+        "start": 1115,
+        "end": 1116,
+        "string": " "
+      },
+      {
+        "start": 1116,
+        "end": 1121,
+        "string": "said"
+      },
+      {
+        "start": 1121,
+        "end": 1122,
+        "string": " "
+      },
+      {
+        "start": 1122,
+        "end": 1124,
+        "string": "."
+      },
+      {
+        "start": 1124,
+        "end": 1125,
+        "string": " "
+      },
+      {
+        "start": 1125,
+        "end": 1129,
+        "string": "And"
+      },
+      {
+        "start": 1129,
+        "end": 1130,
+        "string": " "
+      },
+      {
+        "start": 1130,
+        "end": 1135,
+        "string": "most"
+      },
+      {
+        "start": 1135,
+        "end": 1136,
+        "string": " "
+      },
+      {
+        "start": 1136,
+        "end": 1141,
+        "string": "were"
+      },
+      {
+        "start": 1141,
+        "end": 1142,
+        "string": " "
+      },
+      {
+        "start": 1142,
+        "end": 1144,
+        "string": "\""
+      },
+      {
+        "start": 1144,
+        "end": 1145,
+        "string": " "
+      },
+      {
+        "start": 1145,
+        "end": 1149,
+        "string": "NFA"
+      },
+      {
+        "start": 1149,
+        "end": 1150,
+        "string": " "
+      },
+      {
+        "start": 1150,
+        "end": 1153,
+        "string": "'d"
+      },
+      {
+        "start": 1153,
+        "end": 1154,
+        "string": " "
+      },
+      {
+        "start": 1154,
+        "end": 1156,
+        "string": "\""
+      },
+      {
+        "start": 1156,
+        "end": 1157,
+        "string": " "
+      },
+      {
+        "start": 1157,
+        "end": 1160,
+        "string": "at"
+      },
+      {
+        "start": 1160,
+        "end": 1161,
+        "string": " "
+      },
+      {
+        "start": 1161,
+        "end": 1165,
+        "string": "the"
+      },
+      {
+        "start": 1165,
+        "end": 1166,
+        "string": " "
+      },
+      {
+        "start": 1166,
+        "end": 1171,
+        "string": "time"
+      },
+      {
+        "start": 1171,
+        "end": 1172,
+        "string": " "
+      },
+      {
+        "start": 1172,
+        "end": 1175,
+        "string": "of"
+      },
+      {
+        "start": 1175,
+        "end": 1176,
+        "string": " "
+      },
+      {
+        "start": 1176,
+        "end": 1180,
+        "string": "the"
+      },
+      {
+        "start": 1180,
+        "end": 1181,
+        "string": " "
+      },
+      {
+        "start": 1181,
+        "end": 1188,
+        "string": "report"
+      },
+      {
+        "start": 1188,
+        "end": 1189,
+        "string": " "
+      },
+      {
+        "start": 1189,
+        "end": 1191,
+        "string": ","
+      },
+      {
+        "start": 1191,
+        "end": 1192,
+        "string": " "
+      },
+      {
+        "start": 1192,
+        "end": 1198,
+        "string": "which"
+      },
+      {
+        "start": 1198,
+        "end": 1199,
+        "string": " "
+      },
+      {
+        "start": 1199,
+        "end": 1205,
+        "string": "means"
+      },
+      {
+        "start": 1205,
+        "end": 1206,
+        "string": " "
+      },
+      {
+        "start": 1206,
+        "end": 1210,
+        "string": "the"
+      },
+      {
+        "start": 1210,
+        "end": 1211,
+        "string": " "
+      },
+      {
+        "start": 1211,
+        "end": 1218,
+        "string": "victim"
+      },
+      {
+        "start": 1218,
+        "end": 1219,
+        "string": " "
+      },
+      {
+        "start": 1219,
+        "end": 1229,
+        "string": "preferred"
+      },
+      {
+        "start": 1229,
+        "end": 1230,
+        "string": " "
+      },
+      {
+        "start": 1230,
+        "end": 1233,
+        "string": "to"
+      },
+      {
+        "start": 1233,
+        "end": 1234,
+        "string": " "
+      },
+      {
+        "start": 1234,
+        "end": 1239,
+        "string": "have"
+      },
+      {
+        "start": 1239,
+        "end": 1240,
+        "string": " "
+      },
+      {
+        "start": 1240,
+        "end": 1242,
+        "string": "\""
+      },
+      {
+        "start": 1242,
+        "end": 1243,
+        "string": " "
+      },
+      {
+        "start": 1243,
+        "end": 1246,
+        "string": "No"
+      },
+      {
+        "start": 1246,
+        "end": 1247,
+        "string": " "
+      },
+      {
+        "start": 1247,
+        "end": 1255,
+        "string": "Further"
+      },
+      {
+        "start": 1255,
+        "end": 1256,
+        "string": " "
+      },
+      {
+        "start": 1256,
+        "end": 1263,
+        "string": "Action"
+      },
+      {
+        "start": 1263,
+        "end": 1264,
+        "string": " "
+      },
+      {
+        "start": 1264,
+        "end": 1266,
+        "string": "\""
+      },
+      {
+        "start": 1266,
+        "end": 1267,
+        "string": " "
+      },
+      {
+        "start": 1267,
+        "end": 1270,
+        "string": "in"
+      },
+      {
+        "start": 1270,
+        "end": 1271,
+        "string": " "
+      },
+      {
+        "start": 1271,
+        "end": 1275,
+        "string": "the"
+      },
+      {
+        "start": 1275,
+        "end": 1276,
+        "string": " "
+      },
+      {
+        "start": 1276,
+        "end": 1281,
+        "string": "case"
+      },
+      {
+        "start": 1281,
+        "end": 1282,
+        "string": " "
+      },
+      {
+        "start": 1282,
+        "end": 1284,
+        "string": ","
+      },
+      {
+        "start": 1284,
+        "end": 1285,
+        "string": " "
+      },
+      {
+        "start": 1285,
+        "end": 1288,
+        "string": "he"
+      },
+      {
+        "start": 1288,
+        "end": 1289,
+        "string": " "
+      },
+      {
+        "start": 1289,
+        "end": 1294,
+        "string": "said"
+      },
+      {
+        "start": 1294,
+        "end": 1295,
+        "string": " "
+      },
+      {
+        "start": 1295,
+        "end": 1297,
+        "string": "."
+      },
+      {
+        "start": 1297,
+        "end": 1298,
+        "string": " "
+      },
+      {
+        "start": 1298,
+        "end": 1302,
+        "string": "The"
+      },
+      {
+        "start": 1302,
+        "end": 1303,
+        "string": " "
+      },
+      {
+        "start": 1303,
+        "end": 1308,
+        "string": "next"
+      },
+      {
+        "start": 1308,
+        "end": 1309,
+        "string": " "
+      },
+      {
+        "start": 1309,
+        "end": 1317,
+        "string": "highest"
+      },
+      {
+        "start": 1317,
+        "end": 1318,
+        "string": " "
+      },
+      {
+        "start": 1318,
+        "end": 1327,
+        "string": "category"
+      },
+      {
+        "start": 1327,
+        "end": 1328,
+        "string": " "
+      },
+      {
+        "start": 1328,
+        "end": 1332,
+        "string": "was"
+      },
+      {
+        "start": 1332,
+        "end": 1333,
+        "string": " "
+      },
+      {
+        "start": 1333,
+        "end": 1338,
+        "string": "home"
+      },
+      {
+        "start": 1338,
+        "end": 1339,
+        "string": " "
+      },
+      {
+        "start": 1339,
+        "end": 1349,
+        "string": "invasions"
+      },
+      {
+        "start": 1349,
+        "end": 1350,
+        "string": " "
+      },
+      {
+        "start": 1350,
+        "end": 1353,
+        "string": "--"
+      },
+      {
+        "start": 1353,
+        "end": 1354,
+        "string": " "
+      },
+      {
+        "start": 1354,
+        "end": 1360,
+        "string": "there"
+      },
+      {
+        "start": 1360,
+        "end": 1361,
+        "string": " "
+      },
+      {
+        "start": 1361,
+        "end": 1366,
+        "string": "were"
+      },
+      {
+        "start": 1366,
+        "end": 1367,
+        "string": " "
+      },
+      {
+        "start": 1367,
+        "end": 1373,
+        "string": "seven"
+      },
+      {
+        "start": 1373,
+        "end": 1374,
+        "string": " "
+      },
+      {
+        "start": 1374,
+        "end": 1378,
+        "string": "for"
+      },
+      {
+        "start": 1378,
+        "end": 1379,
+        "string": " "
+      },
+      {
+        "start": 1379,
+        "end": 1383,
+        "string": "the"
+      },
+      {
+        "start": 1383,
+        "end": 1384,
+        "string": " "
+      },
+      {
+        "start": 1384,
+        "end": 1389,
+        "string": "time"
+      },
+      {
+        "start": 1389,
+        "end": 1390,
+        "string": " "
+      },
+      {
+        "start": 1390,
+        "end": 1397,
+        "string": "period"
+      },
+      {
+        "start": 1397,
+        "end": 1398,
+        "string": " "
+      },
+      {
+        "start": 1398,
+        "end": 1400,
+        "string": ","
+      },
+      {
+        "start": 1400,
+        "end": 1401,
+        "string": " "
+      },
+      {
+        "start": 1401,
+        "end": 1404,
+        "string": "he"
+      },
+      {
+        "start": 1404,
+        "end": 1405,
+        "string": " "
+      },
+      {
+        "start": 1405,
+        "end": 1410,
+        "string": "said"
+      },
+      {
+        "start": 1410,
+        "end": 1411,
+        "string": " "
+      },
+      {
+        "start": 1411,
+        "end": 1413,
+        "string": "."
+      },
+      {
+        "start": 1413,
+        "end": 1414,
+        "string": " "
+      },
+      {
+        "start": 1414,
+        "end": 1417,
+        "string": "At"
+      },
+      {
+        "start": 1417,
+        "end": 1418,
+        "string": " "
+      },
+      {
+        "start": 1418,
+        "end": 1424,
+        "string": "least"
+      },
+      {
+        "start": 1424,
+        "end": 1425,
+        "string": " "
+      },
+      {
+        "start": 1425,
+        "end": 1429,
+        "string": "two"
+      },
+      {
+        "start": 1429,
+        "end": 1430,
+        "string": " "
+      },
+      {
+        "start": 1430,
+        "end": 1433,
+        "string": "of"
+      },
+      {
+        "start": 1433,
+        "end": 1434,
+        "string": " "
+      },
+      {
+        "start": 1434,
+        "end": 1440,
+        "string": "those"
+      },
+      {
+        "start": 1440,
+        "end": 1441,
+        "string": " "
+      },
+      {
+        "start": 1441,
+        "end": 1446,
+        "string": "were"
+      },
+      {
+        "start": 1446,
+        "end": 1447,
+        "string": " "
+      },
+      {
+        "start": 1447,
+        "end": 1452,
+        "string": "drug"
+      },
+      {
+        "start": 1452,
+        "end": 1453,
+        "string": " "
+      },
+      {
+        "start": 1453,
+        "end": 1461,
+        "string": "related"
+      },
+      {
+        "start": 1461,
+        "end": 1462,
+        "string": " "
+      },
+      {
+        "start": 1462,
+        "end": 1464,
+        "string": "."
+      },
+      {
+        "start": 1464,
+        "end": 1465,
+        "string": " "
+      },
+      {
+        "start": 1465,
+        "end": 1469,
+        "string": "The"
+      },
+      {
+        "start": 1469,
+        "end": 1470,
+        "string": " "
+      },
+      {
+        "start": 1470,
+        "end": 1475,
+        "string": "city"
+      },
+      {
+        "start": 1475,
+        "end": 1476,
+        "string": " "
+      },
+      {
+        "start": 1476,
+        "end": 1478,
+        "string": ","
+      },
+      {
+        "start": 1478,
+        "end": 1479,
+        "string": " "
+      },
+      {
+        "start": 1479,
+        "end": 1485,
+        "string": "which"
+      },
+      {
+        "start": 1485,
+        "end": 1486,
+        "string": " "
+      },
+      {
+        "start": 1486,
+        "end": 1492,
+        "string": "often"
+      },
+      {
+        "start": 1492,
+        "end": 1493,
+        "string": " "
+      },
+      {
+        "start": 1493,
+        "end": 1499,
+        "string": "makes"
+      },
+      {
+        "start": 1499,
+        "end": 1500,
+        "string": " "
+      },
+      {
+        "start": 1500,
+        "end": 1504,
+        "string": "the"
+      },
+      {
+        "start": 1504,
+        "end": 1505,
+        "string": " "
+      },
+      {
+        "start": 1505,
+        "end": 1507,
+        "string": "\""
+      },
+      {
+        "start": 1507,
+        "end": 1508,
+        "string": " "
+      },
+      {
+        "start": 1508,
+        "end": 1515,
+        "string": "safest"
+      },
+      {
+        "start": 1515,
+        "end": 1516,
+        "string": " "
+      },
+      {
+        "start": 1516,
+        "end": 1523,
+        "string": "cities"
+      },
+      {
+        "start": 1523,
+        "end": 1524,
+        "string": " "
+      },
+      {
+        "start": 1524,
+        "end": 1526,
+        "string": "\""
+      },
+      {
+        "start": 1526,
+        "end": 1527,
+        "string": " "
+      },
+      {
+        "start": 1527,
+        "end": 1533,
+        "string": "lists"
+      },
+      {
+        "start": 1533,
+        "end": 1534,
+        "string": " "
+      },
+      {
+        "start": 1534,
+        "end": 1538,
+        "string": "put"
+      },
+      {
+        "start": 1538,
+        "end": 1539,
+        "string": " "
+      },
+      {
+        "start": 1539,
+        "end": 1543,
+        "string": "out"
+      },
+      {
+        "start": 1543,
+        "end": 1544,
+        "string": " "
+      },
+      {
+        "start": 1544,
+        "end": 1547,
+        "string": "by"
+      },
+      {
+        "start": 1547,
+        "end": 1548,
+        "string": " "
+      },
+      {
+        "start": 1548,
+        "end": 1556,
+        "string": "various"
+      },
+      {
+        "start": 1556,
+        "end": 1557,
+        "string": " "
+      },
+      {
+        "start": 1557,
+        "end": 1571,
+        "string": "organizations"
+      },
+      {
+        "start": 1571,
+        "end": 1572,
+        "string": " "
+      },
+      {
+        "start": 1572,
+        "end": 1574,
+        "string": ","
+      },
+      {
+        "start": 1574,
+        "end": 1575,
+        "string": " "
+      },
+      {
+        "start": 1575,
+        "end": 1579,
+        "string": "has"
+      },
+      {
+        "start": 1579,
+        "end": 1580,
+        "string": " "
+      },
+      {
+        "start": 1580,
+        "end": 1585,
+        "string": "been"
+      },
+      {
+        "start": 1585,
+        "end": 1586,
+        "string": " "
+      },
+      {
+        "start": 1586,
+        "end": 1596,
+        "string": "proactive"
+      },
+      {
+        "start": 1596,
+        "end": 1597,
+        "string": " "
+      },
+      {
+        "start": 1597,
+        "end": 1602,
+        "string": "with"
+      },
+      {
+        "start": 1602,
+        "end": 1603,
+        "string": " "
+      },
+      {
+        "start": 1603,
+        "end": 1607,
+        "string": "its"
+      },
+      {
+        "start": 1607,
+        "end": 1608,
+        "string": " "
+      },
+      {
+        "start": 1608,
+        "end": 1614,
+        "string": "crime"
+      },
+      {
+        "start": 1614,
+        "end": 1615,
+        "string": " "
+      },
+      {
+        "start": 1615,
+        "end": 1626,
+        "string": "prevention"
+      },
+      {
+        "start": 1626,
+        "end": 1627,
+        "string": " "
+      },
+      {
+        "start": 1627,
+        "end": 1635,
+        "string": "efforts"
+      },
+      {
+        "start": 1635,
+        "end": 1636,
+        "string": " "
+      },
+      {
+        "start": 1636,
+        "end": 1638,
+        "string": "."
+      },
+      {
+        "start": 1638,
+        "end": 1639,
+        "string": " "
+      },
+      {
+        "start": 1639,
+        "end": 1643,
+        "string": "For"
+      },
+      {
+        "start": 1643,
+        "end": 1644,
+        "string": " "
+      },
+      {
+        "start": 1644,
+        "end": 1652,
+        "string": "example"
+      },
+      {
+        "start": 1652,
+        "end": 1653,
+        "string": " "
+      },
+      {
+        "start": 1653,
+        "end": 1655,
+        "string": ","
+      },
+      {
+        "start": 1655,
+        "end": 1656,
+        "string": " "
+      },
+      {
+        "start": 1656,
+        "end": 1667,
+        "string": "partnering"
+      },
+      {
+        "start": 1667,
+        "end": 1668,
+        "string": " "
+      },
+      {
+        "start": 1668,
+        "end": 1673,
+        "string": "with"
+      },
+      {
+        "start": 1673,
+        "end": 1674,
+        "string": " "
+      },
+      {
+        "start": 1674,
+        "end": 1679,
+        "string": "Ring"
+      },
+      {
+        "start": 1679,
+        "end": 1680,
+        "string": " "
+      },
+      {
+        "start": 1680,
+        "end": 1682,
+        "string": ","
+      },
+      {
+        "start": 1682,
+        "end": 1683,
+        "string": " "
+      },
+      {
+        "start": 1683,
+        "end": 1685,
+        "string": "a"
+      },
+      {
+        "start": 1685,
+        "end": 1686,
+        "string": " "
+      },
+      {
+        "start": 1686,
+        "end": 1691,
+        "string": "home"
+      },
+      {
+        "start": 1691,
+        "end": 1692,
+        "string": " "
+      },
+      {
+        "start": 1692,
+        "end": 1701,
+        "string": "security"
+      },
+      {
+        "start": 1701,
+        "end": 1702,
+        "string": " "
+      },
+      {
+        "start": 1702,
+        "end": 1713,
+        "string": "technology"
+      },
+      {
+        "start": 1713,
+        "end": 1714,
+        "string": " "
+      },
+      {
+        "start": 1714,
+        "end": 1723,
+        "string": "business"
+      },
+      {
+        "start": 1723,
+        "end": 1724,
+        "string": " "
+      },
+      {
+        "start": 1724,
+        "end": 1729,
+        "string": "that"
+      },
+      {
+        "start": 1729,
+        "end": 1730,
+        "string": " "
+      },
+      {
+        "start": 1730,
+        "end": 1743,
+        "string": "incorporates"
+      },
+      {
+        "start": 1743,
+        "end": 1744,
+        "string": " "
+      },
+      {
+        "start": 1744,
+        "end": 1752,
+        "string": "outdoor"
+      },
+      {
+        "start": 1752,
+        "end": 1753,
+        "string": " "
+      },
+      {
+        "start": 1753,
+        "end": 1766,
+        "string": "motion-based"
+      },
+      {
+        "start": 1766,
+        "end": 1767,
+        "string": " "
+      },
+      {
+        "start": 1767,
+        "end": 1775,
+        "string": "cameras"
+      },
+      {
+        "start": 1775,
+        "end": 1776,
+        "string": " "
+      },
+      {
+        "start": 1776,
+        "end": 1780,
+        "string": "and"
+      },
+      {
+        "start": 1780,
+        "end": 1781,
+        "string": " "
+      },
+      {
+        "start": 1781,
+        "end": 1791,
+        "string": "doorbells"
+      },
+      {
+        "start": 1791,
+        "end": 1792,
+        "string": " "
+      },
+      {
+        "start": 1792,
+        "end": 1797,
+        "string": "into"
+      },
+      {
+        "start": 1797,
+        "end": 1798,
+        "string": " "
+      },
+      {
+        "start": 1798,
+        "end": 1804,
+        "string": "homes"
+      },
+      {
+        "start": 1804,
+        "end": 1805,
+        "string": " "
+      },
+      {
+        "start": 1805,
+        "end": 1807,
+        "string": ","
+      },
+      {
+        "start": 1807,
+        "end": 1808,
+        "string": " "
+      },
+      {
+        "start": 1808,
+        "end": 1812,
+        "string": "has"
+      },
+      {
+        "start": 1812,
+        "end": 1813,
+        "string": " "
+      },
+      {
+        "start": 1813,
+        "end": 1820,
+        "string": "helped"
+      },
+      {
+        "start": 1820,
+        "end": 1821,
+        "string": " "
+      },
+      {
+        "start": 1821,
+        "end": 1825,
+        "string": "the"
+      },
+      {
+        "start": 1825,
+        "end": 1826,
+        "string": " "
+      },
+      {
+        "start": 1826,
+        "end": 1837,
+        "string": "department"
+      },
+      {
+        "start": 1837,
+        "end": 1838,
+        "string": " "
+      },
+      {
+        "start": 1838,
+        "end": 1845,
+        "string": "reduce"
+      },
+      {
+        "start": 1845,
+        "end": 1846,
+        "string": " "
+      },
+      {
+        "start": 1846,
+        "end": 1850,
+        "string": "the"
+      },
+      {
+        "start": 1850,
+        "end": 1851,
+        "string": " "
+      },
+      {
+        "start": 1851,
+        "end": 1858,
+        "string": "number"
+      },
+      {
+        "start": 1858,
+        "end": 1859,
+        "string": " "
+      },
+      {
+        "start": 1859,
+        "end": 1862,
+        "string": "of"
+      },
+      {
+        "start": 1862,
+        "end": 1863,
+        "string": " "
+      },
+      {
+        "start": 1863,
+        "end": 1868,
+        "string": "home"
+      },
+      {
+        "start": 1868,
+        "end": 1869,
+        "string": " "
+      },
+      {
+        "start": 1869,
+        "end": 1880,
+        "string": "burglaries"
+      },
+      {
+        "start": 1880,
+        "end": 1881,
+        "string": " "
+      },
+      {
+        "start": 1881,
+        "end": 1883,
+        "string": "."
+      },
+      {
+        "start": 1883,
+        "end": 1884,
+        "string": " "
+      },
+      {
+        "start": 1884,
+        "end": 1886,
+        "string": "\""
+      },
+      {
+        "start": 1886,
+        "end": 1887,
+        "string": " "
+      },
+      {
+        "start": 1887,
+        "end": 1891,
+        "string": "One"
+      },
+      {
+        "start": 1891,
+        "end": 1892,
+        "string": " "
+      },
+      {
+        "start": 1892,
+        "end": 1896,
+        "string": "big"
+      },
+      {
+        "start": 1896,
+        "end": 1897,
+        "string": " "
+      },
+      {
+        "start": 1897,
+        "end": 1904,
+        "string": "aspect"
+      },
+      {
+        "start": 1904,
+        "end": 1905,
+        "string": " "
+      },
+      {
+        "start": 1905,
+        "end": 1910,
+        "string": "that"
+      },
+      {
+        "start": 1910,
+        "end": 1911,
+        "string": " "
+      },
+      {
+        "start": 1911,
+        "end": 1914,
+        "string": "we"
+      },
+      {
+        "start": 1914,
+        "end": 1915,
+        "string": " "
+      },
+      {
+        "start": 1915,
+        "end": 1920,
+        "string": "have"
+      },
+      {
+        "start": 1920,
+        "end": 1921,
+        "string": " "
+      },
+      {
+        "start": 1921,
+        "end": 1924,
+        "string": "in"
+      },
+      {
+        "start": 1924,
+        "end": 1925,
+        "string": " "
+      },
+      {
+        "start": 1925,
+        "end": 1929,
+        "string": "our"
+      },
+      {
+        "start": 1929,
+        "end": 1930,
+        "string": " "
+      },
+      {
+        "start": 1930,
+        "end": 1937,
+        "string": "agency"
+      },
+      {
+        "start": 1937,
+        "end": 1938,
+        "string": " "
+      },
+      {
+        "start": 1938,
+        "end": 1941,
+        "string": "is"
+      },
+      {
+        "start": 1941,
+        "end": 1942,
+        "string": " "
+      },
+      {
+        "start": 1942,
+        "end": 1947,
+        "string": "that"
+      },
+      {
+        "start": 1947,
+        "end": 1948,
+        "string": " "
+      },
+      {
+        "start": 1948,
+        "end": 1951,
+        "string": "we"
+      },
+      {
+        "start": 1951,
+        "end": 1952,
+        "string": " "
+      },
+      {
+        "start": 1952,
+        "end": 1957,
+        "string": "have"
+      },
+      {
+        "start": 1957,
+        "end": 1958,
+        "string": " "
+      },
+      {
+        "start": 1958,
+        "end": 1960,
+        "string": "a"
+      },
+      {
+        "start": 1960,
+        "end": 1961,
+        "string": " "
+      },
+      {
+        "start": 1961,
+        "end": 1966,
+        "string": "huge"
+      },
+      {
+        "start": 1966,
+        "end": 1967,
+        "string": " "
+      },
+      {
+        "start": 1967,
+        "end": 1979,
+        "string": "partnership"
+      },
+      {
+        "start": 1979,
+        "end": 1980,
+        "string": " "
+      },
+      {
+        "start": 1980,
+        "end": 1985,
+        "string": "with"
+      },
+      {
+        "start": 1985,
+        "end": 1986,
+        "string": " "
+      },
+      {
+        "start": 1986,
+        "end": 1990,
+        "string": "our"
+      },
+      {
+        "start": 1990,
+        "end": 1991,
+        "string": " "
+      },
+      {
+        "start": 1991,
+        "end": 2001,
+        "string": "community"
+      },
+      {
+        "start": 2001,
+        "end": 2002,
+        "string": " "
+      },
+      {
+        "start": 2002,
+        "end": 2004,
+        "string": ","
+      },
+      {
+        "start": 2004,
+        "end": 2005,
+        "string": " "
+      },
+      {
+        "start": 2005,
+        "end": 2007,
+        "string": "\""
+      },
+      {
+        "start": 2007,
+        "end": 2008,
+        "string": " "
+      },
+      {
+        "start": 2008,
+        "end": 2011,
+        "string": "he"
+      },
+      {
+        "start": 2011,
+        "end": 2012,
+        "string": " "
+      },
+      {
+        "start": 2012,
+        "end": 2017,
+        "string": "said"
+      },
+      {
+        "start": 2017,
+        "end": 2018,
+        "string": " "
+      },
+      {
+        "start": 2018,
+        "end": 2020,
+        "string": "."
+      },
+      {
+        "start": 2020,
+        "end": 2021,
+        "string": " "
+      },
+      {
+        "start": 2021,
+        "end": 2023,
+        "string": "\""
+      },
+      {
+        "start": 2023,
+        "end": 2024,
+        "string": " "
+      },
+      {
+        "start": 2024,
+        "end": 2027,
+        "string": "We"
+      },
+      {
+        "start": 2027,
+        "end": 2028,
+        "string": " "
+      },
+      {
+        "start": 2028,
+        "end": 2038,
+        "string": "partnered"
+      },
+      {
+        "start": 2038,
+        "end": 2039,
+        "string": " "
+      },
+      {
+        "start": 2039,
+        "end": 2044,
+        "string": "with"
+      },
+      {
+        "start": 2044,
+        "end": 2045,
+        "string": " "
+      },
+      {
+        "start": 2045,
+        "end": 2050,
+        "string": "Ring"
+      },
+      {
+        "start": 2050,
+        "end": 2051,
+        "string": " "
+      },
+      {
+        "start": 2051,
+        "end": 2057,
+        "string": "which"
+      },
+      {
+        "start": 2057,
+        "end": 2058,
+        "string": " "
+      },
+      {
+        "start": 2058,
+        "end": 2062,
+        "string": "has"
+      },
+      {
+        "start": 2062,
+        "end": 2063,
+        "string": " "
+      },
+      {
+        "start": 2063,
+        "end": 2072,
+        "string": "assisted"
+      },
+      {
+        "start": 2072,
+        "end": 2073,
+        "string": " "
+      },
+      {
+        "start": 2073,
+        "end": 2078,
+        "string": "both"
+      },
+      {
+        "start": 2078,
+        "end": 2079,
+        "string": " "
+      },
+      {
+        "start": 2079,
+        "end": 2082,
+        "string": "in"
+      },
+      {
+        "start": 2082,
+        "end": 2083,
+        "string": " "
+      },
+      {
+        "start": 2083,
+        "end": 2093,
+        "string": "deterring"
+      },
+      {
+        "start": 2093,
+        "end": 2094,
+        "string": " "
+      },
+      {
+        "start": 2094,
+        "end": 2100,
+        "string": "crime"
+      },
+      {
+        "start": 2100,
+        "end": 2101,
+        "string": " "
+      },
+      {
+        "start": 2101,
+        "end": 2105,
+        "string": "and"
+      },
+      {
+        "start": 2105,
+        "end": 2106,
+        "string": " "
+      },
+      {
+        "start": 2106,
+        "end": 2111,
+        "string": "also"
+      },
+      {
+        "start": 2111,
+        "end": 2112,
+        "string": " "
+      },
+      {
+        "start": 2112,
+        "end": 2121,
+        "string": "catching"
+      },
+      {
+        "start": 2121,
+        "end": 2122,
+        "string": " "
+      },
+      {
+        "start": 2122,
+        "end": 2132,
+        "string": "offenders"
+      },
+      {
+        "start": 2132,
+        "end": 2133,
+        "string": " "
+      },
+      {
+        "start": 2133,
+        "end": 2135,
+        "string": "."
+      },
+      {
+        "start": 2135,
+        "end": 2136,
+        "string": " "
+      },
+      {
+        "start": 2136,
+        "end": 2138,
+        "string": "\""
+      },
+      {
+        "start": 2138,
+        "end": 2139,
+        "string": " "
+      },
+      {
+        "start": 2139,
+        "end": 2148,
+        "string": "Property"
+      },
+      {
+        "start": 2148,
+        "end": 2149,
+        "string": " "
+      },
+      {
+        "start": 2149,
+        "end": 2156,
+        "string": "crimes"
+      },
+      {
+        "start": 2156,
+        "end": 2157,
+        "string": " "
+      },
+      {
+        "start": 2157,
+        "end": 2165,
+        "string": "dropped"
+      },
+      {
+        "start": 2165,
+        "end": 2166,
+        "string": " "
+      },
+      {
+        "start": 2166,
+        "end": 2171,
+        "string": "from"
+      },
+      {
+        "start": 2171,
+        "end": 2172,
+        "string": " "
+      },
+      {
+        "start": 2172,
+        "end": 2178,
+        "string": "1,488"
+      },
+      {
+        "start": 2178,
+        "end": 2179,
+        "string": " "
+      },
+      {
+        "start": 2179,
+        "end": 2182,
+        "string": "in"
+      },
+      {
+        "start": 2182,
+        "end": 2183,
+        "string": " "
+      },
+      {
+        "start": 2183,
+        "end": 2187,
+        "string": "the"
+      },
+      {
+        "start": 2187,
+        "end": 2188,
+        "string": " "
+      },
+      {
+        "start": 2188,
+        "end": 2194,
+        "string": "first"
+      },
+      {
+        "start": 2194,
+        "end": 2195,
+        "string": " "
+      },
+      {
+        "start": 2195,
+        "end": 2200,
+        "string": "half"
+      },
+      {
+        "start": 2200,
+        "end": 2201,
+        "string": " "
+      },
+      {
+        "start": 2201,
+        "end": 2204,
+        "string": "of"
+      },
+      {
+        "start": 2204,
+        "end": 2205,
+        "string": " "
+      },
+      {
+        "start": 2205,
+        "end": 2210,
+        "string": "2017"
+      },
+      {
+        "start": 2210,
+        "end": 2211,
+        "string": " "
+      },
+      {
+        "start": 2211,
+        "end": 2214,
+        "string": "to"
+      },
+      {
+        "start": 2214,
+        "end": 2215,
+        "string": " "
+      },
+      {
+        "start": 2215,
+        "end": 2221,
+        "string": "1,369"
+      },
+      {
+        "start": 2221,
+        "end": 2222,
+        "string": " "
+      },
+      {
+        "start": 2222,
+        "end": 2225,
+        "string": "in"
+      },
+      {
+        "start": 2225,
+        "end": 2226,
+        "string": " "
+      },
+      {
+        "start": 2226,
+        "end": 2230,
+        "string": "the"
+      },
+      {
+        "start": 2230,
+        "end": 2231,
+        "string": " "
+      },
+      {
+        "start": 2231,
+        "end": 2237,
+        "string": "first"
+      },
+      {
+        "start": 2237,
+        "end": 2238,
+        "string": " "
+      },
+      {
+        "start": 2238,
+        "end": 2243,
+        "string": "half"
+      },
+      {
+        "start": 2243,
+        "end": 2244,
+        "string": " "
+      },
+      {
+        "start": 2244,
+        "end": 2247,
+        "string": "of"
+      },
+      {
+        "start": 2247,
+        "end": 2248,
+        "string": " "
+      },
+      {
+        "start": 2248,
+        "end": 2253,
+        "string": "2018"
+      },
+      {
+        "start": 2253,
+        "end": 2254,
+        "string": " "
+      },
+      {
+        "start": 2254,
+        "end": 2256,
+        "string": "."
+      },
+      {
+        "start": 2256,
+        "end": 2257,
+        "string": " "
+      },
+      {
+        "start": 2257,
+        "end": 2268,
+        "string": "Burglaries"
+      },
+      {
+        "start": 2268,
+        "end": 2269,
+        "string": " "
+      },
+      {
+        "start": 2269,
+        "end": 2273,
+        "string": "saw"
+      },
+      {
+        "start": 2273,
+        "end": 2274,
+        "string": " "
+      },
+      {
+        "start": 2274,
+        "end": 2278,
+        "string": "the"
+      },
+      {
+        "start": 2278,
+        "end": 2279,
+        "string": " "
+      },
+      {
+        "start": 2279,
+        "end": 2287,
+        "string": "biggest"
+      },
+      {
+        "start": 2287,
+        "end": 2288,
+        "string": " "
+      },
+      {
+        "start": 2288,
+        "end": 2296,
+        "string": "decline"
+      },
+      {
+        "start": 2296,
+        "end": 2297,
+        "string": " "
+      },
+      {
+        "start": 2297,
+        "end": 2299,
+        "string": ","
+      },
+      {
+        "start": 2299,
+        "end": 2300,
+        "string": " "
+      },
+      {
+        "start": 2300,
+        "end": 2305,
+        "string": "from"
+      },
+      {
+        "start": 2305,
+        "end": 2306,
+        "string": " "
+      },
+      {
+        "start": 2306,
+        "end": 2310,
+        "string": "290"
+      },
+      {
+        "start": 2310,
+        "end": 2311,
+        "string": " "
+      },
+      {
+        "start": 2311,
+        "end": 2314,
+        "string": "in"
+      },
+      {
+        "start": 2314,
+        "end": 2315,
+        "string": " "
+      },
+      {
+        "start": 2315,
+        "end": 2319,
+        "string": "the"
+      },
+      {
+        "start": 2319,
+        "end": 2320,
+        "string": " "
+      },
+      {
+        "start": 2320,
+        "end": 2326,
+        "string": "first"
+      },
+      {
+        "start": 2326,
+        "end": 2327,
+        "string": " "
+      },
+      {
+        "start": 2327,
+        "end": 2332,
+        "string": "half"
+      },
+      {
+        "start": 2332,
+        "end": 2333,
+        "string": " "
+      },
+      {
+        "start": 2333,
+        "end": 2336,
+        "string": "of"
+      },
+      {
+        "start": 2336,
+        "end": 2337,
+        "string": " "
+      },
+      {
+        "start": 2337,
+        "end": 2342,
+        "string": "2017"
+      },
+      {
+        "start": 2342,
+        "end": 2343,
+        "string": " "
+      },
+      {
+        "start": 2343,
+        "end": 2346,
+        "string": "to"
+      },
+      {
+        "start": 2346,
+        "end": 2347,
+        "string": " "
+      },
+      {
+        "start": 2347,
+        "end": 2351,
+        "string": "202"
+      },
+      {
+        "start": 2351,
+        "end": 2352,
+        "string": " "
+      },
+      {
+        "start": 2352,
+        "end": 2355,
+        "string": "in"
+      },
+      {
+        "start": 2355,
+        "end": 2356,
+        "string": " "
+      },
+      {
+        "start": 2356,
+        "end": 2360,
+        "string": "the"
+      },
+      {
+        "start": 2360,
+        "end": 2361,
+        "string": " "
+      },
+      {
+        "start": 2361,
+        "end": 2367,
+        "string": "first"
+      },
+      {
+        "start": 2367,
+        "end": 2368,
+        "string": " "
+      },
+      {
+        "start": 2368,
+        "end": 2373,
+        "string": "half"
+      },
+      {
+        "start": 2373,
+        "end": 2374,
+        "string": " "
+      },
+      {
+        "start": 2374,
+        "end": 2377,
+        "string": "of"
+      },
+      {
+        "start": 2377,
+        "end": 2378,
+        "string": " "
+      },
+      {
+        "start": 2378,
+        "end": 2383,
+        "string": "2018"
+      },
+      {
+        "start": 2383,
+        "end": 2384,
+        "string": " "
+      },
+      {
+        "start": 2384,
+        "end": 2386,
+        "string": "."
+      },
+      {
+        "start": 2386,
+        "end": 2387,
+        "string": " "
+      },
+      {
+        "start": 2387,
+        "end": 2393,
+        "string": "Motor"
+      },
+      {
+        "start": 2393,
+        "end": 2394,
+        "string": " "
+      },
+      {
+        "start": 2394,
+        "end": 2402,
+        "string": "vehicle"
+      },
+      {
+        "start": 2402,
+        "end": 2403,
+        "string": " "
+      },
+      {
+        "start": 2403,
+        "end": 2410,
+        "string": "thefts"
+      },
+      {
+        "start": 2410,
+        "end": 2411,
+        "string": " "
+      },
+      {
+        "start": 2411,
+        "end": 2421,
+        "string": "increased"
+      },
+      {
+        "start": 2421,
+        "end": 2422,
+        "string": " "
+      },
+      {
+        "start": 2422,
+        "end": 2427,
+        "string": "from"
+      },
+      {
+        "start": 2427,
+        "end": 2428,
+        "string": " "
+      },
+      {
+        "start": 2428,
+        "end": 2431,
+        "string": "72"
+      },
+      {
+        "start": 2431,
+        "end": 2432,
+        "string": " "
+      },
+      {
+        "start": 2432,
+        "end": 2435,
+        "string": "in"
+      },
+      {
+        "start": 2435,
+        "end": 2436,
+        "string": " "
+      },
+      {
+        "start": 2436,
+        "end": 2440,
+        "string": "the"
+      },
+      {
+        "start": 2440,
+        "end": 2441,
+        "string": " "
+      },
+      {
+        "start": 2441,
+        "end": 2447,
+        "string": "first"
+      },
+      {
+        "start": 2447,
+        "end": 2448,
+        "string": " "
+      },
+      {
+        "start": 2448,
+        "end": 2453,
+        "string": "half"
+      },
+      {
+        "start": 2453,
+        "end": 2454,
+        "string": " "
+      },
+      {
+        "start": 2454,
+        "end": 2457,
+        "string": "of"
+      },
+      {
+        "start": 2457,
+        "end": 2458,
+        "string": " "
+      },
+      {
+        "start": 2458,
+        "end": 2463,
+        "string": "2017"
+      },
+      {
+        "start": 2463,
+        "end": 2464,
+        "string": " "
+      },
+      {
+        "start": 2464,
+        "end": 2467,
+        "string": "to"
+      },
+      {
+        "start": 2467,
+        "end": 2468,
+        "string": " "
+      },
+      {
+        "start": 2468,
+        "end": 2471,
+        "string": "83"
+      },
+      {
+        "start": 2471,
+        "end": 2472,
+        "string": " "
+      },
+      {
+        "start": 2472,
+        "end": 2475,
+        "string": "in"
+      },
+      {
+        "start": 2475,
+        "end": 2476,
+        "string": " "
+      },
+      {
+        "start": 2476,
+        "end": 2480,
+        "string": "the"
+      },
+      {
+        "start": 2480,
+        "end": 2481,
+        "string": " "
+      },
+      {
+        "start": 2481,
+        "end": 2487,
+        "string": "first"
+      },
+      {
+        "start": 2487,
+        "end": 2488,
+        "string": " "
+      },
+      {
+        "start": 2488,
+        "end": 2493,
+        "string": "half"
+      },
+      {
+        "start": 2493,
+        "end": 2494,
+        "string": " "
+      },
+      {
+        "start": 2494,
+        "end": 2497,
+        "string": "of"
+      },
+      {
+        "start": 2497,
+        "end": 2498,
+        "string": " "
+      },
+      {
+        "start": 2498,
+        "end": 2503,
+        "string": "2018"
+      },
+      {
+        "start": 2503,
+        "end": 2504,
+        "string": " "
+      },
+      {
+        "start": 2504,
+        "end": 2506,
+        "string": "."
+      },
+      {
+        "start": 2506,
+        "end": 2507,
+        "string": " "
+      },
+      {
+        "start": 2507,
+        "end": 2513,
+        "string": "Scott"
+      },
+      {
+        "start": 2513,
+        "end": 2514,
+        "string": " "
+      },
+      {
+        "start": 2514,
+        "end": 2521,
+        "string": "Melick"
+      },
+      {
+        "start": 2521,
+        "end": 2522,
+        "string": " "
+      },
+      {
+        "start": 2522,
+        "end": 2524,
+        "string": ","
+      },
+      {
+        "start": 2524,
+        "end": 2525,
+        "string": " "
+      },
+      {
+        "start": 2525,
+        "end": 2529,
+        "string": "who"
+      },
+      {
+        "start": 2529,
+        "end": 2530,
+        "string": " "
+      },
+      {
+        "start": 2530,
+        "end": 2535,
+        "string": "owns"
+      },
+      {
+        "start": 2535,
+        "end": 2536,
+        "string": " "
+      },
+      {
+        "start": 2536,
+        "end": 2543,
+        "string": "Scotty"
+      },
+      {
+        "start": 2543,
+        "end": 2544,
+        "string": " "
+      },
+      {
+        "start": 2544,
+        "end": 2547,
+        "string": "'s"
+      },
+      {
+        "start": 2547,
+        "end": 2548,
+        "string": " "
+      },
+      {
+        "start": 2548,
+        "end": 2558,
+        "string": "Bierwerks"
+      },
+      {
+        "start": 2558,
+        "end": 2559,
+        "string": " "
+      },
+      {
+        "start": 2559,
+        "end": 2562,
+        "string": "at"
+      },
+      {
+        "start": 2562,
+        "end": 2563,
+        "string": " "
+      },
+      {
+        "start": 2563,
+        "end": 2567,
+        "string": "901"
+      },
+      {
+        "start": 2567,
+        "end": 2568,
+        "string": " "
+      },
+      {
+        "start": 2568,
+        "end": 2573,
+        "string": "East"
+      },
+      {
+        "start": 2573,
+        "end": 2574,
+        "string": " "
+      },
+      {
+        "start": 2574,
+        "end": 2585,
+        "string": "Industrial"
+      },
+      {
+        "start": 2585,
+        "end": 2586,
+        "string": " "
+      },
+      {
+        "start": 2586,
+        "end": 2593,
+        "string": "Circle"
+      },
+      {
+        "start": 2593,
+        "end": 2594,
+        "string": " "
+      },
+      {
+        "start": 2594,
+        "end": 2597,
+        "string": "in"
+      },
+      {
+        "start": 2597,
+        "end": 2598,
+        "string": " "
+      },
+      {
+        "start": 2598,
+        "end": 2603,
+        "string": "Cape"
+      },
+      {
+        "start": 2603,
+        "end": 2604,
+        "string": " "
+      },
+      {
+        "start": 2604,
+        "end": 2610,
+        "string": "Coral"
+      },
+      {
+        "start": 2610,
+        "end": 2611,
+        "string": " "
+      },
+      {
+        "start": 2611,
+        "end": 2613,
+        "string": ","
+      },
+      {
+        "start": 2613,
+        "end": 2614,
+        "string": " "
+      },
+      {
+        "start": 2614,
+        "end": 2619,
+        "string": "said"
+      },
+      {
+        "start": 2619,
+        "end": 2620,
+        "string": " "
+      },
+      {
+        "start": 2620,
+        "end": 2623,
+        "string": "he"
+      },
+      {
+        "start": 2623,
+        "end": 2624,
+        "string": " "
+      },
+      {
+        "start": 2624,
+        "end": 2630,
+        "string": "feels"
+      },
+      {
+        "start": 2630,
+        "end": 2631,
+        "string": " "
+      },
+      {
+        "start": 2631,
+        "end": 2633,
+        "string": "\""
+      },
+      {
+        "start": 2633,
+        "end": 2634,
+        "string": " "
+      },
+      {
+        "start": 2634,
+        "end": 2641,
+        "string": "fairly"
+      },
+      {
+        "start": 2641,
+        "end": 2642,
+        "string": " "
+      },
+      {
+        "start": 2642,
+        "end": 2647,
+        "string": "safe"
+      },
+      {
+        "start": 2647,
+        "end": 2648,
+        "string": " "
+      },
+      {
+        "start": 2648,
+        "end": 2650,
+        "string": "\""
+      },
+      {
+        "start": 2650,
+        "end": 2651,
+        "string": " "
+      },
+      {
+        "start": 2651,
+        "end": 2654,
+        "string": "as"
+      },
+      {
+        "start": 2654,
+        "end": 2655,
+        "string": " "
+      },
+      {
+        "start": 2655,
+        "end": 2657,
+        "string": "a"
+      },
+      {
+        "start": 2657,
+        "end": 2658,
+        "string": " "
+      },
+      {
+        "start": 2658,
+        "end": 2667,
+        "string": "business"
+      },
+      {
+        "start": 2667,
+        "end": 2668,
+        "string": " "
+      },
+      {
+        "start": 2668,
+        "end": 2674,
+        "string": "owner"
+      },
+      {
+        "start": 2674,
+        "end": 2675,
+        "string": " "
+      },
+      {
+        "start": 2675,
+        "end": 2678,
+        "string": "in"
+      },
+      {
+        "start": 2678,
+        "end": 2679,
+        "string": " "
+      },
+      {
+        "start": 2679,
+        "end": 2683,
+        "string": "the"
+      },
+      {
+        "start": 2683,
+        "end": 2684,
+        "string": " "
+      },
+      {
+        "start": 2684,
+        "end": 2689,
+        "string": "city"
+      },
+      {
+        "start": 2689,
+        "end": 2690,
+        "string": " "
+      },
+      {
+        "start": 2690,
+        "end": 2692,
+        "string": "."
+      },
+      {
+        "start": 2692,
+        "end": 2693,
+        "string": " "
+      },
+      {
+        "start": 2693,
+        "end": 2695,
+        "string": "\""
+      },
+      {
+        "start": 2695,
+        "end": 2696,
+        "string": " "
+      },
+      {
+        "start": 2696,
+        "end": 2698,
+        "string": "I"
+      },
+      {
+        "start": 2698,
+        "end": 2699,
+        "string": " "
+      },
+      {
+        "start": 2699,
+        "end": 2704,
+        "string": "feel"
+      },
+      {
+        "start": 2704,
+        "end": 2705,
+        "string": " "
+      },
+      {
+        "start": 2705,
+        "end": 2710,
+        "string": "Cape"
+      },
+      {
+        "start": 2710,
+        "end": 2711,
+        "string": " "
+      },
+      {
+        "start": 2711,
+        "end": 2717,
+        "string": "Coral"
+      },
+      {
+        "start": 2717,
+        "end": 2718,
+        "string": " "
+      },
+      {
+        "start": 2718,
+        "end": 2721,
+        "string": "is"
+      },
+      {
+        "start": 2721,
+        "end": 2722,
+        "string": " "
+      },
+      {
+        "start": 2722,
+        "end": 2727,
+        "string": "safe"
+      },
+      {
+        "start": 2727,
+        "end": 2728,
+        "string": " "
+      },
+      {
+        "start": 2728,
+        "end": 2730,
+        "string": ","
+      },
+      {
+        "start": 2730,
+        "end": 2731,
+        "string": " "
+      },
+      {
+        "start": 2731,
+        "end": 2733,
+        "string": "\""
+      },
+      {
+        "start": 2733,
+        "end": 2734,
+        "string": " "
+      },
+      {
+        "start": 2734,
+        "end": 2737,
+        "string": "he"
+      },
+      {
+        "start": 2737,
+        "end": 2738,
+        "string": " "
+      },
+      {
+        "start": 2738,
+        "end": 2743,
+        "string": "said"
+      },
+      {
+        "start": 2743,
+        "end": 2744,
+        "string": " "
+      },
+      {
+        "start": 2744,
+        "end": 2746,
+        "string": "."
+      },
+      {
+        "start": 2746,
+        "end": 2747,
+        "string": " "
+      },
+      {
+        "start": 2747,
+        "end": 2749,
+        "string": "\""
+      },
+      {
+        "start": 2749,
+        "end": 2750,
+        "string": " "
+      },
+      {
+        "start": 2750,
+        "end": 2754,
+        "string": "You"
+      },
+      {
+        "start": 2754,
+        "end": 2755,
+        "string": " "
+      },
+      {
+        "start": 2755,
+        "end": 2758,
+        "string": "do"
+      },
+      {
+        "start": 2758,
+        "end": 2759,
+        "string": " "
+      },
+      {
+        "start": 2759,
+        "end": 2763,
+        "string": "see"
+      },
+      {
+        "start": 2763,
+        "end": 2764,
+        "string": " "
+      },
+      {
+        "start": 2764,
+        "end": 2769,
+        "string": "some"
+      },
+      {
+        "start": 2769,
+        "end": 2770,
+        "string": " "
+      },
+      {
+        "start": 2770,
+        "end": 2774,
+        "string": "car"
+      },
+      {
+        "start": 2774,
+        "end": 2775,
+        "string": " "
+      },
+      {
+        "start": 2775,
+        "end": 2785,
+        "string": "break-ins"
+      },
+      {
+        "start": 2785,
+        "end": 2786,
+        "string": " "
+      },
+      {
+        "start": 2786,
+        "end": 2788,
+        "string": ","
+      },
+      {
+        "start": 2788,
+        "end": 2789,
+        "string": " "
+      },
+      {
+        "start": 2789,
+        "end": 2793,
+        "string": "but"
+      },
+      {
+        "start": 2793,
+        "end": 2794,
+        "string": " "
+      },
+      {
+        "start": 2794,
+        "end": 2796,
+        "string": "I"
+      },
+      {
+        "start": 2796,
+        "end": 2797,
+        "string": " "
+      },
+      {
+        "start": 2797,
+        "end": 2803,
+        "string": "think"
+      },
+      {
+        "start": 2803,
+        "end": 2804,
+        "string": " "
+      },
+      {
+        "start": 2804,
+        "end": 2806,
+        "string": "a"
+      },
+      {
+        "start": 2806,
+        "end": 2807,
+        "string": " "
+      },
+      {
+        "start": 2807,
+        "end": 2811,
+        "string": "lot"
+      },
+      {
+        "start": 2811,
+        "end": 2812,
+        "string": " "
+      },
+      {
+        "start": 2812,
+        "end": 2815,
+        "string": "of"
+      },
+      {
+        "start": 2815,
+        "end": 2816,
+        "string": " "
+      },
+      {
+        "start": 2816,
+        "end": 2821,
+        "string": "that"
+      },
+      {
+        "start": 2821,
+        "end": 2822,
+        "string": " "
+      },
+      {
+        "start": 2822,
+        "end": 2825,
+        "string": "is"
+      },
+      {
+        "start": 2825,
+        "end": 2826,
+        "string": " "
+      },
+      {
+        "start": 2826,
+        "end": 2831,
+        "string": "just"
+      },
+      {
+        "start": 2831,
+        "end": 2832,
+        "string": " "
+      },
+      {
+        "start": 2832,
+        "end": 2844,
+        "string": "opportunity"
+      },
+      {
+        "start": 2844,
+        "end": 2845,
+        "string": " "
+      },
+      {
+        "start": 2845,
+        "end": 2853,
+        "string": "because"
+      },
+      {
+        "start": 2853,
+        "end": 2854,
+        "string": " "
+      },
+      {
+        "start": 2854,
+        "end": 2861,
+        "string": "people"
+      },
+      {
+        "start": 2861,
+        "end": 2862,
+        "string": " "
+      },
+      {
+        "start": 2862,
+        "end": 2866,
+        "string": "are"
+      },
+      {
+        "start": 2866,
+        "end": 2867,
+        "string": " "
+      },
+      {
+        "start": 2867,
+        "end": 2875,
+        "string": "leaving"
+      },
+      {
+        "start": 2875,
+        "end": 2876,
+        "string": " "
+      },
+      {
+        "start": 2876,
+        "end": 2882,
+        "string": "their"
+      },
+      {
+        "start": 2882,
+        "end": 2883,
+        "string": " "
+      },
+      {
+        "start": 2883,
+        "end": 2888,
+        "string": "cars"
+      },
+      {
+        "start": 2888,
+        "end": 2889,
+        "string": " "
+      },
+      {
+        "start": 2889,
+        "end": 2898,
+        "string": "unlocked"
+      },
+      {
+        "start": 2898,
+        "end": 2899,
+        "string": " "
+      },
+      {
+        "start": 2899,
+        "end": 2901,
+        "string": "."
+      },
+      {
+        "start": 2901,
+        "end": 2902,
+        "string": " "
+      },
+      {
+        "start": 2902,
+        "end": 2904,
+        "string": "\""
+      },
+      {
+        "start": 2904,
+        "end": 2905,
+        "string": " "
+      },
+      {
+        "start": 2905,
+        "end": 2908,
+        "string": "As"
+      },
+      {
+        "start": 2908,
+        "end": 2909,
+        "string": " "
+      },
+      {
+        "start": 2909,
+        "end": 2911,
+        "string": "a"
+      },
+      {
+        "start": 2911,
+        "end": 2912,
+        "string": " "
+      },
+      {
+        "start": 2912,
+        "end": 2921,
+        "string": "business"
+      },
+      {
+        "start": 2921,
+        "end": 2922,
+        "string": " "
+      },
+      {
+        "start": 2922,
+        "end": 2928,
+        "string": "owner"
+      },
+      {
+        "start": 2928,
+        "end": 2929,
+        "string": " "
+      },
+      {
+        "start": 2929,
+        "end": 2931,
+        "string": ","
+      },
+      {
+        "start": 2931,
+        "end": 2932,
+        "string": " "
+      },
+      {
+        "start": 2932,
+        "end": 2935,
+        "string": "he"
+      },
+      {
+        "start": 2935,
+        "end": 2936,
+        "string": " "
+      },
+      {
+        "start": 2936,
+        "end": 2941,
+        "string": "said"
+      },
+      {
+        "start": 2941,
+        "end": 2942,
+        "string": " "
+      },
+      {
+        "start": 2942,
+        "end": 2945,
+        "string": "he"
+      },
+      {
+        "start": 2945,
+        "end": 2946,
+        "string": " "
+      },
+      {
+        "start": 2946,
+        "end": 2951,
+        "string": "does"
+      },
+      {
+        "start": 2951,
+        "end": 2952,
+        "string": " "
+      },
+      {
+        "start": 2952,
+        "end": 2958,
+        "string": "worry"
+      },
+      {
+        "start": 2958,
+        "end": 2959,
+        "string": " "
+      },
+      {
+        "start": 2959,
+        "end": 2965,
+        "string": "about"
+      },
+      {
+        "start": 2965,
+        "end": 2966,
+        "string": " "
+      },
+      {
+        "start": 2966,
+        "end": 2976,
+        "string": "break-ins"
+      },
+      {
+        "start": 2976,
+        "end": 2977,
+        "string": " "
+      },
+      {
+        "start": 2977,
+        "end": 2979,
+        "string": "."
+      },
+      {
+        "start": 2979,
+        "end": 2980,
+        "string": " "
+      },
+      {
+        "start": 2980,
+        "end": 2984,
+        "string": "But"
+      },
+      {
+        "start": 2984,
+        "end": 2985,
+        "string": " "
+      },
+      {
+        "start": 2985,
+        "end": 2988,
+        "string": "in"
+      },
+      {
+        "start": 2988,
+        "end": 2989,
+        "string": " "
+      },
+      {
+        "start": 2989,
+        "end": 2993,
+        "string": "the"
+      },
+      {
+        "start": 2993,
+        "end": 2994,
+        "string": " "
+      },
+      {
+        "start": 2994,
+        "end": 2998,
+        "string": "two"
+      },
+      {
+        "start": 2998,
+        "end": 2999,
+        "string": " "
+      },
+      {
+        "start": 2999,
+        "end": 3005,
+        "string": "years"
+      },
+      {
+        "start": 3005,
+        "end": 3006,
+        "string": " "
+      },
+      {
+        "start": 3006,
+        "end": 3012,
+        "string": "since"
+      },
+      {
+        "start": 3012,
+        "end": 3013,
+        "string": " "
+      },
+      {
+        "start": 3013,
+        "end": 3017,
+        "string": "the"
+      },
+      {
+        "start": 3017,
+        "end": 3018,
+        "string": " "
+      },
+      {
+        "start": 3018,
+        "end": 3026,
+        "string": "brewery"
+      },
+      {
+        "start": 3026,
+        "end": 3027,
+        "string": " "
+      },
+      {
+        "start": 3027,
+        "end": 3034,
+        "string": "opened"
+      },
+      {
+        "start": 3034,
+        "end": 3035,
+        "string": " "
+      },
+      {
+        "start": 3035,
+        "end": 3039,
+        "string": "its"
+      },
+      {
+        "start": 3039,
+        "end": 3040,
+        "string": " "
+      },
+      {
+        "start": 3040,
+        "end": 3046,
+        "string": "doors"
+      },
+      {
+        "start": 3046,
+        "end": 3047,
+        "string": " "
+      },
+      {
+        "start": 3047,
+        "end": 3049,
+        "string": ","
+      },
+      {
+        "start": 3049,
+        "end": 3050,
+        "string": " "
+      },
+      {
+        "start": 3050,
+        "end": 3055,
+        "string": "that"
+      },
+      {
+        "start": 3055,
+        "end": 3056,
+        "string": " "
+      },
+      {
+        "start": 3056,
+        "end": 3060,
+        "string": "has"
+      },
+      {
+        "start": 3060,
+        "end": 3061,
+        "string": " "
+      },
+      {
+        "start": 3061,
+        "end": 3065,
+        "string": "n't"
+      },
+      {
+        "start": 3065,
+        "end": 3066,
+        "string": " "
+      },
+      {
+        "start": 3066,
+        "end": 3075,
+        "string": "happened"
+      },
+      {
+        "start": 3075,
+        "end": 3076,
+        "string": " "
+      },
+      {
+        "start": 3076,
+        "end": 3078,
+        "string": "."
+      },
+      {
+        "start": 3078,
+        "end": 3079,
+        "string": " "
+      },
+      {
+        "start": 3079,
+        "end": 3083,
+        "string": "The"
+      },
+      {
+        "start": 3083,
+        "end": 3084,
+        "string": " "
+      },
+      {
+        "start": 3084,
+        "end": 3093,
+        "string": "business"
+      },
+      {
+        "start": 3093,
+        "end": 3094,
+        "string": " "
+      },
+      {
+        "start": 3094,
+        "end": 3099,
+        "string": "sits"
+      },
+      {
+        "start": 3099,
+        "end": 3100,
+        "string": " "
+      },
+      {
+        "start": 3100,
+        "end": 3103,
+        "string": "at"
+      },
+      {
+        "start": 3103,
+        "end": 3104,
+        "string": " "
+      },
+      {
+        "start": 3104,
+        "end": 3108,
+        "string": "the"
+      },
+      {
+        "start": 3108,
+        "end": 3109,
+        "string": " "
+      },
+      {
+        "start": 3109,
+        "end": 3113,
+        "string": "end"
+      },
+      {
+        "start": 3113,
+        "end": 3114,
+        "string": " "
+      },
+      {
+        "start": 3114,
+        "end": 3117,
+        "string": "of"
+      },
+      {
+        "start": 3117,
+        "end": 3118,
+        "string": " "
+      },
+      {
+        "start": 3118,
+        "end": 3120,
+        "string": "a"
+      },
+      {
+        "start": 3120,
+        "end": 3121,
+        "string": " "
+      },
+      {
+        "start": 3121,
+        "end": 3130,
+        "string": "building"
+      },
+      {
+        "start": 3130,
+        "end": 3131,
+        "string": " "
+      },
+      {
+        "start": 3131,
+        "end": 3135,
+        "string": "and"
+      },
+      {
+        "start": 3135,
+        "end": 3136,
+        "string": " "
+      },
+      {
+        "start": 3136,
+        "end": 3139,
+        "string": "is"
+      },
+      {
+        "start": 3139,
+        "end": 3140,
+        "string": " "
+      },
+      {
+        "start": 3140,
+        "end": 3149,
+        "string": "well-lit"
+      },
+      {
+        "start": 3149,
+        "end": 3150,
+        "string": " "
+      },
+      {
+        "start": 3150,
+        "end": 3152,
+        "string": ","
+      },
+      {
+        "start": 3152,
+        "end": 3153,
+        "string": " "
+      },
+      {
+        "start": 3153,
+        "end": 3156,
+        "string": "he"
+      },
+      {
+        "start": 3156,
+        "end": 3157,
+        "string": " "
+      },
+      {
+        "start": 3157,
+        "end": 3162,
+        "string": "said"
+      },
+      {
+        "start": 3162,
+        "end": 3163,
+        "string": " "
+      },
+      {
+        "start": 3163,
+        "end": 3165,
+        "string": "."
+      },
+      {
+        "start": 3165,
+        "end": 3166,
+        "string": " "
+      },
+      {
+        "start": 3166,
+        "end": 3168,
+        "string": "\""
+      },
+      {
+        "start": 3168,
+        "end": 3169,
+        "string": " "
+      },
+      {
+        "start": 3169,
+        "end": 3175,
+        "string": "There"
+      },
+      {
+        "start": 3175,
+        "end": 3176,
+        "string": " "
+      },
+      {
+        "start": 3176,
+        "end": 3180,
+        "string": "are"
+      },
+      {
+        "start": 3180,
+        "end": 3181,
+        "string": " "
+      },
+      {
+        "start": 3181,
+        "end": 3186,
+        "string": "some"
+      },
+      {
+        "start": 3186,
+        "end": 3187,
+        "string": " "
+      },
+      {
+        "start": 3187,
+        "end": 3193,
+        "string": "parts"
+      },
+      {
+        "start": 3193,
+        "end": 3194,
+        "string": " "
+      },
+      {
+        "start": 3194,
+        "end": 3197,
+        "string": "of"
+      },
+      {
+        "start": 3197,
+        "end": 3198,
+        "string": " "
+      },
+      {
+        "start": 3198,
+        "end": 3202,
+        "string": "Lee"
+      },
+      {
+        "start": 3202,
+        "end": 3203,
+        "string": " "
+      },
+      {
+        "start": 3203,
+        "end": 3210,
+        "string": "County"
+      },
+      {
+        "start": 3210,
+        "end": 3211,
+        "string": " "
+      },
+      {
+        "start": 3211,
+        "end": 3213,
+        "string": "I"
+      },
+      {
+        "start": 3213,
+        "end": 3214,
+        "string": " "
+      },
+      {
+        "start": 3214,
+        "end": 3220,
+        "string": "would"
+      },
+      {
+        "start": 3220,
+        "end": 3221,
+        "string": " "
+      },
+      {
+        "start": 3221,
+        "end": 3225,
+        "string": "n't"
+      },
+      {
+        "start": 3225,
+        "end": 3226,
+        "string": " "
+      },
+      {
+        "start": 3226,
+        "end": 3231,
+        "string": "want"
+      },
+      {
+        "start": 3231,
+        "end": 3232,
+        "string": " "
+      },
+      {
+        "start": 3232,
+        "end": 3235,
+        "string": "to"
+      },
+      {
+        "start": 3235,
+        "end": 3236,
+        "string": " "
+      },
+      {
+        "start": 3236,
+        "end": 3239,
+        "string": "be"
+      },
+      {
+        "start": 3239,
+        "end": 3240,
+        "string": " "
+      },
+      {
+        "start": 3240,
+        "end": 3243,
+        "string": "in"
+      },
+      {
+        "start": 3243,
+        "end": 3244,
+        "string": " "
+      },
+      {
+        "start": 3244,
+        "end": 3246,
+        "string": ","
+      },
+      {
+        "start": 3246,
+        "end": 3247,
+        "string": " "
+      },
+      {
+        "start": 3247,
+        "end": 3249,
+        "string": "\""
+      },
+      {
+        "start": 3249,
+        "end": 3250,
+        "string": " "
+      },
+      {
+        "start": 3250,
+        "end": 3253,
+        "string": "he"
+      },
+      {
+        "start": 3253,
+        "end": 3254,
+        "string": " "
+      },
+      {
+        "start": 3254,
+        "end": 3259,
+        "string": "said"
+      },
+      {
+        "start": 3259,
+        "end": 3260,
+        "string": " "
+      },
+      {
+        "start": 3260,
+        "end": 3262,
+        "string": "."
+      },
+      {
+        "start": 3262,
+        "end": 3263,
+        "string": " "
+      },
+      {
+        "start": 3263,
+        "end": 3265,
+        "string": "\""
+      },
+      {
+        "start": 3265,
+        "end": 3266,
+        "string": " "
+      },
+      {
+        "start": 3266,
+        "end": 3268,
+        "string": "I"
+      },
+      {
+        "start": 3268,
+        "end": 3269,
+        "string": " "
+      },
+      {
+        "start": 3269,
+        "end": 3275,
+        "string": "think"
+      },
+      {
+        "start": 3275,
+        "end": 3276,
+        "string": " "
+      },
+      {
+        "start": 3276,
+        "end": 3279,
+        "string": "it"
+      },
+      {
+        "start": 3279,
+        "end": 3280,
+        "string": " "
+      },
+      {
+        "start": 3280,
+        "end": 3283,
+        "string": "'s"
+      },
+      {
+        "start": 3283,
+        "end": 3284,
+        "string": " "
+      },
+      {
+        "start": 3284,
+        "end": 3291,
+        "string": "fairly"
+      },
+      {
+        "start": 3291,
+        "end": 3292,
+        "string": " "
+      },
+      {
+        "start": 3292,
+        "end": 3297,
+        "string": "safe"
+      },
+      {
+        "start": 3297,
+        "end": 3298,
+        "string": " "
+      },
+      {
+        "start": 3298,
+        "end": 3303,
+        "string": "here"
+      },
+      {
+        "start": 3303,
+        "end": 3304,
+        "string": " "
+      },
+      {
+        "start": 3304,
+        "end": 3307,
+        "string": "as"
+      },
+      {
+        "start": 3307,
+        "end": 3308,
+        "string": " "
+      },
+      {
+        "start": 3308,
+        "end": 3312,
+        "string": "far"
+      },
+      {
+        "start": 3312,
+        "end": 3313,
+        "string": " "
+      },
+      {
+        "start": 3313,
+        "end": 3316,
+        "string": "as"
+      },
+      {
+        "start": 3316,
+        "end": 3317,
+        "string": " "
+      },
+      {
+        "start": 3317,
+        "end": 3326,
+        "string": "anywhere"
+      },
+      {
+        "start": 3326,
+        "end": 3327,
+        "string": " "
+      },
+      {
+        "start": 3327,
+        "end": 3332,
+        "string": "else"
+      },
+      {
+        "start": 3332,
+        "end": 3333,
+        "string": " "
+      },
+      {
+        "start": 3333,
+        "end": 3336,
+        "string": "in"
+      },
+      {
+        "start": 3336,
+        "end": 3337,
+        "string": " "
+      },
+      {
+        "start": 3337,
+        "end": 3341,
+        "string": "the"
+      },
+      {
+        "start": 3341,
+        "end": 3342,
+        "string": " "
+      },
+      {
+        "start": 3342,
+        "end": 3347,
+        "string": "Cape"
+      },
+      {
+        "start": 3347,
+        "end": 3348,
+        "string": " "
+      },
+      {
+        "start": 3348,
+        "end": 3350,
+        "string": ","
+      },
+      {
+        "start": 3350,
+        "end": 3351,
+        "string": " "
+      },
+      {
+        "start": 3351,
+        "end": 3356,
+        "string": "like"
+      },
+      {
+        "start": 3356,
+        "end": 3357,
+        "string": " "
+      },
+      {
+        "start": 3357,
+        "end": 3362,
+        "string": "some"
+      },
+      {
+        "start": 3362,
+        "end": 3363,
+        "string": " "
+      },
+      {
+        "start": 3363,
+        "end": 3366,
+        "string": "of"
+      },
+      {
+        "start": 3366,
+        "end": 3367,
+        "string": " "
+      },
+      {
+        "start": 3367,
+        "end": 3371,
+        "string": "the"
+      },
+      {
+        "start": 3371,
+        "end": 3372,
+        "string": " "
+      },
+      {
+        "start": 3372,
+        "end": 3383,
+        "string": "industrial"
+      },
+      {
+        "start": 3383,
+        "end": 3384,
+        "string": " "
+      },
+      {
+        "start": 3384,
+        "end": 3390,
+        "string": "parts"
+      },
+      {
+        "start": 3390,
+        "end": 3391,
+        "string": " "
+      },
+      {
+        "start": 3391,
+        "end": 3394,
+        "string": "of"
+      },
+      {
+        "start": 3394,
+        "end": 3395,
+        "string": " "
+      },
+      {
+        "start": 3395,
+        "end": 3400,
+        "string": "Cape"
+      },
+      {
+        "start": 3400,
+        "end": 3401,
+        "string": " "
+      },
+      {
+        "start": 3401,
+        "end": 3407,
+        "string": "Coral"
+      },
+      {
+        "start": 3407,
+        "end": 3408,
+        "string": " "
+      },
+      {
+        "start": 3408,
+        "end": 3410,
+        "string": "."
+      },
+      {
+        "start": 3410,
+        "end": 3411,
+        "string": " "
+      },
+      {
+        "start": 3411,
+        "end": 3413,
+        "string": "\""
+      },
+      {
+        "start": 3413,
+        "end": 3414,
+        "string": " "
+      },
+      {
+        "start": 3414,
+        "end": 3419,
+        "string": "More"
+      },
+      {
+        "start": 3419,
+        "end": 3420,
+        "string": " "
+      },
+      {
+        "start": 3420,
+        "end": 3422,
+        "string": ":"
+      },
+      {
+        "start": 3422,
+        "end": 3423,
+        "string": " "
+      },
+      {
+        "start": 3423,
+        "end": 3431,
+        "string": "Florida"
+      },
+      {
+        "start": 3431,
+        "end": 3432,
+        "string": " "
+      },
+      {
+        "start": 3432,
+        "end": 3438,
+        "string": "crime"
+      },
+      {
+        "start": 3438,
+        "end": 3439,
+        "string": " "
+      },
+      {
+        "start": 3439,
+        "end": 3445,
+        "string": "drops"
+      },
+      {
+        "start": 3445,
+        "end": 3446,
+        "string": " "
+      },
+      {
+        "start": 3446,
+        "end": 3449,
+        "string": "in"
+      },
+      {
+        "start": 3449,
+        "end": 3450,
+        "string": " "
+      },
+      {
+        "start": 3450,
+        "end": 3456,
+        "string": "first"
+      },
+      {
+        "start": 3456,
+        "end": 3457,
+        "string": " "
+      },
+      {
+        "start": 3457,
+        "end": 3462,
+        "string": "half"
+      },
+      {
+        "start": 3462,
+        "end": 3463,
+        "string": " "
+      },
+      {
+        "start": 3463,
+        "end": 3466,
+        "string": "of"
+      },
+      {
+        "start": 3466,
+        "end": 3467,
+        "string": " "
+      },
+      {
+        "start": 3467,
+        "end": 3472,
+        "string": "2018"
+      },
+      {
+        "start": 3472,
+        "end": 3473,
+        "string": " "
+      },
+      {
+        "start": 3473,
+        "end": 3475,
+        "string": ","
+      },
+      {
+        "start": 3475,
+        "end": 3476,
+        "string": " "
+      },
+      {
+        "start": 3476,
+        "end": 3481,
+        "string": "down"
+      },
+      {
+        "start": 3481,
+        "end": 3482,
+        "string": " "
+      },
+      {
+        "start": 3482,
+        "end": 3484,
+        "string": "6"
+      },
+      {
+        "start": 3484,
+        "end": 3485,
+        "string": " "
+      },
+      {
+        "start": 3485,
+        "end": 3493,
+        "string": "percent"
+      },
+      {
+        "start": 3493,
+        "end": 3494,
+        "string": " "
+      },
+      {
+        "start": 3494,
+        "end": 3497,
+        "string": "in"
+      },
+      {
+        "start": 3497,
+        "end": 3498,
+        "string": " "
+      },
+      {
+        "start": 3498,
+        "end": 3506,
+        "string": "Collier"
+      },
+      {
+        "start": 3506,
+        "end": 3507,
+        "string": " "
+      },
+      {
+        "start": 3507,
+        "end": 3514,
+        "string": "County"
+      },
+      {
+        "start": 3514,
+        "end": 3515,
+        "string": " "
+      },
+      {
+        "start": 3515,
+        "end": 3517,
+        "string": ","
+      },
+      {
+        "start": 3517,
+        "end": 3518,
+        "string": " "
+      },
+      {
+        "start": 3518,
+        "end": 3525,
+        "string": "report"
+      },
+      {
+        "start": 3525,
+        "end": 3526,
+        "string": " "
+      },
+      {
+        "start": 3526,
+        "end": 3531,
+        "string": "says"
+      },
+      {
+        "start": 3531,
+        "end": 3532,
+        "string": " "
+      }
+    ]
+  }
+}

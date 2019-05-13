@@ -1,0 +1,291 @@
+{
+  "$schema": "corpus.schema.json",
+  "documentId": "3ad9e9a1f1cd456498f6d2ad4b749702.doc",
+  "id": "3ad9e9a1f1cd456498f6d2ad4b749702.terminals",
+  "type": "terminal",
+  "content": {
+    "dataLayerRef": "3ad9e9a1f1cd456498f6d2ad4b749702.data",
+    "terminals": [
+      {
+        "start": 0,
+        "end": 8,
+        "string": "Officer"
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "string": " "
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "string": "Breaks"
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "string": " "
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "string": "Into"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "string": " "
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "string": "Hot"
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "string": " "
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "string": "Car"
+      },
+      {
+        "start": 32,
+        "end": 33,
+        "string": " "
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "string": "To"
+      },
+      {
+        "start": 36,
+        "end": 37,
+        "string": " "
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "string": "Rescue"
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "string": " "
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "string": "Baby"
+      },
+      {
+        "start": 50,
+        "end": 51,
+        "string": " "
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "string": "DollAuthor"
+      },
+      {
+        "start": 62,
+        "end": 63,
+        "string": " "
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "string": ":"
+      },
+      {
+        "start": 65,
+        "end": 66,
+        "string": " "
+      },
+      {
+        "start": 66,
+        "end": 74,
+        "string": "Brendan"
+      },
+      {
+        "start": 74,
+        "end": 75,
+        "string": " "
+      },
+      {
+        "start": 75,
+        "end": 88,
+        "string": "KellyPublish"
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "string": " "
+      },
+      {
+        "start": 89,
+        "end": 94,
+        "string": "date"
+      },
+      {
+        "start": 94,
+        "end": 95,
+        "string": " "
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "string": ":"
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "string": " "
+      },
+      {
+        "start": 98,
+        "end": 102,
+        "string": "Mar"
+      },
+      {
+        "start": 102,
+        "end": 103,
+        "string": " "
+      },
+      {
+        "start": 103,
+        "end": 105,
+        "string": "1"
+      },
+      {
+        "start": 105,
+        "end": 106,
+        "string": " "
+      },
+      {
+        "start": 106,
+        "end": 108,
+        "string": ","
+      },
+      {
+        "start": 108,
+        "end": 109,
+        "string": " "
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "string": "2019"
+      },
+      {
+        "start": 114,
+        "end": 115,
+        "string": " "
+      },
+      {
+        "start": 115,
+        "end": 125,
+        "string": "Tagsterms"
+      },
+      {
+        "start": 125,
+        "end": 126,
+        "string": " "
+      },
+      {
+        "start": 126,
+        "end": 128,
+        "string": ":"
+      },
+      {
+        "start": 128,
+        "end": 129,
+        "string": " "
+      },
+      {
+        "start": 129,
+        "end": 137,
+        "string": "officer"
+      },
+      {
+        "start": 137,
+        "end": 138,
+        "string": " "
+      },
+      {
+        "start": 138,
+        "end": 145,
+        "string": "breaks"
+      },
+      {
+        "start": 145,
+        "end": 146,
+        "string": " "
+      },
+      {
+        "start": 146,
+        "end": 151,
+        "string": "into"
+      },
+      {
+        "start": 151,
+        "end": 152,
+        "string": " "
+      },
+      {
+        "start": 152,
+        "end": 162,
+        "string": "carreborn"
+      },
+      {
+        "start": 162,
+        "end": 163,
+        "string": " "
+      },
+      {
+        "start": 163,
+        "end": 178,
+        "string": "dollsrealistic"
+      },
+      {
+        "start": 178,
+        "end": 179,
+        "string": " "
+      },
+      {
+        "start": 179,
+        "end": 184,
+        "string": "baby"
+      },
+      {
+        "start": 184,
+        "end": 185,
+        "string": " "
+      },
+      {
+        "start": 185,
+        "end": 193,
+        "string": "dollNew"
+      },
+      {
+        "start": 193,
+        "end": 194,
+        "string": " "
+      },
+      {
+        "start": 194,
+        "end": 204,
+        "string": "Hampshire"
+      },
+      {
+        "start": 204,
+        "end": 205,
+        "string": " "
+      }
+    ]
+  }
+}

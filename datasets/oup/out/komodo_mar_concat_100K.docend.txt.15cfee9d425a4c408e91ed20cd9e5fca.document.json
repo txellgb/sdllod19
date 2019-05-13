@@ -1,0 +1,17 @@
+{
+  "$schema": "corpusDocument.schema.json",
+  "id": "15cfee9d425a4c408e91ed20cd9e5fca.doc",
+  "metadata": {
+    "title": "Friday's best TV: The Crimson Rivers; Sacred Ireland: Holy Land",
+    "sourceUrl": "http://www.theguardian.com/tv-and-radio/2019/mar/01/fridays-best-tv-the-crimson-rivers-sacred-island-holy-land",
+    "documentSource": "theguardian.com",
+    "language": "en",
+    "script": "lat",
+    "datePublished": "2019-03-01",
+    "monthPublished": "2019-03",
+    "labels": [],
+    "contentSource": "EventRegistry",
+    "dateDownloaded": "2019-03",
+    "dateIngested": ""
+  }
+}
