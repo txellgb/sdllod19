@@ -116,167 +116,27 @@ def process_document(document):
     return doc_id, metadata
 
 
-def create_terminals(list_of_words, start_idx):
-    """ from an array of words it creates the json list that contains the same array of words.
-    Note that the method adds a space " " terminal after each word. That's because we are generating
-    the json from a vertical file where we only have tokens. Due the lack of the original source text,
-    we assume each token is separated by a space, which is true in most cases but is not the case for
-    symbols, punctuation marks etc.
-    """
-    terminals = []
-    i = start_idx
-    for word in list_of_words:
-        terminals.append({"start": i, "end": i+len(word)+1, "string": word})
-        i = i+len(word)+1
-        terminals.append({"start": i, "end": i+1, "string": " "})
-        i = i+1
-    return terminals, i
-
-
-def create_tokens(sentence, token_start):
-    """ from a sentence dictionary having list of tokens, lemmas and pos, it creates a
-    json list having the same information according to the corpus data model schema """
-    tokens = []
-    i = token_start
-    for token, lemma, pos in zip(sentence["token"], sentence["lemma"], sentence["pos"]):
-        tokens.append(
-          {
-            "relation": {
-              "type": "tokenization",
-              "references": [
-                {"layer": 0, "node": i, "role": "tokenPart"}
-              ]
-            },
-            "annotations": {"pos": {"tag": pos}, "lemma": lemma}
-          },)
-        i = i+2
-    return tokens, i
-
-
-def process_sentence(sentence, token_idx, terminal_idx, char_idx):
-    """from a list of words that conforms a sentence, it creates a json dictionary having the
-    segment information and the full text of the sentence, in addition to a json list of terminals
-    and a json list of tokens according to the corpus data model schema."""
-    data = " ".join(sentence["text"])
-    terminals, char_idx = create_terminals(sentence["text"], char_idx)
-    tokens, terminal_idx = create_tokens(sentence, terminal_idx)
-    token_end = token_idx + len(tokens) + 1
-    sentence = {
-        "relation": {
-          "type": "segment",
-          "references": [
-            {
-              "layer": 0,
-              "nodeRange": {"start": token_idx, "end": token_end - 1},
-              "role": "part"
-            }
-          ]
-        },
-        "annotations": {
-          "unit": "sentence"
-        }
-      }
-    return data, terminals, tokens, sentence, token_end, terminal_idx, char_idx
-
-
-def process_line(line):
-    """splits a line of a vertical file to find out the elements it contains"""
-    ar_line = line.strip().split("\t")
-    return ar_line[0], ar_line[1], ar_line[2], ar_line[3]
-
-
 def read_document(f_in):
-    """ opens a vertical file and process it line by line """
-    segments_list = doc = doc_id = None
-    token_idx = terminal_idx = char_idx = 0
+    conll_document = None
+
     for line in f_in:
         if line.startswith("<doc "):
-            token_idx = terminal_idx = char_idx = 0
-            doc_id, doc = process_document(line)
-            segments_list = {"data": [], "terminals": [], "tokens": [], "sentences": []}
+            conll_document = []
+            doc_id, _ = process_document(line)
+            conll_document.append("# " + line)
         elif line.startswith("<s>") and doc_id is not None:
-            segment = {"text": [], "token": [], "lemma": [], "pos": [], "sentence": {}}
+            continue
         elif line.startswith("</s>") and doc_id is not None:
-            data, terminals, tokens, sentence, token_idx, terminal_idx, char_idx = process_sentence(segment, token_idx, terminal_idx, char_idx)
-            segments_list["data"].append(data)
-            segments_list["terminals"].extend(terminals)
-            segments_list["tokens"].extend(tokens)
-            segments_list["sentences"].append(sentence)
+            conll_document.append("")
         elif line.startswith("</doc>") and doc_id is not None:
-            yield doc_id, doc, segments_list
+            yield doc_id, conll_document
         elif doc_id is not None:
-            word, token, lemma, pos = process_line(line)
-            segment["text"].append(word)
-            segment["token"].append(token)
-            segment["lemma"].append(lemma)
-            segment["pos"].append(pos)
+            conll_document.append(line)
 
 
-def write_document(doc_id, doc, segments, f_datalayer, f_document, f_sentences, f_terminals, f_tokens):
-    """takes the json data created for a document and writes the json files """
-    document_json = {
-        "$schema": "corpusDocument.schema.json",
-        "id": doc_id+".doc",
-        "metadata": doc
-    }
-    json.dump(document_json, f_document, indent=2)
-
-    terminals_json = {
-        "$schema": "corpus.schema.json",
-        "documentId": doc_id + ".doc",
-        "id": doc_id + ".terminals",
-        "type": "terminal",
-        "content": {
-            "dataLayerRef": doc_id + ".data",
-            "terminals": segments["terminals"]
-        }
-    }
-    json.dump(terminals_json, f_terminals, indent=2)
-
-    datalayer_json = {
-        "$schema": "corpus.schema.json",
-        "id": doc_id + ".data",
-        "type": "data",
-        "documentId": doc_id + ".doc",
-        "content": {
-            "text": " ".join(segments["data"])
-        }
-    }
-    json.dump(datalayer_json, f_datalayer, indent=2)
-
-    tokens_json = {
-        "$schema": "corpus.schema.json",
-        "id": doc_id + ".tokens",
-        "documentId": doc_id + ".document",
-        "type": "annotation",
-        "metadata": {
-            "annotationType": "tokenization",
-            "annotationSource": "",
-            "created": ""
-        },
-        "content":{
-            "layerRefs": [doc_id + ".terminals"],
-            "annotationNodes": segments["tokens"]
-        }
-    }
-    json.dump(tokens_json, f_tokens, indent=2)
-
-    sentences_json = {
-        "$schema": "corpus.schema.json",
-        "id": doc_id + ".sentences",
-        "documentId": doc_id + ".document",
-        "type": "annotation",
-        "metadata": {
-            "annotationTypes": ["segmentation"],
-            "annotationSource": "",
-            "created": ""
-        },
-        "content": {
-            "layerRefs": [doc_id + ".tokens"],
-            "annotationNodes": segments["sentences"]
-        }
-    }
-    json.dump(sentences_json, f_sentences, indent=2)
+def write_document(segments, f_conll):
+    for item in segments:
+        f_conll.write("%s" % item)
 
 
 if __name__ == '__main__':
@@ -306,22 +166,12 @@ if __name__ == '__main__':
         f_input = io.open(join(d, f), mode="r", encoding="utf-8")
         print('Reading :', join(d, f))
         my_document_reader = read_document(f_input)
-        for doc_id, doc, segments in my_document_reader:
+        for doc_id, segments in my_document_reader:
             # open output files
-            output_file = join(args.out_dir, f +"."+doc_id)
-            f_datalayer = io.open(output_file + ".datalayer.json", mode="w", encoding="utf-8")
-            f_document = io.open(output_file + ".document.json", mode="w", encoding="utf-8")
-            f_sentences = io.open(output_file + ".sentences.json", mode="w", encoding="utf-8")
-            f_terminals = io.open(output_file + ".terminals.json", mode="w", encoding="utf-8")
-            f_tokens = io.open(output_file + ".tokens.json", mode="w", encoding="utf-8")
-
-            write_document(doc_id, doc, segments, f_datalayer, f_document, f_sentences, f_terminals, f_tokens)
-
+            output_file = join(args.out_dir, doc_id)
+            f_conll_rdf = io.open(output_file + ".conll", mode="w", encoding="utf-8")
+            write_document(segments, f_conll_rdf)
             # close all files
-            f_datalayer.close()
-            f_document.close()
-            f_sentences.close()
-            f_terminals.close()
-            f_tokens.close()
+            f_conll_rdf.close()
             print("Wrote files with prefix", output_file)
         f_input.close()

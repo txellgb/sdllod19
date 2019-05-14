@@ -1,0 +1,19 @@
+# <doc title="Nick Martini out at least two weeks, Robbie Grossman in line for job" url="https://sports.yahoo.com/nick-martini-least-two-weeks-015502114.html" genre="N/A" domain="N/A" country="United States of America" city="N/A" content_source="EventRegistry" document_source="sports.yahoo.com" time_of_publication="2019-03-01" month_of_publication="2019-03" time_of_crawling="2019-03" primary_doc_id="393b71494c344d7c837c2baaf77605cb">
+Nick	Nick	Nick	NNP	Nick-e
+Martini	Martini	Martini	NNP	Martini-e
+out	out	out	RB	out-r
+at	at	at	IN	at-i
+least	least	least	JJS	least-j
+two	two	two	CD	two-f
+weeks	weeks	week	NNS	week-n
+,	,	,	,	,-x
+Robbie	Robbie	Robbie	NNP	Robbie-e
+Grossman	Grossman	Grossman	NNP	Grossman-e
+in	in	in	IN	in-i
+line	line	line	NN	line-n
+for	for	for	IN	for-i
+job	job	job	NN	job-n
+originally	originally	originally	RB	originally-r
+appeared	appeared	appear	VBD	appear-v
+on	on	on	IN	on-i
+nbcsportsbayarea.com	nbcsportsbayarea.com	nbcsportsbayarea.com	NNP	nbcsportsbayarea.com-e

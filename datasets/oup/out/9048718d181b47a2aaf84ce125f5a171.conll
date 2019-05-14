@@ -1,0 +1,20 @@
+# <doc title="Space Force would be by far the smallest military service - Sentinel Colorado" url="https://www.sentinelcolorado.com/0trending/space-force-would-be-by-far-the-smallest-military-service/" genre="N/A" domain="N/A" country="United States of America" city="N/A" content_source="EventRegistry" document_source="sentinelcolorado.com" time_of_publication="2019-03-01" month_of_publication="2019-03" time_of_crawling="2019-03" primary_doc_id="9048718d181b47a2aaf84ce125f5a171">
+WASHINGTON	WASHINGTON	WASHINGTON	NNP	WASHINGTON-e
+|	|	|	CD	|-f
+The	The	the	DT	the-d
+Trump	Trump	Trump	NNP	Trump-e
+administration	administration	administration	NN	administration-n
+'s	's	's	POS	's-p
+proposed	proposed	propose	VBN	propose-v
+Space	Space	space	NN	space-n
+Force	Force	force	NN	force-n
+would	would	would	MD	would-v
+be	be	be	VB	be-v
+the	the	the	DT	the-d
+smallest	smallest	smallest	JJS	smallest-j
+military	military	military	JJ	military-j
+service	service	service	NN	service-n
+--	--	--	:	---x
+by	by	by	IN	by-i
+far	far	far	RB	far-r
+.	.	.	.	.-x
