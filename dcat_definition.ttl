@@ -1,0 +1,47 @@
+
+
+
+@prefix dcat:	<http://www.w3.org/ns/dcat#>
+@prefix dct:	<http://purl.org/dc/terms/>
+@prefix dctype:	<http://purl.org/dc/dcmitype/>
+@prefix foaf:	<http://xmlns.com/foaf/0.1/>
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#>
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#>
+@prefix vcard:	<http://www.w3.org/2006/vcard/ns#>
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#>
+
+
+:sdllod19_group2_catalog 
+	a dcat:Catalog; 
+	dct:title "Linguistic Corpus as Link Data, Datathon 2019"@en, "Corpus Lingüístico como LD, Datathon 2019"@es ;
+	rdfs:label "Linguistic Corpus as Link Data, Datathon 2019"@en ;
+	dcat:keyword "corpus", "datathon", "language annotations" ;
+	foaf:homepage <https://github.com/txellgb/sdllod19> ;
+	dcat:dataset :sdllod19_group2_oup, :sdllod19_group2_eeif .
+	
+ 
+:sdllod19_group2_oup 
+	a dcat:Dataset ;
+	dct:title "Linguistic Corpus as Link Data, Datathon 2019"@en, "Corpus Lingüístico como LD, Datathon 2019"@es ;
+	dcat:keyword "corpus", "datathon", "language annotations" ;
+	dcat:distribution :oup_dist ;
+
+:sdllod19_group2_eeif 
+	a dcat:Dataset ;
+	dct:title "Test Dataset for Adjective/Adverb Interfaces"@en, "Dataset de Test para interfaces de Adjectivo-Adverbio"@es ;
+	dcat:keyword "corpus", "datathon", "language annotations" ;
+	dcat:distribution :eeif_dist ;
+	dct:issued	"2019-05-16"^^xsd:date ;  # publication date
+	dct:modified	"2019-05-16"^^xsd:date ; # last modified date
+	
+:oup_dist
+	a dcat:Distribution ;
+	dcat:downloadURL <http://example.com> ;
+	dcat:mediaType "text/ttl" ;
+	
+:eeif_dist
+	a dcat:Distribution ;
+	dcat:downloadURL <http://example.com> ;
+	dcat:mediaType "text/ttl" ;
+
