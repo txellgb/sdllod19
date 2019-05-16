@@ -36,6 +36,7 @@ in	in	in	IN	in-i
 September	September	September	NNP	September-e
 2017	2017	2017	CD	2017-f
 .	.	.	.	.-x
+
 During	During	during	IN	during-i
 the	the	the	DT	the-d
 trial	trial	trial	NN	trial-n
@@ -74,3 +75,4 @@ a	a	a	DT	a-d
 life	life	life	NN	life-n
 sentence	sentence	sentence	NN	sentence-n
 .	.	.	.	.-x
+

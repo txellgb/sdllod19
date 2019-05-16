@@ -64,6 +64,7 @@ The	The	the	DT	the-d
 View	View	View	NNP	View-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 His	His	he	PRP$	he-p
 comments	comments	comment	NNS	comment-n
 come	come	come	VBP	come-v
@@ -148,6 +149,7 @@ MORE	MORE	more	JJR	more-j
 D-Calif	D-Calif	d-calif	NN	d-calif-n
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 and	and	and	CC	and-c
 Elizabeth	Elizabeth	Elizabeth	NNP	Elizabeth-e
 WarrenElizabeth	WarrenElizabeth	WarrenElizabeth	NNP	WarrenElizabeth-e
@@ -206,6 +208,7 @@ D-Mass	D-Mass	d-mass	NN	d-mass-n
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 Neither	Neither	neither	DT	neither-d
 candidate	candidate	candidate	NN	candidate-n
 has	has	have	VBZ	have-v
@@ -218,6 +221,7 @@ address	address	address	VB	address-v
 the	the	the	DT	the-d
 issue	issue	issue	NN	issue-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 What	What	what	WP	what-p
 does	does	do	VBZ	do-v
@@ -247,6 +251,7 @@ of	of	of	IN	of-i
 reparation	reparation	reparation	NN	reparation-n
 plan	plan	plan	NN	plan-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Money	Money	money	NN	money-n
 ,	,	,	,	,-x
@@ -254,6 +259,7 @@ Money	Money	money	NN	money-n
 she	she	she	PRP	she-p
 answered	answered	answer	VBD	answer-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -297,6 +303,7 @@ check	check	check	NN	check-n
 Sanders	Sanders	Sanders	NNP	Sanders-e
 responded	responded	respond	VBD	respond-v
 .	.	.	.	.-x
+
 Sanders	Sanders	Sanders	NNP	Sanders-e
 also	also	also	RB	also-r
 said	said	say	VBD	say-v
@@ -324,6 +331,7 @@ under	under	under	IN	under-i
 his	his	he	PRP$	he-p
 presidency	presidency	presidency	NN	presidency-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -366,6 +374,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 interview	interview	interview	NN	interview-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 senator	senator	senator	NN	senator-n
 ,	,	,	,	,-x
@@ -394,6 +403,7 @@ not	not	not	RB	not-r
 diverse	diverse	diverse	JJ	diverse-j
 enough	enough	enough	RB	enough-r
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 2020	2020	2020	CD	2020-f
 campaign	campaign	campaign	NN	campaign-n
@@ -410,6 +420,7 @@ Our	Our	we	PRP$	we-p
 Revolution	Revolution	revolution	NN	revolution-n
 organization	organization	organization	NN	organization-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 senator	senator	senator	NN	senator-n
 has	has	have	VBZ	have-v
@@ -448,3 +459,4 @@ major	major	major	JJ	major-j
 presidential	presidential	presidential	JJ	presidential-j
 campaign	campaign	campaign	NN	campaign-n
 .	.	.	.	.-x
+

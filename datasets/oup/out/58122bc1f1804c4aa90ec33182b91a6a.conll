@@ -32,6 +32,7 @@ on	on	on	IN	on-i
 Indian	Indian	indian	JJ	indian-j
 soil	soil	soil	NN	soil-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 was	was	be	VBD	be-v
 stated	stated	state	VBN	state-v
@@ -56,6 +57,7 @@ release	release	release	NN	release-n
 by	by	by	IN	by-i
 Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 are	are	be	VBP	be-v
@@ -81,6 +83,7 @@ to	to	to	TO	to-t
 Indian	Indian	indian	JJ	indian-j
 authorities	authorities	authority	NNS	authority-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 He	He	he	PRP	he-p
 will	will	will	MD	will-v
@@ -92,6 +95,7 @@ detailed	detailed	detailed	JJ	detailed-j
 medical	medical	medical	JJ	medical-j
 checkup	checkup	checkup	NN	checkup-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 officer	officer	officer	NN	officer-n
 has	has	have	VBZ	have-v
@@ -115,3 +119,4 @@ strain	strain	strain	NN	strain-n
 said	said	say	VBD	say-v
 Kapoor	Kapoor	Kapoor	NNP	Kapoor-e
 .	.	.	.	.-x
+

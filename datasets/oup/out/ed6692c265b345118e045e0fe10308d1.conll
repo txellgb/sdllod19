@@ -28,6 +28,7 @@ the	the	the	DT	the-d
 opening	opening	opening	NN	opening-n
 minute	minute	minute	NN	minute-n
 .	.	.	.	.-x
+
 Fans	Fans	fan	NNS	fan-n
 also	also	also	RB	also-r
 booed	booed	boo	VBD	boo-v
@@ -60,3 +61,4 @@ the	the	the	DT	the-d
 video	video	video	NN	video-n
 ended	ended	end	VBD	end-v
 .	.	.	.	.-x
+

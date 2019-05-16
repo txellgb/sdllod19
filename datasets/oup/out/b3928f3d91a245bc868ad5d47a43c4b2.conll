@@ -30,6 +30,7 @@ in	in	in	IN	in-i
 December	December	December	NNP	December-e
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -44,6 +45,7 @@ have	have	have	VB	have-v
 slowed	slowed	slow	VBN	slow-v
 down	down	down	RP	down-x
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 the	the	the	DT	the-d
@@ -68,6 +70,7 @@ maintains	maintains	maintain	VBZ	maintain-v
 high	high	high	JJ	high-j
 values	values	value	NNS	value-n
 .	.	.	.	.-x
+
 Labour	Labour	labour	NN	labour-n
 market	market	market	NN	market-n
 conditions	conditions	condition	NNS	condition-n
@@ -111,6 +114,7 @@ highly-qualified	highly-qualified	highly-qualified	JJ	highly-qualified-j
 workforce	workforce	workforce	NN	workforce-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 unemployment	unemployment	unemployment	NN	unemployment-n
 rate	rate	rate	NN	rate-n
@@ -129,6 +133,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 INS	INS	INS	NNP	INS-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 number	number	number	NN	number-n
 of	of	of	IN	of-i
@@ -159,3 +164,4 @@ of	of	of	IN	of-i
 403,000	403,000	403,000	CD	403,000-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+

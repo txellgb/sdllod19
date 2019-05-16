@@ -39,6 +39,7 @@ ever	ever	ever	RB	ever-r
 winter	winter	winter	NN	winter-n
 temperatures	temperatures	temperature	NNS	temperature-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ferocious	ferocious	ferocious	JJ	ferocious-j
 weather	weather	weather	NN	weather-n
@@ -68,6 +69,7 @@ early	early	early	JJ	early-j
 Monday	Monday	Monday	NNP	Monday-e
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 yellow	yellow	yellow	JJ	yellow-j
 weather	weather	weather	NN	weather-n
@@ -107,6 +109,7 @@ to	to	to	TO	to-t
 on	on	on	IN	on-i
 Monday	Monday	Monday	NNP	Monday-e
 .	.	.	.	.-x
+
 Storm	Storm	storm	NN	storm-n
 Freya	Freya	freya	NN	freya-n
 will	will	will	MD	will-v
@@ -129,6 +132,7 @@ late	late	late	RB	late-r
 on	on	on	IN	on-i
 Sunday	Sunday	Sunday	NNP	Sunday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Met	Met	Met	NNP	Met-e
 Office	Office	Office	NNP	Office-e
@@ -160,6 +164,7 @@ as	as	as	IN	as-i
 mobile	mobile	mobile	JJ	mobile-j
 phone	phone	phone	NN	phone-n
 coverage	coverage	coverage	NN	coverage-n
+
 Met	Met	Met	NNP	Met-e
 Office	Office	Office	NNP	Office-e
 graphics	graphics	graphic	NNS	graphic-n
@@ -179,6 +184,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 Kingdom	Kingdom	Kingdom	NNP	Kingdom-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 set	set	set	VBN	set-v
@@ -202,6 +208,7 @@ and	and	and	CC	and-c
 North-East	North-East	North-East	NNP	North-East-e
 England	England	England	NNP	England-e
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 snow	snow	snow	NN	snow-n
 could	could	could	MD	could-v
@@ -215,6 +222,7 @@ drop	drop	drop	VBP	drop-v
 to	to	to	TO	to-t
 single	single	single	JJ	single-j
 digits	digits	digit	NNS	digit-n
+
 A	A	a	DT	a-d
 yellow	yellow	yellow	JJ	yellow-j
 weather	weather	weather	NN	weather-n
@@ -255,6 +263,7 @@ to	to	to	TO	to-t
 6am	6am	6am	VB	6am-v
 on	on	on	IN	on-i
 Monday	Monday	Monday	NNP	Monday-e
+
 VR	VR	vr	NN	vr-n
 simulation	simulation	simulation	NN	simulation-n
 teases	teases	tease	VBZ	tease-v
@@ -262,6 +271,7 @@ new	new	new	JJ	new-j
 Yukon	Yukon	Yukon	NNP	Yukon-e
 Striker	Striker	Striker	NNP	Striker-e
 rollercoaster	rollercoaster	rollercoaster	JJ	rollercoaster-j
+
 It	It	it	PRP	it-p
 warns	warns	warn	VBZ	warn-v
 of	of	of	IN	of-i
@@ -291,6 +301,7 @@ mobile	mobile	mobile	JJ	mobile-j
 phone	phone	phone	NN	phone-n
 coverage	coverage	coverage	NN	coverage-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 after	after	after	IN	after-i
 the	the	the	DT	the-d
@@ -326,6 +337,7 @@ Office	Office	Office	NNP	Office-e
 told	told	tell	VBD	tell-v
 MailOnline	MailOnline	MailOnline	NNP	MailOnline-e
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 could	could	could	MD	could-v
 see	see	see	VB	see-v
@@ -350,6 +362,7 @@ atmosphere	atmosphere	atmosphere	NN	atmosphere-n
 to	to	to	TO	to-t
 snow	snow	snow	NN	snow-n
 .	.	.	.	.-x
+
 Met	Met	Met	NNP	Met-e
 Office	Office	Office	NNP	Office-e
 spokesman	spokesman	spokesman	NN	spokesman-n
@@ -377,6 +390,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 UK	UK	UK	NNP	UK-e
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 It	It	it	PRP	it-p
 will	will	will	MD	will-v
@@ -397,6 +411,7 @@ very	very	very	RB	very-r
 strong	strong	strong	JJ	strong-j
 winds	winds	wind	NNS	wind-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 added	added	add	VBD	add-v
 that	that	that	IN	that-i
@@ -429,6 +444,7 @@ and	and	and	CC	and-c
 80mph	80mph	80mph	CD	80mph-f
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ferocious	ferocious	ferocious	JJ	ferocious-j
 weather	weather	weather	NN	weather-n
@@ -459,6 +475,7 @@ on	on	on	IN	on-i
 Monday	Monday	Monday	NNP	Monday-e
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 weekend	weekend	weekend	NN	weekend-n
 will	will	will	MD	will-v
@@ -486,6 +503,7 @@ England	England	England	NNP	England-e
 and	and	and	CC	and-c
 South-East	South-East	South-East	NNP	South-East-e
 Scotland	Scotland	Scotland	NNP	Scotland-e
+
 Wind	Wind	wind	NN	wind-n
 speeds	speeds	speed	NNS	speed-n
 will	will	will	MD	will-v
@@ -505,6 +523,7 @@ Mr	Mr	Mr	NNP	Mr-e
 Madge	Madge	Madge	NNP	Madge-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 added	added	add	VBD	add-v
 :	:	:	:	:-x
@@ -528,6 +547,7 @@ South	South	South	NNP	South-e
 West	West	West	NNP	West-e
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 The	The	the	DT	the-d
 storm	storm	storm	NN	storm-n
 could	could	could	MD	could-v
@@ -555,6 +575,7 @@ roads	roads	road	NNS	road-n
 and	and	and	CC	and-c
 properties	properties	property	NNS	property-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 comes	comes	come	VBZ	come-v
 just	just	just	RB	just-r
@@ -587,6 +608,7 @@ left	left	leave	VBD	leave-v
 fields	fields	field	NNS	field-n
 parched	parched	parch	VBN	parch-v
 .	.	.	.	.-x
+
 Firefighters	Firefighters	firefighter	NNS	firefighter-n
 battled	battled	battle	VBD	battle-v
 blazes	blazes	blaze	NNS	blaze-n
@@ -615,6 +637,7 @@ February	February	February	NNP	February-e
 weather	weather	weather	NN	weather-n
 continued	continued	continue	VBD	continue-v
 .	.	.	.	.-x
+
 Arid	Arid	arid	JJ	arid-j
 conditions	conditions	condition	NNS	condition-n
 caused	caused	cause	VBD	cause-v
@@ -628,6 +651,7 @@ the	the	the	DT	the-d
 country	country	country	NN	country-n
 on	on	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
+
 A	A	a	DT	a-d
 huge	huge	huge	JJ	huge-j
 fire	fire	fire	NN	fire-n
@@ -661,6 +685,7 @@ temperatures	temperatures	temperature	NNS	temperature-n
 soared	soared	soar	VBD	soar-v
 on	on	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
+
 Park	Park	Park	NNP	Park-e
 goers	goers	goer	NNS	goer-n
 enjoy	enjoy	enjoy	VBP	enjoy-v
@@ -684,6 +709,7 @@ winter	winter	winter	NN	winter-n
 day	day	day	NN	day-n
 on	on	on	IN	on-i
 record	record	record	NN	record-n
+
 Describing	Describing	describe	VBG	describe-v
 the	the	the	DT	the-d
 sudden	sudden	sudden	JJ	sudden-j
@@ -713,6 +739,7 @@ form	form	form	VBP	form-v
 the	the	the	DT	the-d
 west	west	west	NN	west-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 But	But	but	CC	but-c
 recently	recently	recently	RB	recently-r
@@ -742,6 +769,7 @@ this	this	this	DT	this-d
 colder	colder	colder	JJR	colder-j
 weather	weather	weather	NN	weather-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 so	so	so	IN	so-i
 we	we	we	PRP	we-p
@@ -750,6 +778,7 @@ seen	seen	see	VBN	see-v
 above-average	above-average	above-average	JJ	above-average-j
 temperatures	temperatures	temperature	NNS	temperature-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 That	That	that	DT	that-d
 has	has	have	VBZ	have-v
@@ -776,6 +805,7 @@ next	next	next	JJ	next-j
 week	week	week	NN	week-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 Storm	Storm	storm	NN	storm-n
 Freya	Freya	freya	NN	freya-n
 is	is	be	VBZ	be-v
@@ -799,6 +829,7 @@ Deirdre	Deirdre	Deirdre	NNP	Deirdre-e
 in	in	in	IN	in-i
 December	December	December	NNP	December-e
 .	.	.	.	.-x
+
 Erik	Erik	Erik	NNP	Erik-e
 left	left	leave	VBD	leave-v
 three	three	three	CD	three-f
@@ -826,3 +857,4 @@ considerable	considerable	considerable	JJ	considerable-j
 travel	travel	travel	NN	travel-n
 disruption	disruption	disruption	NN	disruption-n
 .	.	.	.	.-x
+

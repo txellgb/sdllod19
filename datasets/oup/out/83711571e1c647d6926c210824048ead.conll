@@ -27,6 +27,7 @@ palliative	palliative	palliative	JJ	palliative-j
 care	care	care	NN	care-n
 services	services	service	NNS	service-n
 .	.	.	.	.-x
+
 Corowa	Corowa	Corowa	NNP	Corowa-e
 Medical	Medical	Medical	NNP	Medical-e
 Centre	Centre	Centre	NNP	Centre-e
@@ -63,6 +64,7 @@ services	services	service	NNS	service-n
 at	at	at	IN	at-i
 Corowa	Corowa	Corowa	NNP	Corowa-e
 .	.	.	.	.-x
+
 Corowa	Corowa	Corowa	NNP	Corowa-e
 Medical	Medical	Medical	NNP	Medical-e
 Centre	Centre	Centre	NNP	Centre-e
@@ -119,6 +121,7 @@ people	people	people	NNS	people-n
 with	with	with	IN	with-i
 cancer	cancer	cancer	NN	cancer-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Through	Through	through	IN	through-i
 the	the	the	DT	the-d
@@ -181,6 +184,7 @@ illness	illness	illness	NN	illness-n
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Palliative	Palliative	palliative	JJ	palliative-j
 care	care	care	NN	care-n
@@ -209,6 +213,7 @@ and	and	and	CC	and-c
 pain-free	pain-free	pain-free	JJ	pain-free-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 A	A	a	DT	a-d
 free	free	free	JJ	free-j
 forum	forum	forum	NN	forum-n
@@ -251,6 +256,7 @@ Corowa	Corowa	Corowa	NNP	Corowa-e
 RSL	RSL	RSL	NNP	RSL-e
 Club	Club	Club	NNP	Club-e
 .	.	.	.	.-x
+
 Initiated	Initiated	initiate	VBN	initiate-v
 by	by	by	IN	by-i
 Corowa	Corowa	Corowa	NNP	Corowa-e
@@ -317,6 +323,7 @@ the	the	the	DT	the-d
 Amaranth	Amaranth	Amaranth	NNP	Amaranth-e
 Foundation	Foundation	Foundation	NNP	Foundation-e
 .	.	.	.	.-x
+
 Ms	Ms	Ms	NNP	Ms-e
 Mann	Mann	Mann	NNP	Mann-e
 said	said	say	VBD	say-v
@@ -357,6 +364,7 @@ palliative	palliative	palliative	NN	palliative-n
 care	care	care	NN	care-n
 requirements	requirements	requirement	NNS	requirement-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 While	While	while	IN	while-i
 Australia	Australia	Australia	NNP	Australia-e
@@ -461,6 +469,7 @@ Ms	Ms	Ms	NNP	Ms-e
 Mann	Mann	Mann	NNP	Mann-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 want	want	want	VBP	want-v
@@ -539,6 +548,7 @@ delivered	delivered	deliver	VBN	deliver-v
 locally	locally	locally	RB	locally-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Ms	Ms	Ms	NNP	Ms-e
 Mann	Mann	Mann	NNP	Mann-e
 said	said	say	VBD	say-v
@@ -573,6 +583,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 town	town	town	NN	town-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 hope	hope	hope	VBP	hope-v
@@ -665,6 +676,7 @@ care	care	care	NN	care-n
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 book	book	book	NN	book-n
 for	for	for	IN	for-i
@@ -703,3 +715,4 @@ supper	supper	supper	NN	supper-n
 phone	phone	phone	NN	phone-n
 (02) 6030 5500	-LRB-02-RRB- 6030 5500	-lrb-02-rrb- 6030 5500	CD	-lrb-02-rrb- 6030 5500-f
 .	.	.	.	.-x
+

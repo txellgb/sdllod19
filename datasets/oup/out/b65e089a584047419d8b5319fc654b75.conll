@@ -21,6 +21,7 @@ doctors	doctors	doctor	NNS	doctor-n
 and	and	and	CC	and-c
 hospitals	hospitals	hospital	NNS	hospital-n
 .	.	.	.	.-x
+
 ARON	ARON	ARON	NNP	ARON-e
 P.	P.	P.	NNP	P.-e
 BERNSTEIN/REUTERS/NewscomA	BERNSTEIN/REUTERS/NewscomA	BERNSTEIN/REUTERS/NewscomA	NNP	BERNSTEIN/REUTERS/NewscomA-e
@@ -59,6 +60,7 @@ health	health	health	NN	health-n
 care	care	care	NN	care-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 That	That	that	DT	that-d
 phrase	phrase	phrase	NN	phrase-n
 ,	,	,	,	,-x
@@ -82,6 +84,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 Year	Year	year	NN	year-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 could	could	could	MD	could-v
 argue	argue	argue	VB	argue-v
@@ -109,6 +112,7 @@ minimum	minimum	minimum	NN	minimum-n
 an	an	a	DT	a-d
 exaggeration	exaggeration	exaggeration	NN	exaggeration-n
 .	.	.	.	.-x
+
 Although	Although	although	IN	although-i
 the	the	the	DT	the-d
 Affordable	Affordable	Affordable	NNP	Affordable-e
@@ -161,6 +165,7 @@ regulated	regulated	regulate	VBN	regulate-v
 private	private	private	JJ	private-j
 coverage	coverage	coverage	NN	coverage-n
 .	.	.	.	.-x
+
 Today	Today	today	NN	today-n
 ,	,	,	,	,-x
 an	an	a	DT	a-d
@@ -172,6 +177,7 @@ have	have	have	VBP	have-v
 private	private	private	JJ	private-j
 coverage	coverage	coverage	NN	coverage-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 single-payer	single-payer	single-payer	JJ	single-payer-j
 health	health	health	NN	health-n
@@ -199,6 +205,7 @@ eliminate	eliminate	eliminate	VB	eliminate-v
 that	that	that	IN	that-i
 coverage	coverage	coverage	NN	coverage-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 Rep.	Rep.	Rep.	NNP	Rep.-e
 Pramila	Pramila	Pramila	NNP	Pramila-e
@@ -250,6 +257,7 @@ the	the	the	DT	the-d
 government	government	government	NN	government-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Unlike	Unlike	unlike	IN	unlike-i
 Obamacare	Obamacare	obamacare	NN	obamacare-n
 ,	,	,	,	,-x
@@ -270,6 +278,7 @@ of	of	of	IN	of-i
 health	health	health	NN	health-n
 care	care	care	NN	care-n
 .	.	.	.	.-x
+
 Although	Although	although	IN	although-i
 Jayapal	Jayapal	Jayapal	NNP	Jayapal-e
 's	's	's	POS	's-p
@@ -318,6 +327,7 @@ would	would	would	MD	would-v
 be	be	be	VB	be-v
 eliminated	eliminated	eliminate	VBN	eliminate-v
 .	.	.	.	.-x
+
 Employers	Employers	employer	NNS	employer-n
 and	and	and	CC	and-c
 insurers	insurers	insurer	NNS	insurer-n
@@ -352,6 +362,7 @@ health	health	health	NN	health-n
 care	care	care	NN	care-n
 systems	systems	system	NNS	system-n
 .	.	.	.	.-x
+
 Private	Private	private	JJ	private-j
 insurance	insurance	insurance	NN	insurance-n
 as	as	as	IN	as-i
@@ -363,6 +374,7 @@ would	would	would	MD	would-v
 be	be	be	VB	be-v
 illegal	illegal	illegal	JJ	illegal-j
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 while	while	while	IN	while-i
 the	the	the	DT	the-d
@@ -394,6 +406,7 @@ health	health	health	NN	health-n
 care	care	care	NN	care-n
 financing	financing	financing	NN	financing-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 would	would	would	MD	would-v
 include	include	include	VB	include-v
@@ -425,6 +438,7 @@ funds	funds	fund	NNS	fund-n
 by	by	by	IN	by-i
 region	region	region	NN	region-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 federal	federal	federal	JJ	federal-j
 government	government	government	NN	government-n
@@ -453,6 +467,7 @@ doctors	doctors	doctor	NNS	doctor-n
 in	in	in	IN	in-i
 private	private	private	JJ	private-j
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 addition	addition	addition	NN	addition-n
 ,	,	,	,	,-x
@@ -480,6 +495,7 @@ any	any	any	DT	any-d
 given	given	give	VBN	give-v
 facility	facility	facility	NN	facility-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 true	true	true	JJ	true-j
@@ -513,6 +529,7 @@ throughout	throughout	throughout	IN	throughout-i
 the	the	the	DT	the-d
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 today	today	today	NN	today-n
 's	's	's	POS	's-p
@@ -540,6 +557,7 @@ for	for	for	IN	for-i
 most	most	most	JJS	most-j
 services	services	service	NNS	service-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 while	while	while	IN	while-i
 doctors	doctors	doctor	NNS	doctor-n
@@ -603,6 +621,7 @@ they	they	they	PRP	they-p
 are	are	be	VBP	be-v
 today	today	today	NN	today-n
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 practitioners	practitioners	practitioner	NNS	practitioner-n
 might	might	might	MD	might-v
@@ -624,6 +643,7 @@ most	most	most	RBS	most-r
 would	would	would	MD	would-v
 not	not	not	RB	not-r
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 consequence	consequence	consequence	NN	consequence-n
@@ -662,6 +682,7 @@ by	by	by	IN	by-i
 federal	federal	federal	JJ	federal-j
 agencies	agencies	agency	NNS	agency-n
 .	.	.	.	.-x
+
 Medicare	Medicare	Medicare	NNP	Medicare-e
 for	for	for	IN	for-i
 All	All	all	DT	all-d
@@ -702,6 +723,7 @@ health	health	health	NN	health-n
 care	care	care	NN	care-n
 delivery	delivery	delivery	NN	delivery-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -740,6 +762,7 @@ health	health	health	NN	health-n
 care	care	care	NN	care-n
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 Republicans	Republicans	Republicans	NNPS	Republicans-e
 were	were	be	VBD	be-v
 mistaken	mistaken	mistaken	JJ	mistaken-j
@@ -774,3 +797,4 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 plan	plan	plan	NN	plan-n
 .	.	.	.	.-x
+

@@ -21,6 +21,7 @@ real	real	real	JJ	real-j
 estate	estate	estate	NN	estate-n
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 Land	Land	Land	NNP	Land-e
 entitlements	entitlements	entitlement	NNS	entitlement-n
 are	are	be	VBP	be-v
@@ -30,6 +31,7 @@ of	of	of	IN	of-i
 land	land	land	NN	land-n
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 Yet	Yet	yet	RB	yet-r
 ,	,	,	,	,-x
 a	a	a	DT	a-d
@@ -48,6 +50,7 @@ and	and	and	CC	and-c
 multifarious	multifarious	multifarious	JJ	multifarious-j
 requirements	requirements	requirement	NNS	requirement-n
 .	.	.	.	.-x
+
 George	George	George	NNP	George-e
 Garcia	Garcia	Garcia	NNP	Garcia-e
 ,	,	,	,	,-x
@@ -87,6 +90,7 @@ navigate	navigate	navigate	VBP	navigate-v
 such	such	such	JJ	such-j
 enterprises	enterprises	enterprise	NNS	enterprise-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 this	this	this	DT	this-d
 expertise	expertise	expertise	NN	expertise-n
@@ -106,6 +110,7 @@ Tape	Tape	Tape	NNP	Tape-e
 Sherpas	Sherpas	Sherpas	NNPS	Sherpas-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 Cutting	Cutting	cut	VBG	cut-v
 through	through	through	IN	through-i
@@ -136,6 +141,7 @@ activities	activities	activity	NNS	activity-n
 says	says	say	VBZ	say-v
 Garcia	Garcia	Garcia	NNP	Garcia-e
 .	.	.	.	.-x
+
 Garcia	Garcia	Garcia	NNP	Garcia-e
 has	has	have	VBZ	have-v
 nearly	nearly	nearly	RB	nearly-r
@@ -152,6 +158,7 @@ real	real	real	JJ	real-j
 estate	estate	estate	NN	estate-n
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 Prior	Prior	prior	RB	prior-r
 to	to	to	TO	to-t
 founding	founding	found	VBG	found-v
@@ -180,6 +187,7 @@ Park	Park	Park	NNP	Park-e
 ,	,	,	,	,-x
 Kan	Kan.	Kan.	NNP	Kan.-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Garcia	Garcia	Garcia	NNP	Garcia-e
 's	's	's	POS	's-p
@@ -210,6 +218,7 @@ other	other	other	JJ	other-j
 public	public	public	JJ	public-j
 entities	entities	entity	NNS	entity-n
 .	.	.	.	.-x
+
 Before	Before	before	IN	before-i
 the	the	the	DT	the-d
 first	first	first	JJ	first-j
@@ -233,6 +242,7 @@ or	or	or	CC	or-c
 zoning	zoning	zone	VBG	zone-v
 situation	situation	situation	NN	situation-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 land	land	land	NN	land-n
 owners	owners	owner	NNS	owner-n
@@ -260,6 +270,7 @@ project	project	project	NN	project-n
 's	's	's	POS	's-p
 potential	potential	potential	NN	potential-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 vetting	vetting	vetting	NN	vetting-n
 and	and	and	CC	and-c
@@ -268,6 +279,7 @@ process	process	process	NN	process-n
 is	is	be	VBZ	be-v
 essential	essential	essential	JJ	essential-j
 .	.	.	.	.-x
+
 From	From	from	IN	from-i
 site	site	site	NN	site-n
 evaluation	evaluation	evaluation	NN	evaluation-n
@@ -288,6 +300,7 @@ real	real	real	JJ	real-j
 estate	estate	estate	NN	estate-n
 entrepreneurs	entrepreneurs	entrepreneur	NNS	entrepreneur-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 procedures	procedures	procedure	NNS	procedure-n
 give	give	give	VBP	give-v
@@ -301,6 +314,7 @@ one	one	one	CD	one-f
 's	's	's	POS	's-p
 homework	homework	homework	NN	homework-n
 .	.	.	.	.-x
+
 Garcia	Garcia	Garcia	NNP	Garcia-e
 advises	advises	advise	VBZ	advise-v
 that	that	that	IN	that-i
@@ -320,6 +334,7 @@ real	real	real	JJ	real-j
 estate	estate	estate	NN	estate-n
 investments	investments	investment	NNS	investment-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Government	Government	government	NN	government-n
 and	and	and	CC	and-c
@@ -347,6 +362,7 @@ elements	elements	element	NNS	element-n
 he	he	he	PRP	he-p
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 Coordination	Coordination	coordination	NN	coordination-n
 will	will	will	MD	will-v
 be	be	be	VB	be-v
@@ -365,6 +381,7 @@ neighbors	neighbors	neighbor	NNS	neighbor-n
 and	and	and	CC	and-c
 engineers	engineers	engineer	NNS	engineer-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 many	many	many	JJ	many-j
 cases	cases	case	NNS	case-n
@@ -381,9 +398,11 @@ submittals	submittals	submittal	NNS	submittal-n
 are	are	be	VBP	be-v
 necessary	necessary	necessary	JJ	necessary-j
 .	.	.	.	.-x
+
 Common	Common	common	JJ	common-j
 Land	Land	land	NN	land-n
 Entitlements	Entitlements	entitlement	NNS	entitlement-n
+
 Formulating	Formulating	formulate	VBG	formulate-v
 project	project	project	NN	project-n
 parameters	parameters	parameter	NNS	parameter-n
@@ -392,6 +411,7 @@ the	the	the	DT	the-d
 first	first	first	JJ	first-j
 step	step	step	NN	step-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 'll	'll	will	MD	will-v
 want	want	want	VB	want-v
@@ -418,10 +438,12 @@ for	for	for	IN	for-i
 land	land	land	NN	land-n
 developments	developments	development	NNS	development-n
 .	.	.	.	.-x
+
 1	1	1	LS	1-l
 .	.	.	.	.-x
 Amending	Amending	amend	VBG	amend-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 highest	highest	highest	JJS	highest-j
 level	level	level	NN	level-n
@@ -444,6 +466,7 @@ guides	guides	guide	NNS	guide-n
 city	city	city	NN	city-n
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Amending	Amending	amend	VBG	amend-v
 is	is	be	VBZ	be-v
@@ -460,6 +483,7 @@ entitlements	entitlements	entitlement	NNS	entitlement-n
 Garcia	Garcia	Garcia	NNP	Garcia-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -479,6 +503,7 @@ of	of	of	IN	of-i
 land	land	land	NN	land-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 For	For	for	IN	for-i
 example	example	example	NN	example-n
 ,	,	,	,	,-x
@@ -514,6 +539,7 @@ certain	certain	certain	JJ	certain-j
 developmental	developmental	developmental	JJ	developmental-j
 density	density	density	NN	density-n
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 achieve	achieve	achieve	VB	achieve-v
 his	his	he	PRP$	he-p
@@ -530,10 +556,12 @@ city	city	city	NN	city-n
 's	's	's	POS	's-p
 plan	plan	plan	NN	plan-n
 .	.	.	.	.-x
+
 2	2	2	LS	2-l
 .	.	.	.	.-x
 Rezoning	Rezoning	rezoning	NN	rezoning-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 the	the	the	DT	the-d
 land	land	land	NN	land-n
@@ -553,6 +581,7 @@ the	the	the	DT	the-d
 rezoning	rezoning	rezon	VBG	rezon-v
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 can	can	can	MD	can-v
@@ -563,6 +592,7 @@ complicated	complicated	complicate	VBN	complicate-v
 Garcia	Garcia	Garcia	NNP	Garcia-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Sometimes	Sometimes	sometimes	RB	sometimes-r
 ,	,	,	,	,-x
@@ -588,6 +618,7 @@ action	action	action	NN	action-n
 plan	plan	plan	NN	plan-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Zoning	Zoning	zone	VBG	zone-v
 or	or	or	CC	or-c
 entitlement	entitlement	entitlement	NN	entitlement-n
@@ -598,6 +629,7 @@ depending	depending	depend	VBG	depend-v
 upon	upon	upon	IN	upon-i
 location	location	location	NN	location-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 example	example	example	NN	example-n
 ,	,	,	,	,-x
@@ -619,11 +651,13 @@ with	with	with	IN	with-i
 surrounding	surrounding	surround	VBG	surround-v
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 3	3	3	LS	3-l
 .	.	.	.	.-x
 Zoning	Zoning	zone	VBG	zone-v
 variances	variances	variance	NNS	variance-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 projects	projects	project	NNS	project-n
 that	that	that	WDT	that-d
@@ -657,6 +691,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 standards	standards	standard	NNS	standard-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
@@ -682,6 +717,7 @@ standards	standards	standard	NNS	standard-n
 Garcia	Garcia	Garcia	NNP	Garcia-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 most	most	most	RBS	most-r
@@ -691,6 +727,7 @@ a	a	a	DT	a-d
 variance	variance	variance	NN	variance-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 A	A	a	DT	a-d
 well-structured	well-structured	well-structured	JJ	well-structured-j
 plan	plan	plan	NN	plan-n
@@ -712,10 +749,12 @@ the	the	the	DT	the-d
 standard	standard	standard	JJ	standard-j
 requirements	requirements	requirement	NNS	requirement-n
 .	.	.	.	.-x
+
 4	4	4	LS	4-l
 .	.	.	.	.-x
 Permits	Permits	Permits	NNPS	Permits-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 special-use	special-use	special-use	JJ	special-use-j
 permit	permit	permit	NN	permit-n
@@ -738,6 +777,7 @@ of	of	of	IN	of-i
 a	a	a	DT	a-d
 project	project	project	NN	project-n
 .	.	.	.	.-x
+
 Such	Such	such	JJ	such-j
 factors	factors	factor	NNS	factor-n
 might	might	might	MD	might-v
@@ -754,6 +794,7 @@ or	or	or	CC	or-c
 aesthetic	aesthetic	aesthetic	JJ	aesthetic-j
 implications	implications	implication	NNS	implication-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 conditional-use	conditional-use	conditional-use	NN	conditional-use-n
 permit	permit	permit	NN	permit-n
@@ -771,6 +812,7 @@ a	a	a	DT	a-d
 checkbox	checkbox	checkbox	NN	checkbox-n
 fashion	fashion	fashion	NN	fashion-n
 .	.	.	.	.-x
+
 Whether	Whether	whether	IN	whether-i
 a	a	a	DT	a-d
 permit	permit	permit	NN	permit-n
@@ -786,6 +828,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 district	district	district	NN	district-n
 .	.	.	.	.-x
+
 5	5	5	CD	5-f
 .	.	.	.	.-x
 Utility	Utility	Utility	NNP	Utility-e
@@ -793,6 +836,7 @@ and	and	and	CC	and-c
 road	road	road	NN	road-n
 approvals	approvals	approval	NNS	approval-n
 .	.	.	.	.-x
+
 Utilities	Utilities	utility	NNS	utility-n
 may	may	may	MD	may-v
 not	not	not	RB	not-r
@@ -807,6 +851,7 @@ for	for	for	IN	for-i
 your	your	you	PRP$	you-p
 usage	usage	usage	NN	usage-n
 .	.	.	.	.-x
+
 Adequate	Adequate	adequate	JJ	adequate-j
 roadways	roadways	roadway	NNS	roadway-n
 may	may	may	MD	may-v
@@ -817,6 +862,7 @@ connect	connect	connect	VB	connect-v
 your	your	you	PRP$	you-p
 property	property	property	NN	property-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 these	these	these	DT	these-d
 challenges	challenges	challenge	NNS	challenge-n
@@ -839,6 +885,7 @@ or	or	or	CC	or-c
 create	create	create	VB	create-v
 roadways	roadways	roadway	NNS	roadway-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 obtain	obtain	obtain	VB	obtain-v
@@ -856,6 +903,7 @@ you	you	you	PRP	you-p
 to	to	to	TO	to-t
 proceed	proceed	proceed	VB	proceed-v
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 an	an	a	DT	a-d
 understanding	understanding	understanding	NN	understanding-n
@@ -901,3 +949,4 @@ any	any	any	DT	any-d
 necessary	necessary	necessary	JJ	necessary-j
 entitlements	entitlements	entitlement	NNS	entitlement-n
 .	.	.	.	.-x
+

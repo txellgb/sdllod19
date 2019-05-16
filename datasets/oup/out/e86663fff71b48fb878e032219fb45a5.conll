@@ -21,6 +21,7 @@ of	of	of	IN	of-i
 this	this	this	DT	this-d
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 35-year-old	35-year-old	35-year-old	JJ	35-year-old-j
 made	made	make	VBD	make-v
@@ -39,6 +40,7 @@ a	a	a	DT	a-d
 amazing	amazing	amazing	JJ	amazing-j
 ride	ride	ride	NN	ride-n
 .	.	.	.	.-x
+
 Frye	Frye	Frye	NNP	Frye-e
 is	is	be	VBZ	be-v
 in	in	in	IN	in-i
@@ -47,6 +49,7 @@ his	his	he	PRP$	he-p
 NBA	NBA	NBA	NNP	NBA-e
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 in	in	in	IN	in-i
@@ -61,6 +64,7 @@ traded	traded	trade	VBN	trade-v
 last	last	last	JJ	last-j
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -83,6 +87,7 @@ enthusiasm	enthusiasm	enthusiasm	NN	enthusiasm-n
 and	and	and	CC	and-c
 leadership	leadership	leadership	NN	leadership-n
 .	.	.	.	.-x
+
 Frye	Frye	Frye	NNP	Frye-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -116,6 +121,7 @@ team	team	team	NN	team-n
 younger	younger	younger	JJR	younger-j
 players	players	player	NNS	player-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 averaging	averaging	average	VBG	average-v
@@ -126,6 +132,7 @@ and	and	and	CC	and-c
 9.5	9.5	9.5	CD	9.5-f
 minutes	minutes	minute	NNS	minute-n
 .	.	.	.	.-x
+
 Frye	Frye	Frye	NNP	Frye-e
 was	was	be	VBD	be-v
 the	the	the	DT	the-d
@@ -141,6 +148,7 @@ Knicks	Knicks	Knicks	NNPS	Knicks-e
 in	in	in	IN	in-i
 2005	2005	2005	CD	2005-f
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 has	has	have	VBZ	have-v
 also	also	also	RB	also-r
@@ -152,3 +160,4 @@ Phoenix	Phoenix	Phoenix	NNP	Phoenix-e
 and	and	and	CC	and-c
 Orlando	Orlando	Orlando	NNP	Orlando-e
 .	.	.	.	.-x
+

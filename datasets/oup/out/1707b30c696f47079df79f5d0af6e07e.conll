@@ -39,6 +39,7 @@ Red	Red	red	JJ	red-j
 Table	Table	Table	NNP	Table-e
 Talk	Talk	talk	NN	talk-n
 .	.	.	.	.-x
+
 Until	Until	until	IN	until-i
 now	now	now	RB	now-r
 ,	,	,	,	,-x
@@ -70,6 +71,7 @@ latest	latest	latest	JJS	latest-j
 interview	interview	interview	NN	interview-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 model	model	model	NN	model-n
@@ -103,6 +105,7 @@ sit	sit	sit	VBP	sit-v
 down	down	down	RP	down-x
 conversation	conversation	conversation	NN	conversation-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 21-year-old	21-year-old	21-year-old	JJ	21-year-old-j
 explained	explained	explain	VBN	explain-v
@@ -134,6 +137,7 @@ first	first	first	JJ	first-j
 mistake	mistake	mistake	NN	mistake-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 Jordyn	Jordyn	Jordyn	NNP	Jordyn-e
 denies	denies	deny	VBZ	deny-v
 rumours	rumours	rumour	NNS	rumour-n
@@ -157,6 +161,7 @@ Kardashian	Kardashian	Kardashian	NNP	Kardashian-e
 's	's	's	POS	's-p
 baby	baby	baby	NN	baby-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Never	Never	never	RB	never-r
 once	once	once	RB	once-r
@@ -184,6 +189,7 @@ tells	tells	tell	VBZ	tell-v
 Pinket	Pinket	Pinket	NNP	Pinket-e
 Smith	Smith	Smith	NNP	Smith-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Never	Never	never	RB	never-r
 once	once	once	RB	once-r
@@ -210,6 +216,7 @@ plain	plain	plain	JJ	plain-j
 sight	sight	sight	NN	sight-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 21-year-old	21-year-old	21-year-old	JJ	21-year-old-j
 shared	shared	share	VBN	share-v
@@ -245,6 +252,7 @@ the	the	the	DT	the-d
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Once	Once	once	RB	once-r
 she	she	she	PRP	she-p
 saw	saw	see	VBD	see-v
@@ -263,6 +271,7 @@ needed	needed	need	VBD	need-v
 to	to	to	TO	to-t
 leave	leave	leave	VB	leave-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 tell	tell	tell	VBP	tell-v
@@ -280,6 +289,7 @@ Are	Are	be	VBP	be-v
 you	you	you	PRP	you-p
 sure	sure	sure	JJ	sure-j
 ?	?	?	.	?-x
+
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
 like	like	like	IN	like-i
@@ -293,6 +303,7 @@ need	need	need	VBP	need-v
 to	to	to	TO	to-t
 go	go	go	VB	go-v
 ...	...	...	:	...-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 where	where	where	WRB	where-r
@@ -302,6 +313,7 @@ gets	gets	get	VBZ	get-v
 tricky	tricky	tricky	JJ	tricky-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 On	On	on	IN	on-i
 the	the	the	DT	the-d
@@ -314,6 +326,7 @@ kiss	kiss	kiss	NN	kiss-n
 me	me	I	PRP	I-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Whilst	Whilst	whilst	IN	whilst-i
 TMZ	TMZ	tmz	NN	tmz-n
 reported	reported	report	VBD	report-v
@@ -334,6 +347,7 @@ Jordyn	Jordyn	Jordyn	NNP	Jordyn-e
 denied	denied	deny	VBD	deny-v
 that	that	that	IN	that-i
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 ca	ca	can	MD	can-v
@@ -355,6 +369,7 @@ in	in	in	IN	in-i
 that	that	that	DT	that-d
 position	position	position	NN	position-n
 .	.	.	.	.-x
+
 Jordyn	Jordyn	Jordyn	NNP	Jordyn-e
 admitted	admitted	admit	VBD	admit-v
 that	that	that	IN	that-i
@@ -369,6 +384,7 @@ shock	shock	shock	NN	shock-n
 and	and	and	CC	and-c
 denial	denial	denial	NN	denial-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 kept	kept	keep	VBD	keep-v
 telling	telling	tell	VBG	tell-v
@@ -381,6 +397,7 @@ n't	n't	not	RB	not-r
 happen	happen	happen	VB	happen-v
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 morning	morning	morning	NN	morning-n
@@ -400,3 +417,4 @@ mention	mention	mention	VB	mention-v
 the	the	the	DT	the-d
 kiss	kiss	kiss	NN	kiss-n
 .	.	.	.	.-x
+

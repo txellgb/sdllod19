@@ -44,6 +44,7 @@ put	put	put	VBN	put-v
 on	on	on	IN	on-i
 trial	trial	trial	NN	trial-n
 .	.	.	.	.-x
+
 Police	Police	police	NNS	police-n
 and	and	and	CC	and-c
 Rangers	Rangers	Rangers	NNPS	Rangers-e
@@ -54,3 +55,4 @@ route	route	route	NN	route-n
 to	to	to	TO	to-t
 Wagah	Wagah	Wagah	NNP	Wagah-e
 .	.	.	.	.-x
+

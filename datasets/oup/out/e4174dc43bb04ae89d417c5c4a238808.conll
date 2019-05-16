@@ -35,6 +35,7 @@ Claims	Claims	claim	NNS	claim-n
 Satisfaction	Satisfaction	satisfaction	NN	satisfaction-n
 Study	Study	study	NN	study-n
 .	.	.	.	.-x
+
 J.D.	J.D.	J.D.	NNP	J.D.-e
 Power	Power	Power	NNP	Power-e
 said	said	say	VBD	say-v
@@ -69,6 +70,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 settlement	settlement	settlement	NN	settlement-n
 .	.	.	.	.-x
+
 Consumers	Consumers	consumer	NNS	consumer-n
 ranked	ranked	rank	VBD	rank-v
 each	each	each	DT	each-d
@@ -82,6 +84,7 @@ series	series	series	NN	series-n
 of	of	of	IN	of-i
 satisfaction	satisfaction	satisfaction	NN	satisfaction-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 becomes	becomes	become	VBZ	become-v
 a	a	a	DT	a-d
@@ -107,6 +110,7 @@ and	and	and	CC	and-c
 data/analytics	data/analytics	data/analytics	JJ	data/analytics-j
 firm	firm	firm	NN	firm-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Overall	Overall	overall	JJ	overall-j
 customer	customer	customer	NN	customer-n
@@ -146,6 +150,7 @@ in	in	in	IN	in-i
 prepared	prepared	prepared	JJ	prepared-j
 remarks	remarks	remark	NNS	remark-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 also	also	also	RB	also-r
@@ -166,6 +171,7 @@ managing	managing	manage	VBG	manage-v
 customer	customer	customer	NN	customer-n
 expectations	expectations	expectation	NNS	expectation-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 the	the	the	DT	the-d
 industry	industry	industry	NN	industry-n
@@ -205,6 +211,7 @@ top-performing	top-performing	top-performing	JJ	top-performing-j
 insurers	insurers	insurer	NNS	insurer-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 study	study	study	NN	study-n
 measured	measured	measure	VBD	measure-v
@@ -252,6 +259,7 @@ and	and	and	CC	and-c
 repair	repair	repair	VB	repair-v
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 J.D.	J.D.	J.D.	NNP	J.D.-e
 Power	Power	Power	NNP	Power-e
 received	received	receive	VBD	receive-v
@@ -268,3 +276,4 @@ and	and	and	CC	and-c
 November	November	November	NNP	November-e
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+

@@ -43,6 +43,7 @@ repatriated	repatriated	repatriate	VBN	repatriate-v
 to	to	to	TO	to-t
 Myanmar	Myanmar	Myanmar	NNP	Myanmar-e
 .	.	.	.	.-x
+
 More	More	more	JJR	more-j
 than	than	than	IN	than-i
 700	700	700	CD	700-f
@@ -77,6 +78,7 @@ Myanmar	Myanmar	Myanmar	NNP	Myanmar-e
 's	's	's	POS	's-p
 army	army	army	NN	army-n
 .	.	.	.	.-x
+
 Chris	Chris	Chris	NNP	Chris-e
 Lewa	Lewa	Lewa	NNP	Lewa-e
 ,	,	,	,	,-x
@@ -112,3 +114,4 @@ around	around	around	IN	around-i
 February	February	February	NNP	February-e
 15	15	15	CD	15-f
 .	.	.	.	.-x
+

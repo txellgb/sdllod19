@@ -33,6 +33,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 Capital	Capital	capital	NN	capital-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Edinburgh	Edinburgh	Edinburgh	NNP	Edinburgh-e
 and	and	and	CC	and-c
@@ -84,6 +85,7 @@ of	of	of	IN	of-i
 tomorrow	tomorrow	tomorrow	NN	tomorrow-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 means	means	mean	VBZ	mean-v
 everything	everything	everything	NN	everything-n
@@ -114,6 +116,7 @@ influenced	influenced	influence	VBN	influence-v
 by	by	by	IN	by-i
 AI	AI	AI	NNP	AI-e
 .	.	.	.	.-x
+
 EFI	EFI	EFI	NNP	EFI-e
 ,	,	,	,	,-x
 based	based	base	VBN	base-v
@@ -170,6 +173,7 @@ area	area	area	NN	area-n
 's	's	's	POS	's-p
 future	future	future	NN	future-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 aims	aims	aim	VBZ	aim-v
 to	to	to	TO	to-t
@@ -198,6 +202,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 future	future	future	NN	future-n
 .	.	.	.	.-x
+
 Leeann	Leeann	Leeann	NNP	Leeann-e
 Dempster	Dempster	Dempster	NNP	Dempster-e
 ,	,	,	,	,-x
@@ -243,6 +248,7 @@ our	our	we	PRP$	we-p
 region	region	region	NN	region-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 She	She	she	PRP	she-p
 added	added	add	VBD	add-v
 :	:	:	:	:-x
@@ -254,6 +260,7 @@ n't	n't	not	RB	not-r
 be	be	be	VB	be-v
 greater	greater	greater	JJR	greater-j
 .	.	.	.	.-x
+
 Data-driven	Data-driven	data-driven	JJ	data-driven-j
 innovation	innovation	innovation	NN	innovation-n
 can	can	can	MD	can-v
@@ -280,6 +287,7 @@ and	and	and	CC	and-c
 careers	careers	career	NNS	career-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 deal	deal	deal	NN	deal-n
 also	also	also	RB	also-r
@@ -324,6 +332,7 @@ St	St	St	NNP	St-e
 Andrew	Andrew	Andrew	NNP	Andrew-e
 Square	Square	Square	NNP	Square-e
 .	.	.	.	.-x
+
 Infrastructure	Infrastructure	Infrastructure	NNP	Infrastructure-e
 Secretary	Secretary	Secretary	NNP	Secretary-e
 ,	,	,	,	,-x
@@ -358,6 +367,7 @@ business	business	business	NN	business-n
 case	case	case	NN	case-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 Using	Using	use	VBG	use-v
 £	#	#	#	#-x
@@ -398,6 +408,7 @@ entire	entire	entire	JJ	entire-j
 region	region	region	NN	region-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 EFI	EFI	EFI	NNP	EFI-e
 's	's	's	POS	's-p
 Director	Director	Director	NNP	Director-e
@@ -426,6 +437,7 @@ challenges	challenges	challenge	NNS	challenge-n
 for	for	for	IN	for-i
 society	society	society	NN	society-n
 .	.	.	.	.-x
+
 Universities	Universities	university	NNS	university-n
 therefore	therefore	therefore	RB	therefore-r
 have	have	have	VBP	have-v
@@ -447,6 +459,7 @@ industry	industry	industry	NN	industry-n
 and	and	and	CC	and-c
 government	government	government	NN	government-n
 .	.	.	.	.-x
+
 Professor	Professor	Professor	NNP	Professor-e
 McAra	McAra	McAra	NNP	McAra-e
 continued	continued	continue	VBD	continue-v
@@ -484,3 +497,4 @@ a	a	a	DT	a-d
 whole	whole	whole	NN	whole-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

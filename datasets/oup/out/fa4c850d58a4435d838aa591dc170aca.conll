@@ -17,6 +17,7 @@ for	for	for	IN	for-i
 in	in	in	IN	in-i
 height	height	height	NN	height-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Lancers	Lancers	Lancers	NNP	Lancers-e
 '	'	'	POS	'-p
@@ -58,6 +59,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 semifinals	semifinals	semifinal	NNS	semifinal-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Liberty	Liberty	Liberty	NNP	Liberty-e
 's	's	's	POS	's-p
@@ -90,6 +92,7 @@ at	at	at	IN	at-i
 p.m.	p.m.	p.m.	NN	p.m.-n
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 girls	girls	girl	NNS	girl-n
@@ -121,6 +124,7 @@ Maisie	Maisie	Maisie	NNP	Maisie-e
 Burnham	Burnham	Burnham	NNP	Burnham-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 've	've	have	VBP	have-v
@@ -133,6 +137,7 @@ we	we	we	PRP	we-p
 were	were	be	VBD	be-v
 little	little	little	JJ	little-j
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 our	our	we	PRP$	we-p
@@ -146,6 +151,7 @@ we	we	we	PRP	we-p
 ready	ready	ready	JJ	ready-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Burnham	Burnham	Burnham	NNP	Burnham-e
 led	led	lead	VBD	lead-v
 all	all	all	DT	all-d
@@ -163,6 +169,7 @@ the	the	the	DT	the-d
 free-throw	free-throw	free-throw	NN	free-throw-n
 line	line	line	NN	line-n
 .	.	.	.	.-x
+
 Liberty	Liberty	Liberty	NNP	Liberty-e
 hit	hit	hit	VBD	hit-v
 17	17	17	CD	17-f
@@ -177,6 +184,7 @@ just	just	just	RB	just-r
 of	of	of	IN	of-i
 20	20	20	CD	20-f
 .	.	.	.	.-x
+
 Sophomore	Sophomore	sophomore	NN	sophomore-n
 Delaney	Delaney	Delaney	NNP	Delaney-e
 Goodwin	Goodwin	Goodwin	NNP	Goodwin-e
@@ -201,6 +209,7 @@ respectively	respectively	respectively	RB	respectively-r
 for	for	for	IN	for-i
 Liberty	Liberty	Liberty	NNP	Liberty-e
 .	.	.	.	.-x
+
 Cook	Cook	Cook	NNP	Cook-e
 had	had	have	VBD	have-v
 11	11	11	CD	11-f
@@ -209,6 +218,7 @@ rebounds	rebounds	rebound	NNS	rebound-n
 Burnham	Burnham	Burnham	NNP	Burnham-e
 14	14	14	CD	14-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 always	always	always	RB	always-r
@@ -251,6 +261,7 @@ Chris	Chris	Chris	NNP	Chris-e
 Colvin	Colvin	Colvin	NNP	Colvin-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Davenport	Davenport	Davenport	NNP	Davenport-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 21-5	21-5	21-5	CD	21-5-f
@@ -276,6 +287,7 @@ and	and	and	CC	and-c
 never	never	never	RB	never-r
 led	led	lead	VBD	lead-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Gorillas	Gorillas	Gorillas	NNP	Gorillas-e
 also	also	also	RB	also-r
@@ -307,6 +319,7 @@ toward	toward	toward	IN	toward-i
 the	the	the	DT	the-d
 basket	basket	basket	NN	basket-n
 .	.	.	.	.-x
+
 Wilkie	Wilkie	Wilkie	NNP	Wilkie-e
 led	led	lead	VBD	lead-v
 Davenport	Davenport	Davenport	NNP	Davenport-e
@@ -314,6 +327,7 @@ with	with	with	IN	with-i
 16	16	16	CD	16-f
 points	points	point	NNS	point-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Gorillas	Gorillas	Gorillas	NNP	Gorillas-e
 trailed	trailed	trail	VBD	trail-v
@@ -322,6 +336,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 Junior	Junior	Junior	NNP	Junior-e
 Lainy	Lainy	Lainy	NNP	Lainy-e
 Jacobsen	Jacobsen	Jacobsen	NNP	Jacobsen-e
@@ -343,6 +358,7 @@ never	never	never	RB	never-r
 got	got	get	VBD	get-v
 closer	closer	closer	RBR	closer-r
 .	.	.	.	.-x
+
 Davenport	Davenport	Davenport	NNP	Davenport-e
 coach	coach	coach	NN	coach-n
 Stacia	Stacia	Stacia	NNP	Stacia-e
@@ -366,6 +382,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 end	end	end	NN	end-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 was	was	be	VBD	be-v
@@ -387,6 +404,7 @@ young	young	young	JJ	young-j
 Soliday	Soliday	Soliday	NNP	Soliday-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Neither	Neither	neither	DT	neither-d
 team	team	team	NN	team-n
 shot	shot	shot	NN	shot-n
@@ -415,6 +433,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 second	second	second	JJ	second-j
 .	.	.	.	.-x
+
 Liberty	Liberty	Liberty	NNP	Liberty-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 22-4	22-4	22-4	CD	22-4-f
@@ -431,6 +450,7 @@ the	the	the	DT	the-d
 third	third	third	JJ	third-j
 quarter	quarter	quarter	NN	quarter-n
 .	.	.	.	.-x
+
 Burnham	Burnham	Burnham	NNP	Burnham-e
 picked	picked	pick	VBD	pick-v
 up	up	up	RP	up-x
@@ -450,6 +470,7 @@ Lancers	Lancers	Lancers	NNP	Lancers-e
 ahead	ahead	ahead	RB	ahead-r
 37-28	37-28	37-28	CD	37-28-f
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 sat	sat	sit	VBD	sit-v
 the	the	the	DT	the-d
@@ -468,6 +489,7 @@ those	those	those	DT	those-d
 four	four	four	CD	four-f
 fouls	fouls	foul	NNS	foul-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 trust	trust	trust	VBP	trust-v
@@ -499,6 +521,7 @@ mistakes	mistakes	mistake	NNS	mistake-n
 Colvin	Colvin	Colvin	NNP	Colvin-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Liberty	Liberty	Liberty	NNP	Liberty-e
 pushed	pushed	push	VBD	push-v
 its	its	its	PRP$	its-p
@@ -513,6 +536,7 @@ the	the	the	DT	the-d
 fourth	fourth	fourth	JJ	fourth-j
 quarter	quarter	quarter	NN	quarter-n
 .	.	.	.	.-x
+
 Sophomores	Sophomores	Sophomores	NNPS	Sophomores-e
 Ellie	Ellie	Ellie	NNP	Ellie-e
 Telford	Telford	Telford	NNP	Telford-e
@@ -538,3 +562,4 @@ at	at	at	IN	at-i
 p.m.	p.m.	p.m.	NN	p.m.-n
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+

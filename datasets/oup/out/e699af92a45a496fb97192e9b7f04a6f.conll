@@ -19,6 +19,7 @@ a	a	a	DT	a-d
 responsible	responsible	responsible	JJ	responsible-j
 manner	manner	manner	NN	manner-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 comes	comes	come	VBZ	come-v
 after	after	after	IN	after-i
@@ -41,6 +42,7 @@ Bridge	Bridge	Bridge	NNP	Bridge-e
 in	in	in	IN	in-i
 Healesville	Healesville	Healesville	NNP	Healesville-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 waste	waste	waste	NN	waste-n
 included	included	include	VBD	include-v
@@ -57,6 +59,7 @@ an	an	a	DT	a-d
 abandoned	abandoned	abandon	VBN	abandon-v
 tyre	tyre	tyre	NN	tyre-n
 .	.	.	.	.-x
+
 HEWI	HEWI	hewi	NN	hewi-n
 states	states	state	NNS	state-n
 that	that	that	WDT	that-d
@@ -94,6 +97,7 @@ downstream	downstream	downstream	JJ	downstream-j
 to	to	to	TO	to-t
 germinate	germinate	germinate	VB	germinate-v
 .	.	.	.	.-x
+
 HEWI	HEWI	hewi	NN	hewi-n
 believe	believe	believe	VBP	believe-v
 the	the	the	DT	the-d
@@ -114,6 +118,7 @@ January	January	January	NNP	January-e
 and	and	and	CC	and-c
 February	February	February	NNP	February-e
 .	.	.	.	.-x
+
 HEWI	HEWI	hewi	NN	hewi-n
 and	and	and	CC	and-c
 Mt	Mt	mt	NN	mt-n
@@ -135,6 +140,7 @@ monthly	monthly	monthly	JJ	monthly-j
 water	water	water	NN	water-n
 sampling	sampling	sampling	NN	sampling-n
 .	.	.	.	.-x
+
 HEWI	HEWI	hewi	NN	hewi-n
 will	will	will	MD	will-v
 be	be	be	VB	be-v
@@ -160,6 +166,7 @@ from	from	from	IN	from-i
 11.30	11.30	11.30	CD	11.30-f
 am	am	be	VBP	be-v
 .	.	.	.	.-x
+
 Community	Community	Community	NNP	Community-e
 members	members	member	NNS	member-n
 are	are	be	VBP	be-v
@@ -178,6 +185,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 provided	provided	provide	VBN	provide-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 more	more	more	JJR	more-j
 information	information	information	NN	information-n
@@ -187,3 +195,4 @@ contact	contact	contact	NN	contact-n
 5962	5962	5962	CD	5962-f
 1224	1224	1224	CD	1224-f
 .	.	.	.	.-x
+

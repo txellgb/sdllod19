@@ -16,6 +16,7 @@ March	March	March	NNP	March-e
 at	at	at	IN	at-i
 2:49	2:49	2:49	CD	2:49-f
 PM	PM	pm	NN	pm-n
+
 Canada	Canada	Canada	NNP	Canada-e
 will	will	will	MD	will-v
 move	move	move	VB	move-v
@@ -57,6 +58,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 States	States	States	NNPS	States-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 decision	decision	decision	NN	decision-n
 ,	,	,	,	,-x
@@ -84,6 +86,7 @@ an	an	a	DT	a-d
 extradition	extradition	extradition	NN	extradition-n
 hearing	hearing	hearing	NN	hearing-n
 .	.	.	.	.-x
+
 Meng	Meng	Meng	NNP	Meng-e
 will	will	will	MD	will-v
 next	next	next	RB	next-r
@@ -106,6 +109,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 set	set	set	VBN	set-v
 .	.	.	.	.-x
+
 Meng	Meng	Meng	NNP	Meng-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -147,6 +151,7 @@ ongoing	ongoing	ongoing	JJ	ongoing-j
 diplomatic	diplomatic	diplomatic	JJ	diplomatic-j
 dispute	dispute	dispute	NN	dispute-n
 .	.	.	.	.-x
+
 China	China	China	NNP	China-e
 has	has	have	VBZ	have-v
 repeatedly	repeatedly	repeatedly	RB	repeatedly-r
@@ -157,6 +162,7 @@ to	to	to	TO	to-t
 release	release	release	VB	release-v
 Meng	Meng	Meng	NNP	Meng-e
 .	.	.	.	.-x
+
 Canada	Canada	Canada	NNP	Canada-e
 refused	refused	refuse	VBD	refuse-v
 ,	,	,	,	,-x
@@ -170,6 +176,7 @@ not	not	not	RB	not-r
 political	political	political	JJ	political-j
 matter	matter	matter	NN	matter-n
 .	.	.	.	.-x
+
 Not	Not	not	RB	not-r
 long	long	long	RB	long-r
 after	after	after	IN	after-i
@@ -185,6 +192,7 @@ vague	vague	vague	JJ	vague-j
 security	security	security	NN	security-n
 charges	charges	charge	NNS	charge-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 standoff	standoff	standoff	NN	standoff-n
 over	over	over	IN	over-i
@@ -205,6 +213,7 @@ negotiations	negotiations	negotiation	NNS	negotiation-n
 with	with	with	IN	with-i
 Beijing	Beijing	Beijing	NNP	Beijing-e
 .	.	.	.	.-x
+
 President	President	President	NNP	President-e
 Trump	Trump	Trump	NNP	Trump-e
 at	at	at	IN	at-i
@@ -227,6 +236,7 @@ Meng	Meng	Meng	NNP	Meng-e
 's	's	's	POS	's-p
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 January	January	January	NNP	January-e
 ,	,	,	,	,-x
@@ -252,6 +262,7 @@ and	and	and	CC	and-c
 wire	wire	wire	NN	wire-n
 fraud	fraud	fraud	NN	fraud-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 also	also	also	RB	also-r
 charged	charged	charge	VBD	charge-v
@@ -264,6 +275,7 @@ sanctions	sanctions	sanction	NNS	sanction-n
 on	on	on	IN	on-i
 Iran	Iran	Iran	NNP	Iran-e
 .	.	.	.	.-x
+
 Friday	Friday	Friday	NNP	Friday-e
 's	's	's	POS	's-p
 announcement	announcement	announcement	NN	announcement-n
@@ -286,6 +298,7 @@ pursue	pursue	pursue	VB	pursue-v
 their	their	they	PRP$	they-p
 case	case	case	NN	case-n
 .	.	.	.	.-x
+
 Huawei	Huawei	Huawei	NNP	Huawei-e
 pleads	pleads	plead	VBZ	plead-v
 not	not	not	RB	not-r
@@ -298,6 +311,7 @@ T-Mobile	T-Mobile	T-Mobile	NNP	T-Mobile-e
 's	's	's	POS	's-p
 trade	trade	trade	NN	trade-n
 secrets	secrets	secret	NNS	secret-n
+
 Just	Just	just	RB	just-r
 ask	ask	ask	VB	ask-v
 these	these	these	DT	these-d
@@ -305,3 +319,4 @@ cute	cute	cute	JJ	cute-j
 singing	singing	singing	NN	singing-n
 children	children	child	NNS	child-n
 .	.	.	.	.-x
+

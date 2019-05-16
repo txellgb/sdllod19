@@ -41,6 +41,7 @@ MBUX	MBUX	MBUX	NNP	MBUX-e
 user	user	user	NN	user-n
 interface	interface	interface	NN	interface-n
 .	.	.	.	.-x
+
 Offered	Offered	offer	VBN	offer-v
 in	in	in	IN	in-i
 rear	rear	rear	NN	rear-n
@@ -76,6 +77,7 @@ and	and	and	CC	and-c
 new	new	new	JJ	new-j
 taillights	taillights	taillight	NNS	taillight-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 GLC	GLC	GLC	NNP	GLC-e
 can	can	can	MD	can-v
@@ -94,6 +96,7 @@ to	to	to	TO	to-t
 wheel	wheel	wheel	NN	wheel-n
 designs	designs	design	NNS	design-n
 .	.	.	.	.-x
+
 AMG	AMG	AMG	NNP	AMG-e
 Line	Line	Line	NNP	Line-e
 trim	trim	trim	VB	trim-v
@@ -120,6 +123,7 @@ rear	rear	rear	JJ	rear-j
 exhaust	exhaust	exhaust	NN	exhaust-n
 tips	tips	tip	NNS	tip-n
 .	.	.	.	.-x
+
 Other	Other	other	JJ	other-j
 AMG	AMG	AMG	NNP	AMG-e
 features	features	feature	NNS	feature-n
@@ -144,8 +148,10 @@ split	split	split	NN	split-n
 5-spoke	5-spoke	5-spoke	NN	5-spoke-n
 rims	rims	rim	NNS	rim-n
 .	.	.	.	.-x
+
 Refined	Refined	refine	VBN	refine-v
 interior	interior	interior	NN	interior-n
+
 The	The	the	DT	the-d
 new	new	new	JJ	new-j
 cabin	cabin	cabin	NN	cabin-n
@@ -176,6 +182,7 @@ a	a	a	DT	a-d
 10.25-inch	10.25-inch	10.25-inch	JJ	10.25-inch-j
 touchscreen	touchscreen	touchscreen	NN	touchscreen-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 digital	digital	digital	JJ	digital-j
 instrument	instrument	instrument	NN	instrument-n
@@ -193,6 +200,7 @@ a	a	a	DT	a-d
 12.3-inch	12.3-inch	12.3-inch	JJ	12.3-inch-j
 screen	screen	screen	NN	screen-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 updated	updated	update	VBN	update-v
 infotainment	infotainment	infotainment	NN	infotainment-n
@@ -221,6 +229,7 @@ when	when	when	WRB	when-r
 making	making	make	VBG	make-v
 requests	requests	request	NNS	request-n
 .	.	.	.	.-x
+
 Among	Among	among	IN	among-i
 the	the	the	DT	the-d
 standard	standard	standard	JJ	standard-j
@@ -287,6 +296,7 @@ brake	brake	brake	NNP	brake-e
 hold	hold	hold	VBP	hold-v
 features	features	feature	NNS	feature-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 new	new	new	JJ	new-j
 2.0-liter	2.0-liter	2.0-liter	JJ	2.0-liter-j
@@ -300,6 +310,7 @@ the	the	the	DT	the-d
 GLC	GLC	GLC	NNP	GLC-e
 300	300	300	CD	300-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 redesigned	redesigned	redesign	VBN	redesign-v
 powerplant	powerplant	powerplant	NN	powerplant-n
@@ -313,6 +324,7 @@ lb-ft	lb-ft	lb-ft	NN	lb-ft-n
 of	of	of	IN	of-i
 torque	torque	torque	NN	torque-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 improvements	improvements	improvement	NNS	improvement-n
 result	result	result	VBP	result-v
@@ -323,6 +335,7 @@ gain	gain	gain	NN	gain-n
 in	in	in	IN	in-i
 output	output	output	NN	output-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 engine	engine	engine	NN	engine-n
 is	is	be	VBZ	be-v
@@ -341,6 +354,7 @@ all-wheel	all-wheel	all-wheel	JJ	all-wheel-j
 drive	drive	drive	NN	drive-n
 variants	variants	variant	NNS	variant-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 GLC	GLC	glc	NN	glc-n
 300	300	300	CD	300-f
@@ -367,6 +381,7 @@ and	and	and	CC	and-c
 driving	driving	driving	NN	driving-n
 conditions	conditions	condition	NNS	condition-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 4Matic	4Matic	4matic	JJ	4matic-j
 all-wheel	all-wheel	all-wheel	JJ	all-wheel-j
@@ -397,6 +412,7 @@ Sport	Sport	Sport	NNP	Sport-e
 +	+	+	CC	+-c
 modes	modes	mode	NNS	mode-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 2020	2020	2020	CD	2020-f
 Mercedes-Benz	Mercedes-Benz	Mercedes-Benz	NNP	Mercedes-Benz-e
@@ -447,6 +463,7 @@ and	and	and	CC	and-c
 speed	speed	speed	VB	speed-v
 limits	limits	limit	NNS	limit-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 GLC	GLC	GLC	NNP	GLC-e
 is	is	be	VBZ	be-v
@@ -485,6 +502,7 @@ with	with	with	IN	with-i
 cross-traffic	cross-traffic	cross-traffic	JJ	cross-traffic-j
 functionality	functionality	functionality	NN	functionality-n
 .	.	.	.	.-x
+
 Pricing	Pricing	pricing	NN	pricing-n
 on	on	on	IN	on-i
 the	the	the	DT	the-d
@@ -505,6 +523,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 2019	2019	2019	CD	2019-f
 GLC	GLC	glc	NN	glc-n
@@ -514,3 +533,4 @@ at	at	at	IN	at-i
 $	$	$	$	$-x
 40,700	40,700	40,700	CD	40,700-f
 .	.	.	.	.-x
+

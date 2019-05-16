@@ -22,6 +22,7 @@ Kong	Kong	Kong	NNP	Kong-e
 generic	generic	generic	JJ	generic-j
 skyline	skyline	skyline	NN	skyline-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 end	end	end	NN	end-n
@@ -48,6 +49,7 @@ his	his	he	PRP$	he-p
 dream	dream	dream	NN	dream-n
 project	project	project	NN	project-n
 .	.	.	.	.-x
+
 Handprints	Handprints	handprint	NNS	handprint-n
 of	of	of	IN	of-i
 film	film	film	NN	film-n
@@ -60,6 +62,7 @@ Avenue	Avenue	Avenue	NNP	Avenue-e
 of	of	of	IN	of-i
 Stars	Stars	Stars	NNP	Stars-e
 .	.	.	.	.-x
+
 Architect	Architect	architect	NN	architect-n
 James	James	James	NNP	James-e
 Corner	Corner	corner	NN	corner-n
@@ -77,6 +80,7 @@ Avenue	Avenue	Avenue	NNP	Avenue-e
 of	of	of	IN	of-i
 Stars	Stars	Stars	NNP	Stars-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 approximately	approximately	approximately	RB	approximately-r
 US$	US$	us$	$	us$-x
@@ -102,6 +106,7 @@ price	price	price	NN	price-n
 tag	tag	tag	NN	tag-n
 bucket	bucket	bucket	NN	bucket-n
 .	.	.	.	.-x
+
 Cantopop	Cantopop	Cantopop	NNP	Cantopop-e
 diva	diva	diva	NN	diva-n
 Anita	Anita	Anita	NNP	Anita-e
@@ -115,6 +120,7 @@ Avenue	Avenue	Avenue	NNP	Avenue-e
 of	of	of	IN	of-i
 Stars	Stars	Stars	NNP	Stars-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 bronze	bronze	bronze	NN	bronze-n
 statue	statue	statue	NN	statue-n
@@ -133,6 +139,7 @@ Avenue	Avenue	Avenue	NNP	Avenue-e
 of	of	of	IN	of-i
 Stars	Stars	Stars	NNP	Stars-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 very	very	very	RB	very-r
@@ -144,3 +151,4 @@ temperature	temperature	temperature	NN	temperature-n
 very	very	very	RB	very-r
 soft	soft	soft	JJ	soft-j
 .	.	.	.	.-x
+

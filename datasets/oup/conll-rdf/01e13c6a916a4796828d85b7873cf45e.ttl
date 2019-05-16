@@ -33,26 +33,44 @@
 :s1_25 a nif:Word; conll:WORD "a"; conll:TOKEN "a"; conll:LEMMA "a"; conll:LEMPOS "a-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_26 .
 :s1_26 a nif:Word; conll:WORD "gas"; conll:TOKEN "gas"; conll:LEMMA "gas"; conll:LEMPOS "gas-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_27 .
 :s1_27 a nif:Word; conll:WORD "station"; conll:TOKEN "station"; conll:LEMMA "station"; conll:LEMPOS "station-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_28 .
-:s1_28 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_29 .
-:s1_29 a nif:Word; conll:WORD "Evidence"; conll:TOKEN "Evidence"; conll:LEMMA "evidence"; conll:LEMPOS "evidence-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_30 .
-:s1_30 a nif:Word; conll:WORD "markers"; conll:TOKEN "markers"; conll:LEMMA "marker"; conll:LEMPOS "marker-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_31 .
-:s1_31 a nif:Word; conll:WORD "littered"; conll:TOKEN "littered"; conll:LEMMA "litter"; conll:LEMPOS "litter-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_32 .
-:s1_32 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_33 .
-:s1_33 a nif:Word; conll:WORD "street"; conll:TOKEN "street"; conll:LEMMA "street"; conll:LEMPOS "street-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_34 .
-:s1_34 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_35 .
-:s1_35 a nif:Word; conll:WORD "Oakland"; conll:TOKEN "Oakland"; conll:LEMMA "Oakland"; conll:LEMPOS "Oakland-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_36 .
-:s1_36 a nif:Word; conll:WORD "police"; conll:TOKEN "police"; conll:LEMMA "police"; conll:LEMPOS "police-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_37 .
-:s1_37 a nif:Word; conll:WORD "say"; conll:TOKEN "say"; conll:LEMMA "say"; conll:LEMPOS "say-v"; conll:HEAD :s1_0; conll:POS "VBP"; nif:nextWord :s1_38 .
-:s1_38 a nif:Word; conll:WORD "four"; conll:TOKEN "four"; conll:LEMMA "four"; conll:LEMPOS "four-f"; conll:HEAD :s1_0; conll:POS "CD"; nif:nextWord :s1_39 .
-:s1_39 a nif:Word; conll:WORD "victims"; conll:TOKEN "victims"; conll:LEMMA "victim"; conll:LEMPOS "victim-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_40 .
-:s1_40 a nif:Word; conll:WORD "were"; conll:TOKEN "were"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_41 .
-:s1_41 a nif:Word; conll:WORD "transported"; conll:TOKEN "transported"; conll:LEMMA "transport"; conll:LEMPOS "transport-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_42 .
-:s1_42 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_43 .
-:s1_43 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_44 .
-:s1_44 a nif:Word; conll:WORD "hospital"; conll:TOKEN "hospital"; conll:LEMMA "hospital"; conll:LEMPOS "hospital-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_45 .
-:s1_45 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_46 .
-:s1_46 a nif:Word; conll:WORD "one"; conll:TOKEN "one"; conll:LEMMA "one"; conll:LEMPOS "one-f"; conll:HEAD :s1_0; conll:POS "CD"; nif:nextWord :s1_47 .
-:s1_47 a nif:Word; conll:WORD "has"; conll:TOKEN "has"; conll:LEMMA "have"; conll:LEMPOS "have-v"; conll:HEAD :s1_0; conll:POS "VBZ"; nif:nextWord :s1_48 .
-:s1_48 a nif:Word; conll:WORD "died"; conll:TOKEN "died"; conll:LEMMA "die"; conll:LEMPOS "die-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_49 .
-:s1_49 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+:s1_28 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/01e13c6a916a4796828d85b7873cf45e#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s1_0 nif:nextSentence :s2_0 .
+:s2_0 a nif:Sentence .
+:s2_1 a nif:Word; conll:WORD "Evidence"; conll:TOKEN "Evidence"; conll:LEMMA "evidence"; conll:LEMPOS "evidence-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_2 .
+:s2_2 a nif:Word; conll:WORD "markers"; conll:TOKEN "markers"; conll:LEMMA "marker"; conll:LEMPOS "marker-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_3 .
+:s2_3 a nif:Word; conll:WORD "littered"; conll:TOKEN "littered"; conll:LEMMA "litter"; conll:LEMPOS "litter-v"; conll:HEAD :s2_0; conll:POS "VBD"; nif:nextWord :s2_4 .
+:s2_4 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_5 .
+:s2_5 a nif:Word; conll:WORD "street"; conll:TOKEN "street"; conll:LEMMA "street"; conll:LEMPOS "street-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_6 .
+:s2_6 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s2_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/01e13c6a916a4796828d85b7873cf45e#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s2_0 nif:nextSentence :s3_0 .
+:s3_0 a nif:Sentence .
+:s3_1 a nif:Word; conll:WORD "Oakland"; conll:TOKEN "Oakland"; conll:LEMMA "Oakland"; conll:LEMPOS "Oakland-e"; conll:HEAD :s3_0; conll:POS "NNP"; nif:nextWord :s3_2 .
+:s3_2 a nif:Word; conll:WORD "police"; conll:TOKEN "police"; conll:LEMMA "police"; conll:LEMPOS "police-n"; conll:HEAD :s3_0; conll:POS "NNS"; nif:nextWord :s3_3 .
+:s3_3 a nif:Word; conll:WORD "say"; conll:TOKEN "say"; conll:LEMMA "say"; conll:LEMPOS "say-v"; conll:HEAD :s3_0; conll:POS "VBP"; nif:nextWord :s3_4 .
+:s3_4 a nif:Word; conll:WORD "four"; conll:TOKEN "four"; conll:LEMMA "four"; conll:LEMPOS "four-f"; conll:HEAD :s3_0; conll:POS "CD"; nif:nextWord :s3_5 .
+:s3_5 a nif:Word; conll:WORD "victims"; conll:TOKEN "victims"; conll:LEMMA "victim"; conll:LEMPOS "victim-n"; conll:HEAD :s3_0; conll:POS "NNS"; nif:nextWord :s3_6 .
+:s3_6 a nif:Word; conll:WORD "were"; conll:TOKEN "were"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s3_0; conll:POS "VBD"; nif:nextWord :s3_7 .
+:s3_7 a nif:Word; conll:WORD "transported"; conll:TOKEN "transported"; conll:LEMMA "transport"; conll:LEMPOS "transport-v"; conll:HEAD :s3_0; conll:POS "VBN"; nif:nextWord :s3_8 .
+:s3_8 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s3_0; conll:POS "TO"; nif:nextWord :s3_9 .
+:s3_9 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s3_0; conll:POS "DT"; nif:nextWord :s3_10 .
+:s3_10 a nif:Word; conll:WORD "hospital"; conll:TOKEN "hospital"; conll:LEMMA "hospital"; conll:LEMPOS "hospital-n"; conll:HEAD :s3_0; conll:POS "NN"; nif:nextWord :s3_11 .
+:s3_11 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s3_0; conll:POS ","; nif:nextWord :s3_12 .
+:s3_12 a nif:Word; conll:WORD "one"; conll:TOKEN "one"; conll:LEMMA "one"; conll:LEMPOS "one-f"; conll:HEAD :s3_0; conll:POS "CD"; nif:nextWord :s3_13 .
+:s3_13 a nif:Word; conll:WORD "has"; conll:TOKEN "has"; conll:LEMMA "have"; conll:LEMPOS "have-v"; conll:HEAD :s3_0; conll:POS "VBZ"; nif:nextWord :s3_14 .
+:s3_14 a nif:Word; conll:WORD "died"; conll:TOKEN "died"; conll:LEMMA "die"; conll:LEMPOS "die-v"; conll:HEAD :s3_0; conll:POS "VBN"; nif:nextWord :s3_15 .
+:s3_15 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s3_0; conll:POS "." .
 

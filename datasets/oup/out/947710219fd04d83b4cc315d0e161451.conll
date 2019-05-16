@@ -16,6 +16,7 @@ including	including	include	VBG	include-v
 Smith	Smith	Smith	NNP	Smith-e
 ,	,	,	,	,-x
 Usman	Usman	Usman	NNP	Usman-e
+
 AXS	AXS	AXS	NNP	AXS-e
 TV	TV	TV	NNP	TV-e
 Fights	Fights	Fights	NNP	Fights-e
@@ -40,6 +41,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 UFC	UFC	UFC	NNP	UFC-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -67,6 +69,7 @@ in	in	in	IN	in-i
 Las	Las	Las	NNP	Las-e
 Vegas	Vegas	Vegas	NNP	Vegas-e
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 top	top	top	NN	top-n
@@ -112,6 +115,7 @@ MMA	MMA	MMA	NNP	MMA-e
 UFC	UFC	ufc	NN	ufc-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 just	just	just	RB	just-r
 before	before	before	IN	before-i
@@ -149,6 +153,7 @@ the	the	the	DT	the-d
 welterweight	welterweight	welterweight	JJ	welterweight-j
 title	title	title	NN	title-n
 .	.	.	.	.-x
+
 AXS	AXS	AXS	NNP	AXS-e
 TV	TV	TV	NNP	TV-e
 vet	vet	vet	NN	vet-n
@@ -192,6 +197,7 @@ with	with	with	IN	with-i
 a	a	a	DT	a-d
 win	win	win	VBP	win-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 Charles	Charles	Charles	NNP	Charles-e
 Byrd	Byrd	Byrd	NNP	Byrd-e
@@ -234,6 +240,7 @@ a	a	a	DT	a-d
 middleweight	middleweight	middleweight	JJ	middleweight-j
 bout	bout	bout	NN	bout-n
 .	.	.	.	.-x
+
 Check	Check	check	VB	check-v
 out	out	out	RP	out-x
 the	the	the	DT	the-d
@@ -264,3 +271,4 @@ UFC	UFC	ufc	NN	ufc-n
 235	235	235	CD	235-f
 matchups	matchups	matchup	NNS	matchup-n
 .	.	.	.	.-x
+

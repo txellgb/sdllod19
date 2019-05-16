@@ -46,6 +46,7 @@ King	King	King	NNP	King-e
 Power	Power	Power	NNP	Power-e
 stadium	stadium	stadium	NN	stadium-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 55-year-old	55-year-old	55-year-old	JJ	55-year-old-j
 has	has	have	VBZ	have-v
@@ -63,6 +64,7 @@ my	my	my	PRP$	my-p
 life	life	life	NN	life-n
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 switch	switch	switch	NN	switch-n
 from	from	from	IN	from-i
@@ -91,6 +93,7 @@ Celtic	Celtic	celtic	JJ	celtic-j
 this	this	this	DT	this-d
 week	week	week	NN	week-n
 .	.	.	.	.-x
+
 Foxes	Foxes	fox	NNS	fox-n
 fans	fans	fan	NNS	fan-n
 will	will	will	MD	will-v
@@ -110,6 +113,7 @@ their	their	they	PRP$	they-p
 club	club	club	NN	club-n
 though	though	though	IN	though-i
 .	.	.	.	.-x
+
 Speaking	Speaking	speak	VBG	speak-v
 to	to	to	TO	to-t
 TalkSport	TalkSport	TalkSport	NNP	TalkSport-e
@@ -142,6 +146,7 @@ treble	treble	treble	NN	treble-n
 with	with	with	IN	with-i
 Celtic	Celtic	Celtic	NNP	Celtic-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 suggested	suggested	suggest	VBD	suggest-v
 that	that	that	IN	that-i
@@ -157,6 +162,7 @@ offer	offer	offer	NN	offer-n
 from	from	from	IN	from-i
 Chelsea	Chelsea	Chelsea	NNP	Chelsea-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 left	left	leave	VBD	leave-v
@@ -177,11 +183,13 @@ left	left	leave	VBD	leave-v
 Holloway	Holloway	Holloway	NNP	Holloway-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 got	got	get	VBD	get-v
 relegated	relegated	relegate	VBN	relegate-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 Brendan	Brendan	Brendan	NNP	Brendan-e
 ,	,	,	,	,-x
@@ -210,6 +218,7 @@ n't	n't	not	RB	not-r
 regret	regret	regret	VB	regret-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Why	Why	why	WRB	why-r
 would	would	would	MD	would-v
@@ -225,6 +234,7 @@ the	the	the	DT	the-d
 summer	summer	summer	NN	summer-n
 ?	?	?	.	?-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 've	've	have	VBP	have-v
@@ -240,3 +250,4 @@ leave	leave	leave	VB	leave-v
 with	with	with	IN	with-i
 dignity	dignity	dignity	NN	dignity-n
 .	.	.	.	.-x
+

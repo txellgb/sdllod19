@@ -14,6 +14,7 @@ Houston	Houston	Houston	NNP	Houston-e
 rallies	rallies	rally	VBZ	rally-v
 over	over	over	IN	over-i
 Miami	Miami	Miami	NNP	Miami-e
+
 The	The	the	DT	the-d
 Heat	Heat	Heat	NNP	Heat-e
 --	--	--	:	---x
@@ -48,6 +49,7 @@ a	a	a	DT	a-d
 37-22	37-22	37-22	CD	37-22-f
 run	run	run	NN	run-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 reigning	reigning	reign	VBG	reign-v
 MVP	MVP	mvp	NN	mvp-n
@@ -61,6 +63,7 @@ time	time	time	NN	time-n
 this	this	this	DT	this-d
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Cleveland	Cleveland	Cleveland	NNP	Cleveland-e
 Cavaliers	Cavaliers	Cavaliers	NNPS	Cavaliers-e
@@ -78,6 +81,7 @@ scoring	scoring	score	VBG	score-v
 20	20	20	CD	20-f
 points	points	point	NNS	point-n
 .	.	.	.	.-x
+
 Kevin	Kevin	Kevin	NNP	Kevin-e
 Love	Love	Love	NNP	Love-e
 scored	scored	score	VBD	score-v
@@ -114,3 +118,4 @@ win	win	win	VB	win-v
 of	of	of	IN	of-i
 season	season	season	NN	season-n
 .	.	.	.	.-x
+

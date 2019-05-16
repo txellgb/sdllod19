@@ -2,6 +2,7 @@
 ExoFiT	ExoFiT	ExoFiT	NNP	ExoFiT-e
 rover	rover	rover	NN	rover-n
 voyage	voyage	voyage	NN	voyage-n
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 make	make	make	VBP	make-v
@@ -24,6 +25,7 @@ overseeing	overseeing	oversee	VBG	oversee-v
 the	the	the	DT	the-d
 activities	activities	activity	NNS	activity-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 are	are	be	VBP	be-v
@@ -87,6 +89,7 @@ next	next	next	RB	next-r
 adds	adds	add	VBZ	add-v
 Juan	Juan	Juan	NNP	Juan-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 campaign	campaign	campaign	NN	campaign-n
 started	started	start	VBD	start-v
@@ -100,6 +103,7 @@ until	until	until	IN	until-i
 1	1	1	CD	1-f
 March	March	March	NNP	March-e
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -131,6 +135,7 @@ a	a	a	DT	a-d
 mission	mission	mission	NN	mission-n
 control	control	control	NN	control-n
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 over	over	over	IN	over-i
 60	60	60	CD	60-f
@@ -158,6 +163,7 @@ real	real	real	JJ	real-j
 mission	mission	mission	NN	mission-n
 issues	issues	issue	NNS	issue-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 are	are	be	VBP	be-v
 learning	learning	learn	VBG	learn-v
@@ -190,6 +196,7 @@ manager	manager	manager	NN	manager-n
 from	from	from	IN	from-i
 Airbus	Airbus	Airbus	NNP	Airbus-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 rover	rover	rover	NN	rover-n
 on	on	on	IN	on-i
@@ -200,6 +207,7 @@ scientists	scientists	scientist	NNS	scientist-n
 in	in	in	IN	in-i
 the	the	the	DT	the-d
 blind	blind	blind	JJ	blind-j
+
 The	The	the	DT	the-d
 rover	rover	rover	NN	rover-n
 is	is	be	VBZ	be-v
@@ -229,6 +237,7 @@ replicate	replicate	replicate	VB	replicate-v
 martian	martian	martian	JJ	martian-j
 operations	operations	operation	NNS	operation-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 it	it	it	PRP	it-p
 departed	departed	depart	VBD	depart-v
@@ -265,6 +274,7 @@ with	with	with	IN	with-i
 mission	mission	mission	NN	mission-n
 control	control	control	NN	control-n
 .	.	.	.	.-x
+
 Scientists	Scientists	scientist	NNS	scientist-n
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -299,6 +309,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 terrain	terrain	terrain	NN	terrain-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 only	only	only	RB	only-r
@@ -335,6 +346,7 @@ The	The	the	DT	the-d
 Open	Open	Open	NNP	Open-e
 University	University	University	NNP	University-e
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 every	every	every	DT	every-d
 martian	martian	martian	JJ	martian-j
@@ -369,6 +381,7 @@ a	a	a	DT	a-d
 few	few	few	JJ	few-j
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -388,6 +401,7 @@ stressful	stressful	stressful	JJ	stressful-j
 says	says	say	VBZ	say-v
 Matt	Matt	Matt	NNP	Matt-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ExoFiT	ExoFiT	exofit	NN	exofit-n
 teams	teams	team	NNS	team-n
@@ -420,6 +434,7 @@ and	and	and	CC	and-c
 overcoming	overcoming	overcome	VBG	overcome-v
 slopes	slopes	slope	NNS	slope-n
 .	.	.	.	.-x
+
 Drilling	Drilling	drilling	NN	drilling-n
 into	into	into	IN	into-i
 ancient	ancient	ancient	JJ	ancient-j
@@ -432,6 +447,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 trial	trial	trial	NN	trial-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Just	Just	just	RB	just-r
 like	like	like	IN	like-i
@@ -462,6 +478,7 @@ life	life	life	NN	life-n
 says	says	say	VBZ	say-v
 Matt	Matt	Matt	NNP	Matt-e
 .	.	.	.	.-x
+
 ExoFiT	ExoFiT	exofit	NN	exofit-n
 stands	stands	stand	VBZ	stand-v
 for	for	for	IN	for-i
@@ -507,3 +524,4 @@ Sample	Sample	Sample	NNP	Sample-e
 Return	Return	return	NN	return-n
 mission	mission	mission	NN	mission-n
 .	.	.	.	.-x
+

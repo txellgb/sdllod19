@@ -28,6 +28,7 @@ out	out	out	IN	out-i
 of	of	of	IN	of-i
 a	a	a	DT	a-d
 train	train	train	NN	train-n
+
 Portuguese	Portuguese	portuguese	JJ	portuguese-j
 bloggers	bloggers	blogger	NNS	blogger-n
 Raquel	Raquel	Raquel	NNP	Raquel-e
@@ -50,6 +51,7 @@ through	through	through	IN	through-i
 Sri	Sri	Sri	NNP	Sri-e
 Lanka	Lanka	Lanka	NNP	Lanka-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 photo	photo	photo	NN	photo-n
@@ -69,6 +71,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 bars	bars	bar	NNS	bar-n
 .	.	.	.	.-x
+
 Raquel	Raquel	Raquel	NNP	Raquel-e
 who	who	who	WP	who-p
 is	is	be	VBZ	be-v
@@ -90,6 +93,7 @@ kisses	kisses	kiss	NNS	kiss-n
 her	her	she	PRP$	she-p
 forehead	forehead	forehead	NN	forehead-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 train	train	train	NN	train-n
 is	is	be	VBZ	be-v
@@ -110,6 +114,7 @@ area	area	area	NN	area-n
 of	of	of	IN	of-i
 greenery	greenery	greenery	NN	greenery-n
 .	.	.	.	.-x
+
 Many	Many	many	JJ	many-j
 have	have	have	VBP	have-v
 slammed	slammed	slam	VBN	slam-v
@@ -134,6 +139,7 @@ to	to	to	TO	to-t
 copy	copy	copy	VB	copy-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 caption	caption	caption	NN	caption-n
 reads	reads	read	VBZ	read-v
@@ -165,6 +171,7 @@ experiences	experiences	experience	NNS	experience-n
 to	to	to	TO	to-t
 enjoy	enjoy	enjoy	VB	enjoy-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 where	where	where	WRB	where-r
 are	are	be	VBP	be-v
@@ -215,6 +222,7 @@ wait	wait	wait	VB	wait-v
 too	too	too	RB	too-r
 long	long	long	RB	long-r
 ...	...	...	:	...-x
+
 "	``	``	``	``-x
 No	No	no	DT	no-d
 matter	matter	matter	NN	matter-n
@@ -248,6 +256,7 @@ you	you	you	PRP	you-p
 go	go	go	VB	go-v
 ?	?	?	.	?-x
 "	''	''	''	''-x
+
 One	One	one	CD	one-f
 angry	angry	angry	JJ	angry-j
 commenter	commenter	commenter	NN	commenter-n
@@ -276,6 +285,7 @@ their	their	they	PRP$	they-p
 lives	lives	life	NNS	life-n
 !!	!!	!!	VBP	!!-v
 "	''	''	''	''-x
+
 A	A	a	DT	a-d
 fan	fan	fan	NN	fan-n
 added	added	add	VBD	add-v
@@ -286,6 +296,7 @@ think	think	think	VBP	think-v
 about	about	about	IN	about-i
 it	it	it	PRP	it-p
 !	!	!	.	!-x
+
 How	How	how	WRB	how-r
 many	many	many	JJ	many-j
 people	people	people	NNS	people-n
@@ -299,6 +310,7 @@ without	without	without	IN	without-i
 safety	safety	safety	NN	safety-n
 measures	measures	measure	NNS	measure-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 do	do	do	VBP	do-v
 n't	n't	not	RB	not-r
@@ -311,6 +323,7 @@ on	on	on	IN	on-i
 social	social	social	JJ	social-j
 media	media	media	NNS	media-n
 .	.	.	.	.-x
+
 No	No	no	DT	no-d
 doubt	doubt	doubt	NN	doubt-n
 it	it	it	PRP	it-p
@@ -332,6 +345,7 @@ social	social	social	JJ	social-j
 media	media	media	NNS	media-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Another	Another	another	DT	another-d
 wrote	wrote	write	VBD	write-v
 :	:	:	:	:-x
@@ -347,6 +361,7 @@ train	train	train	NN	train-n
 was	was	be	VBD	be-v
 moving	moving	move	VBG	move-v
 !	!	!	.	!-x
+
 How	How	how	WRB	how-r
 do	do	do	VBP	do-v
 you	you	you	PRP	you-p
@@ -355,6 +370,7 @@ understand	understand	understand	VB	understand-v
 that	that	that	IN	that-i
 ?	?	?	.	?-x
 "	''	''	''	''-x
+
 One	One	one	CD	one-f
 concerned	concerned	concerned	JJ	concerned-j
 fan	fan	fan	NN	fan-n
@@ -367,12 +383,14 @@ that	that	that	WDT	that-d
 so	so	so	RB	so-r
 dangerous	dangerous	dangerous	JJ	dangerous-j
 .	.	.	.	.-x
+
 Please	Please	please	VB	please-v
 please	please	please	VB	please-v
 be	be	be	VB	be-v
 careful	careful	careful	JJ	careful-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 But	But	but	CC	but-c
 other	other	other	JJ	other-j
 people	people	people	NNS	people-n
@@ -384,6 +402,7 @@ defended	defended	defend	VBD	defend-v
 the	the	the	DT	the-d
 couple	couple	couple	NN	couple-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 wrote	wrote	write	VBD	write-v
 :	:	:	:	:-x
@@ -406,6 +425,7 @@ wrong	wrong	wrong	JJ	wrong-j
 with	with	with	IN	with-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 are	are	be	VBP	be-v
 not	not	not	RB	not-r
@@ -413,6 +433,7 @@ responsible	responsible	responsible	JJ	responsible-j
 for	for	for	IN	for-i
 anyone	anyone	anyone	NN	anyone-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 someone	someone	someone	NN	someone-n
 else	else	else	RB	else-r
@@ -432,6 +453,7 @@ responsibility	responsibility	responsibility	NN	responsibility-n
 ,	,	,	,	,-x
 period	period	period	NN	period-n
 .	.	.	.	.-x
+
 Nothing	Nothing	nothing	NN	nothing-n
 else	else	else	RB	else-r
 encharged	encharged	encharge	VBD	encharge-v
@@ -439,16 +461,19 @@ on	on	on	IN	on-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Another	Another	another	DT	another-d
 commented	commented	comment	VBD	comment-v
 :	:	:	:	:-x
 "	``	``	``	``-x
 Insanse	Insanse	Insanse	NNP	Insanse-e
 .	.	.	.	.-x
+
 Beautiful	Beautiful	beautiful	JJ	beautiful-j
 moment	moment	moment	NN	moment-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 One	One	one	CD	one-f
 added	added	add	VBD	add-v
 :	:	:	:	:-x
@@ -457,6 +482,7 @@ Amazing	Amazing	amazing	JJ	amazing-j
 picture	picture	picture	NN	picture-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Mirror	Mirror	Mirror	NNP	Mirror-e
 Online	Online	Online	NNP	Online-e
 has	has	have	VBZ	have-v
@@ -467,3 +493,4 @@ for	for	for	IN	for-i
 a	a	a	DT	a-d
 comment	comment	comment	NN	comment-n
 .	.	.	.	.-x
+

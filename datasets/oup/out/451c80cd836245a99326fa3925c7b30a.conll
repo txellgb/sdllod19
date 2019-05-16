@@ -25,6 +25,7 @@ bureau	bureau	bureau	NN	bureau-n
 advisory	advisory	advisory	JJ	advisory-j
 committee	committee	committee	NN	committee-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 awards	awards	award	NNS	award-n
 went	went	go	VBD	go-v
@@ -46,6 +47,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 area	area	area	NN	area-n
 .	.	.	.	.-x
+
 $	$	$	$	$-x
 375	375	375	CD	375-f
 for	for	for	IN	for-i
@@ -58,6 +60,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 pageant	pageant	pageant	NN	pageant-n
 .	.	.	.	.-x
+
 $	$	$	$	$-x
 2,000	2,000	2,000	CD	2,000-f
 to	to	to	TO	to-t
@@ -67,6 +70,7 @@ Nebraska	Nebraska	Nebraska	NNP	Nebraska-e
 Eva	Eva	Eva	NNP	Eva-e
 Oliver	Oliver	Oliver	NNP	Oliver-e
 .	.	.	.	.-x
+
 Also	Also	also	RB	also-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -101,6 +105,7 @@ to	to	to	TO	to-t
 Lincoln	Lincoln	Lincoln	NNP	Lincoln-e
 County	County	County	NNP	County-e
 .	.	.	.	.-x
+
 Spokeswoman	Spokeswoman	Spokeswoman	NNP	Spokeswoman-e
 Muriel	Muriel	Muriel	NNP	Muriel-e
 Clark	Clark	Clark	NNP	Clark-e
@@ -118,6 +123,7 @@ visitors	visitors	visitor	NNS	visitor-n
 is	is	be	VBZ	be-v
 shopping	shopping	shopping	NN	shopping-n
 .	.	.	.	.-x
+
 Great	Great	great	JJ	great-j
 hotels	hotels	hotel	NNS	hotel-n
 and	and	and	CC	and-c
@@ -142,6 +148,7 @@ want	want	want	VBP	want-v
 to	to	to	TO	to-t
 shop	shop	shop	VB	shop-v
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 a	a	a	DT	a-d
 partnership	partnership	partnership	NN	partnership-n
@@ -185,6 +192,7 @@ closed	closed	close	VBD	close-v
 Clark	Clark	Clark	NNP	Clark-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Buxton	Buxton	Buxton	NNP	Buxton-e
 Company	Company	Company	NNP	Company-e
@@ -235,6 +243,7 @@ website	website	website	NN	website-n
 ,	,	,	,	,-x
 HERE	HERE	here	RB	here-r
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 1991	1991	1991	CD	1991-f
 ,	,	,	,	,-x
@@ -266,6 +275,7 @@ Muriel	Muriel	Muriel	NNP	Muriel-e
 Clark	Clark	Clark	NNP	Clark-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 pageant	pageant	pageant	NN	pageant-n
 is	is	be	VBZ	be-v
@@ -288,6 +298,7 @@ Buffalo	Buffalo	Buffalo	NNP	Buffalo-e
 Bill	Bill	Bill	NNP	Bill-e
 Rodeo	Rodeo	Rodeo	NNP	Rodeo-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 pageant	pageant	pageant	NN	pageant-n
 is	is	be	VBZ	be-v
@@ -306,6 +317,7 @@ celebration	celebration	celebration	NN	celebration-n
 Clark	Clark	Clark	NNP	Clark-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 advisory	advisory	advisory	JJ	advisory-j
 committee	committee	committee	NN	committee-n
@@ -331,6 +343,7 @@ Nebraska	Nebraska	Nebraska	NNP	Nebraska-e
 Press	Press	Press	NNP	Press-e
 Association	Association	Association	NNP	Association-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 bureau	bureau	bureau	NN	bureau-n
 will	will	will	MD	will-v
@@ -351,6 +364,7 @@ promote	promote	promote	VB	promote-v
 the	the	the	DT	the-d
 pageant	pageant	pageant	NN	pageant-n
 .	.	.	.	.-x
+
 Miss	Miss	Miss	NNP	Miss-e
 Rodeo	Rodeo	Rodeo	NNP	Rodeo-e
 Nebraska	Nebraska	Nebraska	NNP	Nebraska-e
@@ -377,6 +391,7 @@ and	and	and	CC	and-c
 Lincoln	Lincoln	Lincoln	NNP	Lincoln-e
 County	County	County	NNP	County-e
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 attends	attends	attend	VBZ	attend-v
 numerous	numerous	numerous	JJ	numerous-j
@@ -386,6 +401,7 @@ in-state	in-state	in-state	JJ	in-state-j
 and	and	and	CC	and-c
 out-of-state	out-of-state	out-of-state	JJ	out-of-state-j
 .	.	.	.	.-x
+
 Everywhere	Everywhere	everywhere	RB	everywhere-r
 she	she	she	PRP	she-p
 goes	goes	go	VBZ	go-v
@@ -410,6 +426,7 @@ event	event	event	NN	event-n
 Clark	Clark	Clark	NNP	Clark-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 advisory	advisory	advisory	JJ	advisory-j
 committee	committee	committee	NN	committee-n
@@ -438,6 +455,7 @@ America	America	America	NNP	America-e
 pageant	pageant	pageant	NN	pageant-n
 book	book	book	NN	book-n
 .	.	.	.	.-x
+
 Clark	Clark	Clark	NNP	Clark-e
 said	said	say	VBD	say-v
 applications	applications	application	NNS	application-n
@@ -471,6 +489,7 @@ August	August	August	NNP	August-e
 and	and	and	CC	and-c
 September	September	September	NNP	September-e
 .	.	.	.	.-x
+
 Anyone	Anyone	anyone	NN	anyone-n
 interested	interested	interested	JJ	interested-j
 in	in	in	IN	in-i
@@ -496,6 +515,7 @@ a	a	a	DT	a-d
 staff	staff	staff	NN	staff-n
 member	member	member	NN	member-n
 .	.	.	.	.-x
+
 Grant	Grant	Grant	NNP	Grant-e
 funds	funds	fund	NNS	fund-n
 ,	,	,	,	,-x
@@ -529,3 +549,4 @@ in	in	in	IN	in-i
 Lincoln	Lincoln	Lincoln	NNP	Lincoln-e
 County	County	County	NNP	County-e
 .	.	.	.	.-x
+

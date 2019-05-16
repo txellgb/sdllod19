@@ -44,6 +44,7 @@ even	even	even	RB	even-r
 a	a	a	DT	a-d
 layman	layman	layman	NN	layman-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 market	market	market	NN	market-n
 research	research	research	NN	research-n
@@ -98,6 +99,7 @@ and	and	and	CC	and-c
 geographical	geographical	geographical	JJ	geographical-j
 analysis	analysis	analysis	NN	analysis-n
 .	.	.	.	.-x
+
 Click	Click	click	VB	click-v
 here	here	here	RB	here-r
 to	to	to	TO	to-t
@@ -107,6 +109,7 @@ report	report	report	NN	report-n
 :	:	:	:	:-x
 :	:	:	:	:-x
 www.99strategy.biz/request-for-sample.html?repid=38100	www.99strategy.biz/request-for-sample.html?repid=38100	www.99strategy.biz/request-for-sample.html?repid=38100	NN	www.99strategy.biz/request-for-sample.html?repid=38100-n
+
 The	The	the	DT	the-d
 international	international	international	JJ	international-j
 and	and	and	CC	and-c
@@ -138,6 +141,7 @@ thorough	thorough	thorough	JJ	thorough-j
 market	market	market	NN	market-n
 analysis	analysis	analysis	NN	analysis-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 data	data	datum	NNS	datum-n
 regarding	regarding	regard	VBG	regard-v
@@ -246,6 +250,7 @@ current	current	current	JJ	current-j
 case	case	case	NN	case-n
 study	study	study	NN	study-n
 .	.	.	.	.-x
+
 Along	Along	along	IN	along-i
 with	with	with	IN	with-i
 the	the	the	DT	the-d
@@ -289,6 +294,7 @@ predict	predict	predict	VB	predict-v
 future	future	future	JJ	future-j
 scope	scope	scope	NN	scope-n
 .	.	.	.	.-x
+
 Read	Read	read	VB	read-v
 Detailed	Detailed	detailed	JJ	detailed-j
 Index	Index	index	NN	index-n
@@ -300,6 +306,7 @@ at	at	at	IN	at-i
 :	:	:	:	:-x
 :	:	:	:	:-x
 www.99strategy.biz/global-hookah-shisha-tobacco-market-study-2015-2025.html	www.99strategy.biz/global-hookah-shisha-tobacco-market-study-2015-2025.html	www.99strategy.biz/global-hookah-shisha-tobacco-market-study-2015-2025.html	NN	www.99strategy.biz/global-hookah-shisha-tobacco-market-study-2015-2025.html-n
+
 The	The	the	DT	the-d
 case	case	case	NN	case-n
 study	study	study	NN	study-n
@@ -338,6 +345,7 @@ and	and	and	CC	and-c
 industrial	industrial	industrial	JJ	industrial-j
 strategies	strategies	strategy	NNS	strategy-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 15	15	15	CD	15-f
@@ -352,6 +360,7 @@ Shisha	Shisha	shisha	NN	shisha-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 Tobacco	Tobacco	tobacco	NN	tobacco-n
 market	market	market	NN	market-n
+
 Chapter	Chapter	chapter	NN	chapter-n
 1	1	1	CD	1-f
 ,	,	,	,	,-x
@@ -380,6 +389,7 @@ Segment	Segment	segment	NN	segment-n
 by	by	by	IN	by-i
 Regions	Regions	region	NNS	region-n
 ;	;	;	:	;-x
+
 Chapter	Chapter	chapter	NN	chapter-n
 3	3	3	CD	3-f
 ,	,	,	,	,-x
@@ -417,6 +427,7 @@ Materials	Materials	Materials	NNPS	Materials-e
 Sources	Sources	source	NNS	source-n
 Analysis	Analysis	analysis	NN	analysis-n
 ;	;	;	:	;-x
+
 Chapter	Chapter	Chapter	NNP	Chapter-e
 5	5	5	CD	5-f
 and	and	and	CC	and-c
@@ -453,6 +464,7 @@ by	by	by	IN	by-i
 Type	Type	type	NN	type-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 ;	;	;	:	;-x
+
 Chapter	Chapter	chapter	NN	chapter-n
 7	7	7	CD	7-f
 and	and	and	CC	and-c
@@ -481,6 +493,7 @@ Shisha	Shisha	Shisha	NNP	Shisha-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 Tobacco	Tobacco	tobacco	NN	tobacco-n
 ;	;	;	:	;-x
+
 Chapter	Chapter	chapter	NN	chapter-n
 9	9	9	CD	9-f
 ,	,	,	,	,-x
@@ -513,6 +526,7 @@ Use	Use	Use	NNP	Use-e
 Personal	Personal	Personal	NNP	Personal-e
 Use	Use	Use	NNP	Use-e
 ;	;	;	:	;-x
+
 Chapter	Chapter	chapter	NN	chapter-n
 11	11	11	CD	11-f
 ,	,	,	,	,-x
@@ -527,6 +541,7 @@ Shisha	Shisha	shisha	NN	shisha-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 Tobacco	Tobacco	tobacco	NN	tobacco-n
 ;	;	;	:	;-x
+
 Chapter	Chapter	chapter	NN	chapter-n
 12	12	12	CD	12-f
 ,	,	,	,	,-x
@@ -547,6 +562,7 @@ and	and	and	CC	and-c
 data	data	datum	NNS	datum-n
 source	source	source	NN	source-n
 ;	;	;	:	;-x
+
 Chapter	Chapter	Chapter	NNP	Chapter-e
 13	13	13	CD	13-f
 ,	,	,	,	,-x
@@ -578,6 +594,7 @@ and	and	and	CC	and-c
 data	data	datum	NNS	datum-n
 source	source	source	NN	source-n
 .	.	.	.	.-x
+
 Enquire	Enquire	Enquire	NNP	Enquire-e
 Here	Here	here	RB	here-r
 Get	Get	get	VB	get-v
@@ -590,6 +607,7 @@ report	report	report	NN	report-n
 @	@	@	IN	@-i
 :	:	:	:	:-x
 www.99strategy.biz/inquiry-for-buying.html?repid=38100	www.99strategy.biz/inquiry-for-buying.html?repid=38100	www.99strategy.biz/inquiry-for-buying.html?repid=38100	NN	www.99strategy.biz/inquiry-for-buying.html?repid=38100-n
+
 Reasons	Reasons	reason	NNS	reason-n
 for	for	for	IN	for-i
 Buying	Buying	buy	VBG	buy-v
@@ -599,3 +617,4 @@ Shisha	Shisha	shisha	NN	shisha-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 Tobacco	Tobacco	tobacco	NN	tobacco-n
 market	market	market	NN	market-n
+

@@ -31,6 +31,7 @@ Trojan	Trojan	Trojan	NNP	Trojan-e
 has	has	have	VBZ	have-v
 said	said	say	VBN	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Dutchman	Dutchman	Dutchman	NNP	Dutchman-e
 told	told	tell	VBD	tell-v
@@ -70,6 +71,7 @@ UK	UK	UK	NNP	UK-e
 red	red	red	JJ	red-j
 lines	lines	line	NNS	line-n
 .	.	.	.	.-x
+
 Delaying	Delaying	delay	VBG	delay-v
 Brexit	Brexit	brexit	NN	brexit-n
 by	by	by	IN	by-i
@@ -112,6 +114,7 @@ ratify	ratify	ratify	VB	ratify-v
 the	the	the	DT	the-d
 agreement	agreement	agreement	NN	agreement-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 questioned	questioned	question	VBD	question-v
 the	the	the	DT	the-d
@@ -134,6 +137,7 @@ a	a	a	DT	a-d
 no-deal	no-deal	no-deal	JJ	no-deal-j
 exit	exit	exit	NN	exit-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 What	What	what	WP	what-p
 will	will	will	MD	will-v
@@ -144,6 +148,7 @@ a	a	a	DT	a-d
 short	short	short	JJ	short-j
 extension	extension	extension	NN	extension-n
 ?	?	?	.	?-x
+
 The	The	the	DT	the-d
 situation	situation	situation	NN	situation-n
 will	will	will	MD	will-v
@@ -156,6 +161,7 @@ same	same	same	JJ	same-j
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 An	An	a	DT	a-d
 extension	extension	extension	NN	extension-n
 until	until	until	IN	until-i
@@ -201,6 +207,7 @@ voting	voting	vote	VBG	vote-v
 to	to	to	TO	to-t
 leave	leave	leave	VB	leave-v
 .	.	.	.	.-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Trojan	Trojan	Trojan	NNP	Trojan-e
 was	was	be	VBD	be-v
@@ -237,6 +244,7 @@ Belfast	Belfast	Belfast	NNP	Belfast-e
 Mitchell	Mitchell	Mitchell	NNP	Mitchell-e
 Institute	Institute	Institute	NNP	Institute-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 suggested	suggested	suggest	VBD	suggest-v
 that	that	that	IN	that-i
@@ -274,6 +282,7 @@ alternative	alternative	alternative	JJ	alternative-j
 arrangements	arrangements	arrangement	NNS	arrangement-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 This	This	this	DT	this-d
 could	could	could	MD	could-v
 be	be	be	VB	be-v
@@ -310,6 +319,7 @@ agreement	agreement	agreement	NN	agreement-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 would	would	would	MD	would-v
@@ -372,6 +382,7 @@ for	for	for	IN	for-i
 Northern	Northern	northern	JJ	northern-j
 Ireland	Ireland	Ireland	NNP	Ireland-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 warned	warned	warn	VBD	warn-v
 though	though	though	IN	though-i
@@ -399,6 +410,7 @@ of	of	of	IN	of-i
 Commons	Commons	Commons	NNPS	Commons-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Fianna	Fianna	Fianna	NNP	Fianna-e
 Fáil	Fáil	Fáil	NNP	Fáil-e
 TD	TD	TD	NNP	TD-e
@@ -457,6 +469,7 @@ some	some	some	DT	some-d
 British	British	british	JJ	british-j
 MPs	MPs	mp	NNS	mp-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 turned	turned	turn	VBD	turn-v
@@ -492,6 +505,7 @@ damaged	damaged	damage	VBN	damage-v
 Anglo-Irish	Anglo-Irish	anglo-irish	JJ	anglo-irish-j
 relations	relations	relation	NNS	relation-n
 .	.	.	.	.-x
+
 UCD	UCD	ucd	NN	ucd-n
 professor	professor	professor	NN	professor-n
 of	of	of	IN	of-i
@@ -551,6 +565,7 @@ exit	exit	exit	VB	exit-v
 the	the	the	DT	the-d
 EU	EU	EU	NNP	EU-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 that	that	that	IN	that-i
@@ -590,6 +605,7 @@ having	having	have	VBG	have-v
 failed	failed	fail	VBN	fail-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Katy	Katy	Katy	NNP	Katy-e
 Hayward	Hayward	Hayward	NNP	Hayward-e
 ,	,	,	,	,-x
@@ -656,6 +672,7 @@ either	either	either	DT	either-d
 way	way	way	NN	way-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 She	She	she	PRP	she-p
 questioned	questioned	question	VBD	question-v
 whether	whether	whether	IN	whether-i
@@ -674,6 +691,7 @@ a	a	a	DT	a-d
 second	second	second	JJ	second-j
 vote	vote	vote	NN	vote-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -696,3 +714,4 @@ mind	mind	mind	NN	mind-n
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

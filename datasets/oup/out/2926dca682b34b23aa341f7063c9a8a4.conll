@@ -40,6 +40,7 @@ Kerr	Kerr	Kerr	NNP	Kerr-e
 Malibu	Malibu	Malibu	NNP	Malibu-e
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 Haywood	Haywood	Haywood	NNP	Haywood-e
 ,	,	,	,	,-x
 a	a	a	DT	a-d
@@ -82,6 +83,7 @@ October	October	October	NNP	October-e
 ,	,	,	,	,-x
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 Haywood	Haywood	Haywood	NNP	Haywood-e
 was	was	be	VBD	be-v
 scheduled	scheduled	schedule	VBN	schedule-v
@@ -113,6 +115,7 @@ Towers	Towers	Towers	NNP	Towers-e
 Correctional	Correctional	Correctional	NNP	Correctional-e
 Facility	Facility	Facility	NNP	Facility-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 judge	judge	judge	NN	judge-n
 said	said	say	VBD	say-v
@@ -128,6 +131,7 @@ a	a	a	DT	a-d
 court	court	court	NN	court-n
 no-show	no-show	no-show	NN	no-show-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 court	court	court	NN	court-n
@@ -157,6 +161,7 @@ told	told	tell	VBD	tell-v
 the	the	the	DT	the-d
 court	court	court	NN	court-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 prison	prison	prison	NN	prison-n
 extraction	extraction	extraction	NN	extraction-n
@@ -181,6 +186,7 @@ next	next	next	JJ	next-j
 court	court	court	NN	court-n
 date	date	date	NN	date-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 a	a	a	DT	a-d
 January	January	January	NNP	January-e
@@ -196,6 +202,7 @@ the	the	the	DT	the-d
 slow-moving	slow-moving	slow-moving	JJ	slow-moving-j
 case	case	case	NN	case-n
 .	.	.	.	.-x
+
 Haywood	Haywood	Haywood	NNP	Haywood-e
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -213,6 +220,7 @@ a	a	a	DT	a-d
 deadly	deadly	deadly	JJ	deadly-j
 weapon	weapon	weapon	NN	weapon-n
 .	.	.	.	.-x
+
 Haywood	Haywood	Haywood	NNP	Haywood-e
 was	was	be	VBD	be-v
 declared	declared	declare	VBN	declare-v
@@ -244,6 +252,7 @@ reason	reason	reason	NN	reason-n
 of	of	of	IN	of-i
 insanity	insanity	insanity	NN	insanity-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 could	could	could	MD	could-v
 spend	spend	spend	VB	spend-v
@@ -272,6 +281,7 @@ an	an	a	DT	a-d
 insanity	insanity	insanity	NN	insanity-n
 claim	claim	claim	NN	claim-n
 .	.	.	.	.-x
+
 Authorities	Authorities	Authorities	NNP	Authorities-e
 allege	allege	allege	VBP	allege-v
 Haywood	Haywood	Haywood	NNP	Haywood-e
@@ -298,6 +308,7 @@ letter	letter	letter	NN	letter-n
 to	to	to	TO	to-t
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 Kerr	Kerr	Kerr	NNP	Kerr-e
 and	and	and	CC	and-c
 her	her	she	PRP$	she-p
@@ -314,6 +325,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 incident	incident	incident	NN	incident-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 violent	violent	violent	JJ	violent-j
 struggle	struggle	struggle	NN	struggle-n
@@ -331,3 +343,4 @@ house	house	house	NN	house-n
 authorities	authorities	authority	NNS	authority-n
 alleged	alleged	allege	VBD	allege-v
 .	.	.	.	.-x
+

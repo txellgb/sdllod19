@@ -17,6 +17,7 @@ starting	starting	start	VBG	start-v
 in	in	in	IN	in-i
 March	March	March	NNP	March-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 funds	funds	fund	NNS	fund-n
 will	will	will	MD	will-v
@@ -25,6 +26,7 @@ distributed	distributed	distribute	VBN	distribute-v
 March	March	March	NNP	March-e
 3	3	3	CD	3-f
 .	.	.	.	.-x
+
 filed	filed	file	VBN	file-v
 under	under	under	IN	under-i
 :	:	:	:	:-x
@@ -81,3 +83,4 @@ crumples	crumples	crumple	VBZ	crumple-v
 tower	tower	tower	NN	tower-n
 atop	atop	atop	IN	atop-i
 Sugarloaf	Sugarloaf	Sugarloaf	NNP	Sugarloaf-e
+

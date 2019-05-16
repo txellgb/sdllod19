@@ -26,6 +26,7 @@ public	public	public	JJ	public-j
 eye	eye	eye	NN	eye-n
 again	again	again	RB	again-r
 .	.	.	.	.-x
+
 Sources	Sources	source	NNS	source-n
 close	close	close	RB	close-r
 to	to	to	TO	to-t
@@ -63,6 +64,7 @@ mental	mental	mental	JJ	mental-j
 health	health	health	NN	health-n
 issues	issues	issue	NNS	issue-n
 .	.	.	.	.-x
+
 Insiders	Insiders	insider	NNS	insider-n
 shared	shared	share	VBD	share-v
 that	that	that	IN	that-i
@@ -90,6 +92,7 @@ soon	soon	soon	RB	soon-r
 for	for	for	IN	for-i
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 "	``	``	``	``-x
 What	What	what	WP	what-p
@@ -112,6 +115,7 @@ mental	mental	mental	JJ	mental-j
 health	health	health	NN	health-n
 issues	issues	issue	NNS	issue-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 November	November	November	NNP	November-e
 ,	,	,	,	,-x
@@ -153,6 +157,7 @@ to	to	to	TO	to-t
 make	make	make	VB	make-v
 a	a	a	DT	a-d
 comeback	comeback	comeback	NN	comeback-n
+
 I	I	I	PRP	I-p
 [	-LSB-	-lsb-	-LRB-	-lsb--x
 only	only	only	RB	only-r
@@ -169,6 +174,7 @@ old	old	old	JJ	old-j
 Bynes	Bynes	Bynes	NNP	Bynes-e
 shared	shared	share	VBD	share-v
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 also	also	also	RB	also-r
 talked	talked	talk	VBD	talk-v
@@ -193,6 +199,7 @@ very	very	very	RB	very-r
 early	early	early	JJ	early-j
 age	age	age	NN	age-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 actress	actress	actress	NN	actress-n
 then	then	then	RB	then-r
@@ -209,6 +216,7 @@ much	much	much	RB	much-r
 harder	harder	harder	JJR	harder-j
 drugs	drugs	drug	NNS	drug-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Later	Later	later	RB	later-r
 on	on	on	IN	on-i
@@ -224,6 +232,7 @@ ecstasy	ecstasy	ecstasy	NN	ecstasy-n
 Bynes	Bynes	Bynes	NNP	Bynes-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 also	also	also	RB	also-r
 admitted	admitted	admit	VBD	admit-v
@@ -235,6 +244,7 @@ choice	choice	choice	NN	choice-n
 was	was	be	VBD	be-v
 Adderall	Adderall	Adderall	NNP	Adderall-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 definitely	definitely	definitely	RB	definitely-r
@@ -245,6 +255,7 @@ Adderall	Adderall	Adderall	NNP	Adderall-e
 Bynes	Bynes	Bynes	NNP	Bynes-e
 explained	explained	explain	VBD	explain-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
@@ -285,6 +296,7 @@ way	way	way	NN	way-n
 ]	-RSB-	-rsb-	-RRB-	-rsb--x
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 remember	remember	remember	VBP	remember-v
@@ -353,3 +365,4 @@ of	of	of	IN	of-i
 doing	doing	do	VBG	do-v
 movies	movies	movie	NNS	movie-n
 .	.	.	.	.-x
+

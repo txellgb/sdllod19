@@ -42,6 +42,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 exposé	exposé	exposé	NN	exposé-n
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 the	the	the	DT	the-d
@@ -80,6 +81,7 @@ fight	fight	fight	NN	fight-n
 against	against	against	IN	against-i
 galamsey	galamsey	galamsey	NN	galamsey-n
 .	.	.	.	.-x
+
 Oppong	Oppong	Oppong	NNP	Oppong-e
 Nkrumah	Nkrumah	Nkrumah	NNP	Nkrumah-e
 also	also	also	RB	also-r
@@ -120,6 +122,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 Oppong	Oppong	Oppong	NNP	Oppong-e
@@ -143,6 +146,7 @@ bugged	bugged	bug	VBN	bug-v
 its	its	its	PRP$	its-p
 offices	offices	office	NNS	office-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 Anas	Anas	Anas	NNP	Anas-e
@@ -169,6 +173,7 @@ small	small	small	JJ	small-j
 scale	scale	scale	NN	scale-n
 mining	mining	mining	NN	mining-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 any	any	any	DT	any-d
@@ -193,6 +198,7 @@ be	be	be	VB	be-v
 taken	taken	take	VBN	take-v
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 VIDEO	VIDEO	video	NN	video-n
 :	:	:	:	:-x
 Watch	Watch	watch	VB	watch-v
@@ -202,6 +208,7 @@ new	new	new	JJ	new-j
 documentary	documentary	documentary	NN	documentary-n
 on	on	on	IN	on-i
 Galamsey	Galamsey	Galamsey	NNP	Galamsey-e
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 documentary	documentary	documentary	NN	documentary-n
@@ -248,6 +255,7 @@ to	to	to	TO	to-t
 combat	combat	combat	VB	combat-v
 galamsey	galamsey	galamsey	NN	galamsey-n
 .	.	.	.	.-x
+
 Bissue	Bissue	Bissue	NNP	Bissue-e
 allegedly	allegedly	allegedly	RB	allegedly-r
 facilitated	facilitated	facilitate	VBD	facilitate-v
@@ -269,12 +277,14 @@ its	its	its	PRP$	its-p
 mining	mining	mining	NN	mining-n
 operations	operations	operation	NNS	operation-n
 .	.	.	.	.-x
+
 MINISTER	MINISTER	minister	NN	minister-n
 'S	'S	's	POS	's-p
 PRESS	PRESS	PRESS	NNP	PRESS-e
 BRIEFING	BRIEFING	BRIEFING	NNP	BRIEFING-e
 -	-	-	:	--x
 28/02/19	28/02/19	28/02/19	CD	28/02/19-f
+
 ADDRESSED	ADDRESSED	address	VBN	address-v
 BY	BY	by	IN	by-i
 KOJO	KOJO	KOJO	NNP	KOJO-e
@@ -283,12 +293,14 @@ NKRUMAH	NKRUMAH	NKRUMAH	NNP	NKRUMAH-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 MP	MP	MP	NNP	MP-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 VENUE	VENUE	venue	NN	venue-n
 :	:	:	:	:-x
 MINISTER	MINISTER	MINISTER	NNP	MINISTER-e
 'S	'S	's	POS	's-p
 CONFERENCE	CONFERENCE	CONFERENCE	NNP	CONFERENCE-e
 ROOM	ROOM	ROOM	NNP	ROOM-e
+
 Good	Good	good	JJ	good-j
 morning	morning	morning	NN	morning-n
 and	and	and	CC	and-c
@@ -299,6 +311,7 @@ attending	attending	attend	VBG	attend-v
 this	this	this	DT	this-d
 briefing	briefing	briefing	NN	briefing-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 morning	morning	morning	NN	morning-n
 we	we	we	PRP	we-p
@@ -306,6 +319,7 @@ have	have	have	VBP	have-v
 two	two	two	CD	two-f
 topics	topics	topic	NNS	topic-n
 .....	...	...	:	...-x
+
 1	1	1	LS	1-l
 .	.	.	.	.-x
 GOVERNMENT	GOVERNMENT	GOVERNMENT	NNP	GOVERNMENT-e
@@ -316,6 +330,7 @@ CONSPIRACY	CONSPIRACY	conspiracy	NN	conspiracy-n
 TO	TO	to	TO	to-t
 CREATE	CREATE	create	VB	create-v
 INSECURITY	INSECURITY	insecurity	NN	insecurity-n
+
 2	2	2	LS	2-l
 .	.	.	.	.-x
 GOVERNMENT	GOVERNMENT	GOVERNMENT	NNP	GOVERNMENT-e
@@ -331,6 +346,7 @@ IRRESPONSIBLE	IRRESPONSIBLE	irresponsible	JJ	irresponsible-j
 SMALL	SMALL	SMALL	NNP	SMALL-e
 SCALE	SCALE	SCALE	NNP	SCALE-e
 MINING	MINING	MINING	NNP	MINING-e
+
 GOVERNMENT	GOVERNMENT	government	JJ	government-j
 TAKES	TAKES	take	VBZ	take-v
 SERIOUSLY	SERIOUSLY	seriously	RB	seriously-r
@@ -339,6 +355,7 @@ CONSPIRACY	CONSPIRACY	conspiracy	NN	conspiracy-n
 TO	TO	to	TO	to-t
 CREATE	CREATE	create	VB	create-v
 INSECURITY	INSECURITY	insecurity	NN	insecurity-n
+
 The	The	the	DT	the-d
 Government	Government	government	NN	government-n
 of	of	of	IN	of-i
@@ -402,6 +419,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 avoidance	avoidance	avoidance	NN	avoidance-n
@@ -413,6 +431,7 @@ responds	responds	respond	VBZ	respond-v
 as	as	as	IN	as-i
 follows	follows	follow	VBZ	follow-v
 :	:	:	:	:-x
+
 The	The	the	DT	the-d
 Government	Government	government	NN	government-n
 of	of	of	IN	of-i
@@ -438,6 +457,7 @@ and	and	and	CC	and-c
 their	their	they	PRP$	they-p
 leadership	leadership	leadership	NN	leadership-n
 .	.	.	.	.-x
+
 Indeed	Indeed	indeed	RB	indeed-r
 it	it	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -463,6 +483,7 @@ organizations	organizations	organization	NNS	organization-n
 in	in	in	IN	in-i
 Ghana	Ghana	Ghana	NNP	Ghana-e
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 do	do	do	VB	do-v
 so	so	so	RB	so-r
@@ -477,6 +498,7 @@ provisions	provisions	provision	NNS	provision-n
 of	of	of	IN	of-i
 privacy	privacy	privacy	NN	privacy-n
 .	.	.	.	.-x
+
 Government	Government	Government	NNP	Government-e
 therefore	therefore	therefore	RB	therefore-r
 finds	finds	find	VBZ	find-v
@@ -514,6 +536,7 @@ said	said	say	VBD	say-v
 conspiratorial	conspiratorial	conspiratorial	JJ	conspiratorial-j
 conversation	conversation	conversation	NN	conversation-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 practice	practice	practice	NN	practice-n
 of	of	of	IN	of-i
@@ -564,6 +587,7 @@ rule	rule	rule	NN	rule-n
 of	of	of	IN	of-i
 law	law	law	NN	law-n
 .	.	.	.	.-x
+
 2	2	2	LS	2-l
 .	.	.	.	.-x
 Whilst	Whilst	whilst	IN	whilst-i
@@ -609,6 +633,7 @@ for	for	for	IN	for-i
 that	that	that	DT	that-d
 matter	matter	matter	NN	matter-n
 .	.	.	.	.-x
+
 3	3	3	LS	3-l
 .	.	.	.	.-x
 Without	Without	without	IN	without-i
@@ -661,6 +686,7 @@ the	the	the	DT	the-d
 said	said	say	VBD	say-v
 recording	recording	recording	NN	recording-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 our	our	we	PRP$	we-p
@@ -696,6 +722,7 @@ the	the	the	DT	the-d
 Ghanaian	Ghanaian	ghanaian	JJ	ghanaian-j
 jurisdiction	jurisdiction	jurisdiction	NN	jurisdiction-n
 .	.	.	.	.-x
+
 All	All	all	DT	all-d
 must	must	must	MD	must-v
 support	support	support	VB	support-v
@@ -731,6 +758,7 @@ the	the	the	DT	the-d
 alleged	alleged	alleged	JJ	alleged-j
 conspiracy	conspiracy	conspiracy	NN	conspiracy-n
 .	.	.	.	.-x
+
 Matters	Matters	matter	NNS	matter-n
 of	of	of	IN	of-i
 security	security	security	NN	security-n
@@ -773,6 +801,7 @@ incident	incident	incident	NN	incident-n
 as	as	as	RB	as-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 4	4	4	LS	4-l
 .	.	.	.	.-x
 The	The	the	DT	the-d
@@ -803,6 +832,7 @@ children	children	child	NNS	child-n
 in	in	in	IN	in-i
 Ghana	Ghana	Ghana	NNP	Ghana-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 necessary	necessary	necessary	JJ	necessary-j
 steps	steps	step	NNS	step-n
@@ -820,6 +850,7 @@ is	is	be	VBZ	be-v
 being	being	be	VBG	be-v
 examined	examined	examine	VBN	examine-v
 .	.	.	.	.-x
+
 5	5	5	CD	5-f
 .	.	.	.	.-x
 Government	Government	Government	NNP	Government-e
@@ -872,6 +903,7 @@ the	the	the	DT	the-d
 Ghanaian	Ghanaian	ghanaian	JJ	ghanaian-j
 jurisdiction	jurisdiction	jurisdiction	NN	jurisdiction-n
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 this	this	this	DT	this-d
 end	end	end	NN	end-n
@@ -904,6 +936,7 @@ insecurity	insecurity	insecurity	NN	insecurity-n
 in	in	in	IN	in-i
 Ghana	Ghana	Ghana	NNP	Ghana-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 capacity	capacity	capacity	NN	capacity-n
 and	and	and	CC	and-c
@@ -925,6 +958,7 @@ image	image	image	NN	image-n
 remains	remains	remain	VBZ	remain-v
 unchanged	unchanged	unchanged	JJ	unchanged-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 government	government	government	NN	government-n
 urges	urges	urge	VBZ	urge-v
@@ -952,6 +986,7 @@ nation	nation	nation	NN	nation-n
 's	's	's	POS	's-p
 democracy	democracy	democracy	NN	democracy-n
 .	.	.	.	.-x
+
 Leadership	Leadership	leadership	NN	leadership-n
 from	from	from	IN	from-i
 across	across	across	IN	across-i
@@ -986,6 +1021,7 @@ democracy	democracy	democracy	NN	democracy-n
 and	and	and	CC	and-c
 security	security	security	NN	security-n
 .	.	.	.	.-x
+
 Government	Government	Government	NNP	Government-e
 will	will	will	MD	will-v
 continue	continue	continue	VB	continue-v
@@ -1030,6 +1066,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 state	state	state	NN	state-n
 .	.	.	.	.-x
+
 GOVERNMENT	GOVERNMENT	GOVERNMENT	NNP	GOVERNMENT-e
 WELCOMES	WELCOMES	welcome	VBZ	welcome-v
 SUPPORT	SUPPORT	SUPPORT	NNP	SUPPORT-e
@@ -1043,6 +1080,7 @@ IRRESPONSIBLE	IRRESPONSIBLE	irresponsible	JJ	irresponsible-j
 SMALL	SMALL	SMALL	NNP	SMALL-e
 SCALE	SCALE	SCALE	NNP	SCALE-e
 MINING	MINING	MINING	NNP	MINING-e
+
 Government	Government	Government	NNP	Government-e
 welcomes	welcomes	welcome	VBZ	welcome-v
 any	any	any	DT	any-d
@@ -1060,6 +1098,7 @@ illegal	illegal	illegal	JJ	illegal-j
 small	small	small	JJ	small-j
 scale	scale	scale	NN	scale-n
 mining	mining	mining	NN	mining-n
+
 Government	Government	Government	NNP	Government-e
 will	will	will	MD	will-v
 have	have	have	VB	have-v
@@ -1073,6 +1112,7 @@ the	the	the	DT	the-d
 raw	raw	raw	JJ	raw-j
 unedited	unedited	unedited	JJ	unedited-j
 footage	footage	footage	NN	footage-n
+
 If	If	if	IN	if-i
 any	any	any	DT	any-d
 persons	persons	person	NNS	person-n
@@ -1095,3 +1135,4 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 taken	taken	take	VBN	take-v
 .	.	.	.	.-x
+

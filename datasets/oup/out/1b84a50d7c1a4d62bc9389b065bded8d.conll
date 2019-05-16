@@ -16,6 +16,7 @@ barrassingly	barrassingly	barrassingly	RB	barrassingly-r
 easy	easy	easy	JJ	easy-j
 '	'	'	''	'-x
 17:26	17:26	17:26	CD	17:26-f
+
 Twenty	Twenty	twenty	CD	twenty-f
 senior	senior	senior	JJ	senior-j
 students	students	student	NNS	student-n
@@ -36,6 +37,7 @@ a	a	a	DT	a-d
 school	school	school	NN	school-n
 event	event	event	NN	event-n
 17:26	17:26	17:26	CD	17:26-f
+
 Chris	Chris	Chris	NNP	Chris-e
 Evans	Evans	Evans	NNP	Evans-e
 and	and	and	CC	and-c
@@ -51,6 +53,7 @@ their	their	they	PRP$	they-p
 marital	marital	marital	JJ	marital-j
 bed	bed	bed	NN	bed-n
 17:19	17:19	17:19	CD	17:19-f
+
 The	The	the	DT	the-d
 NRL	NRL	nrl	NN	nrl-n
 have	have	have	VBP	have-v
@@ -75,6 +78,7 @@ to	to	to	TO	to-t
 Dylan	Dylan	Dylan	NNP	Dylan-e
 Napa	Napa	Napa	NNP	Napa-e
 16:56	16:56	16:56	CD	16:56-f
+
 DJ	DJ	DJ	NNP	DJ-e
 Khaled	Khaled	Khaled	NNP	Khaled-e
 wanted	wanted	want	VBD	want-v
@@ -90,6 +94,7 @@ for	for	for	IN	for-i
 his	his	he	PRP$	he-p
 son	son	son	NN	son-n
 16:49	16:49	16:49	CD	16:49-f
+
 Kate	Kate	Kate	NNP	Kate-e
 Beckinsale	Beckinsale	Beckinsale	NNP	Beckinsale-e
 was	was	be	VBD	be-v
@@ -114,6 +119,7 @@ in	in	in	IN	in-i
 South	South	South	NNP	South-e
 Africa	Africa	Africa	NNP	Africa-e
 16:19	16:19	16:19	CD	16:19-f
+
 Australian	Australian	australian	JJ	australian-j
 Zach	Zach	Zach	NNP	Zach-e
 Murray	Murray	Murray	NNP	Murray-e
@@ -132,6 +138,7 @@ Zealand	Zealand	Zealand	NNP	Zealand-e
 golf	golf	golf	NN	golf-n
 Open	Open	open	VB	open-v
 16:06	16:06	16:06	CD	16:06-f
+
 Video	Video	Video	NNP	Video-e
 shows	shows	show	VBZ	show-v
 giant	giant	giant	JJ	giant-j
@@ -142,6 +149,7 @@ opossum	opossum	opossum	NN	opossum-n
 shocking	shocking	shocking	JJ	shocking-j
 researchers	researchers	researcher	NNS	researcher-n
 16:06	16:06	16:06	CD	16:06-f
+
 Brie	Brie	Brie	NNP	Brie-e
 Larson	Larson	Larson	NNP	Larson-e
 has	has	have	VBZ	have-v
@@ -162,6 +170,7 @@ means	means	mean	VBZ	mean-v
 to	to	to	TO	to-t
 her	her	she	PRP$	she-p
 15:49	15:49	15:49	CD	15:49-f
+
 New	New	New	NNP	New-e
 Zealand	Zealand	Zealand	NNP	Zealand-e
 's	's	's	POS	's-p
@@ -176,3 +185,4 @@ champs	champs	champ	NNS	champ-n
 in	in	in	IN	in-i
 Chicago	Chicago	Chicago	NNP	Chicago-e
 15:36	15:36	15:36	CD	15:36-f
+

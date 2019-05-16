@@ -30,6 +30,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 Var	Var	Var	NNP	Var-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -53,6 +54,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 walked	walked	walk	VBD	walk-v
 in	in	in	IN	in-i
@@ -67,6 +69,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 town	town	town	NN	town-n
 .	.	.	.	.-x
+
 Crying	Crying	cry	VBG	cry-v
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -77,6 +80,7 @@ around	around	around	IN	around-i
 his	his	he	PRP$	he-p
 dad	dad	dad	NN	dad-n
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 you	you	you	PRP	you-p
 have	have	have	VBP	have-v
@@ -107,6 +111,7 @@ not	not	not	RB	not-r
 catch	catch	catch	VB	catch-v
 cold	cold	cold	JJ	cold-j
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 the	the	the	DT	the-d
 police	police	police	NN	police-n
@@ -135,6 +140,7 @@ of	of	of	IN	of-i
 his	his	he	PRP$	he-p
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 dad	dad	dad	NN	dad-n
 explained	explained	explain	VBD	explain-v
@@ -158,6 +164,7 @@ girl	girl	girl	NN	girl-n
 had	had	have	VBD	have-v
 disappeared	disappeared	disappear	VBN	disappear-v
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 you	you	you	PRP	you-p
 have	have	have	VBP	have-v
@@ -176,3 +183,4 @@ over	over	over	IN	over-i
 the	the	the	DT	the-d
 child	child	child	NN	child-n
 .	.	.	.	.-x
+

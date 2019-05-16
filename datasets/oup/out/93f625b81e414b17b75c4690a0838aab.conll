@@ -20,6 +20,7 @@ Mariah	Mariah	Mariah	NNP	Mariah-e
 witness	witness	witness	NN	witness-n
 testimony	testimony	testimony	NN	testimony-n
 .	.	.	.	.-x
+
 Plus	Plus	plus	NN	plus-n
 ,	,	,	,	,-x
 Summer	Summer	summer	NN	summer-n
@@ -41,6 +42,7 @@ she	she	she	PRP	she-p
 do	do	do	VB	do-v
 it	it	it	PRP	it-p
 ?	?	?	.	?-x
+
 Brittany	Brittany	Brittany	NNP	Brittany-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Lauren	Lauren	Lauren	NNP	Lauren-e
@@ -77,6 +79,7 @@ depends	depends	depend	VBZ	depend-v
 on	on	on	IN	on-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 Nikki	Nikki	Nikki	NNP	Nikki-e
 and	and	and	CC	and-c
@@ -95,6 +98,7 @@ down	down	down	RP	down-x
 with	with	with	IN	with-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 Michael	Michael	Michael	NNP	Michael-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Christian	Christian	Christian	NNP	Christian-e
@@ -113,6 +117,7 @@ to	to	to	TO	to-t
 work	work	work	VB	work-v
 with	with	with	IN	with-i
 .	.	.	.	.-x
+
 Then	Then	then	RB	then-r
 ,	,	,	,	,-x
 Nikki	Nikki	Nikki	NNP	Nikki-e
@@ -127,6 +132,7 @@ original	original	original	JJ	original-j
 confession	confession	confession	NN	confession-n
 story	story	story	NN	story-n
 .	.	.	.	.-x
+
 Christine	Christine	Christine	NNP	Christine-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Lauralee	Lauralee	Lauralee	NNP	Lauralee-e
@@ -150,6 +156,7 @@ night	night	night	NN	night-n
 at	at	at	IN	at-i
 Victoria	Victoria	Victoria	NNP	Victoria-e
 .	.	.	.	.-x
+
 Tessa	Tessa	Tessa	NNP	Tessa-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Cait	Cait	Cait	NNP	Cait-e
@@ -165,6 +172,7 @@ courtroom	courtroom	courtroom	NN	courtroom-n
 supporting	supporting	support	VBG	support-v
 Mariah	Mariah	Mariah	NNP	Mariah-e
 .	.	.	.	.-x
+
 Mariah	Mariah	Mariah	NNP	Mariah-e
 described	described	describe	VBD	describe-v
 the	the	the	DT	the-d
@@ -175,6 +183,7 @@ what	what	what	WP	what-p
 she	she	she	PRP	she-p
 knew	knew	know	VBD	know-v
 .	.	.	.	.-x
+
 Christine	Christine	Christine	NNP	Christine-e
 showed	showed	show	VBD	show-v
 the	the	the	DT	the-d
@@ -202,6 +211,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 car	car	car	NN	car-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Christine	Christine	Christine	NNP	Christine-e
 finished	finished	finish	VBD	finish-v
@@ -243,6 +253,7 @@ against	against	against	IN	against-i
 the	the	the	DT	the-d
 women	women	woman	NNS	woman-n
 .	.	.	.	.-x
+
 Ana	Ana	Ana	NNP	Ana-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Loren	Loren	Loren	NNP	Loren-e
@@ -282,6 +293,7 @@ a	a	a	DT	a-d
 liver	liver	liver	NN	liver-n
 transplant	transplant	transplant	NN	transplant-n
 .	.	.	.	.-x
+
 Devon	Devon	Devon	NNP	Devon-e
 offered	offered	offer	VBD	offer-v
 to	to	to	TO	to-t
@@ -315,6 +327,7 @@ losing	losing	lose	VBG	lose-v
 Hilary	Hilary	Hilary	NNP	Hilary-e
 there	there	there	RB	there-r
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 hospital	hospital	hospital	NN	hospital-n
@@ -351,6 +364,7 @@ she	she	she	PRP	she-p
 a	a	a	DT	a-d
 match	match	match	NN	match-n
 .	.	.	.	.-x
+
 Unfortunately	Unfortunately	unfortunately	RB	unfortunately-r
 for	for	for	IN	for-i
 Kyle	Kyle	Kyle	NNP	Kyle-e
@@ -386,6 +400,7 @@ play	play	play	VB	play-v
 for	for	for	IN	for-i
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 People	People	people	NNS	people-n
 in	in	in	IN	in-i
 a	a	a	DT	a-d
@@ -401,6 +416,7 @@ could	could	could	MD	could-v
 help	help	help	VB	help-v
 Lola	Lola	Lola	NNP	Lola-e
 .	.	.	.	.-x
+
 Summer	Summer	summer	NN	summer-n
 found	found	find	VBD	find-v
 out	out	out	IN	out-i
@@ -418,6 +434,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 surgery	surgery	surgery	NN	surgery-n
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 Inquisitr	Inquisitr	Inquisitr	NNP	Inquisitr-e
@@ -439,6 +456,7 @@ Lola	Lola	Lola	NNP	Lola-e
 's	's	's	POS	's-p
 life	life	life	NN	life-n
 .	.	.	.	.-x
+
 Elsewhere	Elsewhere	elsewhere	RB	elsewhere-r
 ,	,	,	,	,-x
 Billy	Billy	Billy	NNP	Billy-e
@@ -473,6 +491,7 @@ harm	harm	harm	VB	harm-v
 the	the	the	DT	the-d
 company	company	company	NN	company-n
 .	.	.	.	.-x
+
 Jack	Jack	Jack	NNP	Jack-e
 told	told	tell	VBD	tell-v
 Billy	Billy	Billy	NNP	Billy-e
@@ -504,6 +523,7 @@ on	on	on	IN	on-i
 her	her	she	PRP$	she-p
 boss	boss	boss	NN	boss-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Jack	Jack	Jack	NNP	Jack-e
 said	said	say	VBD	say-v
@@ -529,3 +549,4 @@ their	their	they	PRP$	they-p
 family	family	family	NN	family-n
 legacy	legacy	legacy	NN	legacy-n
 .	.	.	.	.-x
+

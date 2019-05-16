@@ -13,6 +13,7 @@ past	past	past	JJ	past-j
 24	24	24	CD	24-f
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 second	second	second	JJ	second-j
 summit	summit	summit	NN	summit-n
@@ -37,6 +38,7 @@ the	the	the	DT	the-d
 Korean	Korean	korean	JJ	korean-j
 Peninsula	Peninsula	Peninsula	NNP	Peninsula-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 two	two	two	CD	two-f
 sides	sides	side	NNS	side-n
@@ -73,6 +75,7 @@ lift	lift	lift	VB	lift-v
 all	all	all	DT	all-d
 sanctions	sanctions	sanction	NNS	sanction-n
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 North	North	North	NNP	North-e
@@ -112,6 +115,7 @@ site	site	site	NN	site-n
 at	at	at	IN	at-i
 Yongbyon	Yongbyon	Yongbyon	NNP	Yongbyon-e
 .	.	.	.	.-x
+
 Washington	Washington	Washington	NNP	Washington-e
 insists	insists	insist	VBZ	insist-v
 that	that	that	IN	that-i
@@ -133,6 +137,7 @@ a	a	a	DT	a-d
 major	major	major	JJ	major-j
 disappointment	disappointment	disappointment	NN	disappointment-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 Prime	Prime	Prime	NNP	Prime-e
@@ -176,6 +181,7 @@ border	border	border	NN	border-n
 in	in	in	IN	in-i
 Kashmir	Kashmir	Kashmir	NNP	Kashmir-e
 .	.	.	.	.-x
+
 War	War	War	NNP	War-e
 crimes	crimes	crime	NNS	crime-n
 accusations	accusations	accusation	NNS	accusation-n
@@ -204,6 +210,7 @@ Gaza	Gaza	Gaza	NNP	Gaza-e
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 United	United	United	NNP	United-e
 Nations	Nations	Nations	NNPS	Nations-e
@@ -224,6 +231,7 @@ and	and	and	CC	and-c
 December	December	December	NNP	December-e
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 prime	prime	prime	JJ	prime-j
 minister	minister	minister	NN	minister-n
@@ -248,6 +256,7 @@ positive	positive	positive	JJ	positive-j
 press	press	press	NN	press-n
 coverage	coverage	coverage	NN	coverage-n
 .	.	.	.	.-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Netanyahu	Netanyahu	Netanyahu	NNP	Netanyahu-e
 denied	denied	deny	VBD	deny-v
@@ -288,3 +297,4 @@ on	on	on	IN	on-i
 9	9	9	CD	9-f
 April	April	April	NNP	April-e
 .	.	.	.	.-x
+

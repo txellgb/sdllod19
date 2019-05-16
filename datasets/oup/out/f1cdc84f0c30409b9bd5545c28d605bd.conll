@@ -26,6 +26,7 @@ expand	expand	expand	VB	expand-v
 in	in	in	IN	in-i
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 Customers	Customers	customer	NNS	customer-n
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -109,6 +110,7 @@ Princess	Princess	Princess	NNP	Princess-e
 of	of	of	IN	of-i
 Power	Power	Power	NNP	Power-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -144,6 +146,7 @@ officer	officer	officer	NN	officer-n
 ,	,	,	,	,-x
 Tubi	Tubi	Tubi	NNP	Tubi-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 service	service	service	NN	service-n
 claims	claims	claim	VBZ	claim-v
@@ -166,6 +169,7 @@ hours	hours	hour	NNS	hour-n
 of	of	of	IN	of-i
 content	content	content	NN	content-n
 .	.	.	.	.-x
+
 Tubi	Tubi	Tubi	NNP	Tubi-e
 consistently	consistently	consistently	RB	consistently-r
 ranks	ranks	rank	VBZ	rank-v
@@ -200,6 +204,7 @@ and	and	and	CC	and-c
 many	many	many	JJ	many-j
 others	others	other	NNS	other-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 company	company	company	NN	company-n
 also	also	also	RB	also-r
@@ -216,3 +221,4 @@ acquisitions	acquisitions	acquisition	NNS	acquisition-n
 in	in	in	IN	in-i
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+

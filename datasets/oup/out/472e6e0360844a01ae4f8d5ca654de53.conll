@@ -33,6 +33,7 @@ its	its	its	PRP$	its-p
 multiplayer	multiplayer	multiplayer	NN	multiplayer-n
 mode	mode	mode	NN	mode-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 yesterday	yesterday	yesterday	NN	yesterday-n
@@ -55,6 +56,7 @@ price	price	price	NN	price-n
 of	of	of	IN	of-i
 free	free	free	JJ	free-j
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 reached	reached	reach	VBD	reach-v
 out	out	out	RP	out-x
@@ -96,6 +98,7 @@ of	of	of	IN	of-i
 mouth	mouth	mouth	NN	mouth-n
 going	going	go	VBG	go-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 representative	representative	representative	NN	representative-n
 also	also	also	RB	also-r
@@ -128,6 +131,7 @@ how	how	how	WRB	how-r
 they	they	they	PRP	they-p
 could	could	could	MD	could-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 free-to-play	free-to-play	free-to-play	JJ	free-to-play-j
 launch	launch	launch	NN	launch-n
@@ -160,6 +164,7 @@ that	that	that	DT	that-d
 as	as	as	RB	as-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 Long-time	Long-time	long-time	JJ	long-time-j
 readers	readers	reader	NNS	reader-n
 will	will	will	MD	will-v
@@ -202,6 +207,7 @@ RTS	RTS	RTS	NNP	RTS-e
 that	that	that	WDT	that-d
 could	could	could	MD	could-v
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 know	know	know	VBP	know-v
 in	in	in	IN	in-i
@@ -243,6 +249,7 @@ your	your	you	PRP$	you-p
 usual	usual	usual	JJ	usual-j
 RTS	RTS	RTS	NNP	RTS-e
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 that	that	that	IN	that-i
 it	it	it	PRP	it-p
@@ -260,6 +267,7 @@ excuses	excuses	excuse	NNS	excuse-n
 again	again	again	RB	again-r
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 Offworld	Offworld	Offworld	NNP	Offworld-e
 Trading	Trading	Trading	NNP	Trading-e
 Company	Company	Company	NNP	Company-e
@@ -274,3 +282,4 @@ and	and	and	CC	and-c
 Mac	Mac	Mac	NNP	Mac-e
 OS	OS	OS	NNP	OS-e
 X.	X.	X.	NNP	X.-e
+

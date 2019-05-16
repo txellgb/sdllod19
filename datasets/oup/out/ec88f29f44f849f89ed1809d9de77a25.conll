@@ -35,6 +35,7 @@ shelter	shelter	shelter	NN	shelter-n
 in	in	in	IN	in-i
 place	place	place	NN	place-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 victim	victim	victim	NN	victim-n
 ,	,	,	,	,-x
@@ -72,6 +73,7 @@ spokeswoman	spokeswoman	spokeswoman	NN	spokeswoman-n
 Lisa	Lisa	Lisa	NNP	Lisa-e
 Derderian	Derderian	Derderian	NNP	Derderian-e
 .	.	.	.	.-x
+
 Paramedics	Paramedics	Paramedics	NNPS	Paramedics-e
 took	took	take	VBD	take-v
 him	him	he	PRP	he-p
@@ -89,6 +91,7 @@ condition	condition	condition	NN	condition-n
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 man	man	man	NN	man-n
 lives	lives	live	VBZ	live-v
@@ -121,6 +124,7 @@ or	or	or	CC	or-c
 the	the	the	DT	the-d
 victim	victim	victim	NN	victim-n
 .	.	.	.	.-x
+
 Officers	Officers	officer	NNS	officer-n
 set	set	set	VBD	set-v
 up	up	up	RP	up-x
@@ -141,6 +145,7 @@ foot	foot	foot	NN	foot-n
 Derderian	Derderian	Derderian	NNP	Derderian-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 block-by-block	block-by-block	block-by-block	JJ	block-by-block-j
 search	search	search	NN	search-n
@@ -174,6 +179,7 @@ Avenue	Avenue	Avenue	NNP	Avenue-e
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Mayfield	Mayfield	Mayfield	NNP	Mayfield-e
 Junior	Junior	Junior	NNP	Junior-e
 High	High	High	NNP	High-e
@@ -202,6 +208,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 suspect	suspect	suspect	NN	suspect-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 lockdown	lockdown	lockdown	NN	lockdown-n
 and	and	and	CC	and-c
@@ -231,6 +238,7 @@ large	large	large	JJ	large-j
 Derderian	Derderian	Derderian	NNP	Derderian-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 suspect	suspect	suspect	NN	suspect-n
 was	was	be	VBD	be-v
@@ -262,3 +270,4 @@ head	head	head	NN	head-n
 Derderian	Derderian	Derderian	NNP	Derderian-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

@@ -16,6 +16,7 @@ the	the	the	DT	the-d
 NFL	NFL	NFL	NNP	NFL-e
 combine	combine	combine	VBP	combine-v
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 you	you	you	PRP	you-p
 know	know	know	VBP	know-v
@@ -30,6 +31,7 @@ many	many	many	JJ	many-j
 hopeful	hopeful	hopeful	JJ	hopeful-j
 players	players	player	NNS	player-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 for	for	for	IN	for-i
 some	some	some	DT	some-d
@@ -42,6 +44,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 balance	balance	balance	NN	balance-n
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 that	that	that	IN	that-i
 measurements	measurements	measurement	NNS	measurement-n
@@ -67,6 +70,7 @@ drills	drills	drill	NNS	drill-n
 starting	starting	start	VBG	start-v
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 while	while	while	IN	while-i
 NFL	NFL	NFL	NNP	NFL-e
@@ -93,6 +97,7 @@ specifically	specifically	specifically	RB	specifically-r
 free	free	free	JJ	free-j
 agency	agency	agency	NN	agency-n
 .	.	.	.	.-x
+
 Yes	Yes	yes	UH	yes-u
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -104,6 +109,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 major	major	major	JJ	major-j
 players	players	player	NNS	player-n
+
 And	And	and	CC	and-c
 yes	yes	yes	RB	yes-r
 ,	,	,	,	,-x
@@ -126,6 +132,7 @@ the	the	the	DT	the-d
 new	new	new	JJ	new-j
 regime	regime	regime	NN	regime-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 if	if	if	IN	if-i
 Brian	Brian	Brian	NNP	Brian-e
@@ -157,6 +164,7 @@ the	the	the	DT	the-d
 teams	teams	team	NNS	team-n
 voids	voids	void	NNS	void-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -181,10 +189,12 @@ defensive	defensive	defensive	JJ	defensive-j
 end	end	end	NN	end-n
 position	position	position	NN	position-n
 .	.	.	.	.-x
+
 Enter	Enter	enter	VB	enter-v
 Trey	Trey	Trey	NNP	Trey-e
 Flowers	Flowers	Flowers	NNP	Flowers-e
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 Tony	Tony	Tony	NNP	Tony-e
@@ -206,6 +216,7 @@ old	old	old	JJ	old-j
 pass	pass	pass	NN	pass-n
 rusher	rusher	rusher	NN	rusher-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 word	word	word	NN	word-n
 in	in	in	IN	in-i
@@ -229,6 +240,7 @@ at	at	at	IN	at-i
 this	this	this	DT	this-d
 point	point	point	NN	point-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 former	former	former	JJ	former-j
 fourth-round	fourth-round	fourth-round	JJ	fourth-round-j
@@ -247,6 +259,7 @@ year	year	year	NN	year-n
 free-agent	free-agent	free-agent	JJ	free-agent-j
 market	market	market	NN	market-n
 .	.	.	.	.-x
+
 Whether	Whether	whether	IN	whether-i
 or	or	or	CC	or-c
 not	not	not	RB	not-r
@@ -259,6 +272,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 determined	determined	determine	VBN	determine-v
 .	.	.	.	.-x
+
 Many	Many	many	JJ	many-j
 believe	believe	believe	VBP	believe-v
 he	he	he	PRP	he-p
@@ -282,6 +296,7 @@ $	$	$	$	$-x
 75-million	75-million	75-million	CD	75-million-f
 contract	contract	contract	NN	contract-n
 .	.	.	.	.-x
+
 Which	Which	which	WDT	which-d
 would	would	would	MD	would-v
 be	be	be	VB	be-v
@@ -302,6 +317,7 @@ until	until	until	IN	until-i
 and	and	and	CC	and-c
 beyond	beyond	beyond	IN	beyond-i
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 Flowers	Flowers	Flowers	NNP	Flowers-e
@@ -327,6 +343,7 @@ multiple	multiple	multiple	JJ	multiple-j
 front	front	front	NN	front-n
 defense	defense	defense	NN	defense-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 2018	2018	2018	CD	2018-f
 ,	,	,	,	,-x
@@ -339,6 +356,7 @@ and	and	and	CC	and-c
 7.5	7.5	7.5	CD	7.5-f
 sacks	sacks	sack	NNS	sack-n
 .	.	.	.	.-x
+
 Over	Over	over	IN	over-i
 the	the	the	DT	the-d
 span	span	span	NN	span-n
@@ -357,6 +375,7 @@ and	and	and	CC	and-c
 21	21	21	CD	21-f
 sacks	sacks	sack	NNS	sack-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 would	would	would	MD	would-v
 be	be	be	VB	be-v
@@ -378,3 +397,4 @@ quarterback	quarterback	quarterback	NN	quarterback-n
 last	last	last	JJ	last-j
 season	season	season	NN	season-n
 .	.	.	.	.-x
+

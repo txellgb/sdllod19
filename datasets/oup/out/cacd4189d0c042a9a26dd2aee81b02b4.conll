@@ -26,6 +26,7 @@ phone	phone	phone	NN	phone-n
 's	's	's	POS	's-p
 performance	performance	performance	NN	performance-n
 .	.	.	.	.-x
+
 Lite	Lite	Lite	NNP	Lite-e
 apps	apps	app	NNS	app-n
 are	are	be	VBP	be-v
@@ -55,6 +56,7 @@ bandwidth	bandwidth	bandwidth	NN	bandwidth-n
 internet	internet	internet	NN	internet-n
 connectivity	connectivity	connectivity	NN	connectivity-n
 .	.	.	.	.-x
+
 Nearly	Nearly	nearly	RB	nearly-r
 all	all	all	PDT	all-d
 the	the	the	DT	the-d
@@ -73,6 +75,7 @@ their	their	they	PRP$	they-p
 man	man	man	NN	man-n
 Apps	Apps	app	NNS	app-n
 .	.	.	.	.-x
+
 Here	Here	here	RB	here-r
 are	are	be	VBP	be-v
 some	some	some	DT	some-d
@@ -84,6 +87,7 @@ apps	apps	app	NNS	app-n
 for	for	for	IN	for-i
 Android	Android	Android	NNP	Android-e
 .	.	.	.	.-x
+
 Facebook	Facebook	Facebook	NNP	Facebook-e
 Lite	Lite	Lite	NNP	Lite-e
 -	-	-	:	--x
@@ -91,6 +95,7 @@ Memory	Memory	memory	NN	memory-n
 :	:	:	:	:-x
 Under	Under	under	IN	under-i
 5MB	5MB	5mb	NN	5mb-n
+
 Facebook	Facebook	Facebook	NNP	Facebook-e
 Lite	Lite	Lite	NNP	Lite-e
 is	is	be	VBZ	be-v
@@ -102,6 +107,7 @@ Facebook	Facebook	Facebook	NNP	Facebook-e
 for	for	for	IN	for-i
 Android	Android	Android	NNP	Android-e
 .	.	.	.	.-x
+
 Its	Its	its	PRP$	its-p
 designed	designed	design	VBN	design-v
 for	for	for	IN	for-i
@@ -114,6 +120,7 @@ with	with	with	IN	with-i
 low	low	low	JJ	low-j
 memory	memory	memory	NN	memory-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 lite	lite	lite	NN	lite-n
 app	app	app	NN	app-n
@@ -128,6 +135,7 @@ and	and	and	CC	and-c
 minimal	minimal	minimal	JJ	minimal-j
 features	features	feature	NNS	feature-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
 use	use	use	VBP	use-v
@@ -148,6 +156,7 @@ for	for	for	IN	for-i
 feature	feature	feature	NN	feature-n
 phones	phones	phone	NNS	phone-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 order	order	order	NN	order-n
 to	to	to	TO	to-t
@@ -169,6 +178,7 @@ version	version	version	NN	version-n
 of	of	of	IN	of-i
 Messenger	Messenger	Messenger	NNP	Messenger-e
 .	.	.	.	.-x
+
 Messenger	Messenger	messenger	NN	messenger-n
 Lite	Lite	Lite	NNP	Lite-e
 is	is	be	VBZ	be-v
@@ -191,6 +201,7 @@ stickers	stickers	sticker	NNS	sticker-n
 to	to	to	TO	to-t
 others	others	other	NNS	other-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 guess	guess	guess	VBP	guess-v
 ,	,	,	,	,-x
@@ -207,6 +218,7 @@ of	of	of	IN	of-i
 voice	voice	voice	NN	voice-n
 calls	calls	call	NNS	call-n
 .	.	.	.	.-x
+
 So	So	so	IN	so-i
 the	the	the	DT	the-d
 app	app	app	NN	app-n
@@ -219,6 +231,7 @@ the	the	the	DT	the-d
 basic	basic	basic	JJ	basic-j
 chatting	chatting	chatting	NN	chatting-n
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 scrolling	scrolling	scroll	VBG	scroll-v
 through	through	through	IN	through-i
@@ -240,6 +253,7 @@ on	on	on	IN	on-i
 slower	slower	slower	JJR	slower-j
 phones	phones	phone	NNS	phone-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
@@ -258,6 +272,7 @@ called	called	call	VBD	call-v
 Twitter	Twitter	Twitter	NNP	Twitter-e
 Lite	Lite	Lite	NNP	Lite-e
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 official	official	official	JJ	official-j
 Twitter	Twitter	Twitter	NNP	Twitter-e
@@ -277,6 +292,7 @@ and	and	and	CC	and-c
 3G	3G	3g	NN	3g-n
 networks	networks	network	NNS	network-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -301,6 +317,7 @@ a	a	a	DT	a-d
 normal	normal	normal	JJ	normal-j
 app	app	app	NN	app-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 lite	lite	lite	JJ	lite-j
 version	version	version	NN	version-n
@@ -321,6 +338,7 @@ download	download	download	VB	download-v
 it	it	it	PRP	it-p
 quickly	quickly	quickly	RB	quickly-r
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 also	also	also	RB	also-r
@@ -364,6 +382,7 @@ the	the	the	DT	the-d
 Explore	Explore	Explore	NNP	Explore-e
 page	page	page	NN	page-n
 .	.	.	.	.-x
+
 YouTube	YouTube	YouTube	NNP	YouTube-e
 Go	Go	Go	NNP	Go-e
 has	has	have	VBZ	have-v
@@ -379,6 +398,7 @@ with	with	with	IN	with-i
 limited	limited	limited	JJ	limited-j
 speed	speed	speed	NN	speed-n
 .	.	.	.	.-x
+
 Video	Video	Video	NNP	Video-e
 downloading	downloading	download	VBG	download-v
 ,	,	,	,	,-x
@@ -398,6 +418,7 @@ use	use	use	VBP	use-v
 YouTube	YouTube	YouTube	NNP	YouTube-e
 Go	Go	Go	NNP	Go-e
 .	.	.	.	.-x
+
 NB	NB	nb	NN	nb-n
 :	:	:	:	:-x
 Although	Although	although	IN	although-i
@@ -432,3 +453,4 @@ iOS	iOS	iOS	NNP	iOS-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 devices	devices	device	NNS	device-n
 .	.	.	.	.-x
+

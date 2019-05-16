@@ -32,6 +32,7 @@ neighborhoods	neighborhoods	neighborhood	NNS	neighborhood-n
 Opioid	Opioid	opioid	JJ	opioid-j
 addiction	addiction	addiction	NN	addiction-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -56,6 +57,7 @@ Methodist	Methodist	Methodist	NNP	Methodist-e
 Baytown	Baytown	Baytown	NNP	Baytown-e
 Hospital	Hospital	Hospital	NNP	Hospital-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 "	``	``	``	``-x
 O	O	O	NNP	O-e
@@ -82,6 +84,7 @@ a	a	a	DT	a-d
 community	community	community	NN	community-n
 effort	effort	effort	NN	effort-n
 .	.	.	.	.-x
+
 Mike	Mike	Mike	NNP	Mike-e
 Wilson	Wilson	Wilson	NNP	Wilson-e
 ,	,	,	,	,-x
@@ -113,6 +116,7 @@ him	him	he	PRP	he-p
 for	for	for	IN	for-i
 help	help	help	NN	help-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 it	it	it	PRP	it-p
@@ -152,6 +156,7 @@ family	family	family	NN	family-n
 Wilson	Wilson	Wilson	NNP	Wilson-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 major	major	major	JJ	major-j
 issue	issue	issue	NN	issue-n
@@ -173,6 +178,7 @@ and	and	and	CC	and-c
 treatment	treatment	treatment	NN	treatment-n
 services	services	service	NNS	service-n
 .	.	.	.	.-x
+
 Cease	Cease	cease	VB	cease-v
 Addiction	Addiction	addiction	NN	addiction-n
 Now	Now	now	RB	now-r
@@ -209,6 +215,7 @@ O	O	O	NNP	O-e
 Team	Team	Team	NNP	Team-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
@@ -225,6 +232,7 @@ involved	involved	involve	VBN	involve-v
 Havenar	Havenar	Havenar	NNP	Havenar-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 team	team	team	NN	team-n
 focuses	focuses	focus	VBZ	focus-v
@@ -241,6 +249,7 @@ Rehabilitation	Rehabilitation	Rehabilitation	NNP	Rehabilitation-e
 and	and	and	CC	and-c
 Collaboration	Collaboration	Collaboration	NNP	Collaboration-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 list	list	list	NN	list-n
 of	of	of	IN	of-i
@@ -264,6 +273,7 @@ and	and	and	CC	and-c
 Houston	Houston	Houston	NNP	Houston-e
 Methodist	Methodist	Methodist	NNP	Methodist-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 hope	hope	hope	NN	hope-n
 is	is	be	VBZ	be-v
@@ -285,9 +295,11 @@ need	need	need	NN	need-n
 of	of	of	IN	of-i
 help	help	help	NN	help-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 more	more	more	JJR	more-j
 information	information	information	NN	information-n
 visit	visit	visit	NN	visit-n
 www.ceaseaddictionnow.org	www.ceaseaddictionnow.org	www.ceaseaddictionnow.org	NN	www.ceaseaddictionnow.org-n
 .	.	.	.	.-x
+

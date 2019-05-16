@@ -26,6 +26,7 @@ take	take	take	VB	take-v
 the	the	the	DT	the-d
 reins	reins	rein	NNS	rein-n
 .	.	.	.	.-x
+
 President	President	President	NNP	President-e
 Donald	Donald	Donald	NNP	Donald-e
 Trump	Trump	Trump	NNP	Trump-e
@@ -39,6 +40,7 @@ for	for	for	IN	for-i
 his	his	he	PRP$	he-p
 reelection	reelection	reelection	NN	reelection-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 his	his	he	PRP$	he-p
 top	top	top	JJ	top-j
@@ -74,6 +76,7 @@ over	over	over	IN	over-i
 huge	huge	huge	JJ	huge-j
 sums	sums	sum	NNS	sum-n
 .	.	.	.	.-x
+
 Trump	Trump	Trump	NNP	Trump-e
 political	political	political	JJ	political-j
 aides	aides	aide	NNS	aide-n
@@ -103,6 +106,7 @@ Action	Action	Action	NNP	Action-e
 fundraising	fundraising	fundraise	VBG	fundraise-v
 efforts	efforts	effort	NNS	effort-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 want	want	want	VBP	want-v
 someone	someone	someone	NN	someone-n
@@ -121,6 +125,7 @@ major	major	major	JJ	major-j
 GOP	GOP	GOP	NNP	GOP-e
 donors	donors	donor	NNS	donor-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 nationwide	nationwide	nationwide	JJ	nationwide-j
@@ -132,6 +137,7 @@ come	come	come	VB	come-v
 up	up	up	RP	up-x
 empty	empty	empty	JJ	empty-j
 .	.	.	.	.-x
+
 Super	Super	Super	NNP	Super-e
 PAC	PAC	PAC	NNP	PAC-e
 organizers	organizers	organizer	NNS	organizer-n
@@ -183,6 +189,7 @@ with	with	with	IN	with-i
 soliciting	soliciting	solicit	VBG	solicit-v
 prostitution	prostitution	prostitution	NN	prostitution-n
 .	.	.	.	.-x
+
 Another	Another	another	DT	another-d
 person	person	person	NN	person-n
 floated	floated	float	VBN	float-v
@@ -208,12 +215,14 @@ United	United	United	NNP	United-e
 Nations	Nations	Nations	NNPS	Nations-e
 ambassador	ambassador	ambassador	NN	ambassador-n
 .	.	.	.	.-x
+
 Then	Then	then	RB	then-r
 there	there	there	EX	there-r
 's	's	be	VBZ	be-v
 Nick	Nick	Nick	NNP	Nick-e
 Ayers	Ayers	Ayers	NNP	Ayers-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 former	former	former	JJ	former-j
 White	White	White	NNP	White-e
@@ -251,6 +260,7 @@ late	late	late	RB	late-r
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 36-year-old	36-year-old	36-year-old	JJ	36-year-old-j
@@ -278,6 +288,7 @@ to	to	to	TO	to-t
 sign	sign	sign	VB	sign-v
 on	on	on	RP	on-x
 .	.	.	.	.-x
+
 Many	Many	many	JJ	many-j
 of	of	of	IN	of-i
 those	those	those	DT	those-d
@@ -295,6 +306,7 @@ in	in	in	IN	in-i
 administration	administration	administration	NN	administration-n
 jobs	jobs	job	NNS	job-n
 .	.	.	.	.-x
+
 Woody	Woody	Woody	NNP	Woody-e
 Johnson	Johnson	Johnson	NNP	Johnson-e
 ,	,	,	,	,-x
@@ -320,6 +332,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 Kingdom	Kingdom	Kingdom	NNP	Kingdom-e
 .	.	.	.	.-x
+
 Senior	Senior	senior	JJ	senior-j
 White	White	White	NNP	White-e
 House	House	House	NNP	House-e
@@ -346,6 +359,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 group	group	group	NN	group-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 extensive	extensive	extensive	JJ	extensive-j
 search	search	search	NN	search-n
@@ -358,6 +372,7 @@ America	America	America	NNP	America-e
 First	First	First	NNP	First-e
 Action	Action	Action	NNP	Action-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 interviews	interviews	interview	NNS	interview-n
 ,	,	,	,	,-x
@@ -385,6 +400,7 @@ Trump	Trump	Trump	NNP	Trump-e
 reelection	reelection	reelection	NN	reelection-n
 apparatus	apparatus	apparatus	NN	apparatus-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 campaign	campaign	campaign	NN	campaign-n
@@ -435,6 +451,7 @@ presidential	presidential	presidential	JJ	presidential-j
 reelection	reelection	reelection	NN	reelection-n
 campaign	campaign	campaign	NN	campaign-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 super	super	super	JJ	super-j
 PAC	PAC	pac	NN	pac-n
@@ -476,6 +493,7 @@ set	set	set	VBN	set-v
 for	for	for	IN	for-i
 itself	itself	itself	PRP	itself-p
 .	.	.	.	.-x
+
 Trump	Trump	Trump	NNP	Trump-e
 aides	aides	aide	NNS	aide-n
 say	say	say	VBP	say-v
@@ -500,6 +518,7 @@ the	the	the	DT	the-d
 2020	2020	2020	CD	2020-f
 campaign	campaign	campaign	NN	campaign-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 that	that	that	DT	that-d
 will	will	will	MD	will-v
@@ -511,6 +530,7 @@ to	to	to	TO	to-t
 conservative	conservative	conservative	JJ	conservative-j
 givers	givers	giver	NNS	giver-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 A	A	a	DT	a-d
 super	super	super	JJ	super-j
@@ -531,6 +551,7 @@ a	a	a	DT	a-d
 three-legged	three-legged	three-legged	JJ	three-legged-j
 stool	stool	stool	NN	stool-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 you	you	you	PRP	you-p
 ca	ca	can	MD	can-v
@@ -574,6 +595,7 @@ Bush	Bush	Bush	NNP	Bush-e
 White	White	White	NNP	White-e
 House	House	House	NNP	House-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 need	need	need	VBP	need-v
@@ -602,11 +624,13 @@ especially	especially	especially	RB	especially-r
 the	the	the	DT	the-d
 president	president	president	NN	president-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 pressure	pressure	pressure	NN	pressure-n
 is	is	be	VBZ	be-v
 great	great	great	JJ	great-j
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -630,6 +654,7 @@ have	have	have	VB	have-v
 done	done	do	VBN	do-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Republican	Republican	republican	JJ	republican-j
 officials	officials	official	NNS	official-n
 are	are	be	VBP	be-v
@@ -665,6 +690,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 RNC	RNC	RNC	NNP	RNC-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 void	void	void	NN	void-n
 comes	comes	come	VBZ	come-v
@@ -687,6 +713,7 @@ liberal-aligned	liberal-aligned	liberal-aligned	JJ	liberal-aligned-j
 super	super	super	JJ	super-j
 PACs	PACs	pac	NNS	pac-n
 .	.	.	.	.-x
+
 Roy	Roy	Roy	NNP	Roy-e
 Bailey	Bailey	Bailey	NNP	Bailey-e
 ,	,	,	,	,-x
@@ -711,6 +738,7 @@ of	of	of	IN	of-i
 transition	transition	transition	NN	transition-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -732,6 +760,7 @@ months	months	month	NNS	month-n
 he	he	he	PRP	he-p
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 search	search	search	NN	search-n
 has	has	have	VBZ	have-v
@@ -760,6 +789,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 role	role	role	NN	role-n
 .	.	.	.	.-x
+
 Ayers	Ayers	Ayers	NNP	Ayers-e
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -785,6 +815,7 @@ party	party	party	NN	party-n
 top	top	top	JJ	top-j
 givers	givers	giver	NNS	giver-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 has	has	have	VBZ	have-v
 sought	sought	seek	VBN	seek-v
@@ -817,6 +848,7 @@ the	the	the	DT	the-d
 super	super	super	JJ	super-j
 PAC	PAC	pac	NN	pac-n
 .	.	.	.	.-x
+
 Federal	Federal	Federal	NNP	Federal-e
 laws	laws	law	NNS	law-n
 restrict	restrict	restrict	VBP	restrict-v
@@ -833,6 +865,7 @@ coordinate	coordinate	coordinate	VB	coordinate-v
 their	their	they	PRP$	they-p
 activities	activities	activity	NNS	activity-n
 .	.	.	.	.-x
+
 Ayers	Ayers	Ayers	NNP	Ayers-e
 ,	,	,	,	,-x
 along	along	along	IN	along-i
@@ -864,6 +897,7 @@ firm	firm	firm	NN	firm-n
 in	in	in	IN	in-i
 Washington	Washington	Washington	NNP	Washington-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 group	group	group	NN	group-n
 discussed	discussed	discuss	VBD	discuss-v
@@ -888,6 +922,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 discussion	discussion	discussion	NN	discussion-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 would	would	would	MD	would-v
@@ -898,6 +933,7 @@ to	to	to	TO	to-t
 do	do	do	VB	do-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 could	could	could	MD	could-v
 be	be	be	VB	be-v
@@ -941,6 +977,7 @@ touch	touch	touch	NN	touch-n
 with	with	with	IN	with-i
 Ayers	Ayers	Ayers	NNP	Ayers-e
 .	.	.	.	.-x
+
 Deason	Deason	Deason	NNP	Deason-e
 and	and	and	CC	and-c
 Bailey	Bailey	Bailey	NNP	Bailey-e
@@ -957,6 +994,7 @@ lead	lead	lead	VB	lead-v
 the	the	the	DT	the-d
 group	group	group	NN	group-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 two	two	two	CD	two-f
@@ -968,6 +1006,7 @@ with	with	with	IN	with-i
 a	a	a	DT	a-d
 name	name	name	NN	name-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 They	They	they	PRP	they-p
 're	're	be	VBP	be-v
@@ -986,6 +1025,7 @@ chairman	chairman	chairman	NN	chairman-n
 in	in	in	IN	in-i
 place	place	place	NN	place-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -1008,6 +1048,7 @@ chair	chair	chair	NN	chair-n
 Deason	Deason	Deason	NNP	Deason-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Once	Once	once	RB	once-r
 they	they	they	PRP	they-p
@@ -1022,6 +1063,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 groove	groove	groove	NN	groove-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 just	just	just	RB	just-r
 helps	helps	help	VBZ	help-v
@@ -1034,6 +1076,7 @@ in	in	in	IN	in-i
 charge	charge	charge	NN	charge-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 "	``	``	``	``-x
@@ -1054,6 +1097,7 @@ now	now	now	RB	now-r
 he	he	he	PRP	he-p
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 now	now	now	RB	now-r
 ,	,	,	,	,-x
@@ -1080,6 +1124,7 @@ PAC	PAC	PAC	NNP	PAC-e
 day-to-day	day-to-day	day-to-day	JJ	day-to-day-j
 operations	operations	operation	NNS	operation-n
 .	.	.	.	.-x
+
 Walsh	Walsh	Walsh	NNP	Walsh-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -1114,6 +1159,7 @@ the	the	the	DT	the-d
 chairmanship	chairmanship	chairmanship	NN	chairmanship-n
 spot	spot	spot	NN	spot-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 America	America	America	NNP	America-e
 First	First	First	NNP	First-e
@@ -1124,6 +1170,7 @@ exist	exist	exist	VB	exist-v
 in	in	in	IN	in-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 Yet	Yet	yet	RB	yet-r
 ,	,	,	,	,-x
 in	in	in	IN	in-i
@@ -1171,6 +1218,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 statement	statement	statement	NN	statement-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -1209,6 +1257,7 @@ in	in	in	IN	in-i
 2020	2020	2020	CD	2020-f
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Republican	Republican	republican	JJ	republican-j
 officials	officials	official	NNS	official-n
 are	are	be	VBP	be-v
@@ -1225,6 +1274,7 @@ of	of	of	IN	of-i
 Priorities	Priorities	Priorities	NNPS	Priorities-e
 USA	USA	USA	NNP	USA-e
 .	.	.	.	.-x
+
 During	During	during	IN	during-i
 Barack	Barack	Barack	NNP	Barack-e
 Obama	Obama	Obama	NNP	Obama-e
@@ -1260,6 +1310,7 @@ a	a	a	DT	a-d
 venture	venture	venture	NN	venture-n
 capitalist	capitalist	capitalist	NN	capitalist-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 hope	hope	hope	NN	hope-n
 ,	,	,	,	,-x
@@ -1293,6 +1344,7 @@ eventual	eventual	eventual	JJ	eventual-j
 Democratic	Democratic	democratic	JJ	democratic-j
 nominee	nominee	nominee	NN	nominee-n
 .	.	.	.	.-x
+
 Yet	Yet	yet	RB	yet-r
 America	America	America	NNP	America-e
 First	First	First	NNP	First-e
@@ -1304,6 +1356,7 @@ array	array	array	NN	array-n
 of	of	of	IN	of-i
 complications	complications	complication	NNS	complication-n
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 former	former	former	JJ	former-j
 Trump	Trump	Trump	NNP	Trump-e
@@ -1332,6 +1385,7 @@ of	of	of	IN	of-i
 his	his	he	PRP$	he-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 sparked	sparked	spark	VBD	spark-v
 confusion	confusion	confusion	NN	confusion-n
@@ -1354,6 +1408,7 @@ main	main	main	JJ	main-j
 pro-Trump	pro-Trump	pro-trump	JJ	pro-trump-j
 group	group	group	NN	group-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 has	has	have	VBZ	have-v
 also	also	also	RB	also-r
@@ -1364,6 +1419,7 @@ of	of	of	IN	of-i
 senior-level	senior-level	senior-level	JJ	senior-level-j
 departures	departures	departure	NNS	departure-n
 .	.	.	.	.-x
+
 Ayers	Ayers	Ayers	NNP	Ayers-e
 had	had	have	VBD	have-v
 been	been	be	VBN	be-v
@@ -1384,6 +1440,7 @@ chief	chief	chief	NN	chief-n
 of	of	of	IN	of-i
 staff	staff	staff	NN	staff-n
 .	.	.	.	.-x
+
 Parscale	Parscale	Parscale	NNP	Parscale-e
 left	left	leave	VBD	leave-v
 the	the	the	DT	the-d
@@ -1399,6 +1456,7 @@ Trump	Trump	Trump	NNP	Trump-e
 campaign	campaign	campaign	NN	campaign-n
 manager	manager	manager	NN	manager-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 Rick	Rick	Rick	NNP	Rick-e
 Gates	Gates	Gates	NNP	Gates-e
@@ -1431,6 +1489,7 @@ found	found	find	VBN	find-v
 the	the	the	DT	the-d
 group	group	group	NN	group-n
 .	.	.	.	.-x
+
 Walsh	Walsh	Walsh	NNP	Walsh-e
 was	was	be	VBD	be-v
 tapped	tapped	tap	VBN	tap-v
@@ -1448,6 +1507,7 @@ the	the	the	DT	the-d
 super	super	super	JJ	super-j
 PAC	PAC	pac	NN	pac-n
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 the	the	the	DT	the-d
 end	end	end	NN	end-n
@@ -1476,6 +1536,7 @@ several	several	several	JJ	several-j
 cabinet	cabinet	cabinet	NN	cabinet-n
 members	members	member	NNS	member-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 some	some	some	DT	some-d
 moves	moves	move	NNS	move-n
@@ -1530,6 +1591,7 @@ New	New	New	NNP	New-e
 York	York	York	NNP	York-e
 City	City	City	NNP	City-e
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 talk	talk	talk	NN	talk-n
@@ -1556,6 +1618,7 @@ n't	n't	not	RB	not-r
 settled	settled	settle	VBN	settle-v
 soon	soon	soon	RB	soon-r
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 could	could	could	MD	could-v
 scramble	scramble	scramble	VB	scramble-v
@@ -1579,6 +1642,7 @@ should	should	should	MD	should-v
 give	give	give	VB	give-v
 to	to	to	TO	to-t
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 A	A	a	DT	a-d
 strong	strong	strong	JJ	strong-j
@@ -1616,6 +1680,7 @@ Kerry	Kerry	Kerry	NNP	Kerry-e
 in	in	in	IN	in-i
 2004	2004	2004	CD	2004-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'd	'd	would	MD	would-v
@@ -1628,3 +1693,4 @@ than	than	than	IN	than-i
 one	one	one	CD	one-f
 .	.	.	.	.-x
 "	''	''	''	''-x
+

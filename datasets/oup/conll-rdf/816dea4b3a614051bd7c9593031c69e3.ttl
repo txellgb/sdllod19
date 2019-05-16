@@ -50,15 +50,24 @@
 :s1_42 a nif:Word; conll:WORD "put"; conll:TOKEN "put"; conll:LEMMA "put"; conll:LEMPOS "put-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_43 .
 :s1_43 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_44 .
 :s1_44 a nif:Word; conll:WORD "trial"; conll:TOKEN "trial"; conll:LEMMA "trial"; conll:LEMPOS "trial-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_45 .
-:s1_45 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_46 .
-:s1_46 a nif:Word; conll:WORD "Police"; conll:TOKEN "Police"; conll:LEMMA "police"; conll:LEMPOS "police-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_47 .
-:s1_47 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_48 .
-:s1_48 a nif:Word; conll:WORD "Rangers"; conll:TOKEN "Rangers"; conll:LEMMA "Rangers"; conll:LEMPOS "Rangers-e"; conll:HEAD :s1_0; conll:POS "NNPS"; nif:nextWord :s1_49 .
-:s1_49 a nif:Word; conll:WORD "are"; conll:TOKEN "are"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s1_0; conll:POS "VBP"; nif:nextWord :s1_50 .
-:s1_50 a nif:Word; conll:WORD "deployed"; conll:TOKEN "deployed"; conll:LEMMA "deploy"; conll:LEMPOS "deploy-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_51 .
-:s1_51 a nif:Word; conll:WORD "en"; conll:TOKEN "en"; conll:LEMMA "en"; conll:LEMPOS "en-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_52 .
-:s1_52 a nif:Word; conll:WORD "route"; conll:TOKEN "route"; conll:LEMMA "route"; conll:LEMPOS "route-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_53 .
-:s1_53 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_54 .
-:s1_54 a nif:Word; conll:WORD "Wagah"; conll:TOKEN "Wagah"; conll:LEMMA "Wagah"; conll:LEMPOS "Wagah-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_55 .
-:s1_55 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+:s1_45 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/816dea4b3a614051bd7c9593031c69e3#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s1_0 nif:nextSentence :s2_0 .
+:s2_0 a nif:Sentence .
+:s2_1 a nif:Word; conll:WORD "Police"; conll:TOKEN "Police"; conll:LEMMA "police"; conll:LEMPOS "police-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_2 .
+:s2_2 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s2_0; conll:POS "CC"; nif:nextWord :s2_3 .
+:s2_3 a nif:Word; conll:WORD "Rangers"; conll:TOKEN "Rangers"; conll:LEMMA "Rangers"; conll:LEMPOS "Rangers-e"; conll:HEAD :s2_0; conll:POS "NNPS"; nif:nextWord :s2_4 .
+:s2_4 a nif:Word; conll:WORD "are"; conll:TOKEN "are"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s2_0; conll:POS "VBP"; nif:nextWord :s2_5 .
+:s2_5 a nif:Word; conll:WORD "deployed"; conll:TOKEN "deployed"; conll:LEMMA "deploy"; conll:LEMPOS "deploy-v"; conll:HEAD :s2_0; conll:POS "VBN"; nif:nextWord :s2_6 .
+:s2_6 a nif:Word; conll:WORD "en"; conll:TOKEN "en"; conll:LEMMA "en"; conll:LEMPOS "en-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_7 .
+:s2_7 a nif:Word; conll:WORD "route"; conll:TOKEN "route"; conll:LEMMA "route"; conll:LEMPOS "route-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_8 .
+:s2_8 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s2_0; conll:POS "TO"; nif:nextWord :s2_9 .
+:s2_9 a nif:Word; conll:WORD "Wagah"; conll:TOKEN "Wagah"; conll:LEMMA "Wagah"; conll:LEMPOS "Wagah-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_10 .
+:s2_10 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s2_0; conll:POS "." .
 

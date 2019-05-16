@@ -26,6 +26,7 @@ away	away	away	RB	away-r
 in	in	in	IN	in-i
 2015	2015	2015	CD	2015-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 do-gooder	do-gooder	do-gooder	JJ	do-gooder-j
 group	group	group	NN	group-n
@@ -59,6 +60,7 @@ cared	cared	care	VBD	care-v
 deeply	deeply	deeply	RB	deeply-r
 about	about	about	RB	about-r
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Brian	Brian	Brian	NNP	Brian-e
 accomplished	accomplished	accomplish	VBD	accomplish-v
@@ -94,6 +96,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 website	website	website	NN	website-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Gewirtz	Gewirtz	Gewirtz	NNP	Gewirtz-e
 family	family	family	NN	family-n
@@ -117,6 +120,7 @@ Madison	Madison	Madison	NNP	Madison-e
 High	High	High	NNP	High-e
 School	School	School	NNP	School-e
 .	.	.	.	.-x
+
 Families	Families	family	NNS	family-n
 living	living	live	VBG	live-v
 with	with	with	IN	with-i
@@ -137,6 +141,7 @@ Gewirtz	Gewirtz	Gewirtz	NNP	Gewirtz-e
 's	's	's	POS	's-p
 legacy	legacy	legacy	NN	legacy-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Thank	Thank	thank	VB	thank-v
 you	you	you	PRP	you-p
@@ -174,6 +179,7 @@ live	live	live	VBP	live-v
 with	with	with	IN	with-i
 disabilities	disabilities	disability	NNS	disability-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 By	By	by	IN	by-i
 giving	giving	give	VBG	give-v
@@ -199,6 +205,7 @@ on	on	on	IN	on-i
 multiple	multiple	multiple	JJ	multiple-j
 occasions	occasions	occasion	NNS	occasion-n
 .	.	.	.	.-x
+
 Your	Your	you	PRP$	you-p
 entire	entire	entire	JJ	entire-j
 family	family	family	NN	family-n
@@ -206,6 +213,7 @@ is	is	be	VBZ	be-v
 inspiratio­nal	inspirational	inspirational	JJ	inspirational-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 So	So	so	RB	so-r
 save	save	save	VB	save-v
 the	the	the	DT	the-d
@@ -232,6 +240,7 @@ his	his	he	PRP$	he-p
 25th	25th	25th	JJ	25th-j
 birthday	birthday	birthday	NN	birthday-n
 .	.	.	.	.-x
+
 Brian	Brian	Brian	NNP	Brian-e
 Gewirtz	Gewirtz	Gewirtz	NNP	Gewirtz-e
 Memorial	Memorial	Memorial	NNP	Memorial-e
@@ -266,15 +275,18 @@ Park	Park	Park	NNP	Park-e
 www.bgmfo	www.bgmfo	www.bgmfo	NN	www.bgmfo-n
 ]	-RSB-	-rsb-	-RRB-	-rsb--x
 .	.	.	.	.-x
+
 June	June	June	NNP	June-e
 1	1	1	CD	1-f
 ,	,	,	,	,-x
 1-5	1-5	1-5	CD	1-5-f
 pm	pm	pm	NN	pm-n
 .	.	.	.	.-x
+
 --	--	--	:	---x
 Natallie	Natallie	Natallie	NNP	Natallie-e
 Rocha	Rocha	Rocha	NNP	Rocha-e
+
 Three	Three	three	CD	three-f
 cheers	cheers	cheer	NNS	cheer-n
 for	for	for	IN	for-i
@@ -307,6 +319,7 @@ College	College	College	NNP	College-e
 of	of	of	IN	of-i
 Distinction	Distinction	Distinction	NNP	Distinction-e
 .	.	.	.	.-x
+
 Kingsborough	Kingsborough	Kingsborough	NNP	Kingsborough-e
 was	was	be	VBD	be-v
 one	one	one	CD	one-f
@@ -329,6 +342,7 @@ New	New	New	NNP	New-e
 York	York	York	NNP	York-e
 State	State	State	NNP	State-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 college	college	college	NN	college-n
 earned	earned	earn	VBD	earn-v
@@ -338,6 +352,7 @@ distinction	distinction	distinction	NN	distinction-n
 in	in	in	IN	in-i
 2015	2015	2015	CD	2015-f
 .	.	.	.	.-x
+
 Achieving	Achieving	achieve	VBG	achieve-v
 the	the	the	DT	the-d
 Dream	Dream	dream	NN	dream-n
@@ -385,6 +400,7 @@ as	as	as	IN	as-i
 a	a	a	DT	a-d
 whole	whole	whole	NN	whole-n
 .	.	.	.	.-x
+
 Participating	Participating	participate	VBG	participate-v
 colleges	colleges	college	NNS	college-n
 focus	focus	focus	VB	focus-v
@@ -420,6 +436,7 @@ policies	policies	policy	NNS	policy-n
 and	and	and	CC	and-c
 practices	practices	practice	NNS	practice-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 college	college	college	NN	college-n
@@ -432,6 +449,7 @@ ATD	ATD	atd	NN	atd-n
 's	's	's	POS	's-p
 principles	principles	principle	NNS	principle-n
 .	.	.	.	.-x
+
 Subcommittees	Subcommittees	subcommittee	NNS	subcommittee-n
 of	of	of	IN	of-i
 faculty	faculty	faculty	NN	faculty-n
@@ -468,6 +486,7 @@ President	President	President	NNP	President-e
 Claudia	Claudia	Claudia	NNP	Claudia-e
 Schrader	Schrader	Schrader	NNP	Schrader-e
 .	.	.	.	.-x
+
 Kingsborough	Kingsborough	Kingsborough	NNP	Kingsborough-e
 has	has	have	VBZ	have-v
 focused	focused	focus	VBN	focus-v
@@ -500,6 +519,7 @@ or	or	or	CC	or-c
 community	community	community	NN	community-n
 wealth	wealth	wealth	NN	wealth-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 metrics	metrics	metric	NNS	metric-n
@@ -546,6 +566,7 @@ Achieving	Achieving	achieve	VBG	achieve-v
 the	the	the	DT	the-d
 Dream	Dream	dream	NN	dream-n
 .	.	.	.	.-x
+
 Only	Only	only	RB	only-r
 colleges	colleges	college	NNS	college-n
 that	that	that	WDT	that-d
@@ -563,3 +584,4 @@ invited	invited	invite	VBN	invite-v
 to	to	to	TO	to-t
 apply	apply	apply	VB	apply-v
 .	.	.	.	.-x
+

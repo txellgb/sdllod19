@@ -26,6 +26,7 @@ it	it	it	PRP	it-p
 than	than	than	IN	than-i
 that	that	that	DT	that-d
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 explain	explain	explain	VBP	explain-v
 how	how	how	WRB	how-r
@@ -44,9 +45,11 @@ stave	stave	stave	VB	stave-v
 off	off	off	RP	off-x
 cancer	cancer	cancer	NN	cancer-n
 ...	...	...	:	...-x
+
 HALE	HALE	HALE	NNP	HALE-e
 AND	AND	and	CC	and-c
 HEARTY	HEARTY	HEARTY	NNP	HEARTY-e
+
 The	The	the	DT	the-d
 majority	majority	majority	NN	majority-n
 of	of	of	IN	of-i
@@ -78,6 +81,7 @@ most	most	most	JJS	most-j
 other	other	other	JJ	other-j
 vegetables	vegetables	vegetable	NNS	vegetable-n
 .	.	.	.	.-x
+
 Nitrates	Nitrates	nitrate	NNS	nitrate-n
 have	have	have	VBP	have-v
 suffered	suffered	suffer	VBN	suffer-v
@@ -93,6 +97,7 @@ a	a	a	DT	a-d
 food	food	food	NN	food-n
 additive	additive	additive	JJ	additive-j
 .	.	.	.	.-x
+
 Animal	Animal	animal	NN	animal-n
 experiments	experiments	experiment	NNS	experiment-n
 had	had	have	VBD	have-v
@@ -117,6 +122,7 @@ on	on	on	IN	on-i
 their	their	they	PRP$	they-p
 use	use	use	NN	use-n
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 recent	recent	recent	JJ	recent-j
@@ -131,6 +137,7 @@ lower	lower	lower	JJR	lower-j
 blood	blood	blood	NN	blood-n
 pressure	pressure	pressure	NN	pressure-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 2010	2010	2010	CD	2010-f
 study	study	study	NN	study-n
@@ -163,6 +170,7 @@ for	for	for	IN	for-i
 several	several	several	JJ	several-j
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 also	also	also	RB	also-r
 found	found	find	VBD	find-v
@@ -179,6 +187,7 @@ the	the	the	DT	the-d
 drop	drop	drop	NN	drop-n
 observed	observed	observe	VBN	observe-v
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 new	new	new	JJ	new-j
 study	study	study	NN	study-n
@@ -216,6 +225,7 @@ after	after	after	IN	after-i
 six	six	six	CD	six-f
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 beetroot	beetroot	beetroot	NN	beetroot-n
 juice	juice	juice	NN	juice-n
@@ -239,6 +249,7 @@ from	from	from	IN	from-i
 cardiovascular	cardiovascular	cardiovascular	JJ	cardiovascular-j
 disease	disease	disease	NN	disease-n
 .	.	.	.	.-x
+
 Nitrates	Nitrates	nitrate	NNS	nitrate-n
 lower	lower	lower	JJR	lower-j
 blood	blood	blood	NN	blood-n
@@ -273,9 +284,11 @@ circulate	circulate	circulate	VB	circulate-v
 more	more	more	JJR	more-j
 freely	freely	freely	RB	freely-r
 .	.	.	.	.-x
+
 ATHLETE	ATHLETE	athlete	NN	athlete-n
 'S	'S	's	POS	's-p
 CHOICE	CHOICE	choice	NN	choice-n
+
 Studies	Studies	study	NNS	study-n
 carried	carried	carry	VBD	carry-v
 out	out	out	RP	out-x
@@ -298,6 +311,7 @@ improve	improve	improve	VB	improve-v
 stamina	stamina	stamina	NN	stamina-n
 too	too	too	RB	too-r
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 2010	2010	2010	CD	2010-f
 study	study	study	NN	study-n
@@ -328,6 +342,7 @@ with	with	with	IN	with-i
 nitrates	nitrates	nitrate	NNS	nitrate-n
 removed	removed	remove	VBN	remove-v
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 Nitrates	Nitrates	nitrate	NNS	nitrate-n
 work	work	work	VBP	work-v
@@ -359,6 +374,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 study	study	study	NN	study-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 This	This	this	DT	this-d
 enables	enables	enable	VBZ	enable-v
@@ -372,6 +388,7 @@ slows	slows	slow	VBZ	slow-v
 fatigue	fatigue	fatigue	NN	fatigue-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 Indeed	Indeed	indeed	RB	indeed-r
 ,	,	,	,	,-x
 disabled	disabled	disabled	JJ	disabled-j
@@ -400,6 +417,7 @@ of	of	of	IN	of-i
 beetroot	beetroot	beetroot	NN	beetroot-n
 juice	juice	juice	NN	juice-n
 .	.	.	.	.-x
+
 England	England	England	NNP	England-e
 rugby	rugby	rugby	JJ	rugby-j
 player	player	player	NN	player-n
@@ -422,8 +440,10 @@ great	great	great	JJ	great-j
 endurance	endurance	endurance	JJ	endurance-j
 booster	booster	booster	NN	booster-n
 .	.	.	.	.-x
+
 BRAIN	BRAIN	brain	NN	brain-n
 BOOSTER	BOOSTER	booster	NN	booster-n
+
 A	A	a	DT	a-d
 2011	2011	2011	CD	2011-f
 study	study	study	NN	study-n
@@ -445,6 +465,7 @@ progression	progression	progression	NN	progression-n
 of	of	of	IN	of-i
 dementia	dementia	dementia	NN	dementia-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 thought	thought	think	VBN	think-v
@@ -460,6 +481,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 brain	brain	brain	NN	brain-n
 .	.	.	.	.-x
+
 Beetroot	Beetroot	Beetroot	NNP	Beetroot-e
 's	's	's	POS	's-p
 high	high	high	JJ	high-j
@@ -504,6 +526,7 @@ against	against	against	IN	against-i
 Alzheimer	Alzheimer	Alzheimer	NNP	Alzheimer-e
 's	's	's	POS	's-p
 .	.	.	.	.-x
+
 Betacyanin	Betacyanin	Betacyanin	NNP	Betacyanin-e
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -528,6 +551,7 @@ possess	possess	possess	VB	possess-v
 anti-cancer	anti-cancer	anti-cancer	JJ	anti-cancer-j
 properties	properties	property	NNS	property-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 2011	2011	2011	CD	2011-f
 ,	,	,	,	,-x
@@ -562,6 +586,7 @@ breast	breast	breast	NN	breast-n
 cancer	cancer	cancer	NN	cancer-n
 cells	cells	cell	NNS	cell-n
 .	.	.	.	.-x
+
 More	More	more	RBR	more-r
 research	research	research	NN	research-n
 needs	needs	need	VBZ	need-v
@@ -581,9 +606,11 @@ similar	similar	similar	JJ	similar-j
 anti-cancer	anti-cancer	anti-cancer	JJ	anti-cancer-j
 effect	effect	effect	NN	effect-n
 .	.	.	.	.-x
+
 HIGH	HIGH	HIGH	NNP	HIGH-e
 IN	IN	in	IN	in-i
 FIBER	FIBER	FIBER	NNP	FIBER-e
+
 Nutritional	Nutritional	Nutritional	NNP	Nutritional-e
 therapist	therapist	therapist	NN	therapist-n
 Dr	Dr	Dr	NNP	Dr-e
@@ -596,6 +623,7 @@ for	for	for	IN	for-i
 digestive	digestive	digestive	JJ	digestive-j
 troubles	troubles	trouble	NNS	trouble-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 Beetroot	Beetroot	Beetroot	NNP	Beetroot-e
 is	is	be	VBZ	be-v
@@ -632,6 +660,7 @@ movements	movements	movement	NNS	movement-n
 she	she	she	PRP	she-p
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 It	It	it	PRP	it-p
 also	also	also	RB	also-r
@@ -647,6 +676,7 @@ acid	acid	acid	NN	acid-n
 secretion	secretion	secretion	NN	secretion-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 The	The	the	DT	the-d
 compound	compound	compound	NN	compound-n
 increases	increases	increase	VBZ	increase-v
@@ -673,6 +703,7 @@ producing	producing	produce	VBG	produce-v
 too	too	too	RB	too-r
 much	much	much	RB	much-r
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 Beetroot	Beetroot	Beetroot	NNP	Beetroot-e
 supports	supports	support	VBZ	support-v
@@ -684,6 +715,7 @@ too	too	too	RB	too-r
 she	she	she	PRP	she-p
 adds	adds	add	VBZ	add-v
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 Antioxidants	Antioxidants	antioxidant	NNS	antioxidant-n
 vulgaxanthin	vulgaxanthin	vulgaxanthin	NN	vulgaxanthin-n
@@ -707,9 +739,11 @@ process	process	process	NN	process-n
 toxins	toxins	toxin	NNS	toxin-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 IN	IN	in	IN	in-i
 THE	THE	the	DT	the-d
 PINK	PINK	pink	NN	pink-n
+
 Between	Between	between	IN	between-i
 ten	ten	ten	CD	ten-f
 and	and	and	CC	and-c
@@ -736,6 +770,7 @@ after	after	after	IN	after-i
 eating	eating	eat	VBG	eat-v
 beetroot	beetroot	beetroot	NN	beetroot-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 usually	usually	usually	RB	usually-r
 occurs	occurs	occur	VBZ	occur-v
@@ -747,6 +782,7 @@ a	a	a	DT	a-d
 large	large	large	JJ	large-j
 quantity	quantity	quantity	NN	quantity-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -769,6 +805,7 @@ says	says	say	VBZ	say-v
 Dr	Dr	Dr	NNP	Dr-e
 Philipps	Philipps	Philipps	NNP	Philipps-e
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 If	If	if	IN	if-i
 your	your	you	PRP$	you-p
@@ -791,3 +828,4 @@ concerned	concerned	concern	VBN	concern-v
 about	about	about	IN	about-i
 .	.	.	.	.-x
 '	'	'	''	'-x
+

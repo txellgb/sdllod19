@@ -19,6 +19,7 @@ Terry	Terry	Terry	NNP	Terry-e
 in	in	in	IN	in-i
 2004/05	2004/05	2004/05	CD	2004/05-f
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
 1988/89	1988/89	1988/89	CD	1988/89-f
@@ -55,6 +56,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 Season	Season	season	NN	season-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 the	the	the	DT	the-d
@@ -85,6 +87,7 @@ the	the	the	DT	the-d
 Daily	Daily	Daily	NNP	Daily-e
 Mail	Mail	Mail	NNP	Mail-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 will	will	will	MD	will-v
 be	be	be	VB	be-v
@@ -97,6 +100,7 @@ win	win	win	VB	win-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Liverpool	Liverpool	Liverpool	NNP	Liverpool-e
 spent	spent	spend	VBD	spend-v
 a	a	a	DT	a-d
@@ -115,6 +119,7 @@ through	through	through	IN	through-i
 last	last	last	JJ	last-j
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 fee	fee	fee	NN	fee-n
 raised	raised	raise	VBD	raise-v
@@ -146,6 +151,7 @@ previously	previously	previously	RB	previously-r
 suspect	suspect	suspect	JJ	suspect-j
 defence	defence	defence	NN	defence-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 somebody	somebody	somebody	NN	somebody-n
 is	is	be	VBZ	be-v
@@ -173,6 +179,7 @@ ever	ever	ever	RB	ever-r
 Robertson	Robertson	Robertson	NNP	Robertson-e
 continued	continued	continue	VBD	continue-v
 .	.	.	.	.-x
+
 Van	Van	Van	NNP	Van-e
 Dijk	Dijk	Dijk	NNP	Dijk-e
 won	won	win	VBD	win-v
@@ -204,3 +211,4 @@ in	in	in	IN	in-i
 March	March	March	NNP	March-e
 2013	2013	2013	CD	2013-f
 .	.	.	.	.-x
+

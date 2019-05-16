@@ -10,6 +10,7 @@ disappointment	disappointment	disappointment	NN	disappointment-n
 of	of	of	IN	of-i
 Anthem	Anthem	Anthem	NNP	Anthem-e
 .	.	.	.	.-x
+
 From	From	from	IN	from-i
 the	the	the	DT	the-d
 outside	outside	outside	JJ	outside-j
@@ -26,6 +27,7 @@ of	of	of	IN	of-i
 it	it	it	PRP	it-p
 lately	lately	lately	RB	lately-r
 .	.	.	.	.-x
+
 Over	Over	over	IN	over-i
 four	four	four	CD	four-f
 years	years	year	NNS	year-n
@@ -60,6 +62,7 @@ in	in	in	IN	in-i
 its	its	its	PRP$	its-p
 history	history	history	NN	history-n
 .	.	.	.	.-x
+
 Mass	Mass	mass	JJ	mass-j
 Effect	Effect	effect	NN	effect-n
 Andromeda	Andromeda	Andromeda	NNP	Andromeda-e
@@ -81,6 +84,7 @@ light	light	light	NN	light-n
 of	of	of	IN	of-i
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 Anthem	Anthem	Anthem	NNP	Anthem-e
 ,	,	,	,	,-x
 meanwhile	meanwhile	meanwhile	RB	meanwhile-r
@@ -111,6 +115,7 @@ previous	previous	previous	JJ	previous-j
 series	series	series	NN	series-n
 did	did	do	VBD	do-v
 .	.	.	.	.-x
+
 Counterpoint	Counterpoint	counterpoint	NN	counterpoint-n
 :	:	:	:	:-x
 The	The	The	NNP	The-e
@@ -122,6 +127,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 background	background	background	NN	background-n
 .	.	.	.	.-x
+
 BioWare	BioWare	BioWare	NNP	BioWare-e
 's	's	's	POS	's-p
 games	games	game	NNS	game-n
@@ -130,6 +136,7 @@ always	always	always	RB	always-r
 been	been	be	VBN	be-v
 changing	changing	change	VBG	change-v
 .	.	.	.	.-x
+
 Mass	Mass	mass	JJ	mass-j
 Effect	Effect	effect	NN	effect-n
 was	was	be	VBD	be-v
@@ -163,6 +170,7 @@ entries	entries	entry	NNS	entry-n
 more	more	more	RBR	more-r
 so	so	so	RB	so-r
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 fans	fans	fan	NNS	fan-n
 of	of	of	IN	of-i
@@ -189,6 +197,7 @@ previously	previously	previously	RB	previously-r
 PC-focused	PC-focused	pc-focused	JJ	pc-focused-j
 studio	studio	studio	NN	studio-n
 .	.	.	.	.-x
+
 Anthem	Anthem	anthem	NN	anthem-n
 represents	represents	represent	VBZ	represent-v
 another	another	another	DT	another-d
@@ -225,6 +234,7 @@ as	as	as	IN	as-i
 an	an	a	DT	a-d
 incentive	incentive	incentive	NN	incentive-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
 okay	okay	okay	JJ	okay-j
@@ -256,6 +266,7 @@ to	to	to	TO	to-t
 branch	branch	branch	VB	branch-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 Pondering	Pondering	ponder	VBG	ponder-v
 BioWare	BioWare	BioWare	NNP	BioWare-e
 's	's	's	POS	's-p
@@ -300,6 +311,7 @@ The	The	the	DT	the-d
 Division	Division	division	NN	division-n
 did	did	do	VBD	do-v
 .	.	.	.	.-x
+
 Next	Next	next	RB	next-r
 up	up	up	RB	up-r
 ,	,	,	,	,-x
@@ -336,6 +348,7 @@ it	it	it	PRP	it-p
 used	used	use	VBD	use-v
 to	to	to	TO	to-t
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 after	after	after	IN	after-i
 that	that	that	DT	that-d
@@ -370,6 +383,7 @@ universe	universe	universe	NN	universe-n
 once	once	once	RB	once-r
 more	more	more	RBR	more-r
 .	.	.	.	.-x
+
 Hopefully	Hopefully	hopefully	RB	hopefully-r
 ,	,	,	,	,-x
 too	too	too	RB	too-r
@@ -385,6 +399,7 @@ along	along	along	IN	along-i
 the	the	the	DT	the-d
 way	way	way	NN	way-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 reality	reality	reality	NN	reality-n
 will	will	will	MD	will-v
@@ -419,6 +434,7 @@ its	its	its	PRP$	its-p
 loot	loot	loot	NN	loot-n
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 been	been	be	VBN	be-v
@@ -441,6 +457,7 @@ a	a	a	DT	a-d
 positive	positive	positive	JJ	positive-j
 step	step	step	NN	step-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 it	it	it	PRP	it-p
 remains	remains	remain	VBZ	remain-v
@@ -470,6 +487,7 @@ do	do	do	VB	do-v
 so	so	so	RB	so-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 Anthem	Anthem	Anthem	NNP	Anthem-e
 is	is	be	VBZ	be-v
 disappointing	disappointing	disappointing	JJ	disappointing-j
@@ -495,6 +513,7 @@ story	story	story	NN	story-n
 is	is	be	VBZ	be-v
 presented	presented	present	VBN	present-v
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 almost	almost	almost	RB	almost-r
@@ -530,6 +549,7 @@ cool	cool	cool	JJ	cool-j
 robot	robot	robot	NN	robot-n
 armour	armour	armour	NN	armour-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 conversations	conversations	conversation	NNS	conversation-n
 at	at	at	IN	at-i
@@ -570,6 +590,7 @@ character	character	character	NN	character-n
 oldest	oldest	oldest	JJS	oldest-j
 companions	companions	companion	NNS	companion-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 at	at	at	IN	at-i
 that	that	that	DT	that-d
@@ -594,6 +615,7 @@ needless	needless	needless	JJ	needless-j
 side	side	side	NN	side-n
 quests	quests	quest	NNS	quest-n
 .	.	.	.	.-x
+
 BioWare	BioWare	BioWare	NNP	BioWare-e
 had	had	have	VBD	have-v
 the	the	the	DT	the-d
@@ -615,11 +637,13 @@ its	its	its	PRP$	its-p
 other	other	other	JJ	other-j
 games	games	game	NNS	game-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 competition	competition	competition	NN	competition-n
 and	and	and	CC	and-c
 the	the	the	DT	the-d
 pretenders	pretenders	pretender	NNS	pretender-n
+
 I	I	I	PRP	I-p
 feel	feel	feel	VBP	feel-v
 like	like	like	IN	like-i
@@ -647,6 +671,7 @@ as	as	as	IN	as-i
 a	a	a	DT	a-d
 result	result	result	NN	result-n
 .	.	.	.	.-x
+
 Last	Last	last	JJ	last-j
 year	year	year	NN	year-n
 ,	,	,	,	,-x
@@ -679,6 +704,7 @@ to	to	to	TO	to-t
 do	do	do	VB	do-v
 so	so	so	RB	so-r
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 weird	weird	weird	JJ	weird-j
@@ -717,6 +743,7 @@ here	here	here	RB	here-r
 we	we	we	PRP	we-p
 are	are	be	VBP	be-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 strong	strong	strong	JJ	strong-j
 response	response	response	NN	response-n
@@ -742,6 +769,7 @@ Effect	Effect	effect	NN	effect-n
 's	's	's	POS	's-p
 characters	characters	character	NNS	character-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 interesting	interesting	interesting	JJ	interesting-j
@@ -761,6 +789,7 @@ around	around	around	IN	around-i
 the	the	the	DT	the-d
 studio	studio	studio	NN	studio-n
 .	.	.	.	.-x
+
 Mega-selling	Mega-selling	mega-selling	JJ	mega-selling-j
 PS4	PS4	ps4	NN	ps4-n
 game	game	game	NN	game-n
@@ -778,6 +807,7 @@ of	of	of	IN	of-i
 Mass	Mass	mass	JJ	mass-j
 Effect	Effect	effect	NN	effect-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 terms	terms	term	NNS	term-n
 of	of	of	IN	of-i
@@ -804,6 +834,7 @@ arrival	arrival	arrival	NN	arrival-n
 of	of	of	IN	of-i
 Inquisition	Inquisition	Inquisition	NNP	Inquisition-e
 .	.	.	.	.-x
+
 Obsidian	Obsidian	Obsidian	NNP	Obsidian-e
 ,	,	,	,	,-x
 of	of	of	IN	of-i
@@ -836,6 +867,7 @@ their	their	they	PRP$	they-p
 traditional	traditional	traditional	JJ	traditional-j
 strengths	strengths	strength	NNS	strength-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 definitely	definitely	definitely	RB	definitely-r
@@ -872,6 +904,7 @@ statement	statement	statement	NN	statement-n
 of	of	of	IN	of-i
 intent	intent	intent	NN	intent-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 reality	reality	reality	NN	reality-n
 remains	remains	remain	VBZ	remain-v
@@ -894,6 +927,7 @@ from	from	from	IN	from-i
 extra	extra	extra	JJ	extra-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 really	really	really	RB	really-r
 hope	hope	hope	VBP	hope-v
@@ -933,6 +967,7 @@ its	its	its	PRP$	its-p
 past	past	past	JJ	past-j
 games	games	game	NNS	game-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 've	've	have	VBP	have-v
 seen	seen	see	VBN	see-v
@@ -970,6 +1005,7 @@ best	best	best	RB	best-r
 known	known	know	VBN	know-v
 for	for	for	IN	for-i
 .	.	.	.	.-x
+
 Those	Those	those	DT	those-d
 games	games	game	NNS	game-n
 meant	meant	mean	VBD	mean-v
@@ -1024,6 +1060,7 @@ a	a	a	DT	a-d
 good	good	good	JJ	good-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 lot	lot	lot	NN	lot-n
 of	of	of	IN	of-i
@@ -1046,6 +1083,7 @@ used	used	use	VBD	use-v
 to	to	to	TO	to-t
 be	be	be	VB	be-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -1077,6 +1115,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 meantime	meantime	meantime	NN	meantime-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 just	just	just	RB	just-r
 wish	wish	wish	VBP	wish-v
@@ -1099,6 +1138,7 @@ wanted	wanted	want	VBD	want-v
 to	to	to	TO	to-t
 be	be	be	VB	be-v
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 trying	trying	try	VBG	try-v
 to	to	to	TO	to-t
@@ -1131,6 +1171,7 @@ of	of	of	IN	of-i
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 create	create	create	VBP	create-v
@@ -1154,6 +1195,7 @@ your	your	you	PRP$	you-p
 story	story	story	NN	story-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 To	To	to	TO	to-t
 me	me	I	PRP	I-p
 ,	,	,	,	,-x
@@ -1163,6 +1205,7 @@ half-achieved	half-achieved	half-achieve	VBD	half-achieve-v
 those	those	those	DT	those-d
 things	things	thing	NNS	thing-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 I	I	I	PRP	I-p
 hope	hope	hope	VBP	hope-v
@@ -1181,3 +1224,4 @@ them	them	they	PRP	they-p
 at	at	at	IN	at-i
 once	once	once	RB	once-r
 .	.	.	.	.-x
+

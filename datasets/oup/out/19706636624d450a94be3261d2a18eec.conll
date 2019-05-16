@@ -43,6 +43,7 @@ a	a	a	DT	a-d
 fifth	fifth	fifth	JJ	fifth-j
 term	term	term	NN	term-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 number	number	number	NN	number-n
 of	of	of	IN	of-i
@@ -72,6 +73,7 @@ them	them	they	PRP	they-p
 at	at	at	IN	at-i
 officers	officers	officer	NNS	officer-n
 .	.	.	.	.-x
+
 Riot	Riot	riot	NN	riot-n
 police	police	police	NNS	police-n
 also	also	also	RB	also-r
@@ -98,3 +100,4 @@ the	the	the	DT	the-d
 presidential	presidential	presidential	JJ	presidential-j
 palace	palace	palace	NN	palace-n
 .	.	.	.	.-x
+

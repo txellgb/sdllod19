@@ -35,6 +35,7 @@ Joondalup	Joondalup	Joondalup	NNP	Joondalup-e
 on	on	on	IN	on-i
 Monday	Monday	Monday	NNP	Monday-e
 .	.	.	.	.-x
+
 McCarthy	McCarthy	McCarthy	NNP	McCarthy-e
 -	-	-	:	--x
 whose	whose	whose	WP$	whose-p
@@ -68,6 +69,7 @@ and	and	and	CC	and-c
 Rory	Rory	Rory	NNP	Rory-e
 Lobb	Lobb	Lobb	NNP	Lobb-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 Fremantle	Fremantle	Fremantle	NNP	Fremantle-e
 has	has	have	VBZ	have-v
@@ -98,3 +100,4 @@ at	at	at	IN	at-i
 Arena	Arena	Arena	NNP	Arena-e
 Joondalup	Joondalup	Joondalup	NNP	Joondalup-e
 .	.	.	.	.-x
+

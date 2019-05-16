@@ -47,6 +47,7 @@ Brussels	Brussels	Brussels	NNP	Brussels-e
 on	on	on	IN	on-i
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 case	case	case	NN	case-n
 risks	risks	risk	VBZ	risk-v
@@ -77,3 +78,4 @@ law	law	law	NN	law-n
 and	and	and	CC	and-c
 migration	migration	migration	NN	migration-n
 .	.	.	.	.-x
+

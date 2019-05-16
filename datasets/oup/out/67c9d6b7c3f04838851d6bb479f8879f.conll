@@ -28,6 +28,7 @@ ordered	ordered	order	VBD	order-v
 his	his	he	PRP$	he-p
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 the	the	the	DT	the-d
 court	court	court	NN	court-n
@@ -44,6 +45,7 @@ Jail	Jail	jail	NN	jail-n
 yesterday	yesterday	yesterday	NN	yesterday-n
 evening	evening	evening	NN	evening-n
 .	.	.	.	.-x
+
 4	4	4	CD	4-f
 months	months	month	NNS	month-n
 ago	ago	ago	RB	ago-r
@@ -67,6 +69,7 @@ Khaja	Khaja	Khaja	NNP	Khaja-e
 Bilal	Bilal	Bilal	NNP	Bilal-e
 Ahmed	Ahmed	Ahmed	NNP	Ahmed-e
 .	.	.	.	.-x
+
 Khaja	Khaja	Khaja	NNP	Khaja-e
 Bilal	Bilal	Bilal	NNP	Bilal-e
 Ahmed	Ahmed	Ahmed	NNP	Ahmed-e
@@ -79,6 +82,7 @@ against	against	against	IN	against-i
 the	the	the	DT	the-d
 orders	orders	order	NNS	order-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 matter	matter	matter	NN	matter-n
 was	was	be	VBD	be-v
@@ -95,6 +99,7 @@ Raj	Raj	Raj	NNP	Raj-e
 Shekhar	Shekhar	Shekhar	NNP	Shekhar-e
 Reddy	Reddy	Reddy	NNP	Reddy-e
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 sources	sources	source	NNS	source-n
@@ -129,6 +134,7 @@ the	the	the	DT	the-d
 PD	PD	pd	NN	pd-n
 Act	Act	act	NN	act-n
 ?	?	?	.	?-x
+
 It	It	it	PRP	it-p
 must	must	must	MD	must-v
 be	be	be	VB	be-v
@@ -151,3 +157,4 @@ a	a	a	DT	a-d
 murder	murder	murder	NN	murder-n
 case	case	case	NN	case-n
 .	.	.	.	.-x
+

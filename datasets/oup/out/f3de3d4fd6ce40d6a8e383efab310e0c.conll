@@ -21,6 +21,7 @@ Fox	Fox	Fox	NNP	Fox-e
 5	5	5	CD	5-f
 news	news	news	NN	news-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 existing	existing	exist	VBG	exist-v
 steel-mesh	steel-mesh	steel-mesh	JJ	steel-mesh-j
@@ -52,6 +53,7 @@ and	and	and	CC	and-c
 Border	Border	Border	NNP	Border-e
 Protection	Protection	Protection	NNP	Protection-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 $	$	$	$	$-x
 101	101	101	CD	101-f
@@ -83,9 +85,11 @@ million	million	million	CD	million-f
 in	in	in	IN	in-i
 funding	funding	funding	NN	funding-n
 .	.	.	.	.-x
+
 -	-	-	:	--x
 Fox	Fox	Fox	NNP	Fox-e
 5	5	5	CD	5-f
+
 The	The	the	DT	the-d
 Trump	Trump	Trump	NNP	Trump-e
 administration	administration	administration	NN	administration-n
@@ -127,6 +131,7 @@ to	to	to	TO	to-t
 expedite	expedite	expedite	VB	expedite-v
 construction	construction	construction	NN	construction-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Department	Department	Department	NNP	Department-e
 of	of	of	IN	of-i
@@ -171,3 +176,4 @@ southwest	southwest	southwest	NN	southwest-n
 border	border	border	NN	border-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

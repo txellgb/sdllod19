@@ -16,6 +16,7 @@ into	into	into	IN	into-i
 a	a	a	DT	a-d
 seamless	seamless	seamless	JJ	seamless-j
 whole	whole	whole	NN	whole-n
+
 The	The	the	DT	the-d
 title	title	title	NN	title-n
 ,	,	,	,	,-x
@@ -47,6 +48,7 @@ and	and	and	CC	and-c
 so	so	so	RB	so-r
 on	on	on	IN	on-i
 .	.	.	.	.-x
+
 Sarnath	Sarnath	Sarnath	NNP	Sarnath-e
 Banerjee	Banerjee	Banerjee	NNP	Banerjee-e
 brings	brings	bring	VBZ	bring-v
@@ -69,6 +71,7 @@ into	into	into	IN	into-i
 their	their	they	PRP$	they-p
 lives	lives	life	NNS	life-n
 .	.	.	.	.-x
+
 Highlighting	Highlighting	highlight	VBG	highlight-v
 their	their	they	PRP$	they-p
 quirks	quirks	quirk	NNS	quirk-n
@@ -91,6 +94,7 @@ fiction	fiction	fiction	NN	fiction-n
 and	and	and	CC	and-c
 non-fiction	non-fiction	non-fiction	NN	non-fiction-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 there	there	there	EX	there-r
 is	is	be	VBZ	be-v
@@ -126,6 +130,7 @@ his	his	he	PRP$	he-p
 library	library	library	NN	library-n
 confiscated	confiscated	confiscate	VBN	confiscate-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 sketches	sketches	sketch	NNS	sketch-n
 are	are	be	VBP	be-v
@@ -148,6 +153,7 @@ whimsy	whimsy	whimsy	NN	whimsy-n
 and	and	and	CC	and-c
 poesy	poesy	poesy	NN	poesy-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 few	few	few	JJ	few-j
@@ -184,6 +190,7 @@ in	in	in	IN	in-i
 his	his	he	PRP$	he-p
 craft	craft	craft	NN	craft-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 that	that	that	DT	that-d
 craft	craft	craft	NN	craft-n
@@ -193,6 +200,7 @@ limited	limited	limit	VBN	limit-v
 to	to	to	TO	to-t
 fiction	fiction	fiction	NN	fiction-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 very	very	very	RB	very-r
@@ -208,6 +216,7 @@ of	of	of	IN	of-i
 graphic	graphic	graphic	JJ	graphic-j
 novels	novels	novel	NNS	novel-n
 .	.	.	.	.-x
+
 Instead	Instead	instead	RB	instead-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -220,6 +229,7 @@ work	work	work	VB	work-v
 as	as	as	IN	as-i
 panels	panels	panel	NNS	panel-n
 .	.	.	.	.-x
+
 Typically	Typically	typically	RB	typically-r
 ,	,	,	,	,-x
 Banerjee	Banerjee	Banerjee	NNP	Banerjee-e
@@ -242,6 +252,7 @@ taken	taken	take	VBN	take-v
 for	for	for	IN	for-i
 granted	granted	grant	VBN	grant-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 shading	shading	shading	NN	shading-n
 ,	,	,	,	,-x
@@ -258,6 +269,7 @@ is	is	be	VBZ	be-v
 largely	largely	largely	RB	largely-r
 clumsy	clumsy	clumsy	JJ	clumsy-j
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 said	said	say	VBD	say-v
 ,	,	,	,	,-x
@@ -271,6 +283,7 @@ to	to	to	TO	to-t
 attract	attract	attract	VB	attract-v
 curiosity	curiosity	curiosity	NN	curiosity-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 real	real	real	JJ	real-j
 doab	doab	doab	NN	doab-n
@@ -290,6 +303,7 @@ Chaudhuri	Chaudhuri	Chaudhuri	NNP	Chaudhuri-e
 's	's	's	POS	's-p
 colouring	colouring	colouring	NN	colouring-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 Banerjee	Banerjee	Banerjee	NNP	Banerjee-e
 admits	admits	admit	VBZ	admit-v
@@ -309,12 +323,14 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 book	book	book	NN	book-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 cover	cover	cover	NN	cover-n
 design	design	design	NN	design-n
 is	is	be	VBZ	be-v
 fantastic	fantastic	fantastic	JJ	fantastic-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 panels	panels	panel	NNS	panel-n
 in	in	in	IN	in-i
@@ -336,6 +352,7 @@ had	had	have	VBD	have-v
 seemed	seemed	seem	VBN	seem-v
 two-dimensional	two-dimensional	two-dimensional	JJ	two-dimensional-j
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Doab	Doab	Doab	NNP	Doab-e
 Dil	Dil	Dil	NNP	Dil-e
@@ -346,6 +363,7 @@ the	the	the	DT	the-d
 much-needed	much-needed	much-needed	JJ	much-needed-j
 depth	depth	depth	NN	depth-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 book	book	book	NN	book-n
 is	is	be	VBZ	be-v
@@ -359,3 +377,4 @@ enthusiast	enthusiast	enthusiast	NN	enthusiast-n
 fingers	fingers	finger	NNS	finger-n
 itchy	itchy	itchy	JJ	itchy-j
 .	.	.	.	.-x
+

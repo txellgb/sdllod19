@@ -53,6 +53,7 @@ its	its	its	PRP$	its-p
 nuclear	nuclear	nuclear	JJ	nuclear-j
 arsenal	arsenal	arsenal	NN	arsenal-n
 .	.	.	.	.-x
+
 Also	Also	also	RB	also-r
 Read	Read	read	VB	read-v
 :	:	:	:	:-x
@@ -68,10 +69,12 @@ Meeting	Meeting	meet	VBG	meet-v
 Kim	Kim	Kim	NNP	Kim-e
 Jong	Jong	Jong	NNP	Jong-e
 Un	Un	Un	NNP	Un-e
+
 '	`	`	``	`-x
 Opportunity	Opportunity	Opportunity	NNP	Opportunity-e
 Lost	Lost	Lost	NNP	Lost-e
 '	'	'	POS	'-p
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 he	he	he	PRP	he-p
@@ -92,6 +95,7 @@ walk	walk	walk	VB	walk-v
 .	.	.	.	.-x
 "	''	''	''	''-x
 fbtw	fbtw	fbtw	IN	fbtw-i
+
 Talks	Talks	talk	NNS	talk-n
 Break	Break	break	VBP	break-v
 Down	Down	down	NN	down-n
@@ -102,6 +106,7 @@ Deal	Deal	Deal	NNP	Deal-e
 Seemed	Seemed	Seemed	NNP	Seemed-e
 Hopeful	Hopeful	Hopeful	NNP	Hopeful-e
 "	''	''	''	''-x
+
 Also	Also	also	RB	also-r
 Read	Read	read	VB	read-v
 :	:	:	:	:-x
@@ -115,6 +120,7 @@ Damning	Damning	Damning	NNP	Damning-e
 Testimony	Testimony	Testimony	NNP	Testimony-e
 as	as	as	IN	as-i
 Lies	Lies	Lies	NNPS	Lies-e
+
 For	For	for	IN	for-i
 his	his	he	PRP$	he-p
 part	part	part	NN	part-n
@@ -152,6 +158,7 @@ now	now	now	RB	now-r
 .	.	.	.	.-x
 "	''	''	''	''-x
 fbtw	fbtw	fbtw	IN	fbtw-i
+
 Trump	Trump	Trump	NNP	Trump-e
 Has	Has	have	VBZ	have-v
 An	An	a	DT	a-d
@@ -160,6 +167,7 @@ Unpredictable	Unpredictable	unpredictable	JJ	unpredictable-j
 Negotiating	Negotiating	negotiate	VBG	negotiate-v
 Style	Style	style	NN	style-n
 '	'	'	''	'-x
+
 The	The	the	DT	the-d
 failure	failure	failure	NN	failure-n
 in	in	in	IN	in-i
@@ -211,6 +219,7 @@ hard	hard	hard	JJ	hard-j
 line	line	line	NN	line-n
 negotiation	negotiation	negotiation	NN	negotiation-n
 .	.	.	.	.-x
+
 Despite	Despite	despite	IN	despite-i
 No	No	No	NNP	No-e
 Deal	Deal	Deal	NNP	Deal-e
@@ -223,6 +232,7 @@ Recognition	Recognition	recognition	NN	recognition-n
 For	For	for	IN	for-i
 N	N	N	NNP	N-e
 Korea	Korea	Korea	NNP	Korea-e
+
 Also	Also	also	RB	also-r
 Read	Read	read	VB	read-v
 :	:	:	:	:-x
@@ -238,3 +248,4 @@ for	for	for	IN	for-i
 Human	Human	Human	NNP	Human-e
 Rights	Rights	Rights	NNP	Rights-e
 Abuses	Abuses	abuse	NNS	abuse-n
+

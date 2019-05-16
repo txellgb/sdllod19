@@ -17,6 +17,7 @@ Emerging	Emerging	emerge	VBG	emerge-v
 Markets	Markets	Markets	NNP	Markets-e
 Index	Index	Index	NNP	Index-e
 .	.	.	.	.-x
+
 Investors	Investors	investor	NNS	investor-n
 should	should	should	MD	should-v
 n't	n't	not	RB	not-r
@@ -32,6 +33,7 @@ China	China	China	NNP	China-e
 without	without	without	IN	without-i
 thinking	thinking	think	VBG	think-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 index	index	index	NN	index-n
 industry	industry	industry	NN	industry-n
@@ -51,6 +53,7 @@ plenty	plenty	plenty	NN	plenty-n
 of	of	of	IN	of-i
 fanfare	fanfare	fanfare	NN	fanfare-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 practice	practice	practice	NN	practice-n
 ,	,	,	,	,-x
@@ -73,6 +76,7 @@ ignore	ignore	ignore	VB	ignore-v
 the	the	the	DT	the-d
 move	move	move	NN	move-n
 .	.	.	.	.-x
+
 Initial	Initial	initial	JJ	initial-j
 weightings	weightings	weighting	NNS	weighting-n
 meant	meant	mean	VBD	mean-v
@@ -92,3 +96,4 @@ index	index	index	NN	index-n
 slightly	slightly	slightly	RB	slightly-r
 below	below	below	IN	below-i
 ...	...	...	:	...-x
+

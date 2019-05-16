@@ -38,6 +38,7 @@ meetings	meetings	meeting	NNS	meeting-n
 with	with	with	IN	with-i
 lawmakers	lawmakers	lawmaker	NNS	lawmaker-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 process	process	process	NN	process-n
 can	can	can	MD	can-v
@@ -56,6 +57,7 @@ on	on	on	IN	on-i
 urgent	urgent	urgent	JJ	urgent-j
 issues	issues	issue	NNS	issue-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Idaho	Idaho	Idaho	NNP	Idaho-e
 Press	Press	Press	NNP	Press-e
@@ -82,6 +84,7 @@ a	a	a	DT	a-d
 full-time	full-time	full-time	JJ	full-time-j
 interpreter	interpreter	interpreter	NN	interpreter-n
 .	.	.	.	.-x
+
 Executive	Executive	Executive	NNP	Executive-e
 director	director	director	NN	director-n
 Steven	Steven	Steven	NNP	Steven-e
@@ -111,6 +114,7 @@ Committee	Committee	Committee	NNP	Committee-e
 last	last	last	JJ	last-j
 month	month	month	NN	month-n
 .	.	.	.	.-x
+
 Members	Members	member	NNS	member-n
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -122,6 +126,7 @@ by	by	by	IN	by-i
 the	the	the	DT	the-d
 situation	situation	situation	NN	situation-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 ,	,	,	,	,-x
@@ -146,6 +151,7 @@ a	a	a	DT	a-d
 full-time	full-time	full-time	JJ	full-time-j
 interpreter	interpreter	interpreter	NN	interpreter-n
 .	.	.	.	.-x
+
 Most	Most	most	JJS	most-j
 Read	Read	read	VBP	read-v
 Local	Local	local	JJ	local-j
@@ -173,6 +179,7 @@ climate-focused	climate-focused	climate-focused	JJ	climate-focused-j
 presidential	presidential	presidential	JJ	presidential-j
 run	run	run	NN	run-n
 .	.	.	.	.-x
+
 WATCHAlaska	WATCHAlaska	WATCHAlaska	NNP	WATCHAlaska-e
 Airlines	Airlines	Airlines	NNPS	Airlines-e
 flight	flight	flight	NN	flight-n
@@ -187,6 +194,7 @@ kids	kids	kid	NNS	kid-n
 become	become	become	VBP	become-v
 homeless	homeless	homeless	JJ	homeless-j
 .	.	.	.	.-x
+
 Tennessee	Tennessee	Tennessee	NNP	Tennessee-e
 may	may	may	MD	may-v
 have	have	have	VB	have-v
@@ -194,3 +202,4 @@ found	found	find	VBN	find-v
 a	a	a	DT	a-d
 solution	solution	solution	NN	solution-n
 .	.	.	.	.-x
+

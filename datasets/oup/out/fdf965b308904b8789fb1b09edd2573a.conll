@@ -14,6 +14,7 @@ they	they	they	PRP	they-p
 hover	hover	hover	VBP	hover-v
 in	in	in	IN	in-i
 mid-air	mid-air	mid-air	JJ	mid-air-j
+
 A	A	a	DT	a-d
 man	man	man	NN	man-n
 discovered	discovered	discover	VBD	discover-v
@@ -38,6 +39,7 @@ levitated	levitated	levitate	VBD	levitate-v
 in	in	in	IN	in-i
 mid-air	mid-air	mid-air	NN	mid-air-n
 .	.	.	.	.-x
+
 Jonathan	Jonathan	Jonathan	NNP	Jonathan-e
 Scholes	Scholes	Scholes	NNP	Scholes-e
 ,	,	,	,	,-x
@@ -60,6 +62,7 @@ hot	hot	hot	JJ	hot-j
 dinner	dinner	dinner	NN	dinner-n
 outside	outside	outside	NN	outside-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 tested	tested	test	VBD	test-v
 the	the	the	DT	the-d
@@ -79,6 +82,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 snow	snow	snow	NN	snow-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 man	man	man	NN	man-n
 discovered	discovered	discover	VBD	discover-v
@@ -102,6 +106,7 @@ which	which	which	WDT	which-d
 levitates	levitates	levitate	VBZ	levitate-v
 in	in	in	IN	in-i
 mid-air	mid-air	mid-air	JJ	mid-air-j
+
 The	The	the	DT	the-d
 noodles	noodles	noodle	NNS	noodle-n
 look	look	look	VBP	look-v
@@ -126,6 +131,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 air	air	air	NN	air-n
 .	.	.	.	.-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Scholes	Scholes	Scholes	NNP	Scholes-e
 said	said	say	VBD	say-v
@@ -143,6 +149,7 @@ from	from	from	IN	from-i
 boiling	boiling	boil	VBG	boil-v
 hot	hot	hot	JJ	hot-j
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 made	made	make	VBD	make-v
 light	light	light	NN	light-n
@@ -158,6 +165,7 @@ to	to	to	TO	to-t
 degrees	degrees	degree	NNS	degree-n
 Farenheit	Farenheit	Farenheit	NNP	Farenheit-e
 .	.	.	.	.-x
+
 Canadians	Canadians	Canadians	NNPS	Canadians-e
 have	have	have	VBP	have-v
 been	been	be	VBN	be-v
@@ -171,6 +179,7 @@ past	past	past	JJ	past-j
 few	few	few	JJ	few-j
 weeks	weeks	week	NNS	week-n
 .	.	.	.	.-x
+
 Bitter	Bitter	bitter	JJ	bitter-j
 weather	weather	weather	NN	weather-n
 has	has	have	VBZ	have-v
@@ -188,6 +197,7 @@ unusually	unusually	unusually	RB	unusually-r
 big	big	big	JJ	big-j
 snowstorms	snowstorms	snowstorm	NNS	snowstorm-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 west	west	west	NN	west-n
 Calgary	Calgary	Calgary	NNP	Calgary-e
@@ -210,6 +220,7 @@ the	the	the	DT	the-d
 extreme	extreme	extreme	JJ	extreme-j
 cold	cold	cold	NN	cold-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 fork	fork	fork	NN	fork-n
 and	and	and	CC	and-c
@@ -235,6 +246,7 @@ hover	hover	hover	VBP	hover-v
 in	in	in	IN	in-i
 the	the	the	DT	the-d
 air	air	air	NN	air-n
+
 Mr	Mr	Mr	NNP	Mr-e
 Scholes	Scholes	Scholes	NNP	Scholes-e
 said	said	say	VBD	say-v
@@ -251,3 +263,4 @@ solid	solid	solid	JJ	solid-j
 from	from	from	IN	from-i
 boiling	boiling	boil	VBG	boil-v
 hot	hot	hot	JJ	hot-j
+

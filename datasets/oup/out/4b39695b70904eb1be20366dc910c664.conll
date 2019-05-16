@@ -24,6 +24,7 @@ flavor	flavor	flavor	NN	flavor-n
 various	various	various	JJ	various-j
 dishes	dishes	dish	NNS	dish-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 did	did	do	VBD	do-v
 you	you	you	PRP	you-p
@@ -47,6 +48,7 @@ their	their	they	PRP$	they-p
 feet	feet	foot	NNS	foot-n
 warm	warm	warm	VB	warm-v
 ?	?	?	.	?-x
+
 Keeping	Keeping	keep	VBG	keep-v
 your	your	you	PRP$	you-p
 feet	feet	foot	NNS	foot-n
@@ -58,6 +60,7 @@ long-term	long-term	long-term	JJ	long-term-j
 foot	foot	foot	NN	foot-n
 health	health	health	NN	health-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 as	as	as	IN	as-i
 you	you	you	PRP	you-p
@@ -72,6 +75,7 @@ feet	feet	foot	NNS	foot-n
 can	can	can	MD	can-v
 decline	decline	decline	VB	decline-v
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 remedy	remedy	remedy	VB	remedy-v
 this	this	this	DT	this-d
@@ -88,6 +92,7 @@ during	during	during	IN	during-i
 cold	cold	cold	JJ	cold-j
 days	days	day	NNS	day-n
 .	.	.	.	.-x
+
 Instead	Instead	instead	RB	instead-r
 of	of	of	IN	of-i
 buying	buying	buy	VBG	buy-v
@@ -108,6 +113,7 @@ make	make	make	VB	make-v
 your	your	you	PRP$	you-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 DIY	DIY	diy	NN	diy-n
 cayenne	cayenne	cayenne	NN	cayenne-n
@@ -123,6 +129,7 @@ and	and	and	CC	and-c
 neck	neck	neck	NN	neck-n
 pain	pain	pain	NN	pain-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 remedy	remedy	remedy	NN	remedy-n
 works	works	work	VBZ	work-v
@@ -135,6 +142,7 @@ loosening	loosening	loosen	VBG	loosen-v
 them	them	they	PRP	they-p
 up	up	up	RP	up-x
 .	.	.	.	.-x
+
 Cayenne	Cayenne	Cayenne	NNP	Cayenne-e
 salve	salve	salve	NN	salve-n
 works	works	work	VBZ	work-v
@@ -145,6 +153,7 @@ on	on	on	IN	on-i
 your	your	you	PRP$	you-p
 feet	feet	foot	NNS	foot-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 do	do	do	VBP	do-v
@@ -167,6 +176,7 @@ that	that	that	WDT	that-d
 contain	contain	contain	VBP	contain-v
 capsaicin	capsaicin	capsaicin	NN	capsaicin-n
 .	.	.	.	.-x
+
 Do	Do	do	VB	do-v
 take	take	take	VB	take-v
 note	note	note	NN	note-n
@@ -194,6 +204,7 @@ burn	burn	burn	VB	burn-v
 your	your	you	PRP$	you-p
 skin	skin	skin	NN	skin-n
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 peppers	peppers	pepper	NNS	pepper-n
@@ -215,6 +226,7 @@ an	an	a	DT	a-d
 effective	effective	effective	JJ	effective-j
 salve	salve	salve	NN	salve-n
 .	.	.	.	.-x
+
 Alternatively	Alternatively	alternatively	RB	alternatively-r
 ,	,	,	,	,-x
 you	you	you	PRP	you-p
@@ -228,6 +240,7 @@ the	the	the	DT	the-d
 cayenne	cayenne	cayenne	NN	cayenne-n
 salve	salve	salve	NN	salve-n
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 dry	dry	dry	JJ	dry-j
 the	the	the	DT	the-d
@@ -256,6 +269,7 @@ to	to	to	TO	to-t
 cayenne	cayenne	cayenne	VB	cayenne-v
 powder	powder	powder	NN	powder-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 do	do	do	VBP	do-v
@@ -278,6 +292,7 @@ to	to	to	TO	to-t
 stay	stay	stay	VB	stay-v
 warm	warm	warm	JJ	warm-j
 .	.	.	.	.-x
+
 Consuming	Consuming	consuming	JJ	consuming-j
 hot	hot	hot	JJ	hot-j
 peppers	peppers	pepper	NNS	pepper-n
@@ -295,6 +310,7 @@ active	active	active	JJ	active-j
 ingredient	ingredient	ingredient	NN	ingredient-n
 capsaicin	capsaicin	capsaicin	NN	capsaicin-n
 .	.	.	.	.-x
+
 Capsaicin	Capsaicin	Capsaicin	NNP	Capsaicin-e
 gives	gives	give	VBZ	give-v
 hot	hot	hot	JJ	hot-j
@@ -303,6 +319,7 @@ their	their	they	PRP$	they-p
 medicinal	medicinal	medicinal	JJ	medicinal-j
 properties	properties	property	NNS	property-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 active	active	active	JJ	active-j
 ingredient	ingredient	ingredient	NN	ingredient-n
@@ -313,6 +330,7 @@ their	their	they	PRP$	they-p
 hot	hot	hot	JJ	hot-j
 taste	taste	taste	NN	taste-n
 .	.	.	.	.-x
+
 How	How	how	WRB	how-r
 hot	hot	hot	JJ	hot-j
 a	a	a	DT	a-d
@@ -325,6 +343,7 @@ its	its	its	PRP$	its-p
 capsaicin	capsaicin	capsaicin	NN	capsaicin-n
 content	content	content	NN	content-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 more	more	more	JJR	more-j
 capsaicin	capsaicin	capsaicin	NN	capsaicin-n
@@ -338,6 +357,7 @@ hotter	hotter	hotter	RBR	hotter-r
 it	it	it	PRP	it-p
 is	is	be	VBZ	be-v
 .	.	.	.	.-x
+
 Additionally	Additionally	additionally	RB	additionally-r
 ,	,	,	,	,-x
 capsaicin	capsaicin	capsaicin	NN	capsaicin-n
@@ -363,6 +383,7 @@ hands	hands	hand	NNS	hand-n
 and	and	and	CC	and-c
 feet	feet	foot	NNS	foot-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 some	some	some	DT	some-d
 people	people	people	NNS	people-n
@@ -380,12 +401,14 @@ increase	increase	increase	NN	increase-n
 over	over	over	IN	over-i
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 Hot	Hot	hot	JJ	hot-j
 peppers	peppers	pepper	NNS	pepper-n
 are	are	be	VBP	be-v
 also	also	also	RB	also-r
 nutritious	nutritious	nutritious	JJ	nutritious-j
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 contain	contain	contain	VBP	contain-v
 many	many	many	JJ	many-j
@@ -396,6 +419,7 @@ antioxidants	antioxidants	antioxidant	NNS	antioxidant-n
 and	and	and	CC	and-c
 vitamins	vitamins	vitamin	NNS	vitamin-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 quickest	quickest	quickest	JJS	quickest-j
 way	way	way	NN	way-n
@@ -420,6 +444,7 @@ on	on	on	IN	on-i
 your	your	you	PRP$	you-p
 feet	feet	foot	NNS	foot-n
 .	.	.	.	.-x
+
 Alternatively	Alternatively	alternatively	RB	alternatively-r
 ,	,	,	,	,-x
 you	you	you	PRP	you-p
@@ -432,6 +457,7 @@ into	into	into	IN	into-i
 your	your	you	PRP$	you-p
 socks	socks	sock	NNS	sock-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 can	can	can	MD	can-v
 control	control	control	VB	control-v
@@ -457,6 +483,7 @@ amount	amount	amount	NN	amount-n
 of	of	of	IN	of-i
 cornstarch	cornstarch	cornstarch	NN	cornstarch-n
 .	.	.	.	.-x
+
 Start	Start	Start	NNP	Start-e
 with	with	with	IN	with-i
 1/2	1/2	1/2	CD	1/2-f
@@ -473,6 +500,7 @@ or	or	or	CC	or-c
 foot	foot	foot	NN	foot-n
 powder	powder	powder	NN	powder-n
 .	.	.	.	.-x
+
 Mix	Mix	Mix	NNP	Mix-e
 it	it	it	PRP	it-p
 well	well	well	RB	well-r
@@ -487,6 +515,7 @@ into	into	into	IN	into-i
 each	each	each	DT	each-d
 sock	sock	sock	NN	sock-n
 .	.	.	.	.-x
+
 Gently	Gently	gently	RB	gently-r
 move	move	move	VB	move-v
 the	the	the	DT	the-d
@@ -498,6 +527,7 @@ distribute	distribute	distribute	VB	distribute-v
 the	the	the	DT	the-d
 powder	powder	powder	NN	powder-n
 .	.	.	.	.-x
+
 Alternatively	Alternatively	alternatively	RB	alternatively-r
 ,	,	,	,	,-x
 you	you	you	PRP	you-p
@@ -518,6 +548,7 @@ a	a	a	DT	a-d
 shaker	shaker	shaker	NN	shaker-n
 jar	jar	jar	NN	jar-n
 .	.	.	.	.-x
+
 Applying	Applying	apply	VBG	apply-v
 powder	powder	powder	NN	powder-n
 directly	directly	directly	RB	directly-r
@@ -533,6 +564,7 @@ warm	warm	warm	JJ	warm-j
 and	and	and	CC	and-c
 dry	dry	dry	JJ	dry-j
 .	.	.	.	.-x
+
 Use	Use	use	VB	use-v
 this	this	this	DT	this-d
 method	method	method	NN	method-n
@@ -554,6 +586,7 @@ a	a	a	DT	a-d
 snowy	snowy	snowy	JJ	snowy-j
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Related	Related	relate	VBN	relate-v
 :	:	:	:	:-x
@@ -568,6 +601,7 @@ when	when	when	WRB	when-r
 SHTF	SHTF	shtf	NN	shtf-n
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 To	To	to	TO	to-t
 make	make	make	VB	make-v
 your	your	you	PRP$	you-p
@@ -593,6 +627,7 @@ small	small	small	JJ	small-j
 heatproof	heatproof	heatproof	JJ	heatproof-j
 jar	jar	jar	NN	jar-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 'll	'll	will	MD	will-v
 use	use	use	VB	use-v
@@ -607,6 +642,7 @@ melt	melt	melt	VB	melt-v
 the	the	the	DT	the-d
 beeswax	beeswax	beeswax	NN	beeswax-n
 .	.	.	.	.-x
+
 Make	Make	make	VB	make-v
 your	your	you	PRP$	you-p
 own	own	own	JJ	own-j
@@ -631,3 +667,4 @@ a	a	a	DT	a-d
 cold	cold	cold	JJ	cold-j
 day	day	day	NN	day-n
 .	.	.	.	.-x
+

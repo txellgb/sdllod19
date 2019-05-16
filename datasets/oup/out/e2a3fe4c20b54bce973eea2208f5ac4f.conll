@@ -79,6 +79,7 @@ inventory	inventory	inventory	NN	inventory-n
 .	.	.	.	.-x
 "	``	``	``	``-x
 The	The	the	DT	the-d
+
 Americans	Americans	Americans	NNPS	Americans-e
 had	had	have	VBD	have-v
 provided	provided	provide	VBN	provide-v
@@ -100,6 +101,7 @@ the	the	the	DT	the-d
 F-16	F-16	f-16	NN	f-16-n
 planes	planes	plane	NNS	plane-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 is	is	be	VBZ	be-v
 no	no	no	DT	no-d
@@ -170,6 +172,7 @@ Taliban	Taliban	Taliban	NNP	Taliban-e
 .	.	.	.	.-x
 "	``	``	``	``-x
 The	The	the	DT	the-d
+
 integration	integration	integration	NN	integration-n
 of	of	of	IN	of-i
 missiles	missiles	missile	NNS	missile-n
@@ -264,3 +267,4 @@ to	to	to	TO	to-t
 government	government	government	NN	government-n
 deals	deals	deal	NNS	deal-n
 .	.	.	.	.-x
+

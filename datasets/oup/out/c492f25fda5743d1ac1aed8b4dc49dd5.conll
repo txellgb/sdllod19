@@ -49,6 +49,7 @@ eliminate	eliminate	eliminate	VB	eliminate-v
 this	this	this	DT	this-d
 occurrence	occurrence	occurrence	NN	occurrence-n
 .	.	.	.	.-x
+
 Working	Working	work	VBG	work-v
 with	with	with	IN	with-i
 your	your	you	PRP$	you-p
@@ -82,6 +83,7 @@ partaking	partaking	partake	VBG	partake-v
 in	in	in	IN	in-i
 sport	sport	sport	NN	sport-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Velcro	Velcro	velcro	NN	velcro-n
 design	design	design	NN	design-n
@@ -104,6 +106,7 @@ wearers	wearers	wearer	NNS	wearer-n
 to	to	to	TO	to-t
 appreciate	appreciate	appreciate	VB	appreciate-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Tactical	Tactical	Tactical	NNP	Tactical-e
 Military	Military	Military	NNP	Military-e
@@ -134,3 +137,4 @@ of	of	of	IN	of-i
 Morale	Morale	Morale	NNP	Morale-e
 Patches	Patches	Patches	NNP	Patches-e
 .	.	.	.	.-x
+

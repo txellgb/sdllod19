@@ -13,6 +13,7 @@ this	this	this	DT	this-d
 awards	awards	award	NNS	award-n
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 Shop	Shop	Shop	NNP	Shop-e
 now	now	now	RB	now-r
 for	for	for	IN	for-i
@@ -23,6 +24,7 @@ gilty	gilty	gilty	NN	gilty-n
 '	'	'	''	'-x
 pleasures	pleasures	pleasure	NNS	pleasure-n
 !	!	!	.	!-x
+
 The	The	the	DT	the-d
 world	world	world	NN	world-n
 just	just	just	RB	just-r
@@ -44,6 +46,7 @@ year	year	year	NN	year-n
 Academy	Academy	academy	NN	academy-n
 Awards	Awards	award	NNS	award-n
 !	!	!	.	!-x
+
 Yes	Yes	yes	UH	yes-u
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -79,6 +82,7 @@ this	this	this	DT	this-d
 awards	awards	award	NNS	award-n
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 honor	honor	honor	NN	honor-n
 of	of	of	IN	of-i
@@ -127,6 +131,7 @@ month	month	month	NN	month-n
 ESSENCE	ESSENCE	ESSENCE	NNP	ESSENCE-e
 magazine	magazine	magazine	NN	magazine-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 few	few	few	JJ	few-j
 of	of	of	IN	of-i
@@ -146,6 +151,7 @@ pearls	pearls	pearl	NNS	pearl-n
 ,	,	,	,	,-x
 sis	sis	sis	NN	sis-n
 !	!	!	.	!-x
+
 It	It	it	PRP	it-p
 never	never	never	RB	never-r
 hurts	hurts	hurt	VBZ	hurt-v
@@ -160,6 +166,7 @@ shopping	shopping	shopping	NN	shopping-n
 wish	wish	wish	NN	wish-n
 list	list	list	NN	list-n
 !	!	!	.	!-x
+
 View	View	View	NNP	View-e
 our	our	we	PRP$	we-p
 Golden	Golden	Golden	NNP	Golden-e
@@ -176,3 +183,4 @@ gilty	gilty	gilty	NN	gilty-n
 '	'	'	''	'-x
 pleasures	pleasures	pleasure	NNS	pleasure-n
 !	!	!	.	!-x
+

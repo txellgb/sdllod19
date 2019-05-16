@@ -21,6 +21,7 @@ no	no	no	DT	no-d
 apparent	apparent	apparent	JJ	apparent-j
 news	news	news	NN	news-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 December	December	December	NNP	December-e
 2018	2018	2018	CD	2018-f
@@ -87,6 +88,7 @@ $	$	$	$	$-x
 per	per	per	IN	per-i
 Unit	Unit	unit	NN	unit-n
 .	.	.	.	.-x
+
 Net	Net	net	JJ	net-j
 proceeds	proceeds	proceeds	NNS	proceeds-n
 should	should	should	MD	should-v
@@ -95,6 +97,7 @@ be	be	be	VB	be-v
 $	$	$	$	$-x
 9M	9M	9m	CD	9m-f
 .	.	.	.	.-x
+
 Shares	Shares	share	NNS	share-n
 are	are	be	VBP	be-v
 currently	currently	currently	RB	currently-r
@@ -104,6 +107,7 @@ at	at	at	IN	at-i
 $	$	$	$	$-x
 1.50	1.50	1.50	CD	1.50-f
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 read	read	read	VBN	read-v
 :	:	:	:	:-x
@@ -116,3 +120,4 @@ Presentation	Presentation	presentation	NN	presentation-n
 -	-	-	:	--x
 Slideshow	Slideshow	Slideshow	NNP	Slideshow-e
 "	''	''	''	''-x
+

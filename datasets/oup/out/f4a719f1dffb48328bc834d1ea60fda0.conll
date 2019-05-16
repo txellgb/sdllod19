@@ -13,6 +13,7 @@ have	have	have	VBP	have-v
 n't	n't	not	RB	not-r
 you	you	you	PRP	you-p
 ?	?	?	.	?-x
+
 While	While	while	IN	while-i
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -42,6 +43,7 @@ on	on	on	IN	on-i
 making	making	make	VBG	make-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Previous	Previous	previous	JJ	previous-j
 reports	reports	report	NNS	report-n
 have	have	have	VBP	have-v
@@ -83,6 +85,7 @@ a	a	a	DT	a-d
 bit	bit	bit	NN	bit-n
 more	more	more	RBR	more-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 outlet	outlet	outlet	NN	outlet-n
 buried	buried	bury	VBN	bury-v
@@ -105,6 +108,7 @@ and	and	and	CC	and-c
 Warner	Warner	Warner	NNP	Warner-e
 Bros	Bros.	Bros.	NNP	Bros.-e
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 he	he	he	PRP	he-p
 is	is	be	VBZ	be-v
@@ -144,6 +148,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 n't	n't	not	RB	not-r
@@ -154,6 +159,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 world	world	world	NN	world-n
 .	.	.	.	.-x
+
 Often	Often	often	RB	often-r
 when	when	when	WRB	when-r
 a	a	a	DT	a-d
@@ -179,6 +185,7 @@ their	their	they	PRP$	they-p
 own	own	own	JJ	own-j
 sensibilities	sensibilities	sensibility	NNS	sensibility-n
 .	.	.	.	.-x
+
 Given	Given	give	VBN	give-v
 that	that	that	IN	that-i
 Daley	Daley	Daley	NNP	Daley-e
@@ -206,6 +213,7 @@ their	their	they	PRP$	they-p
 own	own	own	JJ	own-j
 themselves	themselves	themselves	PRP	themselves-p
 .	.	.	.	.-x
+
 Why	Why	why	WRB	why-r
 hand	hand	hand	NN	hand-n
 it	it	it	PRP	it-p
@@ -222,6 +230,7 @@ yourself	yourself	yourself	PRP	yourself-p
 ,	,	,	,	,-x
 right	right	right	RB	right-r
 ?	?	?	.	?-x
+
 To	To	to	TO	to-t
 me	me	I	PRP	I-p
 ,	,	,	,	,-x
@@ -260,6 +269,7 @@ ended	ended	end	VBD	end-v
 up	up	up	RP	up-x
 being	being	be	VBG	be-v
 .	.	.	.	.-x
+
 Getting	Getting	get	VBG	get-v
 them	them	they	PRP	they-p
 to	to	to	TO	to-t
@@ -281,6 +291,7 @@ a	a	a	DT	a-d
 good	good	good	JJ	good-j
 thing	thing	thing	NN	thing-n
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 do	do	do	VBP	do-v
 you	you	you	PRP	you-p
@@ -289,3 +300,4 @@ of	of	of	IN	of-i
 this	this	this	DT	this-d
 revelation	revelation	revelation	NN	revelation-n
 ?	?	?	.	?-x
+

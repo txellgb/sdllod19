@@ -17,6 +17,7 @@ divided	divided	divide	VBN	divide-v
 our	our	we	PRP$	we-p
 house	house	house	NN	house-n
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 a	a	a	DT	a-d
 53	53	53	CD	53-f
@@ -45,6 +46,7 @@ defy	defy	defy	VBP	defy-v
 that	that	that	IN	that-i
 doctrine	doctrine	doctrine	NN	doctrine-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 we	we	we	PRP	we-p
 arrived	arrived	arrive	VBD	arrive-v
@@ -81,8 +83,10 @@ teachings	teachings	teaching	NNS	teaching-n
 about	about	about	IN	about-i
 sexuality	sexuality	sexuality	NN	sexuality-n
 .	.	.	.	.-x
+
 3	3	3	CD	3-f
 options	options	option	NNS	option-n
+
 Compared	Compared	compare	VBN	compare-v
 with	with	with	IN	with-i
 the	the	the	DT	the-d
@@ -132,6 +136,7 @@ a	a	a	DT	a-d
 moderate	moderate	moderate	JJ	moderate-j
 path	path	path	NN	path-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 atmosphere	atmosphere	atmosphere	NN	atmosphere-n
 was	was	be	VBD	be-v
@@ -157,6 +162,7 @@ and	and	and	CC	and-c
 cast	cast	cast	VBD	cast-v
 votes	votes	vote	NNS	vote-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 there	there	there	EX	there-r
 also	also	also	RB	also-r
@@ -166,6 +172,7 @@ of	of	of	IN	of-i
 soaring	soaring	soar	VBG	soar-v
 love	love	love	NN	love-n
 .	.	.	.	.-x
+
 Yet	Yet	yet	RB	yet-r
 when	when	when	WRB	when-r
 the	the	the	DT	the-d
@@ -193,6 +200,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 unaffected	unaffected	unaffected	JJ	unaffected-j
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 days	days	day	NNS	day-n
 on	on	on	IN	on-i
@@ -253,8 +261,10 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 altar	altar	altar	NN	altar-n
 .	.	.	.	.-x
+
 Lifelong	Lifelong	lifelong	JJ	lifelong-j
 fight	fight	fight	NN	fight-n
+
 Yet	Yet	yet	RB	yet-r
 as	as	as	IN	as-i
 I	I	I	PRP	I-p
@@ -291,6 +301,7 @@ a	a	a	DT	a-d
 loving	loving	loving	JJ	loving-j
 relationship	relationship	relationship	NN	relationship-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -319,6 +330,7 @@ Bible	Bible	Bible	NNP	Bible-e
 every	every	every	DT	every-d
 line	line	line	NN	line-n
 .	.	.	.	.-x
+
 Leaders	Leaders	leader	NNS	leader-n
 from	from	from	IN	from-i
 the	the	the	DT	the-d
@@ -367,6 +379,7 @@ serve	serve	serve	VBP	serve-v
 and	and	and	CC	and-c
 lead	lead	lead	VBP	lead-v
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 put	put	put	VBP	put-v
 on	on	on	IN	on-i
@@ -383,6 +396,7 @@ who	who	who	WP	who-p
 sought	sought	seek	VBD	seek-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Many	Many	many	JJ	many-j
 of	of	of	IN	of-i
 them	them	they	PRP	they-p
@@ -431,6 +445,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 brave	brave	brave	VB	brave-v
 .	.	.	.	.-x
+
 Bonner	Bonner	Bonner	NNP	Bonner-e
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -448,3 +463,4 @@ University	University	University	NNP	University-e
 of	of	of	IN	of-i
 Arizona	Arizona	Arizona	NNP	Arizona-e
 .	.	.	.	.-x
+

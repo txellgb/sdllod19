@@ -38,6 +38,7 @@ the	the	the	DT	the-d
 centre	centre	centre	NN	centre-n
 stage	stage	stage	NN	stage-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Not	Not	not	RB	not-r
 even	even	even	RB	even-r
@@ -50,6 +51,7 @@ left	left	leave	VBD	leave-v
 his	his	he	PRP$	he-p
 PR	PR	pr	NN	pr-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 had	had	have	VBD	have-v
 decided	decided	decide	VBN	decide-v
@@ -70,6 +72,7 @@ politics	politics	politics	NNS	politics-n
 Gandhi	Gandhi	Gandhi	NNP	Gandhi-e
 thundered	thundered	thunder	VBD	thunder-v
 .	.	.	.	.-x
+
 Targetting	Targetting	targett	VBG	targett-v
 the	the	the	DT	the-d
 government	government	government	NN	government-n
@@ -122,6 +125,7 @@ do	do	do	VB	do-v
 this	this	this	DT	this-d
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 pointed	pointed	point	VBD	point-v
 out	out	out	RP	out-x
@@ -151,3 +155,4 @@ the	the	the	DT	the-d
 big	big	big	JJ	big-j
 industrialists	industrialists	industrialist	NNS	industrialist-n
 .	.	.	.	.-x
+

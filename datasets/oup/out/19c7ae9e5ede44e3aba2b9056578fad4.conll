@@ -21,6 +21,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 States	States	States	NNPS	States-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 this	this	this	DT	this-d
 morning	morning	morning	NN	morning-n
@@ -34,6 +35,7 @@ the	the	the	DT	the-d
 bullish	bullish	bullish	JJ	bullish-j
 side	side	side	NN	side-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 hopefulness	hopefulness	hopefulness	NN	hopefulness-n
 comes	comes	come	VBZ	come-v
@@ -63,6 +65,7 @@ matter	matter	matter	NN	matter-n
 of	of	of	IN	of-i
 weeks	weeks	week	NNS	week-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 news	news	news	NN	news-n
 appeared	appeared	appear	VBD	appear-v
@@ -92,6 +95,7 @@ its	its	its	PRP$	its-p
 global	global	global	JJ	global-j
 benchmarks	benchmarks	benchmark	NNS	benchmark-n
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 European	European	european	JJ	european-j
@@ -107,6 +111,7 @@ the	the	the	DT	the-d
 auto	auto	auto	NN	auto-n
 sector	sector	sector	NN	sector-n
 .	.	.	.	.-x
+
 Back	Back	back	RB	back-r
 on	on	on	IN	on-i
 this	this	this	DT	this-d
@@ -148,6 +153,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 row	row	row	NN	row-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Nasdaq	Nasdaq	Nasdaq	NNP	Nasdaq-e
 also	also	also	RB	also-r
@@ -157,6 +163,7 @@ the	the	the	DT	the-d
 month	month	month	NN	month-n
 higher	higher	higher	RBR	higher-r
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -192,6 +199,7 @@ U.S.-China	U.S.-China	U.S.-China	NNP	U.S.-China-e
 trade	trade	trade	NN	trade-n
 war	war	war	NN	war-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 See	See	see	VB	see-v
 more	more	more	RBR	more-r
@@ -204,6 +212,7 @@ circumstances	circumstances	circumstance	NNS	circumstance-n
 below	below	below	IN	below-i
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 Fed	Fed	Fed	NNP	Fed-e
@@ -224,6 +233,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 market	market	market	NN	market-n
 .	.	.	.	.-x
+
 Concerns	Concerns	concern	NNS	concern-n
 about	about	about	IN	about-i
 the	the	the	DT	the-d
@@ -246,6 +256,7 @@ fading	fading	fading	JJ	fading-j
 a	a	a	DT	a-d
 bit	bit	bit	NN	bit-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 one	one	one	CD	one-f
@@ -273,6 +284,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 talks	talks	talk	NNS	talk-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 the	the	the	DT	the-d
 U.S.	U.S.	U.S.	NNP	U.S.-e
@@ -317,6 +329,7 @@ Street	Street	Street	NNP	Street-e
 Journal	Journal	Journal	NNP	Journal-e
 reported	reported	report	VBD	report-v
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 a	a	a	DT	a-d
 counterpoint	counterpoint	counterpoint	NN	counterpoint-n
@@ -368,6 +381,7 @@ market	market	market	NN	market-n
 for	for	for	IN	for-i
 months	months	month	NNS	month-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 U.S.	U.S.	U.S.	NNP	U.S.-e
 government	government	government	NN	government-n
@@ -419,6 +433,7 @@ the	the	the	DT	the-d
 trade	trade	trade	NN	trade-n
 situation	situation	situation	NN	situation-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 U.S.	U.S.	U.S.	NNP	U.S.-e
 /	/	/	:	/-x
@@ -442,6 +457,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 market	market	market	NN	market-n
 .	.	.	.	.-x
+
 Ahead	Ahead	Ahead	NNP	Ahead-e
 of	of	of	IN	of-i
 inflation	inflation	inflation	NN	inflation-n
@@ -469,6 +485,7 @@ its	its	its	PRP$	its-p
 inflation	inflation	inflation	NN	inflation-n
 target	target	target	NN	target-n
 .	.	.	.	.-x
+
 Fed	Fed	Fed	NNP	Fed-e
 Chairman	Chairman	Chairman	NNP	Chairman-e
 Jerome	Jerome	Jerome	NNP	Jerome-e
@@ -488,6 +505,7 @@ producing	producing	produce	VBG	produce-v
 problematic	problematic	problematic	JJ	problematic-j
 inflation	inflation	inflation	NN	inflation-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 reiterated	reiterated	reiterate	VBD	reiterate-v
 that	that	that	DT	that-d
@@ -497,6 +515,7 @@ appears	appears	appear	VBZ	appear-v
 muted	muted	mute	VBN	mute-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 comments	comments	comment	NNS	comment-n
 come	come	come	VBP	come-v
@@ -522,6 +541,7 @@ preferred	preferred	preferred	JJ	preferred-j
 inflation	inflation	inflation	NN	inflation-n
 gauge	gauge	gauge	NN	gauge-n
 .	.	.	.	.-x
+
 Core	Core	core	NN	core-n
 PCE	PCE	pce	NN	pce-n
 rose	rose	rise	VBD	rise-v
@@ -549,6 +569,7 @@ expected	expected	expect	VBN	expect-v
 in	in	in	IN	in-i
 a	a	a	DT	a-d
 Briefing.com	Briefing.com	Briefing.com	NNP	Briefing.com-e
+
 In	In	in	IN	in-i
 corporate	corporate	corporate	JJ	corporate-j
 news	news	news	NN	news-n
@@ -577,6 +598,7 @@ its	its	its	PRP$	its-p
 own	own	own	JJ	own-j
 company	company	company	NN	company-n
 .	.	.	.	.-x
+
 Investors	Investors	investor	NNS	investor-n
 appear	appear	appear	VBP	appear-v
 to	to	to	TO	to-t
@@ -596,6 +618,7 @@ in	in	in	IN	in-i
 pre-market	pre-market	pre-market	JJ	pre-market-j
 trading	trading	trading	NN	trading-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 move	move	move	NN	move-n
 may	may	may	MD	may-v
@@ -624,6 +647,7 @@ the	the	the	DT	the-d
 Gap	Gap	gap	NN	gap-n
 brand	brand	brand	NN	brand-n
 .	.	.	.	.-x
+
 Gap	Gap	gap	NN	gap-n
 also	also	also	RB	also-r
 said	said	say	VBD	say-v
@@ -646,6 +670,7 @@ of	of	of	IN	of-i
 a	a	a	DT	a-d
 restructuring	restructuring	restructuring	NN	restructuring-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 news	news	news	NN	news-n
 comes	comes	come	VBZ	come-v
@@ -661,6 +686,7 @@ revenue	revenue	revenue	NN	revenue-n
 that	that	that	WDT	that-d
 disappointed	disappointed	disappoint	VBD	disappoint-v
 .	.	.	.	.-x
+
 Glance	Glance	glance	NN	glance-n
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -710,6 +736,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 economy	economy	economy	NN	economy-n
 .	.	.	.	.-x
+
 Of	Of	of	IN	of-i
 course	course	course	NN	course-n
 ,	,	,	,	,-x
@@ -731,6 +758,7 @@ can	can	can	MD	can-v
 be	be	be	VB	be-v
 useful	useful	useful	JJ	useful-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 stock	stock	stock	NN	stock-n
 market	market	market	NN	market-n
@@ -748,12 +776,14 @@ well	well	well	RB	well-r
 under	under	under	IN	under-i
 way	way	way	NN	way-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 conditions	conditions	condition	NNS	condition-n
 seem	seem	seem	VBP	seem-v
 markedly	markedly	markedly	RB	markedly-r
 different	different	different	JJ	different-j
 .	.	.	.	.-x
+
 Back	Back	back	RB	back-r
 then	then	then	RB	then-r
 ,	,	,	,	,-x
@@ -786,6 +816,7 @@ U.S.-China	U.S.-China	U.S.-China	NNP	U.S.-China-e
 trade	trade	trade	NN	trade-n
 war	war	war	NN	war-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 there	there	there	EX	there-r
 's	's	be	VBZ	be-v
@@ -801,6 +832,7 @@ have	have	have	VB	have-v
 been	been	be	VBN	be-v
 progress	progress	progress	NN	progress-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 probably	probably	probably	RB	probably-r
 the	the	the	DT	the-d
@@ -818,6 +850,7 @@ a	a	a	DT	a-d
 dovish	dovish	dovish	JJ	dovish-j
 stance	stance	stance	NN	stance-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Fed	Fed	Fed	NNP	Fed-e
 and	and	and	CC	and-c
@@ -849,6 +882,7 @@ the	the	the	DT	the-d
 economy	economy	economy	NN	economy-n
 weakening	weakening	weakening	NN	weakening-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 at	at	at	IN	at-i
 the	the	the	DT	the-d
@@ -862,6 +896,7 @@ is	is	be	VBZ	be-v
 at	at	at	IN	at-i
 work	work	work	NN	work-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 result	result	result	NN	result-n
 of	of	of	IN	of-i
@@ -900,6 +935,7 @@ doing	doing	do	VBG	do-v
 relatively	relatively	relatively	RB	relatively-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 ,	,	,	,	,-x
@@ -926,6 +962,7 @@ solid	solid	solid	JJ	solid-j
 GDP	GDP	GDP	NNP	GDP-e
 report	report	report	NN	report-n
 .	.	.	.	.-x
+
 Because	Because	because	IN	because-i
 bond	bond	bond	NN	bond-n
 yields	yields	yield	NNS	yield-n
@@ -964,12 +1001,14 @@ debt	debt	debt	NN	debt-n
 can	can	can	MD	can-v
 provide	provide	provide	VB	provide-v
 .	.	.	.	.-x
+
 Change	Change	Change	NNP	Change-e
 Afoot	Afoot	Afoot	NNP	Afoot-e
 in	in	in	IN	in-i
 EPS	EPS	EPS	NNP	EPS-e
 Expectations	Expectations	Expectations	NNPS	Expectations-e
 ?	?	?	.	?-x
+
 Amid	Amid	amid	IN	amid-i
 the	the	the	DT	the-d
 recovery	recovery	recovery	NN	recovery-n
@@ -1007,6 +1046,7 @@ in	in	in	IN	in-i
 earnings	earnings	earnings	NNS	earnings-n
 expectations	expectations	expectation	NNS	expectation-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Since	Since	since	IN	since-i
 prices	prices	price	NNS	price-n
@@ -1067,6 +1107,7 @@ thing	thing	thing	NN	thing-n
 off	off	off	RB	off-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 Wednesday	Wednesday	Wednesday	NNP	Wednesday-e
@@ -1098,6 +1139,7 @@ according	according	accord	VBG	accord-v
 to	to	to	TO	to-t
 CFRA	CFRA	CFRA	NNP	CFRA-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 a	a	a	DT	a-d
 change	change	change	NN	change-n
@@ -1107,6 +1149,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 horizon	horizon	horizon	NN	horizon-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 With	With	with	IN	with-i
 the	the	the	DT	the-d
@@ -1142,3 +1185,4 @@ further	further	further	RBR	further-r
 CFRA	CFRA	CFRA	NNP	CFRA-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

@@ -33,6 +33,7 @@ the	the	the	DT	the-d
 Russia	Russia	Russia	NNP	Russia-e
 investigation	investigation	investigation	NN	investigation-n
 ?	?	?	.	?-x
+
 Well	Well	well	RB	well-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -78,6 +79,7 @@ Cohen	Cohen	Cohen	NNP	Cohen-e
 's	's	's	POS	's-p
 testimony	testimony	testimony	NN	testimony-n
 ?	?	?	.	?-x
+
 So	So	so	IN	so-i
 I	I	I	PRP	I-p
 want	want	want	VBP	want-v
@@ -99,6 +101,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 president	president	president	NN	president-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 is	is	be	VBZ	be-v
@@ -114,6 +117,7 @@ hack	hack	hack	NN	hack-n
 DNC	DNC	dnc	NN	dnc-n
 e-mails	e-mails	e-mail	NNS	e-mail-n
 .	.	.	.	.-x
+
 Right	Right	right	RB	right-r
 now	now	now	RB	now-r
 ,	,	,	,	,-x
@@ -146,6 +150,7 @@ for	for	for	IN	for-i
 President	President	President	NNP	President-e
 Trump	Trump	Trump	NNP	Trump-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 other	other	other	JJ	other-j
 thing	thing	thing	NN	thing-n
@@ -156,6 +161,7 @@ Tower	Tower	Tower	NNP	Tower-e
 Moscow	Moscow	Moscow	NNP	Moscow-e
 project	project	project	NN	project-n
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -180,6 +186,7 @@ during	during	during	IN	during-i
 the	the	the	DT	the-d
 campaign	campaign	campaign	NN	campaign-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 ,	,	,	,	,-x
 in	in	in	IN	in-i
@@ -213,6 +220,7 @@ working	working	work	VBG	work-v
 with	with	with	IN	with-i
 Russia	Russia	Russia	NNP	Russia-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 other	other	other	JJ	other-j
 thing	thing	thing	NN	thing-n
@@ -263,6 +271,7 @@ Clinton	Clinton	Clinton	NNP	Clinton-e
 from	from	from	IN	from-i
 Russia	Russia	Russia	NNP	Russia-e
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 also	also	also	RB	also-r
 could	could	could	MD	could-v
@@ -285,6 +294,7 @@ an	an	a	DT	a-d
 American	American	american	JJ	american-j
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 So	So	so	IN	so-i
 we	we	we	PRP	we-p
 will	will	will	MD	will-v
@@ -297,6 +307,7 @@ not	not	not	RB	not-r
 that	that	that	DT	that-d
 happens	happens	happen	VBZ	happen-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 there	there	there	EX	there-r
 are	are	be	VBP	be-v
@@ -320,3 +331,4 @@ that	that	that	WDT	that-d
 matter	matter	matter	VBP	matter-v
 most	most	most	JJS	most-j
 .	.	.	.	.-x
+

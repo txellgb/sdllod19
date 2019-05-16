@@ -23,6 +23,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Most	Most	most	JJS	most-j
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -56,6 +57,7 @@ days	days	day	NNS	day-n
 new	new	new	JJ	new-j
 prices	prices	price	NNS	price-n
 .	.	.	.	.-x
+
 Recently	Recently	recently	RB	recently-r
 I	I	I	PRP	I-p
 found	found	find	VBD	find-v
@@ -81,6 +83,7 @@ Gonsalez	Gonsalez	Gonsalez	NNP	Gonsalez-e
 Byass	Byass	Byass	NNP	Byass-e
 UK	UK	UK	NNP	UK-e
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 more	more	more	JJR	more-j
 than	than	than	IN	than-i
@@ -105,6 +108,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 Rathfinny	Rathfinny	Rathfinny	NNP	Rathfinny-e
 Wine	Wine	Wine	NNP	Wine-e
 Estate	Estate	Estate	NNP	Estate-e
@@ -154,6 +158,7 @@ trade	trade	trade	NN	trade-n
 ever	ever	ever	RB	ever-r
 since	since	since	IN	since-i
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 released	released	release	VBD	release-v
 their	their	they	PRP$	they-p
@@ -175,6 +180,7 @@ to	to	to	TO	to-t
 taste	taste	taste	VB	taste-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 Rathfinny	Rathfinny	Rathfinny	NNP	Rathfinny-e
 Estate	Estate	Estate	NNP	Estate-e
 Rosé	Rosé	Rosé	NNP	Rosé-e
@@ -183,11 +189,13 @@ Rosé	Rosé	Rosé	NNP	Rosé-e
 Sussex	Sussex	Sussex	NNP	Sussex-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 rathinnyestate.com	rathinnyestate.com	rathinnyestate.com	NNP	rathinnyestate.com-e
+
 for	for	for	IN	for-i
 more	more	more	JJR	more-j
 info	info	info	NN	info-n
 and	and	and	CC	and-c
 oxfordwine.com	oxfordwine.com	oxfordwine.com	NN	oxfordwine.com-n
+
 £	#	#	#	#-x
 35.95	35.95	35.95	CD	35.95-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
@@ -223,6 +231,7 @@ English	English	english	JJ	english-j
 sparkling	sparkling	sparkling	JJ	sparkling-j
 rosés	rosés	rosés	NNS	rosés-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -265,6 +274,7 @@ long	long	long	JJ	long-j
 focussed	focussed	focussed	JJ	focussed-j
 finish	finish	finish	NN	finish-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -296,6 +306,7 @@ sparkling	sparkling	sparkling	JJ	sparkling-j
 wine	wine	wine	NN	wine-n
 indeed	indeed	indeed	RB	indeed-r
 .	.	.	.	.-x
+
 Hopping	Hopping	hop	VBG	hop-v
 over	over	over	IN	over-i
 the	the	the	DT	the-d
@@ -322,6 +333,7 @@ price	price	price	NN	price-n
 to	to	to	TO	to-t
 match	match	match	VB	match-v
 .	.	.	.	.-x
+
 Deutz	Deutz	Deutz	NNP	Deutz-e
 Brut	Brut	Brut	NNP	Brut-e
 Classic	Classic	Classic	NNP	Classic-e
@@ -341,6 +353,7 @@ much	much	much	JJ	much-j
 admired	admired	admire	VBN	admire-v
 house	house	house	NN	house-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 blend	blend	blend	VB	blend-v
 of	of	of	IN	of-i
@@ -367,6 +380,7 @@ elegance	elegance	elegance	NN	elegance-n
 and	and	and	CC	and-c
 purity	purity	purity	NN	purity-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 notes	notes	note	NNS	note-n
@@ -400,12 +414,14 @@ very	very	very	RB	very-r
 focused	focused	focus	VBD	focus-v
 finish	finish	finish	NN	finish-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 very	very	very	RB	very-r
 fine	fine	fine	JJ	fine-j
 Champagne	Champagne	Champagne	NNP	Champagne-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 story	story	story	NN	story-n
 of	of	of	IN	of-i
@@ -447,6 +463,7 @@ south	south	south	NN	south-n
 of	of	of	IN	of-i
 France	France	France	NNP	France-e
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 established	established	establish	VBD	establish-v
 her	her	she	PRP$	she-p
@@ -470,6 +487,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 region	region	region	NN	region-n
 .	.	.	.	.-x
+
 Domaine	Domaine	Domaine	NNP	Domaine-e
 Jones	Jones	Jones	NNP	Jones-e
 Fitou	Fitou	Fitou	NNP	Fitou-e
@@ -506,6 +524,7 @@ than	than	than	IN	than-i
 years	years	year	NNS	year-n
 old	old	old	JJ	old-j
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 shows	shows	show	VBZ	show-v
 plenty	plenty	plenty	NN	plenty-n
@@ -542,6 +561,7 @@ keep	keep	keep	VB	keep-v
 it	it	it	PRP	it-p
 honest	honest	honest	JJ	honest-j
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 such	such	such	JJ	such-j
@@ -562,3 +582,4 @@ cooked	cooked	cook	VBD	cook-v
 over	over	over	IN	over-i
 charcoal	charcoal	charcoal	NN	charcoal-n
 .	.	.	.	.-x
+

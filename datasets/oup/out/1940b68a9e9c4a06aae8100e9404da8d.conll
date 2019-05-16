@@ -31,6 +31,7 @@ of	of	of	IN	of-i
 load	load	load	NN	load-n
 boards	boards	board	NNS	board-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 overall	overall	overall	JJ	overall-j
@@ -73,6 +74,7 @@ year	year	year	NN	year-n
 over	over	over	IN	over-i
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Van	Van	Van	NNP	Van-e
 trends	trends	trend	NNS	trend-n
 :	:	:	:	:-x
@@ -99,6 +101,7 @@ up	up	up	RB	up-r
 4	4	4	CD	4-f
 %	%	%	NN	%-n
 .	.	.	.	.-x
+
 Load-to-truck	Load-to-truck	load-to-truck	JJ	load-to-truck-j
 ratio	ratio	ratio	NN	ratio-n
 (	-LRB-	-lrb-	-LRB-	-lrb--x
@@ -125,6 +128,7 @@ mile	mile	mile	NN	mile-n
 down	down	down	IN	down-i
 1	1	1	CD	1-f
 cent	cent	cent	NN	cent-n
+
 Average	Average	average	JJ	average-j
 spot	spot	spot	NN	spot-n
 van	van	van	NN	van-n
@@ -144,6 +148,7 @@ from	from	from	IN	from-i
 February	February	February	NNP	February-e
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 national	national	national	JJ	national-j
@@ -181,6 +186,7 @@ past	past	past	JJ	past-j
 four	four	four	CD	four-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 Flatbed	Flatbed	flatb	VBN	flatb-v
 trends	trends	trend	NNS	trend-n
 :	:	:	:	:-x
@@ -201,6 +207,7 @@ up	up	up	RB	up-r
 2	2	2	CD	2-f
 %	%	%	NN	%-n
 .	.	.	.	.-x
+
 Load-to-truck	Load-to-truck	load-to-truck	JJ	load-to-truck-j
 ratio	ratio	ratio	NN	ratio-n
 :	:	:	:	:-x
@@ -227,6 +234,7 @@ mile	mile	mile	NN	mile-n
 up	up	up	IN	up-i
 1	1	1	CD	1-f
 cent	cent	cent	NN	cent-n
+
 Reerfer	Reerfer	reerfer	NN	reerfer-n
 trends	trends	trend	NNS	trend-n
 :	:	:	:	:-x
@@ -248,6 +256,7 @@ up	up	up	RB	up-r
 1	1	1	CD	1-f
 %	%	%	NN	%-n
 .	.	.	.	.-x
+
 Reefer	Reefer	reefer	NN	reefer-n
 load-to-truck	load-to-truck	load-to-truck	NN	load-to-truck-n
 ratio	ratio	ratio	NN	ratio-n
@@ -271,6 +280,7 @@ mile	mile	mile	NN	mile-n
 down	down	down	IN	down-i
 1	1	1	CD	1-f
 cent	cent	cent	NN	cent-n
+
 Los	Los	Los	NNP	Los-e
 Angeles	Angeles	Angeles	NNP	Angeles-e
 and	and	and	CC	and-c
@@ -301,6 +311,7 @@ fifth	fifth	fifth	JJ	fifth-j
 straight	straight	straight	JJ	straight-j
 week	week	week	NN	week-n
 .	.	.	.	.-x
+
 Volumes	Volumes	volume	NNS	volume-n
 in	in	in	IN	in-i
 this	this	this	DT	this-d
@@ -314,3 +325,4 @@ the	the	the	DT	the-d
 last	last	last	JJ	last-j
 month	month	month	NN	month-n
 .	.	.	.	.-x
+

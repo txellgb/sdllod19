@@ -20,6 +20,7 @@ from	from	from	IN	from-i
 Hurricane	Hurricane	Hurricane	NNP	Hurricane-e
 Michael	Michael	Michael	NNP	Michael-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 the	the	the	DT	the-d
 challenges	challenges	challenge	NNS	challenge-n
@@ -46,6 +47,7 @@ as	as	as	IN	as-i
 disaster	disaster	disaster	NN	disaster-n
 aid	aid	aid	NN	aid-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 level	level	level	NN	level-n
@@ -75,6 +77,7 @@ extra	extra	extra	JJ	extra-j
 disaster	disaster	disaster	NN	disaster-n
 relief	relief	relief	NN	relief-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 bill	bill	bill	NN	bill-n
 introduced	introduced	introduce	VBN	introduce-v
@@ -118,6 +121,7 @@ island	island	island	NN	island-n
 of	of	of	IN	of-i
 Mauritius	Mauritius	Mauritius	NNP	Mauritius-e
 .	.	.	.	.-x
+
 Senator	Senator	Senator	NNP	Senator-e
 Johnny	Johnny	Johnny	NNP	Johnny-e
 Isakson	Isakson	Isakson	NNP	Isakson-e
@@ -129,6 +133,7 @@ bill	bill	bill	NN	bill-n
 's	's	's	POS	's-p
 co-sponsors	co-sponsors	co-sponsor	NNS	co-sponsor-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 an	an	a	DT	a-d
@@ -149,6 +154,7 @@ state	state	state	NN	state-n
 pecan	pecan	pecan	NN	pecan-n
 industry	industry	industry	NN	industry-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 75	75	75	CD	75-f
 percent	percent	percent	NN	percent-n
@@ -158,6 +164,7 @@ was	was	be	VBD	be-v
 wiped	wiped	wipe	VBN	wipe-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 you	you	you	PRP	you-p
 know	know	know	VBP	know-v
@@ -171,6 +178,7 @@ a	a	a	DT	a-d
 pecan	pecan	pecan	NN	pecan-n
 orchard	orchard	orchard	NN	orchard-n
 ?	?	?	.	?-x
+
 Fifteen	Fifteen	fifteen	CD	fifteen-f
 to	to	to	TO	to-t
 twenty	twenty	twenty	CD	twenty-f
@@ -197,6 +205,7 @@ disaster	disaster	disaster	NN	disaster-n
 relief	relief	relief	NN	relief-n
 bill	bill	bill	NN	bill-n
 .	.	.	.	.-x
+
 Hurricane	Hurricane	Hurricane	NNP	Hurricane-e
 Michael	Michael	Michael	NNP	Michael-e
 caused	caused	cause	VBD	cause-v
@@ -212,6 +221,7 @@ to	to	to	TO	to-t
 Georgia	Georgia	Georgia	NNP	Georgia-e
 agriculture	agriculture	agriculture	NN	agriculture-n
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -243,6 +253,7 @@ TANF	TANF	tanf	NN	tanf-n
 ,	,	,	,	,-x
 benefits	benefits	benefit	NNS	benefit-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 ,	,	,	,	,-x
 The	The	the	DT	the-d
@@ -278,6 +289,7 @@ new	new	new	JJ	new-j
 apartment	apartment	apartment	NN	apartment-n
 leases	leases	lease	NNS	lease-n
 .	.	.	.	.-x
+
 Deputy	Deputy	Deputy	NNP	Deputy-e
 Director	Director	Director	NNP	Director-e
 Jon	Jon	Jon	NNP	Jon-e
@@ -299,6 +311,7 @@ as	as	as	IN	as-i
 disaster	disaster	disaster	NN	disaster-n
 aid	aid	aid	NN	aid-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 really	really	really	RB	really-r
@@ -325,6 +338,7 @@ out	out	out	RP	out-x
 Anderson	Anderson	Anderson	NNP	Anderson-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 benefits	benefits	benefit	NNS	benefit-n
 will	will	will	MD	will-v
@@ -345,6 +359,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 storm	storm	storm	NN	storm-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -357,6 +372,7 @@ the	the	the	DT	the-d
 middle	middle	middle	JJ	middle-j
 class	class	class	NN	class-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 instance	instance	instance	NN	instance-n
 ,	,	,	,	,-x
@@ -382,6 +398,7 @@ by	by	by	IN	by-i
 Georgia	Georgia	Georgia	NNP	Georgia-e
 DFCS	DFCS	DFCS	NNP	DFCS-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 federal	federal	federal	JJ	federal-j
 block	block	block	NN	block-n
@@ -400,6 +417,7 @@ to	to	to	TO	to-t
 needy	needy	needy	JJ	needy-j
 families	families	family	NNS	family-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 estimated	estimated	estimate	VBN	estimate-v
 33,000	33,000	33,000	CD	33,000-f
@@ -420,3 +438,4 @@ a	a	a	DT	a-d
 paper	paper	paper	NN	paper-n
 application	application	application	NN	application-n
 .	.	.	.	.-x
+

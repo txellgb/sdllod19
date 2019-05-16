@@ -36,6 +36,7 @@ countries	countries	country	NNS	country-n
 on	on	on	IN	on-i
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 unique	unique	unique	JJ	unique-j
 approach	approach	approach	NN	approach-n
@@ -80,6 +81,7 @@ ambassador	ambassador	ambassador	NN	ambassador-n
 Christoph	Christoph	Christoph	NNP	Christoph-e
 Heusgen	Heusgen	Heusgen	NNP	Heusgen-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 two	two	two	CD	two-f
 countries	countries	country	NNS	country-n
@@ -106,6 +108,7 @@ multilateralism	multilateralism	multilateralism	NN	multilateralism-n
 said	said	say	VBD	say-v
 Delattre	Delattre	Delattre	NNP	Delattre-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 seems	seems	seem	VBZ	seem-v
@@ -124,6 +127,7 @@ is	is	be	VBZ	be-v
 vital	vital	vital	JJ	vital-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 post	post	post	NN	post-n
 of	of	of	IN	of-i
@@ -142,6 +146,7 @@ their	their	they	PRP$	they-p
 English	English	english	JJ	english-j
 names	names	name	NNS	name-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 by	by	by	IN	by-i
@@ -179,6 +184,7 @@ a	a	a	DT	a-d
 permanent	permanent	permanent	JJ	permanent-j
 member	member	member	NN	member-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 decided	decided	decide	VBD	decide-v
@@ -211,6 +217,7 @@ coincidence	coincidence	coincidence	NN	coincidence-n
 said	said	say	VBD	say-v
 Delattre	Delattre	Delattre	NNP	Delattre-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 And	And	and	CC	and-c
 so	so	so	IN	so-i
@@ -246,6 +253,7 @@ one	one	one	CD	one-f
 another	another	another	DT	another-d
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 But	But	but	CC	but-c
 he	he	he	PRP	he-p
 emphasized	emphasized	emphasize	VBD	emphasize-v
@@ -279,3 +287,4 @@ the	the	the	DT	the-d
 Security	Security	Security	NNP	Security-e
 Council	Council	Council	NNP	Council-e
 .	.	.	.	.-x
+

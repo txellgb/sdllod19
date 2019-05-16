@@ -20,6 +20,7 @@ office	office	office	NN	office-n
 has	has	have	VBZ	have-v
 died	died	die	VBN	die-v
 .	.	.	.	.-x
+
 Oregon	Oregon	Oregon	NNP	Oregon-e
 storms	storms	storm	NNS	storm-n
 :	:	:	:	:-x
@@ -34,6 +35,7 @@ due	due	due	JJ	due-j
 to	to	to	TO	to-t
 winter	winter	winter	NN	winter-n
 storms	storms	storm	NNS	storm-n
+
 Paulus	Paulus	paulus	NN	paulus-n
 grew	grew	grow	VBD	grow-v
 up	up	up	RP	up-x
@@ -54,6 +56,7 @@ go	go	go	VB	go-v
 to	to	to	TO	to-t
 college	college	college	NN	college-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 through	through	through	IN	through-i
 a	a	a	DT	a-d
@@ -81,6 +84,7 @@ Oregon	Oregon	Oregon	NNP	Oregon-e
 Supreme	Supreme	Supreme	NNP	Supreme-e
 Court	Court	Court	NNP	Court-e
 .	.	.	.	.-x
+
 Eventually	Eventually	eventually	RB	eventually-r
 she	she	she	PRP	she-p
 was	was	be	VBD	be-v
@@ -102,6 +106,7 @@ her	her	she	PRP$	she-p
 secretarial	secretarial	secretarial	JJ	secretarial-j
 job	job	job	NN	job-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 in	in	in	IN	in-i
 law	law	law	NN	law-n
@@ -125,6 +130,7 @@ honors	honors	honor	NNS	honor-n
 in	in	in	IN	in-i
 1962	1962	1962	CD	1962-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 She	She	she	PRP	she-p
 was	was	be	VBD	be-v
@@ -138,6 +144,7 @@ history-maker	history-maker	history-maker	NN	history-maker-n
 Tymchuk	Tymchuk	Tymchuk	NNP	Tymchuk-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Speaking	Speaking	speak	VBG	speak-v
 from	from	from	IN	from-i
 the	the	the	DT	the-d
@@ -164,6 +171,7 @@ for	for	for	IN	for-i
 women	women	woman	NNS	woman-n
 here	here	here	RB	here-r
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 was	was	be	VBD	be-v
 a	a	a	DT	a-d
@@ -187,3 +195,4 @@ in	in	in	IN	in-i
 Oregon	Oregon	Oregon	NNP	Oregon-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+

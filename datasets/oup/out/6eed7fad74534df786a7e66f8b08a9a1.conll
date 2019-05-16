@@ -23,6 +23,7 @@ the	the	the	DT	the-d
 Premier	Premier	Premier	NNP	Premier-e
 League	League	League	NNP	League-e
 .	.	.	.	.-x
+
 Fulham	Fulham	Fulham	NNP	Fulham-e
 are	are	be	VBP	be-v
 staring	staring	stare	VBG	stare-v
@@ -45,6 +46,7 @@ appointed	appointed	appoint	VBN	appoint-v
 in	in	in	IN	in-i
 November	November	November	NNP	November-e
 .	.	.	.	.-x
+
 Relegation	Relegation	Relegation	NNP	Relegation-e
 would	would	would	MD	would-v
 not	not	not	RB	not-r
@@ -126,6 +128,7 @@ looking	looking	look	VBG	look-v
 at	at	at	IN	at-i
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -147,6 +150,7 @@ have	have	have	VBP	have-v
 quality	quality	quality	NN	quality-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Sessegnon	Sessegnon	Sessegnon	NNP	Sessegnon-e
 is	is	be	VBZ	be-v
 still	still	still	RB	still-r
@@ -187,3 +191,4 @@ goals	goals	goal	NNS	goal-n
 this	this	this	DT	this-d
 season	season	season	NN	season-n
 .	.	.	.	.-x
+

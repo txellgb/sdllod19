@@ -53,35 +53,44 @@
 :s1_45 a nif:Word; conll:WORD "Brussels"; conll:TOKEN "Brussels"; conll:LEMMA "Brussels"; conll:LEMPOS "Brussels-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_46 .
 :s1_46 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_47 .
 :s1_47 a nif:Word; conll:WORD "Friday"; conll:TOKEN "Friday"; conll:LEMMA "Friday"; conll:LEMPOS "Friday-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_48 .
-:s1_48 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_49 .
-:s1_49 a nif:Word; conll:WORD "The"; conll:TOKEN "The"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_50 .
-:s1_50 a nif:Word; conll:WORD "case"; conll:TOKEN "case"; conll:LEMMA "case"; conll:LEMPOS "case-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_51 .
-:s1_51 a nif:Word; conll:WORD "risks"; conll:TOKEN "risks"; conll:LEMMA "risk"; conll:LEMPOS "risk-v"; conll:HEAD :s1_0; conll:POS "VBZ"; nif:nextWord :s1_52 .
-:s1_52 a nif:Word; conll:WORD "becoming"; conll:TOKEN "becoming"; conll:LEMMA "become"; conll:LEMPOS "become-v"; conll:HEAD :s1_0; conll:POS "VBG"; nif:nextWord :s1_53 .
-:s1_53 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_54 .
-:s1_54 a nif:Word; conll:WORD "next"; conll:TOKEN "next"; conll:LEMMA "next"; conll:LEMPOS "next-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_55 .
-:s1_55 a nif:Word; conll:WORD "flashpoint"; conll:TOKEN "flashpoint"; conll:LEMMA "flashpoint"; conll:LEMPOS "flashpoint-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_56 .
-:s1_56 a nif:Word; conll:WORD "between"; conll:TOKEN "between"; conll:LEMMA "between"; conll:LEMPOS "between-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_57 .
-:s1_57 a nif:Word; conll:WORD "Poland"; conll:TOKEN "Poland"; conll:LEMMA "Poland"; conll:LEMPOS "Poland-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_58 .
-:s1_58 a nif:Word; conll:WORD "'s"; conll:TOKEN "'s"; conll:LEMMA "'s"; conll:LEMPOS "'s-p"; conll:HEAD :s1_0; conll:POS "POS"; nif:nextWord :s1_59 .
-:s1_59 a nif:Word; conll:WORD "ruling"; conll:TOKEN "ruling"; conll:LEMMA "ruling"; conll:LEMPOS "ruling-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_60 .
-:s1_60 a nif:Word; conll:WORD "nationalists"; conll:TOKEN "nationalists"; conll:LEMMA "nationalist"; conll:LEMPOS "nationalist-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_61 .
-:s1_61 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_62 .
-:s1_62 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_63 .
-:s1_63 a nif:Word; conll:WORD "EU"; conll:TOKEN "EU"; conll:LEMMA "EU"; conll:LEMPOS "EU-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_64 .
-:s1_64 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_65 .
-:s1_65 a nif:Word; conll:WORD "their"; conll:TOKEN "their"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP$"; nif:nextWord :s1_66 .
-:s1_66 a nif:Word; conll:WORD "relationship"; conll:TOKEN "relationship"; conll:LEMMA "relationship"; conll:LEMPOS "relationship-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_67 .
-:s1_67 a nif:Word; conll:WORD "already"; conll:TOKEN "already"; conll:LEMMA "already"; conll:LEMPOS "already-r"; conll:HEAD :s1_0; conll:POS "RB"; nif:nextWord :s1_68 .
-:s1_68 a nif:Word; conll:WORD "strained"; conll:TOKEN "strained"; conll:LEMMA "strain"; conll:LEMPOS "strain-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_69 .
-:s1_69 a nif:Word; conll:WORD "by"; conll:TOKEN "by"; conll:LEMMA "by"; conll:LEMPOS "by-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_70 .
-:s1_70 a nif:Word; conll:WORD "disputes"; conll:TOKEN "disputes"; conll:LEMMA "dispute"; conll:LEMPOS "dispute-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_71 .
-:s1_71 a nif:Word; conll:WORD "over"; conll:TOKEN "over"; conll:LEMMA "over"; conll:LEMPOS "over-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_72 .
-:s1_72 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_73 .
-:s1_73 a nif:Word; conll:WORD "rule"; conll:TOKEN "rule"; conll:LEMMA "rule"; conll:LEMPOS "rule-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_74 .
-:s1_74 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_75 .
-:s1_75 a nif:Word; conll:WORD "law"; conll:TOKEN "law"; conll:LEMMA "law"; conll:LEMPOS "law-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_76 .
-:s1_76 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_77 .
-:s1_77 a nif:Word; conll:WORD "migration"; conll:TOKEN "migration"; conll:LEMMA "migration"; conll:LEMPOS "migration-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_78 .
-:s1_78 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+:s1_48 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/1a827cfb3fd74f2687285adcee5884d5#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s1_0 nif:nextSentence :s2_0 .
+:s2_0 a nif:Sentence .
+:s2_1 a nif:Word; conll:WORD "The"; conll:TOKEN "The"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_2 .
+:s2_2 a nif:Word; conll:WORD "case"; conll:TOKEN "case"; conll:LEMMA "case"; conll:LEMPOS "case-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_3 .
+:s2_3 a nif:Word; conll:WORD "risks"; conll:TOKEN "risks"; conll:LEMMA "risk"; conll:LEMPOS "risk-v"; conll:HEAD :s2_0; conll:POS "VBZ"; nif:nextWord :s2_4 .
+:s2_4 a nif:Word; conll:WORD "becoming"; conll:TOKEN "becoming"; conll:LEMMA "become"; conll:LEMPOS "become-v"; conll:HEAD :s2_0; conll:POS "VBG"; nif:nextWord :s2_5 .
+:s2_5 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_6 .
+:s2_6 a nif:Word; conll:WORD "next"; conll:TOKEN "next"; conll:LEMMA "next"; conll:LEMPOS "next-j"; conll:HEAD :s2_0; conll:POS "JJ"; nif:nextWord :s2_7 .
+:s2_7 a nif:Word; conll:WORD "flashpoint"; conll:TOKEN "flashpoint"; conll:LEMMA "flashpoint"; conll:LEMPOS "flashpoint-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_8 .
+:s2_8 a nif:Word; conll:WORD "between"; conll:TOKEN "between"; conll:LEMMA "between"; conll:LEMPOS "between-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_9 .
+:s2_9 a nif:Word; conll:WORD "Poland"; conll:TOKEN "Poland"; conll:LEMMA "Poland"; conll:LEMPOS "Poland-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_10 .
+:s2_10 a nif:Word; conll:WORD "'s"; conll:TOKEN "'s"; conll:LEMMA "'s"; conll:LEMPOS "'s-p"; conll:HEAD :s2_0; conll:POS "POS"; nif:nextWord :s2_11 .
+:s2_11 a nif:Word; conll:WORD "ruling"; conll:TOKEN "ruling"; conll:LEMMA "ruling"; conll:LEMPOS "ruling-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_12 .
+:s2_12 a nif:Word; conll:WORD "nationalists"; conll:TOKEN "nationalists"; conll:LEMMA "nationalist"; conll:LEMPOS "nationalist-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_13 .
+:s2_13 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s2_0; conll:POS "CC"; nif:nextWord :s2_14 .
+:s2_14 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_15 .
+:s2_15 a nif:Word; conll:WORD "EU"; conll:TOKEN "EU"; conll:LEMMA "EU"; conll:LEMPOS "EU-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_16 .
+:s2_16 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s2_0; conll:POS ","; nif:nextWord :s2_17 .
+:s2_17 a nif:Word; conll:WORD "their"; conll:TOKEN "their"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s2_0; conll:POS "PRP$"; nif:nextWord :s2_18 .
+:s2_18 a nif:Word; conll:WORD "relationship"; conll:TOKEN "relationship"; conll:LEMMA "relationship"; conll:LEMPOS "relationship-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_19 .
+:s2_19 a nif:Word; conll:WORD "already"; conll:TOKEN "already"; conll:LEMMA "already"; conll:LEMPOS "already-r"; conll:HEAD :s2_0; conll:POS "RB"; nif:nextWord :s2_20 .
+:s2_20 a nif:Word; conll:WORD "strained"; conll:TOKEN "strained"; conll:LEMMA "strain"; conll:LEMPOS "strain-v"; conll:HEAD :s2_0; conll:POS "VBN"; nif:nextWord :s2_21 .
+:s2_21 a nif:Word; conll:WORD "by"; conll:TOKEN "by"; conll:LEMMA "by"; conll:LEMPOS "by-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_22 .
+:s2_22 a nif:Word; conll:WORD "disputes"; conll:TOKEN "disputes"; conll:LEMMA "dispute"; conll:LEMPOS "dispute-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_23 .
+:s2_23 a nif:Word; conll:WORD "over"; conll:TOKEN "over"; conll:LEMMA "over"; conll:LEMPOS "over-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_24 .
+:s2_24 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_25 .
+:s2_25 a nif:Word; conll:WORD "rule"; conll:TOKEN "rule"; conll:LEMMA "rule"; conll:LEMPOS "rule-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_26 .
+:s2_26 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_27 .
+:s2_27 a nif:Word; conll:WORD "law"; conll:TOKEN "law"; conll:LEMMA "law"; conll:LEMPOS "law-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_28 .
+:s2_28 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s2_0; conll:POS "CC"; nif:nextWord :s2_29 .
+:s2_29 a nif:Word; conll:WORD "migration"; conll:TOKEN "migration"; conll:LEMMA "migration"; conll:LEMPOS "migration-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_30 .
+:s2_30 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s2_0; conll:POS "." .
 

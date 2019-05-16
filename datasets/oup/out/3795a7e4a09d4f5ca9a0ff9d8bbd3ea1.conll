@@ -39,6 +39,7 @@ term	term	term	NN	term-n
 in	in	in	IN	in-i
 October	October	October	NNP	October-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 his	his	he	PRP$	he-p
 annual	annual	annual	JJ	annual-j
@@ -79,3 +80,4 @@ third	third	third	JJ	third-j
 largest	largest	largest	JJS	largest-j
 economy	economy	economy	NN	economy-n
 .	.	.	.	.-x
+

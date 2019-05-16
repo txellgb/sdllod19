@@ -38,6 +38,7 @@ camp	camp	camp	NN	camp-n
 inside	inside	inside	IN	inside-i
 Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 came	came	come	VBD	come-v
 12	12	12	CD	12-f
@@ -57,3 +58,4 @@ CRPF	CRPF	crpf	NN	crpf-n
 convoy	convoy	convoy	NN	convoy-n
 in	in	in	IN	in-i
 Kashmir	Kashmir	Kashmir	NNP	Kashmir-e
+

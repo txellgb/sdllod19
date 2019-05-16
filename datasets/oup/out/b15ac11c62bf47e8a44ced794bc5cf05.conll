@@ -32,6 +32,7 @@ has	has	have	VBZ	have-v
 ever	ever	ever	RB	ever-r
 seen	seen	see	VBN	see-v
 .	.	.	.	.-x
+
 Between	Between	between	IN	between-i
 Arizona	Arizona	Arizona	NNP	Arizona-e
 general	general	general	JJ	general-j
@@ -62,6 +63,7 @@ team	team	team	NN	team-n
 and	and	and	CC	and-c
 prospect	prospect	prospect	NN	prospect-n
 .	.	.	.	.-x
+
 Keim	Keim	Keim	NNP	Keim-e
 had	had	have	VBD	have-v
 us	us	we	PRP	we-p
@@ -97,6 +99,7 @@ right	right	right	RB	right-r
 now	now	now	RB	now-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Then	Then	then	RB	then-r
 Murray	Murray	Murray	NNP	Murray-e
 tipped	tipped	tip	VBD	tip-v
@@ -122,6 +125,7 @@ a	a	a	DT	a-d
 first-round	first-round	first-round	JJ	first-round-j
 quarterback	quarterback	quarterback	NN	quarterback-n
 .	.	.	.	.-x
+
 COMBINE	COMBINE	combine	VB	combine-v
 RESULTS	RESULTS	result	NNS	result-n
 :	:	:	:	:-x
@@ -129,6 +133,7 @@ Highlights	Highlights	highlight	NNS	highlight-n
 from	from	from	IN	from-i
 player	player	player	NN	player-n
 workouts	workouts	workout	NNS	workout-n
+
 Murray	Murray	Murray	NNP	Murray-e
 's	's	's	POS	's-p
 time	time	time	NN	time-n
@@ -168,6 +173,7 @@ rather	rather	rather	RB	rather-r
 than	than	than	IN	than-i
 Sunday	Sunday	Sunday	NNP	Sunday-e
 .	.	.	.	.-x
+
 Although	Although	although	IN	although-i
 there	there	there	EX	there-r
 's	's	be	VBZ	be-v
@@ -200,6 +206,7 @@ sold	sold	sell	VBN	sell-v
 a	a	a	DT	a-d
 team	team	team	NN	team-n
 .	.	.	.	.-x
+
 Murray	Murray	Murray	NNP	Murray-e
 went	went	go	VBD	go-v
 through	through	through	IN	through-i
@@ -228,6 +235,7 @@ Giants	Giants	Giants	NNPS	Giants-e
 and	and	and	CC	and-c
 Redskins	Redskins	Redskins	NNPS	Redskins-e
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 far	far	far	RB	far-r
 his	his	he	PRP$	he-p
@@ -261,6 +269,7 @@ in	in	in	IN	in-i
 high	high	high	JJ	high-j
 school	school	school	NN	school-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 I	I	I	PRP	I-p
@@ -283,6 +292,7 @@ deal	deal	deal	NN	deal-n
 Murray	Murray	Murray	NNP	Murray-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Me	Me	I	PRP	I-p
 and	and	and	CC	and-c
@@ -296,6 +306,7 @@ be	be	be	VB	be-v
 nice	nice	nice	JJ	nice-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 For	For	for	IN	for-i
 college	college	college	NN	college-n
 ,	,	,	,	,-x
@@ -314,6 +325,7 @@ Texas	Texas	Texas	NNP	Texas-e
 Tech	Tech	Tech	NNP	Tech-e
 program	program	program	NN	program-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 time	time	time	NN	time-n
 ,	,	,	,	,-x
@@ -331,6 +343,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 decision	decision	decision	NN	decision-n
 .	.	.	.	.-x
+
 MOCK	MOCK	mock	JJ	mock-j
 DRAFT	DRAFT	draft	NN	draft-n
 :	:	:	:	:-x
@@ -342,6 +355,7 @@ on	on	on	IN	on-i
 Cards	Cards	Cards	NNP	Cards-e
 '	'	'	POS	'-p
 pick	pick	pick	NN	pick-n
+
 Rosen	Rosen	Rosen	NNP	Rosen-e
 had	had	have	VBD	have-v
 a	a	a	DT	a-d
@@ -349,6 +363,7 @@ rough	rough	rough	JJ	rough-j
 rookie	rookie	rookie	NN	rookie-n
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Cardinals	Cardinals	Cardinals	NNPS	Cardinals-e
 blew	blew	blow	VBD	blow-v
@@ -365,6 +380,7 @@ Wilks	Wilks	Wilks	NNP	Wilks-e
 a	a	a	DT	a-d
 one-and-done	one-and-done	one-and-done	JJ	one-and-done-j
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -380,6 +396,7 @@ including	including	include	VBG	include-v
 with	with	with	IN	with-i
 Keim	Keim	Keim	NNP	Keim-e
 .	.	.	.	.-x
+
 Rosen	Rosen	Rosen	NNP	Rosen-e
 is	is	be	VBZ	be-v
 n't	n't	not	RB	not-r
@@ -390,6 +407,7 @@ should	should	should	MD	should-v
 he	he	he	PRP	he-p
 be	be	be	VB	be-v
 .	.	.	.	.-x
+
 Quite	Quite	quite	RB	quite-r
 simply	simply	simply	RB	simply-r
 ,	,	,	,	,-x
@@ -421,6 +439,7 @@ developing	developing	develop	VBG	develop-v
 to	to	to	TO	to-t
 do	do	do	VB	do-v
 .	.	.	.	.-x
+
 Arizona	Arizona	Arizona	NNP	Arizona-e
 is	is	be	VBZ	be-v
 also	also	also	RB	also-r
@@ -451,6 +470,7 @@ athletic	athletic	athletic	JJ	athletic-j
 dynamic	dynamic	dynamic	JJ	dynamic-j
 quarterbacks	quarterbacks	quarterback	NNS	quarterback-n
 .	.	.	.	.-x
+
 Baker	Baker	Baker	NNP	Baker-e
 Mayfield	Mayfield	Mayfield	NNP	Mayfield-e
 ,	,	,	,	,-x
@@ -494,6 +514,7 @@ and	and	and	CC	and-c
 Josh	Josh	Josh	NNP	Josh-e
 Allen	Allen	Allen	NNP	Allen-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 given	given	give	VBN	give-v
 the	the	the	DT	the-d
@@ -541,6 +562,7 @@ ideal	ideal	ideal	JJ	ideal-j
 size	size	size	NN	size-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 Browns	Browns	brown	NNS	brown-n
 '	'	'	POS	'-p
@@ -579,12 +601,14 @@ Mayfield	Mayfield	Mayfield	NNP	Mayfield-e
 could	could	could	MD	could-v
 do	do	do	VB	do-v
 vs.	vs.	vs.	CC	vs.-c
+
 Rosen	Rosen	Rosen	NNP	Rosen-e
 ,	,	,	,	,-x
 Darnold	Darnold	Darnold	NNP	Darnold-e
 and	and	and	CC	and-c
 Allen	Allen	Allen	NNP	Allen-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Cardinals	Cardinals	Cardinals	NNPS	Cardinals-e
 '	'	'	POS	'-p
@@ -592,6 +616,7 @@ situation	situation	situation	NN	situation-n
 is	is	be	VBZ	be-v
 different	different	different	JJ	different-j
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 just	just	just	RB	just-r
@@ -619,6 +644,7 @@ Murray	Murray	Murray	NNP	Murray-e
 can	can	can	MD	can-v
 provide	provide	provide	VB	provide-v
 .	.	.	.	.-x
+
 From	From	from	IN	from-i
 Arizona	Arizona	Arizona	NNP	Arizona-e
 's	's	's	POS	's-p
@@ -637,6 +663,7 @@ upgrade	upgrade	upgrade	NN	upgrade-n
 over	over	over	IN	over-i
 Rosen	Rosen	Rosen	NNP	Rosen-e
 .	.	.	.	.-x
+
 MORE	MORE	more	JJR	more-j
 :	:	:	:	:-x
 Murray	Murray	Murray	NNP	Murray-e
@@ -646,6 +673,7 @@ source	source	source	NN	source-n
 of	of	of	IN	of-i
 Twitter	Twitter	Twitter	NNP	Twitter-e
 sarcasm	sarcasm	sarcasm	NN	sarcasm-n
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 obvious	obvious	obvious	JJ	obvious-j
@@ -672,6 +700,7 @@ the	the	the	DT	the-d
 same	same	same	JJ	same-j
 building	building	building	NN	building-n
 .	.	.	.	.-x
+
 Who	Who	who	WP	who-p
 would	would	would	MD	would-v
 help	help	help	VB	help-v
@@ -708,6 +737,7 @@ their	their	they	PRP$	they-p
 way	way	way	NN	way-n
 back	back	back	RB	back-r
 ?	?	?	.	?-x
+
 Nick	Nick	Nick	NNP	Nick-e
 Bosa	Bosa	Bosa	NNP	Bosa-e
 is	is	be	VBZ	be-v
@@ -732,6 +762,7 @@ become	become	become	VB	become-v
 a	a	a	DT	a-d
 contender	contender	contender	NN	contender-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 also	also	also	RB	also-r
@@ -772,6 +803,7 @@ first-round	first-round	first-round	JJ	first-round-j
 QB	QB	qb	NN	qb-n
 contracts	contracts	contract	NNS	contract-n
 .	.	.	.	.-x
+
 What	What	what	WDT	what-d
 Mayfield	Mayfield	Mayfield	NNP	Mayfield-e
 did	did	do	VBD	do-v
@@ -806,6 +838,7 @@ a	a	a	DT	a-d
 perfect	perfect	perfect	JJ	perfect-j
 storm	storm	storm	NN	storm-n
 .	.	.	.	.-x
+
 Sometimes	Sometimes	sometimes	RB	sometimes-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -822,6 +855,7 @@ a	a	a	DT	a-d
 poker	poker	poker	NN	poker-n
 face	face	face	NN	face-n
 .	.	.	.	.-x
+
 Consider	Consider	consider	VB	consider-v
 the	the	the	DT	the-d
 Cardinals	Cardinals	Cardinals	NNPS	Cardinals-e
@@ -835,3 +869,4 @@ on	on	on	IN	on-i
 each	each	each	DT	each-d
 other	other	other	JJ	other-j
 .	.	.	.	.-x
+

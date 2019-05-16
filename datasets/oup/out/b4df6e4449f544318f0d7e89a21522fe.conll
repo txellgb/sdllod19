@@ -16,6 +16,7 @@ Racing	Racing	race	VBG	race-v
 Stayers	Stayers	stayer	NNS	stayer-n
 '	'	'	POS	'-p
 crown	crown	crown	NN	crown-n
+
 FAUGHEEN	FAUGHEEN	FAUGHEEN	NNP	FAUGHEEN-e
 is	is	be	VBZ	be-v
 once	once	once	RB	once-r
@@ -54,6 +55,7 @@ week	week	week	NN	week-n
 on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 many	many	many	JJ	many-j
 ways	ways	way	NNS	way-n
@@ -81,6 +83,7 @@ at	at	at	IN	at-i
 Cheltenham	Cheltenham	Cheltenham	NNP	Cheltenham-e
 before	before	before	IN	before-i
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 Sport	Sport	Sport	NNP	Sport-e
@@ -99,6 +102,7 @@ made	made	make	VBN	make-v
 for	for	for	IN	for-i
 dreaming	dreaming	dream	VBG	dream-v
 .	.	.	.	.-x
+
 Faugheen	Faugheen	Faugheen	NNP	Faugheen-e
 is	is	be	VBZ	be-v
 one	one	one	CD	one-f
@@ -115,11 +119,13 @@ jump	jump	jump	NN	jump-n
 an	an	a	DT	a-d
 obstacle	obstacle	obstacle	NN	obstacle-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 all	all	all	DT	all-d
 man	man	man	NN	man-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 like	like	like	IN	like-i
 many	many	many	JJ	many-j
@@ -140,6 +146,7 @@ had	had	have	VBD	have-v
 his	his	he	PRP$	he-p
 issues	issues	issue	NNS	issue-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 have	have	have	VBP	have-v
 still	still	still	RB	still-r
@@ -160,6 +167,7 @@ enough	enough	enough	JJ	enough-j
 is	is	be	VBZ	be-v
 enough	enough	enough	RB	enough-r
 .	.	.	.	.-x
+
 Trained	Trained	train	VBN	train-v
 by	by	by	IN	by-i
 Ireland	Ireland	Ireland	NNP	Ireland-e
@@ -175,6 +183,7 @@ eleven	eleven	eleven	NNS	eleven-n
 years	years	year	NNS	year-n
 old	old	old	JJ	old-j
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 he	he	he	PRP	he-p
 's	's	be	VBZ	be-v
@@ -192,6 +201,7 @@ and	and	and	CC	and-c
 fourteen	fourteen	fourteen	CD	fourteen-f
 wins	wins	win	NNS	win-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 also	also	also	RB	also-r
@@ -200,6 +210,7 @@ the	the	the	DT	the-d
 odd	odd	odd	JJ	odd-j
 knockout	knockout	knockout	NN	knockout-n
 .	.	.	.	.-x
+
 Class-wise	Class-wise	class-wise	JJ	class-wise-j
 ,	,	,	,	,-x
 however	however	however	RB	however-r
@@ -218,6 +229,7 @@ Racing	Racing	race	VBG	race-v
 big	big	big	JJ	big-j
 event	event	event	NN	event-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 was	was	be	VBD	be-v
 lucky	lucky	lucky	JJ	lucky-j
@@ -254,6 +266,7 @@ other	other	other	JJ	other-j
 with	with	with	IN	with-i
 confidence	confidence	confidence	NN	confidence-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 there	there	there	EX	there-r
 is	is	be	VBZ	be-v
@@ -263,6 +276,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 confident	confident	confident	JJ	confident-j
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 last	last	last	JJ	last-j
 seen	seen	see	VBN	see-v
@@ -286,6 +300,7 @@ Hurdle	Hurdle	hurdle	NN	hurdle-n
 at	at	at	IN	at-i
 Leopardstown	Leopardstown	Leopardstown	NNP	Leopardstown-e
 .	.	.	.	.-x
+
 Unfortunately	Unfortunately	unfortunately	RB	unfortunately-r
 a	a	a	DT	a-d
 few	few	few	JJ	few-j
@@ -309,6 +324,7 @@ open	open	open	JJ	open-j
 to	to	to	TO	to-t
 speculation	speculation	speculation	NN	speculation-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 am	am	be	VBP	be-v
 in	in	in	IN	in-i
@@ -332,6 +348,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 Walsh	Walsh	Walsh	NNP	Walsh-e
 ,	,	,	,	,-x
 though	though	though	RB	though-r
@@ -342,6 +359,7 @@ one	one	one	CD	one-f
 of	of	of	IN	of-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 Remember	Remember	remember	VB	remember-v
 it	it	it	PRP	it-p
 was	was	be	VBD	be-v
@@ -362,6 +380,7 @@ Penhill	Penhill	Penhill	NNP	Penhill-e
 at	at	at	IN	at-i
 Punchestown	Punchestown	Punchestown	NNP	Punchestown-e
 .	.	.	.	.-x
+
 Admittedly	Admittedly	admittedly	RB	admittedly-r
 he	he	he	PRP	he-p
 was	was	be	VBD	be-v
@@ -382,6 +401,7 @@ engine	engine	engine	NN	engine-n
 burns	burns	burn	NNS	burn-n
 bright	bright	bright	JJ	bright-j
 .	.	.	.	.-x
+
 Paisley	Paisley	Paisley	NNP	Paisley-e
 Park	Park	Park	NNP	Park-e
 will	will	will	MD	will-v
@@ -422,6 +442,7 @@ under	under	under	IN	under-i
 Aidan	Aidan	Aidan	NNP	Aidan-e
 Coleman	Coleman	Coleman	NNP	Coleman-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 he	he	he	PRP	he-p
 'll	'll	will	MD	will-v
@@ -444,6 +465,7 @@ the	the	the	DT	the-d
 front	front	front	JJ	front-j
 end	end	end	NN	end-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 between	between	between	IN	between-i
@@ -470,6 +492,7 @@ to	to	to	TO	to-t
 his	his	he	PRP$	he-p
 best	best	best	JJS	best-j
 .	.	.	.	.-x
+
 Indeed	Indeed	indeed	RB	indeed-r
 ,	,	,	,	,-x
 I	I	I	PRP	I-p
@@ -487,6 +510,7 @@ in	in	in	IN	in-i
 any	any	any	DT	any-d
 case	case	case	NN	case-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 few	few	few	JJ	few-j
 weeks	weeks	week	NNS	week-n
@@ -500,6 +524,7 @@ pretty	pretty	pretty	RB	pretty-r
 tame	tame	tame	JJ	tame-j
 contest	contest	contest	NN	contest-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 that	that	that	DT	that-d
 's	's	be	VBZ	be-v
@@ -529,6 +554,7 @@ it	it	it	PRP	it-p
 should	should	should	MD	should-v
 be	be	be	VB	be-v
 .	.	.	.	.-x
+
 Incidentally	Incidentally	incidentally	RB	incidentally-r
 ,	,	,	,	,-x
 news	news	news	NN	news-n
@@ -555,11 +581,13 @@ action	action	action	NN	action-n
 at	at	at	IN	at-i
 Cheltenham	Cheltenham	Cheltenham	NNP	Cheltenham-e
 .	.	.	.	.-x
+
 Do	Do	do	VBP	do-v
 n't	n't	not	RB	not-r
 back	back	back	VB	back-v
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
 she	she	she	PRP	she-p
@@ -573,6 +601,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -607,6 +636,7 @@ Stayers	Stayers	stayer	NNS	stayer-n
 '	'	'	POS	'-p
 crown	crown	crown	NN	crown-n
 .	.	.	.	.-x
+
 Fusil	Fusil	Fusil	NNP	Fusil-e
 Raffles	Raffles	Raffles	NNP	Raffles-e
 ,	,	,	,	,-x
@@ -638,6 +668,7 @@ all-weather	all-weather	all-weather	JJ	all-weather-j
 at	at	at	IN	at-i
 Kempton	Kempton	Kempton	NNP	Kempton-e
 .	.	.	.	.-x
+
 Thankfully	Thankfully	thankfully	RB	thankfully-r
 ,	,	,	,	,-x
 Buveur	Buveur	buveur	JJ	buveur-j
@@ -669,6 +700,7 @@ the	the	the	DT	the-d
 previous	previous	previous	JJ	previous-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Sir	Sir	Sir	NNP	Sir-e
 Erec	Erec	Erec	NNP	Erec-e
 and	and	and	CC	and-c
@@ -682,6 +714,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 week	week	week	NN	week-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 all	all	all	DT	all-d
@@ -691,6 +724,7 @@ up	up	up	RP	up-x
 to	to	to	TO	to-t
 Cheltenham	Cheltenham	Cheltenham	NNP	Cheltenham-e
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 did	did	do	VBD	do-v
 a	a	a	DT	a-d
@@ -726,6 +760,7 @@ Attheraces	Attheraces	attherace	NNS	attherace-n
 on	on	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 also	also	also	RB	also-r
@@ -744,6 +779,7 @@ much	much	much	JJ	much-j
 exciting	exciting	exciting	JJ	exciting-j
 times	times	time	NNS	time-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 constant	constant	constant	JJ	constant-j
 chatting	chatting	chat	VBG	chat-v
@@ -760,6 +796,7 @@ one	one	one	CD	one-f
 's	's	's	POS	's-p
 toes	toes	toe	NNS	toe-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 also	also	also	RB	also-r
@@ -785,6 +822,7 @@ the	the	the	DT	the-d
 end	end	end	NN	end-n
 date	date	date	NN	date-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 some	some	some	DT	some-d
 of	of	of	IN	of-i
@@ -806,6 +844,7 @@ was	was	be	VBD	be-v
 13st	13st	13st	CD	13st-f
 5lb	5lb	5lb	JJ	5lb-j
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 have	have	have	VBP	have-v
 a	a	a	DT	a-d
@@ -831,6 +870,7 @@ than	than	than	IN	than-i
 super	super	super	JJ	super-j
 fit	fit	fit	NN	fit-n
 !	!	!	.	!-x
+
 Let	Let	let	VB	let-v
 's	's	's	PRP	's-p
 just	just	just	RB	just-r
@@ -850,6 +890,7 @@ week	week	week	NN	week-n
 on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 Everyone	Everyone	everyone	NN	everyone-n
 wants	wants	want	VBZ	want-v
 the	the	the	DT	the-d
@@ -859,3 +900,4 @@ full	full	full	JJ	full-j
 working	working	work	VBG	work-v
 order	order	order	NN	order-n
 .	.	.	.	.-x
+

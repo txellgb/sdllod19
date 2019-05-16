@@ -19,6 +19,7 @@ says	says	say	VBZ	say-v
 Sukanya	Sukanya	Sukanya	NNP	Sukanya-e
 Verma	Verma	Verma	NNP	Verma-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 small	small	small	JJ	small-j
 town	town	town	NN	town-n
@@ -26,11 +27,13 @@ in	in	in	IN	in-i
 North	North	North	NNP	North-e
 India	India	India	NNP	India-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 whimsical	whimsical	whimsical	JJ	whimsical-j
 joint	joint	joint	NN	joint-n
 family	family	family	NN	family-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 ballsy	ballsy	ballsy	JJ	ballsy-j
 girl	girl	girl	NN	girl-n
@@ -39,6 +42,7 @@ a	a	a	DT	a-d
 boyish	boyish	boyish	JJ	boyish-j
 boy	boy	boy	NN	boy-n
 .	.	.	.	.-x
+
 Actors	Actors	actor	NNS	actor-n
 who	who	who	WP	who-p
 've	've	have	VBP	have-v
@@ -48,6 +52,7 @@ in	in	in	IN	in-i
 such	such	such	JJ	such-j
 movies	movies	movie	NNS	movie-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 cool	cool	cool	JJ	cool-j
 concept	concept	concept	NN	concept-n
@@ -57,6 +62,7 @@ to	to	to	TO	to-t
 crow	crow	crow	NN	crow-n
 about	about	about	RB	about-r
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 social	social	social	JJ	social-j
 obstacle	obstacle	obstacle	NN	obstacle-n
@@ -72,12 +78,14 @@ Squad	Squad	Squad	NNP	Squad-e
 to	to	to	TO	to-t
 sermonise	sermonise	sermonise	VB	sermonise-v
 .	.	.	.	.-x
+
 Old	Old	Old	NNP	Old-e
 Bollywood	Bollywood	Bollywood	NNP	Bollywood-e
 songs	songs	song	NNS	song-n
 recycled	recycled	recycled	JJ	recycled-j
 anew	anew	anew	RB	anew-r
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 like	like	like	IN	like-i
@@ -115,6 +123,7 @@ make	make	make	VB	make-v
 a	a	a	DT	a-d
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 Seems	Seems	seem	VBZ	seem-v
 like	like	like	IN	like-i
 in	in	in	IN	in-i
@@ -144,6 +153,7 @@ iota	iota	iota	NN	iota-n
 of	of	of	IN	of-i
 personality	personality	personality	NN	personality-n
 .	.	.	.	.-x
+
 Luka	Luka	Luka	NNP	Luka-e
 Chuppi	Chuppi	Chuppi	NNP	Chuppi-e
 is	is	be	VBZ	be-v
@@ -153,6 +163,7 @@ at	at	at	IN	at-i
 its	its	its	PRP$	its-p
 lamest	lamest	lamest	JJS	lamest-j
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 a	a	a	DT	a-d
 fictional	fictional	fictional	JJ	fictional-j
@@ -197,6 +208,7 @@ burning	burning	burn	VBG	burn-v
 his	his	he	PRP$	he-p
 effigies	effigies	effigy	NNS	effigy-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 point	point	point	NN	point-n
 behind	behind	behind	IN	behind-i
@@ -228,6 +240,7 @@ squeamish	squeamish	squeamish	JJ	squeamish-j
 social	social	social	JJ	social-j
 setup	setup	setup	NN	setup-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Guddu	Guddu	Guddu	NNP	Guddu-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
@@ -271,6 +284,7 @@ workplace	workplace	workplace	NN	workplace-n
 sparks	sparks	spark	VBZ	spark-v
 fly	fly	fly	NN	fly-n
 .	.	.	.	.-x
+
 Half	Half	half	NN	half-n
 of	of	of	IN	of-i
 Luka	Luka	Luka	NNP	Luka-e
@@ -302,6 +316,7 @@ touring	touring	tour	VBG	tour-v
 the	the	the	DT	the-d
 cities	cities	city	NNS	city-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 proposes	proposes	propose	VBZ	propose-v
 marriage	marriage	marriage	NN	marriage-n
@@ -310,6 +325,7 @@ she	she	she	PRP	she-p
 recommends	recommends	recommend	VBZ	recommend-v
 live-in	live-in	live-in	NN	live-in-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 reasons	reasons	reason	NNS	reason-n
 for	for	for	IN	for-i
@@ -340,6 +356,7 @@ disregards	disregards	disregard	VBZ	disregard-v
 and	and	and	CC	and-c
 proceeds	proceeds	proceed	VBZ	proceed-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 funny	funny	funny	JJ	funny-j
@@ -369,6 +386,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 when	when	when	WRB	when-r
 it	it	it	PRP	it-p
@@ -388,6 +406,7 @@ it	it	it	PRP	it-p
 to	to	to	TO	to-t
 zilch	zilch	zilch	NN	zilch-n
 .	.	.	.	.-x
+
 Keeping	Keeping	keep	VBG	keep-v
 with	with	with	IN	with-i
 Bollywood	Bollywood	Bollywood	NNP	Bollywood-e
@@ -434,6 +453,7 @@ wedding	wedding	wedding	NN	wedding-n
 album	album	album	NN	album-n
 away	away	away	RB	away-r
 .	.	.	.	.-x
+
 Luka	Luka	Luka	NNP	Luka-e
 Chuppi	Chuppi	Chuppi	NNP	Chuppi-e
 is	is	be	VBZ	be-v
@@ -450,6 +470,7 @@ was	was	be	VBD	be-v
 about	about	about	IN	about-i
 pigeons	pigeons	pigeon	NNS	pigeon-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 charade	charade	charade	NN	charade-n
 continues	continues	continue	VBZ	continue-v
@@ -466,6 +487,7 @@ marriage	marriage	marriage	NN	marriage-n
 as	as	as	IN	as-i
 true	true	true	JJ	true-j
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 vain	vain	vain	JJ	vain-j
 ,	,	,	,	,-x
@@ -494,6 +516,7 @@ not	not	not	RB	not-r
 yet	yet	yet	RB	yet-r
 married	married	marry	VBN	marry-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 so	so	so	RB	so-r
 confusion	confusion	confusion	NN	confusion-n
@@ -519,6 +542,7 @@ this	this	this	DT	this-d
 bird-brained	bird-brained	bird-brained	JJ	bird-brained-j
 baloney	baloney	baloney	NN	baloney-n
 .	.	.	.	.-x
+
 Forced	Forced	force	VBN	force-v
 scenes	scenes	scene	NNS	scene-n
 of	of	of	IN	of-i
@@ -534,6 +558,7 @@ like	like	like	IN	like-i
 a	a	a	DT	a-d
 cad	cad	cad	NN	cad-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 Rashmi	Rashmi	Rashmi	NNP	Rashmi-e
 's	's	's	POS	's-p
@@ -559,6 +584,7 @@ sindoor	sindoor	sindoor	NN	sindoor-n
 and	and	and	CC	and-c
 mangalsutra	mangalsutra	mangalsutra	NN	mangalsutra-n
 .	.	.	.	.-x
+
 Luka	Luka	Luka	NNP	Luka-e
 Chuppi	Chuppi	Chuppi	NNP	Chuppi-e
 perpetuates	perpetuates	perpetuate	VBZ	perpetuate-v
@@ -580,6 +606,7 @@ charade	charade	charade	NN	charade-n
 of	of	of	IN	of-i
 progressivism	progressivism	progressivism	NN	progressivism-n
 .	.	.	.	.-x
+
 Guddu	Guddu	Guddu	NNP	Guddu-e
 's	's	's	POS	's-p
 mother	mother	mother	NN	mother-n
@@ -601,6 +628,7 @@ played	played	play	VBN	play-v
 for	for	for	IN	for-i
 laughs	laughs	laugh	NNS	laugh-n
 .	.	.	.	.-x
+
 Rashmi	Rashmi	Rashmi	NNP	Rashmi-e
 forgets	forgets	forget	VBZ	forget-v
 about	about	about	IN	about-i
@@ -622,6 +650,7 @@ film	film	film	NN	film-n
 heroines	heroines	heroine	NNS	heroine-n
 do	do	do	VBP	do-v
 .	.	.	.	.-x
+
 Kriti	Kriti	Kriti	NNP	Kriti-e
 Sanon	Sanon	Sanon	NNP	Sanon-e
 has	has	have	VBZ	have-v
@@ -630,6 +659,7 @@ charm	charm	charm	NN	charm-n
 and	and	and	CC	and-c
 style	style	style	NN	style-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 her	her	she	PRP$	she-p
 dependence	dependence	dependence	NN	dependence-n
@@ -644,6 +674,7 @@ a	a	a	DT	a-d
 wonky	wonky	wonky	JJ	wonky-j
 character	character	character	NN	character-n
 .	.	.	.	.-x
+
 Though	Though	though	IN	though-i
 Kartik	Kartik	Kartik	NNP	Kartik-e
 Aaryan	Aaryan	Aaryan	NNP	Aaryan-e
@@ -671,6 +702,7 @@ boy	boy	boy	NN	boy-n
 next	next	next	JJ	next-j
 door	door	door	NN	door-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 a	a	a	DT	a-d
 better-written	better-written	better-written	JJ	better-written-j
@@ -683,6 +715,7 @@ a	a	a	DT	a-d
 difference	difference	difference	NN	difference-n
 too	too	too	RB	too-r
 .	.	.	.	.-x
+
 Instead	Instead	instead	RB	instead-r
 ,	,	,	,	,-x
 you	you	you	PRP	you-p
@@ -724,6 +757,7 @@ a	a	a	DT	a-d
 raunchy	raunchy	raunchy	JJ	raunchy-j
 parakeet	parakeet	parakeet	NN	parakeet-n
 .	.	.	.	.-x
+
 Between	Between	between	IN	between-i
 not	not	not	RB	not-r
 taking	taking	take	VBG	take-v
@@ -756,3 +790,4 @@ needs	needs	need	VBZ	need-v
 to	to	to	TO	to-t
 look	look	look	VB	look-v
 .	.	.	.	.-x
+

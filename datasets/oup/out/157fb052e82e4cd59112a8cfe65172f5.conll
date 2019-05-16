@@ -88,6 +88,7 @@ playoffs	playoffs	playoff	NNS	playoff-n
 in	in	in	IN	in-i
 2018-19	2018-19	2018-19	CD	2018-19-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Bucks	Bucks	buck	NNS	buck-n
 locked	locked	lock	VBN	lock-v
@@ -108,6 +109,7 @@ over	over	over	IN	over-i
 the	the	the	DT	the-d
 Lakers	Lakers	Lakers	NNPS	Lakers-e
 .	.	.	.	.-x
+
 Eric	Eric	Eric	NNP	Eric-e
 Bledsoe	Bledsoe	Bledsoe	NNP	Bledsoe-e
 ,	,	,	,	,-x
@@ -140,6 +142,7 @@ and	and	and	CC	and-c
 five	five	five	CD	five-f
 assists	assists	assist	VBZ	assist-v
 .	.	.	.	.-x
+
 Giannis	Giannis	Giannis	NNP	Giannis-e
 Antetokounmpo	Antetokounmpo	Antetokounmpo	NNP	Antetokounmpo-e
 did	did	do	VBD	do-v
@@ -170,6 +173,7 @@ a	a	a	DT	a-d
 bit	bit	bit	NN	bit-n
 better	better	better	RBR	better-r
 .	.	.	.	.-x
+
 LeBron	LeBron	LeBron	NNP	LeBron-e
 James	James	James	NNP	James-e
 scored	scored	score	VBD	score-v
@@ -185,6 +189,7 @@ of	of	of	IN	of-i
 his	his	he	PRP$	he-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Bucks	Bucks	buck	NNS	buck-n
 are	are	be	VBP	be-v
@@ -206,6 +211,7 @@ the	the	the	DT	the-d
 Eastern	Eastern	Eastern	NNP	Eastern-e
 Conference	Conference	Conference	NNP	Conference-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Lakers	Lakers	Lakers	NNPS	Lakers-e
 are	are	be	VBP	be-v
@@ -231,6 +237,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 West	West	West	NNP	West-e
 .	.	.	.	.-x
+
 Trae	Trae	Trae	NNP	Trae-e
 Young	Young	Young	NNP	Young-e
 scored	scored	score	VBD	score-v
@@ -254,6 +261,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 Bulls	Bulls	Bulls	NNPS	Bulls-e
 .	.	.	.	.-x
+
 Zach	Zach	Zach	NNP	Zach-e
 LaVine	LaVine	LaVine	NNP	LaVine-e
 scored	scored	score	VBD	score-v
@@ -268,6 +276,7 @@ assists	assists	assist	VBZ	assist-v
 for	for	for	IN	for-i
 Chicago	Chicago	Chicago	NNP	Chicago-e
 .	.	.	.	.-x
+
 Kawhi	Kawhi	Kawhi	NNP	Kawhi-e
 Leonard	Leonard	Leonard	NNP	Leonard-e
 scored	scored	score	VBD	score-v
@@ -284,6 +293,7 @@ the	the	the	DT	the-d
 Trail	Trail	trail	NN	trail-n
 Blazers	Blazers	blazer	NNS	blazer-n
 .	.	.	.	.-x
+
 CJ	CJ	CJ	NNP	CJ-e
 McCollum	McCollum	McCollum	NNP	McCollum-e
 scored	scored	score	VBD	score-v
@@ -294,6 +304,7 @@ loss	loss	loss	NN	loss-n
 for	for	for	IN	for-i
 Portland	Portland	Portland	NNP	Portland-e
 .	.	.	.	.-x
+
 Trevor	Trevor	Trevor	NNP	Trevor-e
 Ariza	Ariza	Ariza	NNP	Ariza-e
 scored	scored	score	VBD	score-v
@@ -312,6 +323,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 Celtics	Celtics	Celtics	NNPS	Celtics-e
 .	.	.	.	.-x
+
 Devin	Devin	Devin	NNP	Devin-e
 Booker	Booker	Booker	NNP	Booker-e
 threw	threw	throw	VBD	throw-v
@@ -321,6 +333,7 @@ on	on	on	IN	on-i
 Anthony	Anthony	Anthony	NNP	Anthony-e
 Davis	Davis	Davis	NNP	Davis-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Pelicans	Pelicans	Pelicans	NNP	Pelicans-e
 dropped	dropped	drop	VBD	drop-v
@@ -329,6 +342,7 @@ Suns	Suns	Suns	NNPS	Suns-e
 though	though	though	IN	though-i
 130-116	130-116	130-116	CD	130-116-f
 .	.	.	.	.-x
+
 Warriors	Warriors	warrior	NNS	warrior-n
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 43-19	43-19	43-19	CD	43-19-f
@@ -364,6 +378,7 @@ dominate	dominate	dominate	VBP	dominate-v
 24-8	24-8	24-8	CD	24-8-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Warriors	Warriors	warrior	NNS	warrior-n
 are	are	be	VBP	be-v
@@ -405,3 +420,4 @@ in	in	in	IN	in-i
 Golden	Golden	Golden	NNP	Golden-e
 State	State	State	NNP	State-e
 .	.	.	.	.-x
+

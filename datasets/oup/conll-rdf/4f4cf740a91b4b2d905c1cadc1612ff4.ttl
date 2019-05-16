@@ -51,20 +51,29 @@
 :s1_43 a nif:Word; conll:WORD "build"; conll:TOKEN "build"; conll:LEMMA "build"; conll:LEMPOS "build-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_44 .
 :s1_44 a nif:Word; conll:WORD "new"; conll:TOKEN "new"; conll:LEMMA "new"; conll:LEMPOS "new-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_45 .
 :s1_45 a nif:Word; conll:WORD "ones"; conll:TOKEN "ones"; conll:LEMMA "one"; conll:LEMPOS "one-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_46 .
-:s1_46 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_47 .
-:s1_47 a nif:Word; conll:WORD "Students"; conll:TOKEN "Students"; conll:LEMMA "student"; conll:LEMPOS "student-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_48 .
-:s1_48 a nif:Word; conll:WORD "from"; conll:TOKEN "from"; conll:LEMMA "from"; conll:LEMPOS "from-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_49 .
-:s1_49 a nif:Word; conll:WORD "Warren"; conll:TOKEN "Warren"; conll:LEMMA "Warren"; conll:LEMPOS "Warren-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_50 .
-:s1_50 a nif:Word; conll:WORD "School"; conll:TOKEN "School"; conll:LEMMA "School"; conll:LEMPOS "School-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_51 .
-:s1_51 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_52 .
-:s1_52 a nif:Word; conll:WORD "James"; conll:TOKEN "James"; conll:LEMMA "James"; conll:LEMPOS "James-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_53 .
-:s1_53 a nif:Word; conll:WORD "Morris"; conll:TOKEN "Morris"; conll:LEMMA "Morris"; conll:LEMPOS "Morris-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_54 .
-:s1_54 a nif:Word; conll:WORD "School"; conll:TOKEN "School"; conll:LEMMA "School"; conll:LEMPOS "School-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_55 .
-:s1_55 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_56 .
-:s1_56 a nif:Word; conll:WORD "Morris"; conll:TOKEN "Morris"; conll:LEMMA "Morris"; conll:LEMPOS "Morris-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_57 .
-:s1_57 a nif:Word; conll:WORD "were"; conll:TOKEN "were"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_58 .
-:s1_58 a nif:Word; conll:WORD "bused"; conll:TOKEN "bused"; conll:LEMMA "bus"; conll:LEMPOS "bus-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_59 .
-:s1_59 a nif:Word; conll:WORD "["; conll:TOKEN "-LSB-"; conll:LEMMA "-lsb-"; conll:LEMPOS "-lsb--x"; conll:HEAD :s1_0; conll:POS "-LRB-"; nif:nextWord :s1_60 .
-:s1_60 a nif:Word; conll:WORD "..."; conll:TOKEN "..."; conll:LEMMA "..."; conll:LEMPOS "...-x"; conll:HEAD :s1_0; conll:POS ":"; nif:nextWord :s1_61 .
-:s1_61 a nif:Word; conll:WORD "]"; conll:TOKEN "-RSB-"; conll:LEMMA "-rsb-"; conll:LEMPOS "-rsb--x"; conll:HEAD :s1_0; conll:POS "-RRB-" .
+:s1_46 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/4f4cf740a91b4b2d905c1cadc1612ff4#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s1_0 nif:nextSentence :s2_0 .
+:s2_0 a nif:Sentence .
+:s2_1 a nif:Word; conll:WORD "Students"; conll:TOKEN "Students"; conll:LEMMA "student"; conll:LEMPOS "student-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_2 .
+:s2_2 a nif:Word; conll:WORD "from"; conll:TOKEN "from"; conll:LEMMA "from"; conll:LEMPOS "from-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_3 .
+:s2_3 a nif:Word; conll:WORD "Warren"; conll:TOKEN "Warren"; conll:LEMMA "Warren"; conll:LEMPOS "Warren-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_4 .
+:s2_4 a nif:Word; conll:WORD "School"; conll:TOKEN "School"; conll:LEMMA "School"; conll:LEMPOS "School-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_5 .
+:s2_5 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s2_0; conll:POS "CC"; nif:nextWord :s2_6 .
+:s2_6 a nif:Word; conll:WORD "James"; conll:TOKEN "James"; conll:LEMMA "James"; conll:LEMPOS "James-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_7 .
+:s2_7 a nif:Word; conll:WORD "Morris"; conll:TOKEN "Morris"; conll:LEMMA "Morris"; conll:LEMPOS "Morris-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_8 .
+:s2_8 a nif:Word; conll:WORD "School"; conll:TOKEN "School"; conll:LEMMA "School"; conll:LEMPOS "School-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_9 .
+:s2_9 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_10 .
+:s2_10 a nif:Word; conll:WORD "Morris"; conll:TOKEN "Morris"; conll:LEMMA "Morris"; conll:LEMPOS "Morris-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_11 .
+:s2_11 a nif:Word; conll:WORD "were"; conll:TOKEN "were"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s2_0; conll:POS "VBD"; nif:nextWord :s2_12 .
+:s2_12 a nif:Word; conll:WORD "bused"; conll:TOKEN "bused"; conll:LEMMA "bus"; conll:LEMPOS "bus-v"; conll:HEAD :s2_0; conll:POS "VBN"; nif:nextWord :s2_13 .
+:s2_13 a nif:Word; conll:WORD "["; conll:TOKEN "-LSB-"; conll:LEMMA "-lsb-"; conll:LEMPOS "-lsb--x"; conll:HEAD :s2_0; conll:POS "-LRB-"; nif:nextWord :s2_14 .
+:s2_14 a nif:Word; conll:WORD "..."; conll:TOKEN "..."; conll:LEMMA "..."; conll:LEMPOS "...-x"; conll:HEAD :s2_0; conll:POS ":"; nif:nextWord :s2_15 .
+:s2_15 a nif:Word; conll:WORD "]"; conll:TOKEN "-RSB-"; conll:LEMMA "-rsb-"; conll:LEMPOS "-rsb--x"; conll:HEAD :s2_0; conll:POS "-RRB-" .
 

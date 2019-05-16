@@ -8,6 +8,7 @@ a	a	a	DT	a-d
 rail	rail	rail	NN	rail-n
 track	track	track	NN	track-n
 .	.	.	.	.-x
+
 Redento	Redento	Redento	NNP	Redento-e
 Recio	Recio	Recio	NNP	Recio-e
 ,	,	,	,	,-x
@@ -23,6 +24,7 @@ Recio	Recio	Recio	NNP	Recio-e
 ,	,	,	,	,-x
 Author	Author	author	NN	author-n
 provided	provided	provide	VBD	provide-v
+
 Many	Many	many	JJ	many-j
 vendors	vendors	vendor	NNS	vendor-n
 borrow	borrow	borrow	VBP	borrow-v
@@ -37,6 +39,7 @@ supply	supply	supply	NN	supply-n
 of	of	of	IN	of-i
 stock	stock	stock	NN	stock-n
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 vendors	vendors	vendor	NNS	vendor-n
 rent	rent	rent	VB	rent-v
@@ -53,3 +56,4 @@ with	with	with	IN	with-i
 financial	financial	financial	JJ	financial-j
 distress	distress	distress	NN	distress-n
 .	.	.	.	.-x
+

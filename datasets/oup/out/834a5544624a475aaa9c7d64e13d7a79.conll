@@ -89,6 +89,7 @@ National	National	national	JJ	national-j
 Assembly	Assembly	assembly	NN	assembly-n
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+
 Apparently	Apparently	apparently	RB	apparently-r
 in	in	in	IN	in-i
 a	a	a	DT	a-d
@@ -121,6 +122,7 @@ broadcast	broadcast	broadcast	NN	broadcast-n
 on	on	on	IN	on-i
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 broadcast	broadcast	broadcast	NN	broadcast-n
 is	is	be	VBZ	be-v
@@ -150,6 +152,7 @@ Fm	Fm	Fm	NNP	Fm-e
 ,	,	,	,	,-x
 Akure	Akure	Akure	NNP	Akure-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 state	state	state	NN	state-n
 broacast	broacast	broacast	NN	broacast-n
@@ -163,6 +166,7 @@ it	it	it	PRP	it-p
 was	was	be	VBD	be-v
 gathered	gathered	gather	VBN	gather-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Do	Do	do	VBP	do-v
 n't	n't	not	RB	not-r
@@ -171,6 +175,7 @@ the	the	the	DT	the-d
 white-bearded	white-bearded	white-bearded	JJ	white-bearded-j
 man	man	man	NN	man-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 idea	idea	idea	NN	idea-n
 was	was	be	VBD	be-v
@@ -206,6 +211,7 @@ his	his	he	PRP$	he-p
 government	government	government	NN	government-n
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 obvious	obvious	obvious	JJ	obvious-j
@@ -218,6 +224,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 people	people	people	NNS	people-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 worked	worked	work	VBD	work-v
 against	against	against	IN	against-i
@@ -235,6 +242,7 @@ vote	vote	vote	VB	vote-v
 for	for	for	IN	for-i
 AA	AA	aa	NN	aa-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 ,	,	,	,	,-x
 I	I	I	PRP	I-p
@@ -247,6 +255,7 @@ the	the	the	DT	the-d
 state	state	state	NN	state-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 A	A	a	DT	a-d
 copy	copy	copy	NN	copy-n
 of	of	of	IN	of-i
@@ -296,6 +305,7 @@ his	his	he	PRP$	he-p
 vision	vision	vision	NN	vision-n
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 Already	Already	already	RB	already-r
 ,	,	,	,	,-x
 Akeredolu	Akeredolu	Akeredolu	NNP	Akeredolu-e
@@ -317,6 +327,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 APC	APC	apc	NN	apc-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Governor	Governor	governor	NN	governor-n
 is	is	be	VBZ	be-v
@@ -340,3 +351,4 @@ Centre	Centre	Centre	NNP	Centre-e
 in	in	in	IN	in-i
 Akure	Akure	Akure	NNP	Akure-e
 .	.	.	.	.-x
+

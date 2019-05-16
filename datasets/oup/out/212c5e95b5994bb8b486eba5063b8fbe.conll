@@ -31,6 +31,7 @@ People	People	people	NNS	people-n
 's	's	's	POS	's-p
 Vote	Vote	vote	NN	vote-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 MP	MP	mp	NN	mp-n
 for	for	for	IN	for-i
@@ -54,6 +55,7 @@ get	get	get	VB	get-v
 out	out	out	RP	out-x
 safely	safely	safely	RB	safely-r
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 just	just	just	RB	just-r
 need	need	need	VBP	need-v
@@ -62,6 +64,7 @@ do	do	do	VB	do-v
 the	the	the	DT	the-d
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 do	do	do	VBP	do-v
@@ -70,6 +73,7 @@ a	a	a	DT	a-d
 mood	mood	mood	NN	mood-n
 change	change	change	NN	change-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 do	do	do	VBP	do-v
 think	think	think	VB	think-v
@@ -102,12 +106,14 @@ how	how	how	WRB	how-r
 to	to	to	TO	to-t
 win	win	win	VB	win-v
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 won	won	win	VBD	win-v
 the	the	the	DT	the-d
 referendum	referendum	referendum	NN	referendum-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Brine	Brine	Brine	NNP	Brine-e
 urged	urged	urge	VBD	urge-v
@@ -123,6 +129,7 @@ EU	EU	EU	NNP	EU-e
 withdrawal	withdrawal	withdrawal	NN	withdrawal-n
 agreement	agreement	agreement	NN	agreement-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 have	have	have	VBP	have-v
@@ -145,6 +152,7 @@ act	act	act	NN	act-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Now	Now	now	RB	now-r
 it	it	it	PRP	it-p
@@ -157,6 +165,7 @@ a	a	a	DT	a-d
 withdrawal	withdrawal	withdrawal	NN	withdrawal-n
 agreement	agreement	agreement	NN	agreement-n
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 those	those	those	DT	those-d
 colleagues	colleagues	colleague	NNS	colleague-n
@@ -185,6 +194,7 @@ just	just	just	RB	just-r
 disappear	disappear	disappear	VB	disappear-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 prime	prime	prime	JJ	prime-j
 minister	minister	minister	NN	minister-n
@@ -208,6 +218,7 @@ voting	voting	vote	VBG	vote-v
 against	against	against	IN	against-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Since	Since	since	IN	since-i
 then	then	then	RB	then-r
 Mrs	Mrs	Mrs	NNP	Mrs-e
@@ -231,6 +242,7 @@ an	an	a	DT	a-d
 altered	altered	altered	JJ	altered-j
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 European	European	european	JJ	european-j
 Commission	Commission	Commission	NNP	Commission-e
@@ -246,6 +258,7 @@ not	not	not	RB	not-r
 be	be	be	VB	be-v
 reopened	reopened	reopen	VBN	reopen-v
 .	.	.	.	.-x
+
 Speaking	Speaking	speak	VBG	speak-v
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -275,3 +288,4 @@ be	be	be	VB	be-v
 reopened	reopened	reopen	VBN	reopen-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+

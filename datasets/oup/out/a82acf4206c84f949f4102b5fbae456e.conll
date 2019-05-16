@@ -28,6 +28,7 @@ opening	opening	open	VBG	open-v
 the	the	the	DT	the-d
 heart	heart	heart	NN	heart-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 procedure	procedure	procedure	NN	procedure-n
 that	that	that	WDT	that-d
@@ -49,6 +50,7 @@ the	the	the	DT	the-d
 hospital	hospital	hospital	NN	hospital-n
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 patient	patient	patient	NN	patient-n
@@ -79,6 +81,7 @@ diagnosed	diagnosed	diagnose	VBN	diagnose-v
 with	with	with	IN	with-i
 infection	infection	infection	NN	infection-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 battery	battery	battery	NN	battery-n
@@ -122,6 +125,7 @@ performed	performed	perform	VBD	perform-v
 the	the	the	DT	the-d
 extraction	extraction	extraction	NN	extraction-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 wire	wire	wire	NN	wire-n
 delivers	delivers	deliver	VBZ	deliver-v
@@ -133,6 +137,7 @@ the	the	the	DT	the-d
 heart	heart	heart	NN	heart-n
 muscle	muscle	muscle	NN	muscle-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 years	years	year	NNS	year-n
 pass	pass	pass	VBP	pass-v
@@ -166,6 +171,7 @@ removing	removing	remove	VBG	remove-v
 the	the	the	DT	the-d
 wire	wire	wire	NN	wire-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 would	would	would	MD	would-v
@@ -174,6 +180,7 @@ in	in	in	IN	in-i
 major	major	major	JJ	major-j
 bleeding	bleeding	bleeding	NN	bleeding-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 some	some	some	DT	some-d
 cases	cases	case	NNS	case-n
@@ -192,6 +199,7 @@ save	save	save	VB	save-v
 the	the	the	DT	the-d
 patient	patient	patient	NN	patient-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 manual	manual	manual	JJ	manual-j
 extraction	extraction	extraction	NN	extraction-n
@@ -211,6 +219,7 @@ within	within	within	IN	within-i
 45	45	45	CD	45-f
 minutes	minutes	minute	NNS	minute-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
 done	done	do	VBN	do-v
@@ -231,6 +240,7 @@ surgeon	surgeon	surgeon	NN	surgeon-n
 Jesuraj	Jesuraj	Jesuraj	NNP	Jesuraj-e
 explained	explained	explain	VBD	explain-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 As	As	as	IN	as-i
 per	per	per	IN	per-i
@@ -249,6 +259,7 @@ during	during	during	IN	during-i
 pacemaker	pacemaker	pacemaker	NN	pacemaker-n
 surgeries	surgeries	surgery	NNS	surgery-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 there	there	there	EX	there-r
 are	are	be	VBP	be-v
@@ -258,6 +269,7 @@ of	of	of	IN	of-i
 %	%	%	NN	%-n
 infection	infection	infection	NN	infection-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 they	they	they	PRP	they-p
 are	are	be	VBP	be-v
@@ -274,6 +286,7 @@ removing	removing	remove	VBG	remove-v
 the	the	the	DT	the-d
 lead	lead	lead	NN	lead-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 number	number	number	NN	number-n
 of	of	of	IN	of-i
@@ -287,6 +300,7 @@ country	country	country	NN	country-n
 off	off	off	RB	off-r
 late	late	late	RB	late-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 country	country	country	NN	country-n
 hardly	hardly	hardly	RB	hardly-r
@@ -302,3 +316,4 @@ extraction	extraction	extraction	NN	extraction-n
 he	he	he	PRP	he-p
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+

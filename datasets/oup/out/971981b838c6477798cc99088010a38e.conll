@@ -19,6 +19,7 @@ her	her	she	PRP$	she-p
 cataract	cataract	cataract	NN	cataract-n
 surgery	surgery	surgery	NN	surgery-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 DAO	DAO	DAO	NNP	DAO-e
 WEMXUE	WEMXUE	WEMXUE	NNP	WEMXUE-e
@@ -27,6 +28,7 @@ FOR	FOR	for	IN	for-i
 CHINA	CHINA	CHINA	NNP	CHINA-e
 DAILY	DAILY	DAILY	NNP	DAILY-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 ALSO	ALSO	ALSO	NNP	ALSO-e
 READ	READ	READ	NNP	READ-e
 :	:	:	:	:-x
@@ -39,6 +41,7 @@ nation	nation	nation	NN	nation-n
 's	's	's	POS	's-p
 private	private	private	JJ	private-j
 hospitals	hospitals	hospital	NNS	hospital-n
+
 Guangdong	Guangdong	Guangdong	NNP	Guangdong-e
 province-based	province-based	province-based	JJ	province-based-j
 Askci	Askci	Askci	NNP	Askci-e
@@ -91,6 +94,7 @@ be	be	be	VB	be-v
 13	13	13	CD	13-f
 percent	percent	percent	NN	percent-n
 .	.	.	.	.-x
+
 Supportive	Supportive	supportive	JJ	supportive-j
 government	government	government	NN	government-n
 policies	policies	policy	NNS	policy-n
@@ -128,6 +132,7 @@ eye	eye	eye	NN	eye-n
 care	care	care	NN	care-n
 in	in	in	IN	in-i
 China	China	China	NNP	China-e
+
 Zhang	Zhang	Zhang	NNP	Zhang-e
 Haozhi	Haozhi	Haozhi	NNP	Haozhi-e
 ,	,	,	,	,-x
@@ -139,3 +144,4 @@ Hospital	Hospital	Hospital	NNP	Hospital-e
 Group	Group	Group	NNP	Group-e
 Co	Co	Co	NNP	Co-e
 Ltd	Ltd	Ltd	NNP	Ltd-e
+

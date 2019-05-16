@@ -45,6 +45,7 @@ its	its	its	PRP$	its-p
 financial	financial	financial	JJ	financial-j
 performance	performance	performance	NN	performance-n
 .	.	.	.	.-x
+
 Fast-growing	Fast-growing	fast-growing	JJ	fast-growing-j
 but	but	but	CC	but-c
 money-losing	money-losing	money-losing	JJ	money-losing-j
@@ -67,6 +68,7 @@ sources	sources	source	NNS	source-n
 have	have	have	VBP	have-v
 said	said	say	VBN	say-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 now	now	now	RB	now-r
@@ -96,6 +98,7 @@ the	the	the	DT	the-d
 ride-hailing	ride-hailing	ride-hailing	JJ	ride-hailing-j
 industry	industry	industry	NN	industry-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 220-page	220-page	220-page	JJ	220-page-j
 document	document	document	NN	document-n
@@ -115,6 +118,7 @@ but	but	but	CC	but-c
 widening	widening	widen	VBG	widen-v
 losses	losses	loss	NNS	loss-n
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 now	now	now	RB	now-r
 has	has	have	VBZ	have-v
@@ -154,6 +158,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 filing	filing	filing	NN	filing-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 company	company	company	NN	company-n
 has	has	have	VBZ	have-v
@@ -183,6 +188,7 @@ or	or	or	CC	or-c
 achieve	achieve	achieve	VB	achieve-v
 profitability	profitability	profitability	NN	profitability-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 will	will	will	MD	will-v
@@ -219,6 +225,7 @@ accounting	accounting	accounting	NN	accounting-n
 firm	firm	firm	NN	firm-n
 CohnReznick	CohnReznick	CohnReznick	NNP	CohnReznick-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Can	Can	can	MD	can-v
 you	you	you	PRP	you-p
@@ -227,6 +234,7 @@ the	the	the	DT	the-d
 growth	growth	growth	NN	growth-n
 expectations	expectations	expectation	NNS	expectation-n
 ?	?	?	.	?-x
+
 Can	Can	can	MD	can-v
 you	you	you	PRP	you-p
 continue	continue	continue	VB	continue-v
@@ -241,6 +249,7 @@ you	you	you	PRP	you-p
 been	been	be	VBN	be-v
 growing	growing	grow	VBG	grow-v
 ?	?	?	.	?-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 going	going	go	VBG	go-v
@@ -254,6 +263,7 @@ over	over	over	IN	over-i
 time	time	time	NN	time-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 's	's	's	POS	's-p
 revenue	revenue	revenue	NN	revenue-n
@@ -279,6 +289,7 @@ million	million	million	CD	million-f
 in	in	in	IN	in-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 Gross	Gross	Gross	NNP	Gross-e
 bookings	bookings	booking	NNS	booking-n
 ,	,	,	,	,-x
@@ -316,6 +327,7 @@ percent	percent	percent	NN	percent-n
 above	above	above	IN	above-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 Lyft	Lyft	Lyft	NNP	Lyft-e
 posted	posted	post	VBD	post-v
@@ -348,6 +360,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 filing	filing	filing	NN	filing-n
 .	.	.	.	.-x
+
 Losses	Losses	loss	NNS	loss-n
 could	could	could	MD	could-v
 mount	mount	mount	VB	mount-v
@@ -367,6 +380,7 @@ broader	broader	broader	JJR	broader-j
 international	international	international	JJ	international-j
 expansion	expansion	expansion	NN	expansion-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 even	even	even	RB	even-r
 now	now	now	RB	now-r
@@ -390,6 +404,7 @@ to	to	to	TO	to-t
 enlist	enlist	enlist	VB	enlist-v
 drivers	drivers	driver	NNS	driver-n
 .	.	.	.	.-x
+
 Still	Still	still	RB	still-r
 ,	,	,	,	,-x
 Lyft	Lyft	Lyft	NNP	Lyft-e
@@ -418,6 +433,7 @@ getting	getting	get	VBG	get-v
 more	more	more	RBR	more-r
 efficient	efficient	efficient	JJ	efficient-j
 .	.	.	.	.-x
+
 Uber	Uber	Uber	NNP	Uber-e
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
@@ -433,6 +449,7 @@ and	and	and	CC	and-c
 other	other	other	JJ	other-j
 expenses	expenses	expense	NNS	expense-n
 .	.	.	.	.-x
+
 Its	Its	its	PRP$	its-p
 revenue	revenue	revenue	NN	revenue-n
 for	for	for	IN	for-i
@@ -450,6 +467,7 @@ $	$	$	$	$-x
 50	50	50	CD	50-f
 billion	billion	billion	CD	billion-f
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 's	's	's	POS	's-p
 IPO	IPO	IPO	NNP	IPO-e
@@ -472,6 +490,7 @@ Financial	Financial	Financial	NNP	Financial-e
 Group	Group	Group	NNP	Group-e
 Inc	Inc.	Inc.	NNP	Inc.-e
 .	.	.	.	.-x
+
 San	San	San	NNP	San-e
 Francisco-based	Francisco-based	francisco-based	JJ	francisco-based-j
 Lyft	Lyft	Lyft	NNP	Lyft-e
@@ -501,6 +520,7 @@ public	public	public	JJ	public-j
 this	this	this	DT	this-d
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 expects	expects	expect	VBZ	expect-v
 to	to	to	TO	to-t
@@ -530,6 +550,7 @@ have	have	have	VBP	have-v
 told	told	tell	VBN	tell-v
 Reuters	Reuters	Reuters	NNP	Reuters-e
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 plans	plans	plan	VBZ	plan-v
 to	to	to	TO	to-t
@@ -557,6 +578,7 @@ early	early	early	JJ	early-j
 April	April	April	NNP	April-e
 debut	debut	debut	NN	debut-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 a	a	a	DT	a-d
 $	$	$	$	$-x
@@ -576,6 +598,7 @@ its	its	its	PRP$	its-p
 annual	annual	annual	JJ	annual-j
 revenue	revenue	revenue	NN	revenue-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 same	same	same	JJ	same-j
 multiple	multiple	multiple	JJ	multiple-j
@@ -599,6 +622,7 @@ several	several	several	JJ	several-j
 weeks	weeks	week	NNS	week-n
 out	out	out	IN	out-i
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -614,6 +638,7 @@ its	its	its	PRP$	its-p
 total	total	total	JJ	total-j
 revenue	revenue	revenue	NN	revenue-n
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 said	said	say	VBD	say-v
 that	that	that	IN	that-i
@@ -640,6 +665,7 @@ end	end	end	NN	end-n
 of	of	of	IN	of-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 company	company	company	NN	company-n
 had	had	have	VBD	have-v
@@ -661,6 +687,7 @@ cities	cities	city	NNS	city-n
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 earned	earned	earn	VBD	earn-v
 on	on	on	IN	on-i
@@ -699,6 +726,7 @@ period	period	period	NN	period-n
 in	in	in	IN	in-i
 2017	2017	2017	CD	2017-f
 .	.	.	.	.-x
+
 Lyft	Lyft	lyft	NN	lyft-n
 does	does	do	VBZ	do-v
 not	not	not	RB	not-r
@@ -719,6 +747,7 @@ and	and	and	CC	and-c
 scooter	scooter	scooter	NN	scooter-n
 renting	renting	renting	NN	renting-n
 .	.	.	.	.-x
+
 Both	Both	both	DT	both-d
 Uber	Uber	Uber	NNP	Uber-e
 and	and	and	CC	and-c
@@ -754,6 +783,7 @@ will	will	will	MD	will-v
 prove	prove	prove	VB	prove-v
 profitable	profitable	profitable	JJ	profitable-j
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 Lyft	Lyft	Lyft	NNP	Lyft-e
 's	's	's	POS	's-p
@@ -780,6 +810,7 @@ the	the	the	DT	the-d
 short	short	short	JJ	short-j
 term	term	term	NN	term-n
 .	.	.	.	.-x
+
 Revenue	Revenue	revenue	NN	revenue-n
 from	from	from	IN	from-i
 Lyft	Lyft	Lyft	NNP	Lyft-e
@@ -791,6 +822,7 @@ also	also	also	RB	also-r
 not	not	not	RB	not-r
 material	material	material	NN	material-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 company	company	company	NN	company-n
 's	's	's	POS	's-p
@@ -820,6 +852,7 @@ vote	vote	vote	NN	vote-n
 per	per	per	IN	per-i
 share	share	share	NN	share-n
 .	.	.	.	.-x
+
 Dual-class	Dual-class	dual-class	JJ	dual-class-j
 share	share	share	NN	share-n
 structures	structures	structure	NNS	structure-n
@@ -846,6 +879,7 @@ broader	broader	broader	JJR	broader-j
 governance	governance	governance	NN	governance-n
 reform	reform	reform	NN	reform-n
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 will	will	will	MD	will-v
 offer	offer	offer	VB	offer-v
@@ -881,6 +915,7 @@ relations	relations	relation	NNS	relation-n
 with	with	with	IN	with-i
 drivers	drivers	driver	NNS	driver-n
 .	.	.	.	.-x
+
 Reuters	Reuters	Reuters	NNP	Reuters-e
 reported	reported	report	VBD	report-v
 the	the	the	DT	the-d
@@ -888,6 +923,7 @@ plan	plan	plan	NN	plan-n
 on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 Lyft	Lyft	Lyft	NNP	Lyft-e
 co-founders	co-founders	co-founder	NNS	co-founder-n
 Logan	Logan	Logan	NNP	Logan-e
@@ -902,6 +938,7 @@ about	about	about	IN	about-i
 million	million	million	CD	million-f
 shares	shares	share	NNS	share-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 company	company	company	NN	company-n
 's	's	's	POS	's-p
@@ -936,6 +973,7 @@ than	than	than	IN	than-i
 percent	percent	percent	NN	percent-n
 stake	stake	stake	NN	stake-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 private	private	private	JJ	private-j
@@ -950,6 +988,7 @@ billion	billion	billion	CD	billion-f
 from	from	from	IN	from-i
 investors	investors	investor	NNS	investor-n
 .	.	.	.	.-x
+
 Other	Other	other	JJ	other-j
 top	top	top	JJ	top-j
 shareholders	shareholders	shareholder	NNS	shareholder-n
@@ -994,3 +1033,4 @@ percent	percent	percent	NN	percent-n
 of	of	of	IN	of-i
 shares	shares	share	NNS	share-n
 .	.	.	.	.-x
+

@@ -20,6 +20,7 @@ husband	husband	husband	NN	husband-n
 Prince	Prince	Prince	NNP	Prince-e
 William	William	William	NNP	William-e
 .	.	.	.	.-x
+
 Middleton	Middleton	Middleton	NNP	Middleton-e
 and	and	and	CC	and-c
 Prince	Prince	Prince	NNP	Prince-e
@@ -39,6 +40,7 @@ its	its	its	PRP$	its-p
 young	young	young	JJ	young-j
 people	people	people	NNS	people-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 couple	couple	couple	NN	couple-n
@@ -65,6 +67,7 @@ in	in	in	IN	in-i
 Northern	Northern	northern	JJ	northern-j
 Ireland	Ireland	Ireland	NNP	Ireland-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 stunning	stunning	stunning	JJ	stunning-j
 wool	wool	wool	NN	wool-n
@@ -99,6 +102,7 @@ Fall	Fall	fall	NN	fall-n
 2018	2018	2018	CD	2018-f
 collection	collection	collection	NN	collection-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Duchess	Duchess	Duchess	NNP	Duchess-e
 of	of	of	IN	of-i
@@ -134,6 +138,7 @@ the	the	the	DT	the-d
 same	same	same	JJ	same-j
 color	color	color	NN	color-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 wore	wore	wear	VBD	wear-v
 the	the	the	DT	the-d
@@ -156,6 +161,7 @@ the	the	the	DT	the-d
 royal	royal	royal	NN	royal-n
 couple	couple	couple	NN	couple-n
 .	.	.	.	.-x
+
 See	See	see	VB	see-v
 photos	photos	photo	NNS	photo-n
 of	of	of	IN	of-i
@@ -166,6 +172,7 @@ gorgeous	gorgeous	gorgeous	JJ	gorgeous-j
 look	look	look	NN	look-n
 below	below	below	IN	below-i
 !	!	!	.	!-x
+
 Catherine	Catherine	Catherine	NNP	Catherine-e
 ,	,	,	,	,-x
 Duchess	Duchess	Duchess	NNP	Duchess-e
@@ -190,6 +197,7 @@ Ballymena	Ballymena	Ballymena	NNP	Ballymena-e
 Northern	Northern	Northern	NNP	Northern-e
 Ireland	Ireland	Ireland	NNP	Ireland-e
 .	.	.	.	.-x
+
 Photos	Photos	photo	NNS	photo-n
 from	from	from	IN	from-i
 an	an	a	DT	a-d
@@ -206,6 +214,7 @@ the	the	the	DT	the-d
 Mulberry	Mulberry	mulberry	JJ	mulberry-j
 coat	coat	coat	NN	coat-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 had	had	have	VBD	have-v
 on	on	on	IN	on-i
@@ -236,6 +245,7 @@ at	at	at	IN	at-i
 Hillsborough	Hillsborough	Hillsborough	NNP	Hillsborough-e
 Castle	Castle	Castle	NNP	Castle-e
 .	.	.	.	.-x
+
 Middleton	Middleton	Middleton	NNP	Middleton-e
 and	and	and	CC	and-c
 Prince	Prince	Prince	NNP	Prince-e
@@ -267,6 +277,7 @@ more	more	more	JJR	more-j
 about	about	about	IN	about-i
 Cinemagic	Cinemagic	Cinemagic	NNP	Cinemagic-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 latter	latter	latter	JJ	latter-j
 is	is	be	VBZ	be-v
@@ -302,6 +313,7 @@ Palace	Palace	Palace	NNP	Palace-e
 press	press	press	NN	press-n
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 parents	parents	parent	NNS	parent-n
 of	of	of	IN	of-i
@@ -334,6 +346,7 @@ age	age	age	NN	age-n
 of	of	of	IN	of-i
 four	four	four	CD	four-f
 .	.	.	.	.-x
+
 Speaking	Speaking	speak	VBG	speak-v
 of	of	of	IN	of-i
 children	children	child	NNS	child-n
@@ -348,6 +361,7 @@ child	child	child	NN	child-n
 on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 have	have	have	VBP	have-v
 been	been	be	VBN	be-v
@@ -380,6 +394,7 @@ to	to	to	TO	to-t
 that	that	that	DT	that-d
 question	question	question	NN	question-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 she	she	she	PRP	she-p
 stopped	stopped	stop	VBD	stop-v
@@ -414,6 +429,7 @@ He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 gorgeous	gorgeous	gorgeous	JJ	gorgeous-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 word	word	word	NN	word-n
 "	``	``	``	``-x
@@ -430,6 +446,7 @@ contemplative	contemplative	contemplative	JJ	contemplative-j
 and	and	and	CC	and-c
 moody	moody	moody	NN	moody-n
 .	.	.	.	.-x
+
 Barr	Barr	barr	NN	barr-n
 directly	directly	directly	RB	directly-r
 asked	asked	ask	VBD	ask-v
@@ -454,6 +471,7 @@ laughed	laughed	laugh	VBD	laugh-v
 it	it	it	PRP	it-p
 off	off	off	RP	off-x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -472,6 +490,7 @@ according	according	accord	VBG	accord-v
 to	to	to	TO	to-t
 People	People	people	NNS	people-n
 .	.	.	.	.-x
+
 Kate	Kate	Kate	NNP	Kate-e
 Middleton	Middleton	Middleton	NNP	Middleton-e
 wore	wore	wear	VBD	wear-v
@@ -486,6 +505,7 @@ her	her	she	PRP$	she-p
 latest	latest	latest	JJS	latest-j
 engagement	engagement	engagement	NN	engagement-n
 .	.	.	.	.-x
+
 Pictured	Pictured	picture	VBN	picture-v
 :	:	:	:	:-x
 Catherine	Catherine	Catherine	NNP	Catherine-e
@@ -512,3 +532,4 @@ Ballymena	Ballymena	Ballymena	NNP	Ballymena-e
 Northern	Northern	Northern	NNP	Northern-e
 Ireland	Ireland	Ireland	NNP	Ireland-e
 .	.	.	.	.-x
+

@@ -20,6 +20,7 @@ violent	violent	violent	JJ	violent-j
 crimes	crimes	crime	NNS	crime-n
 increased	increased	increase	VBN	increase-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 FBI	FBI	FBI	NNP	FBI-e
 's	's	's	POS	's-p
@@ -50,6 +51,7 @@ half	half	half	NN	half-n
 of	of	of	IN	of-i
 2017	2017	2017	CD	2017-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 increase	increase	increase	NN	increase-n
 was	was	be	VBD	be-v
@@ -85,6 +87,7 @@ the	the	the	DT	the-d
 report	report	report	NN	report-n
 shows	shows	show	VBZ	show-v
 .	.	.	.	.-x
+
 All	All	all	DT	all-d
 other	other	other	JJ	other-j
 violent	violent	violent	JJ	violent-j
@@ -94,6 +97,7 @@ during	during	during	IN	during-i
 that	that	that	DT	that-d
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 Previous	Previous	previous	JJ	previous-j
 coverage	coverage	coverage	NN	coverage-n
 :	:	:	:	:-x
@@ -112,6 +116,7 @@ percent	percent	percent	NN	percent-n
 in	in	in	IN	in-i
 Lee	Lee	Lee	NNP	Lee-e
 County	County	County	NNP	County-e
+
 Robberies	Robberies	robbery	NNS	robbery-n
 are	are	be	VBP	be-v
 nearly	nearly	nearly	RB	nearly-r
@@ -137,6 +142,7 @@ according	according	accord	VBG	accord-v
 to	to	to	TO	to-t
 Master	Master	Master	NNP	Master-e
 Sgt.	Sgt.	Sgt.	NNP	Sgt.-e
+
 Alan	Alan	Alan	NNP	Alan-e
 Kolak	Kolak	Kolak	NNP	Kolak-e
 ,	,	,	,	,-x
@@ -148,6 +154,7 @@ Coral	Coral	Coral	NNP	Coral-e
 Police	Police	Police	NNP	Police-e
 Department	Department	Department	NNP	Department-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -166,6 +173,7 @@ person	person	person	NN	person-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Most	Most	most	JJS	most-j
 of	of	of	IN	of-i
 them	them	they	PRP	they-p
@@ -183,6 +191,7 @@ wrong	wrong	wrong	JJ	wrong-j
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 most	most	most	JJS	most-j
 were	were	be	VBD	be-v
@@ -216,6 +225,7 @@ case	case	case	NN	case-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 next	next	next	JJ	next-j
 highest	highest	highest	JJS	highest-j
@@ -235,6 +245,7 @@ period	period	period	NN	period-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 least	least	least	JJS	least-j
 two	two	two	CD	two-f
@@ -244,6 +255,7 @@ were	were	be	VBD	be-v
 drug	drug	drug	NN	drug-n
 related	related	related	JJ	related-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 city	city	city	NN	city-n
 ,	,	,	,	,-x
@@ -271,6 +283,7 @@ crime	crime	crime	NN	crime-n
 prevention	prevention	prevention	NN	prevention-n
 efforts	efforts	effort	NNS	effort-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 example	example	example	NN	example-n
 ,	,	,	,	,-x
@@ -304,6 +317,7 @@ of	of	of	IN	of-i
 home	home	home	NN	home-n
 burglaries	burglaries	burglary	NNS	burglary-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 One	One	one	CD	one-f
 big	big	big	JJ	big-j
@@ -329,6 +343,7 @@ community	community	community	NN	community-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 partnered	partnered	partner	VBD	partner-v
@@ -347,6 +362,7 @@ catching	catching	catch	VBG	catch-v
 offenders	offenders	offender	NNS	offender-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Property	Property	Property	NNP	Property-e
 crimes	crimes	crime	NNS	crime-n
 dropped	dropped	drop	VBD	drop-v
@@ -367,6 +383,7 @@ half	half	half	NN	half-n
 of	of	of	IN	of-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 Burglaries	Burglaries	burglary	NNS	burglary-n
 saw	saw	see	VBD	see-v
 the	the	the	DT	the-d
@@ -390,6 +407,7 @@ half	half	half	NN	half-n
 of	of	of	IN	of-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 Motor	Motor	Motor	NNP	Motor-e
 vehicle	vehicle	vehicle	NN	vehicle-n
 thefts	thefts	theft	NNS	theft-n
@@ -411,6 +429,7 @@ half	half	half	NN	half-n
 of	of	of	IN	of-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 Scott	Scott	Scott	NNP	Scott-e
 Melick	Melick	Melick	NNP	Melick-e
 ,	,	,	,	,-x
@@ -443,6 +462,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 city	city	city	NN	city-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 feel	feel	feel	VBP	feel-v
@@ -455,6 +475,7 @@ safe	safe	safe	JJ	safe-j
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 do	do	do	VBP	do-v
@@ -482,6 +503,7 @@ cars	cars	car	NNS	car-n
 unlocked	unlocked	unlock	VBD	unlock-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 business	business	business	NN	business-n
@@ -495,6 +517,7 @@ worry	worry	worry	VB	worry-v
 about	about	about	IN	about-i
 break-ins	break-ins	break-in	NNS	break-in-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -512,6 +535,7 @@ has	has	have	VBZ	have-v
 n't	n't	not	RB	not-r
 happened	happened	happen	VBN	happen-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 business	business	business	NN	business-n
 sits	sits	sit	VBZ	sit-v
@@ -528,6 +552,7 @@ well-lit	well-lit	well-lit	JJ	well-lit-j
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
@@ -548,6 +573,7 @@ in	in	in	IN	in-i
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -576,6 +602,7 @@ Cape	Cape	Cape	NNP	Cape-e
 Coral	Coral	Coral	NNP	Coral-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 More	More	more	RBR	more-r
 :	:	:	:	:-x
 Florida	Florida	Florida	NNP	Florida-e
@@ -596,3 +623,4 @@ County	County	County	NNP	County-e
 ,	,	,	,	,-x
 report	report	report	NN	report-n
 says	says	say	VBZ	say-v
+

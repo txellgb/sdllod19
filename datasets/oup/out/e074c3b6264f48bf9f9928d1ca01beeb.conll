@@ -63,6 +63,7 @@ Bryce	Bryce	Bryce	NNP	Bryce-e
 Harper	Harper	Harper	NNP	Harper-e
 derby	derby	derby	NN	derby-n
 .	.	.	.	.-x
+
 Transparency	Transparency	transparency	NN	transparency-n
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -75,6 +76,7 @@ been	been	be	VBN	be-v
 Epstein	Epstein	epstein	NN	epstein-n
 's	's	's	POS	's-p
 M.O.	M.O.	m.o.	NN	m.o.-n
+
 from	from	from	IN	from-i
 the	the	the	DT	the-d
 beginning	beginning	beginning	NN	beginning-n
@@ -127,6 +129,7 @@ team	team	team	NN	team-n
 would	would	would	MD	would-v
 contend	contend	contend	VB	contend-v
 .	.	.	.	.-x
+
 Maybe	Maybe	maybe	RB	maybe-r
 now	now	now	RB	now-r
 somebody	somebody	somebody	NN	somebody-n
@@ -138,6 +141,7 @@ president	president	president	NN	president-n
 Theo	Theo	Theo	NNP	Theo-e
 Epstein	Epstein	epstein	NN	epstein-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 even	even	even	RB	even-r
 though	though	though	IN	though-i
@@ -176,6 +180,7 @@ Side	Side	Side	NNP	Side-e
 of	of	of	IN	of-i
 Chicago	Chicago	Chicago	NNP	Chicago-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 would	would	would	MD	would-v
 have	have	have	VB	have-v
@@ -189,6 +194,7 @@ to	to	to	TO	to-t
 have	have	have	VB	have-v
 happened	happened	happen	VBN	happen-v
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 end	end	end	NN	end-n
@@ -214,10 +220,12 @@ $	$	$	$	$-x
 330	330	330	CD	330-f
 million	million	million	CD	million-f
 .	.	.	.	.-x
+
 Bully	Bully	Bully	NNP	Bully-e
 for	for	for	IN	for-i
 Harper	Harper	Harper	NNP	Harper-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Phillies	Phillies	Phillies	NNPS	Phillies-e
 have	have	have	VBP	have-v
@@ -242,6 +250,7 @@ Phillies	Phillies	Phillies	NNPS	Phillies-e
 hitter-friendly	hitter-friendly	hitter-friendly	JJ	hitter-friendly-j
 ballpark	ballpark	ballpark	NN	ballpark-n
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 presence	presence	presence	NN	presence-n
 should	should	should	MD	should-v
@@ -266,6 +275,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 postseason	postseason	postseason	NN	postseason-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 Cubs	Cubs	Cubs	NNP	Cubs-e
@@ -279,6 +289,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 beginning	beginning	beginning	NN	beginning-n
 .	.	.	.	.-x
+
 First	First	First	NNP	First-e
 came	came	come	VBD	come-v
 the	the	the	DT	the-d
@@ -304,6 +315,7 @@ makes	makes	make	VBZ	make-v
 no	no	no	DT	no-d
 sense	sense	sense	NN	sense-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Harper	Harper	Harper	NNP	Harper-e
 talk	talk	talk	NN	talk-n
@@ -329,6 +341,7 @@ is	is	be	VBZ	be-v
 done	done	do	VBN	do-v
 elsewhere	elsewhere	elsewhere	RB	elsewhere-r
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 we	we	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -336,6 +349,7 @@ talking	talking	talk	VBG	talk-v
 slim	slim	slim	JJ	slim-j
 possibility	possibility	possibility	NN	possibility-n
 .	.	.	.	.-x
+
 First	First	first	RB	first-r
 ,	,	,	,	,-x
 whether	whether	whether	IN	whether-i
@@ -371,6 +385,7 @@ tight	tight	tight	JJ	tight-j
 this	this	this	DT	this-d
 winter	winter	winter	NN	winter-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 the	the	the	DT	the-d
 Cubs	Cubs	Cubs	NNP	Cubs-e
@@ -393,6 +408,7 @@ make	make	make	VB	make-v
 other	other	other	JJ	other-j
 moves	moves	move	NNS	move-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 would	would	would	MD	would-v
 either	either	either	RB	either-r
@@ -422,6 +438,7 @@ $	$	$	$	$-x
 million	million	million	CD	million-f
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 Even	Even	even	RB	even-r
 if	if	if	IN	if-i
 a	a	a	DT	a-d
@@ -444,6 +461,7 @@ Heyward	Heyward	Heyward	NNP	Heyward-e
 's	's	's	POS	's-p
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 Not	Not	not	RB	not-r
 many	many	many	JJ	many-j
 other	other	other	JJ	other-j
@@ -464,6 +482,7 @@ two	two	two	CD	two-f
 wins-above-replacement	wins-above-replacement	wins-above-replacement	JJ	wins-above-replacement-j
 player	player	player	NN	player-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 silliness	silliness	silliness	NN	silliness-n
 continued	continued	continue	VBD	continue-v
@@ -471,6 +490,7 @@ into	into	into	IN	into-i
 spring	spring	spring	NN	spring-n
 training	training	training	NN	training-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Heyward	Heyward	Heyward	NNP	Heyward-e
 was	was	be	VBD	be-v
@@ -501,6 +521,7 @@ room	room	room	NN	room-n
 for	for	for	IN	for-i
 Harper	Harper	Harper	NNP	Harper-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 same	same	same	JJ	same-j
 thing	thing	thing	NN	thing-n
@@ -521,6 +542,7 @@ for	for	for	IN	for-i
 personal	personal	personal	JJ	personal-j
 reasons	reasons	reason	NNS	reason-n
 .	.	.	.	.-x
+
 Even	Even	even	RB	even-r
 if	if	if	IN	if-i
 the	the	the	DT	the-d
@@ -556,6 +578,7 @@ Almora	Almora	Almora	NNP	Almora-e
 Jr	Jr.	Jr.	NNP	Jr.-e
 .	.	.	.	.-x
 ?	?	?	.	?-x
+
 Now	Now	now	RB	now-r
 we	we	we	PRP	we-p
 can	can	can	MD	can-v
@@ -566,6 +589,7 @@ with	with	with	IN	with-i
 our	our	we	PRP$	we-p
 business	business	business	NN	business-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Phillies	Phillies	Phillies	NNPS	Phillies-e
 all	all	all	DT	all-d
@@ -579,6 +603,7 @@ spot	spot	spot	NN	spot-n
 for	for	for	IN	for-i
 Harper	Harper	Harper	NNP	Harper-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 only	only	only	JJ	only-j
 shame	shame	shame	NN	shame-n
@@ -617,6 +642,7 @@ around	around	around	IN	around-i
 the	the	the	DT	the-d
 player	player	player	NN	player-n
 .	.	.	.	.-x
+
 Even	Even	even	RB	even-r
 so	so	so	RB	so-r
 ,	,	,	,	,-x
@@ -643,3 +669,4 @@ up	up	up	RP	up-x
 for	for	for	IN	for-i
 tickets	tickets	ticket	NNS	ticket-n
 .	.	.	.	.-x
+

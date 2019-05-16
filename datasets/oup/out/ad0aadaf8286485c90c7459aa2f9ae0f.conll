@@ -13,6 +13,7 @@ Wall/Netflix	Wall/Netflix	Wall/Netflix	NNP	Wall/Netflix-e
 /	/	/	:	/-x
 NICK	NICK	NICK	NNP	NICK-e
 WALL/NETFLIX	WALL/NETFLIX	WALL/NETFLIX	NNP	WALL/NETFLIX-e
+
 The	The	the	DT	the-d
 world	world	world	NN	world-n
 's	's	's	POS	's-p
@@ -31,6 +32,7 @@ his	his	he	PRP$	he-p
 next	next	next	JJ	next-j
 project	project	project	NN	project-n
 .	.	.	.	.-x
+
 Idris	Idris	Idris	NNP	Idris-e
 Elba	Elba	Elba	NNP	Elba-e
 is	is	be	VBZ	be-v
@@ -48,6 +50,7 @@ live	live	live	JJ	live-j
 in	in	in	IN	in-i
 babysitter	babysitter	babysitter	NN	babysitter-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 spotted	spotted	spot	VBN	spot-v
 on	on	on	IN	on-i
@@ -74,6 +77,7 @@ Turn	Turn	turn	NN	turn-n
 Up	Up	up	IN	up-i
 Charlie	Charlie	Charlie	NNP	Charlie-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 trailer	trailer	trailer	NN	trailer-n
@@ -102,6 +106,7 @@ world	world	world	NN	world-n
 famous	famous	famous	JJ	famous-j
 DJ	DJ	DJ	NNP	DJ-e
 .	.	.	.	.-x
+
 Days	Days	day	NNS	day-n
 later	later	later	RB	later-r
 he	he	he	PRP	he-p
@@ -130,6 +135,7 @@ do	do	do	VB	do-v
 with	with	with	IN	with-i
 music	music	music	NN	music-n
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 rebuild	rebuild	rebuild	VB	rebuild-v
 his	his	he	PRP$	he-p
@@ -147,6 +153,7 @@ their	their	they	PRP$	they-p
 11-year-old	11-year-old	11-year-old	JJ	11-year-old-j
 daughter	daughter	daughter	NN	daughter-n
 .	.	.	.	.-x
+
 Providing	Providing	provide	VBG	provide-v
 childcare	childcare	childcare	NN	childcare-n
 is	is	be	VBZ	be-v
@@ -168,6 +175,7 @@ the	the	the	DT	the-d
 humorous	humorous	humorous	JJ	humorous-j
 plot	plot	plot	NN	plot-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 series	series	series	NN	series-n
 also	also	also	RB	also-r
@@ -187,6 +195,7 @@ an	an	a	DT	a-d
 executive	executive	executive	NN	executive-n
 producer	producer	producer	NN	producer-n
 .	.	.	.	.-x
+
 Turn	Turn	turn	VB	turn-v
 Up	Up	up	RP	up-x
 Charlie	Charlie	Charlie	NNP	Charlie-e
@@ -206,6 +215,7 @@ the	the	the	DT	the-d
 first	first	first	JJ	first-j
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 Photo	Photo	Photo	NNP	Photo-e
 :	:	:	:	:-x
 NICK	NICK	NICK	NNP	NICK-e
@@ -218,3 +228,4 @@ elba	elba	elba	NN	elba-n
 netflix	netflix	netflix	NN	netflix-n
 ,	,	,	,	,-x
 sitcom	sitcom	sitcom	NN	sitcom-n
+

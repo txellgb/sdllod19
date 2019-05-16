@@ -22,6 +22,7 @@ authentication	authentication	authentication	NN	authentication-n
 and	and	and	CC	and-c
 verification	verification	verification	NN	verification-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ordinance	ordinance	ordinance	NN	ordinance-n
 has	has	have	VBZ	have-v
@@ -69,6 +70,7 @@ the	the	the	DT	the-d
 same	same	same	JJ	same-j
 month	month	month	NN	month-n
 .	.	.	.	.-x
+
 Apart	Apart	apart	RB	apart-r
 from	from	from	IN	from-i
 the	the	the	DT	the-d
@@ -91,6 +93,7 @@ Money	Money	Money	NNP	Money-e
 Laundering	Laundering	Laundering	NNP	Laundering-e
 Act	Act	Act	NNP	Act-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ordinance	ordinance	ordinance	NN	ordinance-n
 has	has	have	VBZ	have-v
@@ -115,6 +118,7 @@ or	or	or	CC	or-c
 electronic	electronic	electronic	JJ	electronic-j
 authentication	authentication	authentication	NN	authentication-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ordinance	ordinance	ordinance	NN	ordinance-n
 echoes	echoes	echo	NNS	echo-n
@@ -135,6 +139,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 Parliament	Parliament	Parliament	NNP	Parliament-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 bill	bill	bill	NN	bill-n
 also	also	also	RB	also-r
@@ -154,6 +159,7 @@ exit	exit	exit	VB	exit-v
 from	from	from	IN	from-i
 Aadhaar	Aadhaar	Aadhaar	NNP	Aadhaar-e
 .	.	.	.	.-x
+
 Here	Here	here	RB	here-r
 are	are	be	VBP	be-v
 some	some	some	DT	some-d
@@ -165,3 +171,4 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 Bill	Bill	Bill	NNP	Bill-e
 :	:	:	:	:-x
+

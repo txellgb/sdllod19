@@ -20,6 +20,7 @@ National	National	National	NNP	National-e
 Assembly	Assembly	Assembly	NNP	Assembly-e
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 was	was	be	VBD	be-v
 part	part	part	NN	part-n
@@ -58,6 +59,7 @@ capital	capital	capital	NN	capital-n
 on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 joint	joint	joint	JJ	joint-j
@@ -126,6 +128,7 @@ elections	elections	election	NNS	election-n
 of	of	of	IN	of-i
 2015	2015	2015	CD	2015-f
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 seems	seems	seem	VBZ	seem-v
 to	to	to	TO	to-t
@@ -149,6 +152,7 @@ situation	situation	situation	NN	situation-n
 Keitseng	Keitseng	Keitseng	NNP	Keitseng-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 observers	observers	observer	NNS	observer-n
 ,	,	,	,	,-x
@@ -205,6 +209,7 @@ at	at	at	IN	at-i
 polling	polling	polling	NN	polling-n
 units	units	unit	NNS	unit-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 decried	decried	decry	VBD	decry-v
 that	that	that	IN	that-i
@@ -260,6 +265,7 @@ number	number	number	NN	number-n
 of	of	of	IN	of-i
 thugs	thugs	thug	NNS	thug-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 observed	observed	observe	VBD	observe-v
@@ -307,6 +313,7 @@ a	a	a	DT	a-d
 preferred	preferred	preferred	JJ	preferred-j
 candidate	candidate	candidate	NN	candidate-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Again	Again	again	RB	again-r
 ,	,	,	,	,-x
@@ -360,6 +367,7 @@ other	other	other	JJ	other-j
 personal	personal	personal	JJ	personal-j
 effects	effects	effect	NNS	effect-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Sadly	Sadly	sadly	RB	sadly-r
 ,	,	,	,	,-x
@@ -400,6 +408,7 @@ emerged	emerged	emerge	VBD	emerge-v
 "	''	''	''	''-x
 the	the	the	DT	the-d
 stated	stated	state	VBN	state-v
+
 They	They	they	PRP	they-p
 ,	,	,	,	,-x
 however	however	however	RB	however-r
@@ -429,3 +438,4 @@ the	the	the	DT	the-d
 general	general	general	JJ	general-j
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+

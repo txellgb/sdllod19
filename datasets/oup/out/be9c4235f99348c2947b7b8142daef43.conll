@@ -17,6 +17,7 @@ tiennent	tiennent	tiennent	FW	tiennent-x
 à	à	à	FW	à-x
 cœur	cœur	cœur	FW	cœur-x
 .	.	.	.	.-x
+
 Et	Et	et	NN	et-n
 les	les	les	FW	les-x
 carnavals	carnavals	carnavals	FW	carnavals-x
@@ -30,6 +31,7 @@ en	en	en	FW	en-x
 font	font	font	NN	font-n
 partie	partie	partie	NN	partie-n
 .	.	.	.	.-x
+
 Le	Le	Le	NNP	Le-e
 tout	tout	tout	VB	tout-v
 est	est	est	FW	est-x
@@ -47,6 +49,7 @@ et	et	et	FW	et-x
 le	le	le	FW	le-x
 gaspillage	gaspillage	gaspillage	NN	gaspillage-n
 !	!	!	.	!-x
+
 Les	Les	Les	NNP	Les-e
 carnavals	carnavals	carnaval	NNS	carnaval-n
 sont	sont	sont	VBP	sont-v
@@ -76,6 +79,7 @@ polluent	polluent	polluent	FW	polluent-x
 nos	nos	nos	FW	nos-x
 sols	sols	sol	NNS	sol-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 Rio	Rio	Rio	NNP	Rio-e
 de	de	de	IN	de-i
@@ -101,6 +105,7 @@ de	de	de	FW	de-x
 paillettes	paillettes	paillettes	FW	paillettes-x
 biodégradables	biodégradables	biodégradables	NNS	biodégradables-n
 .	.	.	.	.-x
+
 Beaucoup	Beaucoup	beaucoup	NN	beaucoup-n
 plus	plus	plus	CC	plus-c
 près	près	près	NNS	près-n
@@ -120,6 +125,7 @@ durant	durant	durant	JJ	durant-j
 leur	leur	leur	JJ	leur-j
 carnaval	carnaval	carnaval	NN	carnaval-n
 .	.	.	.	.-x
+
 Dans	Dans	Dans	NNP	Dans-e
 d'autres	d'autres	d'autre	VBZ	d'autre-v
 villes	villes	ville	NNS	ville-n
@@ -132,6 +138,7 @@ doivent	doivent	doivent	FW	doivent-x
 obligatoirement	obligatoirement	obligatoirement	NN	obligatoirement-n
 biodégradables	biodégradables	biodégradables	NNS	biodégradables-n
 .	.	.	.	.-x
+
 Si	Si	Si	NNP	Si-e
 ces	ces	ce	NNS	ce-n
 mesures	mesures	mesure	NNS	mesure-n
@@ -152,6 +159,7 @@ autorités	autorités	autorités	FW	autorités-x
 ce	ce	ce	FW	ce-x
 propos	propos	propos	FW	propos-x
 !	!	!	.	!-x
+
 A	A	a	DT	a-d
 votre	votre	votre	NN	votre-n
 échelle	échelle	échelle	NN	échelle-n
@@ -180,6 +188,7 @@ de	de	de	FW	de-x
 votre	votre	votre	FW	votre-x
 bambin	bambin	bambin	NN	bambin-n
 .	.	.	.	.-x
+
 Rendez-vous	Rendez-vous	rendez-vous	JJ	rendez-vous-j
 notamment	notamment	notamment	NN	notamment-n
 dans	dans	dan	NNS	dan-n
@@ -191,6 +200,7 @@ main	main	main	JJ	main-j
 pour	pour	pour	VBP	pour-v
 enfants	enfants	enfant	NNS	enfant-n
 .	.	.	.	.-x
+
 Peut-être	Peut-être	peut-être	JJ	peut-être-j
 que	que	que	NN	que-n
 vous	vous	vous	FW	vous-x
@@ -206,6 +216,7 @@ de	de	de	FW	de-x
 votre	votre	votre	FW	votre-x
 fille	fille	fille	FW	fille-x
 .	.	.	.	.-x
+
 Vous	Vous	vous	JJ	vous-j
 pouvez	pouvez	pouvez	NN	pouvez-n
 également	également	également	NN	également-n
@@ -228,6 +239,7 @@ de	de	de	FW	de-x
 jolis	jolis	jolis	FW	jolis-x
 déguisements	déguisements	déguisements	NNS	déguisements-n
 .	.	.	.	.-x
+
 Ajoutez	Ajoutez	ajoutez	FW	ajoutez-x
 à	à	à	FW	à-x
 cela	cela	cela	FW	cela-x
@@ -254,6 +266,7 @@ tour	tour	tour	NN	tour-n
 est	est	est	NN	est-n
 joué	joué	joué	NN	joué-n
 !	!	!	.	!-x
+
 Pour	Pour	pour	VB	pour-v
 faire	faire	faire	FW	faire-x
 du	du	du	NNP	du-e
@@ -286,10 +299,12 @@ toutes	toutes	toute	NNS	toute-n
 les	les	les	FW	les-x
 couleurs	couleurs	couleurs	FW	couleurs-x
 .	.	.	.	.-x
+
 En	En	en	IN	en-i
 manque	manque	manque	JJ	manque-j
 d'inspiration	d'inspiration	d'inspiration	NN	d'inspiration-n
 ?	?	?	.	?-x
+
 Sur	Sur	Sur	NNP	Sur-e
 internet	internet	internet	NNP	internet-e
 ,	,	,	,	,-x
@@ -311,3 +326,4 @@ carnaval	carnaval	carnaval	JJ	carnaval-j
 très	très	très	NNS	très-n
 amusants	amusants	amusant	NNS	amusant-n
 !	!	!	.	!-x
+

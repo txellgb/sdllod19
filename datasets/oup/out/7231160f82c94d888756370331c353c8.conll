@@ -13,6 +13,7 @@ to	to	to	TO	to-t
 pay	pay	pay	VB	pay-v
 for	for	for	IN	for-i
 ?	?	?	.	?-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -41,6 +42,7 @@ in	in	in	IN	in-i
 Polk	Polk	Polk	NNP	Polk-e
 County	County	County	NNP	County-e
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 they	they	they	PRP	they-p
 heard	heard	hear	VBD	hear-v
@@ -59,6 +61,7 @@ clean	clean	clean	VB	clean-v
 up	up	up	RP	up-x
 neighborhoods	neighborhoods	neighborhood	NNS	neighborhood-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 ,	,	,	,	,-x
@@ -97,6 +100,7 @@ tax	tax	tax	NN	tax-n
 1	1	1	CD	1-f
 cent	cent	cent	NN	cent-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 approved	approved	approve	VBN	approve-v
 ,	,	,	,	,-x
@@ -121,6 +125,7 @@ goods	goods	goods	NNS	goods-n
 and	and	and	CC	and-c
 services	services	service	NNS	service-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 would	would	would	MD	would-v
 put	put	put	VB	put-v
@@ -140,6 +145,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 state	state	state	NN	state-n
 .	.	.	.	.-x
+
 Ninety-seven	Ninety-seven	ninety-seven	CD	ninety-seven-f
 percent	percent	percent	NN	percent-n
 of	of	of	IN	of-i
@@ -152,6 +158,7 @@ local-option	local-option	local-option	NN	local-option-n
 sales	sales	sale	NNS	sale-n
 tax	tax	tax	NN	tax-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 most	most	most	RBS	most-r
 recent	recent	recent	JJ	recent-j
@@ -165,6 +172,7 @@ County	County	County	NNP	County-e
 in	in	in	IN	in-i
 2017	2017	2017	CD	2017-f
 .	.	.	.	.-x
+
 Across	Across	across	IN	across-i
 the	the	the	DT	the-d
 six	six	six	CD	six-f
@@ -191,6 +199,7 @@ fund	fund	fund	NN	fund-n
 city	city	city	NN	city-n
 projects	projects	project	NNS	project-n
 .	.	.	.	.-x
+
 Des	Des	Des	NNP	Des-e
 Moines	Moines	Moines	NNP	Moines-e
 alone	alone	alone	RB	alone-r
@@ -220,6 +229,7 @@ volunteers	volunteers	volunteer	NNS	volunteer-n
 last	last	last	JJ	last-j
 summer	summer	summer	NN	summer-n
 .	.	.	.	.-x
+
 ►	►	►	RB	►-r
 IOWA	IOWA	IOWA	NNP	IOWA-e
 POLL	POLL	poll	NN	poll-n
@@ -240,6 +250,7 @@ are	are	be	VBP	be-v
 about	about	about	RB	about-r
 right	right	right	RB	right-r
 '	'	'	''	'-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 want	want	want	VBP	want-v
@@ -272,6 +283,7 @@ Somerset	Somerset	Somerset	NNP	Somerset-e
 Neighborhood	Neighborhood	Neighborhood	NNP	Neighborhood-e
 Association	Association	Association	NNP	Association-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 can	can	can	MD	can-v
@@ -297,6 +309,7 @@ whole	whole	whole	JJ	whole-j
 neighborhood	neighborhood	neighborhood	NN	neighborhood-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 part	part	part	NN	part-n
@@ -311,6 +324,7 @@ the	the	the	DT	the-d
 sales	sales	sale	NNS	sale-n
 tax	tax	tax	NN	tax-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 includes	includes	include	VBZ	include-v
 neighborhood	neighborhood	neighborhood	NN	neighborhood-n
@@ -332,6 +346,7 @@ and	and	and	CC	and-c
 local	local	local	JJ	local-j
 churches	churches	church	NNS	church-n
 .	.	.	.	.-x
+
 Des	Des	Des	NNP	Des-e
 Moines	Moines	Moines	NNP	Moines-e
 would	would	would	MD	would-v
@@ -346,6 +361,7 @@ reducing	reducing	reduce	VBG	reduce-v
 property	property	property	NN	property-n
 taxes	taxes	tax	NNS	tax-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 city	city	city	NN	city-n
 has	has	have	VBZ	have-v
@@ -364,6 +380,7 @@ sales	sales	sale	NNS	sale-n
 tax	tax	tax	NN	tax-n
 passes	passes	pass	VBZ	pass-v
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 it	it	it	PRP	it-p
 fails	fails	fail	VBZ	fail-v
@@ -383,6 +400,7 @@ tax	tax	tax	NN	tax-n
 rate	rate	rate	NN	rate-n
 increase	increase	increase	NN	increase-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 90-cent	90-cent	90-cent	JJ	90-cent-j
 swing	swing	swing	NN	swing-n
@@ -401,6 +419,7 @@ $	$	$	$	$-x
 150,000	150,000	150,000	CD	150,000-f
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 ►	►	►	RB	►-r
 MORE	MORE	more	JJR	more-j
 :	:	:	:	:-x
@@ -417,6 +436,7 @@ tax	tax	tax	NN	tax-n
 fails	fails	fail	VBZ	fail-v
 to	to	to	TO	to-t
 pass	pass	pass	VB	pass-v
+
 But	But	but	CC	but-c
 opponents	opponents	opponent	NNS	opponent-n
 say	say	say	VBP	say-v
@@ -462,6 +482,7 @@ to	to	to	TO	to-t
 sales	sales	sale	NNS	sale-n
 tax	tax	tax	NN	tax-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Sales	Sales	sale	NNS	sale-n
 taxes	taxes	tax	NNS	tax-n
@@ -490,6 +511,7 @@ the	the	the	DT	the-d
 sales	sales	sale	NNS	sale-n
 tax	tax	tax	NN	tax-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 February	February	February	NNP	February-e
 Des	Des	Des	NNP	Des-e
@@ -525,6 +547,7 @@ about	about	about	RB	about-r
 right	right	right	RB	right-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 In	In	in	IN	in-i
 contrast	contrast	contrast	NN	contrast-n
 ,	,	,	,	,-x
@@ -555,6 +578,7 @@ it	it	it	PRP	it-p
 about	about	about	RB	about-r
 right	right	right	RB	right-r
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 lot	lot	lot	NN	lot-n
 has	has	have	VBZ	have-v
@@ -579,6 +603,7 @@ Polk	Polk	Polk	NNP	Polk-e
 County	County	County	NNP	County-e
 cities	cities	city	NNS	city-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Iowa	Iowa	Iowa	NNP	Iowa-e
 Legislature	Legislature	Legislature	NNP	Legislature-e
@@ -611,6 +636,7 @@ as	as	as	IN	as-i
 a	a	a	DT	a-d
 bloc	bloc	bloc	NN	bloc-n
 .	.	.	.	.-x
+
 Voters	Voters	voter	NNS	voter-n
 in	in	in	IN	in-i
 Des	Des	Des	NNP	Des-e
@@ -643,6 +669,7 @@ rejected	rejected	reject	VBD	reject-v
 the	the	the	DT	the-d
 idea	idea	idea	NN	idea-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 Des	Des	Des	NNP	Des-e
 Moines	Moines	Moines	NNP	Moines-e
@@ -665,6 +692,7 @@ in	in	in	IN	in-i
 Des	Des	Des	NNP	Des-e
 Moines	Moines	Moines	NNP	Moines-e
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 true	true	true	JJ	true-j
@@ -674,6 +702,7 @@ city	city	city	NN	city-n
 voting	voting	voting	NN	voting-n
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 .	.	.	.	.-x
+
 Altoona	Altoona	Altoona	NNP	Altoona-e
 Mayor	Mayor	Mayor	NNP	Mayor-e
 Dean	Dean	Dean	NNP	Dean-e
@@ -688,6 +717,7 @@ last	last	last	JJ	last-j
 time	time	time	NN	time-n
 around	around	around	IN	around-i
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
@@ -699,6 +729,7 @@ misunderstood	misunderstood	misunderstand	VBN	misunderstand-v
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Fifty-three	Fifty-three	fifty-three	CD	fifty-three-f
 percent	percent	percent	NN	percent-n
 of	of	of	IN	of-i
@@ -712,6 +743,7 @@ increase	increase	increase	NN	increase-n
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 O'Connor	O'Connor	O'Connor	NNP	O'Connor-e
 is	is	be	VBZ	be-v
 optimistic	optimistic	optimistic	JJ	optimistic-j
@@ -737,6 +769,7 @@ in	in	in	IN	in-i
 his	his	he	PRP$	he-p
 town	town	town	NN	town-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Rev.	Rev.	Rev.	NNP	Rev.-e
 Franklin	Franklin	Franklin	NNP	Franklin-e
@@ -747,6 +780,7 @@ at	at	at	IN	at-i
 St.	St.	St.	NNP	St.-e
 Paul	Paul	Paul	NNP	Paul-e
 A.M.E.	A.M.E.	A.M.E.	NNP	A.M.E.-e
+
 church	church	church	NN	church-n
 in	in	in	IN	in-i
 Des	Des	Des	NNP	Des-e
@@ -763,6 +797,7 @@ push	push	push	NN	push-n
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 active	active	active	JJ	active-j
@@ -790,6 +825,7 @@ Des	Des	Des	NNP	Des-e
 Moines	Moines	Moines	NNP	Moines-e
 metro	metro	metro	NN	metro-n
 .	.	.	.	.-x
+
 Its	Its	its	PRP$	its-p
 members	members	member	NNS	member-n
 come	come	come	VBP	come-v
@@ -801,6 +837,7 @@ and	and	and	CC	and-c
 nonprofit	nonprofit	nonprofit	JJ	nonprofit-j
 groups	groups	group	NNS	group-n
 .	.	.	.	.-x
+
 AMOS	AMOS	AMOS	NNP	AMOS-e
 Iowa	Iowa	Iowa	NNP	Iowa-e
 did	did	do	VBD	do-v
@@ -816,6 +853,7 @@ tax	tax	tax	NN	tax-n
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 group	group	group	NN	group-n
 met	met	meet	VBD	meet-v
@@ -842,6 +880,7 @@ the	the	the	DT	the-d
 measure	measure	measure	NN	measure-n
 pass	pass	pass	NN	pass-n
 .	.	.	.	.-x
+
 Several	Several	several	JJ	several-j
 priorities	priorities	priority	NNS	priority-n
 the	the	the	DT	the-d
@@ -855,6 +894,7 @@ city	city	city	NN	city-n
 's	's	's	POS	's-p
 plans	plans	plan	NNS	plan-n
 :	:	:	:	:-x
+
 Gaddy	Gaddy	Gaddy	NNP	Gaddy-e
 ,	,	,	,	,-x
 whose	whose	whose	WP$	whose-p
@@ -884,6 +924,7 @@ removing	removing	remove	VBG	remove-v
 blighted	blighted	blighted	JJ	blighted-j
 properties	properties	property	NNS	property-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
@@ -918,6 +959,7 @@ four	four	four	CD	four-f
 crumbling	crumbling	crumble	VBG	crumble-v
 properties	properties	property	NNS	property-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 How	How	how	WRB	how-r
 can	can	can	MD	can-v
@@ -946,6 +988,7 @@ addressed	addressed	address	VBN	address-v
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 AMOS	AMOS	AMOS	NNP	AMOS-e
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -962,6 +1005,7 @@ Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 's	's	's	POS	's-p
 vote	vote	vote	NN	vote-n
 .	.	.	.	.-x
+
 Neighbors	Neighbors	neighbor	NNS	neighbor-n
 for	for	for	IN	for-i
 Growth	Growth	growth	NN	growth-n
@@ -990,6 +1034,7 @@ to	to	to	TO	to-t
 vote	vote	vote	VB	vote-v
 yes	yes	yes	UH	yes-u
 .	.	.	.	.-x
+
 Its	Its	its	PRP$	its-p
 donors	donors	donor	NNS	donor-n
 include	include	include	VBP	include-v
@@ -1036,6 +1081,7 @@ Ethics	Ethics	Ethics	NNP	Ethics-e
 Disclosure	Disclosure	Disclosure	NNP	Disclosure-e
 Board	Board	Board	NNP	Board-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 group	group	group	NN	group-n
 's	's	's	POS	's-p
@@ -1050,6 +1096,7 @@ member	member	member	NN	member-n
 Bob	Bob	Bob	NNP	Bob-e
 Mahaffey	Mahaffey	Mahaffey	NNP	Mahaffey-e
 .	.	.	.	.-x
+
 Other	Other	other	JJ	other-j
 groups	groups	group	NNS	group-n
 ,	,	,	,	,-x
@@ -1075,6 +1122,7 @@ backing	backing	back	VBG	back-v
 the	the	the	DT	the-d
 measure	measure	measure	NN	measure-n
 .	.	.	.	.-x
+
 ►	►	►	RB	►-r
 MORE	MORE	more	JJR	more-j
 :	:	:	:	:-x
@@ -1092,6 +1140,7 @@ if	if	if	IN	if-i
 sales	sales	sale	NNS	sale-n
 tax	tax	tax	NN	tax-n
 fails	fails	fail	VBZ	fail-v
+
 In	In	in	IN	in-i
 Pleasant	Pleasant	Pleasant	NNP	Pleasant-e
 Hill	Hill	Hill	NNP	Hill-e
@@ -1129,6 +1178,7 @@ passing	passing	pass	VBG	pass-v
 out	out	out	RP	out-x
 flyers	flyers	flyer	NNS	flyer-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 've	've	have	VBP	have-v
@@ -1151,6 +1201,7 @@ president	president	president	NN	president-n
 Sherm	Sherm	Sherm	NNP	Sherm-e
 Ploeger	Ploeger	Ploeger	NNP	Ploeger-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 But	But	but	CC	but-c
 you	you	you	PRP	you-p
@@ -1168,6 +1219,7 @@ March	March	March	NNP	March-e
 5	5	5	CD	5-f
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 PAC	PAC	PAC	NNP	PAC-e
 has	has	have	VBZ	have-v
@@ -1196,6 +1248,7 @@ this	this	this	DT	this-d
 time	time	time	NN	time-n
 around	around	around	IN	around-i
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 the	the	the	DT	the-d
 vote	vote	vote	NN	vote-n
@@ -1225,6 +1278,7 @@ $	$	$	$	$-x
 200,000	200,000	200,000	CD	200,000-f
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 would	would	would	MD	would-v
 be	be	be	VB	be-v
@@ -1242,6 +1296,7 @@ in	in	in	IN	in-i
 20	20	20	CD	20-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 consistent	consistent	consistent	JJ	consistent-j
 argument	argument	argument	NN	argument-n
@@ -1278,6 +1333,7 @@ to	to	to	TO	to-t
 wealthier	wealthier	wealthier	JJR	wealthier-j
 counterparts	counterparts	counterpart	NNS	counterpart-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 2015	2015	2015	CD	2015-f
 report	report	report	NN	report-n
@@ -1319,6 +1375,7 @@ any	any	any	DT	any-d
 income	income	income	NN	income-n
 bracket	bracket	bracket	NN	bracket-n
 .	.	.	.	.-x
+
 ►	►	►	RB	►-r
 WANT	WANT	WANT	NNP	WANT-e
 TO	TO	to	TO	to-t
@@ -1339,6 +1396,7 @@ but	but	but	CC	but-c
 the	the	the	DT	the-d
 lime	lime	lime	NN	lime-n
 .	.	.	.	.-x
+
 Those	Those	those	DT	those-d
 who	who	who	WP	who-p
 support	support	support	VBP	support-v
@@ -1371,6 +1429,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 poor	poor	poor	JJ	poor-j
 .	.	.	.	.-x
+
 Assuming	Assuming	assume	VBG	assume-v
 a	a	a	DT	a-d
 family	family	family	NN	family-n
@@ -1402,6 +1461,7 @@ Dave	Dave	Dave	NNP	Dave-e
 Swenson	Swenson	Swenson	NNP	Swenson-e
 estimates	estimates	estimate	VBZ	estimate-v
 :	:	:	:	:-x
+
 And	And	and	CC	and-c
 since	since	since	IN	since-i
 the	the	the	DT	the-d
@@ -1422,6 +1482,7 @@ lower	lower	lower	JJR	lower-j
 property	property	property	NN	property-n
 taxes	taxes	tax	NNS	tax-n
 .	.	.	.	.-x
+
 Backers	Backers	backer	NNS	backer-n
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -1446,6 +1507,7 @@ of	of	of	IN	of-i
 Polk	Polk	Polk	NNP	Polk-e
 County	County	County	NNP	County-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 For	For	for	IN	for-i
 every	every	every	DT	every-d
@@ -1479,6 +1541,7 @@ offers	offers	offer	VBZ	offer-v
 Pins	Pins	pin	NNS	pin-n
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 pointed	pointed	point	VBD	point-v
 to	to	to	TO	to-t
@@ -1513,6 +1576,7 @@ downtown	downtown	downtown	NN	downtown-n
 sculpture	sculpture	sculpture	NN	sculpture-n
 park	park	park	NN	park-n
 .	.	.	.	.-x
+
 Kim	Kim	Kim	NNP	Kim-e
 Rueben	Rueben	Rueben	NNP	Rueben-e
 ,	,	,	,	,-x
@@ -1538,6 +1602,7 @@ as	as	as	IN	as-i
 a	a	a	DT	a-d
 trade-off	trade-off	trade-off	NN	trade-off-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 could	could	could	MD	could-v
 mean	mean	mean	VB	mean-v
@@ -1562,6 +1627,7 @@ rising	rising	rise	VBG	rise-v
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 it	it	it	PRP	it-p
@@ -1585,6 +1651,7 @@ trade-off	trade-off	trade-off	NN	trade-off-n
 Rueben	Rueben	Rueben	NNP	Rueben-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Where	Where	where	WRB	where-r
 the	the	the	DT	the-d
 money	money	money	NN	money-n
@@ -1613,6 +1680,7 @@ projects	projects	project	NNS	project-n
 ,	,	,	,	,-x
 including	including	include	VBG	include-v
 :	:	:	:	:-x
+
 Where	Where	where	WRB	where-r
 the	the	the	DT	the-d
 money	money	money	NN	money-n
@@ -1646,6 +1714,7 @@ and	and	and	CC	and-c
 neighborhood	neighborhood	neighborhood	NN	neighborhood-n
 improvements	improvements	improvement	NNS	improvement-n
 .	.	.	.	.-x
+
 Where	Where	where	WRB	where-r
 the	the	the	DT	the-d
 money	money	money	NN	money-n
@@ -1701,6 +1770,7 @@ and	and	and	CC	and-c
 economic	economic	economic	JJ	economic-j
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 Where	Where	where	WRB	where-r
 the	the	the	DT	the-d
 money	money	money	NN	money-n
@@ -1721,6 +1791,7 @@ property	property	property	NN	property-n
 tax	tax	tax	NN	tax-n
 relief	relief	relief	NN	relief-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 other	other	other	JJ	other-j
 15	15	15	CD	15-f
@@ -1739,6 +1810,7 @@ recreation	recreation	recreation	NN	recreation-n
 and	and	and	CC	and-c
 trails	trails	trail	VBZ	trail-v
 .	.	.	.	.-x
+
 Where	Where	where	WRB	where-r
 the	the	the	DT	the-d
 money	money	money	NN	money-n
@@ -1772,6 +1844,7 @@ next	next	next	JJ	next-j
 fiscal	fiscal	fiscal	JJ	fiscal-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 remaining	remaining	remain	VBG	remain-v
 50	50	50	CD	50-f
@@ -1808,6 +1881,7 @@ the	the	the	DT	the-d
 public	public	public	JJ	public-j
 library	library	library	NN	library-n
 .	.	.	.	.-x
+
 Where	Where	where	WRB	where-r
 the	the	the	DT	the-d
 money	money	money	NN	money-n
@@ -1836,6 +1910,7 @@ levy	levy	levy	NN	levy-n
 69	69	69	CD	69-f
 cents	cents	cent	NNS	cent-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 remaining	remaining	remain	VBG	remain-v
 money	money	money	NN	money-n
@@ -1857,6 +1932,7 @@ and	and	and	CC	and-c
 emergency	emergency	emergency	NN	emergency-n
 management	management	management	NN	management-n
 .	.	.	.	.-x
+
 How	How	how	WRB	how-r
 Windsor	Windsor	Windsor	NNP	Windsor-e
 Heights	Heights	Heights	NNP	Heights-e
@@ -1867,6 +1943,7 @@ in	in	in	IN	in-i
 51	51	51	CD	51-f
 percent	percent	percent	NN	percent-n
 yes	yes	yes	RB	yes-r
+
 To	To	to	TO	to-t
 find	find	find	VB	find-v
 your	your	you	PRP$	you-p
@@ -1881,6 +1958,7 @@ Auditor	Auditor	Auditor	NNP	Auditor-e
 's	's	's	POS	's-p
 website	website	website	NN	website-n
 .	.	.	.	.-x
+
 Registered	Registered	Registered	NNP	Registered-e
 voters	voters	voter	NNS	voter-n
 are	are	be	VBP	be-v
@@ -1893,6 +1971,7 @@ form	form	form	NN	form-n
 of	of	of	IN	of-i
 identification	identification	identification	NN	identification-n
 .	.	.	.	.-x
+
 Those	Those	those	DT	those-d
 not	not	not	RB	not-r
 registered	registered	register	VBN	register-v
@@ -1903,6 +1982,7 @@ proof	proof	proof	NN	proof-n
 of	of	of	IN	of-i
 residence	residence	residence	NN	residence-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 voter	voter	voter	NN	voter-n
 who	who	who	WP	who-p
@@ -1960,3 +2040,4 @@ noon	noon	noon	NN	noon-n
 March	March	March	NNP	March-e
 7	7	7	CD	7-f
 .	.	.	.	.-x
+

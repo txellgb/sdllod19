@@ -49,6 +49,7 @@ reference	reference	reference	NN	reference-n
 to	to	to	TO	to-t
 Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 .	.	.	.	.-x
+
 Addressing	Addressing	address	VBG	address-v
 a	a	a	DT	a-d
 conference	conference	conference	NN	conference-n
@@ -100,6 +101,7 @@ to	to	to	TO	to-t
 justify	justify	justify	VB	justify-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Swaraj	Swaraj	Swaraj	NNP	Swaraj-e
 addressed	addressed	address	VBD	address-v
 the	the	the	DT	the-d
@@ -167,6 +169,7 @@ toll	toll	toll	NN	toll-n
 rising	rising	rise	VBG	rise-v
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 In	In	in	IN	in-i
 the	the	the	DT	the-d
@@ -219,6 +222,7 @@ terror	terror	terror	NN	terror-n
 she	she	she	PRP	she-p
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 Swaraj	Swaraj	Swaraj	NNP	Swaraj-e
 said	said	say	VBD	say-v
 terrorism	terrorism	terrorism	NN	terrorism-n
@@ -242,6 +246,7 @@ of	of	of	IN	of-i
 religion	religion	religion	NN	religion-n
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 fight	fight	fight	NN	fight-n
@@ -262,6 +267,7 @@ against	against	against	IN	against-i
 any	any	any	DT	any-d
 religion	religion	religion	NN	religion-n
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 as	as	as	IN	as-i
 Islam	Islam	Islam	NNP	Islam-e
@@ -278,6 +284,7 @@ Allah	Allah	Allah	NNP	Allah-e
 means	means	mean	VBZ	mean-v
 violence	violence	violence	NN	violence-n
 .	.	.	.	.-x
+
 Similarly	Similarly	similarly	RB	similarly-r
 ,	,	,	,	,-x
 every	every	every	DT	every-d
@@ -290,6 +297,7 @@ peace	peace	peace	NN	peace-n
 Swaraj	Swaraj	Swaraj	NNP	Swaraj-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 this	this	this	DT	this-d
 context	context	context	NN	context-n
@@ -321,6 +329,7 @@ a	a	a	DT	a-d
 pluralistic	pluralistic	pluralistic	JJ	pluralistic-j
 society	society	society	NN	society-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 same	same	same	JJ	same-j
@@ -359,6 +368,7 @@ those	those	those	DT	those-d
 countries	countries	country	NNS	country-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Although	Although	although	IN	although-i
 she	she	she	PRP	she-p
 did	did	do	VBD	do-v
@@ -385,6 +395,7 @@ Pulwama	Pulwama	Pulwama	NNP	Pulwama-e
 terror	terror	terror	NN	terror-n
 attack	attack	attack	NN	attack-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 also	also	also	RB	also-r
 said	said	say	VBD	say-v
@@ -412,6 +423,7 @@ should	should	should	MD	should-v
 be	be	be	VB	be-v
 used	used	use	VBN	use-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 would	would	would	MD	would-v
@@ -439,6 +451,7 @@ means	means	means	NNS	means-n
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 suggested	suggested	suggest	VBD	suggest-v
 the	the	the	DT	the-d
@@ -455,6 +468,7 @@ to	to	to	TO	to-t
 end	end	end	VB	end-v
 terrorism	terrorism	terrorism	NN	terrorism-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -480,6 +494,7 @@ message	message	message	NN	message-n
 of	of	of	IN	of-i
 religions	religions	religion	NNS	religion-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 ,	,	,	,	,-x
 for	for	for	IN	for-i
@@ -517,3 +532,4 @@ destroy	destroy	destroy	VB	destroy-v
 lives	lives	life	NNS	life-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

@@ -34,6 +34,7 @@ Constance	Constance	Constance	NNP	Constance-e
 has	has	have	VBZ	have-v
 announced	announced	announce	VBN	announce-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 will	will	will	MD	will-v
@@ -77,6 +78,7 @@ on	on	on	IN	on-i
 Saturday	Saturday	Saturday	NNP	Saturday-e
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 bus	bus	bus	NN	bus-n
 network	network	network	NN	network-n
@@ -99,6 +101,7 @@ Mr	Mr	Mr	NNP	Mr-e
 Constance	Constance	Constance	NNP	Constance-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 By	By	by	IN	by-i
 putting	putting	put	VBG	put-v
@@ -126,6 +129,7 @@ our	our	we	PRP$	we-p
 roads	roads	road	NNS	road-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Suburbs	Suburbs	suburb	NNS	suburb-n
 that	that	that	WDT	that-d
 will	will	will	MD	will-v
@@ -149,3 +153,4 @@ Terrace	Terrace	Terrace	NNP	Terrace-e
 and	and	and	CC	and-c
 Shellharbour	Shellharbour	Shellharbour	NNP	Shellharbour-e
 .	.	.	.	.-x
+

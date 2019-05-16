@@ -27,6 +27,7 @@ Boy	Boy	boy	NN	boy-n
 Nate	Nate	Nate	NNP	Nate-e
 Coy	Coy	Coy	NNP	Coy-e
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 the	the	the	DT	the-d
 news	news	news	NN	news-n
@@ -59,6 +60,7 @@ son	son	son	NN	son-n
 ,	,	,	,	,-x
 Jack	Jack	Jack	NNP	Jack-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 as	as	as	IN	as-i
 it	it	it	PRP	it-p
@@ -86,6 +88,7 @@ Nate	Nate	Nate	NNP	Nate-e
 Coy	Coy	Coy	NNP	Coy-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Born	Born	bear	VBN	bear-v
 June	June	June	NNP	June-e
 15	15	15	CD	15-f
@@ -116,6 +119,7 @@ in	in	in	IN	in-i
 professional	professional	professional	JJ	professional-j
 wrestling	wrestling	wrestling	NN	wrestling-n
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 2015	2015	2015	CD	2015-f
 ,	,	,	,	,-x
@@ -150,6 +154,7 @@ Wrestling	Wrestling	Wrestling	NNP	Wrestling-e
 UEW	UEW	UEW	NNP	UEW-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 There	There	there	RB	there-r
 ,	,	,	,	,-x
 according	according	accord	VBG	accord-v
@@ -181,6 +186,7 @@ honing	honing	hone	VBG	hone-v
 his	his	he	PRP$	he-p
 craft	craft	craft	NN	craft-n
 .	.	.	.	.-x
+
 Like	Like	like	IN	like-i
 most	most	most	JJS	most-j
 professional	professional	professional	JJ	professional-j
@@ -205,6 +211,7 @@ his	his	he	PRP$	he-p
 way	way	way	NN	way-n
 up	up	up	RP	up-x
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Jack	Jack	Jack	NNP	Jack-e
 's	's	's	POS	's-p
@@ -242,6 +249,7 @@ Wrestling	Wrestling	Wrestling	NNP	Wrestling-e
 GRPW	GRPW	GRPW	NNP	GRPW-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 even	even	even	RB	even-r
 worked	worked	work	VBD	work-v
@@ -264,6 +272,7 @@ in	in	in	IN	in-i
 May	May	May	NNP	May-e
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 how	how	how	WRB	how-r
 hard	hard	hard	JJ	hard-j
@@ -278,6 +287,7 @@ paying	paying	pay	VBG	pay-v
 his	his	he	PRP$	he-p
 dues	dues	due	NNS	due-n
 ?	?	?	.	?-x
+
 As	As	as	IN	as-i
 Too	Too	Too	NNP	Too-e
 Fab	Fab	Fab	NNP	Fab-e
@@ -319,6 +329,7 @@ a	a	a	DT	a-d
 dozen	dozen	dozen	NN	dozen-n
 fans	fans	fan	NNS	fan-n
 .	.	.	.	.-x
+
 Dad	Dad	Dad	NNP	Dad-e
 Luke	Luke	Luke	NNP	Luke-e
 ,	,	,	,	,-x
@@ -333,6 +344,7 @@ on	on	on	IN	on-i
 his	his	he	PRP$	he-p
 son	son	son	NN	son-n
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 hard	hard	hard	JJ	hard-j
 work	work	work	NN	work-n
@@ -397,6 +409,7 @@ Coy	Coy	Coy	NNP	Coy-e
 "	''	''	''	''-x
 part	part	part	NN	part-n
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 ,	,	,	,	,-x
 it	it	it	PRP	it-p
@@ -414,6 +427,7 @@ professional	professional	professional	JJ	professional-j
 wrestling	wrestling	wrestling	NN	wrestling-n
 career	career	career	NN	career-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 Wrestling	Wrestling	Wrestling	NNP	Wrestling-e
 News	News	News	NNP	News-e
@@ -437,6 +451,7 @@ Wrestling	Wrestling	Wrestling	NNP	Wrestling-e
 AEW	AEW	AEW	NNP	AEW-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -490,6 +505,7 @@ for	for	for	IN	for-i
 career	career	career	NN	career-n
 growth	growth	growth	NN	growth-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 this	this	this	DT	this-d
@@ -512,6 +528,7 @@ some	some	some	DT	some-d
 considerable	considerable	considerable	JJ	considerable-j
 talent	talent	talent	NN	talent-n
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 Sports	Sports	Sports	NNP	Sports-e
@@ -557,6 +574,7 @@ and	and	and	CC	and-c
 Chris	Chris	Chris	NNP	Chris-e
 Jericho	Jericho	Jericho	NNP	Jericho-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 two	two	two	CD	two-f
@@ -591,6 +609,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 determined	determined	determine	VBN	determine-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 remains	remains	remain	VBZ	remain-v
 unclear	unclear	unclear	JJ	unclear-j
@@ -606,3 +625,4 @@ either	either	either	DT	either-d
 of	of	of	IN	of-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+

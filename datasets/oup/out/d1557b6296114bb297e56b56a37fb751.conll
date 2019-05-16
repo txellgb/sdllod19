@@ -6,6 +6,7 @@ Women	Women	Women	NNP	Women-e
 History	History	history	NN	history-n
 Month	Month	Month	NNP	Month-e
 !	!	!	.	!-x
+
 You	You	you	PRP	you-p
 're	're	be	VBP	be-v
 reading	reading	read	VBG	read-v
@@ -19,6 +20,7 @@ rule	rule	rule	VB	rule-v
 the	the	the	DT	the-d
 headlines	headlines	headline	NNS	headline-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 History	History	history	NN	history-n
 is	is	be	VBZ	be-v
@@ -26,6 +28,7 @@ n't	n't	not	RB	not-r
 what	what	what	WP	what-p
 happened	happened	happen	VBD	happen-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 who	who	who	WP	who-p
@@ -34,6 +37,7 @@ the	the	the	DT	the-d
 story	story	story	NN	story-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 --	--	--	:	---x
 Sally	Sally	Sally	NNP	Sally-e
 Roesch	Roesch	Roesch	NNP	Roesch-e
@@ -46,6 +50,7 @@ studies	studies	study	NNS	study-n
 scholar	scholar	scholar	NN	scholar-n
 and	and	and	CC	and-c
 author	author	author	NN	author-n
+
 In	In	in	IN	in-i
 her	her	she	PRP$	she-p
 new	new	new	JJ	new-j
@@ -76,6 +81,7 @@ women	women	woman	NNS	woman-n
 history	history	history	NN	history-n
 forgot	forgot	forget	VBN	forget-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 History	History	history	NN	history-n
 is	is	be	VBZ	be-v
@@ -90,6 +96,7 @@ me	me	I	PRP	I-p
 this	this	this	DT	this-d
 week	week	week	NN	week-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -99,6 +106,7 @@ the	the	the	DT	the-d
 story	story	story	NN	story-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Dr.	Dr.	Dr.	NNP	Dr.-e
 Wagner	Wagner	Wagner	NNP	Wagner-e
 ,	,	,	,	,-x
@@ -126,6 +134,7 @@ stories	stories	story	NNS	story-n
 across	across	across	IN	across-i
 cultures	cultures	culture	NNS	culture-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 first	first	first	JJ	first-j
@@ -149,6 +158,7 @@ the	the	the	DT	the-d
 persistent	persistent	persistent	JJ	persistent-j
 myths	myths	myth	NNS	myth-n
 .	.	.	.	.-x
+
 MYTH	MYTH	myth	NN	myth-n
 :	:	:	:	:-x
 American	American	american	JJ	american-j
@@ -166,6 +176,7 @@ granted	granted	grant	VBN	grant-v
 in	in	in	IN	in-i
 1920	1920	1920	CD	1920-f
 .	.	.	.	.-x
+
 REALITY	REALITY	reality	NN	reality-n
 :	:	:	:	:-x
 Native	Native	native	JJ	native-j
@@ -179,6 +190,7 @@ for	for	for	IN	for-i
 1,000	1,000	1,000	CD	1,000-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 easy	easy	easy	JJ	easy-j
@@ -203,6 +215,7 @@ right	right	right	NN	right-n
 to	to	to	TO	to-t
 vote	vote	vote	VB	vote-v
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 truth	truth	truth	NN	truth-n
@@ -224,6 +237,7 @@ that	that	that	WDT	that-d
 still	still	still	RB	still-r
 exist	exist	exist	VBP	exist-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 idea	idea	idea	NN	idea-n
@@ -278,6 +292,7 @@ early	early	early	JJ	early-j
 American	American	american	JJ	american-j
 feminists	feminists	feminist	NNS	feminist-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -320,6 +335,7 @@ up	up	up	RP	up-x
 Wagner	Wagner	Wagner	NNP	Wagner-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 MYTH	MYTH	myth	NN	myth-n
 :	:	:	:	:-x
 Contraception	Contraception	contraception	NN	contraception-n
@@ -328,6 +344,7 @@ a	a	a	DT	a-d
 modern	modern	modern	JJ	modern-j
 convention	convention	convention	NN	convention-n
 .	.	.	.	.-x
+
 REALITY	REALITY	reality	NN	reality-n
 :	:	:	:	:-x
 Condoms	Condoms	condom	NNS	condom-n
@@ -343,6 +360,7 @@ since	since	since	IN	since-i
 the	the	the	DT	the-d
 1800s	1800s	1800	NNS	1800-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 birth	birth	birth	NN	birth-n
 control	control	control	NN	control-n
@@ -382,6 +400,7 @@ before	before	before	IN	before-i
 Wagner	Wagner	Wagner	NNP	Wagner-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
 the	the	the	DT	the-d
@@ -420,6 +439,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 He	He	he	PRP	he-p
 decided	decided	decide	VBD	decide-v
@@ -438,6 +458,7 @@ obscene	obscene	obscene	JJ	obscene-j
 Wagner	Wagner	Wagner	NNP	Wagner-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 result	result	result	NN	result-n
@@ -465,6 +486,7 @@ information	information	information	NN	information-n
 about	about	about	IN	about-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 activist	activist	activist	NN	activist-n
 Ida	Ida	Ida	NNP	Ida-e
@@ -479,6 +501,7 @@ distributing	distributing	distribute	VBG	distribute-v
 such	such	such	JJ	such-j
 information	information	information	NN	information-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 took	took	take	VBD	take-v
 her	her	she	PRP$	she-p
@@ -497,6 +520,7 @@ be	be	be	VB	be-v
 life	life	life	NN	life-n
 imprisonment	imprisonment	imprisonment	NN	imprisonment-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 her	her	she	PRP$	she-p
 suicide	suicide	suicide	NN	suicide-n
@@ -528,12 +552,14 @@ from	from	from	IN	from-i
 Comstockism	Comstockism	Comstockism	NNP	Comstockism-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 MYTH	MYTH	myth	NN	myth-n
 :	:	:	:	:-x
 Feminists	Feminists	feminist	NNS	feminist-n
 burned	burned	burn	VBD	burn-v
 bras	bras	bra	NNS	bra-n
 .	.	.	.	.-x
+
 REALITY	REALITY	reality	NN	reality-n
 :	:	:	:	:-x
 No	No	no	DT	no-d
@@ -541,6 +567,7 @@ bras	bras	bra	NNS	bra-n
 were	were	be	VBD	be-v
 burned	burned	burn	VBN	burn-v
 !	!	!	.	!-x
+
 The	The	the	DT	the-d
 myth	myth	myth	NN	myth-n
 emerged	emerged	emerge	VBD	emerge-v
@@ -574,6 +601,7 @@ protest	protest	protest	VB	protest-v
 the	the	the	DT	the-d
 competition	competition	competition	NN	competition-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 had	had	have	VBD	have-v
 planned	planned	plan	VBN	plan-v
@@ -620,6 +648,7 @@ labeled	labeled	label	VBN	label-v
 freedom	freedom	freedom	NN	freedom-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Read	Read	read	VB	read-v
 more	more	more	JJR	more-j
@@ -629,6 +658,7 @@ protest	protest	protest	NN	protest-n
 here	here	here	RB	here-r
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 The	The	the	DT	the-d
 New	New	New	NNP	New-e
 York	York	York	NNP	York-e
@@ -656,6 +686,7 @@ since	since	since	IN	since-i
 Wagner	Wagner	Wagner	NNP	Wagner-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Want	Want	want	VB	want-v
 to	to	to	TO	to-t
 hear	hear	hear	VB	hear-v
@@ -664,6 +695,7 @@ from	from	from	IN	from-i
 Dr.	Dr.	Dr.	NNP	Dr.-e
 Wagner	Wagner	Wagner	NNP	Wagner-e
 ?	?	?	.	?-x
+
 She	She	she	PRP	she-p
 'll	'll	will	MD	will-v
 be	be	be	VB	be-v
@@ -706,8 +738,10 @@ are	are	be	VBP	be-v
 still	still	still	RB	still-r
 available	available	available	JJ	available-j
 .	.	.	.	.-x
+
 0.5	0.5	0.5	CD	0.5-f
 percent	percent	percent	NN	percent-n
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 how	how	how	WRB	how-r
@@ -732,6 +766,7 @@ author	author	author	NN	author-n
 Bettany	Bettany	Bettany	NNP	Bettany-e
 Hughes	Hughes	Hughes	NNP	Hughes-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
@@ -753,6 +788,7 @@ she	she	she	PRP	she-p
 has	has	have	VBZ	have-v
 said	said	say	VBN	say-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 stories	stories	story	NNS	story-n
 of	of	of	IN	of-i
@@ -785,6 +821,7 @@ home	home	home	NN	home-n
 security	security	security	NN	security-n
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 feels	feels	feel	VBZ	feel-v
@@ -800,6 +837,7 @@ the	the	the	DT	the-d
 next	next	next	JJ	next-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 United	United	United	NNP	United-e
 Methodist	Methodist	Methodist	NNP	Methodist-e
@@ -814,6 +852,7 @@ and	and	and	CC	and-c
 gay	gay	gay	JJ	gay-j
 clergy	clergy	clergy	NNS	clergy-n
 .	.	.	.	.-x
+
 Two	Two	two	CD	two-f
 African-American	African-American	african-american	JJ	african-american-j
 women	women	woman	NNS	woman-n
@@ -838,6 +877,7 @@ will	will	will	MD	will-v
 make	make	make	VB	make-v
 history	history	history	NN	history-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 did	did	do	VBD	do-v
@@ -847,6 +887,7 @@ my	my	my	PRP$	my-p
 baby	baby	baby	NN	baby-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 trauma	trauma	trauma	NN	trauma-n
@@ -872,6 +913,7 @@ Dr.	Dr.	Dr.	NNP	Dr.-e
 Jen	Jen	Jen	NNP	Jen-e
 Gunter	Gunter	Gunter	NNP	Gunter-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 was	was	be	VBD	be-v
@@ -898,6 +940,7 @@ killing	killing	kill	VBG	kill-v
 me	me	I	PRP	I-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 actress	actress	actress	NN	actress-n
 Selma	Selma	Selma	NNP	Selma-e
@@ -914,6 +957,7 @@ hear	hear	hear	VBP	hear-v
 their	their	they	PRP$	they-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 Pop-up	Pop-up	pop-up	JJ	pop-up-j
 Herstory	Herstory	Herstory	NNP	Herstory-e
 :	:	:	:	:-x
@@ -929,6 +973,7 @@ the	the	the	DT	the-d
 Appalachian	Appalachian	Appalachian	NNP	Appalachian-e
 Trail	Trail	trail	NN	trail-n
 alone	alone	alone	RB	alone-r
+
 For	For	for	IN	for-i
 women	women	woman	NNS	woman-n
 's	's	's	POS	's-p
@@ -950,6 +995,7 @@ know	know	know	VB	know-v
 but	but	but	CC	but-c
 should	should	should	MD	should-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 daily	daily	daily	JJ	daily-j
 posts	posts	post	NNS	post-n
@@ -958,6 +1004,7 @@ see	see	see	VB	see-v
 our	our	we	PRP$	we-p
 Instagram	Instagram	Instagram	NNP	Instagram-e
 .	.	.	.	.-x
+
 Known	Known	know	VBN	know-v
 by	by	by	IN	by-i
 some	some	some	DT	some-d
@@ -998,6 +1045,7 @@ age	age	age	NN	age-n
 of	of	of	IN	of-i
 67	67	67	CD	67-f
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 the	the	the	DT	the-d
 time	time	time	NN	time-n
@@ -1046,6 +1094,7 @@ more	more	more	JJR	more-j
 than	than	than	IN	than-i
 once	once	once	RB	once-r
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 the	the	the	DT	the-d
 public	public	public	NN	public-n
@@ -1056,8 +1105,10 @@ was	was	be	VBD	be-v
 equally	equally	equally	RB	equally-r
 remarkable	remarkable	remarkable	JJ	remarkable-j
 .	.	.	.	.-x
+
 Read	Read	read	VB	read-v
 past	past	past	JJ	past-j
 articles	articles	article	NNS	article-n
 here	here	here	RB	here-r
 .	.	.	.	.-x
+

@@ -25,6 +25,7 @@ airspace	airspace	airspace	NN	airspace-n
 along	along	along	IN	along-i
 LoC	LoC	loc	NN	loc-n
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 his	his	he	PRP$	he-p
 successful	successful	successful	JJ	successful-j
@@ -41,6 +42,7 @@ an	an	a	DT	a-d
 internet	internet	internet	NN	internet-n
 sensation	sensation	sensation	NN	sensation-n
 .	.	.	.	.-x
+
 Siddiqui	Siddiqui	Siddiqui	NNP	Siddiqui-e
 's	's	's	POS	's-p
 friend	friend	friend	NN	friend-n
@@ -50,6 +52,7 @@ talked	talked	talk	VBN	talk-v
 about	about	about	IN	about-i
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 talking	talking	talk	VBG	talk-v
 to	to	to	TO	to-t
@@ -76,6 +79,7 @@ doing	doing	do	VBG	do-v
 something	something	something	NN	something-n
 extraordinary	extraordinary	extraordinary	JJ	extraordinary-j
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 has	has	have	VBZ	have-v
 truly	truly	truly	RB	truly-r
@@ -95,12 +99,14 @@ into	into	into	IN	into-i
 successful	successful	successful	JJ	successful-j
 reality	reality	reality	NN	reality-n
 .	.	.	.	.-x
+
 Hassan	Hassan	Hassan	NNP	Hassan-e
 Siddiqui	Siddiqui	Siddiqui	NNP	Siddiqui-e
 belonged	belonged	belong	VBD	belong-v
 to	to	to	TO	to-t
 Karachi	Karachi	Karachi	NNP	Karachi-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
 warmly	warmly	warmly	RB	warmly-r
@@ -118,6 +124,7 @@ every	every	every	DT	every-d
 Pakistani	Pakistani	pakistani	JJ	pakistani-j
 proud	proud	proud	NN	proud-n
 .	.	.	.	.-x
+
 Have	Have	have	VBP	have-v
 a	a	a	DT	a-d
 look	look	look	NN	look-n
@@ -134,3 +141,4 @@ he	he	he	PRP	he-p
 landed	landed	land	VBD	land-v
 back	back	back	RB	back-r
 .	.	.	.	.-x
+

@@ -41,6 +41,7 @@ relations	relations	relation	NNS	relation-n
 with	with	with	IN	with-i
 China	China	China	NNP	China-e
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 very	very	very	RB	very-r
@@ -89,6 +90,7 @@ a	a	a	DT	a-d
 tweet	tweet	tweet	NN	tweet-n
 Sunday	Sunday	Sunday	NNP	Sunday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 tariffs	tariffs	tariff	NNS	tariff-n
 had	had	have	VBD	have-v
@@ -127,6 +129,7 @@ US	US	US	NNP	US-e
 Trade	Trade	Trade	NNP	Trade-e
 Representative	Representative	Representative	NNP	Representative-e
 .	.	.	.	.-x
+
 Trump	Trump	Trump	NNP	Trump-e
 on	on	on	IN	on-i
 Sunday	Sunday	Sunday	NNP	Sunday-e
@@ -224,6 +227,7 @@ an	an	a	DT	a-d
 unacceptable	unacceptable	unacceptable	JJ	unacceptable-j
 offer	offer	offer	NN	offer-n
 .	.	.	.	.-x
+
 Trump	Trump	Trump	NNP	Trump-e
 had	had	have	VBD	have-v
 characterized	characterized	characterize	VBN	characterize-v
@@ -250,6 +254,7 @@ Sunday	Sunday	Sunday	NNP	Sunday-e
 .	.	.	.	.-x
 "	``	``	``	``-x
 President	President	President	NNP	President-e
+
 Xi	Xi	xi	NN	xi-n
 of	of	of	IN	of-i
 China	China	China	NNP	China-e
@@ -272,3 +277,4 @@ Un	Un	Un	NNP	Un-e
 he	he	he	PRP	he-p
 tweeted	tweeted	tweet	VBD	tweet-v
 .	.	.	.	.-x
+

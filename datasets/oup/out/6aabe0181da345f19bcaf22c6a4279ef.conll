@@ -28,6 +28,7 @@ House	House	House	NNP	House-e
 Kansas	Kansas	Kansas	NNP	Kansas-e
 City	City	City	NNP	City-e
 .	.	.	.	.-x
+
 Jimmy	Jimmy	Jimmy	NNP	Jimmy-e
 was	was	be	VBD	be-v
 born	born	bear	VBN	bear-v
@@ -54,6 +55,7 @@ Liles	Liles	Liles	NNP	Liles-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 O'Dell	O'Dell	O'Dell	NNP	O'Dell-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
 united	united	unite	VBN	unite-v
@@ -70,6 +72,7 @@ May	May	May	NNP	May-e
 ,	,	,	,	,-x
 1989	1989	1989	CD	1989-f
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 young	young	young	JJ	young-j
@@ -91,6 +94,7 @@ and	and	and	CC	and-c
 was	was	be	VBD	be-v
 educated	educated	educate	VBN	educate-v
 .	.	.	.	.-x
+
 Jimmy	Jimmy	Jimmy	NNP	Jimmy-e
 worked	worked	work	VBD	work-v
 at	at	at	IN	at-i
@@ -108,6 +112,7 @@ to	to	to	TO	to-t
 Kansas	Kansas	Kansas	NNP	Kansas-e
 City	City	City	NNP	City-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 also	also	also	RB	also-r
 worked	worked	work	VBD	work-v
@@ -132,6 +137,7 @@ Center	Center	Center	NNP	Center-e
 in	in	in	IN	in-i
 Richmond	Richmond	Richmond	NNP	Richmond-e
 .	.	.	.	.-x
+
 Jimmy	Jimmy	Jimmy	NNP	Jimmy-e
 loved	loved	love	VBD	love-v
 the	the	the	DT	the-d
@@ -148,6 +154,7 @@ mushrooms	mushrooms	mushroom	NNS	mushroom-n
 and	and	and	CC	and-c
 gardening	gardening	gardening	NN	gardening-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
 an	an	a	DT	a-d
@@ -164,6 +171,7 @@ playing	playing	play	VBG	play-v
 the	the	the	DT	the-d
 spoons	spoons	spoon	NNS	spoon-n
 .	.	.	.	.-x
+
 Additional	Additional	additional	JJ	additional-j
 survivors	survivors	survivor	NNS	survivor-n
 include	include	include	VBP	include-v
@@ -251,6 +259,7 @@ lot	lot	lot	NN	lot-n
 of	of	of	IN	of-i
 friends	friends	friend	NNS	friend-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
 preceded	preceded	precede	VBN	precede-v
@@ -269,6 +278,7 @@ mother-in-law	mother-in-law	mother-in-law	NN	mother-in-law-n
 Barbara	Barbara	Barbara	NNP	Barbara-e
 Milburn	Milburn	Milburn	NNP	Milburn-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 family	family	family	NN	family-n
 suggests	suggests	suggest	VBZ	suggest-v
@@ -287,6 +297,7 @@ O'Dell	O'Dell	O'Dell	NNP	O'Dell-e
 Memorial	Memorial	Memorial	NNP	Memorial-e
 Fund	Fund	Fund	NNP	Fund-e
 .	.	.	.	.-x
+
 Visitation	Visitation	Visitation	NNP	Visitation-e
 ,	,	,	,	,-x
 with	with	with	IN	with-i
@@ -321,3 +332,4 @@ Home	Home	Home	NNP	Home-e
 in	in	in	IN	in-i
 Richmond	Richmond	Richmond	NNP	Richmond-e
 .	.	.	.	.-x
+

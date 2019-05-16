@@ -36,6 +36,7 @@ seen	seen	see	VBN	see-v
 before	before	before	IN	before-i
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 In	In	in	IN	in-i
 a	a	a	DT	a-d
 string	string	string	NN	string-n
@@ -72,6 +73,7 @@ is	is	be	VBZ	be-v
 a	a	a	DT	a-d
 racist	racist	racist	NN	racist-n
 .	.	.	.	.-x
+
 Trump	Trump	Trump	NNP	Trump-e
 said	said	say	VBD	say-v
 a	a	a	DT	a-d
@@ -102,6 +104,7 @@ a	a	a	DT	a-d
 lie	lie	lie	NN	lie-n
 !	!	!	.	!-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 also	also	also	RB	also-r
 called	called	call	VBD	call-v
@@ -115,6 +118,7 @@ to	to	to	TO	to-t
 Trump	Trump	Trump	NNP	Trump-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 president	president	president	NN	president-n
 also	also	also	RB	also-r
@@ -143,6 +147,7 @@ new	new	new	JJ	new-j
 book	book	book	NN	book-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 On	On	on	IN	on-i
 August	August	August	NNP	August-e
 21	21	21	CD	21-f
@@ -158,6 +163,7 @@ and	and	and	CC	and-c
 financial	financial	financial	JJ	financial-j
 fraud	fraud	fraud	NN	fraud-n
 .	.	.	.	.-x
+
 Then	Then	then	RB	then-r
 on	on	on	IN	on-i
 November	November	November	NNP	November-e
@@ -199,3 +205,4 @@ to	to	to	TO	to-t
 influence	influence	influence	VB	influence-v
 voters	voters	voter	NNS	voter-n
 .	.	.	.	.-x
+

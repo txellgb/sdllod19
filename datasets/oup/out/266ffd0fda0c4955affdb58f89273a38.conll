@@ -29,6 +29,7 @@ and	and	and	CC	and-c
 environmental	environmental	environmental	JJ	environmental-j
 disaster	disaster	disaster	NN	disaster-n
 .	.	.	.	.-x
+
 Norway	Norway	Norway	NNP	Norway-e
 oil	oil	oil	NN	oil-n
 giant	giant	giant	NN	giant-n
@@ -67,6 +68,7 @@ plan	plan	plan	NN	plan-n
 goes	goes	go	VBZ	go-v
 awry	awry	awry	RB	awry-r
 .	.	.	.	.-x
+
 Protestors	Protestors	protestor	NNS	protestor-n
 are	are	be	VBP	be-v
 gearing	gearing	gear	VBG	gear-v
@@ -97,6 +99,7 @@ and	and	and	CC	and-c
 South	South	South	NNP	South-e
 Australia	Australia	Australia	NNP	Australia-e
 .	.	.	.	.-x
+
 Equinor	Equinor	Equinor	NNP	Equinor-e
 is	is	be	VBZ	be-v
 confident	confident	confident	JJ	confident-j
@@ -124,6 +127,7 @@ than	than	than	IN	than-i
 1000	1000	1000	CD	1000-f
 jobs	jobs	job	NNS	job-n
 .	.	.	.	.-x
+
 Federal	Federal	Federal	NNP	Federal-e
 Resources	Resources	Resources	NNP	Resources-e
 Minister	Minister	Minister	NNP	Minister-e
@@ -154,6 +158,7 @@ country	country	country	NN	country-n
 fuel	fuel	fuel	NN	fuel-n
 security	security	security	NN	security-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 critics	critics	critic	NNS	critic-n
 -	-	-	:	--x
@@ -189,6 +194,7 @@ the	the	the	DT	the-d
 local	local	local	JJ	local-j
 economy	economy	economy	NN	economy-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 said	said	say	VBD	say-v
 it	it	it	PRP	it-p
@@ -221,6 +227,7 @@ fossil	fossil	fossil	NN	fossil-n
 fuel	fuel	fuel	NN	fuel-n
 industry	industry	industry	NN	industry-n
 .	.	.	.	.-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Canavan	Canavan	Canavan	NNP	Canavan-e
 was	was	be	VBD	be-v
@@ -259,6 +266,7 @@ remain	remain	remain	VB	remain-v
 in	in	in	IN	in-i
 Australia	Australia	Australia	NNP	Australia-e
 .	.	.	.	.-x
+
 Further	Further	further	JJ	further-j
 emails	emails	email	NNS	email-n
 and	and	and	CC	and-c
@@ -269,6 +277,7 @@ spokeswoman	spokeswoman	spokeswoman	NN	spokeswoman-n
 went	went	go	VBD	go-v
 unanswered	unanswered	unanswered	JJ	unanswered-j
 .	.	.	.	.-x
+
 South	South	South	NNP	South-e
 Australian	Australian	australian	JJ	australian-j
 projects	projects	project	NNS	project-n
@@ -301,6 +310,7 @@ which	which	which	WDT	which-d
 they	they	they	PRP	they-p
 rely	rely	rely	VBP	rely-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 South	South	South	NNP	South-e
 Australians	Australians	Australians	NNPS	Australians-e
@@ -334,6 +344,7 @@ The	The	the	DT	the-d
 New	New	New	NNP	New-e
 Daily	Daily	Daily	NNP	Daily-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 As	As	as	IN	as-i
 our	our	we	PRP$	we-p
@@ -356,6 +367,7 @@ are	are	be	VBP	be-v
 minimal	minimal	minimal	JJ	minimal-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Equinor	Equinor	Equinor	NNP	Equinor-e
 's	's	's	POS	's-p
 draft	draft	draft	NN	draft-n
@@ -406,6 +418,7 @@ equipment	equipment	equipment	NN	equipment-n
 from	from	from	IN	from-i
 Singapore	Singapore	Singapore	NNP	Singapore-e
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 could	could	could	MD	could-v
 blow	blow	blow	VB	blow-v
@@ -420,6 +433,7 @@ cap	cap	cap	NN	cap-n
 was	was	be	VBD	be-v
 needed	needed	need	VBN	need-v
 .	.	.	.	.-x
+
 Latest	Latest	latest	JJS	latest-j
 worst-case-scenario	worst-case-scenario	worst-case-scenario	JJ	worst-case-scenario-j
 mapping	mapping	mapping	NN	mapping-n
@@ -456,6 +470,7 @@ coast	coast	coast	NN	coast-n
 to	to	to	TO	to-t
 Sydney	Sydney	Sydney	NNP	Sydney-e
 .	.	.	.	.-x
+
 Sludge	Sludge	sludge	NN	sludge-n
 would	would	would	MD	would-v
 cover	cover	cover	VB	cover-v
@@ -469,6 +484,7 @@ most	most	most	JJS	most-j
 of	of	of	IN	of-i
 Tasmania	Tasmania	Tasmania	NNP	Tasmania-e
 .	.	.	.	.-x
+
 Equinor	Equinor	Equinor	NNP	Equinor-e
 said	said	say	VBD	say-v
 it	it	it	PRP	it-p
@@ -496,6 +512,7 @@ just	just	just	RB	just-r
 two	two	two	CD	two-f
 disasters	disasters	disaster	NNS	disaster-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 of	of	of	IN	of-i
 those	those	those	DT	those-d
@@ -519,6 +536,7 @@ kilometres	kilometres	kilometre	NNS	kilometre-n
 of	of	of	IN	of-i
 ocean	ocean	ocean	NN	ocean-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Bight	Bight	Bight	NNP	Bight-e
 is	is	be	VBZ	be-v
@@ -557,6 +575,7 @@ also	also	also	RB	also-r
 attract	attract	attract	VBP	attract-v
 tourists	tourists	tourist	NNS	tourist-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 CSIRO	CSIRO	CSIRO	NNP	CSIRO-e
 and	and	and	CC	and-c
@@ -580,6 +599,7 @@ Bight	Bight	Bight	NNP	Bight-e
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Scientists	Scientists	scientist	NNS	scientist-n
 involved	involved	involve	VBN	involve-v
 in	in	in	IN	in-i
@@ -598,6 +618,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 area	area	area	NN	area-n
 .	.	.	.	.-x
+
 Protest	Protest	protest	VB	protest-v
 organiser	organiser	organiser	NN	organiser-n
 in	in	in	IN	in-i
@@ -641,6 +662,7 @@ these	these	these	DT	these-d
 waters	waters	water	NNS	water-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Wilderness	Wilderness	wilderness	NN	wilderness-n
 Society	Society	Society	NNP	Society-e
 South	South	South	NNP	South-e
@@ -675,6 +697,7 @@ magnificent	magnificent	magnificent	JJ	magnificent-j
 "	''	''	''	''-x
 Bight	Bight	bight	NN	bight-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -694,6 +717,7 @@ The	The	the	DT	the-d
 New	New	New	NNP	New-e
 Daily	Daily	Daily	NNP	Daily-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 things	things	thing	NNS	thing-n
@@ -722,6 +746,7 @@ the	the	the	DT	the-d
 map	map	map	NN	map-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Equinor	Equinor	Equinor	NNP	Equinor-e
 is	is	be	VBZ	be-v
 an	an	a	DT	a-d
@@ -731,6 +756,7 @@ majority-owned	majority-owned	majority-owned	JJ	majority-owned-j
 by	by	by	IN	by-i
 Norway	Norway	Norway	NNP	Norway-e
 .	.	.	.	.-x
+
 Since	Since	since	IN	since-i
 2011	2011	2011	CD	2011-f
 ,	,	,	,	,-x
@@ -746,6 +772,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 Bight	Bight	Bight	NNP	Bight-e
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 it	it	it	PRP	it-p
 gets	gets	get	VBZ	get-v
@@ -771,6 +798,7 @@ in	in	in	IN	in-i
 late	late	late	JJ	late-j
 2020	2020	2020	CD	2020-f
 .	.	.	.	.-x
+
 Equinor	Equinor	Equinor	NNP	Equinor-e
 said	said	say	VBD	say-v
 that	that	that	IN	that-i
@@ -796,6 +824,7 @@ potential	potential	potential	JJ	potential-j
 benefits	benefits	benefit	NNS	benefit-n
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 2018	2018	2018	CD	2018-f
 report	report	report	NN	report-n
@@ -827,6 +856,7 @@ another	another	another	DT	another-d
 3400	3400	3400	CD	3400-f
 nationwide	nationwide	nationwide	JJ	nationwide-j
 .	.	.	.	.-x
+
 Supporters	Supporters	supporter	NNS	supporter-n
 also	also	also	RB	also-r
 point	point	point	VBP	point-v
@@ -860,6 +890,7 @@ of	of	of	IN	of-i
 its	its	its	PRP$	its-p
 oil	oil	oil	NN	oil-n
 .	.	.	.	.-x
+
 Research	Research	research	NN	research-n
 by	by	by	IN	by-i
 The	The	the	DT	the-d
@@ -895,6 +926,7 @@ and	and	and	CC	and-c
 wild	wild	wild	JJ	wild-j
 fisheries	fisheries	fishery	NNS	fishery-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 there	there	there	EX	there-r
 has	has	have	VBZ	have-v
@@ -916,6 +948,7 @@ would	would	would	MD	would-v
 be	be	be	VB	be-v
 refined	refined	refine	VBN	refine-v
 .	.	.	.	.-x
+
 Equinor	Equinor	Equinor	NNP	Equinor-e
 has	has	have	VBZ	have-v
 opened	opened	open	VBN	open-v
@@ -924,6 +957,7 @@ draft	draft	draft	NN	draft-n
 environment	environment	environment	NN	environment-n
 plan	plan	plan	NN	plan-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 public	public	public	NN	public-n
 has	has	have	VBZ	have-v
@@ -946,6 +980,7 @@ Authority	Authority	Authority	NNP	Authority-e
 NOPSEMA	NOPSEMA	NOPSEMA	NNP	NOPSEMA-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -960,3 +995,4 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 Bight	Bight	Bight	NNP	Bight-e
 .	.	.	.	.-x
+

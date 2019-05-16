@@ -14,6 +14,7 @@ should	should	should	MD	should-v
 do	do	do	VB	do-v
 next	next	next	JJ	next-j
 .	.	.	.	.-x
+
 Brexit	Brexit	Brexit	NNP	Brexit-e
 brought	brought	bring	VBD	bring-v
 parliament	parliament	parliament	NN	parliament-n
@@ -32,6 +33,7 @@ to	to	to	TO	to-t
 sustain	sustain	sustain	VB	sustain-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 far	far	far	RB	far-r
 ,	,	,	,	,-x
@@ -52,6 +54,7 @@ the	the	the	DT	the-d
 British	British	british	JJ	british-j
 electorate	electorate	electorate	NN	electorate-n
 .	.	.	.	.-x
+
 Over	Over	over	IN	over-i
 many	many	many	JJ	many-j
 electoral	electoral	electoral	JJ	electoral-j
@@ -88,6 +91,7 @@ equality	equality	equality	NN	equality-n
 of	of	of	IN	of-i
 opportunity	opportunity	opportunity	NN	opportunity-n
 .	.	.	.	.-x
+
 Being	Being	be	VBG	be-v
 on	on	on	IN	on-i
 the	the	the	DT	the-d
@@ -104,6 +108,7 @@ place	place	place	NN	place-n
 to	to	to	TO	to-t
 start	start	start	VB	start-v
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 going	going	go	VBG	go-v
 beyond	beyond	beyond	IN	beyond-i
@@ -143,6 +148,7 @@ people	people	people	NNS	people-n
 's	's	's	POS	's-p
 lives	lives	life	NNS	life-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 good	good	good	JJ	good-j
@@ -161,6 +167,7 @@ others	others	other	NNS	other-n
 were	were	be	VBD	be-v
 Labour	Labour	labour	NN	labour-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 it	it	it	PRP	it-p
 could	could	could	MD	could-v
@@ -183,6 +190,7 @@ of	of	of	IN	of-i
 everyday	everyday	everyday	JJ	everyday-j
 life	life	life	NN	life-n
 .	.	.	.	.-x
+
 Rather	Rather	rather	RB	rather-r
 than	than	than	IN	than-i
 an	an	a	DT	a-d
@@ -206,6 +214,7 @@ of	of	of	IN	of-i
 each	each	each	DT	each-d
 tradition	tradition	tradition	NN	tradition-n
 .	.	.	.	.-x
+
 Not	Not	not	RB	not-r
 bland	bland	bland	JJ	bland-j
 centrism	centrism	centrism	NN	centrism-n
@@ -233,6 +242,7 @@ stage	stage	stage	NN	stage-n
 of	of	of	IN	of-i
 life	life	life	NN	life-n
 .	.	.	.	.-x
+
 Such	Such	such	PDT	such-d
 an	an	a	DT	a-d
 approach	approach	approach	NN	approach-n
@@ -270,6 +280,7 @@ realise	realise	realise	VB	realise-v
 their	their	they	PRP$	they-p
 potential	potential	potential	NN	potential-n
 .	.	.	.	.-x
+
 Both	Both	both	DT	both-d
 traditions	traditions	tradition	NNS	tradition-n
 could	could	could	MD	could-v
@@ -300,6 +311,7 @@ of	of	of	IN	of-i
 our	our	we	PRP$	we-p
 nation	nation	nation	NN	nation-n
 .	.	.	.	.-x
+
 From	From	from	IN	from-i
 childcare	childcare	childcare	NN	childcare-n
 to	to	to	TO	to-t
@@ -338,6 +350,7 @@ wider	wider	wider	JJR	wider-j
 social	social	social	JJ	social-j
 benefits	benefits	benefit	NNS	benefit-n
 .	.	.	.	.-x
+
 Automatic	Automatic	Automatic	NNP	Automatic-e
 pension	pension	pension	NN	pension-n
 contributions	contributions	contribution	NNS	contribution-n
@@ -364,6 +377,7 @@ pay	pay	pay	NN	pay-n
 and	and	and	CC	and-c
 taxes	taxes	tax	NNS	tax-n
 .	.	.	.	.-x
+
 Instead	Instead	instead	RB	instead-r
 of	of	of	IN	of-i
 viewing	viewing	view	VBG	view-v
@@ -399,6 +413,7 @@ areas	areas	area	NNS	area-n
 of	of	of	IN	of-i
 policy	policy	policy	NN	policy-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 payments	payments	payment	NNS	payment-n
 are	are	be	VBP	be-v
@@ -427,6 +442,7 @@ with	with	with	IN	with-i
 government	government	government	NN	government-n
 support	support	support	NN	support-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 strike	strike	strike	VBP	strike-v
 a	a	a	DT	a-d
@@ -445,6 +461,7 @@ choices	choices	choice	NNS	choice-n
 people	people	people	NNS	people-n
 make	make	make	VBP	make-v
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -462,6 +479,7 @@ a	a	a	DT	a-d
 bigger	bigger	bigger	JJR	bigger-j
 life	life	life	NN	life-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 economy	economy	economy	NN	economy-n
@@ -501,6 +519,7 @@ collaborative	collaborative	collaborative	JJ	collaborative-j
 productive	productive	productive	JJ	productive-j
 relationships	relationships	relationship	NNS	relationship-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 possible	possible	possible	JJ	possible-j
@@ -566,6 +585,7 @@ also	also	also	RB	also-r
 with	with	with	IN	with-i
 consumers	consumers	consumer	NNS	consumer-n
 .	.	.	.	.-x
+
 Drawing	Drawing	draw	VBG	draw-v
 from	from	from	IN	from-i
 left	left	leave	VBN	leave-v
@@ -595,6 +615,7 @@ around	around	around	IN	around-i
 the	the	the	DT	the-d
 world	world	world	NN	world-n
 .	.	.	.	.-x
+
 Approaches	Approaches	approach	NNS	approach-n
 to	to	to	TO	to-t
 ownership	ownership	ownership	NN	ownership-n
@@ -618,6 +639,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 right	right	right	NN	right-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 capital	capital	capital	NN	capital-n
 is	is	be	VBZ	be-v
@@ -658,6 +680,7 @@ of	of	of	IN	of-i
 ordinary	ordinary	ordinary	JJ	ordinary-j
 people	people	people	NNS	people-n
 .	.	.	.	.-x
+
 Drawing	Drawing	draw	VBG	draw-v
 from	from	from	IN	from-i
 left	left	leave	VBN	leave-v
@@ -693,6 +716,7 @@ time	time	time	NN	time-n
 reducing	reducing	reduce	VBG	reduce-v
 inequality	inequality	inequality	NN	inequality-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 public	public	public	JJ	public-j
 services	services	service	NNS	service-n
@@ -720,6 +744,7 @@ their	their	they	PRP$	they-p
 own	own	own	JJ	own-j
 lives	lives	life	NNS	life-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 left	left	leave	VBN	leave-v
@@ -739,6 +764,7 @@ at	at	at	IN	at-i
 lower	lower	lower	JJR	lower-j
 cost	cost	cost	NN	cost-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 citizen	citizen	citizen	NN	citizen-n
 ,	,	,	,	,-x
@@ -754,6 +780,7 @@ is	is	be	VBZ	be-v
 the	the	the	DT	the-d
 winner	winner	winner	NN	winner-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 could	could	could	MD	could-v
 mean	mean	mean	VB	mean-v
@@ -765,6 +792,7 @@ of	of	of	IN	of-i
 public	public	public	JJ	public-j
 spending	spending	spending	NN	spending-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 would	would	would	MD	would-v
 seek	seek	seek	VB	seek-v
@@ -800,10 +828,12 @@ to	to	to	TO	to-t
 lifelong	lifelong	lifelong	JJ	lifelong-j
 learning	learning	learning	NN	learning-n
 .	.	.	.	.-x
+
 Finally	Finally	finally	RB	finally-r
 ,	,	,	,	,-x
 approach	approach	approach	NN	approach-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 Brexit	Brexit	Brexit	NNP	Brexit-e
 was	was	be	VBD	be-v
@@ -839,6 +869,7 @@ to	to	to	TO	to-t
 move	move	move	VB	move-v
 on	on	on	IN	on-i
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Independent	Independent	Independent	NNP	Independent-e
 Group	Group	Group	NNP	Group-e
@@ -855,6 +886,7 @@ of	of	of	IN	of-i
 political	political	political	JJ	political-j
 discourse	discourse	discourse	NN	discourse-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 kindness	kindness	kindness	NN	kindness-n
 is	is	be	VBZ	be-v
@@ -865,6 +897,7 @@ from	from	from	IN	from-i
 our	our	we	PRP$	we-p
 politics	politics	politics	NNS	politics-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 absent	absent	absent	JJ	absent-j
@@ -882,6 +915,7 @@ justice	justice	justice	NN	justice-n
 to	to	to	TO	to-t
 immigration	immigration	immigration	NN	immigration-n
 .	.	.	.	.-x
+
 Kindness	Kindness	kindness	NN	kindness-n
 might	might	might	MD	might-v
 seem	seem	seem	VB	seem-v
@@ -933,6 +967,7 @@ application	application	application	NN	application-n
 to	to	to	TO	to-t
 policy	policy	policy	NN	policy-n
 .	.	.	.	.-x
+
 Beyond	Beyond	beyond	IN	beyond-i
 Brexit	Brexit	Brexit	NNP	Brexit-e
 ,	,	,	,	,-x
@@ -962,6 +997,7 @@ pollute	pollute	pollute	VB	pollute-v
 our	our	we	PRP$	we-p
 discourse	discourse	discourse	NN	discourse-n
 .	.	.	.	.-x
+
 Combining	Combining	combine	VBG	combine-v
 the	the	the	DT	the-d
 best	best	best	JJS	best-j
@@ -985,6 +1021,7 @@ directions	directions	direction	NNS	direction-n
 for	for	for	IN	for-i
 solutions	solutions	solution	NNS	solution-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 doing	doing	do	VBG	do-v
 so	so	so	RB	so-r
@@ -1012,3 +1049,4 @@ and	and	and	CC	and-c
 grow	grow	grow	VB	grow-v
 old	old	old	JJ	old-j
 .	.	.	.	.-x
+

@@ -25,6 +25,7 @@ meditation	meditation	meditation	NN	meditation-n
 bracket	bracket	bracket	NN	bracket-n
 contest	contest	contest	NN	contest-n
 .	.	.	.	.-x
+
 Because	Because	because	IN	because-i
 March	March	March	NNP	March-e
 should	should	should	MD	should-v
@@ -33,6 +34,7 @@ be	be	be	VB	be-v
 all	all	all	DT	all-d
 madness	madness	madness	NN	madness-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 a	a	a	DT	a-d
 culture	culture	culture	NN	culture-n
@@ -63,6 +65,7 @@ and	and	and	CC	and-c
 even	even	even	RB	even-r
 shame	shame	shame	NN	shame-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 seems	seems	seem	VBZ	seem-v
 so	so	so	RB	so-r
@@ -96,6 +99,7 @@ in	in	in	IN	in-i
 your	your	you	PRP$	you-p
 consciousness	consciousness	consciousness	NN	consciousness-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 expect	expect	expect	VBP	expect-v
 to	to	to	TO	to-t
@@ -126,6 +130,7 @@ improved	improved	improve	VBD	improve-v
 relationship	relationship	relationship	NN	relationship-n
 satisfaction	satisfaction	satisfaction	NN	satisfaction-n
 .	.	.	.	.-x
+
 Except	Except	except	IN	except-i
 ,	,	,	,	,-x
 for	for	for	IN	for-i
@@ -138,6 +143,7 @@ not	not	not	RB	not-r
 what	what	what	WP	what-p
 happens	happens	happen	VBZ	happen-v
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 might	might	might	MD	might-v
 find	find	find	VB	find-v
@@ -161,6 +167,7 @@ abandon	abandon	abandon	VB	abandon-v
 their	their	they	PRP$	they-p
 practice	practice	practice	NN	practice-n
 .	.	.	.	.-x
+
 Such	Such	such	JJ	such-j
 frustration	frustration	frustration	NN	frustration-n
 is	is	be	VBZ	be-v
@@ -185,6 +192,7 @@ do	do	do	VB	do-v
 say	say	say	VB	say-v
 experts	experts	expert	NNS	expert-n
 .	.	.	.	.-x
+
 People	People	people	NNS	people-n
 's	's	's	POS	's-p
 expectations	expectations	expectation	NNS	expectation-n
@@ -202,6 +210,7 @@ could	could	could	MD	could-v
 ever	ever	ever	RB	ever-r
 deliver	deliver	deliver	VB	deliver-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
@@ -240,6 +249,7 @@ Spirituality	Spirituality	Spirituality	NNP	Spirituality-e
 &	&	&	CC	&-c
 Healing	Healing	Healing	NNP	Healing-e
 .	.	.	.	.-x
+
 "	''	''	''	''-x
 [	-LSB-	-lsb-	-LRB-	-lsb--x
 People	People	people	NNS	people-n
@@ -253,6 +263,7 @@ it	it	it	PRP	it-p
 mindfulness-based	mindfulness-based	mindfulness-based	JJ	mindfulness-based-j
 something	something	something	NN	something-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
 going	going	go	VBG	go-v
@@ -273,6 +284,7 @@ it	it	it	PRP	it-p
 a	a	a	DT	a-d
 panacea	panacea	panacea	NN	panacea-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 limits	limits	limit	NNS	limit-n
@@ -285,6 +297,7 @@ to	to	to	TO	to-t
 do	do	do	VB	do-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Those	Those	those	DT	those-d
 misconceptions	misconceptions	misconception	NNS	misconception-n
 can	can	can	MD	can-v
@@ -297,6 +310,7 @@ a	a	a	DT	a-d
 little	little	little	JJ	little-j
 research	research	research	NN	research-n
 .	.	.	.	.-x
+
 Yet	Yet	yet	CC	yet-c
 there	there	there	EX	there-r
 's	's	be	VBZ	be-v
@@ -314,6 +328,7 @@ is	is	be	VBZ	be-v
 n't	n't	not	RB	not-r
 effective	effective	effective	JJ	effective-j
 .	.	.	.	.-x
+
 An	An	a	DT	a-d
 emerging	emerging	emerge	VBG	emerge-v
 field	field	field	NN	field-n
@@ -337,6 +352,7 @@ after	after	after	IN	after-i
 mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 practice	practice	practice	NN	practice-n
 .	.	.	.	.-x
+
 Researchers	Researchers	researcher	NNS	researcher-n
 working	working	work	VBG	work-v
 to	to	to	TO	to-t
@@ -358,6 +374,7 @@ with	with	with	IN	with-i
 important	important	important	JJ	important-j
 modifications	modifications	modification	NNS	modification-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 before	before	before	IN	before-i
 giving	giving	give	VBG	give-v
@@ -387,6 +404,7 @@ the	the	the	DT	the-d
 following	following	follow	VBG	follow-v
 things	things	thing	NNS	thing-n
 :	:	:	:	:-x
+
 Mindfulness	Mindfulness	Mindfulness	NNP	Mindfulness-e
 has	has	have	VBZ	have-v
 multiple	multiple	multiple	JJ	multiple-j
@@ -433,6 +451,7 @@ like	like	like	IN	like-i
 this	this	this	DT	this-d
 one	one	one	CD	one-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Mindful	Mindful	mindful	JJ	mindful-j
 awareness	awareness	awareness	NN	awareness-n
@@ -455,6 +474,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Perhaps	Perhaps	perhaps	RB	perhaps-r
 the	the	the	DT	the-d
 most	most	most	RBS	most-r
@@ -500,6 +520,7 @@ and	and	and	CC	and-c
 non-judgmentally	non-judgmentally	non-judgmentally	RB	non-judgmentally-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Though	Though	though	IN	though-i
 Haley	Haley	Haley	NNP	Haley-e
 uses	uses	use	VBZ	use-v
@@ -555,6 +576,7 @@ what	what	what	WP	what-p
 is	is	be	VBZ	be-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 J.	J.	J.	NNP	J.-e
 David	David	David	NNP	David-e
 Creswell	Creswell	Creswell	NNP	Creswell-e
@@ -588,6 +610,7 @@ present	present	present	JJ	present-j
 situation	situation	situation	NN	situation-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 While	While	while	IN	while-i
 different	different	different	JJ	different-j
 from	from	from	IN	from-i
@@ -606,6 +629,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 present	present	present	JJ	present-j
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 embrace	embrace	embrace	VBP	embrace-v
@@ -641,6 +665,7 @@ might	might	might	MD	might-v
 leave	leave	leave	VB	leave-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 approach	approach	approach	NN	approach-n
 will	will	will	MD	will-v
@@ -653,6 +678,7 @@ refine	refine	refine	VB	refine-v
 your	your	you	PRP$	you-p
 expectations	expectations	expectation	NNS	expectation-n
 .	.	.	.	.-x
+
 Creswell	Creswell	Creswell	NNP	Creswell-e
 says	says	say	VBZ	say-v
 popular	popular	popular	JJ	popular-j
@@ -672,6 +698,7 @@ blissing	blissing	bliss	VBG	bliss-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -684,6 +711,7 @@ rainbows	rainbows	rainbow	NNS	rainbow-n
 he	he	he	PRP	he-p
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 liken	liken	liken	VBP	liken-v
@@ -697,6 +725,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 brain	brain	brain	NN	brain-n
 .	.	.	.	.-x
+
 [	-LSB-	-lsb-	-LRB-	-lsb--x
 Exercising	Exercising	exercise	VBG	exercise-v
 ]	-RSB-	-rsb-	-RRB-	-rsb--x
@@ -718,6 +747,7 @@ it	it	it	PRP	it-p
 building	building	build	VBG	build-v
 muscle	muscle	muscle	NN	muscle-n
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 ,	,	,	,	,-x
@@ -732,6 +762,7 @@ more	more	more	JJR	more-j
 resilient	resilient	resilient	JJ	resilient-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 That	That	that	DT	that-d
 mental	mental	mental	JJ	mental-j
 strength	strength	strength	NN	strength-n
@@ -770,6 +801,7 @@ any	any	any	DT	any-d
 of	of	of	IN	of-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 no	no	no	DT	no-d
@@ -810,6 +842,7 @@ fulfilling	fulfilling	fulfil	VBG	fulfil-v
 or	or	or	CC	or-c
 exhausting	exhausting	exhausting	JJ	exhausting-j
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 people	people	people	NNS	people-n
 mistake	mistake	mistake	NN	mistake-n
@@ -833,6 +866,7 @@ not	not	not	RB	not-r
 the	the	the	DT	the-d
 case	case	case	NN	case-n
 .	.	.	.	.-x
+
 Developing	Developing	develop	VBG	develop-v
 mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 skills	skills	skill	NNS	skill-n
@@ -858,6 +892,7 @@ a	a	a	DT	a-d
 panic	panic	panic	NN	panic-n
 attack	attack	attack	NN	attack-n
 .	.	.	.	.-x
+
 From	From	from	IN	from-i
 Creswell	Creswell	Creswell	NNP	Creswell-e
 's	's	's	POS	's-p
@@ -878,6 +913,7 @@ of	of	of	IN	of-i
 uncomfortable	uncomfortable	uncomfortable	JJ	uncomfortable-j
 experiences	experiences	experience	NNS	experience-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 objective	objective	objective	NN	objective-n
 is	is	be	VBZ	be-v
@@ -902,6 +938,7 @@ and	and	and	CC	and-c
 mental	mental	mental	JJ	mental-j
 fatigue	fatigue	fatigue	NN	fatigue-n
 .	.	.	.	.-x
+
 Haley	Haley	Haley	NNP	Haley-e
 believes	believes	believe	VBZ	believe-v
 that	that	that	IN	that-i
@@ -936,6 +973,7 @@ the	the	the	DT	the-d
 present	present	present	JJ	present-j
 moment	moment	moment	NN	moment-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 they	they	they	PRP	they-p
 take	take	take	VBP	take-v
@@ -958,6 +996,7 @@ how	how	how	WRB	how-r
 to	to	to	TO	to-t
 respond	respond	respond	VB	respond-v
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 regular	regular	regular	JJ	regular-j
 practice	practice	practice	NN	practice-n
@@ -992,6 +1031,7 @@ compassionate	compassionate	compassionate	JJ	compassionate-j
 says	says	say	VBZ	say-v
 Haley	Haley	Haley	NNP	Haley-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 allows	allows	allow	VBZ	allow-v
@@ -1048,6 +1088,7 @@ choice	choice	choice	NN	choice-n
 .	.	.	.	.-x
 '	'	'	''	'-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 we	we	we	PRP	we-p
@@ -1073,6 +1114,7 @@ choice	choice	choice	NN	choice-n
 .	.	.	.	.-x
 '	'	'	''	'-x
 "	''	''	''	''-x
+
 That	That	that	DT	that-d
 sense	sense	sense	NN	sense-n
 of	of	of	IN	of-i
@@ -1098,6 +1140,7 @@ comes	comes	come	VBZ	come-v
 and	and	and	CC	and-c
 goes	goes	go	VBZ	go-v
 .	.	.	.	.-x
+
 Feeling	Feeling	feel	VBG	feel-v
 calm	calm	calm	JJ	calm-j
 and	and	and	CC	and-c
@@ -1124,6 +1167,7 @@ failed	failed	fail	VBN	fail-v
 at	at	at	IN	at-i
 mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 just	just	just	RB	just-r
 presents	presents	present	VBZ	present-v
@@ -1142,6 +1186,7 @@ the	the	the	DT	the-d
 following	following	follow	VBG	follow-v
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 Haley	Haley	Haley	NNP	Haley-e
 says	says	say	VBZ	say-v
 frustration	frustration	frustration	NN	frustration-n
@@ -1161,6 +1206,7 @@ to	to	to	TO	to-t
 practice	practice	practice	VB	practice-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 People	People	people	NNS	people-n
 commonly	commonly	commonly	RB	commonly-r
 believe	believe	believe	VBP	believe-v
@@ -1184,6 +1230,7 @@ just	just	just	RB	just-r
 one	one	one	CD	one-f
 option	option	option	NN	option-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 sometimes	sometimes	sometimes	RB	sometimes-r
 recommends	recommends	recommend	VBZ	recommend-v
@@ -1207,6 +1254,7 @@ periods	periods	period	NNS	period-n
 of	of	of	IN	of-i
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 Haley	Haley	Haley	NNP	Haley-e
 also	also	also	RB	also-r
 relies	relies	rely	VBZ	rely-v
@@ -1249,6 +1297,7 @@ possibilities	possibilities	possibility	NNS	possibility-n
 before	before	before	IN	before-i
 proceeding	proceeding	proceed	VBG	proceed-v
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 approach	approach	approach	NN	approach-n
 can	can	can	MD	can-v
@@ -1265,6 +1314,7 @@ from	from	from	IN	from-i
 being	being	be	VBG	be-v
 reactive	reactive	reactive	JJ	reactive-j
 .	.	.	.	.-x
+
 Creswell	Creswell	Creswell	NNP	Creswell-e
 's	's	's	POS	's-p
 own	own	own	JJ	own-j
@@ -1316,6 +1366,7 @@ mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 meditation	meditation	meditation	NN	meditation-n
 retreats	retreats	retreat	NNS	retreat-n
 .	.	.	.	.-x
+
 Creswell	Creswell	Creswell	NNP	Creswell-e
 recommends	recommends	recommend	VBZ	recommend-v
 exploring	exploring	explore	VBG	explore-v
@@ -1333,6 +1384,7 @@ a	a	a	DT	a-d
 qualified	qualified	qualify	VBN	qualify-v
 teacher	teacher	teacher	NN	teacher-n
 .	.	.	.	.-x
+
 Despite	Despite	despite	IN	despite-i
 the	the	the	DT	the-d
 clear	clear	clear	JJ	clear-j
@@ -1355,6 +1407,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 practice	practice	practice	NN	practice-n
 .	.	.	.	.-x
+
 Creswell	Creswell	Creswell	NNP	Creswell-e
 says	says	say	VBZ	say-v
 it	it	it	PRP	it-p
@@ -1372,6 +1425,7 @@ answer	answer	answer	VB	answer-v
 that	that	that	IN	that-i
 question	question	question	NN	question-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 meantime	meantime	meantime	NN	meantime-n
@@ -1413,6 +1467,7 @@ history	history	history	NN	history-n
 of	of	of	IN	of-i
 trauma	trauma	trauma	NN	trauma-n
 .	.	.	.	.-x
+
 David	David	David	NNP	David-e
 Treleaven	Treleaven	Treleaven	NNP	Treleaven-e
 ,	,	,	,	,-x
@@ -1463,6 +1518,7 @@ exacerbate	exacerbate	exacerbate	VB	exacerbate-v
 trauma	trauma	trauma	NN	trauma-n
 symptoms	symptoms	symptom	NNS	symptom-n
 .	.	.	.	.-x
+
 Paying	Paying	pay	VBG	pay-v
 close	close	close	JJ	close-j
 attention	attention	attention	NN	attention-n
@@ -1495,6 +1551,7 @@ to	to	to	TO	to-t
 traumatic	traumatic	traumatic	JJ	traumatic-j
 events	events	event	NNS	event-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 some	some	some	DT	some-d
 ,	,	,	,	,-x
@@ -1521,6 +1578,7 @@ freezing	freezing	freezing	NN	freezing-n
 in	in	in	IN	in-i
 place	place	place	NN	place-n
 .	.	.	.	.-x
+
 Treleaven	Treleaven	Treleaven	NNP	Treleaven-e
 describes	describes	describe	VBZ	describe-v
 that	that	that	IN	that-i
@@ -1536,6 +1594,7 @@ in	in	in	IN	in-i
 humans	humans	human	NNS	human-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 A	A	a	DT	a-d
 meditation	meditation	meditation	NN	meditation-n
 teacher	teacher	teacher	NN	teacher-n
@@ -1561,6 +1620,7 @@ of	of	of	IN	of-i
 mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 meditation	meditation	meditation	NN	meditation-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 People	People	people	NNS	people-n
 feel	feel	feel	VBP	feel-v
@@ -1586,6 +1646,7 @@ for	for	for	IN	for-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 While	While	while	IN	while-i
 Treleaven	Treleaven	Treleaven	NNP	Treleaven-e
 believes	believes	believe	VBZ	believe-v
@@ -1616,6 +1677,7 @@ their	their	they	PRP$	they-p
 unique	unique	unique	JJ	unique-j
 experiences	experiences	experience	NNS	experience-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 People	People	people	NNS	people-n
 feel	feel	feel	VBP	feel-v
@@ -1644,6 +1706,7 @@ them	them	they	PRP	they-p
 he	he	he	PRP	he-p
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 They	They	they	PRP	they-p
 end	end	end	VB	end-v
@@ -1669,6 +1732,7 @@ me	me	I	PRP	I-p
 .	.	.	.	.-x
 '	'	'	''	'-x
 "	''	''	''	''-x
+
 Treleaven	Treleaven	Treleaven	NNP	Treleaven-e
 instead	instead	instead	RB	instead-r
 advocates	advocates	advocate	VBZ	advocate-v
@@ -1678,6 +1742,7 @@ to	to	to	TO	to-t
 mindfulness	mindfulness	mindfulness	NN	mindfulness-n
 meditation	meditation	meditation	NN	meditation-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 urges	urges	urge	VBZ	urge-v
 people	people	people	NNS	people-n
@@ -1696,6 +1761,7 @@ weeks-long	weeks-long	weeks-long	JJ	weeks-long-j
 meditation	meditation	meditation	NN	meditation-n
 streaks	streaks	streak	NNS	streak-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 advises	advises	advise	VBZ	advise-v
 teachers	teachers	teacher	NNS	teacher-n
@@ -1707,6 +1773,7 @@ their	their	they	PRP$	they-p
 explicit	explicit	explicit	JJ	explicit-j
 permission	permission	permission	NN	permission-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 focusing	focusing	focus	VBG	focus-v
 on	on	on	IN	on-i
@@ -1742,6 +1809,7 @@ or	or	or	CC	or-c
 the	the	the	DT	the-d
 floor	floor	floor	NN	floor-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 sitting	sitting	sit	VBG	sit-v
 for	for	for	IN	for-i
@@ -1766,6 +1834,7 @@ that	that	that	IN	that-i
 incorporates	incorporates	incorporate	VBZ	incorporate-v
 movement	movement	movement	NN	movement-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 goal	goal	goal	NN	goal-n
 ,	,	,	,	,-x
@@ -1789,6 +1858,7 @@ risk	risk	risk	NN	risk-n
 of	of	of	IN	of-i
 harm	harm	harm	NN	harm-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 recommends	recommends	recommend	VBZ	recommend-v
 people	people	people	NNS	people-n
@@ -1810,6 +1880,7 @@ a	a	a	DT	a-d
 trauma-informed	trauma-informed	trauma-informed	JJ	trauma-informed-j
 approach	approach	approach	NN	approach-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 does	does	do	VBZ	do-v
@@ -1825,6 +1896,7 @@ practice	practice	practice	NN	practice-n
 Treleaven	Treleaven	Treleaven	NNP	Treleaven-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 can	can	can	MD	can-v
@@ -1845,6 +1917,7 @@ of	of	of	IN	of-i
 success	success	success	NN	success-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 No	No	no	DT	no-d
 matter	matter	matter	NN	matter-n
 why	why	why	WRB	why-r
@@ -1872,6 +1945,7 @@ pausing	pausing	pause	VBG	pause-v
 a	a	a	DT	a-d
 practice	practice	practice	NN	practice-n
 .	.	.	.	.-x
+
 Mindfulness	Mindfulness	Mindfulness	NNPS	Mindfulness-e
 ,	,	,	,	,-x
 after	after	after	IN	after-i
@@ -1882,3 +1956,4 @@ never	never	never	RB	never-r
 about	about	about	IN	about-i
 perfection	perfection	perfection	NN	perfection-n
 .	.	.	.	.-x
+

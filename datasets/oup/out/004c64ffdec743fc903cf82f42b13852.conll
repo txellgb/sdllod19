@@ -27,6 +27,7 @@ weaker	weaker	weaker	JJR	weaker-j
 global	global	global	JJ	global-j
 demand	demand	demand	NN	demand-n
 .	.	.	.	.-x
+
 Gross	Gross	Gross	NNP	Gross-e
 domestic	domestic	domestic	JJ	domestic-j
 product	product	product	NN	product-n
@@ -73,6 +74,7 @@ the	the	the	DT	the-d
 previous	previous	previous	JJ	previous-j
 quarter	quarter	quarter	NN	quarter-n
 .	.	.	.	.-x
+
 Simmering	Simmering	simmer	VBG	simmer-v
 tensions	tensions	tension	NNS	tension-n
 between	between	between	IN	between-i
@@ -118,6 +120,7 @@ a	a	a	DT	a-d
 global	global	global	JJ	global-j
 slowdown	slowdown	slowdown	NN	slowdown-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 may	may	may	MD	may-v
 give	give	give	VB	give-v
@@ -149,6 +152,7 @@ month	month	month	NN	month-n
 surprise	surprise	surprise	NN	surprise-n
 easing	easing	ease	VBG	ease-v
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 19-month	19-month	19-month	JJ	19-month-j
 low	low	low	JJ	low-j
@@ -183,6 +187,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 note	note	note	NN	note-n
 .	.	.	.	.-x
+
 Relations	Relations	relation	NNS	relation-n
 with	with	with	IN	with-i
 Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
@@ -215,6 +220,7 @@ between	between	between	IN	between-i
 both	both	both	DT	both-d
 countries	countries	country	NNS	country-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 comes	comes	come	VBZ	come-v
@@ -260,6 +266,7 @@ Group	Group	Group	NNP	Group-e
 in	in	in	IN	in-i
 Singapore	Singapore	Singapore	NNP	Singapore-e
 .	.	.	.	.-x
+
 Waning	Waning	waning	JJ	waning-j
 consumer	consumer	consumer	NN	consumer-n
 demand	demand	demand	NN	demand-n
@@ -281,6 +288,7 @@ two-thirds	two-thirds	two-third	NNS	two-third-n
 of	of	of	IN	of-i
 GDP	GDP	GDP	NNP	GDP-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 government	government	government	NN	government-n
 sees	sees	see	VBZ	see-v
@@ -302,6 +310,7 @@ Garg	Garg	Garg	NNP	Garg-e
 said	said	say	VBD	say-v
 yesterday	yesterday	yesterday	NN	yesterday-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 past	past	past	JJ	past-j
@@ -322,6 +331,7 @@ demand	demand	demand	NN	demand-n
 -	-	-	:	--x
 eased	eased	ease	VBD	ease-v
 .	.	.	.	.-x
+
 Cement	Cement	cement	NN	cement-n
 production	production	production	NN	production-n
 ,	,	,	,	,-x
@@ -334,6 +344,7 @@ activity	activity	activity	NN	activity-n
 abated	abated	abate	VBD	abate-v
 slightly	slightly	slightly	RB	slightly-r
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 the	the	the	DT	the-d
 government	government	government	NN	government-n
@@ -357,6 +368,7 @@ see	see	see	VBP	see-v
 more	more	more	JJR	more-j
 sluggishness	sluggishness	sluggishness	NN	sluggishness-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 slackness	slackness	slackness	NN	slackness-n
@@ -394,6 +406,7 @@ Bang	Bang	Bang	NNP	Bang-e
 Equities	Equities	Equities	NNPS	Equities-e
 India	India	India	NNP	India-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 benign	benign	benign	JJ	benign-j
 inflation	inflation	inflation	NN	inflation-n
@@ -407,6 +420,7 @@ interest	interest	interest	NN	interest-n
 rates	rates	rate	NNS	rate-n
 again	again	again	RB	again-r
 .	.	.	.	.-x
+
 Consumer	Consumer	consumer	NN	consumer-n
 price	price	price	NN	price-n
 inflation	inflation	inflation	NN	inflation-n
@@ -434,6 +448,7 @@ begun	begun	begin	VBN	begin-v
 to	to	to	TO	to-t
 ease	ease	ease	VB	ease-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 measures	measures	measure	NNS	measure-n
 are	are	be	VBP	be-v
@@ -454,6 +469,7 @@ of	of	of	IN	of-i
 a	a	a	DT	a-d
 slowdown	slowdown	slowdown	NN	slowdown-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 continue	continue	continue	VBP	continue-v
@@ -483,6 +499,7 @@ Indranil	Indranil	Indranil	NNP	Indranil-e
 Sen	Sen	Sen	NNP	Sen-e
 Gupta	Gupta	Gupta	NNP	Gupta-e
 .	.	.	.	.-x
+
 Cost-push	Cost-push	cost-push	JJ	cost-push-j
 inflation	inflation	inflation	NN	inflation-n
 is	is	be	VBZ	be-v
@@ -493,3 +510,4 @@ commodity	commodity	commodity	NN	commodity-n
 prices	prices	price	NNS	price-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

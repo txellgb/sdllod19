@@ -22,6 +22,7 @@ originally	originally	originally	RB	originally-r
 appeared	appeared	appear	VBD	appear-v
 on	on	on	IN	on-i
 nbcsportsboston.com	nbcsportsboston.com	nbcsportsboston.com	NNP	nbcsportsboston.com-e
+
 Formerly	Formerly	formerly	RB	formerly-r
 banned	banned	ban	VBN	ban-v
 reliever	reliever	reliever	NN	reliever-n
@@ -50,6 +51,7 @@ over	over	over	IN	over-i
 the	the	the	DT	the-d
 Nationals	Nationals	Nationals	NNPS	Nationals-e
 .	.	.	.	.-x
+
 Mejia	Mejia	Mejia	NNP	Mejia-e
 received	received	receive	VBD	receive-v
 a	a	a	DT	a-d
@@ -70,6 +72,7 @@ the	the	the	DT	the-d
 third	third	third	JJ	third-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ex-Mets	ex-Mets	ex-mets	JJ	ex-mets-j
 reliever	reliever	reliever	NN	reliever-n
@@ -85,12 +88,14 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 offseason	offseason	offseason	NN	offseason-n
 .	.	.	.	.-x
+
 Betts	Betts	Betts	NNP	Betts-e
 reacts	reacts	react	VBZ	react-v
 to	to	to	TO	to-t
 Harper	Harper	Harper	NNP	Harper-e
 's	's	's	POS	's-p
 mega-deal	mega-deal	mega-deal	NN	mega-deal-n
+
 In	In	in	IN	in-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 's	's	's	POS	's-p
@@ -115,6 +120,7 @@ cutter	cutter	cutter	NN	cutter-n
 and	and	and	CC	and-c
 slider	slider	slider	NN	slider-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
 asked	asked	ask	VBN	ask-v
@@ -139,6 +145,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 Mets	Mets	Mets	NNPS	Mets-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Maybe	Maybe	maybe	RB	maybe-r
 better	better	better	RB	better-r
@@ -147,6 +154,7 @@ better	better	better	RB	better-r
 Mejia	Mejia	Mejia	NNP	Mejia-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -155,6 +163,7 @@ hard	hard	hard	RB	hard-r
 for	for	for	IN	for-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
 29	29	29	CD	29-f
@@ -164,6 +173,7 @@ I	I	I	PRP	I-p
 was	was	be	VBD	be-v
 24	24	24	CD	24-f
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
 I	I	I	PRP	I-p
@@ -173,6 +183,7 @@ na	na	na	TO	na-t
 be	be	be	VB	be-v
 better	better	better	JJR	better-j
 .	.	.	.	.-x
+
 Mejia	Mejia	Mejia	NNP	Mejia-e
 still	still	still	RB	still-r
 has	has	have	VBZ	have-v
@@ -199,6 +210,7 @@ to	to	to	TO	to-t
 big-league	big-league	big-league	JJ	big-league-j
 camp	camp	camp	NN	camp-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 if	if	if	IN	if-i
 he	he	he	PRP	he-p
@@ -235,3 +247,4 @@ point	point	point	NN	point-n
 this	this	this	DT	this-d
 season	season	season	NN	season-n
 .	.	.	.	.-x
+

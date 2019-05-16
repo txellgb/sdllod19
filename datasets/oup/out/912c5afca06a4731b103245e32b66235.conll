@@ -9,6 +9,7 @@ and	and	and	CC	and-c
 reviewing	reviewing	review	VBG	review-v
 past	past	past	JJ	past-j
 elections	elections	election	NNS	election-n
+
 *	*	*	SYM	*-s
 Assures	Assures	assure	VBZ	assure-v
 that	that	that	IN	that-i
@@ -22,6 +23,7 @@ free	free	free	JJ	free-j
 fair	fair	fair	JJ	fair-j
 and	and	and	CC	and-c
 credible	credible	credible	JJ	credible-j
+
 Independent	Independent	Independent	NNP	Independent-e
 National	National	National	NNP	National-e
 Electoral	Electoral	Electoral	NNP	Electoral-e
@@ -51,6 +53,7 @@ Territory	Territory	Territory	NNP	Territory-e
 FCT	FCT	FCT	NNP	FCT-e
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+
 Chairman	Chairman	Chairman	NNP	Chairman-e
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -88,6 +91,7 @@ headquarters	headquarters	headquarters	NN	headquarters-n
 ,	,	,	,	,-x
 yesterday	yesterday	yesterday	NN	yesterday-n
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 him	him	he	PRP	he-p
@@ -136,6 +140,7 @@ of	of	of	IN	of-i
 March	March	March	NNP	March-e
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 Prof.	Prof.	Prof.	NNP	Prof.-e
 Yakubu	Yakubu	Yakubu	NNP	Yakubu-e
 stated	stated	state	VBD	state-v
@@ -181,6 +186,7 @@ six	six	six	CD	six-f
 Area	Area	Area	NNP	Area-e
 Councils	Councils	Councils	NNP	Councils-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 are	are	be	VBP	be-v
@@ -239,3 +245,4 @@ mandate	mandate	mandate	NN	mandate-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

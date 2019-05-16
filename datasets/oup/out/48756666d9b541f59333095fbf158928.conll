@@ -11,6 +11,7 @@ politicians	politicians	politician	NNS	politician-n
 an	an	a	DT	a-d
 earful	earful	earful	JJ	earful-j
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 in	in	in	IN	in-i
 case	case	case	NN	case-n
@@ -38,6 +39,7 @@ in	in	in	IN	in-i
 Twin	Twin	Twin	NNP	Twin-e
 Falls	Falls	Falls	NNP	Falls-e
 .	.	.	.	.-x
+
 Along	Along	along	IN	along-i
 with	with	with	IN	with-i
 the	the	the	DT	the-d
@@ -54,6 +56,7 @@ attendance	attendance	attendance	NN	attendance-n
 Saturday	Saturday	Saturday	NNP	Saturday-e
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 event	event	event	NN	event-n
 is	is	be	VBZ	be-v
@@ -66,6 +69,7 @@ County	County	County	NNP	County-e
 Republican	Republican	Republican	NNP	Republican-e
 Party	Party	Party	NNP	Party-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 begins	begins	begin	VBZ	begin-v
 at	at	at	IN	at-i
@@ -73,6 +77,7 @@ at	at	at	IN	at-i
 o'clock	o'clock	o'clock	RB	o'clock-r
 Saturday	Saturday	Saturday	NNP	Saturday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 location	location	location	NN	location-n
 is	is	be	VBZ	be-v
@@ -90,6 +95,7 @@ old	old	old	JJ	old-j
 hospital	hospital	hospital	NN	hospital-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 office	office	office	NN	office-n
 is	is	be	VBZ	be-v
@@ -107,6 +113,7 @@ faces	faces	face	VBZ	face-v
 Addison	Addison	Addison	NNP	Addison-e
 Avenue	Avenue	Avenue	NNP	Avenue-e
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -117,6 +124,7 @@ expected	expected	expect	VBN	expect-v
 to	to	to	TO	to-t
 attend	attend	attend	VB	attend-v
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 're	're	be	VBP	be-v
 wondering	wondering	wonder	VBG	wonder-v
@@ -139,6 +147,7 @@ abortion	abortion	abortion	NN	abortion-n
 in	in	in	IN	in-i
 Idaho	Idaho	Idaho	NNP	Idaho-e
 .	.	.	.	.-x
+
 Several	Several	several	JJ	several-j
 other	other	other	JJ	other-j
 Republican	Republican	republican	JJ	republican-j
@@ -152,6 +161,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 unborn	unborn	unborn	JJ	unborn-j
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 time	time	time	NN	time-n
@@ -167,6 +177,7 @@ say	say	say	VBP	say-v
 into	into	into	IN	into-i
 practice	practice	practice	NN	practice-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 event	event	event	NN	event-n
 is	is	be	VBZ	be-v
@@ -176,6 +187,7 @@ for	for	for	IN	for-i
 two	two	two	CD	two-f
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
 not	not	not	RB	not-r
@@ -202,3 +214,4 @@ an	an	a	DT	a-d
 eye	eye	eye	NN	eye-n
 opener	opener	opener	NN	opener-n
 .	.	.	.	.-x
+

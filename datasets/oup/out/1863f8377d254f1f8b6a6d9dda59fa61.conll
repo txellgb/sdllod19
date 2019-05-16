@@ -28,6 +28,7 @@ its	its	its	PRP$	its-p
 IMAX	IMAX	IMAX	NNP	IMAX-e
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 Also	Also	also	RB	also-r
 read	read	read	VB	read-v
 :	:	:	:	:-x
@@ -47,6 +48,7 @@ New	New	New	NNP	New-e
 Iron	Iron	Iron	NNP	Iron-e
 Man	Man	Man	NNP	Man-e
 Suit	Suit	Suit	NNP	Suit-e
+
 Avengers	Avengers	Avengers	NNPS	Avengers-e
 :	:	:	:	:-x
 Endgame	Endgame	Endgame	NNP	Endgame-e
@@ -65,6 +67,7 @@ Marvel	Marvel	Marvel	NNP	Marvel-e
 Iron	Iron	iron	NN	iron-n
 Man	Man	man	NN	man-n
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 22	22	22	CD	22-f
 interconnected	interconnected	interconnected	JJ	interconnected-j
@@ -79,6 +82,7 @@ of	of	of	IN	of-i
 this	this	this	DT	this-d
 journey	journey	journey	NN	journey-n
 .	.	.	.	.-x
+
 Earth	Earth	Earth	NNP	Earth-e
 's	's	's	POS	's-p
 Mightiest	Mightiest	mightiest	JJS	mightiest-j
@@ -108,6 +112,7 @@ Avengers	Avengers	Avengers	NNPS	Avengers-e
 Infinity	Infinity	Infinity	NNP	Infinity-e
 War	War	War	NNP	War-e
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 our	our	we	PRP$	we-p
 beloved	beloved	beloved	JJ	beloved-j
@@ -139,6 +144,7 @@ he	he	he	PRP	he-p
 's	's	be	VBZ	be-v
 done	done	do	VBN	do-v
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 ,	,	,	,	,-x
 IMAX	IMAX	IMAX	NNP	IMAX-e
@@ -159,6 +165,7 @@ feature	feature	feature	VB	feature-v
 more	more	more	JJR	more-j
 footage	footage	footage	NN	footage-n
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 do	do	do	VBP	do-v
 you	you	you	PRP	you-p
@@ -168,3 +175,4 @@ the	the	the	DT	the-d
 picture	picture	picture	NN	picture-n
 difference	difference	difference	NN	difference-n
 ?	?	?	.	?-x
+

@@ -11,6 +11,7 @@ not	not	not	RB	not-r
 be	be	be	VB	be-v
 overstated	overstated	overstate	VBN	overstate-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -39,6 +40,7 @@ outside	outside	outside	IN	outside-i
 of	of	of	IN	of-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 working	working	work	VBG	work-v
@@ -63,6 +65,7 @@ their	their	they	PRP$	they-p
 own	own	own	JJ	own-j
 money	money	money	NN	money-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 same	same	same	JJ	same-j
@@ -86,6 +89,7 @@ choose	choose	choose	VBP	choose-v
 not	not	not	RB	not-r
 to	to	to	TO	to-t
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 see	see	see	VBP	see-v
 women	women	woman	NNS	woman-n
@@ -107,6 +111,7 @@ do	do	do	VBP	do-v
 not	not	not	RB	not-r
 work	work	work	VB	work-v
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 any	any	any	DT	any-d
 of	of	of	IN	of-i
@@ -137,6 +142,7 @@ complex	complex	complex	JJ	complex-j
 socio-economic	socio-economic	socio-economic	JJ	socio-economic-j
 phenomenon	phenomenon	phenomenon	NN	phenomenon-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Bangladesh	Bangladesh	Bangladesh	NNP	Bangladesh-e
 ,	,	,	,	,-x
@@ -149,6 +155,7 @@ do	do	do	VB	do-v
 academically	academically	academically	RB	academically-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 as	as	as	RB	as-r
@@ -174,6 +181,7 @@ a	a	a	DT	a-d
 first	first	first	JJ	first-j
 job	job	job	NN	job-n
 .	.	.	.	.-x
+
 Women	Women	woman	NNS	woman-n
 are	are	be	VBP	be-v
 not	not	not	RB	not-r
@@ -187,6 +195,7 @@ home	home	home	NN	home-n
 for	for	for	IN	for-i
 work	work	work	NN	work-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 is	is	be	VBZ	be-v
 expected	expected	expect	VBN	expect-v
@@ -207,6 +216,7 @@ build	build	build	VB	build-v
 her	her	she	PRP$	she-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 raise	raise	raise	VBP	raise-v
 our	our	we	PRP$	we-p
@@ -229,6 +239,7 @@ when	when	when	WRB	when-r
 trends	trends	trend	NNS	trend-n
 change	change	change	VBP	change-v
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 married	married	married	JJ	married-j
 woman	woman	woman	NN	woman-n
@@ -251,6 +262,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 household	household	household	NN	household-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 addition	addition	addition	NN	addition-n
 to	to	to	TO	to-t
@@ -272,6 +284,7 @@ on	on	on	IN	on-i
 both	both	both	DT	both-d
 sides	sides	side	NNS	side-n
 .	.	.	.	.-x
+
 Not	Not	not	RB	not-r
 to	to	to	TO	to-t
 mention	mention	mention	VB	mention-v
@@ -286,6 +299,7 @@ have	have	have	VB	have-v
 special	special	special	JJ	special-j
 needs	needs	need	NNS	need-n
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 shame	shame	shame	NN	shame-n
 such	such	such	JJ	such-j
@@ -305,6 +319,7 @@ education	education	education	NN	education-n
 is	is	be	VBZ	be-v
 cruel	cruel	cruel	JJ	cruel-j
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 a	a	a	DT	a-d
 child	child	child	NN	child-n
@@ -321,6 +336,7 @@ for	for	for	IN	for-i
 a	a	a	DT	a-d
 family	family	family	NN	family-n
 .	.	.	.	.-x
+
 Hire	Hire	hire	VB	hire-v
 extra	extra	extra	JJ	extra-j
 help	help	help	NN	help-n
@@ -351,6 +367,7 @@ of	of	of	IN	of-i
 day	day	day	NN	day-n
 care	care	care	NN	care-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 costs	costs	cost	NNS	cost-n
 may	may	may	MD	may-v
@@ -367,6 +384,7 @@ may	may	may	MD	may-v
 be	be	be	VB	be-v
 earning	earning	earn	VBG	earn-v
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 may	may	may	MD	may-v
 end	end	end	VB	end-v
@@ -385,6 +403,7 @@ sense	sense	sense	NN	sense-n
 to	to	to	TO	to-t
 work	work	work	VB	work-v
 .	.	.	.	.-x
+
 Our	Our	we	PRP$	we-p
 workplaces	workplaces	workplace	NNS	workplace-n
 were	were	be	VBD	be-v
@@ -405,6 +424,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 that	that	that	DT	that-d
 world	world	world	NN	world-n
@@ -438,6 +458,7 @@ and	and	and	CC	and-c
 nurse	nurse	nurse	NN	nurse-n
 babies	babies	baby	NNS	baby-n
 .	.	.	.	.-x
+
 Flexibility	Flexibility	flexibility	NN	flexibility-n
 is	is	be	VBZ	be-v
 one	one	one	CD	one-f
@@ -458,6 +479,7 @@ location	location	location	NN	location-n
 maternity	maternity	maternity	NN	maternity-n
 leave	leave	leave	NN	leave-n
 .	.	.	.	.-x
+
 Workplaces	Workplaces	workplace	NNS	workplace-n
 are	are	be	VBP	be-v
 barely	barely	barely	RB	barely-r
@@ -476,6 +498,7 @@ flexible	flexible	flexible	JJ	flexible-j
 working	working	work	VBG	work-v
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 Shaming	Shaming	shame	VBG	shame-v
 caregiving	caregiving	caregiving	NN	caregiving-n
 as	as	as	IN	as-i
@@ -489,6 +512,7 @@ involved	involved	involve	VBN	involve-v
 in	in	in	IN	in-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 anything	anything	anything	NN	anything-n
 ,	,	,	,	,-x
@@ -499,6 +523,7 @@ reverse	reverse	reverse	VB	reverse-v
 the	the	the	DT	the-d
 narrative	narrative	narrative	NN	narrative-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 need	need	need	VBP	need-v
 to	to	to	TO	to-t
@@ -530,6 +555,7 @@ their	their	they	PRP$	they-p
 corporate	corporate	corporate	JJ	corporate-j
 overlords	overlords	overlord	NNS	overlord-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 am	am	be	VBP	be-v
 a	a	a	DT	a-d
@@ -548,6 +574,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 one	one	one	CD	one-f
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 was	was	be	VBD	be-v
 raised	raised	raise	VBN	raise-v
@@ -573,6 +600,7 @@ of	of	of	IN	of-i
 my	my	my	PRP$	my-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 No	No	no	DT	no-d
 one	one	one	NN	one-n
 pressured	pressured	pressured	NN	pressured-n
@@ -581,6 +609,7 @@ to	to	to	TO	to-t
 get	get	get	VB	get-v
 married	married	marry	VBN	marry-v
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 a	a	a	DT	a-d
 young	young	young	JJ	young-j
@@ -602,6 +631,7 @@ look	look	look	VB	look-v
 after	after	after	IN	after-i
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
 the	the	the	DT	the-d
@@ -614,6 +644,7 @@ help	help	help	NN	help-n
 as	as	as	IN	as-i
 needed	needed	need	VBN	need-v
 .	.	.	.	.-x
+
 Most	Most	most	JJS	most-j
 women	women	woman	NNS	woman-n
 do	do	do	VBP	do-v
@@ -622,6 +653,7 @@ have	have	have	VB	have-v
 these	these	these	DT	these-d
 privileges	privileges	privilege	NNS	privilege-n
 .	.	.	.	.-x
+
 Those	Those	those	DT	those-d
 who	who	who	WP	who-p
 preach	preach	preach	VBP	preach-v
@@ -646,6 +678,7 @@ out	out	out	RP	out-x
 and	and	and	CC	and-c
 work	work	work	NN	work-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 seems	seems	seem	VBZ	seem-v
 ,	,	,	,	,-x
@@ -665,3 +698,4 @@ you	you	you	PRP	you-p
 do	do	do	VBP	do-v
 n't	n't	not	RB	not-r
 .	.	.	.	.-x
+

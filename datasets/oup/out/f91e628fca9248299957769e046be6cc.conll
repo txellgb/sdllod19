@@ -20,6 +20,7 @@ Thursday	Thursday	Thursday	NNP	Thursday-e
 Trading	Trading	Trading	NNP	Trading-e
 Session	Session	session	NN	session-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 stock	stock	stock	NN	stock-n
 price	price	price	NN	price-n
@@ -48,6 +49,7 @@ year	year	year	NN	year-n
 low	low	low	JJ	low-j
 price	price	price	NN	price-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 recent	recent	recent	JJ	recent-j
@@ -74,6 +76,7 @@ at	at	at	IN	at-i
 3.09	3.09	3.09	CD	3.09-f
 %	%	%	NN	%-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 terms	terms	term	NNS	term-n
 of	of	of	IN	of-i
@@ -101,6 +104,7 @@ of	of	of	IN	of-i
 17.20	17.20	17.20	CD	17.20-f
 %	%	%	NN	%-n
 .	.	.	.	.-x
+
 Shares	Shares	share	NNS	share-n
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -125,6 +129,7 @@ last	last	last	JJ	last-j
 -	-	-	:	--x
 months	months	month	NNS	month-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Chemours	Chemours	Chemours	NNP	Chemours-e
 Company	Company	company	NN	company-n
@@ -153,3 +158,4 @@ recent	recent	recent	JJ	recent-j
 market	market	market	NN	market-n
 activity	activity	activity	NN	activity-n
 .	.	.	.	.-x
+

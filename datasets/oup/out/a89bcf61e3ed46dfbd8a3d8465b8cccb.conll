@@ -23,6 +23,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 Oscars	Oscars	Oscars	NNP	Oscars-e
 .	.	.	.	.-x
+
 Gaga	Gaga	Gaga	NNP	Gaga-e
 appeared	appeared	appear	VBD	appear-v
 on	on	on	IN	on-i
@@ -52,6 +53,7 @@ co-stars	co-stars	co-star	NNS	co-star-n
 are	are	be	VBP	be-v
 involved	involved	involve	VBN	involve-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 First	First	First	NNP	First-e
 of	of	of	IN	of-i
@@ -86,6 +88,7 @@ abysmal	abysmal	abysmal	JJ	abysmal-j
 Gaga	Gaga	Gaga	NNP	Gaga-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 what	what	what	WP	what-p
@@ -101,6 +104,7 @@ a	a	a	DT	a-d
 love	love	love	NN	love-n
 song	song	song	NN	song-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 movie	movie	movie	NN	movie-n
 A	A	a	NN	a-n
@@ -112,6 +116,7 @@ a	a	a	DT	a-d
 love	love	love	NN	love-n
 story	story	story	NN	story-n
 ...	...	...	:	...-x
+
 Gaga	Gaga	Gaga	NNP	Gaga-e
 added	added	add	VBD	add-v
 that	that	that	IN	that-i
@@ -132,6 +137,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 film	film	film	NN	film-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Everything	Everything	everything	NN	everything-n
 that	that	that	IN	that-i
@@ -182,6 +188,7 @@ him	him	he	PRP	he-p
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 have	have	have	VBP	have-v
 been	been	be	VBN	be-v
@@ -213,3 +220,4 @@ years	years	year	NNS	year-n
 Christian	Christian	Christian	NNP	Christian-e
 Carino	Carino	Carino	NNP	Carino-e
 .	.	.	.	.-x
+

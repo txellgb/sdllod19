@@ -38,6 +38,7 @@ sources	sources	source	NNS	source-n
 said	said	say	VBD	say-v
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 said	said	say	VBD	say-v
 hours	hours	hour	NNS	hour-n
@@ -69,6 +70,7 @@ the	the	the	DT	the-d
 aerial	aerial	aerial	JJ	aerial-j
 route	route	route	NN	route-n
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 late	late	late	RB	late-r
@@ -104,6 +106,7 @@ the	the	the	DT	the-d
 sources	sources	source	NNS	source-n
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Varthaman	Varthaman	Varthaman	NNP	Varthaman-e
 was	was	be	VBD	be-v
@@ -128,6 +131,7 @@ dogfight	dogfight	dogfight	NN	dogfight-n
 on	on	on	IN	on-i
 Wednesday	Wednesday	Wednesday	NNP	Wednesday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 IAF	IAF	iaf	NN	iaf-n
 pilot	pilot	pilot	NN	pilot-n
@@ -160,6 +164,7 @@ on	on	on	IN	on-i
 Wednesday	Wednesday	Wednesday	NNP	Wednesday-e
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 Tensions	Tensions	tension	NNS	tension-n
 between	between	between	IN	between-i
 India	India	India	NNP	India-e
@@ -188,6 +193,7 @@ Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 early	early	early	JJ	early-j
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 came	came	come	VBD	come-v
 12	12	12	CD	12-f
@@ -220,6 +226,7 @@ killing	killing	kill	VBG	kill-v
 40	40	40	CD	40-f
 soldiers	soldiers	soldier	NNS	soldier-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 Air	Air	Air	NNP	Air-e
@@ -238,3 +245,4 @@ Indian	Indian	indian	JJ	indian-j
 military	military	military	JJ	military-j
 nstallations	nstallations	nstallation	NNS	nstallation-n
 .	.	.	.	.-x
+

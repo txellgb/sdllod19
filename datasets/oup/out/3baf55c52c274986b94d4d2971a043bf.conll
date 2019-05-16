@@ -53,6 +53,7 @@ others	others	other	NNS	other-n
 they	they	they	PRP	they-p
 wrote	wrote	write	VBD	write-v
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 agreed	agreed	agree	VBD	agree-v
 to	to	to	TO	to-t
@@ -62,6 +63,7 @@ the	the	the	DT	the-d
 special	special	special	JJ	special-j
 counsel	counsel	counsel	NN	counsel-n
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 sentence	sentence	sentence	NN	sentence-n
 in	in	in	IN	in-i
@@ -87,3 +89,4 @@ the	the	the	DT	the-d
 Virginia	Virginia	Virginia	NNP	Virginia-e
 case	case	case	NN	case-n
 .	.	.	.	.-x
+

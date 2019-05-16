@@ -17,6 +17,7 @@ Back	Back	back	RB	back-r
 Evolution	Evolution	evolution	NN	evolution-n
 CGI	CGI	cgi	NN	cgi-n
 movie	movie	movie	NN	movie-n
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 movie	movie	movie	NN	movie-n
@@ -32,6 +33,7 @@ in	in	in	IN	in-i
 gorgeous	gorgeous	gorgeous	JJ	gorgeous-j
 CGI	CGI	cgi	NN	cgi-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 movie	movie	movie	NN	movie-n
 which	which	which	WDT	which-d
@@ -48,6 +50,7 @@ new	new	new	JJ	new-j
 teaser	teaser	teaser	NN	teaser-n
 trailer	trailer	trailer	NN	trailer-n
 .	.	.	.	.-x
+
 Two	Two	two	CD	two-f
 brand	brand	brand	NN	brand-n
 new	new	new	JJ	new-j
@@ -63,6 +66,7 @@ Pokemon	Pokemon	pokemon	NNS	pokemon-n
 YouTube	YouTube	YouTube	NNP	YouTube-e
 Channel	Channel	Channel	NNP	Channel-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 is	is	be	VBZ	be-v
@@ -89,6 +93,7 @@ in	in	in	IN	in-i
 glorious	glorious	glorious	JJ	glorious-j
 CGI	CGI	cgi	NN	cgi-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 quite	quite	quite	RB	quite-r
@@ -115,6 +120,7 @@ it	it	it	PRP	it-p
 or	or	or	CC	or-c
 not	not	not	RB	not-r
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 moment	moment	moment	NN	moment-n
@@ -140,6 +146,7 @@ July	July	July	NNP	July-e
 ,	,	,	,	,-x
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 Unfortunately	Unfortunately	unfortunately	RB	unfortunately-r
 there	there	there	EX	there-r
 has	has	have	VBZ	have-v
@@ -177,6 +184,7 @@ for	for	for	IN	for-i
 Western	Western	western	JJ	western-j
 theatres	theatres	theatre	NNS	theatre-n
 .	.	.	.	.-x
+
 Well	Well	well	RB	well-r
 ,	,	,	,	,-x
 hopefully	hopefully	hopefully	RB	hopefully-r
@@ -198,6 +206,7 @@ we	we	we	PRP	we-p
 did	did	do	VBD	do-v
 n't	n't	not	RB	not-r
 .	.	.	.	.-x
+
 Check	Check	check	VB	check-v
 out	out	out	RP	out-x
 the	the	the	DT	the-d
@@ -214,3 +223,4 @@ Evolution	Evolution	evolution	NN	evolution-n
 '	'	'	''	'-x
 here	here	here	RB	here-r
 .	.	.	.	.-x
+

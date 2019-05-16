@@ -25,6 +25,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 row	row	row	NN	row-n
 .	.	.	.	.-x
+
 Join	Join	join	VB	join-v
 me	me	I	PRP	I-p
 LIVE	LIVE	live	VB	live-v
@@ -42,6 +43,7 @@ Clarkson	Clarkson	Clarkson	NNP	Clarkson-e
 tweeted	tweeted	tweet	VBD	tweet-v
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 message	message	message	NN	message-n
 included	included	include	VBD	include-v
@@ -72,6 +74,7 @@ BBMAs	BBMAs	bbma	NNS	bbma-n
 Host	Host	Host	NNP	Host-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Clarkson	Clarkson	Clarkson	NNP	Clarkson-e
 is	is	be	VBZ	be-v
 headlining	headlining	headline	VBG	headline-v
@@ -85,6 +88,7 @@ across	across	across	IN	across-i
 North	North	North	NNP	North-e
 America	America	America	NNP	America-e
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 also	also	also	RB	also-r
 recently	recently	recently	RB	recently-r
@@ -99,6 +103,7 @@ daytime	daytime	daytime	JJ	daytime-j
 talk	talk	talk	NN	talk-n
 show	show	show	NN	show-n
 .	.	.	.	.-x
+
 Read	Read	read	VB	read-v
 More	More	more	RBR	more-r
 Black	Black	black	JJ	black-j
@@ -141,3 +146,4 @@ n't	n't	not	RB	not-r
 Get	Get	get	VB	get-v
 Enough	Enough	Enough	NNP	Enough-e
 '	'	'	''	'-x
+

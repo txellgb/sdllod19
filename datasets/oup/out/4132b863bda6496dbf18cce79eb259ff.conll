@@ -6,6 +6,7 @@ She	She	she	PRP	she-p
 's	's	be	VBZ	be-v
 back	back	back	RB	back-r
 !	!	!	.	!-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -40,6 +41,7 @@ music	music	music	NN	music-n
 .	.	.	.	.-x
 "	``	``	``	``-x
 She	She	she	PRP	she-p
+
 took	took	take	VBD	take-v
 to	to	to	TO	to-t
 Twitter	Twitter	twitter	VB	twitter-v
@@ -51,6 +53,7 @@ announcement	announcement	announcement	NN	announcement-n
 ,	,	,	,	,-x
 too	too	too	RB	too-r
 .	.	.	.	.-x
+
 Read	Read	read	VB	read-v
 More	More	more	RBR	more-r
 There	There	there	EX	there-r
@@ -65,6 +68,7 @@ performers	performers	performer	NNS	performer-n
 or	or	or	CC	or-c
 nominees	nominees	nominee	NNS	nominee-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 event	event	event	NN	event-n
 will	will	will	MD	will-v
@@ -117,3 +121,4 @@ year	year	year	NN	year-n
 awards	awards	award	NNS	award-n
 show	show	show	VBP	show-v
 .	.	.	.	.-x
+

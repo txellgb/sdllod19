@@ -25,6 +25,7 @@ and	and	and	CC	and-c
 their	their	they	PRP$	they-p
 leading	leading	leading	JJ	leading-j
 man	man	man	NN	man-n
+
 This	This	this	DT	this-d
 article	article	article	NN	article-n
 contains	contains	contain	VBZ	contain-v
@@ -38,6 +39,7 @@ the	the	the	DT	the-d
 wider	wider	wider	JJR	wider-j
 MCU	MCU	MCU	NNP	MCU-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Hulk	Hulk	hulk	NN	hulk-n
 is	is	be	VBZ	be-v
@@ -57,6 +59,7 @@ Kirby	Kirby	Kirby	NNP	Kirby-e
 ever	ever	ever	RB	ever-r
 conceived	conceived	conceive	VBD	conceive-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 mixture	mixture	mixture	NN	mixture-n
 of	of	of	IN	of-i
@@ -100,6 +103,7 @@ there	there	there	EX	there-r
 is	is	be	VBZ	be-v
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 Louis	Louis	Louis	NNP	Louis-e
 Leterrier	Leterrier	Leterrier	NNP	Leterrier-e
 's	's	's	POS	's-p
@@ -147,6 +151,7 @@ its	its	its	PRP$	its-p
 second	second	second	JJ	second-j
 instalment	instalment	instalment	NN	instalment-n
 .	.	.	.	.-x
+
 Indeed	Indeed	indeed	RB	indeed-r
 ,	,	,	,	,-x
 until	until	until	IN	until-i
@@ -191,6 +196,7 @@ its	its	its	PRP$	its-p
 internal	internal	internal	JJ	internal-j
 continuity	continuity	continuity	NN	continuity-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 reasons	reasons	reason	NNS	reason-n
 for	for	for	IN	for-i
@@ -210,6 +216,7 @@ film	film	film	NN	film-n
 tepid	tepid	tepid	JJ	tepid-j
 reception	reception	reception	NN	reception-n
 .	.	.	.	.-x
+
 Co-produced	Co-produced	co-produced	JJ	co-produced-j
 by	by	by	IN	by-i
 Marvel	Marvel	Marvel	NNP	Marvel-e
@@ -252,6 +259,7 @@ the	the	the	DT	the-d
 final	final	final	JJ	final-j
 cut	cut	cut	NN	cut-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 remained	remained	remain	VBD	remain-v
 open	open	open	JJ	open-j
@@ -289,6 +297,7 @@ Assemble	Assemble	Assemble	NNP	Assemble-e
 and	and	and	CC	and-c
 beyond	beyond	beyond	IN	beyond-i
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 was	was	be	VBD	be-v
 n't	n't	not	RB	not-r
@@ -297,6 +306,7 @@ a	a	a	DT	a-d
 terrible	terrible	terrible	JJ	terrible-j
 thing	thing	thing	NN	thing-n
 .	.	.	.	.-x
+
 Although	Although	although	IN	although-i
 a	a	a	DT	a-d
 fan-favourite	fan-favourite	fan-favourite	NN	fan-favourite-n
@@ -315,6 +325,7 @@ a	a	a	DT	a-d
 different	different	different	JJ	different-j
 picture	picture	picture	NN	picture-n
 .	.	.	.	.-x
+
 Norton	Norton	Norton	NNP	Norton-e
 's	's	's	POS	's-p
 restrained	restrained	restrained	JJ	restrained-j
@@ -330,6 +341,7 @@ of	of	of	IN	of-i
 Ruffalo	Ruffalo	Ruffalo	NNP	Ruffalo-e
 's	's	's	POS	's-p
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 notionally	notionally	notionally	RB	notionally-r
@@ -346,6 +358,7 @@ well	well	well	RB	well-r
 not	not	not	RB	not-r
 be	be	be	VB	be-v
 .	.	.	.	.-x
+
 Oddly	Oddly	oddly	RB	oddly-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -358,6 +371,7 @@ of	of	of	IN	of-i
 an	an	a	DT	a-d
 origin	origin	origin	NN	origin-n
 .	.	.	.	.-x
+
 Coming	Coming	come	VBG	come-v
 just	just	just	RB	just-r
 five	five	five	CD	five-f
@@ -385,6 +399,7 @@ alongside	alongside	alongside	IN	alongside-i
 the	the	the	DT	the-d
 former	former	former	JJ	former-j
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 squinted	squinted	squint	VBD	squint-v
@@ -392,6 +407,7 @@ a	a	a	DT	a-d
 little	little	little	JJ	little-j
 anyway	anyway	anyway	RB	anyway-r
 .	.	.	.	.-x
+
 Aside	Aside	aside	RB	aside-r
 from	from	from	IN	from-i
 flashes	flashes	flash	NNS	flash-n
@@ -414,6 +430,7 @@ an	an	a	DT	a-d
 origin	origin	origin	NN	origin-n
 story	story	story	NN	story-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 can	can	can	MD	can-v
 be	be	be	VB	be-v
@@ -472,6 +489,7 @@ any	any	any	DT	any-d
 significant	significant	significant	JJ	significant-j
 extent	extent	extent	NN	extent-n
 .	.	.	.	.-x
+
 Certainly	Certainly	certainly	RB	certainly-r
 an	an	a	DT	a-d
 order	order	order	NN	order-n
@@ -489,6 +507,7 @@ America	America	America	NNP	America-e
 and	and	and	CC	and-c
 Thor	Thor	Thor	NNP	Thor-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 movie	movie	movie	NN	movie-n
 did	did	do	VBD	do-v
@@ -508,6 +527,7 @@ the	the	the	DT	the-d
 TV	TV	tv	NN	tv-n
 show	show	show	NN	show-n
 .	.	.	.	.-x
+
 Although	Although	although	IN	although-i
 packed	packed	pack	VBN	pack-v
 with	with	with	IN	with-i
@@ -527,6 +547,7 @@ modern	modern	modern	JJ	modern-j
 MCU	MCU	MCU	NNP	MCU-e
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 humour	humour	humour	NN	humour-n
 ,	,	,	,	,-x
@@ -560,6 +581,7 @@ now	now	now	RB	now-r
 known	known	know	VBN	know-v
 for	for	for	IN	for-i
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 hard	hard	hard	JJ	hard-j
@@ -573,6 +595,7 @@ primary	primary	primary	JJ	primary-j
 failing	failing	fail	VBG	fail-v
 is	is	be	VBZ	be-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 action	action	action	NN	action-n
 is	is	be	VBZ	be-v
@@ -584,6 +607,7 @@ CGI	CGI	CGI	NNP	CGI-e
 is	is	be	VBZ	be-v
 n't	n't	not	RB	not-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 characters	characters	character	NNS	character-n
 are	are	be	VBP	be-v
@@ -596,6 +620,7 @@ maybe	maybe	maybe	RB	maybe-r
 are	are	be	VBP	be-v
 n't	n't	not	RB	not-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 love	love	love	NN	love-n
 story	story	story	NN	story-n
@@ -629,6 +654,7 @@ elsewhere	elsewhere	elsewhere	RB	elsewhere-r
 is	is	be	VBZ	be-v
 weak	weak	weak	JJ	weak-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 key	key	key	JJ	key-j
 relationship	relationship	relationship	NN	relationship-n
@@ -655,6 +681,7 @@ should	should	should	MD	should-v
 have	have	have	VB	have-v
 been	been	be	VBN	be-v
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 Tim	Tim	Tim	NNP	Tim-e
@@ -713,6 +740,7 @@ and	and	and	CC	and-c
 her	her	she	PRP$	she-p
 up	up	up	RP	up-x
 .	.	.	.	.-x
+
 Ultimately	Ultimately	ultimately	RB	ultimately-r
 ,	,	,	,	,-x
 though	though	though	RB	though-r
@@ -727,6 +755,7 @@ film	film	film	NN	film-n
 falls	falls	fall	VBZ	fall-v
 apart	apart	apart	RB	apart-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Harlem	Harlem	Harlem	NNP	Harlem-e
 fight	fight	fight	NN	fight-n
@@ -763,6 +792,7 @@ a	a	a	DT	a-d
 foregone	foregone	foregone	JJ	foregone-j
 conclusion	conclusion	conclusion	NN	conclusion-n
 .	.	.	.	.-x
+
 Hulk	Hulk	hulk	NN	hulk-n
 is	is	be	VBZ	be-v
 ,	,	,	,	,-x
@@ -775,6 +805,7 @@ one	one	one	CD	one-f
 there	there	there	EX	there-r
 is	is	be	VBZ	be-v
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 not	not	not	RB	not-r
 in	in	in	IN	in-i
@@ -782,6 +813,7 @@ a	a	a	DT	a-d
 narrative	narrative	narrative	JJ	narrative-j
 sense	sense	sense	NN	sense-n
 .	.	.	.	.-x
+
 Standout	Standout	standout	NN	standout-n
 scene	scene	scene	NN	scene-n
 :	:	:	:	:-x
@@ -814,6 +846,7 @@ abominable	abominable	abominable	JJ	abominable-j
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 Blonsky	Blonsky	Blonsky	NNP	Blonsky-e
 .	.	.	.	.-x
+
 Hulk	Hulk	hulk	NN	hulk-n
 ,	,	,	,	,-x
 naturally	naturally	naturally	RB	naturally-r
@@ -852,6 +885,7 @@ real	real	real	JJ	real-j
 monster	monster	monster	NN	monster-n
 is	is	be	VBZ	be-v
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 one	one	one	CD	one-f
 scene	scene	scene	NN	scene-n
@@ -895,6 +929,7 @@ love	love	love	NN	love-n
 for	for	for	IN	for-i
 Betty	Betty	Betty	NNP	Betty-e
 .	.	.	.	.-x
+
 Best	Best	best	JJS	best-j
 quip	quip	quip	NN	quip-n
 :	:	:	:	:-x
@@ -914,6 +949,7 @@ me	me	I	PRP	I-p
 ...	...	...	:	...-x
 hungry	hungry	hungry	JJ	hungry-j
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 would	would	would	MD	would-v
 n't	n't	not	RB	not-r
@@ -926,6 +962,7 @@ I	I	I	PRP	I-p
 hungry	hungry	hungry	JJ	hungry-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 One	One	one	CD	one-f
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -952,6 +989,7 @@ modern	modern	modern	JJ	modern-j
 MCU	MCU	MCU	NNP	MCU-e
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 First	First	First	NNP	First-e
 appearances	appearances	appearance	NNS	appearance-n
 :	:	:	:	:-x
@@ -988,6 +1026,7 @@ for	for	for	IN	for-i
 Avengers	Avengers	Avengers	NNP	Avengers-e
 Assemble	Assemble	Assemble	NNP	Assemble-e
 .	.	.	.	.-x
+
 Hurt	Hurt	hurt	VBN	hurt-v
 recurs	recurs	recur	VBZ	recur-v
 as	as	as	IN	as-i
@@ -1008,6 +1047,7 @@ Avengers	Avengers	Avengers	NNPS	Avengers-e
 Infinity	Infinity	Infinity	NNP	Infinity-e
 War	War	War	NNP	War-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 seems	seems	seem	VBZ	seem-v
 fitting	fitting	fitting	JJ	fitting-j
@@ -1024,6 +1064,7 @@ fan	fan	fan	NN	fan-n
 of	of	of	IN	of-i
 wars	wars	war	NNS	war-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 long	long	long	RB	long-r
 ,	,	,	,	,-x
@@ -1085,6 +1126,7 @@ Hulk	Hulk	hulk	NN	hulk-n
 personal	personal	personal	JJ	personal-j
 mythos	mythos	mytho	NNS	mytho-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 particularly	particularly	particularly	RB	particularly-r
 sad	sad	sad	JJ	sad-j
@@ -1115,6 +1157,7 @@ followed	followed	follow	VBD	follow-v
 up	up	up	RP	up-x
 on-screen	on-screen	on-screen	JJ	on-screen-j
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 all	all	all	DT	all-d
@@ -1143,6 +1186,7 @@ its	its	its	PRP$	its-p
 canonicity	canonicity	canonicity	NN	canonicity-n
 outright	outright	outright	RB	outright-r
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -1152,6 +1196,7 @@ off	off	off	IN	off-i
 the	the	the	DT	the-d
 grid	grid	grid	NN	grid-n
 :	:	:	:	:-x
+
 *	*	*	SYM	*-s
 The	The	the	DT	the-d
 serum	serum	serum	NN	serum-n
@@ -1173,6 +1218,7 @@ past	past	past	JJ	past-j
 super-soldier	super-soldier	super-soldier	JJ	super-soldier-j
 programme	programme	programme	NN	programme-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 program	program	program	NN	program-n
 is	is	be	VBZ	be-v
@@ -1203,6 +1249,7 @@ The	The	The	NNP	The-e
 First	First	First	NNP	First-e
 Avenger	Avenger	Avenger	NNP	Avenger-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 cannister	cannister	cannister	NN	cannister-n
 of	of	of	IN	of-i
@@ -1238,6 +1285,7 @@ movie	movie	movie	NN	movie-n
 's	's	's	POS	's-p
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 *	*	*	SYM	*-s
 The	The	the	DT	the-d
 Hulk	Hulk	hulk	NN	hulk-n
@@ -1280,6 +1328,7 @@ of	of	of	IN	of-i
 super-powered	super-powered	super-powered	JJ	super-powered-j
 individuals	individuals	individual	NNS	individual-n
 .	.	.	.	.-x
+
 *	*	*	SYM	*-s
 The	The	the	DT	the-d
 finale	finale	finale	NN	finale-n
@@ -1305,6 +1354,7 @@ level	level	level	NN	level-n
 under	under	under	IN	under-i
 control	control	control	NN	control-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Avengers	Avengers	Avengers	NNP	Avengers-e
 Assemble	Assemble	Assemble	NNP	Assemble-e
@@ -1315,6 +1365,7 @@ reveals	reveals	reveal	VBZ	reveal-v
 his	his	he	PRP$	he-p
 secret	secret	secret	NN	secret-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
 always	always	always	RB	always-r
@@ -1343,6 +1394,7 @@ to	to	to	TO	to-t
 do	do	do	VB	do-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Credit	Credit	Credit	NNP	Credit-e
 check	check	check	NN	check-n
 :	:	:	:	:-x
@@ -1352,12 +1404,14 @@ should	should	should	MD	should-v
 talk	talk	talk	VB	talk-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 should	should	should	MD	should-v
 listen	listen	listen	VB	listen-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -1390,6 +1444,7 @@ the	the	the	DT	the-d
 MCU	MCU	MCU	NNP	MCU-e
 proper	proper	proper	JJ	proper-j
 .	.	.	.	.-x
+
 Surprising	Surprising	surprising	JJ	surprising-j
 ,	,	,	,	,-x
 given	given	give	VBN	give-v
@@ -1422,6 +1477,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Indeed	Indeed	indeed	RB	indeed-r
 ,	,	,	,	,-x
 this	this	this	DT	this-d
@@ -1464,6 +1520,7 @@ Marvel	Marvel	Marvel	NNP	Marvel-e
 One-Shot	One-Shot	One-Shot	NNP	One-Shot-e
 movies	movies	movie	NNS	movie-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 revealed	revealed	reveal	VBD	reveal-v
 that	that	that	IN	that-i
@@ -1492,3 +1549,4 @@ turning	turning	turn	VBG	turn-v
 them	them	they	PRP	they-p
 down	down	down	RP	down-x
 .	.	.	.	.-x
+

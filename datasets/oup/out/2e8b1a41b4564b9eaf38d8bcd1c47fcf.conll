@@ -19,6 +19,7 @@ after	after	after	IN	after-i
 Community	Community	Community	NNP	Community-e
 Shield	Shield	Shield	NNP	Shield-e
 win	win	win	VB	win-v
+
 JAMIE	JAMIE	JAMIE	NNP	JAMIE-e
 CARRAGHER	CARRAGHER	CARRAGHER	NNP	CARRAGHER-e
 has	has	have	VBZ	have-v
@@ -39,6 +40,7 @@ himself	himself	himself	PRP	himself-p
 for	for	for	IN	for-i
 Liverpool	Liverpool	Liverpool	NNP	Liverpool-e
 .	.	.	.	.-x
+
 Anfield	Anfield	Anfield	NNP	Anfield-e
 legend	legend	legend	NN	legend-n
 Carragher	Carragher	Carragher	NNP	Carragher-e
@@ -74,6 +76,7 @@ over	over	over	IN	over-i
 Manchester	Manchester	Manchester	NNP	Manchester-e
 United	United	United	NNP	United-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 the	the	the	DT	the-d
 Sky	Sky	Sky	NNP	Sky-e
@@ -112,6 +115,7 @@ the	the	the	DT	the-d
 penalty	penalty	penalty	NN	penalty-n
 shootout	shootout	shootout	NN	shootout-n
 .	.	.	.	.-x
+
 Former	Former	Former	NNP	Former-e
 England	England	England	NNP	England-e
 defender	defender	defender	NN	defender-n
@@ -141,6 +145,7 @@ out	out	out	RP	out-x
 an	an	a	DT	a-d
 appeal	appeal	appeal	NN	appeal-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 41-year-old	41-year-old	41-year-old	JJ	41-year-old-j
 wrote	wrote	write	VBD	write-v
@@ -176,6 +181,7 @@ keeper	keeper	keeper	NN	keeper-n
 's	's	's	POS	's-p
 actions	actions	action	NNS	action-n
 .	.	.	.	.-x
+
 Carragher	Carragher	Carragher	NNP	Carragher-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -206,6 +212,7 @@ has	has	have	VBZ	have-v
 received	received	receive	VBN	receive-v
 .	.	.	.	.-x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 To	To	to	TO	to-t
 substitute	substitute	substitute	VB	substitute-v
@@ -220,6 +227,7 @@ ultimate	ultimate	ultimate	JJ	ultimate-j
 humiliation	humiliation	humiliation	NN	humiliation-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 added	added	add	VBD	add-v
 :	:	:	:	:-x
@@ -255,6 +263,7 @@ into	into	into	IN	into-i
 the	the	the	DT	the-d
 crowd	crowd	crowd	NN	crowd-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Liverpool	Liverpool	Liverpool	NNP	Liverpool-e
 's	's	's	POS	's-p
@@ -274,6 +283,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 newspaper	newspaper	newspaper	NN	newspaper-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 My	My	my	PRP$	my-p
 feeling	feeling	feeling	NN	feeling-n
@@ -293,6 +303,7 @@ want	want	want	VB	want-v
 a	a	a	DT	a-d
 medal	medal	medal	NN	medal-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 am	am	be	VBP	be-v
@@ -315,6 +326,7 @@ match	match	match	NN	match-n
 day	day	day	NN	day-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Carragher	Carragher	Carragher	NNP	Carragher-e
 claimed	claimed	claim	VBD	claim-v
 top	top	top	JJ	top-j
@@ -343,6 +355,7 @@ and	and	and	CC	and-c
 livid	livid	livid	JJ	livid-j
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 Spaniard	Spaniard	Spaniard	NNP	Spaniard-e
 Kepa	Kepa	Kepa	NNP	Kepa-e
 later	later	later	RB	later-r
@@ -373,6 +386,7 @@ defeat	defeat	defeat	NN	defeat-n
 of	of	of	IN	of-i
 Spurs	Spurs	Spurs	NNPS	Spurs-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 he	he	he	PRP	he-p
 is	is	be	VBZ	be-v
@@ -391,3 +405,4 @@ Fulham	Fulham	Fulham	NNP	Fulham-e
 on	on	on	IN	on-i
 Sunday	Sunday	Sunday	NNP	Sunday-e
 .	.	.	.	.-x
+

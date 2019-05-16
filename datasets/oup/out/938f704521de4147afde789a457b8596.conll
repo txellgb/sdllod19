@@ -6,6 +6,7 @@ good	good	good	JJ	good-j
 eye	eye	eye	NN	eye-n
 cream	cream	cream	NN	cream-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -29,6 +30,7 @@ often-irritated	often-irritated	often-irritated	JJ	often-irritated-j
 orbital	orbital	orbital	JJ	orbital-j
 bone	bone	bone	NN	bone-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 that	that	that	DT	that-d
 feeling	feeling	feeling	NN	feeling-n
@@ -46,6 +48,7 @@ with	with	with	IN	with-i
 powerful	powerful	powerful	JJ	powerful-j
 ingredients	ingredients	ingredient	NNS	ingredient-n
 .	.	.	.	.-x
+
 Because	Because	because	IN	because-i
 this	this	this	DT	this-d
 is	is	be	VBZ	be-v
@@ -74,6 +77,7 @@ quick-to-wrinkle	quick-to-wrinkle	quick-to-wrinkle	JJ	quick-to-wrinkle-j
 eye	eye	eye	NN	eye-n
 area	area	area	NN	area-n
 .	.	.	.	.-x
+
 Luckily	Luckily	luckily	RB	luckily-r
 ,	,	,	,	,-x
 there	there	there	EX	there-r
@@ -102,6 +106,7 @@ potential	potential	potential	NN	potential-n
 for	for	for	IN	for-i
 irritation	irritation	irritation	NN	irritation-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 shopping	shopping	shopping	NN	shopping-n
 for	for	for	IN	for-i
@@ -125,6 +130,7 @@ acid	acid	acid	NN	acid-n
 and	and	and	CC	and-c
 ceramides	ceramides	ceramide	NNS	ceramide-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 addition	addition	addition	NN	addition-n
 to	to	to	TO	to-t
@@ -145,3 +151,4 @@ younger	younger	younger	JJR	younger-j
 and	and	and	CC	and-c
 glowier	glowier	glowier	NN	glowier-n
 .	.	.	.	.-x
+

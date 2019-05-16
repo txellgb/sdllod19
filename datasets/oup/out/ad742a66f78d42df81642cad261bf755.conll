@@ -20,6 +20,7 @@ news	news	news	NN	news-n
 for	for	for	IN	for-i
 buyers	buyers	buyer	NNS	buyer-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 was	was	be	VBD	be-v
 according	according	accord	VBG	accord-v
@@ -37,6 +38,7 @@ Paris	Paris	Paris	NNP	Paris-e
 on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 .	.	.	.	.-x
+
 Purchase	Purchase	purchase	NN	purchase-n
 price	price	price	NN	price-n
 per	per	per	IN	per-i
@@ -66,6 +68,7 @@ from	from	from	IN	from-i
 peaks	peaks	peak	NNS	peak-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 obviously	obviously	obviously	RB	obviously-r
@@ -79,6 +82,7 @@ and	and	and	CC	and-c
 its	its	its	PRP$	its-p
 suburbs	suburbs	suburb	NNS	suburb-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 average	average	average	JJ	average-j
 price	price	price	NN	price-n
@@ -100,6 +104,7 @@ in	in	in	IN	in-i
 2017	2017	2017	CD	2017-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 you	you	you	PRP	you-p
 need	need	need	VBP	need-v
@@ -126,6 +131,7 @@ in	in	in	IN	in-i
 one	one	one	CD	one-f
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 cheapest	cheapest	cheapest	JJS	cheapest-j
 area	area	area	NN	area-n
@@ -161,6 +167,7 @@ since	since	since	IN	since-i
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 're	're	be	VBP	be-v
@@ -200,6 +207,7 @@ just	just	just	RB	just-r
 one	one	one	CD	one-f
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -218,6 +226,7 @@ houses	houses	house	NNS	house-n
 being	being	be	VBG	be-v
 built	built	build	VBN	build-v
 .	.	.	.	.-x
+
 Notaries	Notaries	notary	NNS	notary-n
 now	now	now	RB	now-r
 estimate	estimate	estimate	VBP	estimate-v
@@ -256,3 +265,4 @@ as	as	as	IN	as-i
 this	this	this	DT	this-d
 summer	summer	summer	NN	summer-n
 .	.	.	.	.-x
+

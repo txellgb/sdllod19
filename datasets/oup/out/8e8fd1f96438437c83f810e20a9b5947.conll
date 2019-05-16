@@ -48,6 +48,7 @@ existed	existed	exist	VBD	exist-v
 by	by	by	IN	by-i
 now	now	now	RB	now-r
 .	.	.	.	.-x
+
 Originally	Originally	originally	RB	originally-r
 slated	slated	slate	VBN	slate-v
 for	for	for	IN	for-i
@@ -82,6 +83,7 @@ early	early	early	JJ	early-j
 "	''	''	''	''-x
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 Well	Well	well	RB	well-r
 today	today	today	NN	today-n
 Bethesda	Bethesda	Bethesda	NNP	Bethesda-e
@@ -105,6 +107,7 @@ Scrolls	Scrolls	Scrolls	NNP	Scrolls-e
 :	:	:	:	:-x
 Blades	Blades	blade	NNS	blade-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 've	've	have	VBP	have-v
 tweeted	tweeted	tweet	VBN	tweet-v
@@ -148,6 +151,7 @@ iOS	iOS	iOS	NNP	iOS-e
 and	and	and	CC	and-c
 Android	Android	Android	NNP	Android-e
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 how	how	how	WRB	how-r
 does	does	do	VBZ	do-v
@@ -159,6 +163,7 @@ this	this	this	DT	this-d
 closed	closed	close	VBD	close-v
 beta	beta	beta	NN	beta-n
 ?	?	?	.	?-x
+
 Well	Well	well	UH	well-u
 you	you	you	PRP	you-p
 may	may	may	MD	may-v
@@ -217,6 +222,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 tested	tested	test	VBN	test-v
 .	.	.	.	.-x
+
 Which	Which	which	WDT	which-d
 is	is	be	VBZ	be-v
 kind	kind	kind	NN	kind-n
@@ -270,6 +276,7 @@ to	to	to	TO	to-t
 handle	handle	handle	VB	handle-v
 that	that	that	DT	that-d
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 then	then	then	RB	then-r
 ,	,	,	,	,-x
@@ -278,6 +285,7 @@ of	of	of	IN	of-i
 early	early	early	JJ	early-j
 access	access	access	NN	access-n
 ?	?	?	.	?-x
+
 Bethesda	Bethesda	Bethesda	NNP	Bethesda-e
 has	has	have	VBZ	have-v
 posted	posted	post	VBN	post-v
@@ -292,6 +300,7 @@ breaks	breaks	break	VBZ	break-v
 everything	everything	everything	NN	everything-n
 down	down	down	RB	down-r
 .	.	.	.	.-x
+
 Basically	Basically	basically	RB	basically-r
 the	the	the	DT	the-d
 closed	closed	closed	JJ	closed-j
@@ -341,6 +350,7 @@ post	post	post	VB	post-v
 about	about	about	IN	about-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 that	that	that	DT	that-d
 beta	beta	beta	NN	beta-n
@@ -390,6 +400,7 @@ early	early	early	JJ	early-j
 access	access	access	NN	access-n
 period	period	period	NN	period-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 pre-order	pre-order	pre-order	JJ	pre-order-j
 page	page	page	NN	page-n
@@ -449,6 +460,7 @@ early	early	early	JJ	early-j
 access	access	access	NN	access-n
 launch	launch	launch	NN	launch-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 since	since	since	IN	since-i
 there	there	there	EX	there-r
@@ -507,6 +519,7 @@ up	up	up	RP	up-x
 to	to	to	TO	to-t
 that	that	that	DT	that-d
 .	.	.	.	.-x
+
 Fallout	Fallout	Fallout	NNP	Fallout-e
 76	76	76	CD	76-f
 says	says	say	VBZ	say-v
@@ -574,3 +587,4 @@ closed	closed	close	VBD	close-v
 beta	beta	beta	NN	beta-n
 thing	thing	thing	NN	thing-n
 .	.	.	.	.-x
+

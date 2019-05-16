@@ -24,6 +24,7 @@ personal	personal	personal	JJ	personal-j
 tax	tax	tax	NN	tax-n
 returns	returns	return	NNS	return-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 top	top	top	JJ	top-j
 tax-writing	tax-writing	tax-writing	JJ	tax-writing-j
@@ -45,6 +46,7 @@ NBC	NBC	NBC	NNP	NBC-e
 News	News	News	NNP	News-e
 reports	reports	report	NNS	report-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Ways	Ways	Ways	NNP	Ways-e
 and	and	and	CC	and-c
@@ -85,6 +87,7 @@ prepare	prepare	prepare	VB	prepare-v
 the	the	the	DT	the-d
 request	request	request	NN	request-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 decision	decision	decision	NN	decision-n
 on	on	on	IN	on-i
@@ -101,6 +104,7 @@ Secretary	Secretary	Secretary	NNP	Secretary-e
 Steven	Steven	Steven	NNP	Steven-e
 Mnuchin	Mnuchin	Mnuchin	NNP	Mnuchin-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 spokeswoman	spokeswoman	spokeswoman	NN	spokeswoman-n
 for	for	for	IN	for-i
@@ -153,6 +157,7 @@ Trump	Trump	Trump	NNP	Trump-e
 's	's	's	POS	's-p
 finances	finances	finances	NNS	finances-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 These	These	these	DT	these-d
 improprieties	improprieties	impropriety	NNS	impropriety-n
@@ -183,6 +188,7 @@ President	President	President	NNP	President-e
 tax	tax	tax	NN	tax-n
 returns	returns	return	NNS	return-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 will	will	will	MD	will-v
 take	take	take	VB	take-v
@@ -201,6 +207,7 @@ obtain	obtain	obtain	VB	obtain-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 House	House	House	NNP	House-e
 Democrats	Democrats	Democrats	NNPS	Democrats-e
 are	are	be	VBP	be-v
@@ -224,6 +231,7 @@ personal	personal	personal	JJ	personal-j
 tax	tax	tax	NN	tax-n
 returns	returns	return	NNS	return-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 spokeswoman	spokeswoman	spokeswoman	NN	spokeswoman-n
 for	for	for	IN	for-i
@@ -249,6 +257,7 @@ Trump	Trump	Trump	NNP	Trump-e
 's	's	's	POS	's-p
 improprieties	improprieties	impropriety	NNS	impropriety-n
 '	'	'	POS	'-p
+
 Ways	Ways	Ways	NNP	Ways-e
 and	and	and	CC	and-c
 Means	Means	Means	NNP	Means-e
@@ -268,6 +277,7 @@ to	to	to	TO	to-t
 prepare	prepare	prepare	VB	prepare-v
 the	the	the	DT	the-d
 request	request	request	NN	request-n
+
 Neal	Neal	Neal	NNP	Neal-e
 had	had	have	VBD	have-v
 earlier	earlier	earlier	RBR	earlier-r
@@ -290,6 +300,7 @@ Trump	Trump	Trump	NNP	Trump-e
 and	and	and	CC	and-c
 Russia	Russia	Russia	NNP	Russia-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 after	after	after	IN	after-i
 Michael	Michael	Michael	NNP	Michael-e
@@ -319,6 +330,7 @@ aides	aides	aide	NNS	aide-n
 told	told	tell	VBD	tell-v
 NBC	NBC	NBC	NNP	NBC-e
 .	.	.	.	.-x
+
 Cohen	Cohen	Cohen	NNP	Cohen-e
 ,	,	,	,	,-x
 in	in	in	IN	in-i
@@ -374,6 +386,7 @@ would	would	would	MD	would-v
 be	be	be	VB	be-v
 fraud	fraud	fraud	NN	fraud-n
 .	.	.	.	.-x
+
 Earlier	Earlier	earlier	RBR	earlier-r
 in	in	in	IN	in-i
 his	his	he	PRP$	he-p
@@ -425,6 +438,7 @@ released	released	release	VBN	release-v
 such	such	such	JJ	such-j
 information	information	information	NN	information-n
 .	.	.	.	.-x
+
 Cohen	Cohen	Cohen	NNP	Cohen-e
 ,	,	,	,	,-x
 do	do	do	VBP	do-v
@@ -454,6 +468,7 @@ Gomez	Gomez	Gomez	NNP	Gomez-e
 asked	asked	ask	VBD	ask-v
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 Michael	Michael	Michael	NNP	Michael-e
 Cohen	Cohen	Cohen	NNP	Cohen-e
 revealed	revealed	reveal	VBD	reveal-v
@@ -476,6 +491,7 @@ them	them	they	PRP	they-p
 on	on	on	IN	on-i
 tax	tax	tax	NN	tax-n
 forms	forms	form	NNS	form-n
+
 Trump	Trump	Trump	NNP	Trump-e
 has	has	have	VBZ	have-v
 so	so	so	RB	so-r
@@ -486,6 +502,7 @@ reveal	reveal	reveal	VB	reveal-v
 his	his	he	PRP$	he-p
 returns	returns	return	NNS	return-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 broke	broke	break	VBD	break-v
 with	with	with	IN	with-i
@@ -511,6 +528,7 @@ voluntarily	voluntarily	voluntarily	RB	voluntarily-r
 doing	doing	do	VBG	do-v
 so	so	so	RB	so-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 committee	committee	committee	NN	committee-n
 is	is	be	VBZ	be-v
@@ -524,6 +542,7 @@ than	than	than	IN	than-i
 his	his	he	PRP$	he-p
 businesses	businesses	business	NNS	business-n
 .	.	.	.	.-x
+
 An	An	a	DT	a-d
 aide	aide	aide	NN	aide-n
 said	said	say	VBD	say-v
@@ -555,6 +574,7 @@ of	of	of	IN	of-i
 interest	interest	interest	NN	interest-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 may	may	may	MD	may-v
 well	well	well	RB	well-r
@@ -573,6 +593,7 @@ he	he	he	PRP	he-p
 has	has	have	VBZ	have-v
 claimed	claimed	claim	VBN	claim-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 only	only	only	JJ	only-j
 return	return	return	NN	return-n
@@ -594,6 +615,7 @@ New	New	New	NNP	New-e
 York	York	York	NNP	York-e
 Times	Times	Times	NNP	Times-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 paper	paper	paper	NN	paper-n
 conducted	conducted	conduct	VBN	conduct-v
@@ -613,6 +635,7 @@ taxes	taxes	tax	NNS	tax-n
 for	for	for	IN	for-i
 decades	decades	decade	NNS	decade-n
 .	.	.	.	.-x
+
 Full	Full	full	JJ	full-j
 returns	returns	return	NNS	return-n
 could	could	could	MD	could-v
@@ -627,6 +650,7 @@ unknown	unknown	unknown	JJ	unknown-j
 business	business	business	NN	business-n
 partners	partners	partner	NNS	partner-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 These	These	these	DT	these-d
 are	are	be	VBP	be-v
@@ -641,3 +665,4 @@ to	to	to	TO	to-t
 my	my	my	PRP$	my-p
 testimony	testimony	testimony	NN	testimony-n
 .	.	.	.	.-x
+

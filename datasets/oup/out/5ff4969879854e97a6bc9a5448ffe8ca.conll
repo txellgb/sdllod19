@@ -22,6 +22,7 @@ early	early	early	RB	early-r
 this	this	this	DT	this-d
 morning	morning	morning	NN	morning-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 grim	grim	grim	JJ	grim-j
 find	find	find	VBP	find-v
@@ -41,6 +42,7 @@ Clondalkin	Clondalkin	Clondalkin	NNP	Clondalkin-e
 Dublin	Dublin	Dublin	NNP	Dublin-e
 overnight	overnight	overnight	JJ	overnight-j
 .	.	.	.	.-x
+
 Gardai	Gardai	Gardai	NNP	Gardai-e
 were	were	be	VBD	be-v
 called	called	call	VBN	call-v
@@ -72,6 +74,7 @@ at	at	at	IN	at-i
 this	this	this	DT	this-d
 stage	stage	stage	NN	stage-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 was	was	be	VBD	be-v
 pronounced	pronounced	pronounced	JJ	pronounced-j
@@ -91,6 +94,7 @@ the	the	the	DT	the-d
 State	State	state	NN	state-n
 Pathologist	Pathologist	pathologist	NN	pathologist-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 man	man	man	NN	man-n
 in	in	in	IN	in-i
@@ -109,6 +113,7 @@ Lucan	Lucan	Lucan	NNP	Lucan-e
 Garda	Garda	Garda	NNP	Garda-e
 Station	Station	Station	NNP	Station-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 Garda	Garda	Garda	NNP	Garda-e
 spokesperson	spokesperson	spokesperson	NN	spokesperson-n
@@ -143,6 +148,7 @@ on	on	on	IN	on-i
 March	March	March	NNP	March-e
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 At	At	at	IN	at-i
 12.30	12.30	12.30	CD	12.30-f
@@ -162,3 +168,4 @@ Drive	Drive	Drive	NNP	Drive-e
 ,	,	,	,	,-x
 Clondalkin	Clondalkin	Clondalkin	NNP	Clondalkin-e
 .	.	.	.	.-x
+

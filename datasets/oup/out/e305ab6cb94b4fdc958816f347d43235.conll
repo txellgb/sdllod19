@@ -36,6 +36,7 @@ in	in	in	IN	in-i
 North	North	North	NNP	North-e
 Bay	Bay	Bay	NNP	Bay-e
 .	.	.	.	.-x
+
 Robert	Robert	Robert	NNP	Robert-e
 Walpole	Walpole	Walpole	NNP	Walpole-e
 frequently	frequently	frequently	RB	frequently-r
@@ -55,6 +56,7 @@ Place	Place	Place	NNP	Place-e
 for	for	for	IN	for-i
 help	help	help	NN	help-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 These	These	these	DT	these-d
 services	services	service	NNS	service-n
@@ -75,6 +77,7 @@ Administration	Administration	Administration	NNP	Administration-e
 Board	Board	Board	NNP	Board-e
 Wednesday	Wednesday	Wednesday	NNP	Wednesday-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
@@ -92,6 +95,7 @@ think	think	think	VB	think-v
 again	again	again	RB	again-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Walpole	Walpole	Walpole	NNP	Walpole-e
 said	said	say	VBD	say-v
 The	The	the	DT	the-d
@@ -105,6 +109,7 @@ off	off	off	IN	off-i
 the	the	the	DT	the-d
 streets	streets	street	NNS	street-n
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 more	more	more	JJR	more-j
@@ -115,6 +120,7 @@ to	to	to	TO	to-t
 meet	meet	meet	VB	meet-v
 demand	demand	demand	NN	demand-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 you	you	you	PRP	you-p
@@ -140,6 +146,7 @@ trouble	trouble	trouble	NN	trouble-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 would	would	would	MD	would-v
@@ -159,6 +166,7 @@ the	the	the	DT	the-d
 street	street	street	NN	street-n
 level	level	level	NN	level-n
 .	.	.	.	.-x
+
 People	People	people	NNS	people-n
 are	are	be	VBP	be-v
 trying	trying	try	VBG	try-v
@@ -168,6 +176,7 @@ on	on	on	IN	on-i
 $	$	$	$	$-x
 656	656	656	CD	656-f
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 amount	amount	amount	NN	amount-n
 barely	barely	barely	RB	barely-r
@@ -184,6 +193,7 @@ buy	buy	buy	VB	buy-v
 clothes	clothes	clothes	NNS	clothes-n
 ?	?	?	.	?-x
 "	''	''	''	''-x
+
 Walpole	Walpole	Walpole	NNP	Walpole-e
 said	said	say	VBD	say-v
 people	people	people	NNS	people-n
@@ -204,6 +214,7 @@ bank	bank	bank	NN	bank-n
 or	or	or	CC	or-c
 shelter	shelter	shelter	NN	shelter-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
@@ -225,6 +236,7 @@ it	it	it	PRP	it-p
 up	up	up	RP	up-x
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Walpole	Walpole	Walpole	NNP	Walpole-e
 's	's	's	POS	's-p
 presentation	presentation	presentation	NN	presentation-n
@@ -247,6 +259,7 @@ Bay	Bay	Bay	NNP	Bay-e
 's	's	's	POS	's-p
 streets	streets	street	NNS	street-n
 .	.	.	.	.-x
+
 Chief	Chief	Chief	NNP	Chief-e
 administrative	administrative	administrative	JJ	administrative-j
 officer	officer	officer	NN	officer-n
@@ -277,6 +290,7 @@ to	to	to	TO	to-t
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 And	And	and	CC	and-c
 about	about	about	IN	about-i
@@ -296,6 +310,7 @@ and	and	and	CC	and-c
 he	he	he	PRP	he-p
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 Bradbury	Bradbury	Bradbury	NNP	Bradbury-e
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -321,6 +336,7 @@ days	days	day	NNS	day-n
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -340,6 +356,7 @@ in	in	in	IN	in-i
 past	past	past	JJ	past-j
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 Due	Due	due	JJ	due-j
 to	to	to	TO	to-t
 the	the	the	DT	the-d
@@ -368,6 +385,7 @@ throughout	throughout	throughout	IN	throughout-i
 the	the	the	DT	the-d
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 2015	2015	2015	CD	2015-f
 ,	,	,	,	,-x
@@ -380,6 +398,7 @@ emergency	emergency	emergency	NN	emergency-n
 overflow	overflow	overflow	NN	overflow-n
 days	days	day	NNS	day-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
@@ -391,6 +410,7 @@ more	more	more	JJR	more-j
 than	than	than	IN	than-i
 100	100	100	CD	100-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 Crisis	Crisis	Crisis	NNP	Crisis-e
@@ -419,6 +439,7 @@ rooms	rooms	room	NNS	room-n
 Bradbury	Bradbury	Bradbury	NNP	Bradbury-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 includes	includes	include	VBZ	include-v
@@ -438,6 +459,7 @@ they	they	they	PRP	they-p
 have	have	have	VBP	have-v
 room	room	room	NN	room-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 tells	tells	tell	VBZ	tell-v
 us	us	we	PRP	we-p
@@ -457,6 +479,7 @@ same	same	same	JJ	same-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Bradbury	Bradbury	Bradbury	NNP	Bradbury-e
 said	said	say	VBD	say-v
 DNSSAB	DNSSAB	DNSSAB	NNP	DNSSAB-e
@@ -477,6 +500,7 @@ from	from	from	IN	from-i
 becoming	becoming	become	VBG	become-v
 homeless	homeless	homeless	NN	homeless-n
 .	.	.	.	.-x
+
 Last	Last	last	JJ	last-j
 year	year	year	NN	year-n
 $	$	$	$	$-x
@@ -490,6 +514,7 @@ in	in	in	IN	in-i
 their	their	they	PRP$	they-p
 homes	homes	home	NNS	home-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -500,6 +525,7 @@ concerning	concerning	concern	VBG	concern-v
 Bradbury	Bradbury	Bradbury	NNP	Bradbury-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 fund	fund	fund	NN	fund-n
@@ -522,6 +548,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Bradbury	Bradbury	Bradbury	NNP	Bradbury-e
 said	said	say	VBD	say-v
 to	to	to	TO	to-t
@@ -541,6 +568,7 @@ a	a	a	DT	a-d
 situation	situation	situation	NN	situation-n
 analysis	analysis	analysis	NN	analysis-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 team	team	team	NN	team-n
 is	is	be	VBZ	be-v
@@ -563,6 +591,7 @@ area	area	area	NN	area-n
 of	of	of	IN	of-i
 homelessness	homelessness	homelessness	NN	homelessness-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 results	results	result	NNS	result-n
 will	will	will	MD	will-v
@@ -571,3 +600,4 @@ presented	presented	present	VBN	present-v
 this	this	this	DT	this-d
 month	month	month	NN	month-n
 .	.	.	.	.-x
+

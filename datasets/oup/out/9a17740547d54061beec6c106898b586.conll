@@ -8,6 +8,7 @@ during	during	during	IN	during-i
 CPAC	CPAC	CPAC	NNP	CPAC-e
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 Vice	Vice	Vice	NNP	Vice-e
 President	President	President	NNP	President-e
 Mike	Mike	Mike	NNP	Mike-e
@@ -37,6 +38,7 @@ on	on	on	IN	on-i
 socialist	socialist	socialist	JJ	socialist-j
 policies	policies	policy	NNS	policy-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Bernie	Bernie	Bernie	NNP	Bernie-e
 's	's	's	POS	's-p
@@ -56,6 +58,7 @@ told	told	tell	VBD	tell-v
 the	the	the	DT	the-d
 crowd	crowd	crowd	NN	crowd-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 But	But	but	CC	but-c
 what	what	what	WP	what-p
@@ -83,6 +86,7 @@ less	less	less	JJR	less-j
 freedom	freedom	freedom	NN	freedom-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
@@ -108,6 +112,7 @@ the	the	the	DT	the-d
 vice	vice	vice	NN	vice-n
 president	president	president	NN	president-n
 .	.	.	.	.-x
+
 Pence	Pence	Pence	NNP	Pence-e
 accused	accused	accuse	VBD	accuse-v
 Democratic	Democratic	democratic	JJ	democratic-j
@@ -124,6 +129,7 @@ comfortable	comfortable	comfortable	JJ	comfortable-j
 for	for	for	IN	for-i
 Americans	Americans	Americans	NNPS	Americans-e
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 want	want	want	VBP	want-v
 to	to	to	TO	to-t
@@ -144,6 +150,7 @@ comfortable	comfortable	comfortable	JJ	comfortable-j
 said	said	say	VBD	say-v
 Pence	Pence	Pence	NNP	Pence-e
 .	.	.	.	.-x
+
 Most	Most	most	JJS	most-j
 CPAC	CPAC	cpac	NNS	cpac-n
 speakers	speakers	speaker	NNS	speaker-n
@@ -177,6 +184,7 @@ Deal	Deal	Deal	NNP	Deal-e
 '	'	'	POS	'-p
 package	package	package	NN	package-n
 .	.	.	.	.-x
+
 Pence	Pence	Pence	NNP	Pence-e
 was	was	be	VBD	be-v
 no	no	no	DT	no-d
@@ -208,3 +216,4 @@ cost	cost	cost	VB	cost-v
 taxpayers	taxpayers	taxpayer	NNS	taxpayer-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

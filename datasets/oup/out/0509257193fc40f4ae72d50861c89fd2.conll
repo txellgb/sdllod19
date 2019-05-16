@@ -37,6 +37,7 @@ to	to	to	TO	to-t
 as	as	as	RB	as-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 Barclays	Barclays	Barclays	NNP	Barclays-e
 explains	explains	explain	VBZ	explain-v
 that	that	that	IN	that-i
@@ -78,6 +79,7 @@ Apple	Apple	Apple	NNP	Apple-e
 timeline	timeline	timeline	NN	timeline-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Compounding	Compounding	compound	VBG	compound-v
 this	this	this	DT	this-d
 is	is	be	VBZ	be-v
@@ -88,6 +90,7 @@ fight	fight	fight	NN	fight-n
 with	with	with	IN	with-i
 Qualcomm	Qualcomm	Qualcomm	NNP	Qualcomm-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 chip	chip	chip	NN	chip-n
 giant	giant	giant	NN	giant-n
@@ -103,6 +106,7 @@ are	are	be	VBP	be-v
 commercially	commercially	commercially	RB	commercially-r
 ready	ready	ready	JJ	ready-j
 .	.	.	.	.-x
+
 Unfortunately	Unfortunately	unfortunately	RB	unfortunately-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -141,6 +145,7 @@ its	its	its	PRP$	its-p
 Intel-shaped	Intel-shaped	intel-shaped	JJ	intel-shaped-j
 gap	gap	gap	NN	gap-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 also	also	also	RB	also-r
 seems	seems	seem	VBZ	seem-v
@@ -151,6 +156,7 @@ all	all	all	DT	all-d
 alternative	alternative	alternative	JJ	alternative-j
 avenues	avenues	avenue	NNS	avenue-n
 .	.	.	.	.-x
+
 Apple	Apple	Apple	NNP	Apple-e
 testified	testified	testify	VBD	testify-v
 that	that	that	IN	that-i
@@ -183,6 +189,7 @@ cost	cost	cost	NN	cost-n
 demands	demands	demand	NNS	demand-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Apple	Apple	Apple	NNP	Apple-e
 has	has	have	VBZ	have-v
 even	even	even	RB	even-r
@@ -202,6 +209,7 @@ from	from	from	IN	from-i
 commercial	commercial	commercial	JJ	commercial-j
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 good	good	good	JJ	good-j
 news	news	news	NN	news-n
@@ -215,6 +223,7 @@ it	it	it	PRP	it-p
 this	this	this	DT	this-d
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 5G	5G	5g	NN	5g-n
 phones	phones	phone	NNS	phone-n
@@ -232,6 +241,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 limited	limited	limit	VBN	limit-v
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 this	this	this	DT	this-d
 changes	changes	change	NNS	change-n
@@ -255,6 +265,7 @@ is	is	be	VBZ	be-v
 marketing	marketing	market	VBG	market-v
 suicide	suicide	suicide	NN	suicide-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Apple	Apple	Apple	NNP	Apple-e
 and	and	and	CC	and-c
@@ -277,6 +288,7 @@ the	the	the	DT	the-d
 upper	upper	upper	JJ	upper-j
 hand	hand	hand	NN	hand-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 it	it	it	PRP	it-p
 appears	appears	appear	VBZ	appear-v
@@ -287,6 +299,7 @@ is	is	be	VBZ	be-v
 turning	turning	turn	VBG	turn-v
 quickly	quickly	quickly	RB	quickly-r
 .	.	.	.	.-x
+
 Recent	Recent	recent	JJ	recent-j
 Qualcomm	Qualcomm	Qualcomm	NNP	Qualcomm-e
 victories	victories	victory	NNS	victory-n
@@ -306,6 +319,7 @@ company	company	company	NN	company-n
 's	's	's	POS	's-p
 mood	mood	mood	NN	mood-n
 ...	...	...	:	...-x
+
 Apple	Apple	Apple	NNP	Apple-e
 Patents	Patents	Patents	NNP	Patents-e
 New	New	New	NNP	New-e
@@ -313,3 +327,4 @@ iPhone	iPhone	iPhone	NNP	iPhone-e
 Laser	Laser	Laser	NNP	Laser-e
 Display	Display	display	VB	display-v
 Upgrade	Upgrade	upgrade	VB	upgrade-v
+

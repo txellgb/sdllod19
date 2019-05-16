@@ -23,15 +23,24 @@
 :s1_15 a nif:Word; conll:WORD "Mar"; conll:TOKEN "Mar"; conll:LEMMA "Mar"; conll:LEMPOS "Mar-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_16 .
 :s1_16 a nif:Word; conll:WORD "1"; conll:TOKEN "1"; conll:LEMMA "1"; conll:LEMPOS "1-f"; conll:HEAD :s1_0; conll:POS "CD"; nif:nextWord :s1_17 .
 :s1_17 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_18 .
-:s1_18 a nif:Word; conll:WORD "2019"; conll:TOKEN "2019"; conll:LEMMA "2019"; conll:LEMPOS "2019-f"; conll:HEAD :s1_0; conll:POS "CD"; nif:nextWord :s1_19 .
-:s1_19 a nif:Word; conll:WORD "Tagsterms"; conll:TOKEN "Tagsterms"; conll:LEMMA "Tagsterms"; conll:LEMPOS "Tagsterms-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_20 .
-:s1_20 a nif:Word; conll:WORD ":"; conll:TOKEN ":"; conll:LEMMA ":"; conll:LEMPOS ":-x"; conll:HEAD :s1_0; conll:POS ":"; nif:nextWord :s1_21 .
-:s1_21 a nif:Word; conll:WORD "officer"; conll:TOKEN "officer"; conll:LEMMA "officer"; conll:LEMPOS "officer-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_22 .
-:s1_22 a nif:Word; conll:WORD "breaks"; conll:TOKEN "breaks"; conll:LEMMA "break"; conll:LEMPOS "break-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_23 .
-:s1_23 a nif:Word; conll:WORD "into"; conll:TOKEN "into"; conll:LEMMA "into"; conll:LEMPOS "into-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_24 .
-:s1_24 a nif:Word; conll:WORD "carreborn"; conll:TOKEN "carreborn"; conll:LEMMA "carreborn"; conll:LEMPOS "carreborn-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_25 .
-:s1_25 a nif:Word; conll:WORD "dollsrealistic"; conll:TOKEN "dollsrealistic"; conll:LEMMA "dollsrealistic"; conll:LEMPOS "dollsrealistic-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_26 .
-:s1_26 a nif:Word; conll:WORD "baby"; conll:TOKEN "baby"; conll:LEMMA "baby"; conll:LEMPOS "baby-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_27 .
-:s1_27 a nif:Word; conll:WORD "dollNew"; conll:TOKEN "dollNew"; conll:LEMMA "dollNew"; conll:LEMPOS "dollNew-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_28 .
-:s1_28 a nif:Word; conll:WORD "Hampshire"; conll:TOKEN "Hampshire"; conll:LEMMA "Hampshire"; conll:LEMPOS "Hampshire-e"; conll:HEAD :s1_0; conll:POS "NNP" .
+:s1_18 a nif:Word; conll:WORD "2019"; conll:TOKEN "2019"; conll:LEMMA "2019"; conll:LEMPOS "2019-f"; conll:HEAD :s1_0; conll:POS "CD" .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/3ad9e9a1f1cd456498f6d2ad4b749702#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s1_0 nif:nextSentence :s2_0 .
+:s2_0 a nif:Sentence .
+:s2_1 a nif:Word; conll:WORD "Tagsterms"; conll:TOKEN "Tagsterms"; conll:LEMMA "Tagsterms"; conll:LEMPOS "Tagsterms-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_2 .
+:s2_2 a nif:Word; conll:WORD ":"; conll:TOKEN ":"; conll:LEMMA ":"; conll:LEMPOS ":-x"; conll:HEAD :s2_0; conll:POS ":"; nif:nextWord :s2_3 .
+:s2_3 a nif:Word; conll:WORD "officer"; conll:TOKEN "officer"; conll:LEMMA "officer"; conll:LEMPOS "officer-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_4 .
+:s2_4 a nif:Word; conll:WORD "breaks"; conll:TOKEN "breaks"; conll:LEMMA "break"; conll:LEMPOS "break-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_5 .
+:s2_5 a nif:Word; conll:WORD "into"; conll:TOKEN "into"; conll:LEMMA "into"; conll:LEMPOS "into-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_6 .
+:s2_6 a nif:Word; conll:WORD "carreborn"; conll:TOKEN "carreborn"; conll:LEMMA "carreborn"; conll:LEMPOS "carreborn-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_7 .
+:s2_7 a nif:Word; conll:WORD "dollsrealistic"; conll:TOKEN "dollsrealistic"; conll:LEMMA "dollsrealistic"; conll:LEMPOS "dollsrealistic-j"; conll:HEAD :s2_0; conll:POS "JJ"; nif:nextWord :s2_8 .
+:s2_8 a nif:Word; conll:WORD "baby"; conll:TOKEN "baby"; conll:LEMMA "baby"; conll:LEMPOS "baby-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_9 .
+:s2_9 a nif:Word; conll:WORD "dollNew"; conll:TOKEN "dollNew"; conll:LEMMA "dollNew"; conll:LEMPOS "dollNew-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_10 .
+:s2_10 a nif:Word; conll:WORD "Hampshire"; conll:TOKEN "Hampshire"; conll:LEMMA "Hampshire"; conll:LEMPOS "Hampshire-e"; conll:HEAD :s2_0; conll:POS "NNP" .
 

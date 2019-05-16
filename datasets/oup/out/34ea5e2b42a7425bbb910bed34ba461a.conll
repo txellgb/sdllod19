@@ -13,6 +13,7 @@ United	United	United	NNP	United-e
 new	new	new	JJ	new-j
 captain	captain	captain	NN	captain-n
 .	.	.	.	.-x
+
 United	United	United	NNP	United-e
 skipper	skipper	skipper	NN	skipper-n
 Antonio	Antonio	Antonio	NNP	Antonio-e
@@ -32,6 +33,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 club	club	club	NN	club-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 33-year-old	33-year-old	33-year-old	JJ	33-year-old-j
 was	was	be	VBD	be-v
@@ -74,6 +76,7 @@ Ole	Ole	ole	JJ	ole-j
 Gunnar	Gunnar	Gunnar	NNP	Gunnar-e
 Solskjaer	Solskjaer	Solskjaer	NNP	Solskjaer-e
 .	.	.	.	.-x
+
 Valencia	Valencia	Valencia	NNP	Valencia-e
 hinted	hinted	hint	VBD	hint-v
 late	late	late	RB	late-r
@@ -110,6 +113,7 @@ to	to	to	TO	to-t
 The	The	the	DT	the-d
 Sun	Sun	Sun	NNP	Sun-e
 .	.	.	.	.-x
+
 Mourinho	Mourinho	Mourinho	NNP	Mourinho-e
 took	took	take	VBD	take-v
 the	the	the	DT	the-d
@@ -132,6 +136,7 @@ Solskjaer	Solskjaer	Solskjaer	NNP	Solskjaer-e
 's	's	's	POS	's-p
 arrival	arrival	arrival	NN	arrival-n
 .	.	.	.	.-x
+
 Pogba	Pogba	Pogba	NNP	Pogba-e
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -154,6 +159,7 @@ top	top	top	JJ	top-j
 four	four	four	CD	four-f
 hopes	hopes	hope	NNS	hope-n
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 future	future	future	NN	future-n
 at	at	at	IN	at-i
@@ -185,6 +191,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 summer	summer	summer	NN	summer-n
 .	.	.	.	.-x
+
 Valencia	Valencia	Valencia	NNP	Valencia-e
 is	is	be	VBZ	be-v
 believed	believed	believe	VBN	believe-v
@@ -213,6 +220,7 @@ decade	decade	decade	NN	decade-n
 of	of	of	IN	of-i
 service	service	service	NN	service-n
 .	.	.	.	.-x
+
 Valencia	Valencia	Valencia	NNP	Valencia-e
 wrote	wrote	write	VBD	write-v
 on	on	on	IN	on-i
@@ -229,6 +237,7 @@ town	town	town	NN	town-n
 in	in	in	IN	in-i
 Ecuador	Ecuador	Ecuador	NNP	Ecuador-e
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
 was	was	be	VBD	be-v
@@ -242,6 +251,7 @@ travel	travel	travel	NN	travel-n
 to	to	to	TO	to-t
 Europe	Europe	Europe	NNP	Europe-e
 .	.	.	.	.-x
+
 Thanks	Thanks	thanks	NNS	thanks-n
 to	to	to	TO	to-t
 God	God	God	NNP	God-e
@@ -261,6 +271,7 @@ world	world	world	NN	world-n
 :	:	:	:	:-x
 @ManUtd	@ManUtd	@manutd	NN	@manutd-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Now	Now	now	RB	now-r
 I	I	I	PRP	I-p
@@ -281,3 +292,4 @@ Old	Old	Old	NNP	Old-e
 Trafford	Trafford	Trafford	NNP	Trafford-e
 !	!	!	.	!-x
 "	''	''	''	''-x
+

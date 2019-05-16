@@ -21,6 +21,7 @@ of	of	of	IN	of-i
 public	public	public	JJ	public-j
 transportation	transportation	transportation	NN	transportation-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 panel	panel	panel	NN	panel-n
 approved	approved	approve	VBD	approve-v
@@ -52,6 +53,7 @@ Poe	Poe	Poe	NNP	Poe-e
 ,	,	,	,	,-x
 respectively	respectively	respectively	RB	respectively-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 measures	measures	measure	NNS	measure-n
 seek	seek	seek	VBP	seek-v
@@ -66,6 +68,7 @@ from	from	from	IN	from-i
 transporting	transporting	transport	VBG	transport-v
 passengers	passengers	passenger	NNS	passenger-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 recognize	recognize	recognize	VBP	recognize-v
@@ -108,6 +111,7 @@ City	City	City	NNP	City-e
 Nueva	Nueva	Nueva	NNP	Nueva-e
 Ejica	Ejica	Ejica	NNP	Ejica-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 city	city	city	NN	city-n
 is	is	be	VBZ	be-v
@@ -121,6 +125,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 Poe	Poe	Poe	NNP	Poe-e
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -137,6 +142,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 measure	measure	measure	NN	measure-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 vowed	vowed	vow	VBD	vow-v
 to	to	to	TO	to-t
@@ -150,6 +156,7 @@ the	the	the	DT	the-d
 Congress	Congress	Congress	NNP	Congress-e
 ends	ends	end	NNS	end-n
 .	.	.	.	.-x
+
 Poe	Poe	Poe	NNP	Poe-e
 said	said	say	VBD	say-v
 there	there	there	EX	there-r
@@ -167,6 +174,7 @@ public	public	public	JJ	public-j
 utility	utility	utility	NN	utility-n
 vehicles	vehicles	vehicle	NNS	vehicle-n
 .	.	.	.	.-x
+
 Poe	Poe	Poe	NNP	Poe-e
 said	said	say	VBD	say-v
 once	once	once	RB	once-r
@@ -193,6 +201,7 @@ app-based	app-based	app-based	JJ	app-based-j
 motorcycle	motorcycle	motorcycle	NN	motorcycle-n
 services	services	service	NNS	service-n
 .	.	.	.	.-x
+
 Ejercito	Ejercito	Ejercito	NNP	Ejercito-e
 vowed	vowed	vow	VBD	vow-v
 to	to	to	TO	to-t
@@ -208,3 +217,4 @@ for	for	for	IN	for-i
 motorcycle	motorcycle	motorcycle	NN	motorcycle-n
 owners	owners	owner	NNS	owner-n
 .	.	.	.	.-x
+

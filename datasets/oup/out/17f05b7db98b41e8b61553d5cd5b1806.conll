@@ -30,6 +30,7 @@ on	on	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 night	night	night	NN	night-n
 .	.	.	.	.-x
+
 JJ	JJ	jj	NN	jj-n
 Redick	Redick	Redick	NNP	Redick-e
 hit	hit	hit	VBD	hit-v
@@ -60,6 +61,7 @@ past	past	past	JJ	past-j
 five	five	five	CD	five-f
 games	games	game	NNS	game-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 then	then	then	RB	then-r
 Harris	Harris	Harris	NNP	Harris-e
@@ -81,6 +83,7 @@ eight	eight	eight	CD	eight-f
 consecutive	consecutive	consecutive	JJ	consecutive-j
 points	points	point	NNS	point-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 76ers	76ers	76er	NNS	76er-n
 were	were	be	VBD	be-v
@@ -99,6 +102,7 @@ left	left	left	JJ	left-j
 knee	knee	knee	NN	knee-n
 tendinitis	tendinitis	tendinitis	NN	tendinitis-n
 .	.	.	.	.-x
+
 Before	Before	before	IN	before-i
 the	the	the	DT	the-d
 game	game	game	NN	game-n
@@ -130,6 +134,7 @@ Golden	Golden	Golden	NNP	Golden-e
 State	State	State	NNP	State-e
 Warriors	Warriors	warrior	NNS	warrior-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Thunder	Thunder	Thunder	NNP	Thunder-e
 missed	missed	miss	VBD	miss-v
@@ -146,3 +151,4 @@ right	right	right	JJ	right-j
 shoulder	shoulder	shoulder	NN	shoulder-n
 soreness	soreness	soreness	NN	soreness-n
 .	.	.	.	.-x
+

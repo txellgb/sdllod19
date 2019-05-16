@@ -28,6 +28,7 @@ to	to	to	TO	to-t
 save	save	save	VB	save-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 started	started	start	VBD	start-v
 with	with	with	IN	with-i
@@ -45,6 +46,7 @@ something	something	something	NN	something-n
 much	much	much	RB	much-r
 larger	larger	larger	JJR	larger-j
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 billboard	billboard	billboard	NN	billboard-n
 in	in	in	IN	in-i
@@ -55,6 +57,7 @@ New	New	New	NNP	New-e
 York	York	York	NNP	York-e
 City	City	City	NNP	City-e
 .	.	.	.	.-x
+
 RELATED	RELATED	relate	VBN	relate-v
 :	:	:	:	:-x
 Canadian	Canadian	canadian	JJ	canadian-j
@@ -79,6 +82,7 @@ Big	Big	big	JJ	big-j
 Brother	Brother	Brother	NNP	Brother-e
 Canada	Canada	Canada	NNP	Canada-e
 '	'	'	POS	'-p
+
 Melanie	Melanie	Melanie	NNP	Melanie-e
 Scrofano	Scrofano	Scrofano	NNP	Scrofano-e
 ,	,	,	,	,-x
@@ -105,6 +109,7 @@ was	was	be	VBD	be-v
 shaking	shaking	shake	VBG	shake-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Adding	Adding	add	VBG	add-v
 ,	,	,	,	,-x
 "	``	``	``	``-x
@@ -122,6 +127,7 @@ want	want	want	VBP	want-v
 looks	looks	look	VBZ	look-v
 like	like	like	IN	like-i
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 thank	thank	thank	VB	thank-v
 you	you	you	PRP	you-p
@@ -139,6 +145,7 @@ your	your	you	PRP$	you-p
 hearts	hearts	heart	NNS	heart-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 show	show	show	NN	show-n
 recently	recently	recently	RB	recently-r
@@ -169,6 +176,7 @@ funding	funding	fund	VBG	fund-v
 the	the	the	DT	the-d
 show	show	show	NN	show-n
 .	.	.	.	.-x
+
 RELATED	RELATED	RELATED	NNP	RELATED-e
 :	:	:	:	:-x
 '	'	'	''	'-x
@@ -185,6 +193,7 @@ To	To	to	TO	to-t
 Being	Being	be	VBG	be-v
 Number	Number	Number	NNP	Number-e
 One	One	one	CD	one-f
+
 Other	Other	other	JJ	other-j
 attempts	attempts	attempt	NNS	attempt-n
 by	by	by	IN	by-i
@@ -205,6 +214,7 @@ show	show	show	NN	show-n
 's	's	's	POS	's-p
 status	status	status	NN	status-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 statement	statement	statement	NN	statement-n
 from	from	from	IN	from-i
@@ -259,3 +269,4 @@ franchise	franchise	franchise	NN	franchise-n
 carries	carries	carry	VBZ	carry-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+

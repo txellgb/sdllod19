@@ -30,6 +30,7 @@ upcoming	upcoming	upcome	VBG	upcome-v
 court	court	court	NN	court-n
 case	case	case	NN	case-n
 .	.	.	.	.-x
+
 Norman	Norman	Norman	NNP	Norman-e
 O'Bryan	O'Bryan	O'Bryan	NNP	O'Bryan-e
 SC	SC	SC	NNP	SC-e
@@ -94,6 +95,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 States	States	States	NNPS	States-e
 .	.	.	.	.-x
+
 Following	Following	follow	VBG	follow-v
 an	an	a	DT	a-d
 investigation	investigation	investigation	NN	investigation-n
@@ -158,6 +160,7 @@ and	and	and	CC	and-c
 December	December	December	NNP	December-e
 2017	2017	2017	CD	2017-f
 .	.	.	.	.-x
+
 ASIC	ASIC	ASIC	NNP	ASIC-e
 also	also	also	RB	also-r
 alleges	alleges	allege	VBZ	allege-v
@@ -191,6 +194,7 @@ care	care	care	NN	care-n
 and	and	and	CC	and-c
 diligence	diligence	diligence	NN	diligence-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 company	company	company	NN	company-n
@@ -227,3 +231,4 @@ announcement	announcement	announcement	NN	announcement-n
 on	on	on	IN	on-i
 Monday	Monday	Monday	NNP	Monday-e
 .	.	.	.	.-x
+

@@ -26,6 +26,7 @@ just	just	just	RB	just-r
 before	before	before	IN	before-i
 7am	7am	7am	CD	7am-f
 .	.	.	.	.-x
+
 News24	News24	news24	NN	news24-n
 attempted	attempted	attempt	VBD	attempt-v
 to	to	to	TO	to-t
@@ -43,6 +44,7 @@ anyone	anyone	anyone	NN	anyone-n
 for	for	for	IN	for-i
 comment	comment	comment	NN	comment-n
 .	.	.	.	.-x
+
 Tremors	Tremors	tremor	NNS	tremor-n
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -74,3 +76,4 @@ Johannesburg	Johannesburg	Johannesburg	NNP	Johannesburg-e
 in	in	in	IN	in-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+

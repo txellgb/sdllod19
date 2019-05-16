@@ -40,6 +40,7 @@ shady	shady	shady	JJ	shady-j
 business	business	business	NN	business-n
 deals	deals	deal	NNS	deal-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 President	President	President	NNP	President-e
 Trump	Trump	Trump	NNP	Trump-e
@@ -83,6 +84,7 @@ in	in	in	IN	in-i
 writing	writing	write	VBG	write-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 Kelly	Kelly	Kelly	NNP	Kelly-e
 told	told	tell	VBD	tell-v
@@ -104,6 +106,7 @@ intelligence	intelligence	intelligence	NN	intelligence-n
 officials	officials	official	NNS	official-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 After	After	after	IN	after-i
 Kushner	Kushner	Kushner	NNP	Kushner-e
@@ -133,6 +136,7 @@ the	the	the	DT	the-d
 problem	problem	problem	NN	problem-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 MSNBC	MSNBC	MSNBC	NNP	MSNBC-e
 's	's	's	POS	's-p
 Joe	Joe	Joe	NNP	Joe-e
@@ -172,6 +176,7 @@ listen	listen	listen	VB	listen-v
 to	to	to	TO	to-t
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 intelligence	intelligence	intelligence	NN	intelligence-n
 officials	officials	official	NNS	official-n
@@ -203,6 +208,7 @@ lied	lied	lie	VBD	lie-v
 about	about	about	IN	about-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -246,6 +252,7 @@ States	States	States	NNPS	States-e
 government	government	government	NN	government-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 His	His	he	PRP$	he-p
 father-in-law	father-in-law	father-in-law	NN	father-in-law-n
@@ -272,6 +279,7 @@ past	past	past	JJ	past-j
 two-and-a-half	two-and-a-half	two-and-a-half	CD	two-and-a-half-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 What	What	what	WDT	what-d
 Joe	Joe	Joe	NNP	Joe-e
 Scarborough	Scarborough	Scarborough	NNP	Scarborough-e
@@ -295,6 +303,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 States	States	States	NNPS	States-e
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 are	are	be	VBP	be-v
 more	more	more	RBR	more-r
@@ -318,6 +327,7 @@ the	the	the	DT	the-d
 United	United	United	NNP	United-e
 States	States	States	NNPS	States-e
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 is	is	be	VBZ	be-v
 no	no	no	DT	no-d
@@ -341,6 +351,7 @@ oaths	oaths	oath	NNS	oath-n
 of	of	of	IN	of-i
 office	office	office	NN	office-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 time	time	time	NN	time-n
@@ -357,6 +368,7 @@ to	to	to	TO	to-t
 an	an	a	DT	a-d
 end	end	end	NN	end-n
 .	.	.	.	.-x
+
 Hopefully	Hopefully	hopefully	RB	hopefully-r
 that	that	that	DT	that-d
 will	will	will	MD	will-v
@@ -374,3 +386,4 @@ of	of	of	IN	of-i
 our	our	we	PRP$	we-p
 country	country	country	NN	country-n
 .	.	.	.	.-x
+

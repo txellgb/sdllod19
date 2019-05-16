@@ -14,6 +14,7 @@ at	at	at	IN	at-i
 A24	A24	a24	NN	a24-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 '	`	`	``	`-x
 Fantastic	Fantastic	fantastic	JJ	fantastic-j
@@ -54,6 +55,7 @@ to	to	to	TO	to-t
 Yang	Yang	Yang	NNP	Yang-e
 '	'	'	POS	'-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 tale	tale	tale	NN	tale-n
 follows	follows	follow	VBZ	follow-v
@@ -90,6 +92,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 film	film	film	NN	film-n
 will	will	will	MD	will-v
@@ -107,6 +110,7 @@ along	along	along	IN	along-i
 with	with	with	IN	with-i
 Cinereach	Cinereach	Cinereach	NNP	Cinereach-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 42-year-old	42-year-old	42-year-old	JJ	42-year-old-j
 actor	actor	actor	NN	actor-n
@@ -117,6 +121,7 @@ few	few	few	JJ	few-j
 months	months	month	NNS	month-n
 ahead	ahead	ahead	RB	ahead-r
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 will	will	will	MD	will-v
 next	next	next	RB	next-r
@@ -168,6 +173,7 @@ with	with	with	IN	with-i
 Jessica	Jessica	Jessica	NNP	Jessica-e
 Chastain	Chastain	Chastain	NNP	Chastain-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 last	last	last	JJ	last-j
 month	month	month	NN	month-n
@@ -190,6 +196,7 @@ North	North	North	NNP	North-e
 Water	Water	Water	NNP	Water-e
 '	'	'	POS	'-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 much-anticipated	much-anticipated	much-anticipated	JJ	much-anticipated-j
 series	series	series	NN	series-n
@@ -238,6 +245,7 @@ Drax	Drax	Drax	NNP	Drax-e
 Farrell	Farrell	Farrell	NNP	Farrell-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 Director	Director	Director	NNP	Director-e
 Andrew	Andrew	Andrew	NNP	Andrew-e
 Haigh	Haigh	Haigh	NNP	Haigh-e
@@ -267,6 +275,7 @@ Farrell	Farrell	Farrell	NNP	Farrell-e
 on	on	on	IN	on-i
 board	board	board	NN	board-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 BBC	BBC	BBC	NNP	BBC-e
 is	is	be	VBZ	be-v
@@ -294,6 +303,7 @@ according	according	accord	VBG	accord-v
 to	to	to	TO	to-t
 Deadline	Deadline	Deadline	NNP	Deadline-e
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 The	The	the	DT	the-d
 North	North	North	NNP	North-e
@@ -341,6 +351,7 @@ True	True	true	JJ	true-j
 Detective	Detective	detective	NN	detective-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 Jamie	Jamie	Jamie	NNP	Jamie-e
 Laurenson	Laurenson	Laurenson	NNP	Laurenson-e
 ,	,	,	,	,-x
@@ -388,3 +399,4 @@ the	the	the	DT	the-d
 screen	screen	screen	NN	screen-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

@@ -41,6 +41,7 @@ announced	announced	announce	VBD	announce-v
 on	on	on	IN	on-i
 Friday	Friday	Friday	NNP	Friday-e
 .	.	.	.	.-x
+
 Tahir	Tahir	Tahir	NNP	Tahir-e
 and	and	and	CC	and-c
 Duminy	Duminy	Duminy	NNP	Duminy-e
@@ -77,3 +78,4 @@ for	for	for	IN	for-i
 central	central	central	JJ	central-j
 contracts	contracts	contract	NNS	contract-n
 .	.	.	.	.-x
+

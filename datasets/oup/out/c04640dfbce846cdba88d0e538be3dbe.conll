@@ -31,6 +31,7 @@ to	to	to	TO	to-t
 playing	playing	play	VBG	play-v
 slow	slow	slow	JJ	slow-j
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 a	a	a	DT	a-d
 recent	recent	recent	JJ	recent-j
@@ -55,6 +56,7 @@ an	an	a	DT	a-d
 acceptable	acceptable	acceptable	JJ	acceptable-j
 pace	pace	pace	NN	pace-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 if	if	if	IN	if-i
 you	you	you	PRP	you-p
@@ -77,6 +79,7 @@ same	same	same	JJ	same-j
 ridiculous	ridiculous	ridiculous	JJ	ridiculous-j
 results	results	result	NNS	result-n
 .	.	.	.	.-x
+
 So	So	so	IN	so-i
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -100,6 +103,7 @@ usually	usually	usually	RB	usually-r
 not	not	not	RB	not-r
 thrilled	thrilled	thrill	VBN	thrill-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 Charl	Charl	Charl	NNP	Charl-e
 Schwartzel	Schwartzel	Schwartzel	NNP	Schwartzel-e
@@ -119,6 +123,7 @@ the	the	the	DT	the-d
 Honda	Honda	Honda	NNP	Honda-e
 Classic	Classic	Classic	NNP	Classic-e
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 the	the	the	DT	the-d
 2011	2011	2011	CD	2011-f
@@ -158,6 +163,7 @@ Friday	Friday	Friday	NNP	Friday-e
 's	's	's	POS	's-p
 coverage	coverage	coverage	NN	coverage-n
 .	.	.	.	.-x
+
 RELATED	RELATED	RELATED	NNP	RELATED-e
 :	:	:	:	:-x
 Can	Can	can	MD	can-v
@@ -169,6 +175,7 @@ slow	slow	slow	JJ	slow-j
 play	play	play	NN	play-n
 crisis	crisis	crisis	NN	crisis-n
 ?	?	?	.	?-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -191,6 +198,7 @@ Miller	Miller	Miller	NNP	Miller-e
 Hicks	Hicks	Hicks	NNP	Hicks-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 And	And	and	CC	and-c
 normally	normally	normally	RB	normally-r
@@ -217,6 +225,7 @@ was	was	be	VBD	be-v
 heated	heated	heat	VBN	heat-v
 up	up	up	RP	up-x
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 was	was	be	VBD	be-v
 after	after	after	IN	after-i
@@ -230,6 +239,7 @@ was	was	be	VBD	be-v
 done	done	do	VBN	do-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Here	Here	here	RB	here-r
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -246,6 +256,7 @@ pointing	pointing	point	VBG	point-v
 at	at	at	IN	at-i
 Miller	Miller	Miller	NNP	Miller-e
 :	:	:	:	:-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 it	it	it	PRP	it-p
@@ -277,6 +288,7 @@ deliberate	deliberate	deliberate	JJ	deliberate-j
 Ben	Ben	Ben	NNP	Ben-e
 Crane	Crane	Crane	NNP	Crane-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 man	man	man	NN	man-n
 whose	whose	whose	WP$	whose-p
@@ -303,6 +315,7 @@ the	the	the	DT	the-d
 Booz-Allen	Booz-Allen	Booz-Allen	NNP	Booz-Allen-e
 Classic	Classic	Classic	NNP	Classic-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 another	another	another	DT	another-d
 screenshot	screenshot	screenshot	NN	screenshot-n
@@ -316,6 +329,7 @@ at	at	at	IN	at-i
 someone	someone	someone	NN	someone-n
 else	else	else	RB	else-r
 . . .	...	...	:	...-x
+
 In	In	in	IN	in-i
 any	any	any	DT	any-d
 event	event	event	NN	event-n
@@ -358,6 +372,7 @@ event	event	event	NN	event-n
 since	since	since	IN	since-i
 1995	1995	1995	CD	1995-f
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 maybe	maybe	maybe	RB	maybe-r
 ,	,	,	,	,-x
@@ -373,6 +388,7 @@ to	to	to	TO	to-t
 doing	doing	do	VBG	do-v
 that	that	that	DT	that-d
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 when	when	when	WRB	when-r
 it	it	it	PRP	it-p
@@ -390,3 +406,4 @@ tame	tame	tame	JJ	tame-j
 by	by	by	IN	by-i
 comparison	comparison	comparison	NN	comparison-n
 .	.	.	.	.-x
+

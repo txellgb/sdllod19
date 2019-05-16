@@ -37,6 +37,7 @@ the	the	the	DT	the-d
 High	High	High	NNP	High-e
 Court	Court	Court	NNP	Court-e
 .	.	.	.	.-x
+
 Deputy	Deputy	Deputy	NNP	Deputy-e
 public	public	public	JJ	public-j
 prosecutor	prosecutor	prosecutor	NN	prosecutor-n
@@ -58,6 +59,7 @@ for	for	for	IN	for-i
 mention	mention	mention	NN	mention-n
 yesterday	yesterday	yesterday	NN	yesterday-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 request	request	request	VBP	request-v
@@ -83,6 +85,7 @@ application	application	application	NN	application-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 met	met	meet	VBN	meet-v
 later	later	later	RB	later-r
@@ -108,6 +111,7 @@ hear	hear	hear	VB	hear-v
 the	the	the	DT	the-d
 application	application	application	NN	application-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -124,6 +128,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 defence	defence	defence	NN	defence-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 proceedings	proceedings	proceedings	NNS	proceedings-n
@@ -151,3 +156,4 @@ Kanda	Kanda	Kanda	NNP	Kanda-e
 ,	,	,	,	,-x
 43	43	43	CD	43-f
 .	.	.	.	.-x
+

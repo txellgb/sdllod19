@@ -30,6 +30,7 @@ District	District	District	NNP	District-e
 Court	Court	Court	NNP	Court-e
 yesterday	yesterday	yesterday	NN	yesterday-n
 .	.	.	.	.-x
+
 Oakman	Oakman	Oakman	NNP	Oakman-e
 was	was	be	VBD	be-v
 accused	accused	accuse	VBN	accuse-v
@@ -56,6 +57,7 @@ claimed	claimed	claim	VBD	claim-v
 was	was	be	VBD	be-v
 consensual	consensual	consensual	JJ	consensual-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 jury	jury	jury	NN	jury-n
 deliberated	deliberated	deliberate	VBD	deliberate-v
@@ -69,6 +71,7 @@ not	not	not	RB	not-r
 guilty	guilty	guilty	JJ	guilty-j
 verdict	verdict	verdict	NN	verdict-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 woman	woman	woman	NN	woman-n
 who	who	who	WP	who-p
@@ -89,6 +92,7 @@ of	of	of	IN	of-i
 April	April	April	NNP	April-e
 3	3	3	CD	3-f
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 when	when	when	WRB	when-r
 they	they	they	PRP	they-p
@@ -126,6 +130,7 @@ assaulting	assaulting	assault	VBG	assault-v
 her	her	she	PRP$	she-p
 twice	twice	twice	JJ	twice-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 woman	woman	woman	NN	woman-n
 testified	testified	testify	VBD	testify-v
@@ -157,6 +162,7 @@ after	after	after	IN	after-i
 what	what	what	WP	what-p
 happened	happened	happen	VBD	happen-v
 .	.	.	.	.-x
+
 Oakman	Oakman	Oakman	NNP	Oakman-e
 's	's	's	POS	's-p
 attorneys	attorneys	attorney	NNS	attorney-n
@@ -197,6 +203,7 @@ woman	woman	woman	NN	woman-n
 impairment	impairment	impairment	NN	impairment-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Oakman	Oakman	Oakman	NNP	Oakman-e
 's	's	's	POS	's-p
 case	case	case	NN	case-n
@@ -240,6 +247,7 @@ of	of	of	IN	of-i
 covering	covering	cover	VBG	cover-v
 up	up	up	RP	up-x
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Baylor	Baylor	baylor	NN	baylor-n
 later	later	later	RB	later-r
@@ -248,6 +256,7 @@ that	that	that	IN	that-i
 lawsuit	lawsuit	lawsuit	NN	lawsuit-n
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 Fellow	Fellow	Fellow	NNP	Fellow-e
 Baylor	Baylor	Baylor	NNP	Baylor-e
 defensive	defensive	defensive	JJ	defensive-j
@@ -263,12 +272,14 @@ of	of	of	IN	of-i
 sexual	sexual	sexual	JJ	sexual-j
 assault	assault	assault	NN	assault-n
 .	.	.	.	.-x
+
 Ukwuachu	Ukwuachu	Ukwuachu	NNP	Ukwuachu-e
 is	is	be	VBZ	be-v
 appealing	appealing	appeal	VBG	appeal-v
 his	his	he	PRP$	he-p
 conviction	conviction	conviction	NN	conviction-n
 .	.	.	.	.-x
+
 Before	Before	before	IN	before-i
 his	his	he	PRP$	he-p
 indictment	indictment	indictment	NN	indictment-n
@@ -303,6 +314,7 @@ soon	soon	soon	RB	soon-r
 as	as	as	IN	as-i
 possible	possible	possible	JJ	possible-j
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 spoke	spoke	speak	VBD	speak-v
 about	about	about	IN	about-i
@@ -334,6 +346,7 @@ Baylor	Baylor	Baylor	NNP	Baylor-e
 football	football	football	NN	football-n
 apparatus	apparatus	apparatus	NN	apparatus-n
 :	:	:	:	:-x
+
 Oakman	Oakman	Oakman	NNP	Oakman-e
 went	went	go	VBD	go-v
 through	through	through	IN	through-i
@@ -423,6 +436,7 @@ sexual	sexual	sexual	JJ	sexual-j
 predators	predators	predator	NNS	predator-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 downfall	downfall	downfall	NN	downfall-n
 of	of	of	IN	of-i
@@ -451,6 +465,7 @@ down	down	down	RP	down-x
 "	''	''	''	''-x
 Baylor	Baylor	Baylor	NNP	Baylor-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -464,3 +479,4 @@ found	found	find	VBN	find-v
 not	not	not	RB	not-r
 guilty	guilty	guilty	JJ	guilty-j
 .	.	.	.	.-x
+

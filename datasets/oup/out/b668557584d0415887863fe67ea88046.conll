@@ -30,6 +30,7 @@ Model	Model	Model	NNP	Model-e
 X	X	X	NNP	X-e
 line	line	line	NN	line-n
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 the	the	the	DT	the-d
 recent	recent	recent	JJ	recent-j
@@ -56,6 +57,7 @@ their	their	they	PRP$	they-p
 previous	previous	previous	JJ	previous-j
 prices	prices	price	NNS	price-n
 .	.	.	.	.-x
+
 Accessing	Accessing	access	VBG	access-v
 the	the	the	DT	the-d
 order	order	order	NN	order-n
@@ -85,6 +87,7 @@ Range	Range	Range	NNP	Range-e
 and	and	and	CC	and-c
 Performance	Performance	Performance	NNP	Performance-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Standard	Standard	Standard	NNP	Standard-e
 Range	Range	Range	NNP	Range-e
@@ -104,6 +107,7 @@ miles	miles	mile	NNS	mile-n
 per	per	per	IN	per-i
 charge	charge	charge	NN	charge-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 vehicle	vehicle	vehicle	NN	vehicle-n
 has	has	have	VBZ	have-v
@@ -122,6 +126,7 @@ of	of	of	IN	of-i
 140	140	140	CD	140-f
 mph	mph	mph	NN	mph-n
 .	.	.	.	.-x
+
 Despite	Despite	despite	IN	despite-i
 its	its	its	PRP$	its-p
 range	range	range	NN	range-n
@@ -155,6 +160,7 @@ revealed	revealed	reveal	VBN	reveal-v
 by	by	by	IN	by-i
 Tesla	Tesla	Tesla	NNP	Tesla-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Long	Long	Long	NNP	Long-e
 Range	Range	Range	NNP	Range-e
@@ -190,6 +196,7 @@ of	of	of	IN	of-i
 155	155	155	CD	155-f
 mph	mph	mph	NN	mph-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 variant	variant	variant	NN	variant-n
 ,	,	,	,	,-x
@@ -212,6 +219,7 @@ at	at	at	IN	at-i
 $	$	$	$	$-x
 93,000	93,000	93,000	CD	93,000-f
 .	.	.	.	.-x
+
 Lastly	Lastly	lastly	RB	lastly-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -261,6 +269,7 @@ of	of	of	IN	of-i
 $	$	$	$	$-x
 112,000	112,000	112,000	CD	112,000-f
 .	.	.	.	.-x
+
 Customers	Customers	customer	NNS	customer-n
 who	who	who	WP	who-p
 prefer	prefer	prefer	VBP	prefer-v
@@ -290,6 +299,7 @@ to	to	to	TO	to-t
 2.4	2.4	2.4	CD	2.4-f
 seconds	seconds	seconds	NNS	seconds-n
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 the	the	the	DT	the-d
 Ludicrous	Ludicrous	ludicrous	JJ	ludicrous-j
@@ -320,6 +330,7 @@ of	of	of	IN	of-i
 $	$	$	$	$-x
 132,000	132,000	132,000	CD	132,000-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Tesla	Tesla	Tesla	NNP	Tesla-e
 Model	Model	Model	NNP	Model-e
@@ -332,6 +343,7 @@ Standard	Standard	standard	JJ	standard-j
 range	range	range	NN	range-n
 option	option	option	NN	option-n
 .	.	.	.	.-x
+
 Instead	Instead	instead	RB	instead-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -349,6 +361,7 @@ a	a	a	DT	a-d
 Performance	Performance	Performance	NNP	Performance-e
 variant	variant	variant	NN	variant-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Long	Long	Long	NNP	Long-e
 Range	Range	Range	NNP	Range-e
@@ -382,6 +395,7 @@ costs	costs	cost	VBZ	cost-v
 $	$	$	$	$-x
 88,000	88,000	88,000	CD	88,000-f
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 $	$	$	$	$-x
@@ -395,6 +409,7 @@ of	of	of	IN	of-i
 $	$	$	$	$-x
 96,000	96,000	96,000	CD	96,000-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Model	Model	Model	NNP	Model-e
 X	X	X	NNP	X-e
@@ -441,6 +456,7 @@ of	of	of	IN	of-i
 $	$	$	$	$-x
 117,000	117,000	117,000	CD	117,000-f
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 Ludicrous	Ludicrous	ludicrous	JJ	ludicrous-j
 Mode	Mode	Mode	NNP	Mode-e
@@ -481,6 +497,7 @@ of	of	of	IN	of-i
 $	$	$	$	$-x
 137,000	137,000	137,000	CD	137,000-f
 .	.	.	.	.-x
+
 Tesla	Tesla	Tesla	NNP	Tesla-e
 's	's	's	POS	's-p
 new	new	new	JJ	new-j
@@ -490,6 +507,7 @@ is	is	be	VBZ	be-v
 notably	notably	notably	RB	notably-r
 aggressive	aggressive	aggressive	JJ	aggressive-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Model	Model	Model	NNP	Model-e
 S	S	s	NN	s-n
@@ -519,6 +537,7 @@ much	much	much	JJ	much-j
 larger	larger	larger	JJR	larger-j
 demographic	demographic	demographic	JJ	demographic-j
 .	.	.	.	.-x
+
 Coupled	Coupled	couple	VBN	couple-v
 with	with	with	IN	with-i
 the	the	the	DT	the-d
@@ -551,6 +570,7 @@ every	every	every	DT	every-d
 price	price	price	NN	price-n
 bracket	bracket	bracket	NN	bracket-n
 .	.	.	.	.-x
+
 Based	Based	base	VBN	base-v
 on	on	on	IN	on-i
 a	a	a	DT	a-d
@@ -589,6 +609,7 @@ model	model	model	NN	model-n
 moving	moving	move	VBG	move-v
 forward	forward	forward	RB	forward-r
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 would	would	would	MD	would-v
 allow	allow	allow	VB	allow-v
@@ -625,6 +646,7 @@ of	of	of	IN	of-i
 its	its	its	PRP$	its-p
 stores	stores	store	NNS	store-n
 .	.	.	.	.-x
+
 Tesla	Tesla	Tesla	NNP	Tesla-e
 has	has	have	VBZ	have-v
 pledged	pledged	pledge	VBN	pledge-v
@@ -654,6 +676,7 @@ the	the	the	DT	the-d
 near	near	near	JJ	near-j
 future	future	future	NN	future-n
 .	.	.	.	.-x
+
 Tesla	Tesla	Tesla	NNP	Tesla-e
 lowers	lowers	lower	VBZ	lower-v
 Model	Model	Model	NNP	Model-e
@@ -667,3 +690,4 @@ standardizes	standardizes	standardize	VBZ	standardize-v
 battery	battery	battery	NN	battery-n
 pack	pack	pack	NN	pack-n
 strategy	strategy	strategy	NN	strategy-n
+

@@ -13,6 +13,7 @@ they	they	they	PRP	they-p
 allegedly	allegedly	allegedly	RB	allegedly-r
 discarded	discarded	discard	VBD	discard-v
 baby	baby	baby	NN	baby-n
+
 A	A	a	DT	a-d
 young	young	young	JJ	young-j
 couple	couple	couple	NN	couple-n
@@ -36,6 +37,7 @@ holiday	holiday	holiday	NN	holiday-n
 in	in	in	IN	in-i
 Taiwan	Taiwan	Taiwan	NNP	Taiwan-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 body	body	body	NN	body-n
 of	of	of	IN	of-i
@@ -65,6 +67,7 @@ citing	citing	cite	VBG	cite-v
 local	local	local	JJ	local-j
 police	police	police	NNS	police-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 unclear	unclear	unclear	JJ	unclear-j
@@ -80,6 +83,7 @@ it	it	it	PRP	it-p
 was	was	be	VBD	be-v
 abandoned	abandoned	abandon	VBN	abandon-v
 .	.	.	.	.-x
+
 Authorities	Authorities	Authorities	NNP	Authorities-e
 identified	identified	identify	VBD	identify-v
 the	the	the	DT	the-d
@@ -102,6 +106,7 @@ the	the	the	DT	the-d
 same	same	same	JJ	same-j
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 CCTV	CCTV	CCTV	NNP	CCTV-e
 footage	footage	footage	NN	footage-n
 captured	captured	capture	VBN	capture-v
@@ -136,6 +141,7 @@ around	around	around	IN	around-i
 on	on	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 .	.	.	.	.-x
+
 CCTV	CCTV	cctv	NN	cctv-n
 captured	captured	capture	VBN	capture-v
 outside	outside	outside	IN	outside-i
@@ -169,6 +175,7 @@ around	around	around	IN	around-i
 3am	3am	3am	NN	3am-n
 on	on	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
+
 The	The	the	DT	the-d
 body	body	body	NN	body-n
 of	of	of	IN	of-i
@@ -201,6 +208,7 @@ reports	reports	report	NNS	report-n
 citing	citing	cite	VBG	cite-v
 local	local	local	JJ	local-j
 police	police	police	NNS	police-n
+
 The	The	the	DT	the-d
 remains	remains	remains	NNS	remains-n
 of	of	of	IN	of-i
@@ -229,6 +237,7 @@ after	after	after	IN	after-i
 garbage	garbage	garbage	NN	garbage-n
 collection	collection	collection	NN	collection-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 baby	baby	baby	NN	baby-n
 was	was	be	VBD	be-v
@@ -261,6 +270,7 @@ Central	Central	Central	NNP	Central-e
 News	News	News	NNP	News-e
 Agency	Agency	Agency	NNP	Agency-e
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 reviewing	reviewing	review	VBG	review-v
 surveillance	surveillance	surveillance	NN	surveillance-n
@@ -284,6 +294,7 @@ in	in	in	IN	in-i
 Ximendeng	Ximendeng	Ximendeng	NNP	Ximendeng-e
 district	district	district	NN	district-n
 .	.	.	.	.-x
+
 Authorities	Authorities	authority	NNS	authority-n
 in	in	in	IN	in-i
 Taiwan	Taiwan	Taiwan	NNP	Taiwan-e
@@ -301,6 +312,7 @@ woman	woman	woman	NN	woman-n
 from	from	from	IN	from-i
 Singapore	Singapore	Singapore	NNP	Singapore-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 couple	couple	couple	NN	couple-n
 left	left	leave	VBD	leave-v
@@ -319,6 +331,7 @@ allegedly	allegedly	allegedly	RB	allegedly-r
 discarded	discarded	discard	VBD	discard-v
 their	their	they	PRP$	they-p
 newborn	newborn	newborn	JJ	newborn-j
+
 The	The	the	DT	the-d
 remains	remains	remains	NNS	remains-n
 of	of	of	IN	of-i
@@ -349,6 +362,7 @@ recycling	recycling	recycle	VBG	recycle-v
 after	after	after	IN	after-i
 garbage	garbage	garbage	NN	garbage-n
 collection	collection	collection	NN	collection-n
+
 Xindian	Xindian	xindian	JJ	xindian-j
 district	district	district	NN	district-n
 police	police	police	NN	police-n
@@ -383,6 +397,7 @@ already	already	already	RB	already-r
 checked	checked	check	VBN	check-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 Reports	Reports	report	NNS	report-n
 quoting	quoting	quote	VBG	quote-v
 front	front	front	JJ	front-j
@@ -421,6 +436,7 @@ had	had	have	VBD	have-v
 disappeared	disappeared	disappear	VBD	disappear-v
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 police	police	police	NN	police-n
 also	also	also	RB	also-r
@@ -442,6 +458,7 @@ CNA	CNA	CNA	NNP	CNA-e
 report	report	report	NN	report-n
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 a	a	a	DT	a-d
 DNA	DNA	dna	NN	dna-n
@@ -473,6 +490,7 @@ assist	assist	assist	VB	assist-v
 in	in	in	IN	in-i
 the	the	the	DT	the-d
 investigations	investigations	investigation	NNS	investigation-n
+
 Authorities	Authorities	Authorities	NNP	Authorities-e
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -496,6 +514,7 @@ discarded	discarded	discard	VBD	discard-v
 their	their	they	PRP$	they-p
 newborn	newborn	newborn	JJ	newborn-j
 .	.	.	.	.-x
+
 An	An	a	DT	a-d
 autopsy	autopsy	autopsy	NN	autopsy-n
 has	has	have	VBZ	have-v
@@ -515,6 +534,7 @@ time	time	time	NN	time-n
 of	of	of	IN	of-i
 death	death	death	NN	death-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 a	a	a	DT	a-d
 DNA	DNA	dna	NN	dna-n
@@ -547,3 +567,4 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 investigations	investigations	investigation	NNS	investigation-n
 .	.	.	.	.-x
+

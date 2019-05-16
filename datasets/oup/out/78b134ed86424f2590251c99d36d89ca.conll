@@ -14,6 +14,7 @@ zero	zero	zero	CD	zero-f
 dawn	dawn	dawn	NN	dawn-n
 themed	themed	theme	VBD	theme-v
 cosmetics	cosmetics	cosmetic	NNS	cosmetic-n
+
 Horizon	Horizon	horizon	NN	horizon-n
 Zero	Zero	Zero	NNP	Zero-e
 Dawn	Dawn	Dawn	NNP	Dawn-e
@@ -42,6 +43,7 @@ PUBG	PUBG	PUBG	NNP	PUBG-e
 is	is	be	VBZ	be-v
 invited	invited	invite	VBN	invite-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 a	a	a	DT	a-d
 limited	limited	limited	JJ	limited-j
@@ -68,6 +70,7 @@ special	special	special	JJ	special-j
 cosmetic	cosmetic	cosmetic	NN	cosmetic-n
 items	items	item	NNS	item-n
 .	.	.	.	.-x
+
 Taehwan	Taehwan	Taehwan	NNP	Taehwan-e
 Noh	Noh	Noh	NNP	Noh-e
 from	from	from	IN	from-i
@@ -88,6 +91,7 @@ Horizon	Horizon	Horizon	NNP	Horizon-e
 Zero	Zero	Zero	NNP	Zero-e
 Dawn	Dawn	Dawn	NNP	Dawn-e
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 match	match	match	VB	match-v
 the	the	the	DT	the-d
@@ -115,6 +119,7 @@ elements	elements	element	NNS	element-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 As	As	as	IN	as-i
 fans	fans	fan	NNS	fan-n
@@ -147,6 +152,7 @@ game	game	game	NN	game-n
 Noh	Noh	Noh	NNP	Noh-e
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 Players	Players	player	NNS	player-n
 will	will	will	MD	will-v
 have	have	have	VB	have-v
@@ -163,6 +169,7 @@ Zero	Zero	Zero	NNP	Zero-e
 Dawn	Dawn	Dawn	NNP	Dawn-e
 goodies	goodies	goody	NNS	goody-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 include	include	include	VBP	include-v
 a	a	a	DT	a-d
@@ -199,6 +206,7 @@ poor	poor	poor	JJ	poor-j
 unfortunate	unfortunate	unfortunate	JJ	unfortunate-j
 soul	soul	soul	NN	soul-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 way	way	way	NN	way-n
 you	you	you	PRP	you-p
@@ -218,6 +226,7 @@ you	you	you	PRP	you-p
 are	are	be	VBP	be-v
 doing	doing	do	VBG	do-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Eclipse	Eclipse	Eclipse	NNP	Eclipse-e
 Top	Top	Top	NNP	Top-e
@@ -266,6 +275,7 @@ the	the	the	DT	the-d
 event	event	event	NN	event-n
 period	period	period	NN	period-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 only	only	only	JJ	only-j
 item	item	item	NN	item-n
@@ -292,6 +302,7 @@ game	game	game	NN	game-n
 's	's	's	POS	's-p
 store	store	store	NN	store-n
 .	.	.	.	.-x
+
 Roy	Roy	Roy	NNP	Roy-e
 Postma	Postma	Postma	NNP	Postma-e
 ,	,	,	,	,-x
@@ -321,6 +332,7 @@ from	from	from	IN	from-i
 Zero	Zero	Zero	NNP	Zero-e
 Dawn	Dawn	Dawn	NNP	Dawn-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 we	we	we	PRP	we-p
@@ -353,6 +365,7 @@ Eclipse	Eclipse	Eclipse	NNP	Eclipse-e
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Their	Their	they	PRP$	they-p
 warlike	warlike	warlike	JJ	warlike-j
 nature	nature	nature	NN	nature-n
@@ -398,3 +411,4 @@ identities	identities	identity	NNS	identity-n
 added	added	add	VBD	add-v
 Postma	Postma	Postma	NNP	Postma-e
 .	.	.	.	.-x
+

@@ -18,6 +18,7 @@ March	March	March	NNP	March-e
 victims	victims	victim	NNS	victim-n
 today	today	today	NN	today-n
 .	.	.	.	.-x
+
 Lawmakers	Lawmakers	lawmaker	NNS	lawmaker-n
 led	led	lead	VBN	lead-v
 by	by	by	IN	by-i
@@ -35,6 +36,7 @@ in	in	in	IN	in-i
 central	central	central	JJ	central-j
 Yerevan	Yerevan	Yerevan	NNP	Yerevan-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
@@ -53,6 +55,7 @@ he	he	he	PRP	he-p
 told	told	tell	VBD	tell-v
 reporters	reporters	reporter	NNS	reporter-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Everyone	Everyone	everyone	NN	everyone-n
 commemorates	commemorates	commemorate	VBZ	commemorate-v
@@ -78,6 +81,7 @@ repeated	repeated	repeat	VBN	repeat-v
 Tsarukyan	Tsarukyan	Tsarukyan	NNP	Tsarukyan-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Asked	Asked	ask	VBN	ask-v
 if	if	if	IN	if-i
 he	he	he	PRP	he-p
@@ -106,6 +110,7 @@ yet	yet	yet	RB	yet-r
 to	to	to	TO	to-t
 decide	decide	decide	VB	decide-v
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 is	is	be	VBZ	be-v
 currently	currently	currently	RB	currently-r
@@ -121,6 +126,7 @@ March	March	March	NNP	March-e
 1	1	1	CD	1-f
 investigation	investigation	investigation	NN	investigation-n
 .	.	.	.	.-x
+
 Other	Other	other	JJ	other-j
 former	former	former	JJ	former-j
 officials	officials	official	NNS	official-n
@@ -132,3 +138,4 @@ the	the	the	DT	the-d
 same	same	same	JJ	same-j
 case	case	case	NN	case-n
 .	.	.	.	.-x
+

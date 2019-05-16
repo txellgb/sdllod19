@@ -73,6 +73,7 @@ for	for	for	IN	for-i
 industrial	industrial	industrial	JJ	industrial-j
 applications	applications	application	NNS	application-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 acquisition	acquisition	acquisition	NN	acquisition-n
 will	will	will	MD	will-v
@@ -100,6 +101,7 @@ and	and	and	CC	and-c
 customer	customer	customer	NN	customer-n
 base	base	base	NN	base-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 next	next	next	JJ	next-j
@@ -140,6 +142,7 @@ chief	chief	chief	JJ	chief-j
 executive	executive	executive	JJ	executive-j
 officer	officer	officer	NN	officer-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 acquisition	acquisition	acquisition	NN	acquisition-n
@@ -159,6 +162,7 @@ Ingredion	Ingredion	Ingredion	NNP	Ingredion-e
 growth	growth	growth	NN	growth-n
 strategy	strategy	strategy	NN	strategy-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
 tremendous	tremendous	tremendous	JJ	tremendous-j
@@ -188,6 +192,7 @@ create	create	create	VB	create-v
 together	together	together	RB	together-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -230,6 +235,7 @@ of	of	of	IN	of-i
 Western	Western	western	JJ	western-j
 Polymer	Polymer	polymer	NN	polymer-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 By	By	by	IN	by-i
 coming	coming	come	VBG	come-v
@@ -253,9 +259,11 @@ continued	continued	continued	JJ	continued-j
 growth	growth	growth	NN	growth-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 About	About	about	IN	about-i
 Western	Western	western	JJ	western-j
 Polymer	Polymer	polymer	NN	polymer-n
+
 Western	Western	western	JJ	western-j
 Polymeris	Polymeris	Polymeris	NNP	Polymeris-e
 a	a	a	DT	a-d
@@ -302,6 +310,7 @@ Forks	Forks	Forks	NNP	Forks-e
 North	North	North	NNP	North-e
 Dakota	Dakota	Dakota	NNP	Dakota-e
 .	.	.	.	.-x
+
 Founded	Founded	found	VBN	found-v
 in	in	in	IN	in-i
 1952	1952	1952	CD	1952-f
@@ -327,6 +336,7 @@ for	for	for	IN	for-i
 food	food	food	NN	food-n
 applications	applications	application	NNS	application-n
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 Ingredion	Ingredion	Ingredion	NNP	Ingredion-e
 Idea	Idea	Idea	NNP	Idea-e
@@ -373,6 +383,7 @@ to	to	to	TO	to-t
 nutrition	nutrition	nutrition	NN	nutrition-n
 bars	bars	bar	NNS	bar-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 statements	statements	statement	NNS	statement-n
 can	can	can	MD	can-v
@@ -472,6 +483,7 @@ the	the	the	DT	the-d
 negative	negative	negative	JJ	negative-j
 thereof	thereof	thereof	RB	thereof-r
 .	.	.	.	.-x
+
 Actual	Actual	actual	JJ	actual-j
 results	results	result	NNS	result-n
 and	and	and	CC	and-c
@@ -880,6 +892,7 @@ acts	acts	act	NNS	act-n
 of	of	of	IN	of-i
 terrorism	terrorism	terrorism	NN	terrorism-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 a	a	a	DT	a-d
 further	further	further	JJ	further-j
@@ -920,3 +933,4 @@ Forms	Forms	form	NNS	form-n
 and	and	and	CC	and-c
 8-K	8-K	8-k	NN	8-k-n
 .	.	.	.	.-x
+

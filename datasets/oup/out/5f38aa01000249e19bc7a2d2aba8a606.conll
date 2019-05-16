@@ -4,6 +4,7 @@ Solange	Solange	Solange	NNP	Solange-e
 '	`	`	``	`-x
 Jerrod	Jerrod	Jerrod	NNP	Jerrod-e
 '	'	'	''	'-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 an	an	a	DT	a-d
@@ -40,6 +41,7 @@ Get	Get	get	VBP	get-v
 Home	Home	home	NN	home-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 She	She	she	PRP	she-p
 offers	offers	offer	VBZ	offer-v
 openness	openness	openness	NN	openness-n
@@ -87,6 +89,7 @@ then	then	then	RB	then-r
 pull	pull	pull	VB	pull-v
 away	away	away	RB	away-r
 .	.	.	.	.-x
+
 Nothing	Nothing	nothing	NN	nothing-n
 feels	feels	feel	VBZ	feel-v
 solid	solid	solid	JJ	solid-j
@@ -108,6 +111,7 @@ the	the	the	DT	the-d
 drums	drums	drum	NNS	drum-n
 arrive	arrive	arrive	VBP	arrive-v
 .	.	.	.	.-x
+
 Summer	Summer	summer	NN	summer-n
 Walker	Walker	Walker	NNP	Walker-e
 featuring	featuring	feature	VBG	feature-v
@@ -121,6 +125,7 @@ Love	Love	love	NN	love-n
 Remix	Remix	remix	NN	remix-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 '	'	'	''	'-x
+
 Like	Like	like	IN	like-i
 the	the	the	DT	the-d
 birds	birds	bird	NNS	bird-n
@@ -160,6 +165,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 horizon	horizon	horizon	NN	horizon-n
 .	.	.	.	.-x
+
 Not	Not	not	RB	not-r
 the	the	the	DT	the-d
 forced	forced	force	VBN	force-v
@@ -179,6 +185,7 @@ you	you	you	PRP	you-p
 really	really	really	RB	really-r
 want	want	want	VBP	want-v
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 original	original	original	JJ	original-j
@@ -198,6 +205,7 @@ with	with	with	IN	with-i
 lethargic	lethargic	lethargic	JJ	lethargic-j
 swing	swing	swing	NN	swing-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 this	this	this	DT	this-d
 remix	remix	remix	NN	remix-n
@@ -239,6 +247,7 @@ less	less	less	RBR	less-r
 sensitive	sensitive	sensitive	JJ	sensitive-j
 sex	sex	sex	NN	sex-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Arched	Arched	arched	JJ	arched-j
 back	back	back	RB	back-r
@@ -267,6 +276,7 @@ downshifts	downshifts	downshift	VBZ	downshift-v
 into	into	into	IN	into-i
 cooing	cooing	coo	VBG	coo-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 this	this	this	DT	this-d
 is	is	be	VBZ	be-v
@@ -293,12 +303,14 @@ was	was	be	VBD	be-v
 still	still	still	RB	still-r
 raw	raw	raw	JJ	raw-j
 .	.	.	.	.-x
+
 Jackie	Jackie	Jackie	NNP	Jackie-e
 Mendoza	Mendoza	Mendoza	NNP	Mendoza-e
 ,	,	,	,	,-x
 '	`	`	``	`-x
 Seahorse	Seahorse	Seahorse	NNP	Seahorse-e
 '	'	'	''	'-x
+
 A	A	a	DT	a-d
 blur	blur	blur	NN	blur-n
 can	can	can	MD	can-v
@@ -310,6 +322,7 @@ something	something	something	NN	something-n
 fully	fully	fully	RB	fully-r
 legible	legible	legible	JJ	legible-j
 .	.	.	.	.-x
+
 Jackie	Jackie	Jackie	NNP	Jackie-e
 Mendoza	Mendoza	Mendoza	NNP	Mendoza-e
 's	's	's	POS	's-p
@@ -366,6 +379,7 @@ out	out	out	IN	out-i
 of	of	of	IN	of-i
 reach	reach	reach	NN	reach-n
 .	.	.	.	.-x
+
 Weezer	Weezer	Weezer	NNP	Weezer-e
 ,	,	,	,	,-x
 '	`	`	``	`-x
@@ -374,6 +388,7 @@ as	as	as	IN	as-i
 a	a	a	DT	a-d
 Kite	Kite	kite	NN	kite-n
 '	'	'	''	'-x
+
 Angst	Angst	angst	NN	angst-n
 wrapped	wrapped	wrap	VBD	wrap-v
 in	in	in	IN	in-i
@@ -412,6 +427,7 @@ Black	Black	black	JJ	black-j
 Album	Album	album	NN	album-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 High	High	high	JJ	high-j
 as	as	as	IN	as-i
@@ -456,6 +472,7 @@ in	in	in	IN	in-i
 his	his	he	PRP$	he-p
 voice	voice	voice	NN	voice-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 track	track	track	NN	track-n
 summons	summons	summons	NN	summons-n
@@ -484,6 +501,7 @@ its	its	its	PRP$	its-p
 attitude	attitude	attitude	NN	attitude-n
 guarded	guarded	guard	VBN	guard-v
 .	.	.	.	.-x
+
 Branford	Branford	Branford	NNP	Branford-e
 Marsalis	Marsalis	Marsalis	NNP	Marsalis-e
 Quartet	Quartet	quartet	NN	quartet-n
@@ -491,6 +509,7 @@ Quartet	Quartet	quartet	NN	quartet-n
 '	`	`	``	`-x
 Nilaste	Nilaste	nilaste	NN	nilaste-n
 '	'	'	''	'-x
+
 Justin	Justin	Justin	NNP	Justin-e
 Faulkner	Faulkner	Faulkner	NNP	Faulkner-e
 has	has	have	VBZ	have-v
@@ -520,6 +539,7 @@ best	best	best	JJS	best-j
 drummers	drummers	drummer	NNS	drummer-n
 have	have	have	VBP	have-v
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 striking	striking	striking	JJ	striking-j
 that	that	that	IN	that-i
@@ -534,6 +554,7 @@ and	and	and	CC	and-c
 Elvin	Elvin	Elvin	NNP	Elvin-e
 Jones	Jones	Jones	NNP	Jones-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 might	might	might	MD	might-v
 have	have	have	VB	have-v
@@ -581,6 +602,7 @@ only	only	only	RB	only-r
 27	27	27	CD	27-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 "	``	``	``	``-x
 The	The	the	DT	the-d
@@ -622,6 +644,7 @@ thing	thing	thing	NN	thing-n
 about	about	about	IN	about-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Our	Our	we	PRP$	we-p
 Native	Native	native	JJ	native-j
 Daughters	Daughters	daughter	NNS	daughter-n
@@ -632,6 +655,7 @@ Meets	Meets	meet	VBZ	meet-v
 the	the	the	DT	the-d
 Sun	Sun	Sun	NNP	Sun-e
 '	'	'	''	'-x
+
 Four	Four	four	CD	four-f
 banjo-wielding	banjo-wielding	banjo-wielding	JJ	banjo-wielding-j
 songwriters	songwriters	songwriter	NNS	songwriter-n
@@ -684,6 +708,7 @@ as	as	as	IN	as-i
 contemporary	contemporary	contemporary	JJ	contemporary-j
 perspectives	perspectives	perspective	NNS	perspective-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 "	``	``	``	``-x
 Moon	Moon	Moon	NNP	Moon-e
@@ -725,6 +750,7 @@ dancing	dancing	dance	VBG	dance-v
 Giddens	Giddens	Giddens	NNP	Giddens-e
 sings	sings	sing	VBZ	sing-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Ah	Ah	ah	UH	ah-u
 ,	,	,	,	,-x
@@ -739,6 +765,7 @@ we	we	we	PRP	we-p
 dancing	dancing	dance	VBG	dance-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Carly	Carly	Carly	NNP	Carly-e
 Rae	Rae	Rae	NNP	Rae-e
 Jepsen	Jepsen	Jepsen	NNP	Jepsen-e
@@ -750,6 +777,7 @@ I	I	I	PRP	I-p
 Found	Found	find	VBP	find-v
 You	You	you	PRP	you-p
 '	'	'	''	'-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 going	going	go	VBG	go-v
@@ -767,6 +795,7 @@ meets	meets	meet	VBZ	meet-v
 the	the	the	DT	the-d
 Chainsmokers	Chainsmokers	Chainsmokers	NNPS	Chainsmokers-e
 .	.	.	.	.-x
+
 Kehlani	Kehlani	kehlani	JJ	kehlani-j
 featuring	featuring	feature	VBG	feature-v
 Musiq	Musiq	Musiq	NNP	Musiq-e
@@ -775,6 +804,7 @@ Soulchild	Soulchild	Soulchild	NNP	Soulchild-e
 '	`	`	``	`-x
 Footsteps	Footsteps	footstep	NNS	footstep-n
 '	'	'	''	'-x
+
 "	``	``	``	``-x
 Footsteps	Footsteps	footstep	NNS	footstep-n
 ,	,	,	,	,-x
@@ -811,6 +841,7 @@ from	from	from	IN	from-i
 both	both	both	DT	both-d
 sides	sides	side	NNS	side-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 underlying	underlying	underlie	VBG	underlie-v
 beat	beat	beat	NN	beat-n
@@ -837,6 +868,7 @@ the	the	the	DT	the-d
 second	second	second	JJ	second-j
 guesses	guesses	guess	NNS	guess-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
@@ -873,12 +905,14 @@ like	like	like	IN	like-i
 separate	separate	separate	JJ	separate-j
 paths	paths	path	NNS	path-n
 .	.	.	.	.-x
+
 Matmos	Matmos	Matmos	NNP	Matmos-e
 ,	,	,	,	,-x
 '	`	`	``	`-x
 Breaking	Breaking	break	VBG	break-v
 Bread	Bread	bread	NN	bread-n
 '	'	'	''	'-x
+
 The	The	the	DT	the-d
 latest	latest	latest	JJS	latest-j
 high-concept	high-concept	high-concept	JJ	high-concept-j
@@ -923,6 +957,7 @@ through	through	through	IN	through-i
 like	like	like	IN	like-i
 horns	horns	horn	NNS	horn-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Breaking	Breaking	break	VBG	break-v
 Bread	Bread	bread	NN	bread-n
@@ -953,6 +988,7 @@ scrapes	scrapes	scrape	VBZ	scrape-v
 and	and	and	CC	and-c
 plunks	plunks	plunk	VBZ	plunk-v
 .	.	.	.	.-x
+
 Another	Another	another	DT	another-d
 track	track	track	NN	track-n
 from	from	from	IN	from-i
@@ -980,12 +1016,14 @@ far	far	far	RB	far-r
 more	more	more	RBR	more-r
 ominous	ominous	ominous	JJ	ominous-j
 .	.	.	.	.-x
+
 L7	L7	l7	NN	l7-n
 ,	,	,	,	,-x
 '	`	`	``	`-x
 Burn	Burn	burn	VB	burn-v
 Baby	Baby	Baby	NNP	Baby-e
 '	'	'	''	'-x
+
 Sebadoh	Sebadoh	Sebadoh	NNP	Sebadoh-e
 ,	,	,	,	,-x
 '	`	`	``	`-x
@@ -993,6 +1031,7 @@ Celebrate	Celebrate	celebrate	VB	celebrate-v
 the	the	the	DT	the-d
 Void	Void	void	NN	void-n
 '	'	'	''	'-x
+
 Bad	Bad	bad	JJ	bad-j
 Religion	Religion	Religion	NNP	Religion-e
 ,	,	,	,	,-x
@@ -1001,6 +1040,7 @@ Chaos	Chaos	Chaos	NNP	Chaos-e
 From	From	from	IN	from-i
 Within	Within	within	IN	within-i
 '	'	'	''	'-x
+
 In	In	in	IN	in-i
 May	May	May	NNP	May-e
 the	the	the	DT	the-d
@@ -1035,6 +1075,7 @@ all	all	all	DT	all-d
 be	be	be	VB	be-v
 released	released	release	VBN	release-v
 .	.	.	.	.-x
+
 All	All	all	DT	all-d
 three	three	three	CD	three-f
 bands	bands	band	NNS	band-n
@@ -1062,6 +1103,7 @@ the	the	the	DT	the-d
 record	record	record	NN	record-n
 industry	industry	industry	NN	industry-n
 .	.	.	.	.-x
+
 Good	Good	good	JJ	good-j
 news	news	news	NN	news-n
 :	:	:	:	:-x
@@ -1073,6 +1115,7 @@ sound	sound	sound	VB	sound-v
 like	like	like	IN	like-i
 themselves	themselves	themselves	PRP	themselves-p
 .	.	.	.	.-x
+
 Joey	Joey	Joey	NNP	Joey-e
 DeFrancesco	DeFrancesco	DeFrancesco	NNP	DeFrancesco-e
 featuring	featuring	feature	VBG	feature-v
@@ -1087,6 +1130,7 @@ a	a	a	DT	a-d
 Master	Master	master	NN	master-n
 Plan	Plan	plan	NN	plan-n
 '	'	'	''	'-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 Creator	Creator	Creator	NNP	Creator-e
@@ -1114,6 +1158,7 @@ warm	warm	warm	JJ	warm-j
 aloe	aloe	aloe	NN	aloe-n
 cleanse	cleanse	cleanse	VBP	cleanse-v
 .	.	.	.	.-x
+
 Its	Its	its	PRP$	its-p
 own	own	own	JJ	own-j
 creator	creator	creator	NN	creator-n
@@ -1138,6 +1183,7 @@ past	past	past	JJ	past-j
 50	50	50	CD	50-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Joey	Joey	Joey	NNP	Joey-e
 DeFrancesco	DeFrancesco	DeFrancesco	NNP	DeFrancesco-e
@@ -1171,6 +1217,7 @@ to	to	to	TO	to-t
 enlist	enlist	enlist	VB	enlist-v
 Sanders	Sanders	Sanders	NNP	Sanders-e
 .	.	.	.	.-x
+
 All	All	all	DT	all-d
 of	of	of	IN	of-i
 this	this	this	DT	this-d
@@ -1191,12 +1238,14 @@ bop	bop	bop	NN	bop-n
 comfort	comfort	comfort	NN	comfort-n
 zone	zone	zone	NN	zone-n
 .	.	.	.	.-x
+
 Not	Not	not	RB	not-r
 "	``	``	``	``-x
 Master	Master	Master	NNP	Master-e
 Plan	Plan	Plan	NNP	Plan-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 It	It	it	PRP	it-p
 becomes	becomes	become	VBZ	become-v
 the	the	the	DT	the-d
@@ -1207,6 +1256,7 @@ highlight	highlight	highlight	NN	highlight-n
 almost	almost	almost	RB	almost-r
 inevitably	inevitably	inevitably	RB	inevitably-r
 .	.	.	.	.-x
+
 Jason	Jason	Jason	NNP	Jason-e
 Palmer	Palmer	Palmer	NNP	Palmer-e
 ,	,	,	,	,-x
@@ -1216,6 +1266,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 Glass	Glass	glass	NN	glass-n
 '	'	'	''	'-x
+
 Jason	Jason	Jason	NNP	Jason-e
 Palmer	Palmer	Palmer	NNP	Palmer-e
 's	's	's	POS	's-p
@@ -1253,6 +1304,7 @@ quality	quality	quality	NN	quality-n
 live	live	live	JJ	live-j
 albums	albums	album	NNS	album-n
 .	.	.	.	.-x
+
 Palmer	Palmer	Palmer	NNP	Palmer-e
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -1283,6 +1335,7 @@ he	he	he	PRP	he-p
 hardly	hardly	hardly	RB	hardly-r
 known	known	know	VBN	know-v
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 "	``	``	``	``-x
 Herbs	Herbs	Herbs	NNP	Herbs-e
@@ -1346,6 +1399,7 @@ a	a	a	DT	a-d
 billowy	billowy	billowy	JJ	billowy-j
 freedom	freedom	freedom	NN	freedom-n
 .	.	.	.	.-x
+
 Anna	Anna	Anna	NNP	Anna-e
 Webber	Webber	Webber	NNP	Webber-e
 ,	,	,	,	,-x
@@ -1353,6 +1407,7 @@ Webber	Webber	Webber	NNP	Webber-e
 Idiom	Idiom	Idiom	NNP	Idiom-e
 II	II	II	NNP	II-e
 '	'	'	POS	'-p
+
 Sitting	Sitting	sit	VBG	sit-v
 at	at	at	IN	at-i
 the	the	the	DT	the-d
@@ -1383,6 +1438,7 @@ down	down	down	RP	down-x
 a	a	a	DT	a-d
 lot	lot	lot	NN	lot-n
 .	.	.	.	.-x
+
 Here	Here	here	RB	here-r
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -1415,6 +1471,7 @@ Trance	Trance	trance	NN	trance-n
 Teutonic	Teutonic	teutonic	JJ	teutonic-j
 syncopation	syncopation	syncopation	NN	syncopation-n
 .	.	.	.	.-x
+
 Webber	Webber	Webber	NNP	Webber-e
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -1435,6 +1492,7 @@ bustling	bustling	bustling	JJ	bustling-j
 career	career	career	NN	career-n
 underway	underway	underway	NN	underway-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Clockwise	Clockwise	clockwise	JJ	clockwise-j
 "	''	''	''	''-x
@@ -1451,6 +1509,7 @@ a	a	a	DT	a-d
 convincing	convincing	convincing	JJ	convincing-j
 one	one	one	CD	one-f
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 'll	'll	will	MD	will-v
 certainly	certainly	certainly	RB	certainly-r
@@ -1459,3 +1518,4 @@ your	your	you	PRP$	you-p
 mind	mind	mind	NN	mind-n
 up	up	up	RP	up-x
 .	.	.	.	.-x
+

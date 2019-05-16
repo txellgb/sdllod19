@@ -30,6 +30,7 @@ good	good	good	JJ	good-j
 love	love	love	NN	love-n
 song	song	song	NN	song-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -69,6 +70,7 @@ pile	pile	pile	NN	pile-n
 of	of	of	IN	of-i
 magazines	magazines	magazine	NNS	magazine-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 frequent	frequent	frequent	JJ	frequent-j
 collaborator	collaborator	collaborator	NN	collaborator-n
@@ -124,6 +126,7 @@ Pouring	Pouring	Pouring	NNP	Pouring-e
 Rain	Rain	rain	NN	rain-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Essentially	Essentially	essentially	RB	essentially-r
 offering	offering	offer	VBG	offer-v
 both	both	both	DT	both-d
@@ -154,3 +157,4 @@ to	to	to	TO	to-t
 sensual	sensual	sensual	JJ	sensual-j
 yearning	yearning	yearning	NN	yearning-n
 .	.	.	.	.-x
+

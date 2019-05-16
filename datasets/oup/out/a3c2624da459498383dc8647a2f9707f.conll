@@ -23,6 +23,7 @@ comes	comes	come	VBZ	come-v
 to	to	to	TO	to-t
 our	our	we	PRP$	we-p
 friendships	friendships	friendship	NNS	friendship-n
+
 It	It	it	PRP	it-p
 goes	goes	go	VBZ	go-v
 without	without	without	IN	without-i
@@ -37,6 +38,7 @@ by	by	by	IN	by-i
 the	the	the	DT	the-d
 Internet	Internet	internet	NN	internet-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 largely	largely	largely	RB	largely-r
@@ -65,6 +67,7 @@ of	of	of	IN	of-i
 emotional	emotional	emotional	JJ	emotional-j
 attention	attention	attention	NN	attention-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 age	age	age	NN	age-n
@@ -93,6 +96,7 @@ of	of	of	IN	of-i
 social	social	social	JJ	social-j
 media	media	media	NNS	media-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 monopoly	monopoly	monopoly	NN	monopoly-n
 on	on	on	IN	on-i
@@ -115,6 +119,7 @@ my	my	my	PRP$	my-p
 pre-adolescent	pre-adolescent	pre-adolescent	JJ	pre-adolescent-j
 self	self	self	NN	self-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 had	had	have	VBD	have-v
 ,	,	,	,	,-x
@@ -159,6 +164,7 @@ that	that	that	WDT	that-d
 excel	excel	excel	VBP	excel-v
 in	in	in	IN	in-i
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 it	it	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -203,6 +209,7 @@ that	that	that	IN	that-i
 human	human	human	JJ	human-j
 being	being	being	NN	being-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 human	human	human	JJ	human-j
 relations	relations	relation	NNS	relation-n
@@ -222,6 +229,7 @@ this	this	this	DT	this-d
 in	in	in	IN	in-i
 spades	spades	spade	NNS	spade-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 refusal	refusal	refusal	NN	refusal-n
 to	to	to	TO	to-t
@@ -248,6 +256,7 @@ to	to	to	TO	to-t
 risk	risk	risk	VB	risk-v
 rejection	rejection	rejection	NN	rejection-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 all	all	all	DT	all-d
 now	now	now	RB	now-r
@@ -261,6 +270,7 @@ friends	friends	friend	NNS	friend-n
 and	and	and	CC	and-c
 lovers	lovers	lover	NNS	lover-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 sort	sort	sort	NN	sort-n
 of	of	of	IN	of-i
@@ -290,6 +300,7 @@ a	a	a	DT	a-d
 trivial	trivial	trivial	JJ	trivial-j
 feature	feature	feature	NN	feature-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 rapidity	rapidity	rapidity	NN	rapidity-n
 of	of	of	IN	of-i
@@ -319,6 +330,7 @@ conducted	conducted	conduct	VBN	conduct-v
 and	and	and	CC	and-c
 understood	understood	understand	VBN	understand-v
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 Tag	Tag	tag	NN	tag-n
 culture	culture	culture	NN	culture-n
@@ -329,6 +341,7 @@ example	example	example	NN	example-n
 of	of	of	IN	of-i
 this	this	this	DT	this-d
 .	.	.	.	.-x
+
 Facebook	Facebook	Facebook	NNP	Facebook-e
 's	's	's	POS	's-p
 newsfeed	newsfeed	newsfeed	NN	newsfeed-n
@@ -357,6 +370,7 @@ that	that	that	IN	that-i
 you	you	you	PRP	you-p
 know	know	know	VBP	know-v
 .	.	.	.	.-x
+
 Instead	Instead	instead	RB	instead-r
 ,	,	,	,	,-x
 you	you	you	PRP	you-p
@@ -384,6 +398,7 @@ and	and	and	CC	and-c
 often	often	often	RB	often-r
 monetised	monetised	monetised	JJ	monetised-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 most	most	most	RBS	most-r
 transparent	transparent	transparent	JJ	transparent-j
@@ -422,6 +437,7 @@ tag	tag	tag	NN	tag-n
 them	them	they	PRP	they-p
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Today	Today	today	NN	today-n
 ,	,	,	,	,-x
@@ -441,6 +457,7 @@ be	be	be	VB	be-v
 building	building	build	VBG	build-v
 relationships	relationships	relationship	NNS	relationship-n
 "	''	''	''	''-x
+
 Of	Of	of	IN	of-i
 course	course	course	NN	course-n
 ,	,	,	,	,-x
@@ -461,6 +478,7 @@ turn	turn	turn	VB	turn-v
 it	it	it	PRP	it-p
 off	off	off	RP	off-x
 .	.	.	.	.-x
+
 Yet	Yet	yet	RB	yet-r
 we	we	we	PRP	we-p
 do	do	do	VBP	do-v
@@ -478,6 +496,7 @@ in	in	in	IN	in-i
 its	its	its	PRP$	its-p
 absence	absence	absence	NN	absence-n
 .	.	.	.	.-x
+
 One	One	one	NN	one-n
 might	might	might	MD	might-v
 say	say	say	VB	say-v
@@ -497,6 +516,7 @@ the	the	the	DT	the-d
 telephone	telephone	telephone	NN	telephone-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 is	is	be	VBZ	be-v
 ,	,	,	,	,-x
@@ -556,6 +576,7 @@ and	and	and	CC	and-c
 the	the	the	DT	the-d
 clock	clock	clock	NN	clock-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 careful	careful	careful	JJ	careful-j
 creation	creation	creation	NN	creation-n
@@ -582,6 +603,7 @@ predates	predates	predate	VBZ	predate-v
 this	this	this	DT	this-d
 idea	idea	idea	NN	idea-n
 .	.	.	.	.-x
+
 Today	Today	today	NN	today-n
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -609,6 +631,7 @@ conflicts	conflicts	conflict	NNS	conflict-n
 and	and	and	CC	and-c
 projects	projects	project	NNS	project-n
 .	.	.	.	.-x
+
 More	More	more	JJR	more-j
 care	care	care	NN	care-n
 than	than	than	IN	than-i
@@ -627,6 +650,7 @@ and	and	and	CC	and-c
 social	social	social	JJ	social-j
 status	status	status	NN	status-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 navigating	navigating	navigate	VBG	navigate-v
 these	these	these	DT	these-d
@@ -662,6 +686,7 @@ of	of	of	IN	of-i
 mutual	mutual	mutual	JJ	mutual-j
 judgement	judgement	judgement	NN	judgement-n
 .	.	.	.	.-x
+
 Online	Online	online	JJ	online-j
 friendships	friendships	friendship	NNS	friendship-n
 do	do	do	VBP	do-v
@@ -704,6 +729,7 @@ call	call	call	VB	call-v
 fetishes	fetishes	fetish	NNS	fetish-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 There	There	there	EX	there-r
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -728,6 +754,7 @@ antidote	antidote	antidote	NN	antidote-n
 to	to	to	TO	to-t
 shyness	shyness	shyness	NN	shyness-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 offers	offers	offer	VBZ	offer-v
 a	a	a	DT	a-d
@@ -759,6 +786,7 @@ our	our	we	PRP$	we-p
 happiness	happiness	happiness	NN	happiness-n
 depends	depends	depend	VBZ	depend-v
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 there	there	there	EX	there-r
 is	is	be	VBZ	be-v
@@ -811,12 +839,14 @@ to	to	to	TO	to-t
 through	through	through	IN	through-i
 exposure	exposure	exposure	NN	exposure-n
 .	.	.	.	.-x
+
 Dating	Dating	date	VBG	date-v
 has	has	have	VBZ	have-v
 become	become	become	VBN	become-v
 depersonalised	depersonalised	depersonalise	VBN	depersonalise-v
 too	too	too	RB	too-r
 .	.	.	.	.-x
+
 Tinder	Tinder	Tinder	NNP	Tinder-e
 ,	,	,	,	,-x
 for	for	for	IN	for-i
@@ -834,6 +864,7 @@ human-supermarket	human-supermarket	human-supermarket	NN	human-supermarket-n
 of	of	of	IN	of-i
 choice	choice	choice	NN	choice-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 become	become	become	VBP	become-v
 consumers	consumers	consumer	NNS	consumer-n
@@ -844,6 +875,7 @@ instantly	instantly	instantly	RB	instantly-r
 gratifying	gratifying	gratify	VBG	gratify-v
 choice	choice	choice	NN	choice-n
 .	.	.	.	.-x
+
 Placing	Placing	place	VBG	place-v
 a	a	a	DT	a-d
 screen	screen	screen	NN	screen-n
@@ -902,6 +934,7 @@ responsibility	responsibility	responsibility	NN	responsibility-n
 for	for	for	IN	for-i
 yourself	yourself	yourself	PRP	yourself-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 infamous	infamous	infamous	JJ	infamous-j
 unsolicited	unsolicited	unsolicited	JJ	unsolicited-j
@@ -922,6 +955,7 @@ mail	mail	mail	NN	mail-n
 or	or	or	CC	or-c
 fax	fax	fax	NN	fax-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 could	could	could	MD	could-v
 be	be	be	VB	be-v
@@ -959,6 +993,7 @@ monarchs	monarchs	monarch	NNS	monarch-n
 of	of	of	IN	of-i
 old	old	old	JJ	old-j
 .	.	.	.	.-x
+
 Henry	Henry	Henry	NNP	Henry-e
 VIII	VIII	VIII	NNP	VIII-e
 may	may	may	MD	may-v
@@ -1007,6 +1042,7 @@ the	the	the	DT	the-d
 chopping	chopping	chop	VBG	chop-v
 variety	variety	variety	NN	variety-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -1037,3 +1073,4 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 human	human	human	JJ	human-j
 .	.	.	.	.-x
+

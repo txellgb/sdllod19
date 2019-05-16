@@ -18,6 +18,7 @@ the	the	the	DT	the-d
 Winter	Winter	Winter	NNP	Winter-e
 Olympics	Olympics	Olympics	NNPS	Olympics-e
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 our	our	we	PRP$	we-p
 elected	elected	elect	VBN	elect-v
@@ -47,6 +48,7 @@ the	the	the	DT	the-d
 saying	saying	say	VBG	say-v
 goes	goes	go	VBZ	go-v
 .	.	.	.	.-x
+
 Sometimes	Sometimes	sometimes	RB	sometimes-r
 party	party	party	NN	party-n
 loyalty	loyalty	loyalty	NN	loyalty-n
@@ -62,6 +64,7 @@ our	our	we	PRP$	we-p
 public	public	public	JJ	public-j
 officials	officials	official	NNS	official-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 was	was	be	VBD	be-v
 certainly	certainly	certainly	RB	certainly-r
@@ -108,6 +111,7 @@ the	the	the	DT	the-d
 federal	federal	federal	JJ	federal-j
 government	government	government	NN	government-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 also	also	also	RB	also-r
 "	``	``	``	``-x
@@ -131,6 +135,7 @@ the	the	the	DT	the-d
 border	border	border	NN	border-n
 wall	wall	wall	NN	wall-n
 .	.	.	.	.-x
+
 Lest	Lest	lest	IN	lest-i
 you	you	you	PRP	you-p
 think	think	think	VBP	think-v
@@ -159,6 +164,7 @@ Commerce	Commerce	Commerce	NNP	Commerce-e
 proves	proves	prove	VBZ	prove-v
 otherwise	otherwise	otherwise	RB	otherwise-r
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Russia	Russia	Russia	NNP	Russia-e
 ,	,	,	,	,-x
@@ -210,12 +216,14 @@ all	all	all	DT	all-d
 bluster	bluster	bluster	NN	bluster-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 All	All	all	DT	all-d
 bluster	bluster	bluster	NN	bluster-n
 ?	?	?	.	?-x
 All	All	all	DT	all-d
 bluster	bluster	bluster	NN	bluster-n
 ?	?	?	.	?-x
+
 That	That	that	DT	that-d
 is	is	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -261,6 +269,7 @@ process	process	process	NN	process-n
 in	in	in	IN	in-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 Then	Then	then	RB	then-r
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
@@ -289,6 +298,7 @@ the	the	the	DT	the-d
 midterm	midterm	midterm	JJ	midterm-j
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+
 Last	Last	last	JJ	last-j
 August	August	August	NNP	August-e
 ,	,	,	,	,-x
@@ -325,6 +335,7 @@ International	International	International	NNP	International-e
 Republican	Republican	Republican	NNP	Republican-e
 Institute	Institute	Institute	NNP	Institute-e
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -388,6 +399,7 @@ weapons	weapons	weapon	NNS	weapon-n
 in	in	in	IN	in-i
 Syria	Syria	Syria	NNP	Syria-e
 .	.	.	.	.-x
+
 Nor	Nor	nor	CC	nor-c
 is	is	be	VBZ	be-v
 it	it	it	PRP	it-p
@@ -421,6 +433,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 Kremlin	Kremlin	Kremlin	NNP	Kremlin-e
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 pleaded	pleaded	plead	VBD	plead-v
 guilty	guilty	guilty	JJ	guilty-j
@@ -440,6 +453,7 @@ the	the	the	DT	the-d
 2016	2016	2016	CD	2016-f
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 Nor	Nor	nor	CC	nor-c
 is	is	be	VBZ	be-v
 it	it	it	PRP	it-p
@@ -463,6 +477,7 @@ nerve	nerve	nerve	NN	nerve-n
 gas	gas	gas	NN	gas-n
 agents	agents	agent	NNS	agent-n
 .	.	.	.	.-x
+
 Or	Or	or	CC	or-c
 rolls	rolls	roll	VBZ	roll-v
 its	its	its	PRP$	its-p
@@ -473,6 +488,7 @@ and	and	and	CC	and-c
 annexes	annexes	annex	NNS	annex-n
 Crimea	Crimea	Crimea	NNP	Crimea-e
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 Risch	Risch	Risch	NNP	Risch-e
 dismisses	dismisses	dismiss	VBZ	dismiss-v
@@ -506,6 +522,7 @@ and	and	and	CC	and-c
 the	the	the	DT	the-d
 West	West	West	NNP	West-e
 .	.	.	.	.-x
+
 No	No	no	DT	no-d
 objective	objective	objective	NN	objective-n
 analysis	analysis	analysis	NN	analysis-n
@@ -554,6 +571,7 @@ of	of	of	IN	of-i
 their	their	they	PRP$	they-p
 citizens	citizens	citizen	NNS	citizen-n
 .	.	.	.	.-x
+
 Putin	Putin	Putin	NNP	Putin-e
 's	's	's	POS	's-p
 scariest	scariest	scariest	JJS	scariest-j
@@ -576,6 +594,7 @@ miles	miles	mile	NNS	mile-n
 a	a	a	DT	a-d
 second	second	second	JJ	second-j
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 last	last	last	JJ	last-j
 week	week	week	NN	week-n
@@ -600,6 +619,7 @@ including	including	include	VBG	include-v
 the	the	the	DT	the-d
 Pentagon	Pentagon	Pentagon	NNP	Pentagon-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 reaction	reaction	reaction	NN	reaction-n
 from	from	from	IN	from-i
@@ -652,6 +672,7 @@ against	against	against	IN	against-i
 us	us	we	PRP	we-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Risch	Risch	Risch	NNP	Risch-e
 's	's	's	POS	's-p
 simplistic	simplistic	simplistic	JJ	simplistic-j
@@ -675,6 +696,7 @@ Foreign	Foreign	Foreign	NNP	Foreign-e
 Relations	Relations	Relations	NNP	Relations-e
 Committee	Committee	Committee	NNP	Committee-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 another	another	another	DT	another-d
 Cold	Cold	Cold	NNP	Cold-e
@@ -688,6 +710,7 @@ Russia	Russia	Russia	NNP	Russia-e
 harshest	harshest	harshest	JJS	harshest-j
 critics	critics	critic	NNS	critic-n
 .	.	.	.	.-x
+
 Apparently	Apparently	apparently	RB	apparently-r
 ,	,	,	,	,-x
 President	President	President	NNP	President-e
@@ -715,6 +738,7 @@ of	of	of	IN	of-i
 Trump	Trump	Trump	NNP	Trump-e
 's	's	's	POS	's-p
 .	.	.	.	.-x
+
 Consequently	Consequently	consequently	RB	consequently-r
 ,	,	,	,	,-x
 Idahoans	Idahoans	idahoan	NNS	idahoan-n
@@ -731,6 +755,7 @@ the	the	the	DT	the-d
 U.S.	U.S.	U.S.	NNP	U.S.-e
 Senate	Senate	Senate	NNP	Senate-e
 .	.	.	.	.-x
+
 Placing	Placing	place	VBG	place-v
 party	party	party	NN	party-n
 loyalty	loyalty	loyalty	NN	loyalty-n
@@ -753,6 +778,7 @@ of	of	of	IN	of-i
 a	a	a	DT	a-d
 democracy	democracy	democracy	NN	democracy-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 President	President	President	NNP	President-e
 Trump	Trump	Trump	NNP	Trump-e
@@ -777,6 +803,7 @@ toward	toward	toward	IN	toward-i
 autocratic	autocratic	autocratic	JJ	autocratic-j
 government	government	government	NN	government-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 latest	latest	latest	JJS	latest-j
 example	example	example	NN	example-n
@@ -813,6 +840,7 @@ campaign	campaign	campaign	NN	campaign-n
 and	and	and	CC	and-c
 Russia	Russia	Russia	NNP	Russia-e
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 is	is	be	VBZ	be-v
 at	at	at	IN	at-i
@@ -849,6 +877,7 @@ to	to	to	TO	to-t
 interview	interview	interview	VB	interview-v
 witnesses	witnesses	witness	NNS	witness-n
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -876,6 +905,7 @@ of	of	of	IN	of-i
 collusion	collusion	collusion	NN	collusion-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Here	Here	here	RB	here-r
 we	we	we	PRP	we-p
 have	have	have	VBP	have-v
@@ -908,6 +938,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 story	story	story	NN	story-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 point	point	point	NN	point-n
 here	here	here	RB	here-r
@@ -925,6 +956,7 @@ one	one	one	CD	one-f
 does	does	do	VBZ	do-v
 not	not	not	RB	not-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 point	point	point	NN	point-n
 is	is	be	VBZ	be-v
@@ -952,6 +984,7 @@ truly	truly	truly	RB	truly-r
 informed	informed	inform	VBN	inform-v
 citizen	citizen	citizen	NN	citizen-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 we	we	we	PRP	we-p
 head	head	head	VBP	head-v
@@ -999,6 +1032,7 @@ nation	nation	nation	NN	nation-n
 's	's	's	POS	's-p
 well-being	well-being	well-being	NN	well-being-n
 .	.	.	.	.-x
+
 Otherwise	Otherwise	otherwise	RB	otherwise-r
 ,	,	,	,	,-x
 Idaho	Idaho	Idaho	NNP	Idaho-e
@@ -1032,3 +1066,4 @@ of	of	of	IN	of-i
 our	our	we	PRP$	we-p
 republic	republic	republic	NN	republic-n
 .	.	.	.	.-x
+

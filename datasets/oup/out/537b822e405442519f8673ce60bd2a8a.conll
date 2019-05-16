@@ -10,6 +10,7 @@ years	years	year	NNS	year-n
 with	with	with	IN	with-i
 the	the	the	DT	the-d
 Panthers	Panthers	Panthers	NNPS	Panthers-e
+
 Back	Back	back	RB	back-r
 in	in	in	IN	in-i
 2014	2014	2014	CD	2014-f
@@ -63,6 +64,7 @@ his	his	he	PRP$	he-p
 relative	relative	relative	JJ	relative-j
 inaccuracy	inaccuracy	inaccuracy	NN	inaccuracy-n
 .	.	.	.	.-x
+
 Benjamin	Benjamin	Benjamin	NNP	Benjamin-e
 was	was	be	VBD	be-v
 traded	traded	trade	VBN	trade-v
@@ -88,6 +90,7 @@ picks	picks	pick	NNS	pick-n
 in	in	in	IN	in-i
 return	return	return	NN	return-n
 .	.	.	.	.-x
+
 Now	Now	now	RB	now-r
 ,	,	,	,	,-x
 they	they	they	PRP	they-p
@@ -107,6 +110,7 @@ his	his	he	PRP$	he-p
 rookie	rookie	rookie	NN	rookie-n
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 Funchess	Funchess	Funchess	NNP	Funchess-e
 posted	posted	post	VBD	post-v
 a	a	a	DT	a-d
@@ -135,6 +139,7 @@ in	in	in	IN	in-i
 free	free	free	JJ	free-j
 agency	agency	agency	NN	agency-n
 .	.	.	.	.-x
+
 Jourdan	Jourdan	Jourdan	NNP	Jourdan-e
 Rodrigue	Rodrigue	Rodrigue	NNP	Rodrigue-e
 of	of	of	IN	of-i
@@ -158,6 +163,7 @@ a	a	a	DT	a-d
 new	new	new	JJ	new-j
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 Funchess	Funchess	funchess	NN	funchess-n
 totaled	totaled	total	VBD	total-v
 161	161	161	CD	161-f
@@ -190,6 +196,7 @@ receivers	receivers	receiver	NNS	receiver-n
 in	in	in	IN	in-i
 football	football	football	NN	football-n
 .	.	.	.	.-x
+
 Among	Among	among	IN	among-i
 the	the	the	DT	the-d
 223	223	223	CD	223-f
@@ -216,6 +223,7 @@ percent	percent	percent	NN	percent-n
 ranked	ranked	rank	VBD	rank-v
 207th	207th	207th	NN	207th-n
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 best	best	best	JJS	best-j
 season	season	season	NN	season-n
@@ -282,6 +290,7 @@ and	and	and	CC	and-c
 Curtis	Curtis	Curtis	NNP	Curtis-e
 Samuel	Samuel	Samuel	NNP	Samuel-e
 .	.	.	.	.-x
+
 Funchess	Funchess	funchess	NN	funchess-n
 could	could	could	MD	could-v
 find	find	find	VB	find-v
@@ -319,3 +328,4 @@ No.	No.	no.	NN	no.-n
 2	2	2	CD	2-f
 wideout	wideout	wideout	NN	wideout-n
 .	.	.	.	.-x
+

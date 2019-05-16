@@ -34,6 +34,7 @@ national	national	national	JJ	national-j
 dialogue	dialogue	dialogue	NN	dialogue-n
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 The	The	the	DT	the-d
@@ -51,6 +52,7 @@ Basel	Basel	Basel	NNP	Basel-e
 ,	,	,	,	,-x
 Switzerland	Switzerland	Switzerland	NNP	Switzerland-e
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 was	was	be	VBD	be-v
 the	the	the	DT	the-d
@@ -73,6 +75,7 @@ national	national	national	JJ	national-j
 dialogue	dialogue	dialogue	NN	dialogue-n
 process	process	process	NN	process-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 What	What	what	WP	what-p
@@ -94,6 +97,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 engagement	engagement	engagement	NN	engagement-n
 .	.	.	.	.-x
+
 National	National	National	NNP	National-e
 dialogue	dialogue	dialogue	NN	dialogue-n
 is	is	be	VBZ	be-v
@@ -102,6 +106,7 @@ an	an	a	DT	a-d
 arbitrary	arbitrary	arbitrary	JJ	arbitrary-j
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 need	need	need	VBP	need-v
 to	to	to	TO	to-t
@@ -131,6 +136,7 @@ carried	carried	carry	VBN	carry-v
 this	this	this	DT	this-d
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 want	want	want	VBP	want-v
 to	to	to	TO	to-t
@@ -146,6 +152,7 @@ your	your	you	PRP$	you-p
 own	own	own	JJ	own-j
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -166,6 +173,7 @@ for	for	for	IN	for-i
 this	this	this	DT	this-d
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 do	do	do	VBP	do-v
 n't	n't	not	RB	not-r
@@ -185,6 +193,7 @@ a	a	a	DT	a-d
 full	full	full	JJ	full-j
 understanding	understanding	understanding	NN	understanding-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 training	training	training	NN	training-n
 was	was	be	VBD	be-v
@@ -197,6 +206,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -228,12 +238,14 @@ and	and	and	CC	and-c
 government	government	government	NN	government-n
 officials	officials	official	NNS	official-n
 .	.	.	.	.-x
+
 Who	Who	who	WP	who-p
 was	was	be	VBD	be-v
 coordinating	coordinating	coordinate	VBG	coordinate-v
 this	this	this	DT	this-d
 trip	trip	trip	NN	trip-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -288,6 +300,7 @@ national	national	national	JJ	national-j
 healing	healing	healing	NN	healing-n
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 know	know	know	VBP	know-v
 that	that	that	IN	that-i
@@ -306,6 +319,7 @@ we	we	we	PRP	we-p
 invited	invited	invite	VBD	invite-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 also	also	also	RB	also-r
 know	know	know	VBP	know-v
@@ -343,6 +357,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 participants	participants	participant	NNS	participant-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 Why	Why	why	WRB	why-r
@@ -353,6 +368,7 @@ to	to	to	TO	to-t
 those	those	those	DT	those-d
 individuals	individuals	individual	NNS	individual-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 It	It	it	PRP	it-p
@@ -406,6 +422,7 @@ more	more	more	JJR	more-j
 organisations	organisations	organisation	NNS	organisation-n
 attending	attending	attend	VBG	attend-v
 ?	?	?	.	?-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -436,6 +453,7 @@ any	any	any	DT	any-d
 particular	particular	particular	JJ	particular-j
 reason	reason	reason	NN	reason-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 What	What	what	WP	what-p
@@ -443,6 +461,7 @@ do	do	do	VBP	do-v
 you	you	you	PRP	you-p
 think	think	think	VB	think-v
 ?	?	?	.	?-x
+
 You	You	you	PRP	you-p
 must	must	must	MD	must-v
 ask	ask	ask	VB	ask-v
@@ -452,6 +471,7 @@ enrich	enrich	enrich	VBP	enrich-v
 the	the	the	DT	the-d
 conversation	conversation	conversation	NN	conversation-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 know	know	know	VBP	know-v
 who	who	who	WP	who-p
@@ -460,6 +480,7 @@ should	should	should	MD	should-v
 have	have	have	VB	have-v
 invited	invited	invite	VBN	invite-v
 ?	?	?	.	?-x
+
 We	We	we	PRP	we-p
 should	should	should	MD	should-v
 have	have	have	VB	have-v
@@ -479,6 +500,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 streets	streets	street	NNS	street-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 why	why	why	WRB	why-r
@@ -495,6 +517,7 @@ one	one	one	NN	one-n
 should	should	should	MD	should-v
 ask	ask	ask	VB	ask-v
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 are	are	be	VBP	be-v
 part	part	part	NN	part-n
@@ -519,6 +542,7 @@ about	about	about	IN	about-i
 these	these	these	DT	these-d
 issues	issues	issue	NNS	issue-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -552,6 +576,7 @@ and	and	and	CC	and-c
 Zanu	Zanu	zanu	NN	zanu-n
 PF	PF	pf	NN	pf-n
 .	.	.	.	.-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 That	That	that	DT	that-d
@@ -561,6 +586,7 @@ misreading	misreading	misreading	NN	misreading-n
 of	of	of	IN	of-i
 things	things	thing	NNS	thing-n
 .	.	.	.	.-x
+
 Actually	Actually	actually	RB	actually-r
 ,	,	,	,	,-x
 there	there	there	EX	there-r
@@ -590,6 +616,7 @@ part	part	part	NN	part-n
 of	of	of	IN	of-i
 this	this	this	DT	this-d
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -603,6 +630,7 @@ is	is	be	VBZ	be-v
 our	our	we	PRP$	we-p
 interest	interest	interest	NN	interest-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 former	former	former	JJ	former-j
 contributes	contributes	contribute	VBZ	contribute-v
@@ -623,6 +651,7 @@ at	at	at	IN	at-i
 political	political	political	JJ	political-j
 level	level	level	NN	level-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 example	example	example	NN	example-n
 ,	,	,	,	,-x
@@ -656,6 +685,7 @@ asking	asking	ask	VBG	ask-v
 among	among	among	IN	among-i
 themselves	themselves	themselves	PRP	themselves-p
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 we	we	we	PRP	we-p
 do	do	do	VBP	do-v
@@ -681,6 +711,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 dialogue	dialogue	dialogue	NN	dialogue-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 example	example	example	NN	example-n
 ,	,	,	,	,-x
@@ -712,6 +743,7 @@ the	the	the	DT	the-d
 national	national	national	JJ	national-j
 dialogue	dialogue	dialogue	NN	dialogue-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 national	national	national	JJ	national-j
 dialogue	dialogue	dialogue	NN	dialogue-n
@@ -731,6 +763,7 @@ citizens	citizens	citizen	NNS	citizen-n
 to	to	to	TO	to-t
 participate	participate	participate	VB	participate-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 not	not	not	RB	not-r
@@ -738,6 +771,7 @@ an	an	a	DT	a-d
 elite	elite	elite	NN	elite-n
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -768,6 +802,7 @@ at	at	at	IN	at-i
 these	these	these	DT	these-d
 conversations	conversations	conversation	NNS	conversation-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 Can	Can	can	MD	can-v
@@ -793,6 +828,7 @@ national	national	national	JJ	national-j
 training	training	training	NN	training-n
 workshop	workshop	workshop	NN	workshop-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -808,6 +844,7 @@ framework	framework	framework	NN	framework-n
 draft	draft	draft	NN	draft-n
 now	now	now	RB	now-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 one	one	one	CD	one-f
 that	that	that	WDT	that-d
@@ -828,6 +865,7 @@ next	next	next	JJ	next-j
 few	few	few	JJ	few-j
 days	days	day	NNS	day-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 want	want	want	VBP	want-v
 to	to	to	TO	to-t
@@ -851,6 +889,7 @@ with	with	with	IN	with-i
 other	other	other	JJ	other-j
 actors	actors	actor	NNS	actor-n
 .	.	.	.	.-x
+
 Once	Once	once	IN	once-i
 it	it	it	PRP	it-p
 gets	gets	get	VBZ	get-v
@@ -867,6 +906,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 launched	launched	launch	VBN	launch-v
 .	.	.	.	.-x
+
 Once	Once	once	IN	once-i
 it	it	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -888,6 +928,7 @@ requires	requires	require	VBZ	require-v
 different	different	different	JJ	different-j
 tracks	tracks	track	NNS	track-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 How	How	how	WRB	how-r
@@ -898,6 +939,7 @@ going	going	go	VBG	go-v
 to	to	to	TO	to-t
 happen	happen	happen	VB	happen-v
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -906,12 +948,14 @@ find	find	find	VB	find-v
 each	each	each	DT	each-d
 other	other	other	JJ	other-j
 .	.	.	.	.-x
+
 Right	Right	right	RB	right-r
 now	now	now	RB	now-r
 everyone	everyone	everyone	NN	everyone-n
 is	is	be	VBZ	be-v
 anxious	anxious	anxious	JJ	anxious-j
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 we	we	we	PRP	we-p
 are	are	be	VBP	be-v
@@ -926,6 +970,7 @@ does	does	do	VBZ	do-v
 this	this	this	DT	this-d
 mean	mean	mean	VB	mean-v
 ?	?	?	.	?-x
+
 How	How	how	WRB	how-r
 do	do	do	VBP	do-v
 I	I	I	PRP	I-p
@@ -936,6 +981,7 @@ I	I	I	PRP	I-p
 protect	protect	protect	VBP	protect-v
 myself	myself	myself	PRP	myself-p
 ?	?	?	.	?-x
+
 So	So	so	RB	so-r
 many	many	many	JJ	many-j
 people	people	people	NNS	people-n
@@ -944,6 +990,7 @@ been	been	be	VBN	be-v
 showing	showing	show	VBG	show-v
 interest	interest	interest	NN	interest-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 problem	problem	problem	NN	problem-n
 is	is	be	VBZ	be-v
@@ -992,6 +1039,7 @@ see	see	see	VB	see-v
 the	the	the	DT	the-d
 benefit	benefit	benefit	NN	benefit-n
 .	.	.	.	.-x
+
 Right	Right	right	RB	right-r
 now	now	now	RB	now-r
 people	people	people	NNS	people-n
@@ -1042,6 +1090,7 @@ will	will	will	MD	will-v
 locate	locate	locate	VB	locate-v
 themselves	themselves	themselves	PRP	themselves-p
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 is	is	be	VBZ	be-v
 why	why	why	WRB	why-r
@@ -1057,6 +1106,7 @@ going	going	go	VBG	go-v
 to	to	to	TO	to-t
 converge	converge	converge	VB	converge-v
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 Are	Are	be	VBP	be-v
@@ -1071,6 +1121,7 @@ intends	intends	intend	VBZ	intend-v
 to	to	to	TO	to-t
 achieve	achieve	achieve	VB	achieve-v
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 The	The	the	DT	the-d
@@ -1088,6 +1139,7 @@ justice	justice	justice	NN	justice-n
 and	and	and	CC	and-c
 unity	unity	unity	NN	unity-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 can	can	can	MD	can-v
 be	be	be	VB	be-v
@@ -1124,6 +1176,7 @@ can	can	can	MD	can-v
 be	be	be	VB	be-v
 contested	contested	contest	VBN	contest-v
 .	.	.	.	.-x
+
 Economically	Economically	economically	RB	economically-r
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -1143,6 +1196,7 @@ should	should	should	MD	should-v
 be	be	be	VB	be-v
 prosecuted	prosecuted	prosecute	VBN	prosecute-v
 .	.	.	.	.-x
+
 Socially	Socially	socially	RB	socially-r
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -1165,6 +1219,7 @@ some	some	some	DT	some-d
 political	political	political	JJ	political-j
 party	party	party	NN	party-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 hope	hope	hope	VBP	hope-v
 to	to	to	TO	to-t
@@ -1178,6 +1233,7 @@ who	who	who	WP	who-p
 are	are	be	VBP	be-v
 patriotic	patriotic	patriotic	JJ	patriotic-j
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 merging	merging	merge	VBG	merge-v
@@ -1223,6 +1279,7 @@ we	we	we	PRP	we-p
 are	are	be	VBP	be-v
 satisfied	satisfied	satisfied	JJ	satisfied-j
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 What	What	what	WP	what-p
@@ -1235,6 +1292,7 @@ national	national	national	JJ	national-j
 dialogue	dialogue	dialogue	NN	dialogue-n
 process	process	process	NN	process-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 We	We	we	PRP	we-p
@@ -1244,6 +1302,7 @@ determine	determine	determine	VB	determine-v
 the	the	the	DT	the-d
 timelines	timelines	timeline	NNS	timeline-n
 .	.	.	.	.-x
+
 National	National	National	NNP	National-e
 dialogue	dialogue	dialogue	NN	dialogue-n
 takes	takes	take	VBZ	take-v
@@ -1270,6 +1329,7 @@ run	run	run	VB	run-v
 its	its	its	PRP$	its-p
 course	course	course	NN	course-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 Let	Let	let	VB	let-v
@@ -1300,6 +1360,7 @@ MDC	MDC	MDC	NNP	MDC-e
 Morgan	Morgan	Morgan	NNP	Morgan-e
 Tsvangirai	Tsvangirai	Tsvangirai	NNP	Tsvangirai-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 church	church	church	NN	church-n
 also	also	also	RB	also-r
@@ -1326,6 +1387,7 @@ engaging	engaging	engaging	JJ	engaging-j
 regional	regional	regional	JJ	regional-j
 leaders	leaders	leader	NNS	leader-n
 .	.	.	.	.-x
+
 Is	Is	be	VBZ	be-v
 the	the	the	DT	the-d
 church	church	church	NN	church-n
@@ -1335,6 +1397,7 @@ follow	follow	follow	VB	follow-v
 that	that	that	IN	that-i
 example	example	example	NN	example-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 You	You	you	PRP	you-p
@@ -1357,6 +1420,7 @@ Lancaster	Lancaster	Lancaster	NNP	Lancaster-e
 House	House	House	NNP	House-e
 conference	conference	conference	NN	conference-n
 .	.	.	.	.-x
+
 Many	Many	many	JJ	many-j
 people	people	people	NNS	people-n
 do	do	do	VBP	do-v
@@ -1370,6 +1434,7 @@ never	never	never	RB	never-r
 made	made	make	VBN	make-v
 public	public	public	NN	public-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 1980s	1980s	1980s	CD	1980s-f
@@ -1382,12 +1447,14 @@ was	was	be	VBD	be-v
 also	also	also	RB	also-r
 involved	involved	involve	VBN	involve-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
 Reverend	Reverend	Reverend	NNP	Reverend-e
 Canaan	Canaan	Canaan	NNP	Canaan-e
 Banana	Banana	Banana	NNP	Banana-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 1990s	1990s	1990s	CD	1990s-f
@@ -1438,6 +1505,7 @@ on	on	on	IN	on-i
 its	its	its	PRP$	its-p
 way	way	way	NN	way-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 2008	2008	2008	CD	2008-f
 ,	,	,	,	,-x
@@ -1466,6 +1534,7 @@ or	or	or	CC	or-c
 so	so	so	RB	so-r
 before	before	before	RB	before-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 church	church	church	NN	church-n
 also	also	also	RB	also-r
@@ -1481,6 +1550,7 @@ constitution	constitution	constitution	NN	constitution-n
 making	making	make	VBG	make-v
 process	process	process	NN	process-n
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 departure	departure	departure	NN	departure-n
@@ -1495,6 +1565,7 @@ playing	playing	play	VBG	play-v
 different	different	different	JJ	different-j
 roles	roles	role	NNS	role-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 president	president	president	NN	president-n
 Mugabe	Mugabe	Mugabe	NNP	Mugabe-e
@@ -1509,6 +1580,7 @@ a	a	a	DT	a-d
 midwifery	midwifery	midwifery	JJ	midwifery-j
 role	role	role	NN	role-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 in	in	in	IN	in-i
 Zimbabwe	Zimbabwe	Zimbabwe	NNP	Zimbabwe-e
@@ -1526,6 +1598,7 @@ moments	moments	moment	NNS	moment-n
 of	of	of	IN	of-i
 history	history	history	NN	history-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 are	are	be	VBP	be-v
 not	not	not	RB	not-r
@@ -1540,6 +1613,7 @@ playing	playing	play	VBG	play-v
 similar	similar	similar	JJ	similar-j
 roles	roles	role	NNS	role-n
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 we	we	we	PRP	we-p
 are	are	be	VBP	be-v
@@ -1554,6 +1628,7 @@ build	build	build	VB	build-v
 the	the	the	DT	the-d
 momentum	momentum	momentum	NN	momentum-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 fact	fact	fact	NN	fact-n
 that	that	that	IN	that-i
@@ -1572,6 +1647,7 @@ is	is	be	VBZ	be-v
 a	a	a	DT	a-d
 success	success	success	NN	success-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 And	And	and	CC	and-c
@@ -1593,6 +1669,7 @@ in	in	in	IN	in-i
 that	that	that	DT	that-d
 process	process	process	NN	process-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 I	I	I	PRP	I-p
@@ -1609,6 +1686,7 @@ and	and	and	CC	and-c
 international	international	international	JJ	international-j
 structures	structures	structure	NNS	structure-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
@@ -1651,6 +1729,7 @@ it	it	it	PRP	it-p
 from	from	from	IN	from-i
 behind	behind	behind	RB	behind-r
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 ca	ca	can	MD	can-v
 n't	n't	not	RB	not-r
@@ -1674,6 +1753,7 @@ processes	processes	process	NNS	process-n
 and	and	and	CC	and-c
 possibilities	possibilities	possibility	NNS	possibility-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
 it	it	it	PRP	it-p
@@ -1689,6 +1769,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 moment	moment	moment	NN	moment-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
 there	there	there	EX	there-r
@@ -1701,6 +1782,7 @@ to	to	to	TO	to-t
 find	find	find	VB	find-v
 themselves	themselves	themselves	PRP	themselves-p
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 Should	Should	should	MD	should-v
@@ -1718,6 +1800,7 @@ the	the	the	DT	the-d
 national	national	national	JJ	national-j
 dialogue	dialogue	dialogue	NN	dialogue-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 Actually	Actually	actually	RB	actually-r
@@ -1744,6 +1827,7 @@ about	about	about	IN	about-i
 what	what	what	WP	what-p
 happened	happened	happen	VBD	happen-v
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 must	must	must	MD	must-v
 enable	enable	enable	VB	enable-v
@@ -1759,6 +1843,7 @@ forgive	forgive	forgive	VBP	forgive-v
 you	you	you	PRP	you-p
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 should	should	should	MD	should-v
 create	create	create	VB	create-v
@@ -1769,6 +1854,7 @@ brings	brings	bring	VBZ	bring-v
 about	about	about	IN	about-i
 closure	closure	closure	NN	closure-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 know	know	know	VBP	know-v
 that	that	that	IN	that-i
@@ -1781,6 +1867,7 @@ justice	justice	justice	NN	justice-n
 and	and	and	CC	and-c
 peace	peace	peace	NN	peace-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 should	should	should	MD	should-v
 we	we	we	PRP	we-p
@@ -1824,6 +1911,7 @@ walk	walk	walk	VB	walk-v
 scot-free	scot-free	scot-free	RB	scot-free-r
 "	''	''	''	''-x
 ?	?	?	.	?-x
+
 That	That	that	DT	that-d
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -1852,6 +1940,7 @@ and	and	and	CC	and-c
 identify	identify	identify	VB	identify-v
 with	with	with	IN	with-i
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 moment	moment	moment	NN	moment-n
@@ -1887,6 +1976,7 @@ need	need	need	VBP	need-v
 is	is	be	VBZ	be-v
 dialogue	dialogue	dialogue	NN	dialogue-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 Does	Does	do	VBZ	do-v
@@ -1905,6 +1995,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 dialogue	dialogue	dialogue	NN	dialogue-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 That	That	that	DT	that-d
@@ -1918,6 +2009,7 @@ of	of	of	IN	of-i
 a	a	a	DT	a-d
 dialogue	dialogue	dialogue	NN	dialogue-n
 .	.	.	.	.-x
+
 Who	Who	who	WP	who-p
 can	can	can	MD	can-v
 know	know	know	VB	know-v
@@ -1925,6 +2017,7 @@ about	about	about	IN	about-i
 the	the	the	DT	the-d
 outcome	outcome	outcome	NN	outcome-n
 ?	?	?	.	?-x
+
 That	That	that	DT	that-d
 is	is	be	VBZ	be-v
 why	why	why	WRB	why-r
@@ -1957,6 +2050,7 @@ in	in	in	IN	in-i
 agreed	agreed	agree	VBN	agree-v
 content	content	content	NN	content-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 agreed	agreed	agree	VBN	agree-v
 content	content	content	NN	content-n
@@ -1965,6 +2059,7 @@ then	then	then	RB	then-r
 determine	determine	determine	VB	determine-v
 structure	structure	structure	NN	structure-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 think	think	think	VBP	think-v
 content	content	content	NN	content-n
@@ -1979,6 +2074,7 @@ informed	informed	inform	VBN	inform-v
 by	by	by	IN	by-i
 processes	processes	process	NNS	process-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 The	The	the	DT	the-d
@@ -2008,6 +2104,7 @@ should	should	should	MD	should-v
 also	also	also	RB	also-r
 discuss	discuss	discuss	VB	discuss-v
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 No	No	no	DT	no-d
@@ -2035,6 +2132,7 @@ is	is	be	VBZ	be-v
 a	a	a	DT	a-d
 symptom	symptom	symptom	NN	symptom-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 real	real	real	JJ	real-j
 question	question	question	NN	question-n
@@ -2053,6 +2151,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 President	President	President	NNP	President-e
 ?	?	?	.	?-x
+
 Because	Because	because	IN	because-i
 ,	,	,	,	,-x
 today	today	today	NN	today-n
@@ -2076,6 +2175,7 @@ when	when	when	WRB	when-r
 someone	someone	someone	NN	someone-n
 comes	comes	come	VBZ	come-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 us	us	we	PRP	we-p
 ,	,	,	,	,-x
@@ -2105,12 +2205,14 @@ is	is	be	VBZ	be-v
 ever	ever	ever	RB	ever-r
 questioned	questioned	question	VBN	question-v
 ?	?	?	.	?-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
 pertinent	pertinent	pertinent	JJ	pertinent-j
 question	question	question	NN	question-n
 .	.	.	.	.-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 You	You	you	PRP	you-p
@@ -2132,6 +2234,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 opposition	opposition	opposition	NN	opposition-n
 .	.	.	.	.-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 I	I	I	PRP	I-p
@@ -2165,6 +2268,7 @@ well	well	well	RB	well-r
 ,	,	,	,	,-x
 SADC	SADC	SADC	NNP	SADC-e
 .	.	.	.	.-x
+
 Tell	Tell	tell	VB	tell-v
 me	me	I	PRP	I-p
 ,	,	,	,	,-x
@@ -2172,6 +2276,7 @@ who	who	who	WP	who-p
 is	is	be	VBZ	be-v
 crazy	crazy	crazy	JJ	crazy-j
 ?	?	?	.	?-x
+
 ZI	ZI	zi	NN	zi-n
 :	:	:	:	:-x
 You	You	you	PRP	you-p
@@ -2189,6 +2294,7 @@ Council	Council	Council	NNP	Council-e
 PAC	PAC	PAC	NNP	PAC-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 are	are	be	VBP	be-v
 your	your	you	PRP$	you-p
@@ -2202,6 +2308,7 @@ of	of	of	IN	of-i
 that	that	that	DT	that-d
 panel	panel	panel	NN	panel-n
 ?	?	?	.	?-x
+
 RM	RM	rm	NN	rm-n
 :	:	:	:	:-x
 I	I	I	PRP	I-p
@@ -2227,6 +2334,7 @@ moment	moment	moment	NN	moment-n
 as	as	as	IN	as-i
 this	this	this	DT	this-d
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 President	President	President	NNP	President-e
 will	will	will	MD	will-v
@@ -2253,3 +2361,4 @@ within	within	within	IN	within-i
 my	my	my	PRP$	my-p
 capabilities	capabilities	capability	NNS	capability-n
 .	.	.	.	.-x
+

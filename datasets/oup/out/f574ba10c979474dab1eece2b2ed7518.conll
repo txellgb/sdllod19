@@ -15,6 +15,7 @@ for	for	for	IN	for-i
 Mike	Mike	Mike	NNP	Mike-e
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 .	.	.	.	.-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 's	's	's	POS	's-p
 Minneapolis	Minneapolis	Minneapolis	NNP	Minneapolis-e
@@ -36,6 +37,7 @@ Paul	Paul	Paul	NNP	Paul-e
 Civic	Civic	Civic	NNP	Civic-e
 Center	Center	Center	NNP	Center-e
 .	.	.	.	.-x
+
 Roosevelt	Roosevelt	Roosevelt	NNP	Roosevelt-e
 went	went	go	VBD	go-v
 down	down	down	RB	down-r
@@ -60,6 +62,7 @@ Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 assisted	assisted	assist	VBN	assist-v
 on	on	on	IN	on-i
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 game	game	game	NN	game-n
 seemed	seemed	seem	VBD	seem-v
@@ -103,6 +106,7 @@ a	a	a	DT	a-d
 state	state	state	NN	state-n
 title	title	title	NN	title-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 should	should	should	MD	should-v
 the	the	the	DT	the-d
@@ -110,6 +114,7 @@ goal	goal	goal	NN	goal-n
 have	have	have	VBP	have-v
 counted	counted	count	VBN	count-v
 ?	?	?	.	?-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 and	and	and	CC	and-c
 Co.	Co.	Co.	NNP	Co.-e
@@ -123,6 +128,7 @@ a	a	a	DT	a-d
 high	high	high	JJ	high-j
 stick	stick	stick	NN	stick-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 But	But	but	CC	but-c
 there	there	there	EX	there-r
@@ -136,6 +142,7 @@ then	then	then	RB	then-r
 he	he	he	PRP	he-p
 lamented	lamented	lament	VBD	lament-v
 .	.	.	.	.-x
+
 Still	Still	still	RB	still-r
 ,	,	,	,	,-x
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
@@ -152,6 +159,7 @@ was	was	be	VBD	be-v
 fantastic	fantastic	fantastic	JJ	fantastic-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
 a	a	a	DT	a-d
@@ -173,6 +181,7 @@ and	and	and	CC	and-c
 27	27	27	CD	27-f
 assists	assists	assist	VBZ	assist-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 we	we	we	PRP	we-p
@@ -212,6 +221,7 @@ Division	Division	division	NN	division-n
 I	I	I	PRP	I-p
 hockey	hockey	hockey	NN	hockey-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 had	had	have	VBD	have-v
@@ -230,6 +240,7 @@ teams	teams	team	NNS	team-n
 then	then	then	RB	then-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -268,6 +279,7 @@ the	the	the	DT	the-d
 varsity	varsity	varsity	NN	varsity-n
 team	team	team	NN	team-n
 .	.	.	.	.-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 was	was	be	VBD	be-v
 stuck	stuck	stick	VBN	stick-v
@@ -284,6 +296,7 @@ his	his	he	PRP$	he-p
 first	first	first	JJ	first-j
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
 tasked	tasked	task	VBN	task-v
@@ -303,6 +316,7 @@ varsity	varsity	varsity	NN	varsity-n
 ice	ice	ice	NN	ice-n
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 And	And	and	CC	and-c
 that	that	that	DT	that-d
@@ -315,6 +329,7 @@ bit	bit	bit	NN	bit-n
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 retrospect	retrospect	retrospect	NN	retrospect-n
 ,	,	,	,	,-x
@@ -339,6 +354,7 @@ it	it	it	PRP	it-p
 that	that	that	DT	that-d
 way	way	way	NN	way-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 He	He	he	PRP	he-p
 was	was	be	VBD	be-v
@@ -354,6 +370,7 @@ me	me	I	PRP	I-p
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 did	did	do	VBD	do-v
@@ -374,6 +391,7 @@ very	very	very	RB	very-r
 proud	proud	proud	JJ	proud-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 was	was	be	VBD	be-v
 on	on	on	IN	on-i
@@ -393,6 +411,7 @@ title	title	title	NN	title-n
 that	that	that	WDT	that-d
 spring	spring	spring	NN	spring-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 Brooks	Brooks	Brooks	NNP	Brooks-e
 knew	knew	know	VBD	know-v
@@ -429,6 +448,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 roster	roster	roster	NN	roster-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 it	it	it	PRP	it-p
 turned	turned	turn	VBD	turn-v
@@ -445,6 +465,7 @@ gold	gold	gold	NN	gold-n
 medal-winning	medal-winning	medal-winning	JJ	medal-winning-j
 team	team	team	NN	team-n
 .	.	.	.	.-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 players	players	player	NNS	player-n
@@ -483,6 +504,7 @@ achievement	achievement	achievement	NN	achievement-n
 would	would	would	MD	would-v
 have	have	have	VB	have-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 still	still	still	RB	still-r
@@ -519,6 +541,7 @@ game	game	game	NN	game-n
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 And	And	and	CC	and-c
 she	she	she	PRP	she-p
@@ -543,6 +566,7 @@ part	part	part	NN	part-n
 of	of	of	IN	of-i
 that	that	that	DT	that-d
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 still	still	still	RB	still-r
 look	look	look	VBP	look-v
@@ -562,6 +586,7 @@ say	say	say	VB	say-v
 Wow	Wow	wow	UH	wow-u
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 That	That	that	DT	that-d
 was	was	be	VBD	be-v
 really	really	really	RB	really-r
@@ -574,6 +599,7 @@ of	of	of	IN	of-i
 that	that	that	DT	that-d
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 From	From	from	IN	from-i
 there	there	there	RB	there-r
 ,	,	,	,	,-x
@@ -601,6 +627,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 Sabres	Sabres	Sabres	NNP	Sabres-e
 .	.	.	.	.-x
+
 Throughout	Throughout	throughout	IN	throughout-i
 his	his	he	PRP$	he-p
 career	career	career	NN	career-n
@@ -614,6 +641,7 @@ an	an	a	DT	a-d
 offensive	offensive	offensive	JJ	offensive-j
 defenseman	defenseman	defenseman	NN	defenseman-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 do	do	do	VBP	do-v
 n't	n't	not	RB	not-r
@@ -631,6 +659,7 @@ finding	finding	find	VBG	find-v
 the	the	the	DT	the-d
 net	net	net	NN	net-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Back	Back	back	RB	back-r
 then	then	then	RB	then-r
@@ -647,6 +676,7 @@ ice	ice	ice	NN	ice-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 did	did	do	VBD	do-v
@@ -656,6 +686,7 @@ had	had	have	VBD	have-v
 to	to	to	TO	to-t
 do	do	do	VB	do-v
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 needed	needed	need	VBD	need-v
@@ -664,6 +695,7 @@ goals	goals	goal	NNS	goal-n
 you	you	you	PRP	you-p
 gambled	gambled	gamble	VBD	gamble-v
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 did	did	do	VBD	do-v
@@ -675,6 +707,7 @@ you	you	you	PRP	you-p
 stayed	stayed	stay	VBD	stay-v
 back	back	back	RB	back-r
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 was	was	be	VBD	be-v
 kind	kind	kind	NN	kind-n
@@ -683,6 +716,7 @@ the	the	the	DT	the-d
 philosophy	philosophy	philosophy	NN	philosophy-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 That	That	that	DT	that-d
 philosophy	philosophy	philosophy	NN	philosophy-n
 quickly	quickly	quickly	RB	quickly-r
@@ -696,6 +730,7 @@ coach	coach	coach	NN	coach-n
 Scotty	Scotty	Scotty	NNP	Scotty-e
 Bowman	Bowman	Bowman	NNP	Bowman-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Bowman	Bowman	Bowman	NNP	Bowman-e
 chewed	chewed	chew	VBD	chew-v
@@ -709,6 +744,7 @@ times	times	time	NNS	time-n
 Ramey	Ramey	Ramey	NNP	Ramey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
@@ -729,6 +765,7 @@ our	our	we	PRP$	we-p
 own	own	own	JJ	own-j
 net	net	net	NN	net-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 said	said	say	VBD	say-v
 ,	,	,	,	,-x
@@ -742,6 +779,7 @@ play	play	play	VB	play-v
 defense	defense	defense	NN	defense-n
 ?	?	?	.	?-x
 '	'	'	''	'-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 ,	,	,	,	,-x
@@ -755,6 +793,7 @@ just	just	just	RB	just-r
 defense	defense	defense	NN	defense-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 I	I	I	PRP	I-p
 said	said	say	VBD	say-v
 ,	,	,	,	,-x
@@ -765,6 +804,7 @@ do	do	do	VB	do-v
 that	that	that	DT	that-d
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 About	About	about	IN	about-i
 two	two	two	CD	two-f
 or	or	or	CC	or-c
@@ -779,6 +819,7 @@ a	a	a	DT	a-d
 defensive	defensive	defensive	JJ	defensive-j
 defenseman	defenseman	defenseman	NN	defenseman-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 changed	changed	change	VBD	change-v
 my	my	my	PRP$	my-p
@@ -795,6 +836,7 @@ on	on	on	IN	on-i
 defense	defense	defense	NN	defense-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Which	Which	which	WDT	which-d
 was	was	be	VBD	be-v
 fine	fine	fine	JJ	fine-j
@@ -820,6 +862,7 @@ put	put	put	VB	put-v
 up	up	up	RP	up-x
 points	points	point	NNS	point-n
 .	.	.	.	.-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 thinks	thinks	think	VBZ	think-v
 that	that	that	IN	that-i
@@ -831,6 +874,7 @@ his	his	he	PRP$	he-p
 pro	pro	pro	JJ	pro-j
 career	career	career	NN	career-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 played	played	play	VBD	play-v
 1,070	1,070	1,070	CD	1,070-f
@@ -844,6 +888,7 @@ four	four	four	CD	four-f
 all-star	all-star	all-star	JJ	all-star-j
 teams	teams	team	NNS	team-n
 .	.	.	.	.-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 's	's	's	POS	's-p
 plus-minus	plus-minus	plus-minus	NN	plus-minus-n
@@ -853,6 +898,7 @@ for	for	for	IN	for-i
 his	his	he	PRP$	he-p
 career	career	career	NN	career-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 teammate	teammate	teammate	NN	teammate-n
 of	of	of	IN	of-i
@@ -879,6 +925,7 @@ right	right	right	NN	right-n
 plays	plays	play	VBZ	play-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 He	He	he	PRP	he-p
 's	's	be	VBZ	be-v
@@ -917,6 +964,7 @@ time	time	time	NN	time-n
 Broten	Broten	Broten	NNP	Broten-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 You	You	you	PRP	you-p
 could	could	could	MD	could-v
@@ -932,6 +980,7 @@ practice	practice	practice	NN	practice-n
 ,	,	,	,	,-x
 whatever	whatever	whatever	WDT	whatever-d
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 someone	someone	someone	NN	someone-n
 that	that	that	IN	that-i
@@ -965,6 +1014,7 @@ right	right	right	JJ	right-j
 play	play	play	NN	play-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 why	why	why	WRB	why-r
@@ -985,6 +1035,7 @@ for	for	for	IN	for-i
 so	so	so	RB	so-r
 long	long	long	RB	long-r
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 always	always	always	RB	always-r
@@ -1013,6 +1064,7 @@ pro	pro	pro	NN	pro-n
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 They	They	they	PRP	they-p
 knew	knew	know	VBD	know-v
@@ -1033,6 +1085,7 @@ most	most	most	JJS	most-j
 every	every	every	DT	every-d
 night	night	night	NN	night-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 did	did	do	VBD	do-v
 n't	n't	not	RB	not-r
@@ -1052,6 +1105,7 @@ pretty	pretty	pretty	RB	pretty-r
 consistent	consistent	consistent	JJ	consistent-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 is	is	be	VBZ	be-v
 ,	,	,	,	,-x
@@ -1079,6 +1133,7 @@ do	do	do	VB	do-v
 it	it	it	PRP	it-p
 again	again	again	RB	again-r
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Playing	Playing	play	VBG	play-v
 in	in	in	IN	in-i
@@ -1099,6 +1154,7 @@ hard	hard	hard	RB	hard-r
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 would	would	would	MD	would-v
@@ -1121,6 +1177,7 @@ do	do	do	VB	do-v
 that	that	that	DT	that-d
 again	again	again	RB	again-r
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 would	would	would	MD	would-v
 n't	n't	not	RB	not-r
@@ -1130,6 +1187,7 @@ do	do	do	VB	do-v
 that	that	that	DT	that-d
 again	again	again	RB	again-r
 .	.	.	.	.-x
+
 Plus	Plus	plus	CC	plus-c
 the	the	the	DT	the-d
 game	game	game	NN	game-n
@@ -1140,6 +1198,7 @@ the	the	the	DT	the-d
 NHL	NHL	nhl	NN	nhl-n
 then	then	then	RB	then-r
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -1158,6 +1217,7 @@ jail	jail	jail	NN	jail-n
 now	now	now	RB	now-r
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 do	do	do	VBP	do-v
 n't	n't	not	RB	not-r
@@ -1170,6 +1230,7 @@ worry	worry	worry	VB	worry-v
 about	about	about	IN	about-i
 that	that	that	DT	that-d
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 can	can	can	MD	can-v
 still	still	still	RB	still-r
@@ -1193,6 +1254,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 face	face	face	NN	face-n
 .	.	.	.	.-x
+
 ...	...	...	:	...-x
 the	the	the	DT	the-d
 game	game	game	NN	game-n
@@ -1206,6 +1268,7 @@ the	the	the	DT	the-d
 '80s	'80s	'80	NNS	'80-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 also	also	also	RB	also-r
 cherishes	cherishes	cherish	VBZ	cherish-v
@@ -1218,6 +1281,7 @@ Olympic	Olympic	Olympic	NNP	Olympic-e
 gold	gold	gold	NN	gold-n
 medal	medal	medal	NN	medal-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 if	if	if	IN	if-i
 you	you	you	PRP	you-p
@@ -1245,6 +1309,7 @@ high	high	high	JJ	high-j
 school	school	school	NN	school-n
 hockey	hockey	hockey	NN	hockey-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
@@ -1282,3 +1347,4 @@ time	time	time	NN	time-n
 Ramsey	Ramsey	Ramsey	NNP	Ramsey-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

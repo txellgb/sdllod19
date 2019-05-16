@@ -22,6 +22,7 @@ in	in	in	IN	in-i
 Lake	Lake	Lake	NNP	Lake-e
 Kivu	Kivu	Kivu	NNP	Kivu-e
 .	.	.	.	.-x
+
 Rwanda	Rwanda	Rwanda	NNP	Rwanda-e
 wants	wants	want	VBZ	want-v
 to	to	to	TO	to-t
@@ -35,6 +36,7 @@ around	around	around	IN	around-i
 the	the	the	DT	the-d
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 satellite	satellite	satellite	NN	satellite-n
 named	named	name	VBN	name-v
@@ -60,6 +62,7 @@ February	February	February	NNP	February-e
 ,	,	,	,	,-x
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 satellites	satellites	satellite	NNS	satellite-n
 were	were	be	VBD	be-v
@@ -78,6 +81,7 @@ the	the	the	DT	the-d
 Rwandan	Rwandan	rwandan	JJ	rwandan-j
 government	government	government	NN	government-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 satellites	satellites	satellite	NNS	satellite-n
 were	were	be	VBD	be-v
@@ -100,6 +104,7 @@ access	access	access	NN	access-n
 is	is	be	VBZ	be-v
 non-existent	non-existent	non-existent	JJ	non-existent-j
 .	.	.	.	.-x
+
 OneWeb	OneWeb	OneWeb	NNP	OneWeb-e
 ,	,	,	,	,-x
 a	a	a	DT	a-d
@@ -157,6 +162,7 @@ OneWeb	OneWeb	OneWeb	NNP	OneWeb-e
 's	's	's	POS	's-p
 vision	vision	vision	NN	vision-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 satellites	satellites	satellite	NNS	satellite-n
 were	were	be	VBD	be-v
@@ -183,6 +189,7 @@ was	was	be	VBD	be-v
 a	a	a	DT	a-d
 partnership	partnership	partnership	NN	partnership-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Rwandan	Rwandan	rwandan	JJ	rwandan-j
 government	government	government	NN	government-n
@@ -200,6 +207,7 @@ the	the	the	DT	the-d
 country	country	country	NN	country-n
 faces	faces	face	VBZ	face-v
 .	.	.	.	.-x
+
 Rwanda	Rwanda	Rwanda	NNP	Rwanda-e
 was	was	be	VBD	be-v
 the	the	the	DT	the-d
@@ -218,6 +226,7 @@ to	to	to	TO	to-t
 remote	remote	remote	JJ	remote-j
 clinics	clinics	clinic	NNS	clinic-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 launch	launch	launch	NN	launch-n
 of	of	of	IN	of-i
@@ -232,6 +241,7 @@ just	just	just	RB	just-r
 internet	internet	internet	NN	internet-n
 access	access	access	NN	access-n
 .	.	.	.	.-x
+
 Rwanda	Rwanda	Rwanda	NNP	Rwanda-e
 's	's	's	POS	's-p
 Minister	Minister	Minister	NNP	Minister-e
@@ -255,6 +265,7 @@ of	of	of	IN	of-i
 transformative	transformative	transformative	JJ	transformative-j
 learning	learning	learning	NN	learning-n
 .	.	.	.	.-x
+
 Rwanda	Rwanda	Rwanda	NNP	Rwanda-e
 's	's	's	POS	's-p
 ICT	ICT	ICT	NNP	ICT-e
@@ -305,6 +316,7 @@ among	among	among	IN	among-i
 others	others	other	NNS	other-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 use	use	use	NN	use-n
 of	of	of	IN	of-i
@@ -323,6 +335,7 @@ choice	choice	choice	NN	choice-n
 for	for	for	IN	for-i
 Rwanda	Rwanda	Rwanda	NNP	Rwanda-e
 .	.	.	.	.-x
+
 Paul	Paul	Paul	NNP	Paul-e
 Ingabire	Ingabire	Ingabire	NNP	Ingabire-e
 ,	,	,	,	,-x
@@ -366,6 +379,7 @@ and	and	and	CC	and-c
 remote	remote	remote	JJ	remote-j
 communities	communities	community	NNS	community-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 students	students	student	NNS	student-n
 at	at	at	IN	at-i
@@ -397,6 +411,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 future	future	future	NN	future-n
 .	.	.	.	.-x
+
 OneWeb	OneWeb	OneWeb	NNP	OneWeb-e
 is	is	be	VBZ	be-v
 partnering	partnering	partner	VBG	partner-v
@@ -417,3 +432,4 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 internet	internet	internet	NN	internet-n
 .	.	.	.	.-x
+

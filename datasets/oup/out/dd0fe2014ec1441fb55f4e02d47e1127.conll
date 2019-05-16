@@ -25,6 +25,7 @@ operating	operating	operate	VBG	operate-v
 in	in	in	IN	in-i
 Africa	Africa	Africa	NNP	Africa-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 signing	signing	signing	NN	signing-n
 by	by	by	IN	by-i
@@ -55,6 +56,7 @@ Cape	Cape	Cape	NNP	Cape-e
 Town	Town	Town	NNP	Town-e
 yesterday	yesterday	yesterday	NN	yesterday-n
 .	.	.	.	.-x
+
 Trade	Trade	Trade	NNP	Trade-e
 and	and	and	CC	and-c
 Industry	Industry	Industry	NNP	Industry-e
@@ -108,6 +110,7 @@ which	which	which	WDT	which-d
 they	they	they	PRP	they-p
 operate	operate	operate	VBP	operate-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 In	In	in	IN	in-i
 line	line	line	NN	line-n
@@ -159,6 +162,7 @@ continent	continent	continent	NN	continent-n
 said	said	say	VBD	say-v
 Davies	Davies	Davies	NNP	Davies-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 They	They	they	PRP	they-p
 are	are	be	VBP	be-v
@@ -224,6 +228,7 @@ continent	continent	continent	NN	continent-n
 he	he	he	PRP	he-p
 added	added	add	VBD	add-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 guidelines	guidelines	guideline	NNS	guideline-n
 did	did	do	VBD	do-v
@@ -263,6 +268,7 @@ Africa	Africa	Africa	NNP	Africa-e
 developmental	developmental	developmental	JJ	developmental-j
 agenda	agenda	agenda	NN	agenda-n
 .	.	.	.	.-x
+
 Industry	Industry	Industry	NNP	Industry-e
 Association	Association	Association	NNP	Association-e
 for	for	for	IN	for-i
@@ -315,6 +321,7 @@ they	they	they	PRP	they-p
 operate	operate	operate	VBP	operate-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Distell	Distell	Distell	NNP	Distell-e
 representative	representative	representative	JJ	representative-j
 Wim	Wim	Wim	NNP	Wim-e
@@ -344,3 +351,4 @@ the	the	the	DT	the-d
 right	right	right	JJ	right-j
 thing	thing	thing	NN	thing-n
 .	.	.	.	.-x
+

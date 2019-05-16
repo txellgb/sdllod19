@@ -18,6 +18,7 @@ Valuable	Valuable	Valuable	NNP	Valuable-e
 Player	Player	Player	NNP	Player-e
 award	award	award	NN	award-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 question	question	question	NN	question-n
@@ -36,6 +37,7 @@ NHL	NHL	nhl	NN	nhl-n
 today	today	today	NN	today-n
 ?	?	?	.	?-x
 "	''	''	''	''-x
+
 Bergeron	Bergeron	Bergeron	NNP	Bergeron-e
 yet	yet	yet	RB	yet-r
 again	again	again	RB	again-r
@@ -68,3 +70,4 @@ most	most	most	RBS	most-r
 in	in	in	IN	in-i
 history	history	history	NN	history-n
 .	.	.	.	.-x
+

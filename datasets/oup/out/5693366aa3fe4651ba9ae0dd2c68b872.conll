@@ -16,6 +16,7 @@ Instagram	Instagram	Instagram	NNP	Instagram-e
 Story	Story	Story	NNP	Story-e
 session	session	session	NN	session-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 was	was	be	VBD	be-v
 with	with	with	IN	with-i
@@ -41,6 +42,7 @@ TMZ	TMZ	TMZ	NNP	TMZ-e
 points	points	point	VBZ	point-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 immediate	immediate	immediate	JJ	immediate-j
 laughs	laughs	laugh	NNS	laugh-n
@@ -64,6 +66,7 @@ an	an	a	DT	a-d
 Instagrammed	Instagrammed	instagrammed	JJ	instagrammed-j
 mishap	mishap	mishap	NN	mishap-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Hi	Hi	hi	NN	hi-n
 ,	,	,	,	,-x
@@ -84,6 +87,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 clip	clip	clip	NN	clip-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -97,6 +101,7 @@ I	I	I	PRP	I-p
 promise	promise	promise	VBP	promise-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Some	Some	some	DT	some-d
 fans	fans	fan	NNS	fan-n
 were	were	be	VBD	be-v
@@ -131,6 +136,7 @@ be	be	be	VB	be-v
 dropping	dropping	drop	VBG	drop-v
 soon	soon	soon	RB	soon-r
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -173,6 +179,7 @@ an	an	a	DT	a-d
 unfortunate	unfortunate	unfortunate	JJ	unfortunate-j
 hack	hack	hack	NN	hack-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 we	we	we	PRP	we-p
 await	await	await	VBP	await-v
@@ -206,6 +213,7 @@ Kiss	Kiss	kiss	VB	kiss-v
 Me	Me	I	PRP	I-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 Oscar	Oscar	Oscar	NNP	Oscar-e
 nominee	nominee	nominee	NN	nominee-n
@@ -231,6 +239,7 @@ Miami	Miami	Miami	NNP	Miami-e
 last	last	last	JJ	last-j
 month	month	month	NN	month-n
 .	.	.	.	.-x
+
 Sadly	Sadly	sadly	RB	sadly-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -251,3 +260,4 @@ on	on	on	IN	on-i
 streaming	streaming	streaming	NN	streaming-n
 services	services	service	NNS	service-n
 .	.	.	.	.-x
+

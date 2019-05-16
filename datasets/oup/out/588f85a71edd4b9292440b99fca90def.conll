@@ -19,6 +19,7 @@ against	against	against	IN	against-i
 the	the	the	DT	the-d
 struggling	struggling	struggle	VBG	struggle-v
 Bluebirds	Bluebirds	bluebird	NNS	bluebird-n
+
 CARDIFF	CARDIFF	CARDIFF	NNP	CARDIFF-e
 'S	'S	's	POS	's-p
 relegation	relegation	relegation	NN	relegation-n
@@ -27,6 +28,7 @@ continues	continues	continue	VBZ	continue-v
 against	against	against	IN	against-i
 Wolves	Wolves	wolf	NNS	wolf-n
 .	.	.	.	.-x
+
 Neil	Neil	Neil	NNP	Neil-e
 Warnock	Warnock	Warnock	NNP	Warnock-e
 wants	wants	want	VBZ	want-v
@@ -69,6 +71,7 @@ loss	loss	loss	NN	loss-n
 to	to	to	TO	to-t
 Huddersfield	Huddersfield	Huddersfield	NNP	Huddersfield-e
 .	.	.	.	.-x
+
 THIS	THIS	THIS	NNP	THIS-e
 Premier	Premier	Premier	NNP	Premier-e
 League	League	League	NNP	League-e
@@ -82,6 +85,7 @@ Saturday	Saturday	Saturday	NNP	Saturday-e
 March	March	March	NNP	March-e
 2	2	2	CD	2-f
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 falls	falls	fall	VBZ	fall-v
 under	under	under	IN	under-i
@@ -104,6 +108,7 @@ a	a	a	DT	a-d
 LIVE	LIVE	LIVE	NNP	LIVE-e
 BLOG	BLOG	BLOG	NNP	BLOG-e
 .	.	.	.	.-x
+
 Wolves	Wolves	wolf	NNS	wolf-n
 currently	currently	currently	RB	currently-r
 have	have	have	VBP	have-v
@@ -112,6 +117,7 @@ injuries	injuries	injury	NNS	injury-n
 or	or	or	CC	or-c
 suspensions	suspensions	suspension	NNS	suspension-n
 .	.	.	.	.-x
+
 Cardiff	Cardiff	Cardiff	NNP	Cardiff-e
 will	will	will	MD	will-v
 be	be	be	VB	be-v
@@ -137,3 +143,4 @@ action	action	action	NN	action-n
 this	this	this	DT	this-d
 weekend	weekend	weekend	NN	weekend-n
 .	.	.	.	.-x
+

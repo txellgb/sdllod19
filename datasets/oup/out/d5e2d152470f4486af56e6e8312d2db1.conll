@@ -43,6 +43,7 @@ Singleton	Singleton	Singleton	NNP	Singleton-e
 army	army	army	NN	army-n
 base	base	base	NN	base-n
 .	.	.	.	.-x
+
 Emma	Emma	Emma	NNP	Emma-e
 Phelps	Phelps	Phelps	NNP	Phelps-e
 says	says	say	VBZ	say-v
@@ -95,6 +96,7 @@ days	days	day	NNS	day-n
 before	before	before	IN	before-i
 Christmas	Christmas	Christmas	NNP	Christmas-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Cessnock	Cessnock	cessnock	NN	cessnock-n
 woman	woman	woman	NN	woman-n
@@ -129,6 +131,7 @@ Park	Park	Park	NNP	Park-e
 in	in	in	IN	in-i
 Broke	Broke	Broke	NNP	Broke-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -193,6 +196,7 @@ Ms	Ms	Ms	NNP	Ms-e
 Phelps	Phelps	Phelps	NNP	Phelps-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Singleton	Singleton	Singleton	NNP	Singleton-e
 councillor	councillor	councillor	NNP	councillor-e
 Godfrey	Godfrey	Godfrey	NNP	Godfrey-e
@@ -255,6 +259,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 idea	idea	idea	NN	idea-n
 .	.	.	.	.-x
+
 Read	Read	read	VB	read-v
 more	more	more	RBR	more-r
 :	:	:	:	:-x
@@ -293,6 +298,7 @@ the	the	the	DT	the-d
 council	council	council	NN	council-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Ms	Ms	Ms	NNP	Ms-e
 Phelps	Phelps	Phelps	NNP	Phelps-e
 was	was	be	VBD	be-v
@@ -359,6 +365,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 helicopter	helicopter	helicopter	NN	helicopter-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 also	also	also	RB	also-r
 tied	tied	tie	VBD	tie-v
@@ -389,6 +396,7 @@ was	was	be	VBD	be-v
 later	later	later	RB	later-r
 removed	removed	remove	VBN	remove-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 did	did	do	VBD	do-v
@@ -439,6 +447,7 @@ any	any	any	DT	any-d
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 was	was	be	VBD	be-v
@@ -487,6 +496,7 @@ caught	caught	catch	VBN	catch-v
 and	and	and	CC	and-c
 retrained	retrained	retrain	VBN	retrain-v
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 believe	believe	believe	VBP	believe-v
 they	they	they	PRP	they-p
@@ -523,6 +533,7 @@ that	that	that	DT	that-d
 area	area	area	NN	area-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 A	A	a	DT	a-d
 Defence	Defence	Defence	NNP	Defence-e
 spokesperson	spokesperson	spokesperson	NN	spokesperson-n
@@ -567,6 +578,7 @@ to	to	to	TO	to-t
 manage	manage	manage	VB	manage-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 noted	noted	note	VBD	note-v
 Defence	Defence	Defence	NNP	Defence-e
@@ -599,6 +611,7 @@ a	a	a	DT	a-d
 long	long	long	JJ	long-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 would	would	would	MD	would-v
 give	give	give	VB	give-v
@@ -615,6 +628,7 @@ those	those	those	DT	those-d
 sad	sad	sad	JJ	sad-j
 days	days	day	NNS	day-n
 .	.	.	.	.-x
+
 People	People	people	NNS	people-n
 need	need	need	VBP	need-v
 reassurance	reassurance	reassurance	NN	reassurance-n
@@ -630,6 +644,7 @@ n't	n't	not	RB	not-r
 go	go	go	VB	go-v
 unnoticed	unnoticed	unnoticed	JJ	unnoticed-j
 .	.	.	.	.-x
+
 Read	Read	read	VB	read-v
 more	more	more	RBR	more-r
 :	:	:	:	:-x
@@ -639,6 +654,7 @@ save	save	save	VB	save-v
 the	the	the	DT	the-d
 wild	wild	wild	JJ	wild-j
 ponies	ponies	pony	NNS	pony-n
+
 Read	Read	read	VB	read-v
 more	more	more	RBR	more-r
 :	:	:	:	:-x
@@ -646,6 +662,7 @@ Outrage	Outrage	outrage	NN	outrage-n
 over	over	over	IN	over-i
 pony	pony	pony	NN	pony-n
 cull	cull	cull	NN	cull-n
+
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
 not	not	not	RB	not-r
@@ -676,6 +693,7 @@ approved	approved	approve	VBN	approve-v
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'd	'd	would	MD	would-v
@@ -698,6 +716,7 @@ the	the	the	DT	the-d
 council	council	council	NN	council-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 KILLED	KILLED	kill	VBN	kill-v
 :	:	:	:	:-x
 Some	Some	some	DT	some-d
@@ -719,6 +738,7 @@ cull	cull	cull	NN	cull-n
 in	in	in	IN	in-i
 December	December	December	NNP	December-e
 .	.	.	.	.-x
+
 Defence	Defence	Defence	NNP	Defence-e
 aims	aims	aim	VBZ	aim-v
 to	to	to	TO	to-t
@@ -734,6 +754,7 @@ proactive	proactive	proactive	JJ	proactive-j
 risk-based	risk-based	risk-based	JJ	risk-based-j
 approach	approach	approach	NN	approach-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 includes	includes	include	VBZ	include-v
 undertaking	undertaking	undertaking	NN	undertaking-n
@@ -774,3 +795,4 @@ nurture	nurture	nurture	VB	nurture-v
 they	they	they	PRP	they-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

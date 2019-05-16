@@ -30,6 +30,7 @@ mystic	mystic	mystic	JJ	mystic-j
 themes	themes	theme	NNS	theme-n
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 Tonight	Tonight	Tonight	NNP	Tonight-e
 it	it	it	PRP	it-p
 signs	signs	sign	VBZ	sign-v
@@ -74,6 +75,7 @@ known	known	known	JJ	known-j
 serial	serial	serial	NN	serial-n
 rapist	rapist	rapist	NN	rapist-n
 .	.	.	.	.-x
+
 Soon	Soon	soon	RB	soon-r
 the	the	the	DT	the-d
 cops	cops	cop	NNS	cop-n
@@ -95,11 +97,13 @@ a	a	a	DT	a-d
 blood	blood	blood	NN	blood-n
 sacrifice	sacrifice	sacrifice	NN	sacrifice-n
 .	.	.	.	.-x
+
 Sacred	Sacred	sacred	JJ	sacred-j
 Ireland	Ireland	Ireland	NNP	Ireland-e
 :	:	:	:	:-x
 Holy	Holy	Holy	NNP	Holy-e
 Land	Land	Land	NNP	Land-e
+
 This	This	this	DT	this-d
 documentary	documentary	documentary	NN	documentary-n
 examines	examines	examine	VBZ	examine-v
@@ -122,6 +126,7 @@ in	in	in	IN	in-i
 ancient	ancient	ancient	JJ	ancient-j
 times	times	time	NNS	time-n
 .	.	.	.	.-x
+
 Legend	Legend	Legend	NNP	Legend-e
 has	has	have	VBZ	have-v
 it	it	it	PRP	it-p
@@ -153,6 +158,7 @@ instigate	instigate	instigate	VB	instigate-v
 religious	religious	religious	JJ	religious-j
 change	change	change	NN	change-n
 ?	?	?	.	?-x
+
 Meghan	Meghan	Meghan	NNP	Meghan-e
 &	&	&	CC	&-c
 the	the	the	DT	the-d
@@ -166,6 +172,7 @@ War	War	War	NNP	War-e
 ,	,	,	,	,-x
 Channel	Channel	Channel	NNP	Channel-e
 5	5	5	CD	5-f
+
 Gossip	Gossip	gossip	NN	gossip-n
 vultures	vultures	vulture	NNS	vulture-n
 are	are	be	VBP	be-v
@@ -213,6 +220,7 @@ hour	hour	hour	NN	hour-n
 of	of	of	IN	of-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Expect	Expect	expect	VB	expect-v
 tales	tales	tale	NNS	tale-n
 of	of	of	IN	of-i
@@ -235,6 +243,7 @@ up	up	up	RP	up-x
 ,	,	,	,	,-x
 too	too	too	RB	too-r
 .	.	.	.	.-x
+
 Soft	Soft	soft	JJ	soft-j
 Cell	Cell	cell	NN	cell-n
 :	:	:	:	:-x
@@ -247,6 +256,7 @@ Goodbye	Goodbye	Goodbye	NNP	Goodbye-e
 ,	,	,	,	,-x
 BBC	BBC	BBC	NNP	BBC-e
 Four	Four	four	CD	four-f
+
 As	As	as	IN	as-i
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -293,6 +303,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 gig	gig	gig	NN	gig-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 all	all	all	DT	all-d
@@ -310,17 +321,20 @@ duo	duo	duo	NN	duo-n
 's	's	's	POS	's-p
 career	career	career	NN	career-n
 .	.	.	.	.-x
+
 Documenting	Documenting	document	VBG	document-v
 Hate	Hate	Hate	NNP	Hate-e
 :	:	:	:	:-x
 New	New	New	NNP	New-e
 American	American	American	NNP	American-e
 Nazis	Nazis	Nazis	NNPS	Nazis-e
+
 9.10	9.10	9.10	CD	9.10-f
 pm	pm	pm	NN	pm-n
 ,	,	,	,	,-x
 PBS	PBS	PBS	NNP	PBS-e
 America	America	America	NNP	America-e
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 past	past	past	JJ	past-j
@@ -357,6 +371,7 @@ white	white	white	JJ	white-j
 supremacist	supremacist	supremacist	JJ	supremacist-j
 movement	movement	movement	NN	movement-n
 .	.	.	.	.-x
+
 One	One	one	CD	one-f
 group	group	group	NN	group-n
 ,	,	,	,	,-x
@@ -376,12 +391,14 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 military	military	military	NN	military-n
 .	.	.	.	.-x
+
 Rob	Rob	Rob	NNP	Rob-e
 and	and	and	CC	and-c
 Romesh	Romesh	Romesh	NNP	Romesh-e
 vs	vs	vs	CC	vs-c
 Anthony	Anthony	Anthony	NNP	Anthony-e
 Joshua	Joshua	Joshua	NNP	Joshua-e
+
 As	As	as	IN	as-i
 Rob	Rob	Rob	NNP	Rob-e
 Beckett	Beckett	Beckett	NNP	Beckett-e
@@ -427,6 +444,7 @@ an	an	a	DT	a-d
 easy	easy	easy	JJ	easy-j
 charm	charm	charm	NN	charm-n
 .	.	.	.	.-x
+
 Plus	Plus	plus	CC	plus-c
 they	they	they	PRP	they-p
 get	get	get	VBP	get-v
@@ -443,6 +461,7 @@ the	the	the	DT	the-d
 cheap	cheap	cheap	JJ	cheap-j
 seats	seats	seat	NNS	seat-n
 .	.	.	.	.-x
+
 Guardians	Guardians	guardian	NNS	guardian-n
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -452,6 +471,7 @@ pm	pm	pm	NN	pm-n
 ,	,	,	,	,-x
 BBC	BBC	BBC	NNP	BBC-e
 One	One	one	CD	one-f
+
 Marvel	Marvel	Marvel	NNP	Marvel-e
 's	's	's	POS	's-p
 interstellar	interstellar	interstellar	NN	interstellar-n
@@ -465,6 +485,7 @@ superheroic	superheroic	superheroic	JJ	superheroic-j
 and	and	and	CC	and-c
 ridiculous	ridiculous	ridiculous	JJ	ridiculous-j
 .	.	.	.	.-x
+
 Chris	Chris	Chris	NNP	Chris-e
 Pratt	Pratt	Pratt	NNP	Pratt-e
 is	is	be	VBZ	be-v
@@ -495,6 +516,7 @@ the	the	the	DT	the-d
 evil	evil	evil	JJ	evil-j
 Ronan	Ronan	Ronan	NNP	Ronan-e
 .	.	.	.	.-x
+
 What	What	what	WDT	what-d
 explosive	explosive	explosive	JJ	explosive-j
 fun	fun	fun	NN	fun-n
@@ -503,6 +525,7 @@ have	have	have	VBP	have-v
 doing	doing	do	VBG	do-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Athletics	Athletics	Athletics	NNP	Athletics-e
 :	:	:	:	:-x
 European	European	european	JJ	european-j
@@ -513,10 +536,12 @@ am	am	am	RB	am-r
 ,	,	,	,	,-x
 BBC	BBC	BBC	NNP	BBC-e
 Two	Two	two	CD	two-f
+
 Day	Day	day	NN	day-n
 one	one	one	CD	one-f
 action	action	action	NN	action-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 evening	evening	evening	NN	evening-n
 session	session	session	NN	session-n
@@ -525,6 +550,7 @@ at	at	at	IN	at-i
 6.30	6.30	6.30	CD	6.30-f
 pm	pm	pm	NN	pm-n
 .	.	.	.	.-x
+
 Premiership	Premiership	Premiership	NNP	Premiership-e
 Rugby	Rugby	Rugby	NNP	Rugby-e
 Union	Union	Union	NNP	Union-e
@@ -538,6 +564,7 @@ Gloucester	Gloucester	Gloucester	NNP	Gloucester-e
 BT	BT	BT	NNP	BT-e
 Sport	Sport	Sport	NNP	Sport-e
 1	1	1	CD	1-f
+
 The	The	the	DT	the-d
 sides	sides	side	NNS	side-n
 meet	meet	meet	VBP	meet-v
@@ -545,6 +572,7 @@ at	at	at	IN	at-i
 Ashton	Ashton	Ashton	NNP	Ashton-e
 Gate	Gate	Gate	NNP	Gate-e
 .	.	.	.	.-x
+
 Championship	Championship	Championship	NNP	Championship-e
 Football	Football	Football	NNP	Football-e
 :	:	:	:	:-x
@@ -559,6 +587,8 @@ Sky	Sky	Sky	NNP	Sky-e
 Sports	Sports	Sports	NNP	Sports-e
 Main	Main	Main	NNP	Main-e
 Event	Event	Event	NNP	Event-e
+
 Promotion	Promotion	Promotion	NNP	Promotion-e
 showdown	showdown	showdown	NN	showdown-n
 .	.	.	.	.-x
+

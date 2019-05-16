@@ -35,6 +35,7 @@ evaders	evaders	evader	NNS	evader-n
 and	and	and	CC	and-c
 criminals	criminals	criminal	NNS	criminal-n
 .	.	.	.	.-x
+
 Bridgett	Bridgett	Bridgett	NNP	Bridgett-e
 M.	M.	M.	NNP	M.-e
 Davis	Davis	Davis	NNP	Davis-e
@@ -60,6 +61,7 @@ Detroit	Detroit	Detroit	NNP	Detroit-e
 Numbers	Numbers	Numbers	NNPS	Numbers-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -94,6 +96,7 @@ number	number	number	NN	number-n
 to	to	to	TO	to-t
 play	play	play	VB	play-v
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -126,6 +129,7 @@ in	in	in	IN	in-i
 pre-War	pre-War	pre-war	JJ	pre-war-j
 Harlem	Harlem	Harlem	NNP	Harlem-e
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -147,6 +151,7 @@ on	on	on	IN	on-i
 numbers	numbers	number	NNS	number-n
 games	games	game	NNS	game-n
 .	.	.	.	.-x
+
 Nov.	Nov.	Nov.	NNP	Nov.-e
 17	17	17	CD	17-f
 ,	,	,	,	,-x
@@ -157,6 +162,7 @@ Nov.	Nov.	Nov.	NNP	Nov.-e
 ,	,	,	,	,-x
 1964	1964	1964	CD	1964-f
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -176,6 +182,7 @@ a	a	a	DT	a-d
 numbers	numbers	number	NNS	number-n
 operation	operation	operation	NN	operation-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -195,6 +202,7 @@ a	a	a	DT	a-d
 police	police	police	NN	police-n
 raid	raid	raid	NN	raid-n
 .	.	.	.	.-x
+
 Nov.	Nov.	Nov.	NNP	Nov.-e
 16	16	16	CD	16-f
 ,	,	,	,	,-x
@@ -205,6 +213,7 @@ Nov.	Nov.	Nov.	NNP	Nov.-e
 ,	,	,	,	,-x
 1987	1987	1987	CD	1987-f
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -221,6 +230,7 @@ a	a	a	DT	a-d
 numbers	numbers	number	NNS	number-n
 parlor	parlor	parlor	NN	parlor-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Click	Click	click	VB	click-v
 to	to	to	TO	to-t
@@ -240,3 +250,4 @@ Book	Book	book	NN	book-n
 of	of	of	IN	of-i
 Numbers	Numbers	number	NNS	number-n
 "	''	''	''	''-x
+

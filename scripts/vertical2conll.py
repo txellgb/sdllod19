@@ -127,7 +127,7 @@ def read_document(f_in):
         elif line.startswith("<s>") and doc_id is not None:
             continue
         elif line.startswith("</s>") and doc_id is not None:
-            conll_document.append("")
+            conll_document.append("\n")
         elif line.startswith("</doc>") and doc_id is not None:
             yield doc_id, conll_document
         elif doc_id is not None:

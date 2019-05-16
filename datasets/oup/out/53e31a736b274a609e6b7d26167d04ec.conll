@@ -34,6 +34,7 @@ Cohen	Cohen	Cohen	NNP	Cohen-e
 on	on	on	IN	on-i
 Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 was	was	be	VBD	be-v
 one	one	one	CD	one-f
@@ -66,6 +67,7 @@ and	and	and	CC	and-c
 law	law	law	NN	law-n
 breaker	breaker	breaker	NN	breaker-n
 .	.	.	.	.-x
+
 Due	Due	due	JJ	due-j
 to	to	to	TO	to-t
 the	the	the	DT	the-d
@@ -90,6 +92,7 @@ in	in	in	IN	in-i
 witness	witness	witness	NN	witness-n
 tampering	tampering	tamper	VBG	tamper-v
 .	.	.	.	.-x
+
 Here	Here	here	RB	here-r
 is	is	be	VBZ	be-v
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
@@ -109,6 +112,7 @@ a	a	a	DT	a-d
 smear	smear	smear	NN	smear-n
 "	''	''	''	''-x
 :	:	:	:	:-x
+
 Hey	Hey	hey	UH	hey-u
 @MichaelCohen212	@MichaelCohen212	@michaelcohen212	NN	@michaelcohen212-n
 ,	,	,	,	,-x
@@ -122,6 +126,7 @@ Cohen	Cohen	Cohen	NNP	Cohen-e
 Twitter	Twitter	Twitter	NNP	Twitter-e
 handle	handle	handle	VB	handle-v
 .	.	.	.	.-x
+
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
 removed	removed	remove	VBD	remove-v
 the	the	the	DT	the-d
@@ -173,6 +178,7 @@ I	I	I	PRP	I-p
 did	did	do	VBD	do-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 should	should	should	MD	should-v
@@ -185,6 +191,7 @@ showed	showed	show	VBD	show-v
 my	my	my	PRP$	my-p
 intent	intent	intent	NN	intent-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 relatively	relatively	relatively	RB	relatively-r
 quick	quick	quick	JJ	quick-j
@@ -209,6 +216,7 @@ to	to	to	TO	to-t
 seasoned	seasoned	seasoned	JJ	seasoned-j
 observers	observers	observer	NNS	observer-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Florida	Florida	Florida	NNP	Florida-e
 Bar	Bar	Bar	NNP	Bar-e
@@ -219,6 +227,7 @@ investigation	investigation	investigation	NN	investigation-n
 of	of	of	IN	of-i
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 ,	,	,	,	,-x
@@ -265,6 +274,7 @@ Conduct	Conduct	Conduct	NNP	Conduct-e
 and	and	and	CC	and-c
 House	House	House	NNP	House-e
 rules.Thanks	rules.Thanks	rules.Thanks	NNPS	rules.Thanks-e
+
 Naturally	Naturally	naturally	RB	naturally-r
 ,	,	,	,	,-x
 social	social	social	JJ	social-j
@@ -273,6 +283,7 @@ also	also	also	RB	also-r
 chimed	chimed	chime	VBD	chime-v
 in	in	in	IN	in-i
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 following	following	follow	VBG	follow-v
 post	post	post	NN	post-n
@@ -284,6 +295,7 @@ have	have	have	VBP	have-v
 gone	gone	go	VBN	go-v
 viral	viral	viral	JJ	viral-j
 :	:	:	:	:-x
+
 "	``	``	``	``-x
 Matt	Matt	Matt	NNP	Matt-e
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
@@ -294,12 +306,14 @@ attorney	attorney	attorney	NN	attorney-n
 in	in	in	IN	in-i
 Florida	Florida	Florida	NNP	Florida-e
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 Bar	Bar	bar	NN	bar-n
 Number	Number	number	NN	number-n
 is	is	be	VBZ	be-v
 48962	48962	48962	CD	48962-f
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 violated	violated	violate	VBD	violate-v
 18	18	18	CD	18-f
@@ -307,6 +321,7 @@ U.S.C.	U.S.C.	U.S.C.	NNP	U.S.C.-e
 §	§	§	CD	§-f
 1512	1512	1512	CD	1512-f
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 could	could	could	MD	could-v
 be	be	be	VB	be-v
@@ -325,6 +340,7 @@ grounds	grounds	grounds	NNS	grounds-n
 for	for	for	IN	for-i
 disbarment	disbarment	disbarment	NN	disbarment-n
 .	.	.	.	.-x
+
 Feel	Feel	feel	VB	feel-v
 free	free	free	JJ	free-j
 to	to	to	TO	to-t
@@ -338,17 +354,20 @@ an	an	a	DT	a-d
 official	official	official	JJ	official-j
 complaint	complaint	complaint	NN	complaint-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 number	number	number	NN	number-n
 is	is	be	VBZ	be-v
 1-866-352-0707	1-866-352-0707	1-866-352-0707	CD	1-866-352-0707-f
 .	.	.	.	.-x
+
 Please	Please	please	VB	please-v
 copy	copy	copy	NN	copy-n
 and	and	and	CC	and-c
 repost	repost	repost	VB	repost-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Despite	Despite	despite	IN	despite-i
 the	the	the	DT	the-d
 uproar	uproar	uproar	NN	uproar-n
@@ -377,6 +396,7 @@ wild	wild	wild	JJ	wild-j
 long	long	long	JJ	long-j
 shot	shot	shot	NN	shot-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 prominent	prominent	prominent	JJ	prominent-j
 Tampa	Tampa	Tampa	NNP	Tampa-e
@@ -403,6 +423,7 @@ the	the	the	DT	the-d
 Panhandle	Panhandle	Panhandle	NNP	Panhandle-e
 congressman	congressman	congressman	NN	congressman-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
 '	'	'	''	'-x
@@ -431,6 +452,7 @@ the	the	the	DT	the-d
 attorney	attorney	attorney	NN	attorney-n
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Even	Even	even	RB	even-r
 so	so	so	RB	so-r
@@ -448,6 +470,7 @@ severe	severe	severe	JJ	severe-j
 reprimand	reprimand	reprimand	NN	reprimand-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Someone	Someone	someone	NN	someone-n
 familiar	familiar	familiar	JJ	familiar-j
 with	with	with	IN	with-i
@@ -473,6 +496,7 @@ investigation	investigation	investigation	NN	investigation-n
 of	of	of	IN	of-i
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
 .	.	.	.	.-x
+
 Discipline	Discipline	discipline	NN	discipline-n
 imposed	imposed	impose	VBD	impose-v
 ,	,	,	,	,-x
@@ -489,6 +513,7 @@ Florida	Florida	Florida	NNP	Florida-e
 Supreme	Supreme	Supreme	NNP	Supreme-e
 Court	Court	Court	NNP	Court-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 My	My	my	PRP$	my-p
 gut	gut	gut	NN	gut-n
@@ -523,6 +548,7 @@ the	the	the	DT	the-d
 source	source	source	NN	source-n
 suggested	suggested	suggest	VBD	suggest-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Additionally	Additionally	additionally	RB	additionally-r
 ,	,	,	,	,-x
@@ -539,6 +565,7 @@ Ethics	Ethics	Ethics	NNP	Ethics-e
 Committee	Committee	Committee	NNP	Committee-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Both	Both	both	DT	both-d
 sources	sources	source	NNS	source-n
 said	said	say	VBD	say-v
@@ -550,6 +577,7 @@ difficult	difficult	difficult	JJ	difficult-j
 to	to	to	TO	to-t
 imagine	imagine	imagine	VB	imagine-v
 .	.	.	.	.-x
+
 Politically	Politically	politically	RB	politically-r
 ,	,	,	,	,-x
 Gaetz	Gaetz	Gaetz	NNP	Gaetz-e
@@ -560,6 +588,7 @@ far	far	far	RB	far-r
 more	more	more	RBR	more-r
 cloudy	cloudy	cloudy	JJ	cloudy-j
 .	.	.	.	.-x
+
 Yes	Yes	yes	UH	yes-u
 ,	,	,	,	,-x
 his	his	he	PRP$	he-p
@@ -582,6 +611,7 @@ to	to	to	TO	to-t
 shooting	shooting	shooting	NN	shooting-n
 star	star	star	NN	star-n
 .	.	.	.	.-x
+
 Once	Once	once	RB	once-r
 mentioned	mentioned	mention	VBN	mention-v
 as	as	as	IN	as-i
@@ -608,6 +638,7 @@ of	of	of	IN	of-i
 Pullmanesque	Pullmanesque	pullmanesque	JJ	pullmanesque-j
 proportions	proportions	proportion	NNS	proportion-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 two-term	two-term	two-term	JJ	two-term-j
 congressman	congressman	congressman	NN	congressman-n
@@ -621,6 +652,7 @@ Florida	Florida	Florida	NNP	Florida-e
 's	's	's	POS	's-p
 Panhandle	Panhandle	Panhandle	NNP	Panhandle-e
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 won	won	win	VBD	win-v
 with	with	with	IN	with-i
@@ -637,3 +669,4 @@ percent	percent	percent	NN	percent-n
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+

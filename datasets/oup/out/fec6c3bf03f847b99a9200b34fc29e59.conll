@@ -21,6 +21,7 @@ Wall	Wall	Wall	NNP	Wall-e
 Street	Street	Street	NNP	Street-e
 Journal	Journal	Journal	NNP	Journal-e
 .	.	.	.	.-x
+
 Dubbed	Dubbed	dub	VBN	dub-v
 FedEx	FedEx	fedex	NN	fedex-n
 SameDay	SameDay	SameDay	NNP	SameDay-e
@@ -37,6 +38,7 @@ deliveries	deliveries	delivery	NNS	delivery-n
 to	to	to	TO	to-t
 consumers	consumers	consumer	NNS	consumer-n
 .	.	.	.	.-x
+
 FedEx	FedEx	fedex	NN	fedex-n
 already	already	already	RB	already-r
 has	has	have	VBZ	have-v
@@ -69,6 +71,7 @@ Walgreens	Walgreens	Walgreens	NNP	Walgreens-e
 and	and	and	CC	and-c
 Walmart	Walmart	Walmart	NNP	Walmart-e
 .	.	.	.	.-x
+
 FedEx	FedEx	FedEx	NNP	FedEx-e
 Chief	Chief	Chief	NNP	Chief-e
 Marketing	Marketing	Marketing	NNP	Marketing-e
@@ -96,6 +99,7 @@ with	with	with	IN	with-i
 their	their	they	PRP$	they-p
 logos	logos	logo	NNS	logo-n
 .	.	.	.	.-x
+
 FedEx	FedEx	fedex	NN	fedex-n
 is	is	be	VBZ	be-v
 eyeing	eyeing	eye	VBG	eye-v
@@ -120,6 +124,7 @@ directly	directly	directly	RB	directly-r
 to	to	to	TO	to-t
 consumers	consumers	consumer	NNS	consumer-n
 .	.	.	.	.-x
+
 Delivery	Delivery	delivery	NN	delivery-n
 robots	robots	robot	NNS	robot-n
 are	are	be	VBP	be-v
@@ -154,6 +159,7 @@ of	of	of	IN	of-i
 their	their	they	PRP$	they-p
 own	own	own	JJ	own-j
 .	.	.	.	.-x
+
 Most	Most	most	JJS	most-j
 firms	firms	firm	NNS	firm-n
 developing	developing	develop	VBG	develop-v
@@ -183,6 +189,7 @@ merchants	merchants	merchant	NNS	merchant-n
 who	who	who	WP	who-p
 do	do	do	VBP	do-v
 .	.	.	.	.-x
+
 UPS	UPS	UPS	NNP	UPS-e
 is	is	be	VBZ	be-v
 instead	instead	instead	RB	instead-r
@@ -208,6 +215,7 @@ minus	minus	minus	CC	minus-c
 the	the	the	DT	the-d
 human	human	human	JJ	human-j
 .	.	.	.	.-x
+
 FedEx	FedEx	fedex	NN	fedex-n
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -224,6 +232,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 US	US	US	NNP	US-e
 .	.	.	.	.-x
+
 Its	Its	its	PRP$	its-p
 early	early	early	JJ	early-j
 entry	entry	entry	NN	entry-n
@@ -258,6 +267,7 @@ same-day	same-day	same-day	JJ	same-day-j
 delivery	delivery	delivery	NN	delivery-n
 costs	costs	cost	NNS	cost-n
 .	.	.	.	.-x
+
 SameDay	SameDay	SameDay	NNP	SameDay-e
 Bot	Bot	Bot	NNP	Bot-e
 gives	gives	give	VBZ	give-v
@@ -275,6 +285,7 @@ last-mile	last-mile	last-mile	JJ	last-mile-j
 delivery	delivery	delivery	NN	delivery-n
 space	space	space	NN	space-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 only	only	only	RB	only-r
@@ -322,6 +333,7 @@ a	a	a	DT	a-d
 logistics	logistics	logistics	NNS	logistics-n
 firm	firm	firm	NN	firm-n
 .	.	.	.	.-x
+
 Given	Given	give	VBN	give-v
 its	its	its	PRP$	its-p
 recently	recently	recently	RB	recently-r
@@ -343,6 +355,7 @@ space	space	space	NN	space-n
 as	as	as	RB	as-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 FedEx	FedEx	fedex	NN	fedex-n
 ,	,	,	,	,-x
@@ -383,6 +396,7 @@ their	their	they	PRP$	they-p
 chief	chief	chief	JJ	chief-j
 competitor	competitor	competitor	NN	competitor-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 ,	,	,	,	,-x
 even	even	even	RB	even-r
@@ -422,6 +436,7 @@ facilitate	facilitate	facilitate	VB	facilitate-v
 those	those	those	DT	those-d
 efforts	efforts	effort	NNS	effort-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 FedEx	FedEx	fedex	NN	fedex-n
 makes	makes	make	VBZ	make-v
@@ -452,6 +467,7 @@ program	program	program	NN	program-n
 as	as	as	RB	as-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 1	1	1	LS	1-l
 .	.	.	.	.-x
 Sign	Sign	sign	VB	sign-v
@@ -473,6 +489,7 @@ inbox	inbox	inbox	NN	inbox-n
 a	a	a	DT	a-d
 week	week	week	NN	week-n
 .	.	.	.	.-x
+
 2	2	2	LS	2-l
 .	.	.	.	.-x
 Subscribe	Subscribe	subscribe	NN	subscribe-n
@@ -504,3 +521,4 @@ expertly	expertly	expertly	RB	expertly-r
 researched	researched	research	VBN	research-v
 reports	reports	report	NNS	report-n
 .	.	.	.	.-x
+

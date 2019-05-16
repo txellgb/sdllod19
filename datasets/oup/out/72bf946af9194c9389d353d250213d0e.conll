@@ -29,6 +29,7 @@ crown	crown	crown	NN	crown-n
 court	court	court	NN	court-n
 judge	judge	judge	NN	judge-n
 .	.	.	.	.-x
+
 Darren	Darren	Darren	NNP	Darren-e
 Carvill	Carvill	Carvill	NNP	Carvill-e
 ,	,	,	,	,-x
@@ -48,6 +49,7 @@ total	total	total	NN	total-n
 of	of	of	IN	of-i
 £	#	#	#	#-x
 262,234.61	262,234.61	262,234.61	CD	262,234.61-f
+
 from	from	from	IN	from-i
 multiple	multiple	multiple	JJ	multiple-j
 franchises	franchises	franchise	NNS	franchise-n
@@ -62,6 +64,7 @@ suppliers	suppliers	supplier	NNS	supplier-n
 and	and	and	CC	and-c
 traders	traders	trader	NNS	trader-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 38-year-old	38-year-old	38-year-old	JJ	38-year-old-j
 ,	,	,	,	,-x
@@ -89,6 +92,7 @@ a	a	a	DT	a-d
 prison	prison	prison	NN	prison-n
 sentence	sentence	sentence	NN	sentence-n
 .	.	.	.	.-x
+
 Paul	Paul	Paul	NNP	Paul-e
 Edwards	Edwards	Edwards	NNP	Edwards-e
 ,	,	,	,	,-x
@@ -117,6 +121,7 @@ spotted	spotted	spot	VBN	spot-v
 by	by	by	IN	by-i
 franchisees	franchisees	franchisee	NNS	franchisee-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 :	:	:	:	:-x
@@ -133,6 +138,7 @@ of	of	of	IN	of-i
 Mr	Mr	Mr	NNP	Mr-e
 Clutch	Clutch	Clutch	NNP	Clutch-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 franchise	franchise	franchise	NN	franchise-n
@@ -167,6 +173,7 @@ bank	bank	bank	NN	bank-n
 accounts	accounts	account	NNS	account-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Mr	Mr	Mr	NNP	Mr-e
 Edwards	Edwards	Edwards	NNP	Edwards-e
 revealed	revealed	reveal	VBD	reveal-v
@@ -188,6 +195,7 @@ were	were	be	VBD	be-v
 also	also	also	RB	also-r
 required	required	require	VBN	require-v
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 added	added	add	VBD	add-v
 :	:	:	:	:-x
@@ -209,6 +217,7 @@ was	was	be	VBD	be-v
 heavily	heavily	heavily	RB	heavily-r
 overdrawn	overdrawn	overdrawn	JJ	overdrawn-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Between	Between	between	IN	between-i
 August	August	August	NNP	August-e
@@ -242,6 +251,7 @@ linked	linked	link	VBN	link-v
 to	to	to	TO	to-t
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Mr	Mr	Mr	NNP	Mr-e
 Carvill	Carvill	Carvill	NNP	Carvill-e
@@ -264,6 +274,7 @@ had	had	have	VBD	have-v
 been	been	be	VBN	be-v
 used	used	use	VBN	use-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Other	Other	other	JJ	other-j
 franchise	franchise	franchise	NN	franchise-n
@@ -279,6 +290,7 @@ transactions	transactions	transaction	NNS	transaction-n
 and	and	and	CC	and-c
 £	#	#	#	#-x
 262,234.61	262,234.61	262,234.61	CD	262,234.61-f
+
 was	was	be	VBD	be-v
 transferred	transferred	transfer	VBN	transfer-v
 by	by	by	IN	by-i
@@ -290,6 +302,7 @@ bank	bank	bank	NN	bank-n
 accounts	accounts	account	NNS	account-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Magistrates	Magistrates	magistrate	NNS	magistrate-n
 were	were	be	VBD	be-v
 told	told	tell	VBN	tell-v
@@ -315,6 +328,7 @@ by	by	by	IN	by-i
 the	the	the	DT	the-d
 banks	banks	bank	NNS	bank-n
 .	.	.	.	.-x
+
 Carvill	Carvill	Carvill	NNP	Carvill-e
 was	was	be	VBD	be-v
 released	released	release	VBN	release-v
@@ -339,6 +353,7 @@ a	a	a	DT	a-d
 later	later	later	JJ	later-j
 date	date	date	NN	date-n
 .	.	.	.	.-x
+
 Jean	Jean	Jean	NNP	Jean-e
 Sanderson	Sanderson	Sanderson	NNP	Sanderson-e
 ,	,	,	,	,-x
@@ -383,3 +398,4 @@ crown	crown	crown	NN	crown-n
 court	court	court	NN	court-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

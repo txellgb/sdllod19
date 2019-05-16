@@ -14,6 +14,7 @@ Port	Port	Port	NNP	Port-e
 of	of	of	IN	of-i
 Echuca	Echuca	Echuca	NNP	Echuca-e
 ?	?	?	.	?-x
+
 The	The	the	DT	the-d
 answer	answer	answer	NN	answer-n
 is	is	be	VBZ	be-v
@@ -33,6 +34,7 @@ based	based	base	VBN	base-v
 in	in	in	IN	in-i
 Moama	Moama	Moama	NNP	Moama-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 pair	pair	pair	NN	pair-n
 were	were	be	VBD	be-v
@@ -47,6 +49,7 @@ recent	recent	recent	JJ	recent-j
 school	school	school	NN	school-n
 holidays	holidays	holiday	NNS	holiday-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 council	council	council	NN	council-n
 's	's	's	POS	's-p
@@ -68,6 +71,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 area	area	area	NN	area-n
 .	.	.	.	.-x
+
 ''	''	''	''	''-x
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
@@ -88,6 +92,7 @@ precinct	precinct	precinct	NN	precinct-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 ''	''	''	''	''-x
 The	The	the	DT	the-d
 last	last	last	JJ	last-j
@@ -118,3 +123,4 @@ live	live	live	VB	live-v
 music	music	music	NN	music-n
 .	.	.	.	.-x
 ''	''	''	''	''-x
+

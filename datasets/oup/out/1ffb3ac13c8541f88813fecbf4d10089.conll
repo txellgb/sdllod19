@@ -27,6 +27,7 @@ being	being	be	VBG	be-v
 sexually	sexually	sexually	RB	sexually-r
 explicit	explicit	explicit	JJ	explicit-j
 .	.	.	.	.-x
+
 Out	Out	out	IN	out-i
 of	of	of	IN	of-i
 all	all	all	PDT	all-d
@@ -40,6 +41,7 @@ chose	chose	choose	VBD	choose-v
 Ed	Ed	Ed	NNP	Ed-e
 Sheeran	Sheeran	Sheeran	NNP	Sheeran-e
 ?	?	?	.	?-x
+
 And	And	and	CC	and-c
 the	the	the	DT	the-d
 Uptown	Uptown	uptown	JJ	uptown-j
@@ -59,6 +61,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 block	block	block	NN	block-n
 .	.	.	.	.-x
+
 Taking	Taking	take	VBG	take-v
 to	to	to	TO	to-t
 Twitter	Twitter	Twitter	NNP	Twitter-e
@@ -88,6 +91,7 @@ to	to	to	TO	to-t
 answer	answer	answer	VB	answer-v
 for	for	for	IN	for-i
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 told	told	tell	VBD	tell-v
 his	his	he	PRP$	he-p
@@ -98,10 +102,12 @@ followers	followers	follower	NNS	follower-n
 '	`	`	``	`-x
 WTF	WTF	wtf	NN	wtf-n
 !	!	!	.	!-x
+
 '	`	`	``	`-x
 Thanks	Thanks	thanks	NNS	thanks-n
 Ed	Ed	Ed	NNP	Ed-e
 .	.	.	.	.-x
+
 '	'	'	''	'-x
 "	``	``	``	``-x
 I	I	I	PRP	I-p
@@ -118,6 +124,7 @@ you	you	you	PRP	you-p
 Really	Really	really	RB	really-r
 @edsheeran	@edsheeran	@edsheeran	NN	@edsheeran-n
 ?	?	?	.	?-x
+
 &	&	&	CC	&-c
 do	do	do	VBP	do-v
 n't	n't	not	RB	not-r
@@ -132,11 +139,13 @@ Out	Out	out	IN	out-i
 Loud	Loud	loud	JJ	loud-j
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Have	Have	have	VBP	have-v
 u	u	u	FW	u-x
 no	no	no	DT	no-d
 shame	shame	shame	NN	shame-n
 ?	?	?	.	?-x
+
 '	`	`	``	`-x
 Dear	Dear	Dear	NNP	Dear-e
 Indonesia	Indonesia	Indonesia	NNP	Indonesia-e
@@ -166,6 +175,7 @@ Are	Are	be	VBP	be-v
 Treasure	Treasure	treasure	NN	treasure-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Do	Do	do	VBP	do-v
 n't	n't	not	RB	not-r
 lump	lump	lump	NN	lump-n
@@ -177,10 +187,12 @@ sexual	sexual	sexual	JJ	sexual-j
 deviant	deviant	deviant	JJ	deviant-j
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 Oooof	Oooof	oooof	JJ	oooof-j
 shots	shots	shot	NNS	shot-n
 fired	fired	fire	VBD	fire-v
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 broadcasting	broadcasting	broadcasting	NN	broadcasting-n
 commission	commission	commission	NN	commission-n
@@ -234,6 +246,7 @@ making	making	make	VBG	make-v
 the	the	the	DT	the-d
 list	list	list	NN	list-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 they	they	they	PRP	they-p
 're	're	be	VBP	be-v
@@ -265,6 +278,7 @@ Thoughts	Thoughts	Thoughts	NNPS	Thoughts-e
 also	also	also	RB	also-r
 blocked	blocked	block	VBD	block-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Guardian	Guardian	Guardian	NNP	Guardian-e
 states	states	state	NNS	state-n
@@ -288,6 +302,7 @@ sexual	sexual	sexual	JJ	sexual-j
 objects	objects	object	NNS	object-n
 '	'	'	POS	'-p
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 deputy	deputy	deputy	NN	deputy-n
 head	head	head	NN	head-n
@@ -322,6 +337,7 @@ and	and	and	CC	and-c
 obscenity	obscenity	obscenity	NN	obscenity-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 It	It	it	PRP	it-p
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -359,6 +375,7 @@ The	The	the	DT	the-d
 Killers	Killers	Killers	NNPS	Killers-e
 rave	rave	rave	VBP	rave-v
 .	.	.	.	.-x
+
 MORE	MORE	more	JJR	more-j
 :	:	:	:	:-x
 Gemma	Gemma	Gemma	NNP	Gemma-e
@@ -376,3 +393,4 @@ forgiveness	forgiveness	forgiveness	NN	forgiveness-n
 for	for	for	IN	for-i
 cruel	cruel	cruel	JJ	cruel-j
 jibes	jibes	jibe	NNS	jibe-n
+

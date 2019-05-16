@@ -41,6 +41,7 @@ an	an	a	DT	a-d
 urgent	urgent	urgent	JJ	urgent-j
 one	one	one	CD	one-f
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 stated	stated	state	VBD	state-v
 it	it	it	PRP	it-p
@@ -60,6 +61,7 @@ city	city	city	NN	city-n
 of	of	of	IN	of-i
 Košice	Košice	Košice	NNP	Košice-e
 .	.	.	.	.-x
+
 Bucharest	Bucharest	Bucharest	NNP	Bucharest-e
 Nine	Nine	Nine	NNP	Nine-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
@@ -92,6 +94,7 @@ Romania	Romania	Romania	NNP	Romania-e
 and	and	and	CC	and-c
 Poland	Poland	Poland	NNP	Poland-e
 .	.	.	.	.-x
+
 Duda	Duda	Duda	NNP	Duda-e
 stressed	stressed	stress	VBD	stress-v
 that	that	that	IN	that-i
@@ -116,6 +119,7 @@ Baltic	Baltic	Baltic	NNP	Baltic-e
 Sea	Sea	Sea	NNP	Sea-e
 regions	regions	region	NNS	region-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 agreed	agreed	agree	VBD	agree-v
@@ -137,6 +141,7 @@ ambitions	ambitions	ambition	NNS	ambition-n
 of	of	of	IN	of-i
 Russia	Russia	Russia	NNP	Russia-e
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -151,3 +156,4 @@ to	to	to	TO	to-t
 Duda	Duda	Duda	NNP	Duda-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

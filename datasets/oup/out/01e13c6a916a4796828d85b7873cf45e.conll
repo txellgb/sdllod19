@@ -27,12 +27,14 @@ a	a	a	DT	a-d
 gas	gas	gas	NN	gas-n
 station	station	station	NN	station-n
 .	.	.	.	.-x
+
 Evidence	Evidence	evidence	NN	evidence-n
 markers	markers	marker	NNS	marker-n
 littered	littered	litter	VBD	litter-v
 the	the	the	DT	the-d
 street	street	street	NN	street-n
 .	.	.	.	.-x
+
 Oakland	Oakland	Oakland	NNP	Oakland-e
 police	police	police	NNS	police-n
 say	say	say	VBP	say-v
@@ -48,3 +50,4 @@ one	one	one	CD	one-f
 has	has	have	VBZ	have-v
 died	died	die	VBN	die-v
 .	.	.	.	.-x
+

@@ -16,6 +16,7 @@ sewer	sewer	sewer	NN	sewer-n
 months	months	month	NNS	month-n
 ago	ago	ago	RB	ago-r
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 mother	mother	mother	NN	mother-n
 ,	,	,	,	,-x
@@ -45,6 +46,7 @@ would	would	would	MD	would-v
 come	come	come	VB	come-v
 from	from	from	IN	from-i
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 ,	,	,	,	,-x
@@ -62,6 +64,7 @@ without	without	without	IN	without-i
 manual	manual	manual	JJ	manual-j
 scavenging	scavenging	scavenging	NN	scavenging-n
 .	.	.	.	.-x
+
 Kaur	Kaur	Kaur	NNP	Kaur-e
 ,	,	,	,	,-x
 smartly	smartly	smartly	RB	smartly-r
@@ -88,6 +91,7 @@ Rs	Rs	rs	NN	rs-n
 scavenging	scavenging	scavenging	NN	scavenging-n
 machine	machine	machine	NN	machine-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 contractor	contractor	contractor	NN	contractor-n
@@ -104,6 +108,7 @@ anyone	anyone	anyone	NN	anyone-n
 's	's	's	POS	's-p
 life	life	life	NN	life-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 prioritising	prioritising	prioritise	VBG	prioritise-v
 who	who	who	WP	who-p
@@ -133,6 +138,7 @@ the	the	the	DT	the-d
 SC	SC	sc	NN	sc-n
 community	community	community	NN	community-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 lot	lot	lot	NN	lot-n
@@ -171,6 +177,7 @@ the	the	the	DT	the-d
 general	general	general	JJ	general-j
 category	category	category	NN	category-n
 .	.	.	.	.-x
+
 DJB	DJB	DJB	NNP	DJB-e
 will	will	will	MD	will-v
 guarantee	guarantee	guarantee	VB	guarantee-v
@@ -188,6 +195,7 @@ lines	lines	line	NNS	line-n
 every	every	every	DT	every-d
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 Sitting	Sitting	sit	VBG	sit-v
 near	near	near	IN	near-i
 Kaur	Kaur	Kaur	NNP	Kaur-e
@@ -195,6 +203,7 @@ was	was	be	VBD	be-v
 Renu	Renu	Renu	NNP	Renu-e
 Devi	Devi	Devi	NNP	Devi-e
 .	.	.	.	.-x
+
 Her	Her	she	PRP$	she-p
 brother	brother	brother	NN	brother-n
 died	died	die	VBD	die-v
@@ -221,6 +230,7 @@ the	the	the	DT	the-d
 finance-strapped	finance-strapped	finance-strapped	JJ	finance-strapped-j
 family	family	family	NN	family-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 distinctly	distinctly	distinctly	RB	distinctly-r
@@ -244,6 +254,7 @@ day	day	day	NN	day-n
 Devi	Devi	Devi	NNP	Devi-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 did	did	do	VBD	do-v
@@ -266,6 +277,7 @@ own	own	own	JJ	own-j
 son	son	son	NN	son-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Devi	Devi	Devi	NNP	Devi-e
 's	's	's	POS	's-p
 husband	husband	husband	NN	husband-n
@@ -293,6 +305,7 @@ family	family	family	NN	family-n
 financial	financial	financial	JJ	financial-j
 head	head	head	NN	head-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 will	will	will	MD	will-v
 also	also	also	RB	also-r
@@ -305,6 +318,7 @@ as	as	as	IN	as-i
 ployees	ployees	ployee	NNS	ployee-n
 '	'	'	POS	'-p
 .	.	.	.	.-x
+
 Priti	Priti	Priti	NNP	Priti-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -320,6 +334,7 @@ the	the	the	DT	the-d
 youngest	youngest	youngest	JJS	youngest-j
 beneficiaries	beneficiaries	beneficiary	NNS	beneficiary-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 23-year-old	23-year-old	23-year-old	JJ	23-year-old-j
 lost	lost	lose	VBD	lose-v
@@ -338,6 +353,7 @@ Lajpat	Lajpat	Lajpat	NNP	Lajpat-e
 Nagar	Nagar	Nagar	NNP	Nagar-e
 case	case	case	NN	case-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Since	Since	since	IN	since-i
 then	then	then	RB	then-r
@@ -377,6 +393,7 @@ a	a	a	DT	a-d
 better	better	better	JJR	better-j
 future	future	future	NN	future-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 male	male	male	JJ	male-j
 beneficiaries	beneficiaries	beneficiary	NNS	beneficiary-n
@@ -385,6 +402,7 @@ no	no	no	RB	no-r
 less	less	less	RBR	less-r
 optimistic	optimistic	optimistic	JJ	optimistic-j
 .	.	.	.	.-x
+
 Deepak	Deepak	Deepak	NNP	Deepak-e
 Kheriwal	Kheriwal	Kheriwal	NNP	Kheriwal-e
 ,	,	,	,	,-x
@@ -401,6 +419,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 scheme	scheme	scheme	NN	scheme-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 new	new	new	JJ	new-j
@@ -423,6 +442,7 @@ others	others	other	NNS	other-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Kheriwal	Kheriwal	kheriwal	JJ	kheriwal-j
 seemed	seemed	seem	VBD	seem-v
 to	to	to	TO	to-t
@@ -464,6 +484,7 @@ the	the	the	DT	the-d
 Dalit	Dalit	Dalit	NNP	Dalit-e
 community	community	community	NN	community-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 scheme	scheme	scheme	NN	scheme-n
 is	is	be	VBZ	be-v
@@ -475,3 +496,4 @@ other	other	other	JJ	other-j
 states	states	state	NNS	state-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+

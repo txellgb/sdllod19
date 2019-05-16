@@ -44,6 +44,7 @@ Association	Association	Association	NNP	Association-e
 KDA	KDA	KDA	NNP	KDA-e
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 program	program	program	NN	program-n
 ,	,	,	,	,-x
@@ -77,6 +78,7 @@ and	and	and	CC	and-c
 Meru	Meru	Meru	NNP	Meru-e
 counties	counties	county	NNS	county-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 marks	marks	mark	VBZ	mark-v
 the	the	the	DT	the-d
@@ -97,6 +99,7 @@ phase	phase	phase	NN	phase-n
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 In	In	in	IN	in-i
 several	several	several	JJ	several-j
@@ -154,6 +157,7 @@ costly	costly	costly	JJ	costly-j
 cures	cures	cure	NNS	cure-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 first	first	first	JJ	first-j
 phase	phase	phase	NN	phase-n
@@ -182,6 +186,7 @@ and	and	and	CC	and-c
 Nakuru	Nakuru	Nakuru	NNP	Nakuru-e
 counties	counties	county	NNS	county-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 means	means	mean	VBZ	mean-v
 that	that	that	IN	that-i
@@ -215,6 +220,7 @@ in	in	in	IN	in-i
 two	two	two	CD	two-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Due	Due	due	JJ	due-j
 to	to	to	TO	to-t
@@ -274,6 +280,7 @@ self-care	self-care	self-care	NN	self-care-n
 Wetende	Wetende	Wetende	NNP	Wetende-e
 explained	explained	explain	VBD	explain-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 For	For	for	IN	for-i
 the	the	the	DT	the-d
@@ -293,6 +300,7 @@ to	to	to	TO	to-t
 this	this	this	DT	this-d
 program	program	program	NN	program-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 an	an	a	DT	a-d
 organization	organization	organization	NN	organization-n
@@ -332,6 +340,7 @@ Africa	Africa	Africa	NNP	Africa-e
 Wanja	Wanja	Wanja	NNP	Wanja-e
 Mwangi	Mwangi	Mwangi	NNP	Mwangi-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 addition	addition	addition	NN	addition-n
 to	to	to	TO	to-t
@@ -366,6 +375,7 @@ public	public	public	JJ	public-j
 dental	dental	dental	JJ	dental-j
 facilities	facilities	facility	NNS	facility-n
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 43.6	43.6	43.6	CD	43.6-f
 per	per	per	IN	per-i
@@ -378,6 +388,7 @@ experienced	experienced	experience	VBN	experience-v
 dental	dental	dental	JJ	dental-j
 caries	caries	caries	NNS	caries-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 children	children	child	NNS	child-n
 had	had	have	VBD	have-v
@@ -421,6 +432,7 @@ tooth	tooth	tooth	NN	tooth-n
 related	related	related	JJ	related-j
 problem	problem	problem	NN	problem-n
 .	.	.	.	.-x
+
 Another	Another	another	DT	another-d
 27.8	27.8	27.8	CD	27.8-f
 pc	pc	pc	NN	pc-n
@@ -434,3 +446,4 @@ by	by	by	IN	by-i
 their	their	they	PRP$	they-p
 teeth	teeth	tooth	NNS	tooth-n
 .	.	.	.	.-x
+

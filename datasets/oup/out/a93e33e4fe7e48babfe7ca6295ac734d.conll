@@ -30,6 +30,7 @@ Leslie	Leslie	Leslie	NNP	Leslie-e
 Cheek	Cheek	Cheek	NNP	Cheek-e
 Theater	Theater	Theater	NNP	Theater-e
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 anyone	anyone	anyone	NN	anyone-n
 needed	needed	need	VBD	need-v
@@ -59,6 +60,7 @@ certainly	certainly	certainly	RB	certainly-r
 clarify	clarify	clarify	VB	clarify-v
 things	things	thing	NNS	thing-n
 .	.	.	.	.-x
+
 There	There	there	RB	there-r
 ,	,	,	,	,-x
 rising	rising	rise	VBG	rise-v
@@ -94,6 +96,7 @@ Austen	Austen	Austen	NNP	Austen-e
 's	's	's	POS	's-p
 novel	novel	novel	NN	novel-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Pride	Pride	pride	NN	pride-n
 and	and	and	CC	and-c
@@ -108,6 +111,7 @@ stage	stage	stage	NN	stage-n
 and	and	and	CC	and-c
 screen	screen	screen	NN	screen-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 weekend	weekend	weekend	NN	weekend-n
 ,	,	,	,	,-x
@@ -133,6 +137,7 @@ Britain	Britain	Britain	NNP	Britain-e
 Regency	Regency	Regency	NNP	Regency-e
 era	era	era	NN	era-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -164,6 +169,7 @@ her	her	she	PRP$	she-p
 initial	initial	initial	JJ	initial-j
 impressions	impressions	impression	NNS	impression-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 she	she	she	PRP	she-p
 attends	attends	attend	VBZ	attend-v
@@ -189,6 +195,7 @@ and	and	and	CC	and-c
 aloof	aloof	aloof	JJ	aloof-j
 28-year-old	28-year-old	28-year-old	JJ	28-year-old-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -237,6 +244,7 @@ of	of	of	IN	of-i
 societal	societal	societal	JJ	societal-j
 norms	norms	norm	NNS	norm-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 recognize	recognize	recognize	VBP	recognize-v
@@ -255,6 +263,7 @@ her	her	she	PRP$	she-p
 on	on	on	IN	on-i
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 compares	compares	compare	VBZ	compare-v
 Calvit	Calvit	Calvit	NNP	Calvit-e
@@ -290,6 +299,7 @@ you	you	you	PRP	you-p
 things	things	thing	NNS	thing-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Like	Like	like	IN	like-i
 many	many	many	JJ	many-j
 ,	,	,	,	,-x
@@ -313,6 +323,7 @@ on	on	on	IN	on-i
 reading	reading	reading	NN	reading-n
 frenzy	frenzy	frenzy	NN	frenzy-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 fell	fell	fall	VBD	fall-v
@@ -331,6 +342,7 @@ stars	stars	star	VBZ	star-v
 as	as	as	IN	as-i
 Elizabeth	Elizabeth	Elizabeth	NNP	Elizabeth-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 That	That	that	DT	that-d
 was	was	be	VBD	be-v
@@ -341,6 +353,7 @@ with	with	with	IN	with-i
 Jane	Jane	Jane	NNP	Jane-e
 Austen	Austen	Austen	NNP	Austen-e
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 devoured	devoured	devour	VBD	devour-v
 'Em	'Em	'Em	NNP	'Em-e
@@ -353,6 +366,7 @@ Park	Park	Park	NNP	Park-e
 .	.	.	.	.-x
 '	'	'	''	'-x
 "	''	''	''	''-x
+
 One	One	one	CD	one-f
 reason	reason	reason	NN	reason-n
 Kuykendall	Kuykendall	Kuykendall	NNP	Kuykendall-e
@@ -383,6 +397,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 story	story	story	NN	story-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -398,6 +413,7 @@ romance	romance	romance	NN	romance-n
 Kuykendall	Kuykendall	Kuykendall	NNP	Kuykendall-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -423,6 +439,7 @@ building	building	building	NN	building-n
 relationships	relationships	relationship	NNS	relationship-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Kuykendall	Kuykendall	Kuykendall	NNP	Kuykendall-e
 says	says	say	VBZ	say-v
 she	she	she	PRP	she-p
@@ -434,17 +451,20 @@ a	a	a	DT	a-d
 beloved	beloved	beloved	JJ	beloved-j
 character	character	character	NN	character-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Elizabeth	Elizabeth	Elizabeth	NNP	Elizabeth-e
 is	is	be	VBZ	be-v
 very	very	very	RB	very-r
 daring	daring	daring	JJ	daring-j
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 's	's	be	VBZ	be-v
 not	not	not	RB	not-r
 apologetic	apologetic	apologetic	JJ	apologetic-j
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 does	does	do	VBZ	do-v
 n't	n't	not	RB	not-r
@@ -464,6 +484,7 @@ people	people	people	NNS	people-n
 she	she	she	PRP	she-p
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 She	She	she	PRP	she-p
 's	's	be	VBZ	be-v
@@ -471,6 +492,7 @@ also	also	also	RB	also-r
 very	very	very	RB	very-r
 playful	playful	playful	JJ	playful-j
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 loves	loves	love	VBZ	love-v
 to	to	to	TO	to-t
@@ -488,6 +510,7 @@ of	of	of	IN	of-i
 people	people	people	NNS	people-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Opposite	Opposite	Opposite	NNP	Opposite-e
 Kuykendall	Kuykendall	Kuykendall	NNP	Kuykendall-e
 onstage	onstage	onstage	NN	onstage-n
@@ -502,6 +525,7 @@ portrays	portrays	portray	VBZ	portray-v
 Mr.	Mr.	Mr.	NNP	Mr.-e
 Darcy	Darcy	Darcy	NNP	Darcy-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 They	They	they	PRP	they-p
 've	've	have	VBP	have-v
@@ -526,6 +550,7 @@ show	show	show	NN	show-n
 Owens	Owens	Owens	NNP	Owens-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Physically	Physically	physically	RB	physically-r
 ,	,	,	,	,-x
@@ -536,6 +561,7 @@ for	for	for	IN	for-i
 this	this	this	DT	this-d
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Playing	Playing	play	VBG	play-v
 Elizabeth	Elizabeth	Elizabeth	NNP	Elizabeth-e
 's	's	's	POS	's-p
@@ -547,6 +573,7 @@ Melissa	Melissa	Melissa	NNP	Melissa-e
 Johnston	Johnston	Johnston	NNP	Johnston-e
 Price	Price	Price	NNP	Price-e
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 comedic	comedic	comedic	JJ	comedic-j
 role	role	role	NN	role-n
@@ -581,6 +608,7 @@ can	can	can	MD	can-v
 inherit	inherit	inherit	VB	inherit-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Bennet	Bennet	Bennet	NNP	Bennet-e
 ]	-RSB-	-rsb-	-RRB-	-rsb--x
 means	means	mean	VBZ	mean-v
@@ -607,11 +635,13 @@ Johnston	Johnston	Johnston	NNP	Johnston-e
 Price	Price	Price	NNP	Price-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 She	She	she	PRP	she-p
 's	's	be	VBZ	be-v
 persuasive	persuasive	persuasive	JJ	persuasive-j
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 's	's	be	VBZ	be-v
 kind	kind	kind	NN	kind-n
@@ -637,6 +667,7 @@ for	for	for	IN	for-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Johnston	Johnston	Johnston	NNP	Johnston-e
 Price	Price	Price	NNP	Price-e
 also	also	also	RB	also-r
@@ -654,6 +685,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 play	play	play	NN	play-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 My	My	my	PRP$	my-p
 characters	characters	character	NNS	character-n
@@ -686,6 +718,7 @@ through	through	through	IN	through-i
 the	the	the	DT	the-d
 show	show	show	NN	show-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Lady	Lady	Lady	NNP	Lady-e
 Catherine	Catherine	Catherine	NNP	Catherine-e
@@ -703,6 +736,7 @@ power	power	power	NN	power-n
 ]	-RSB-	-rsb-	-RRB-	-rsb--x
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Aided	Aided	aid	VBN	aid-v
 by	by	by	IN	by-i
 choreographer	choreographer	choreographer	NN	choreographer-n
@@ -734,6 +768,7 @@ timed	timed	time	VBN	time-v
 to	to	to	TO	to-t
 music	music	music	NN	music-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Dance	Dance	Dance	NNP	Dance-e
 was	was	be	VBD	be-v
@@ -773,6 +808,7 @@ out	out	out	RP	out-x
 Owens	Owens	Owens	NNP	Owens-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -784,6 +820,7 @@ gorgeous	gorgeous	gorgeous	JJ	gorgeous-j
 show	show	show	NN	show-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Though	Though	though	IN	though-i
 filled	filled	fill	VBN	fill-v
 with	with	with	IN	with-i
@@ -811,6 +848,7 @@ Bennet	Bennet	Bennet	NNP	Bennet-e
 's	's	's	POS	's-p
 development	development	development	NN	development-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -830,6 +868,7 @@ Johnston	Johnston	Johnston	NNP	Johnston-e
 Price	Price	Price	NNP	Price-e
 says	says	say	VBZ	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Ultimately	Ultimately	ultimately	RB	ultimately-r
 they	they	they	PRP	they-p
@@ -849,3 +888,4 @@ better	better	better	JJR	better-j
 than	than	than	IN	than-i
 that	that	that	DT	that-d
 .	.	.	.	.-x
+

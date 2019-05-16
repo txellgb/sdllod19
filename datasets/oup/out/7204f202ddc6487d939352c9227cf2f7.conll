@@ -31,6 +31,7 @@ the	the	the	DT	the-d
 academic	academic	academic	JJ	academic-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Today	Today	today	NN	today-n
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 1	1	1	CD	1-f
@@ -63,6 +64,7 @@ three	three	three	CD	three-f
 preferred	preferred	prefer	VBN	prefer-v
 choices	choices	choice	NNS	choice-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 terms	terms	term	NNS	term-n
 of	of	of	IN	of-i
@@ -84,6 +86,7 @@ and	and	and	CC	and-c
 upper	upper	upper	JJ	upper-j
 schools	schools	school	NNS	school-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 pupils	pupils	pupil	NNS	pupil-n
 that	that	that	WDT	that-d
@@ -107,6 +110,7 @@ their	their	they	PRP$	they-p
 first	first	first	JJ	first-j
 preference	preference	preference	NN	preference-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 is	is	be	VBZ	be-v
 up	up	up	RB	up-r
@@ -117,6 +121,7 @@ from	from	from	IN	from-i
 last	last	last	JJ	last-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 in	in	in	IN	in-i
 secondary	secondary	secondary	JJ	secondary-j
@@ -138,6 +143,7 @@ to	to	to	TO	to-t
 per	per	per	IN	per-i
 cent	cent	cent	NN	cent-n
 .	.	.	.	.-x
+
 Councillor	Councillor	Councillor	NNP	Councillor-e
 Steven	Steven	Steven	NNP	Steven-e
 Dixon	Dixon	Dixon	NNP	Dixon-e
@@ -195,6 +201,7 @@ on	on	on	IN	on-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 There	There	there	EX	there-r
 were	were	be	VBD	be-v
 just	just	just	RB	just-r
@@ -238,6 +245,7 @@ school	school	school	NN	school-n
 applied	applied	apply	VBD	apply-v
 online	online	online	NN	online-n
 .	.	.	.	.-x
+
 Anyone	Anyone	anyone	NN	anyone-n
 applying	applying	apply	VBG	apply-v
 online	online	online	NN	online-n
@@ -251,6 +259,7 @@ the	the	the	DT	the-d
 news	news	news	NN	news-n
 today	today	today	NN	today-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 those	those	those	DT	those-d
 who	who	who	WP	who-p
@@ -268,6 +277,7 @@ yesterday	yesterday	yesterday	NN	yesterday-n
 by	by	by	IN	by-i
 post	post	post	NN	post-n
 .	.	.	.	.-x
+
 Anyone	Anyone	anyone	NN	anyone-n
 wishing	wishing	wish	VBG	wish-v
 to	to	to	TO	to-t
@@ -288,6 +298,7 @@ of	of	of	IN	of-i
 preference	preference	preference	NN	preference-n
 form	form	form	NN	form-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 deadline	deadline	deadline	NN	deadline-n
 for	for	for	IN	for-i
@@ -308,6 +319,7 @@ Tuesday	Tuesday	Tuesday	NNP	Tuesday-e
 23	23	23	CD	23-f
 April	April	April	NNP	April-e
 .	.	.	.	.-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 children	children	child	NNS	child-n
@@ -337,6 +349,7 @@ Primary	Primary	primary	JJ	primary-j
 Offer	Offer	offer	NN	offer-n
 Day	Day	day	NN	day-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 more	more	more	JJR	more-j
 information	information	information	NN	information-n
@@ -348,9 +361,11 @@ transfers	transfers	transfer	NNS	transfer-n
 ,	,	,	,	,-x
 visit	visit	visit	NN	visit-n
 http://www.centralbedfordshire.gov.uk/school/admissions/2019/overview.aspx	http://www.centralbedfordshire.gov.uk/school/admissions/2019/overview.aspx	http://www.centralbedfordshire.gov.uk/school/admissions/2019/overview.aspx	NN	http://www.centralbedfordshire.gov.uk/school/admissions/2019/overview.aspx-n
+
 email	email	email	NN	email-n
 admissions@centralbedfordshire.gov.uk	admissions@centralbedfordshire.gov.uk	admissions@centralbedfordshire.gov.uk	NN	admissions@centralbedfordshire.gov.uk-n
 or	or	or	CC	or-c
 call	call	call	VB	call-v
 0300 300 8037	0300 300 8037	0300 300 8037	CD	0300 300 8037-f
 .	.	.	.	.-x
+

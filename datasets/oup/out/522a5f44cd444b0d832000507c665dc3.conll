@@ -32,6 +32,7 @@ Sheriff	Sheriff	Sheriff	NNP	Sheriff-e
 's	's	's	POS	's-p
 Office	Office	Office	NNP	Office-e
 .	.	.	.	.-x
+
 Gaa	Gaa	Gaa	NNP	Gaa-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -70,6 +71,7 @@ County	County	County	NNP	County-e
 Courthouse	Courthouse	courthouse	NN	courthouse-n
 security	security	security	NN	security-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 his	his	he	PRP$	he-p
 new	new	new	JJ	new-j
@@ -98,6 +100,7 @@ Sheriff	Sheriff	Sheriff	NNP	Sheriff-e
 Brian	Brian	Brian	NNP	Brian-e
 Asbell	Asbell	Asbell	NNP	Asbell-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 He	He	he	PRP	he-p
 has	has	have	VBZ	have-v
@@ -123,6 +126,7 @@ Asbell	Asbell	Asbell	NNP	Asbell-e
 of	of	of	IN	of-i
 Gaa	Gaa	Gaa	NNP	Gaa-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Chief	Chief	Chief	NNP	Chief-e
 Needham	Needham	Needham	NNP	Needham-e
@@ -136,6 +140,7 @@ which	which	which	WDT	which-d
 we	we	we	PRP	we-p
 respected	respected	respect	VBD	respect-v
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 he	he	he	PRP	he-p
@@ -144,6 +149,7 @@ be	be	be	VB	be-v
 greatly	greatly	greatly	RB	greatly-r
 missed	missed	miss	VBN	miss-v
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 guidance	guidance	guidance	NN	guidance-n
 over	over	over	IN	over-i
@@ -152,6 +158,7 @@ years	years	year	NNS	year-n
 was	was	be	VBD	be-v
 invaluable	invaluable	invaluable	JJ	invaluable-j
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 wish	wish	wish	VBP	wish-v
 him	him	he	PRP	he-p
@@ -166,3 +173,4 @@ said	said	say	VBD	say-v
 the	the	the	DT	the-d
 sheriff	sheriff	sheriff	NN	sheriff-n
 .	.	.	.	.-x
+

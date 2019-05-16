@@ -13,6 +13,7 @@ launch	launch	launch	VB	launch-v
 conservative	conservative	conservative	JJ	conservative-j
 media	media	media	NNS	media-n
 company	company	company	NN	company-n
+
 Former	Former	former	JJ	former-j
 Weekly	Weekly	Weekly	NNP	Weekly-e
 Standard	Standard	Standard	NNP	Standard-e
@@ -43,6 +44,7 @@ a	a	a	DT	a-d
 Thursday	Thursday	Thursday	NNP	Thursday-e
 report	report	report	NN	report-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Axios	Axios	Axios	NNP	Axios-e
 report	report	report	NN	report-n
@@ -120,6 +122,7 @@ be	be	be	VB	be-v
 ceasing	ceasing	cease	VBG	cease-v
 publication	publication	publication	NN	publication-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 report	report	report	NN	report-n
 says	says	say	VBZ	say-v
@@ -166,6 +169,7 @@ print	print	print	NN	print-n
 magazine	magazine	magazine	NN	magazine-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 It	It	it	PRP	it-p
 adds	adds	add	VBZ	add-v
 that	that	that	IN	that-i
@@ -182,6 +186,7 @@ serving	serving	serve	VBG	serve-v
 as	as	as	IN	as-i
 editor-in-chief	editor-in-chief	editor-in-chief	NN	editor-in-chief-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 believe	believe	believe	VBP	believe-v
@@ -223,6 +228,7 @@ Hayes	Hayes	Hayes	NNP	Hayes-e
 tells	tells	tell	VBZ	tell-v
 Axios	Axios	Axios	NNP	Axios-e
 .	.	.	.	.-x
+
 Goldberg	Goldberg	Goldberg	NNP	Goldberg-e
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -254,6 +260,7 @@ psychological	psychological	psychological	JJ	psychological-j
 phenomenon	phenomenon	phenomenon	NN	phenomenon-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 do	do	do	VBP	do-v
@@ -296,6 +303,7 @@ in	in	in	IN	in-i
 Oct.	Oct.	Oct.	NNP	Oct.-e
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Trumpism	Trumpism	trumpism	FW	trumpism-x
 is	is	be	VBZ	be-v
@@ -306,6 +314,7 @@ or	or	or	CC	or-c
 intellectual	intellectual	intellectual	JJ	intellectual-j
 program	program	program	NN	program-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 launch	launch	launch	NN	launch-n
 date	date	date	NN	date-n
@@ -321,3 +330,4 @@ not	not	not	RB	not-r
 been	been	be	VBN	be-v
 set	set	set	VBN	set-v
 .	.	.	.	.-x
+

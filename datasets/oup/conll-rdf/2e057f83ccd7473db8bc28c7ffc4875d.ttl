@@ -39,191 +39,236 @@
 :s1_31 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_32 .
 :s1_32 a nif:Word; conll:WORD "Filipino"; conll:TOKEN "Filipino"; conll:LEMMA "Filipino"; conll:LEMPOS "Filipino-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_33 .
 :s1_33 a nif:Word; conll:WORD "children"; conll:TOKEN "children"; conll:LEMMA "child"; conll:LEMPOS "child-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_34 .
-:s1_34 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_35 .
-:s1_35 a nif:Word; conll:WORD "Restituto"; conll:TOKEN "Restituto"; conll:LEMMA "Restituto"; conll:LEMPOS "Restituto-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_36 .
-:s1_36 a nif:Word; conll:WORD "Ogsimer"; conll:TOKEN "Ogsimer"; conll:LEMMA "Ogsimer"; conll:LEMPOS "Ogsimer-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_37 .
-:s1_37 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_38 .
-:s1_38 a nif:Word; conll:WORD "executive"; conll:TOKEN "executive"; conll:LEMMA "executive"; conll:LEMPOS "executive-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_39 .
-:s1_39 a nif:Word; conll:WORD "secretary"; conll:TOKEN "secretary"; conll:LEMMA "secretary"; conll:LEMPOS "secretary-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_40 .
-:s1_40 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_41 .
-:s1_41 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_42 .
-:s1_42 a nif:Word; conll:WORD "bishops"; conll:TOKEN "bishops"; conll:LEMMA "bishop"; conll:LEMPOS "bishop-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_43 .
-:s1_43 a nif:Word; conll:WORD "'"; conll:TOKEN "'"; conll:LEMMA "'"; conll:LEMPOS "'-p"; conll:HEAD :s1_0; conll:POS "POS"; nif:nextWord :s1_44 .
-:s1_44 a nif:Word; conll:WORD "Commission"; conll:TOKEN "Commission"; conll:LEMMA "commission"; conll:LEMPOS "commission-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_45 .
-:s1_45 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_46 .
-:s1_46 a nif:Word; conll:WORD "Migrants"; conll:TOKEN "Migrants"; conll:LEMMA "Migrants"; conll:LEMPOS "Migrants-e"; conll:HEAD :s1_0; conll:POS "NNPS"; nif:nextWord :s1_47 .
-:s1_47 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_48 .
-:s1_48 a nif:Word; conll:WORD "Itinerant"; conll:TOKEN "Itinerant"; conll:LEMMA "Itinerant"; conll:LEMPOS "Itinerant-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_49 .
-:s1_49 a nif:Word; conll:WORD "People"; conll:TOKEN "People"; conll:LEMMA "People"; conll:LEMPOS "People-e"; conll:HEAD :s1_0; conll:POS "NNPS"; nif:nextWord :s1_50 .
-:s1_50 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_51 .
-:s1_51 a nif:Word; conll:WORD "said"; conll:TOKEN "said"; conll:LEMMA "say"; conll:LEMPOS "say-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_52 .
-:s1_52 a nif:Word; conll:WORD "that"; conll:TOKEN "that"; conll:LEMMA "that"; conll:LEMPOS "that-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_53 .
-:s1_53 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_54 .
-:s1_54 a nif:Word; conll:WORD "people"; conll:TOKEN "people"; conll:LEMMA "people"; conll:LEMPOS "people-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_55 .
-:s1_55 a nif:Word; conll:WORD "must"; conll:TOKEN "must"; conll:LEMMA "must"; conll:LEMPOS "must-v"; conll:HEAD :s1_0; conll:POS "MD"; nif:nextWord :s1_56 .
-:s1_56 a nif:Word; conll:WORD "advocate"; conll:TOKEN "advocate"; conll:LEMMA "advocate"; conll:LEMPOS "advocate-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_57 .
-:s1_57 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_58 .
-:s1_58 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_59 .
-:s1_59 a nif:Word; conll:WORD "rights"; conll:TOKEN "rights"; conll:LEMMA "rights"; conll:LEMPOS "rights-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_60 .
-:s1_60 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_61 .
-:s1_61 a nif:Word; conll:WORD "stateless"; conll:TOKEN "stateless"; conll:LEMMA "stateless"; conll:LEMPOS "stateless-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_62 .
-:s1_62 a nif:Word; conll:WORD "people"; conll:TOKEN "people"; conll:LEMMA "people"; conll:LEMPOS "people-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_63 .
-:s1_63 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_64 .
-:s1_64 a nif:Word; conll:WORD "Just"; conll:TOKEN "Just"; conll:LEMMA "just"; conll:LEMPOS "just-r"; conll:HEAD :s1_0; conll:POS "RB"; nif:nextWord :s1_65 .
-:s1_65 a nif:Word; conll:WORD "like"; conll:TOKEN "like"; conll:LEMMA "like"; conll:LEMPOS "like-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_66 .
-:s1_66 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_67 .
-:s1_67 a nif:Word; conll:WORD "way"; conll:TOKEN "way"; conll:LEMMA "way"; conll:LEMPOS "way-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_68 .
-:s1_68 a nif:Word; conll:WORD "it"; conll:TOKEN "it"; conll:LEMMA "it"; conll:LEMPOS "it-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_69 .
-:s1_69 a nif:Word; conll:WORD "responds"; conll:TOKEN "responds"; conll:LEMMA "respond"; conll:LEMPOS "respond-v"; conll:HEAD :s1_0; conll:POS "VBZ"; nif:nextWord :s1_70 .
-:s1_70 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_71 .
-:s1_71 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_72 .
-:s1_72 a nif:Word; conll:WORD "asylum"; conll:TOKEN "asylum"; conll:LEMMA "asylum"; conll:LEMPOS "asylum-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_73 .
-:s1_73 a nif:Word; conll:WORD "seekers"; conll:TOKEN "seekers"; conll:LEMMA "seeker"; conll:LEMPOS "seeker-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_74 .
-:s1_74 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_75 .
-:s1_75 a nif:Word; conll:WORD "refugees"; conll:TOKEN "refugees"; conll:LEMMA "refugee"; conll:LEMPOS "refugee-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_76 .
-:s1_76 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_77 .
-:s1_77 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_78 .
-:s1_78 a nif:Word; conll:WORD "Philippines"; conll:TOKEN "Philippines"; conll:LEMMA "Philippines"; conll:LEMPOS "Philippines-e"; conll:HEAD :s1_0; conll:POS "NNPS"; nif:nextWord :s1_79 .
-:s1_79 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_80 .
-:s1_80 a nif:Word; conll:WORD "he"; conll:TOKEN "he"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_81 .
-:s1_81 a nif:Word; conll:WORD "said"; conll:TOKEN "said"; conll:LEMMA "say"; conll:LEMPOS "say-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_82 .
-:s1_82 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_83 .
-:s1_83 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_84 .
-:s1_84 a nif:Word; conll:WORD "is"; conll:TOKEN "is"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s1_0; conll:POS "VBZ"; nif:nextWord :s1_85 .
-:s1_85 a nif:Word; conll:WORD "looking"; conll:TOKEN "looking"; conll:LEMMA "look"; conll:LEMPOS "look-v"; conll:HEAD :s1_0; conll:POS "VBG"; nif:nextWord :s1_86 .
-:s1_86 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_87 .
-:s1_87 a nif:Word; conll:WORD "must"; conll:TOKEN "must"; conll:LEMMA "must"; conll:LEMPOS "must-v"; conll:HEAD :s1_0; conll:POS "MD"; nif:nextWord :s1_88 .
-:s1_88 a nif:Word; conll:WORD "continue"; conll:TOKEN "continue"; conll:LEMMA "continue"; conll:LEMPOS "continue-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_89 .
-:s1_89 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_90 .
-:s1_90 a nif:Word; conll:WORD "find"; conll:TOKEN "find"; conll:LEMMA "find"; conll:LEMPOS "find-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_91 .
-:s1_91 a nif:Word; conll:WORD "ways"; conll:TOKEN "ways"; conll:LEMMA "way"; conll:LEMPOS "way-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_92 .
-:s1_92 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_93 .
-:s1_93 a nif:Word; conll:WORD "assist"; conll:TOKEN "assist"; conll:LEMMA "assist"; conll:LEMPOS "assist-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_94 .
-:s1_94 a nif:Word; conll:WORD "these"; conll:TOKEN "these"; conll:LEMMA "these"; conll:LEMPOS "these-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_95 .
-:s1_95 a nif:Word; conll:WORD "children"; conll:TOKEN "children"; conll:LEMMA "child"; conll:LEMPOS "child-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_96 .
-:s1_96 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_97 .
-:s1_97 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "``"; conll:LEMMA "``"; conll:LEMPOS "``-x"; conll:HEAD :s1_0; conll:POS "``"; nif:nextWord :s1_98 .
-:s1_98 a nif:Word; conll:WORD "We"; conll:TOKEN "We"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_99 .
-:s1_99 a nif:Word; conll:WORD "are"; conll:TOKEN "are"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s1_0; conll:POS "VBP"; nif:nextWord :s1_100 .
-:s1_100 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_101 .
-:s1_101 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_102 .
-:s1_102 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_103 .
-:s1_103 a nif:Word; conll:WORD "let"; conll:TOKEN "let"; conll:LEMMA "let"; conll:LEMPOS "let-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_104 .
-:s1_104 a nif:Word; conll:WORD "us"; conll:TOKEN "us"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_105 .
-:s1_105 a nif:Word; conll:WORD "act"; conll:TOKEN "act"; conll:LEMMA "act"; conll:LEMPOS "act-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_106 .
-:s1_106 a nif:Word; conll:WORD "now"; conll:TOKEN "now"; conll:LEMMA "now"; conll:LEMPOS "now-r"; conll:HEAD :s1_0; conll:POS "RB"; nif:nextWord :s1_107 .
-:s1_107 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_108 .
-:s1_108 a nif:Word; conll:WORD "seek"; conll:TOKEN "seek"; conll:LEMMA "seek"; conll:LEMPOS "seek-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_109 .
-:s1_109 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_110 .
-:s1_110 a nif:Word; conll:WORD "out"; conll:TOKEN "out"; conll:LEMMA "out"; conll:LEMPOS "out-x"; conll:HEAD :s1_0; conll:POS "RP"; nif:nextWord :s1_111 .
-:s1_111 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_112 .
-:s1_112 a nif:Word; conll:WORD "extend"; conll:TOKEN "extend"; conll:LEMMA "extend"; conll:LEMPOS "extend-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_113 .
-:s1_113 a nif:Word; conll:WORD "our"; conll:TOKEN "our"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s1_0; conll:POS "PRP$"; nif:nextWord :s1_114 .
-:s1_114 a nif:Word; conll:WORD "hands"; conll:TOKEN "hands"; conll:LEMMA "hand"; conll:LEMPOS "hand-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_115 .
-:s1_115 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_116 .
-:s1_116 a nif:Word; conll:WORD "farthest"; conll:TOKEN "farthest"; conll:LEMMA "farthest"; conll:LEMPOS "farthest-j"; conll:HEAD :s1_0; conll:POS "JJS"; nif:nextWord :s1_117 .
-:s1_117 a nif:Word; conll:WORD "it"; conll:TOKEN "it"; conll:LEMMA "it"; conll:LEMPOS "it-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_118 .
-:s1_118 a nif:Word; conll:WORD "can"; conll:TOKEN "can"; conll:LEMMA "can"; conll:LEMPOS "can-v"; conll:HEAD :s1_0; conll:POS "MD"; nif:nextWord :s1_119 .
-:s1_119 a nif:Word; conll:WORD "reach"; conll:TOKEN "reach"; conll:LEMMA "reach"; conll:LEMPOS "reach-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_120 .
-:s1_120 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_121 .
-:s1_121 a nif:Word; conll:WORD "care"; conll:TOKEN "care"; conll:LEMMA "care"; conll:LEMPOS "care-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_122 .
-:s1_122 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_123 .
-:s1_123 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_124 .
-:s1_124 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_125 .
-:s1_125 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_126 .
-:s1_126 a nif:Word; conll:WORD "embrace"; conll:TOKEN "embrace"; conll:LEMMA "embrace"; conll:LEMPOS "embrace-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_127 .
-:s1_127 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_128 .
-:s1_128 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_129 .
-:s1_129 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_130 .
-:s1_130 a nif:Word; conll:WORD "make"; conll:TOKEN "make"; conll:LEMMA "make"; conll:LEMPOS "make-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_131 .
-:s1_131 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_132 .
-:s1_132 a nif:Word; conll:WORD "feel"; conll:TOKEN "feel"; conll:LEMMA "feel"; conll:LEMPOS "feel-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_133 .
-:s1_133 a nif:Word; conll:WORD "loved"; conll:TOKEN "loved"; conll:LEMMA "love"; conll:LEMPOS "love-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_134 .
-:s1_134 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_135 .
-:s1_135 a nif:Word; conll:WORD "recognize"; conll:TOKEN "recognize"; conll:LEMMA "recognize"; conll:LEMPOS "recognize-v"; conll:HEAD :s1_0; conll:POS "VBP"; nif:nextWord :s1_136 .
-:s1_136 a nif:Word; conll:WORD "their"; conll:TOKEN "their"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP$"; nif:nextWord :s1_137 .
-:s1_137 a nif:Word; conll:WORD "existence"; conll:TOKEN "existence"; conll:LEMMA "existence"; conll:LEMPOS "existence-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_138 .
-:s1_138 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_139 .
-:s1_139 a nif:Word; conll:WORD "our"; conll:TOKEN "our"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s1_0; conll:POS "PRP$"; nif:nextWord :s1_140 .
-:s1_140 a nif:Word; conll:WORD "midst"; conll:TOKEN "midst"; conll:LEMMA "midst"; conll:LEMPOS "midst-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_141 .
-:s1_141 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_142 .
-:s1_142 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "''"; conll:LEMMA "''"; conll:LEMPOS "''-x"; conll:HEAD :s1_0; conll:POS "''"; nif:nextWord :s1_143 .
-:s1_143 a nif:Word; conll:WORD "Ogsimer"; conll:TOKEN "Ogsimer"; conll:LEMMA "Ogsimer"; conll:LEMPOS "Ogsimer-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_144 .
-:s1_144 a nif:Word; conll:WORD "wrote"; conll:TOKEN "wrote"; conll:LEMMA "write"; conll:LEMPOS "write-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_145 .
-:s1_145 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_146 .
-:s1_146 a nif:Word; conll:WORD "his"; conll:TOKEN "his"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s1_0; conll:POS "PRP$"; nif:nextWord :s1_147 .
-:s1_147 a nif:Word; conll:WORD "message"; conll:TOKEN "message"; conll:LEMMA "message"; conll:LEMPOS "message-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_148 .
-:s1_148 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_149 .
-:s1_149 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_150 .
-:s1_150 a nif:Word; conll:WORD "National"; conll:TOKEN "National"; conll:LEMMA "National"; conll:LEMPOS "National-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_151 .
-:s1_151 a nif:Word; conll:WORD "Migrants"; conll:TOKEN "Migrants"; conll:LEMMA "Migrants"; conll:LEMPOS "Migrants-e"; conll:HEAD :s1_0; conll:POS "NNPS"; nif:nextWord :s1_152 .
-:s1_152 a nif:Word; conll:WORD "'"; conll:TOKEN "'"; conll:LEMMA "'"; conll:LEMPOS "'-p"; conll:HEAD :s1_0; conll:POS "POS"; nif:nextWord :s1_153 .
-:s1_153 a nif:Word; conll:WORD "Sunday"; conll:TOKEN "Sunday"; conll:LEMMA "Sunday"; conll:LEMPOS "Sunday-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_154 .
-:s1_154 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_155 .
-:s1_155 a nif:Word; conll:WORD "be"; conll:TOKEN "be"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_156 .
-:s1_156 a nif:Word; conll:WORD "observed"; conll:TOKEN "observed"; conll:LEMMA "observe"; conll:LEMPOS "observe-v"; conll:HEAD :s1_0; conll:POS "VBN"; nif:nextWord :s1_157 .
-:s1_157 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_158 .
-:s1_158 a nif:Word; conll:WORD "March"; conll:TOKEN "March"; conll:LEMMA "March"; conll:LEMPOS "March-e"; conll:HEAD :s1_0; conll:POS "NNP"; nif:nextWord :s1_159 .
-:s1_159 a nif:Word; conll:WORD "10"; conll:TOKEN "10"; conll:LEMMA "10"; conll:LEMPOS "10-f"; conll:HEAD :s1_0; conll:POS "CD"; nif:nextWord :s1_160 .
-:s1_160 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_161 .
-:s1_161 a nif:Word; conll:WORD "According"; conll:TOKEN "According"; conll:LEMMA "accord"; conll:LEMPOS "accord-v"; conll:HEAD :s1_0; conll:POS "VBG"; nif:nextWord :s1_162 .
-:s1_162 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_163 .
-:s1_163 a nif:Word; conll:WORD "him"; conll:TOKEN "him"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_164 .
-:s1_164 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_165 .
-:s1_165 a nif:Word; conll:WORD "statelessness"; conll:TOKEN "statelessness"; conll:LEMMA "statelessness"; conll:LEMPOS "statelessness-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_166 .
-:s1_166 a nif:Word; conll:WORD "challenges"; conll:TOKEN "challenges"; conll:LEMMA "challenge"; conll:LEMPOS "challenge-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_167 .
-:s1_167 a nif:Word; conll:WORD "both"; conll:TOKEN "both"; conll:LEMMA "both"; conll:LEMPOS "both-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_168 .
-:s1_168 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_169 .
-:s1_169 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_170 .
-:s1_170 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_171 .
-:s1_171 a nif:Word; conll:WORD "origin"; conll:TOKEN "origin"; conll:LEMMA "origin"; conll:LEMPOS "origin-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_172 .
-:s1_172 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_173 .
-:s1_173 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_174 .
-:s1_174 a nif:Word; conll:WORD "receiving"; conll:TOKEN "receiving"; conll:LEMMA "receive"; conll:LEMPOS "receive-v"; conll:HEAD :s1_0; conll:POS "VBG"; nif:nextWord :s1_175 .
-:s1_175 a nif:Word; conll:WORD "churches"; conll:TOKEN "churches"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_176 .
-:s1_176 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s1_0; conll:POS ","; nif:nextWord :s1_177 .
-:s1_177 a nif:Word; conll:WORD "stressing"; conll:TOKEN "stressing"; conll:LEMMA "stress"; conll:LEMPOS "stress-v"; conll:HEAD :s1_0; conll:POS "VBG"; nif:nextWord :s1_178 .
-:s1_178 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_179 .
-:s1_179 a nif:Word; conll:WORD "need"; conll:TOKEN "need"; conll:LEMMA "need"; conll:LEMPOS "need-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_180 .
-:s1_180 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_181 .
-:s1_181 a nif:Word; conll:WORD "a"; conll:TOKEN "a"; conll:LEMMA "a"; conll:LEMPOS "a-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_182 .
-:s1_182 a nif:Word; conll:WORD "vigorous"; conll:TOKEN "vigorous"; conll:LEMMA "vigorous"; conll:LEMPOS "vigorous-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_183 .
-:s1_183 a nif:Word; conll:WORD "campaign"; conll:TOKEN "campaign"; conll:LEMMA "campaign"; conll:LEMPOS "campaign-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_184 .
-:s1_184 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_185 .
-:s1_185 a nif:Word; conll:WORD "mainstream"; conll:TOKEN "mainstream"; conll:LEMMA "mainstream"; conll:LEMPOS "mainstream-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_186 .
-:s1_186 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_187 .
-:s1_187 a nif:Word; conll:WORD "discourse"; conll:TOKEN "discourse"; conll:LEMMA "discourse"; conll:LEMPOS "discourse-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_188 .
-:s1_188 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_189 .
-:s1_189 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_190 .
-:s1_190 a nif:Word; conll:WORD "issue"; conll:TOKEN "issue"; conll:LEMMA "issue"; conll:LEMPOS "issue-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_191 .
-:s1_191 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "."; nif:nextWord :s1_192 .
-:s1_192 a nif:Word; conll:WORD "He"; conll:TOKEN "He"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_193 .
-:s1_193 a nif:Word; conll:WORD "also"; conll:TOKEN "also"; conll:LEMMA "also"; conll:LEMPOS "also-r"; conll:HEAD :s1_0; conll:POS "RB"; nif:nextWord :s1_194 .
-:s1_194 a nif:Word; conll:WORD "emphasized"; conll:TOKEN "emphasized"; conll:LEMMA "emphasize"; conll:LEMPOS "emphasize-v"; conll:HEAD :s1_0; conll:POS "VBD"; nif:nextWord :s1_195 .
-:s1_195 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_196 .
-:s1_196 a nif:Word; conll:WORD "need"; conll:TOKEN "need"; conll:LEMMA "need"; conll:LEMPOS "need-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_197 .
-:s1_197 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_198 .
-:s1_198 a nif:Word; conll:WORD "policies"; conll:TOKEN "policies"; conll:LEMMA "policy"; conll:LEMPOS "policy-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_199 .
-:s1_199 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_200 .
-:s1_200 a nif:Word; conll:WORD "laws"; conll:TOKEN "laws"; conll:LEMMA "law"; conll:LEMPOS "law-n"; conll:HEAD :s1_0; conll:POS "NNS"; nif:nextWord :s1_201 .
-:s1_201 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_202 .
-:s1_202 a nif:Word; conll:WORD "recognize"; conll:TOKEN "recognize"; conll:LEMMA "recognize"; conll:LEMPOS "recognize-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_203 .
-:s1_203 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_204 .
-:s1_204 a nif:Word; conll:WORD "promote"; conll:TOKEN "promote"; conll:LEMMA "promote"; conll:LEMPOS "promote-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_205 .
-:s1_205 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "``"; conll:LEMMA "``"; conll:LEMPOS "``-x"; conll:HEAD :s1_0; conll:POS "``"; nif:nextWord :s1_206 .
-:s1_206 a nif:Word; conll:WORD "just"; conll:TOKEN "just"; conll:LEMMA "just"; conll:LEMPOS "just-r"; conll:HEAD :s1_0; conll:POS "RB"; nif:nextWord :s1_207 .
-:s1_207 a nif:Word; conll:WORD "treatment"; conll:TOKEN "treatment"; conll:LEMMA "treatment"; conll:LEMPOS "treatment-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_208 .
-:s1_208 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "''"; conll:LEMMA "''"; conll:LEMPOS "''-x"; conll:HEAD :s1_0; conll:POS "''"; nif:nextWord :s1_209 .
-:s1_209 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s1_0; conll:POS "CC"; nif:nextWord :s1_210 .
-:s1_210 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s1_0; conll:POS "TO"; nif:nextWord :s1_211 .
-:s1_211 a nif:Word; conll:WORD "provide"; conll:TOKEN "provide"; conll:LEMMA "provide"; conll:LEMPOS "provide-v"; conll:HEAD :s1_0; conll:POS "VB"; nif:nextWord :s1_212 .
-:s1_212 a nif:Word; conll:WORD "basic"; conll:TOKEN "basic"; conll:LEMMA "basic"; conll:LEMPOS "basic-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_213 .
-:s1_213 a nif:Word; conll:WORD "material"; conll:TOKEN "material"; conll:LEMMA "material"; conll:LEMPOS "material-n"; conll:HEAD :s1_0; conll:POS "NN"; nif:nextWord :s1_214 .
-:s1_214 a nif:Word; conll:WORD "needs"; conll:TOKEN "needs"; conll:LEMMA "need"; conll:LEMPOS "need-v"; conll:HEAD :s1_0; conll:POS "VBZ"; nif:nextWord :s1_215 .
-:s1_215 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s1_0; conll:POS "IN"; nif:nextWord :s1_216 .
-:s1_216 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s1_0; conll:POS "PRP"; nif:nextWord :s1_217 .
-:s1_217 a nif:Word; conll:WORD "especially"; conll:TOKEN "especially"; conll:LEMMA "especially"; conll:LEMPOS "especially-r"; conll:HEAD :s1_0; conll:POS "RB"; nif:nextWord :s1_218 .
-:s1_218 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s1_0; conll:POS "DT"; nif:nextWord :s1_219 .
-:s1_219 a nif:Word; conll:WORD "young"; conll:TOKEN "young"; conll:LEMMA "young"; conll:LEMPOS "young-j"; conll:HEAD :s1_0; conll:POS "JJ"; nif:nextWord :s1_220 .
-:s1_220 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+:s1_34 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s1_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/2e057f83ccd7473db8bc28c7ffc4875d#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s1_0 nif:nextSentence :s2_0 .
+:s2_0 a nif:Sentence .
+:s2_1 a nif:Word; conll:WORD "Restituto"; conll:TOKEN "Restituto"; conll:LEMMA "Restituto"; conll:LEMPOS "Restituto-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_2 .
+:s2_2 a nif:Word; conll:WORD "Ogsimer"; conll:TOKEN "Ogsimer"; conll:LEMMA "Ogsimer"; conll:LEMPOS "Ogsimer-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_3 .
+:s2_3 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s2_0; conll:POS ","; nif:nextWord :s2_4 .
+:s2_4 a nif:Word; conll:WORD "executive"; conll:TOKEN "executive"; conll:LEMMA "executive"; conll:LEMPOS "executive-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_5 .
+:s2_5 a nif:Word; conll:WORD "secretary"; conll:TOKEN "secretary"; conll:LEMMA "secretary"; conll:LEMPOS "secretary-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_6 .
+:s2_6 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_7 .
+:s2_7 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_8 .
+:s2_8 a nif:Word; conll:WORD "bishops"; conll:TOKEN "bishops"; conll:LEMMA "bishop"; conll:LEMPOS "bishop-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_9 .
+:s2_9 a nif:Word; conll:WORD "'"; conll:TOKEN "'"; conll:LEMMA "'"; conll:LEMPOS "'-p"; conll:HEAD :s2_0; conll:POS "POS"; nif:nextWord :s2_10 .
+:s2_10 a nif:Word; conll:WORD "Commission"; conll:TOKEN "Commission"; conll:LEMMA "commission"; conll:LEMPOS "commission-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_11 .
+:s2_11 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_12 .
+:s2_12 a nif:Word; conll:WORD "Migrants"; conll:TOKEN "Migrants"; conll:LEMMA "Migrants"; conll:LEMPOS "Migrants-e"; conll:HEAD :s2_0; conll:POS "NNPS"; nif:nextWord :s2_13 .
+:s2_13 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s2_0; conll:POS "CC"; nif:nextWord :s2_14 .
+:s2_14 a nif:Word; conll:WORD "Itinerant"; conll:TOKEN "Itinerant"; conll:LEMMA "Itinerant"; conll:LEMPOS "Itinerant-e"; conll:HEAD :s2_0; conll:POS "NNP"; nif:nextWord :s2_15 .
+:s2_15 a nif:Word; conll:WORD "People"; conll:TOKEN "People"; conll:LEMMA "People"; conll:LEMPOS "People-e"; conll:HEAD :s2_0; conll:POS "NNPS"; nif:nextWord :s2_16 .
+:s2_16 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s2_0; conll:POS ","; nif:nextWord :s2_17 .
+:s2_17 a nif:Word; conll:WORD "said"; conll:TOKEN "said"; conll:LEMMA "say"; conll:LEMPOS "say-v"; conll:HEAD :s2_0; conll:POS "VBD"; nif:nextWord :s2_18 .
+:s2_18 a nif:Word; conll:WORD "that"; conll:TOKEN "that"; conll:LEMMA "that"; conll:LEMPOS "that-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_19 .
+:s2_19 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s2_0; conll:POS "NN"; nif:nextWord :s2_20 .
+:s2_20 a nif:Word; conll:WORD "people"; conll:TOKEN "people"; conll:LEMMA "people"; conll:LEMPOS "people-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_21 .
+:s2_21 a nif:Word; conll:WORD "must"; conll:TOKEN "must"; conll:LEMMA "must"; conll:LEMPOS "must-v"; conll:HEAD :s2_0; conll:POS "MD"; nif:nextWord :s2_22 .
+:s2_22 a nif:Word; conll:WORD "advocate"; conll:TOKEN "advocate"; conll:LEMMA "advocate"; conll:LEMPOS "advocate-v"; conll:HEAD :s2_0; conll:POS "VB"; nif:nextWord :s2_23 .
+:s2_23 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_24 .
+:s2_24 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s2_0; conll:POS "DT"; nif:nextWord :s2_25 .
+:s2_25 a nif:Word; conll:WORD "rights"; conll:TOKEN "rights"; conll:LEMMA "rights"; conll:LEMPOS "rights-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_26 .
+:s2_26 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s2_0; conll:POS "IN"; nif:nextWord :s2_27 .
+:s2_27 a nif:Word; conll:WORD "stateless"; conll:TOKEN "stateless"; conll:LEMMA "stateless"; conll:LEMPOS "stateless-j"; conll:HEAD :s2_0; conll:POS "JJ"; nif:nextWord :s2_28 .
+:s2_28 a nif:Word; conll:WORD "people"; conll:TOKEN "people"; conll:LEMMA "people"; conll:LEMPOS "people-n"; conll:HEAD :s2_0; conll:POS "NNS"; nif:nextWord :s2_29 .
+:s2_29 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s2_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/2e057f83ccd7473db8bc28c7ffc4875d#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s2_0 nif:nextSentence :s3_0 .
+:s3_0 a nif:Sentence .
+:s3_1 a nif:Word; conll:WORD "Just"; conll:TOKEN "Just"; conll:LEMMA "just"; conll:LEMPOS "just-r"; conll:HEAD :s3_0; conll:POS "RB"; nif:nextWord :s3_2 .
+:s3_2 a nif:Word; conll:WORD "like"; conll:TOKEN "like"; conll:LEMMA "like"; conll:LEMPOS "like-i"; conll:HEAD :s3_0; conll:POS "IN"; nif:nextWord :s3_3 .
+:s3_3 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s3_0; conll:POS "DT"; nif:nextWord :s3_4 .
+:s3_4 a nif:Word; conll:WORD "way"; conll:TOKEN "way"; conll:LEMMA "way"; conll:LEMPOS "way-n"; conll:HEAD :s3_0; conll:POS "NN"; nif:nextWord :s3_5 .
+:s3_5 a nif:Word; conll:WORD "it"; conll:TOKEN "it"; conll:LEMMA "it"; conll:LEMPOS "it-p"; conll:HEAD :s3_0; conll:POS "PRP"; nif:nextWord :s3_6 .
+:s3_6 a nif:Word; conll:WORD "responds"; conll:TOKEN "responds"; conll:LEMMA "respond"; conll:LEMPOS "respond-v"; conll:HEAD :s3_0; conll:POS "VBZ"; nif:nextWord :s3_7 .
+:s3_7 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s3_0; conll:POS "TO"; nif:nextWord :s3_8 .
+:s3_8 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s3_0; conll:POS "DT"; nif:nextWord :s3_9 .
+:s3_9 a nif:Word; conll:WORD "asylum"; conll:TOKEN "asylum"; conll:LEMMA "asylum"; conll:LEMPOS "asylum-n"; conll:HEAD :s3_0; conll:POS "NN"; nif:nextWord :s3_10 .
+:s3_10 a nif:Word; conll:WORD "seekers"; conll:TOKEN "seekers"; conll:LEMMA "seeker"; conll:LEMPOS "seeker-n"; conll:HEAD :s3_0; conll:POS "NNS"; nif:nextWord :s3_11 .
+:s3_11 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s3_0; conll:POS "CC"; nif:nextWord :s3_12 .
+:s3_12 a nif:Word; conll:WORD "refugees"; conll:TOKEN "refugees"; conll:LEMMA "refugee"; conll:LEMPOS "refugee-n"; conll:HEAD :s3_0; conll:POS "NNS"; nif:nextWord :s3_13 .
+:s3_13 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s3_0; conll:POS "IN"; nif:nextWord :s3_14 .
+:s3_14 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s3_0; conll:POS "DT"; nif:nextWord :s3_15 .
+:s3_15 a nif:Word; conll:WORD "Philippines"; conll:TOKEN "Philippines"; conll:LEMMA "Philippines"; conll:LEMPOS "Philippines-e"; conll:HEAD :s3_0; conll:POS "NNPS"; nif:nextWord :s3_16 .
+:s3_16 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s3_0; conll:POS ","; nif:nextWord :s3_17 .
+:s3_17 a nif:Word; conll:WORD "he"; conll:TOKEN "he"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s3_0; conll:POS "PRP"; nif:nextWord :s3_18 .
+:s3_18 a nif:Word; conll:WORD "said"; conll:TOKEN "said"; conll:LEMMA "say"; conll:LEMPOS "say-v"; conll:HEAD :s3_0; conll:POS "VBD"; nif:nextWord :s3_19 .
+:s3_19 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s3_0; conll:POS "DT"; nif:nextWord :s3_20 .
+:s3_20 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s3_0; conll:POS "NN"; nif:nextWord :s3_21 .
+:s3_21 a nif:Word; conll:WORD "is"; conll:TOKEN "is"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s3_0; conll:POS "VBZ"; nif:nextWord :s3_22 .
+:s3_22 a nif:Word; conll:WORD "looking"; conll:TOKEN "looking"; conll:LEMMA "look"; conll:LEMPOS "look-v"; conll:HEAD :s3_0; conll:POS "VBG"; nif:nextWord :s3_23 .
+:s3_23 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s3_0; conll:POS "CC"; nif:nextWord :s3_24 .
+:s3_24 a nif:Word; conll:WORD "must"; conll:TOKEN "must"; conll:LEMMA "must"; conll:LEMPOS "must-v"; conll:HEAD :s3_0; conll:POS "MD"; nif:nextWord :s3_25 .
+:s3_25 a nif:Word; conll:WORD "continue"; conll:TOKEN "continue"; conll:LEMMA "continue"; conll:LEMPOS "continue-v"; conll:HEAD :s3_0; conll:POS "VB"; nif:nextWord :s3_26 .
+:s3_26 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s3_0; conll:POS "TO"; nif:nextWord :s3_27 .
+:s3_27 a nif:Word; conll:WORD "find"; conll:TOKEN "find"; conll:LEMMA "find"; conll:LEMPOS "find-v"; conll:HEAD :s3_0; conll:POS "VB"; nif:nextWord :s3_28 .
+:s3_28 a nif:Word; conll:WORD "ways"; conll:TOKEN "ways"; conll:LEMMA "way"; conll:LEMPOS "way-n"; conll:HEAD :s3_0; conll:POS "NNS"; nif:nextWord :s3_29 .
+:s3_29 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s3_0; conll:POS "TO"; nif:nextWord :s3_30 .
+:s3_30 a nif:Word; conll:WORD "assist"; conll:TOKEN "assist"; conll:LEMMA "assist"; conll:LEMPOS "assist-v"; conll:HEAD :s3_0; conll:POS "VB"; nif:nextWord :s3_31 .
+:s3_31 a nif:Word; conll:WORD "these"; conll:TOKEN "these"; conll:LEMMA "these"; conll:LEMPOS "these-d"; conll:HEAD :s3_0; conll:POS "DT"; nif:nextWord :s3_32 .
+:s3_32 a nif:Word; conll:WORD "children"; conll:TOKEN "children"; conll:LEMMA "child"; conll:LEMPOS "child-n"; conll:HEAD :s3_0; conll:POS "NNS"; nif:nextWord :s3_33 .
+:s3_33 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s3_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/2e057f83ccd7473db8bc28c7ffc4875d#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s3_0 nif:nextSentence :s4_0 .
+:s4_0 a nif:Sentence .
+:s4_1 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "``"; conll:LEMMA "``"; conll:LEMPOS "``-x"; conll:HEAD :s4_0; conll:POS "``"; nif:nextWord :s4_2 .
+:s4_2 a nif:Word; conll:WORD "We"; conll:TOKEN "We"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_3 .
+:s4_3 a nif:Word; conll:WORD "are"; conll:TOKEN "are"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s4_0; conll:POS "VBP"; nif:nextWord :s4_4 .
+:s4_4 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s4_0; conll:POS "DT"; nif:nextWord :s4_5 .
+:s4_5 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s4_0; conll:POS "NN"; nif:nextWord :s4_6 .
+:s4_6 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s4_0; conll:POS ","; nif:nextWord :s4_7 .
+:s4_7 a nif:Word; conll:WORD "let"; conll:TOKEN "let"; conll:LEMMA "let"; conll:LEMPOS "let-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_8 .
+:s4_8 a nif:Word; conll:WORD "us"; conll:TOKEN "us"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_9 .
+:s4_9 a nif:Word; conll:WORD "act"; conll:TOKEN "act"; conll:LEMMA "act"; conll:LEMPOS "act-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_10 .
+:s4_10 a nif:Word; conll:WORD "now"; conll:TOKEN "now"; conll:LEMMA "now"; conll:LEMPOS "now-r"; conll:HEAD :s4_0; conll:POS "RB"; nif:nextWord :s4_11 .
+:s4_11 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s4_0; conll:POS ","; nif:nextWord :s4_12 .
+:s4_12 a nif:Word; conll:WORD "seek"; conll:TOKEN "seek"; conll:LEMMA "seek"; conll:LEMPOS "seek-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_13 .
+:s4_13 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_14 .
+:s4_14 a nif:Word; conll:WORD "out"; conll:TOKEN "out"; conll:LEMMA "out"; conll:LEMPOS "out-x"; conll:HEAD :s4_0; conll:POS "RP"; nif:nextWord :s4_15 .
+:s4_15 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s4_0; conll:POS "CC"; nif:nextWord :s4_16 .
+:s4_16 a nif:Word; conll:WORD "extend"; conll:TOKEN "extend"; conll:LEMMA "extend"; conll:LEMPOS "extend-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_17 .
+:s4_17 a nif:Word; conll:WORD "our"; conll:TOKEN "our"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s4_0; conll:POS "PRP$"; nif:nextWord :s4_18 .
+:s4_18 a nif:Word; conll:WORD "hands"; conll:TOKEN "hands"; conll:LEMMA "hand"; conll:LEMPOS "hand-n"; conll:HEAD :s4_0; conll:POS "NNS"; nif:nextWord :s4_19 .
+:s4_19 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s4_0; conll:POS "DT"; nif:nextWord :s4_20 .
+:s4_20 a nif:Word; conll:WORD "farthest"; conll:TOKEN "farthest"; conll:LEMMA "farthest"; conll:LEMPOS "farthest-j"; conll:HEAD :s4_0; conll:POS "JJS"; nif:nextWord :s4_21 .
+:s4_21 a nif:Word; conll:WORD "it"; conll:TOKEN "it"; conll:LEMMA "it"; conll:LEMPOS "it-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_22 .
+:s4_22 a nif:Word; conll:WORD "can"; conll:TOKEN "can"; conll:LEMMA "can"; conll:LEMPOS "can-v"; conll:HEAD :s4_0; conll:POS "MD"; nif:nextWord :s4_23 .
+:s4_23 a nif:Word; conll:WORD "reach"; conll:TOKEN "reach"; conll:LEMMA "reach"; conll:LEMPOS "reach-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_24 .
+:s4_24 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s4_0; conll:POS "TO"; nif:nextWord :s4_25 .
+:s4_25 a nif:Word; conll:WORD "care"; conll:TOKEN "care"; conll:LEMMA "care"; conll:LEMPOS "care-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_26 .
+:s4_26 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s4_0; conll:POS "IN"; nif:nextWord :s4_27 .
+:s4_27 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_28 .
+:s4_28 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s4_0; conll:POS ","; nif:nextWord :s4_29 .
+:s4_29 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s4_0; conll:POS "TO"; nif:nextWord :s4_30 .
+:s4_30 a nif:Word; conll:WORD "embrace"; conll:TOKEN "embrace"; conll:LEMMA "embrace"; conll:LEMPOS "embrace-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_31 .
+:s4_31 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_32 .
+:s4_32 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s4_0; conll:POS "CC"; nif:nextWord :s4_33 .
+:s4_33 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s4_0; conll:POS "TO"; nif:nextWord :s4_34 .
+:s4_34 a nif:Word; conll:WORD "make"; conll:TOKEN "make"; conll:LEMMA "make"; conll:LEMPOS "make-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_35 .
+:s4_35 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s4_0; conll:POS "PRP"; nif:nextWord :s4_36 .
+:s4_36 a nif:Word; conll:WORD "feel"; conll:TOKEN "feel"; conll:LEMMA "feel"; conll:LEMPOS "feel-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_37 .
+:s4_37 a nif:Word; conll:WORD "loved"; conll:TOKEN "loved"; conll:LEMMA "love"; conll:LEMPOS "love-v"; conll:HEAD :s4_0; conll:POS "VBN"; nif:nextWord :s4_38 .
+:s4_38 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s4_0; conll:POS "CC"; nif:nextWord :s4_39 .
+:s4_39 a nif:Word; conll:WORD "recognize"; conll:TOKEN "recognize"; conll:LEMMA "recognize"; conll:LEMPOS "recognize-v"; conll:HEAD :s4_0; conll:POS "VBP"; nif:nextWord :s4_40 .
+:s4_40 a nif:Word; conll:WORD "their"; conll:TOKEN "their"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s4_0; conll:POS "PRP$"; nif:nextWord :s4_41 .
+:s4_41 a nif:Word; conll:WORD "existence"; conll:TOKEN "existence"; conll:LEMMA "existence"; conll:LEMPOS "existence-n"; conll:HEAD :s4_0; conll:POS "NN"; nif:nextWord :s4_42 .
+:s4_42 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s4_0; conll:POS "IN"; nif:nextWord :s4_43 .
+:s4_43 a nif:Word; conll:WORD "our"; conll:TOKEN "our"; conll:LEMMA "we"; conll:LEMPOS "we-p"; conll:HEAD :s4_0; conll:POS "PRP$"; nif:nextWord :s4_44 .
+:s4_44 a nif:Word; conll:WORD "midst"; conll:TOKEN "midst"; conll:LEMMA "midst"; conll:LEMPOS "midst-n"; conll:HEAD :s4_0; conll:POS "NN"; nif:nextWord :s4_45 .
+:s4_45 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s4_0; conll:POS ","; nif:nextWord :s4_46 .
+:s4_46 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "''"; conll:LEMMA "''"; conll:LEMPOS "''-x"; conll:HEAD :s4_0; conll:POS "''"; nif:nextWord :s4_47 .
+:s4_47 a nif:Word; conll:WORD "Ogsimer"; conll:TOKEN "Ogsimer"; conll:LEMMA "Ogsimer"; conll:LEMPOS "Ogsimer-e"; conll:HEAD :s4_0; conll:POS "NNP"; nif:nextWord :s4_48 .
+:s4_48 a nif:Word; conll:WORD "wrote"; conll:TOKEN "wrote"; conll:LEMMA "write"; conll:LEMPOS "write-v"; conll:HEAD :s4_0; conll:POS "VBD"; nif:nextWord :s4_49 .
+:s4_49 a nif:Word; conll:WORD "in"; conll:TOKEN "in"; conll:LEMMA "in"; conll:LEMPOS "in-i"; conll:HEAD :s4_0; conll:POS "IN"; nif:nextWord :s4_50 .
+:s4_50 a nif:Word; conll:WORD "his"; conll:TOKEN "his"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s4_0; conll:POS "PRP$"; nif:nextWord :s4_51 .
+:s4_51 a nif:Word; conll:WORD "message"; conll:TOKEN "message"; conll:LEMMA "message"; conll:LEMPOS "message-n"; conll:HEAD :s4_0; conll:POS "NN"; nif:nextWord :s4_52 .
+:s4_52 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s4_0; conll:POS "IN"; nif:nextWord :s4_53 .
+:s4_53 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s4_0; conll:POS "DT"; nif:nextWord :s4_54 .
+:s4_54 a nif:Word; conll:WORD "National"; conll:TOKEN "National"; conll:LEMMA "National"; conll:LEMPOS "National-e"; conll:HEAD :s4_0; conll:POS "NNP"; nif:nextWord :s4_55 .
+:s4_55 a nif:Word; conll:WORD "Migrants"; conll:TOKEN "Migrants"; conll:LEMMA "Migrants"; conll:LEMPOS "Migrants-e"; conll:HEAD :s4_0; conll:POS "NNPS"; nif:nextWord :s4_56 .
+:s4_56 a nif:Word; conll:WORD "'"; conll:TOKEN "'"; conll:LEMMA "'"; conll:LEMPOS "'-p"; conll:HEAD :s4_0; conll:POS "POS"; nif:nextWord :s4_57 .
+:s4_57 a nif:Word; conll:WORD "Sunday"; conll:TOKEN "Sunday"; conll:LEMMA "Sunday"; conll:LEMPOS "Sunday-e"; conll:HEAD :s4_0; conll:POS "NNP"; nif:nextWord :s4_58 .
+:s4_58 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s4_0; conll:POS "TO"; nif:nextWord :s4_59 .
+:s4_59 a nif:Word; conll:WORD "be"; conll:TOKEN "be"; conll:LEMMA "be"; conll:LEMPOS "be-v"; conll:HEAD :s4_0; conll:POS "VB"; nif:nextWord :s4_60 .
+:s4_60 a nif:Word; conll:WORD "observed"; conll:TOKEN "observed"; conll:LEMMA "observe"; conll:LEMPOS "observe-v"; conll:HEAD :s4_0; conll:POS "VBN"; nif:nextWord :s4_61 .
+:s4_61 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s4_0; conll:POS "IN"; nif:nextWord :s4_62 .
+:s4_62 a nif:Word; conll:WORD "March"; conll:TOKEN "March"; conll:LEMMA "March"; conll:LEMPOS "March-e"; conll:HEAD :s4_0; conll:POS "NNP"; nif:nextWord :s4_63 .
+:s4_63 a nif:Word; conll:WORD "10"; conll:TOKEN "10"; conll:LEMMA "10"; conll:LEMPOS "10-f"; conll:HEAD :s4_0; conll:POS "CD"; nif:nextWord :s4_64 .
+:s4_64 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s4_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/2e057f83ccd7473db8bc28c7ffc4875d#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s4_0 nif:nextSentence :s5_0 .
+:s5_0 a nif:Sentence .
+:s5_1 a nif:Word; conll:WORD "According"; conll:TOKEN "According"; conll:LEMMA "accord"; conll:LEMPOS "accord-v"; conll:HEAD :s5_0; conll:POS "VBG"; nif:nextWord :s5_2 .
+:s5_2 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s5_0; conll:POS "TO"; nif:nextWord :s5_3 .
+:s5_3 a nif:Word; conll:WORD "him"; conll:TOKEN "him"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s5_0; conll:POS "PRP"; nif:nextWord :s5_4 .
+:s5_4 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s5_0; conll:POS ","; nif:nextWord :s5_5 .
+:s5_5 a nif:Word; conll:WORD "statelessness"; conll:TOKEN "statelessness"; conll:LEMMA "statelessness"; conll:LEMPOS "statelessness-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_6 .
+:s5_6 a nif:Word; conll:WORD "challenges"; conll:TOKEN "challenges"; conll:LEMMA "challenge"; conll:LEMPOS "challenge-n"; conll:HEAD :s5_0; conll:POS "NNS"; nif:nextWord :s5_7 .
+:s5_7 a nif:Word; conll:WORD "both"; conll:TOKEN "both"; conll:LEMMA "both"; conll:LEMPOS "both-c"; conll:HEAD :s5_0; conll:POS "CC"; nif:nextWord :s5_8 .
+:s5_8 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s5_0; conll:POS "DT"; nif:nextWord :s5_9 .
+:s5_9 a nif:Word; conll:WORD "church"; conll:TOKEN "church"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_10 .
+:s5_10 a nif:Word; conll:WORD "of"; conll:TOKEN "of"; conll:LEMMA "of"; conll:LEMPOS "of-i"; conll:HEAD :s5_0; conll:POS "IN"; nif:nextWord :s5_11 .
+:s5_11 a nif:Word; conll:WORD "origin"; conll:TOKEN "origin"; conll:LEMMA "origin"; conll:LEMPOS "origin-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_12 .
+:s5_12 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s5_0; conll:POS "CC"; nif:nextWord :s5_13 .
+:s5_13 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s5_0; conll:POS "DT"; nif:nextWord :s5_14 .
+:s5_14 a nif:Word; conll:WORD "receiving"; conll:TOKEN "receiving"; conll:LEMMA "receive"; conll:LEMPOS "receive-v"; conll:HEAD :s5_0; conll:POS "VBG"; nif:nextWord :s5_15 .
+:s5_15 a nif:Word; conll:WORD "churches"; conll:TOKEN "churches"; conll:LEMMA "church"; conll:LEMPOS "church-n"; conll:HEAD :s5_0; conll:POS "NNS"; nif:nextWord :s5_16 .
+:s5_16 a nif:Word; conll:WORD ","; conll:TOKEN ","; conll:LEMMA ","; conll:LEMPOS ",-x"; conll:HEAD :s5_0; conll:POS ","; nif:nextWord :s5_17 .
+:s5_17 a nif:Word; conll:WORD "stressing"; conll:TOKEN "stressing"; conll:LEMMA "stress"; conll:LEMPOS "stress-v"; conll:HEAD :s5_0; conll:POS "VBG"; nif:nextWord :s5_18 .
+:s5_18 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s5_0; conll:POS "DT"; nif:nextWord :s5_19 .
+:s5_19 a nif:Word; conll:WORD "need"; conll:TOKEN "need"; conll:LEMMA "need"; conll:LEMPOS "need-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_20 .
+:s5_20 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s5_0; conll:POS "IN"; nif:nextWord :s5_21 .
+:s5_21 a nif:Word; conll:WORD "a"; conll:TOKEN "a"; conll:LEMMA "a"; conll:LEMPOS "a-d"; conll:HEAD :s5_0; conll:POS "DT"; nif:nextWord :s5_22 .
+:s5_22 a nif:Word; conll:WORD "vigorous"; conll:TOKEN "vigorous"; conll:LEMMA "vigorous"; conll:LEMPOS "vigorous-j"; conll:HEAD :s5_0; conll:POS "JJ"; nif:nextWord :s5_23 .
+:s5_23 a nif:Word; conll:WORD "campaign"; conll:TOKEN "campaign"; conll:LEMMA "campaign"; conll:LEMPOS "campaign-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_24 .
+:s5_24 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s5_0; conll:POS "TO"; nif:nextWord :s5_25 .
+:s5_25 a nif:Word; conll:WORD "mainstream"; conll:TOKEN "mainstream"; conll:LEMMA "mainstream"; conll:LEMPOS "mainstream-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_26 .
+:s5_26 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s5_0; conll:POS "DT"; nif:nextWord :s5_27 .
+:s5_27 a nif:Word; conll:WORD "discourse"; conll:TOKEN "discourse"; conll:LEMMA "discourse"; conll:LEMPOS "discourse-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_28 .
+:s5_28 a nif:Word; conll:WORD "on"; conll:TOKEN "on"; conll:LEMMA "on"; conll:LEMPOS "on-i"; conll:HEAD :s5_0; conll:POS "IN"; nif:nextWord :s5_29 .
+:s5_29 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s5_0; conll:POS "DT"; nif:nextWord :s5_30 .
+:s5_30 a nif:Word; conll:WORD "issue"; conll:TOKEN "issue"; conll:LEMMA "issue"; conll:LEMPOS "issue-n"; conll:HEAD :s5_0; conll:POS "NN"; nif:nextWord :s5_31 .
+:s5_31 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s5_0; conll:POS "." .
+
+@prefix : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/2e057f83ccd7473db8bc28c7ffc4875d#> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+:s5_0 nif:nextSentence :s6_0 .
+:s6_0 a nif:Sentence .
+:s6_1 a nif:Word; conll:WORD "He"; conll:TOKEN "He"; conll:LEMMA "he"; conll:LEMPOS "he-p"; conll:HEAD :s6_0; conll:POS "PRP"; nif:nextWord :s6_2 .
+:s6_2 a nif:Word; conll:WORD "also"; conll:TOKEN "also"; conll:LEMMA "also"; conll:LEMPOS "also-r"; conll:HEAD :s6_0; conll:POS "RB"; nif:nextWord :s6_3 .
+:s6_3 a nif:Word; conll:WORD "emphasized"; conll:TOKEN "emphasized"; conll:LEMMA "emphasize"; conll:LEMPOS "emphasize-v"; conll:HEAD :s6_0; conll:POS "VBD"; nif:nextWord :s6_4 .
+:s6_4 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s6_0; conll:POS "DT"; nif:nextWord :s6_5 .
+:s6_5 a nif:Word; conll:WORD "need"; conll:TOKEN "need"; conll:LEMMA "need"; conll:LEMPOS "need-n"; conll:HEAD :s6_0; conll:POS "NN"; nif:nextWord :s6_6 .
+:s6_6 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s6_0; conll:POS "IN"; nif:nextWord :s6_7 .
+:s6_7 a nif:Word; conll:WORD "policies"; conll:TOKEN "policies"; conll:LEMMA "policy"; conll:LEMPOS "policy-n"; conll:HEAD :s6_0; conll:POS "NNS"; nif:nextWord :s6_8 .
+:s6_8 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s6_0; conll:POS "CC"; nif:nextWord :s6_9 .
+:s6_9 a nif:Word; conll:WORD "laws"; conll:TOKEN "laws"; conll:LEMMA "law"; conll:LEMPOS "law-n"; conll:HEAD :s6_0; conll:POS "NNS"; nif:nextWord :s6_10 .
+:s6_10 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s6_0; conll:POS "TO"; nif:nextWord :s6_11 .
+:s6_11 a nif:Word; conll:WORD "recognize"; conll:TOKEN "recognize"; conll:LEMMA "recognize"; conll:LEMPOS "recognize-v"; conll:HEAD :s6_0; conll:POS "VB"; nif:nextWord :s6_12 .
+:s6_12 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s6_0; conll:POS "CC"; nif:nextWord :s6_13 .
+:s6_13 a nif:Word; conll:WORD "promote"; conll:TOKEN "promote"; conll:LEMMA "promote"; conll:LEMPOS "promote-v"; conll:HEAD :s6_0; conll:POS "VB"; nif:nextWord :s6_14 .
+:s6_14 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "``"; conll:LEMMA "``"; conll:LEMPOS "``-x"; conll:HEAD :s6_0; conll:POS "``"; nif:nextWord :s6_15 .
+:s6_15 a nif:Word; conll:WORD "just"; conll:TOKEN "just"; conll:LEMMA "just"; conll:LEMPOS "just-r"; conll:HEAD :s6_0; conll:POS "RB"; nif:nextWord :s6_16 .
+:s6_16 a nif:Word; conll:WORD "treatment"; conll:TOKEN "treatment"; conll:LEMMA "treatment"; conll:LEMPOS "treatment-n"; conll:HEAD :s6_0; conll:POS "NN"; nif:nextWord :s6_17 .
+:s6_17 a nif:Word; conll:WORD "&quot;"; conll:TOKEN "''"; conll:LEMMA "''"; conll:LEMPOS "''-x"; conll:HEAD :s6_0; conll:POS "''"; nif:nextWord :s6_18 .
+:s6_18 a nif:Word; conll:WORD "and"; conll:TOKEN "and"; conll:LEMMA "and"; conll:LEMPOS "and-c"; conll:HEAD :s6_0; conll:POS "CC"; nif:nextWord :s6_19 .
+:s6_19 a nif:Word; conll:WORD "to"; conll:TOKEN "to"; conll:LEMMA "to"; conll:LEMPOS "to-t"; conll:HEAD :s6_0; conll:POS "TO"; nif:nextWord :s6_20 .
+:s6_20 a nif:Word; conll:WORD "provide"; conll:TOKEN "provide"; conll:LEMMA "provide"; conll:LEMPOS "provide-v"; conll:HEAD :s6_0; conll:POS "VB"; nif:nextWord :s6_21 .
+:s6_21 a nif:Word; conll:WORD "basic"; conll:TOKEN "basic"; conll:LEMMA "basic"; conll:LEMPOS "basic-j"; conll:HEAD :s6_0; conll:POS "JJ"; nif:nextWord :s6_22 .
+:s6_22 a nif:Word; conll:WORD "material"; conll:TOKEN "material"; conll:LEMMA "material"; conll:LEMPOS "material-n"; conll:HEAD :s6_0; conll:POS "NN"; nif:nextWord :s6_23 .
+:s6_23 a nif:Word; conll:WORD "needs"; conll:TOKEN "needs"; conll:LEMMA "need"; conll:LEMPOS "need-v"; conll:HEAD :s6_0; conll:POS "VBZ"; nif:nextWord :s6_24 .
+:s6_24 a nif:Word; conll:WORD "for"; conll:TOKEN "for"; conll:LEMMA "for"; conll:LEMPOS "for-i"; conll:HEAD :s6_0; conll:POS "IN"; nif:nextWord :s6_25 .
+:s6_25 a nif:Word; conll:WORD "them"; conll:TOKEN "them"; conll:LEMMA "they"; conll:LEMPOS "they-p"; conll:HEAD :s6_0; conll:POS "PRP"; nif:nextWord :s6_26 .
+:s6_26 a nif:Word; conll:WORD "especially"; conll:TOKEN "especially"; conll:LEMMA "especially"; conll:LEMPOS "especially-r"; conll:HEAD :s6_0; conll:POS "RB"; nif:nextWord :s6_27 .
+:s6_27 a nif:Word; conll:WORD "the"; conll:TOKEN "the"; conll:LEMMA "the"; conll:LEMPOS "the-d"; conll:HEAD :s6_0; conll:POS "DT"; nif:nextWord :s6_28 .
+:s6_28 a nif:Word; conll:WORD "young"; conll:TOKEN "young"; conll:LEMMA "young"; conll:LEMPOS "young-j"; conll:HEAD :s6_0; conll:POS "JJ"; nif:nextWord :s6_29 .
+:s6_29 a nif:Word; conll:WORD "."; conll:TOKEN "."; conll:LEMMA "."; conll:LEMPOS ".-x"; conll:HEAD :s6_0; conll:POS "." .
 

@@ -14,6 +14,7 @@ the	the	the	DT	the-d
 two	two	two	CD	two-f
 countries	countries	country	NNS	country-n
 .	.	.	.	.-x
+
 China	China	China	NNP	China-e
 's	's	's	POS	's-p
 Defense	Defense	Defense	NNP	Defense-e
@@ -43,6 +44,7 @@ Central	Central	central	JJ	central-j
 Asian	Asian	asian	JJ	asian-j
 state	state	state	NN	state-n
 .	.	.	.	.-x
+
 Ministry	Ministry	Ministry	NNP	Ministry-e
 spokesman	spokesman	spokesman	NN	spokesman-n
 Ren	Ren	Ren	NNP	Ren-e
@@ -85,6 +87,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 report	report	report	NN	report-n
 .	.	.	.	.-x
+
 Wakhan	Wakhan	Wakhan	NNP	Wakhan-e
 Corridor	Corridor	Corridor	NNP	Corridor-e
 is	is	be	VBZ	be-v
@@ -108,6 +111,7 @@ Pakistan	Pakistan	Pakistan	NNP	Pakistan-e
 and	and	and	CC	and-c
 Gilgit-Baltistan	Gilgit-Baltistan	Gilgit-Baltistan	NNP	Gilgit-Baltistan-e
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 the	the	the	DT	the-d
@@ -135,3 +139,4 @@ Police	Police	Police	NNP	Police-e
 a	a	a	DT	a-d
 secret	secret	secret	NN	secret-n
 .	.	.	.	.-x
+

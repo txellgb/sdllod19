@@ -27,6 +27,7 @@ of	of	of	IN	of-i
 fortune	fortune	fortune	NN	fortune-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 Farke	Farke	Farke	NNP	Farke-e
 revealed	revealed	reveal	VBD	reveal-v
 on	on	on	IN	on-i
@@ -67,6 +68,7 @@ over	over	over	IN	over-i
 Bristol	Bristol	Bristol	NNP	Bristol-e
 City	City	City	NNP	City-e
 .	.	.	.	.-x
+
 City	City	City	NNP	City-e
 head	head	head	NN	head-n
 to	to	to	TO	to-t
@@ -87,6 +89,7 @@ Den	Den	Den	NNP	Den-e
 no	no	no	DT	no-d
 harm	harm	harm	NN	harm-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 A	A	a	DT	a-d
 clinical	clinical	clinical	JJ	clinical-j
@@ -95,6 +98,7 @@ from	from	from	IN	from-i
 Marco	Marco	Marco	NNP	Marco-e
 Stiepermann	Stiepermann	Stiepermann	NNP	Stiepermann-e
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 was	was	be	VBD	be-v
 a	a	a	DT	a-d
@@ -107,6 +111,7 @@ as	as	as	IN	as-i
 a	a	a	DT	a-d
 fine	fine	fine	NN	fine-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 should	should	should	MD	should-v
 be	be	be	VB	be-v
@@ -134,6 +139,7 @@ game	game	game	NN	game-n
 said	said	say	VBD	say-v
 Farke	Farke	Farke	NNP	Farke-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
@@ -157,6 +163,7 @@ in	in	in	IN	in-i
 my	my	my	PRP$	my-p
 thoughts	thoughts	thought	NNS	thought-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 was	was	be	VBD	be-v
@@ -182,6 +189,7 @@ be	be	be	VB	be-v
 pay	pay	pay	VB	pay-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 To	To	to	TO	to-t
 clean	clean	clean	VB	clean-v
@@ -205,6 +213,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 wheel	wheel	wheel	NN	wheel-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 like	like	like	VBP	like-v
@@ -213,6 +222,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 honest	honest	honest	JJ	honest-j
 .	.	.	.	.-x
+
 Stiepi	Stiepi	Stiepi	NNP	Stiepi-e
 came	came	come	VBD	come-v
 in	in	in	IN	in-i
@@ -225,6 +235,7 @@ of	of	of	IN	of-i
 my	my	my	PRP$	my-p
 car	car	car	NN	car-n
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 Why	Why	why	WRB	why-r
 do	do	do	VBP	do-v
@@ -233,6 +244,7 @@ need	need	need	VB	need-v
 this	this	this	DT	this-d
 ?	?	?	.	?-x
 '	'	'	''	'-x
+
 He	He	he	PRP	he-p
 did	did	do	VBD	do-v
 n't	n't	not	RB	not-r
@@ -242,6 +254,7 @@ speak	speak	speak	VB	speak-v
 about	about	about	IN	about-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 just	just	just	RB	just-r
 said	said	say	VBD	say-v
@@ -252,6 +265,7 @@ Coach	Coach	coach	VB	coach-v
 trust	trust	trust	VB	trust-v
 me	me	I	PRP	I-p
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 need	need	need	VBP	need-v
 the	the	the	DT	the-d
@@ -261,6 +275,7 @@ your	your	you	PRP$	you-p
 car	car	car	NN	car-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 So	So	so	RB	so-r
 of	of	of	IN	of-i
 course	course	course	NN	course-n
@@ -273,11 +288,13 @@ was	was	be	VBD	be-v
 pretty	pretty	pretty	RB	pretty-r
 pleased	pleased	pleased	JJ	pleased-j
 .	.	.	.	.-x
+
 Well	Well	well	RB	well-r
 done	done	do	VBN	do-v
 Stiepi	Stiepi	Stiepi	NNP	Stiepi-e
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Farke	Farke	Farke	NNP	Farke-e
 admitted	admitted	admit	VBD	admit-v
 times	times	time	NNS	time-n
@@ -289,6 +306,7 @@ was	was	be	VBD	be-v
 a	a	a	DT	a-d
 player	player	player	NN	player-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 All	All	all	DT	all-d
 jokes	jokes	joke	NNS	joke-n
@@ -327,6 +345,7 @@ performance	performance	performance	NN	performance-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 My	My	my	PRP$	my-p
 feeling	feeling	feeling	NN	feeling-n
@@ -335,6 +354,7 @@ totally	totally	totally	RB	totally-r
 the	the	the	DT	the-d
 opposite	opposite	opposite	JJ	opposite-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 you	you	you	PRP	you-p
@@ -362,6 +382,7 @@ your	your	you	PRP$	you-p
 best	best	best	JJS	best-j
 performance	performance	performance	NN	performance-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
@@ -377,6 +398,7 @@ have	have	have	VB	have-v
 any	any	any	DT	any-d
 fines	fines	fine	NNS	fine-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 hated	hated	hate	VBD	hate-v
 as	as	as	IN	as-i
@@ -399,6 +421,7 @@ being	being	be	VBG	be-v
 on	on	on	IN	on-i
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 me	me	I	PRP	I-p
 ,	,	,	,	,-x
@@ -406,6 +429,7 @@ that	that	that	DT	that-d
 is	is	be	VBZ	be-v
 nonsense	nonsense	nonsense	NN	nonsense-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 are	are	be	VBP	be-v
 working	working	work	VBG	work-v
@@ -413,6 +437,7 @@ in	in	in	IN	in-i
 professional	professional	professional	JJ	professional-j
 football	football	football	NN	football-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 That	That	that	DT	that-d
 should	should	should	MD	should-v
@@ -420,6 +445,7 @@ be	be	be	VB	be-v
 a	a	a	DT	a-d
 given	given	give	VBN	give-v
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 never	never	never	RB	never-r
 heard	heard	hear	VBD	hear-v
@@ -434,6 +460,7 @@ or	or	or	CC	or-c
 being	being	be	VBG	be-v
 late	late	late	JJ	late-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -454,6 +481,7 @@ is	is	be	VBZ	be-v
 a	a	a	DT	a-d
 fine	fine	fine	NN	fine-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 that	that	that	DT	that-d
 is	is	be	VBZ	be-v
@@ -466,6 +494,7 @@ to	to	to	TO	to-t
 judge	judge	judge	VB	judge-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 am	am	be	VBP	be-v
 not	not	not	RB	not-r
@@ -483,3 +512,4 @@ seconds	seconds	seconds	NNS	seconds-n
 late	late	late	RB	late-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+

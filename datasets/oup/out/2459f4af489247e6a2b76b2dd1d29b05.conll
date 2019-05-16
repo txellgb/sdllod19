@@ -26,6 +26,7 @@ National	National	National	NNP	National-e
 Peace	Peace	Peace	NNP	Peace-e
 Committee	Committee	Committee	NNP	Committee-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 National	National	National	NNP	National-e
 Peace	Peace	Peace	NNP	Peace-e
@@ -66,6 +67,7 @@ Matthew	Matthew	Matthew	NNP	Matthew-e
 Hassan	Hassan	Hassan	NNP	Hassan-e
 Kukah	Kukah	Kukah	NNP	Kukah-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 PDP	PDP	pdp	NN	pdp-n
 presidential	presidential	presidential	JJ	presidential-j
@@ -115,6 +117,7 @@ Prince	Prince	Prince	NNP	Prince-e
 Uche	Uche	Uche	NNP	Uche-e
 Secondus	Secondus	Secondus	NNP	Secondus-e
 .	.	.	.	.-x
+
 Atiku	Atiku	Atiku	NNP	Atiku-e
 Abubakar	Abubakar	Abubakar	NNP	Abubakar-e
 and	and	and	CC	and-c
@@ -145,6 +148,7 @@ democracy	democracy	democracy	NN	democracy-n
 in	in	in	IN	in-i
 1999	1999	1999	CD	1999-f
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 him	him	he	PRP	he-p
@@ -183,6 +187,7 @@ will	will	will	NN	will-n
 of	of	of	IN	of-i
 Nigerians	Nigerians	Nigerians	NNPS	Nigerians-e
 .	.	.	.	.-x
+
 Ahead	Ahead	Ahead	NNP	Ahead-e
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -216,6 +221,7 @@ for	for	for	IN	for-i
 political	political	political	JJ	political-j
 reasons	reasons	reason	NNS	reason-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 also	also	also	RB	also-r
 called	called	call	VBD	call-v
@@ -239,6 +245,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 court	court	court	NN	court-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 issue	issue	issue	NN	issue-n
 of	of	of	IN	of-i
@@ -264,6 +271,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 meeting	meeting	meeting	NN	meeting-n
 .	.	.	.	.-x
+
 Atiku	Atiku	Atiku	NNP	Atiku-e
 Abubakar	Abubakar	Abubakar	NNP	Abubakar-e
 restates	restates	restate	VBZ	restate-v
@@ -294,6 +302,7 @@ cohort	cohort	cohort	NN	cohort-n
 with	with	with	IN	with-i
 INEC	INEC	inec	NNS	inec-n
 .	.	.	.	.-x
+
 Atiku	Atiku	Atiku	NNP	Atiku-e
 Abubakar	Abubakar	Abubakar	NNP	Abubakar-e
 further	further	further	RB	further-r
@@ -332,3 +341,4 @@ to	to	to	TO	to-t
 collation	collation	collation	NN	collation-n
 point	point	point	NN	point-n
 .	.	.	.	.-x
+

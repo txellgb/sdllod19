@@ -31,6 +31,7 @@ mundane	mundane	mundane	JJ	mundane-j
 of	of	of	IN	of-i
 tasks	tasks	task	NNS	task-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 've	've	have	VBP	have-v
@@ -76,6 +77,7 @@ and	and	and	CC	and-c
 subsequently	subsequently	subsequently	RB	subsequently-r
 trend	trend	trend	NN	trend-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 kind	kind	kind	NN	kind-n
 of	of	of	IN	of-i
@@ -102,6 +104,7 @@ attempt	attempt	attempt	NN	attempt-n
 at	at	at	IN	at-i
 success	success	success	NN	success-n
 .	.	.	.	.-x
+
 No	No	no	DT	no-d
 matter	matter	matter	NN	matter-n
 how	how	how	WRB	how-r
@@ -127,6 +130,7 @@ vehicles	vehicles	vehicle	NNS	vehicle-n
 to	to	to	TO	to-t
 cross	cross	cross	VB	cross-v
 .	.	.	.	.-x
+
 What	What	what	WDT	what-d
 these	these	these	DT	these-d
 games	games	game	NNS	game-n
@@ -144,6 +148,7 @@ of	of	of	IN	of-i
 inevitable	inevitable	inevitable	JJ	inevitable-j
 death	death	death	NN	death-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 nature	nature	nature	NN	nature-n
 of	of	of	IN	of-i
@@ -175,6 +180,7 @@ their	their	they	PRP$	they-p
 first/tenth/hundredth	first/tenth/hundredth	first/tenth/hundredth	JJ	first/tenth/hundredth-j
 failure	failure	failure	NN	failure-n
 .	.	.	.	.-x
+
 Failure	Failure	failure	NN	failure-n
 is	is	be	VBZ	be-v
 inevitable	inevitable	inevitable	JJ	inevitable-j
@@ -184,6 +190,7 @@ way	way	way	NN	way-n
 around	around	around	IN	around-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Lonely	Lonely	lonely	JJ	lonely-j
 Mountains	Mountains	mountain	NNS	mountain-n
 follows	follows	follow	VBZ	follow-v
@@ -224,6 +231,7 @@ happened	happened	happen	VBN	happen-v
 ,	,	,	,	,-x
 remember	remember	remember	VB	remember-v
 ?	?	?	.	?-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -274,6 +282,7 @@ your	your	you	PRP$	you-p
 damaged	damaged	damage	VBN	damage-v
 body	body	body	NN	body-n
 .	.	.	.	.-x
+
 Developer	Developer	Developer	NNP	Developer-e
 Megagon	Megagon	Megagon	NNP	Megagon-e
 Industries	Industries	Industries	NNP	Industries-e
@@ -325,6 +334,7 @@ many	many	many	JJ	many-j
 times	times	time	NNS	time-n
 before	before	before	RB	before-r
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 we	we	we	PRP	we-p
 reported	reported	report	VBD	report-v
@@ -382,6 +392,7 @@ treacherous	treacherous	treacherous	JJ	treacherous-j
 routes	routes	route	NNS	route-n
 alike	alike	alike	RB	alike-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 subtle	subtle	subtle	JJ	subtle-j
 physics	physics	physics	NN	physics-n
@@ -429,6 +440,7 @@ of	of	of	IN	of-i
 sound	sound	sound	JJ	sound-j
 design	design	design	NN	design-n
 .	.	.	.	.-x
+
 Namely	Namely	namely	RB	namely-r
 with	with	with	IN	with-i
 its	its	its	PRP$	its-p
@@ -467,6 +479,7 @@ the	the	the	DT	the-d
 dirt	dirt	dirt	NN	dirt-n
 beneath	beneath	beneath	IN	beneath-i
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 a	a	a	DT	a-d
 game	game	game	NN	game-n
@@ -514,6 +527,7 @@ Mountains	Mountains	mountain	NNS	mountain-n
 '	'	'	POS	'-p
 intentions	intentions	intention	NNS	intention-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -555,6 +569,7 @@ your	your	you	PRP$	you-p
 best	best	best	JJS	best-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 Accomplishing	Accomplishing	accomplish	VBG	accomplish-v
 your	your	you	PRP$	you-p
 goal	goal	goal	NN	goal-n
@@ -608,6 +623,7 @@ actual	actual	actual	JJ	actual-j
 level	level	level	NN	level-n
 design	design	design	NN	design-n
 .	.	.	.	.-x
+
 Picking	Picking	pick	VBG	pick-v
 the	the	the	DT	the-d
 game	game	game	NN	game-n
@@ -665,6 +681,7 @@ drop	drop	drop	NN	drop-n
 or	or	or	CC	or-c
 such	such	such	JJ	such-j
 .	.	.	.	.-x
+
 Lonely	Lonely	lonely	JJ	lonely-j
 Mountains	Mountains	mountain	NNS	mountain-n
 goes	goes	go	VBZ	go-v
@@ -681,6 +698,7 @@ and	and	and	CC	and-c
 outright	outright	outright	JJ	outright-j
 blatancy	blatancy	blatancy	NN	blatancy-n
 .	.	.	.	.-x
+
 Being	Being	be	VBG	be-v
 as	as	as	IN	as-i
 obvious	obvious	obvious	JJ	obvious-j
@@ -716,6 +734,7 @@ mere	mere	mere	JJ	mere-j
 environmental	environmental	environmental	JJ	environmental-j
 decoration	decoration	decoration	NN	decoration-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 game	game	game	NN	game-n
 does	does	do	VBZ	do-v
@@ -730,6 +749,7 @@ of	of	of	IN	of-i
 its	its	its	PRP$	its-p
 fail-states	fail-states	fail-state	NNS	fail-state-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 no	no	no	DT	no-d
@@ -745,6 +765,7 @@ denote	denote	denote	VB	denote-v
 your	your	you	PRP$	you-p
 failure	failure	failure	NN	failure-n
 .	.	.	.	.-x
+
 Nor	Nor	nor	CC	nor-c
 is	is	be	VBZ	be-v
 there	there	there	EX	there-r
@@ -790,6 +811,7 @@ punished	punished	punish	VBN	punish-v
 shortly	shortly	shortly	RB	shortly-r
 thereafter	thereafter	thereafter	RB	thereafter-r
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 ever	ever	ever	RB	ever-r
 think	think	think	VB	think-v
@@ -835,6 +857,7 @@ because	because	because	IN	because-i
 of	of	of	IN	of-i
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 refusing	refusing	refuse	VBG	refuse-v
 to	to	to	TO	to-t
@@ -881,6 +904,7 @@ get	get	get	VB	get-v
 it	it	it	PRP	it-p
 right	right	right	RB	right-r
 .	.	.	.	.-x
+
 How	How	how	WRB	how-r
 and	and	and	CC	and-c
 where	where	where	WRB	where-r
@@ -903,6 +927,7 @@ jump	jump	jump	NN	jump-n
 coming	coming	come	VBG	come-v
 up	up	up	RP	up-x
 .	.	.	.	.-x
+
 Or	Or	or	CC	or-c
 when	when	when	WRB	when-r
 it	it	it	PRP	it-p
@@ -926,6 +951,7 @@ risk	risk	risk	NN	risk-n
 of	of	of	IN	of-i
 crashing	crashing	crash	VBG	crash-v
 .	.	.	.	.-x
+
 All	All	all	PDT	all-d
 the	the	the	DT	the-d
 while	while	while	NN	while-n
@@ -964,6 +990,7 @@ ones	ones	one	NNS	one-n
 already	already	already	RB	already-r
 administered	administered	administer	VBN	administer-v
 .	.	.	.	.-x
+
 Surprising	Surprising	surprising	JJ	surprising-j
 even	even	even	RB	even-r
 the	the	the	DT	the-d
@@ -1021,6 +1048,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 terrain	terrain	terrain	NN	terrain-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -1044,6 +1072,7 @@ it	it	it	PRP	it-p
 all	all	all	DT	all-d
 about	about	about	RB	about-r
 .	.	.	.	.-x
+
 To-be-expected	To-be-expected	to-be-expected	JJ	to-be-expected-j
 walling-off	walling-off	walling-off	NN	walling-off-n
 of	of	of	IN	of-i
@@ -1051,6 +1080,7 @@ certain	certain	certain	JJ	certain-j
 parts	parts	part	NNS	part-n
 aside	aside	aside	RB	aside-r
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 even	even	even	RB	even-r
 then	then	then	RB	then-r
@@ -1098,6 +1128,7 @@ translates	translates	translate	VBZ	translate-v
 so	so	so	RB	so-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 not	not	not	RB	not-r
 get	get	get	VB	get-v
@@ -1122,6 +1153,7 @@ comedy	comedy	comedy	NN	comedy-n
 or	or	or	CC	or-c
 humor	humor	humor	NN	humor-n
 .	.	.	.	.-x
+
 Lonely	Lonely	lonely	JJ	lonely-j
 Mountains	Mountains	mountain	NNS	mountain-n
 needs	needs	need	VBZ	need-v
@@ -1159,6 +1191,7 @@ there	there	there	EX	there-r
 is	is	be	VBZ	be-v
 funny	funny	funny	JJ	funny-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 game	game	game	NN	game-n
 is	is	be	VBZ	be-v
@@ -1177,6 +1210,7 @@ put	put	put	VBD	put-v
 before	before	before	IN	before-i
 you	you	you	PRP	you-p
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 working	working	work	VBG	work-v
 out	out	out	RP	out-x
@@ -1198,6 +1232,7 @@ secret	secret	secret	JJ	secret-j
 path	path	path	NN	path-n
 off-screen	off-screen	off-screen	JJ	off-screen-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 agency	agency	agency	NN	agency-n
 in	in	in	IN	in-i
@@ -1241,6 +1276,7 @@ in	in	in	IN	in-i
 game	game	game	NN	game-n
 design	design	design	NN	design-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 such	such	such	JJ	such-j
 ,	,	,	,	,-x
@@ -1284,3 +1320,4 @@ many	many	many	JJ	many-j
 similarly-sized	similarly-sized	similarly-sized	JJ	similarly-sized-j
 peers	peers	peer	NNS	peer-n
 .	.	.	.	.-x
+

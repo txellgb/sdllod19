@@ -11,6 +11,7 @@ Who	Who	who	WP	who-p
 Paved	Paved	pave	VBD	pave-v
 the	the	the	DT	the-d
 Way	Way	way	NN	way-n
+
 The	The	the	DT	the-d
 roots	roots	root	NNS	root-n
 of	of	of	IN	of-i
@@ -37,6 +38,7 @@ March	March	March	NNP	March-e
 ,	,	,	,	,-x
 1982	1982	1982	CD	1982-f
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 the	the	the	DT	the-d
 next	next	next	JJ	next-j
@@ -59,6 +61,7 @@ Women	Women	Women	NNP	Women-e
 History	History	history	NN	history-n
 Week	Week	week	NN	week-n
 .	.	.	.	.-x
+
 Finally	Finally	finally	RB	finally-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -84,6 +87,7 @@ achievements	achievements	achievement	NNS	achievement-n
 of	of	of	IN	of-i
 women	women	woman	NNS	woman-n
 .	.	.	.	.-x
+
 March	March	March	NNP	March-e
 1987	1987	1987	CD	1987-f
 became	became	become	VBD	become-v
@@ -94,6 +98,7 @@ Women	Women	Women	NNP	Women-e
 History	History	history	NN	history-n
 Month	Month	Month	NNP	Month-e
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 kick	kick	kick	VB	kick-v
 off	off	off	RP	off-x
@@ -142,6 +147,7 @@ and	and	and	CC	and-c
 anti-LGBTQ	anti-LGBTQ	anti-lgbtq	JJ	anti-lgbtq-j
 oppression	oppression	oppression	NN	oppression-n
 .	.	.	.	.-x
+
 These	These	these	DT	these-d
 20	20	20	CD	20-f
 people	people	people	NNS	people-n
@@ -177,3 +183,4 @@ through	through	through	IN	through-i
 their	their	they	PRP$	they-p
 legacies	legacies	legacy	NNS	legacy-n
 .	.	.	.	.-x
+

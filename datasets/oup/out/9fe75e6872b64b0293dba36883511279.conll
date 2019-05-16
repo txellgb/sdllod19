@@ -30,6 +30,7 @@ Vivo	Vivo	Vivo	NNP	Vivo-e
 online	online	online	NN	online-n
 shop	shop	shop	NN	shop-n
 .	.	.	.	.-x
+
 Each	Each	each	DT	each-d
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -58,6 +59,7 @@ of	of	of	IN	of-i
 91.7	91.7	91.7	CD	91.7-f
 %	%	%	NN	%-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 devices	devices	device	NNS	device-n
 run	run	run	VBP	run-v
@@ -73,6 +75,7 @@ the	the	the	DT	the-d
 SD	SD	sd	NN	sd-n
 855	855	855	CD	855-f
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -89,6 +92,7 @@ really	really	really	RB	really-r
 stand	stand	stand	VBP	stand-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 6	6	6	CD	6-f
@@ -122,6 +126,7 @@ flash	flash	flash	VBP	flash-v
 charge	charge	charge	NN	charge-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Vivo	Vivo	Vivo	NNP	Vivo-e
 's	's	's	POS	's-p
 claims	claims	claim	NNS	claim-n
@@ -142,6 +147,7 @@ are	are	be	VBP	be-v
 quite	quite	quite	RB	quite-r
 spectacular	spectacular	spectacular	JJ	spectacular-j
 :	:	:	:	:-x
+
 The	The	the	DT	the-d
 two	two	two	CD	two-f
 lower-end	lower-end	lower-end	JJ	lower-end-j
@@ -190,6 +196,7 @@ in	in	in	IN	in-i
 black	black	black	JJ	black-j
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 Gamers	Gamers	gamer	NNS	gamer-n
 have	have	have	VBP	have-v
 been	been	be	VBN	be-v
@@ -225,6 +232,7 @@ for	for	for	IN	for-i
 enhanced	enhanced	enhance	VBN	enhance-v
 gaming	gaming	gaming	NN	gaming-n
 .	.	.	.	.-x
+
 Camera	Camera	camera	NN	camera-n
 setups	setups	setup	NNS	setup-n
 include	include	include	VBP	include-v
@@ -254,6 +262,7 @@ MP	MP	mp	NN	mp-n
 MP	MP	mp	NN	mp-n
 sensors	sensors	sensor	NNS	sensor-n
 .	.	.	.	.-x
+
 Pricing	Pricing	pricing	NN	pricing-n
 for	for	for	IN	for-i
 the	the	the	DT	the-d
@@ -318,3 +327,4 @@ US$	US$	us$	$	us$-x
 640	640	640	CD	640-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+

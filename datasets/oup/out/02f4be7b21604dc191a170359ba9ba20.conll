@@ -11,6 +11,7 @@ former	former	former	JJ	former-j
 Florida	Florida	Florida	NNP	Florida-e
 governor	governor	governor	NN	governor-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Bill	Bill	Bill	NNP	Bill-e
 O'Leary	O'Leary	O'Leary	NNP	O'Leary-e
@@ -52,6 +53,7 @@ March	March	March	NNP	March-e
 at	at	at	IN	at-i
 7:00	7:00	7:00	CD	7:00-f
 AM	AM	AM	NNP	AM-e
+
 Education	Education	Education	NNP	Education-e
 Secretary	Secretary	Secretary	NNP	Secretary-e
 Betsy	Betsy	Betsy	NNP	Betsy-e
@@ -101,6 +103,7 @@ and	and	and	CC	and-c
 how	how	how	WRB	how-r
 much	much	much	JJ	much-j
 .	.	.	.	.-x
+
 To	To	to	TO	to-t
 be	be	be	VB	be-v
 clear	clear	clear	JJ	clear-j
@@ -130,6 +133,7 @@ n't	n't	not	RB	not-r
 support	support	support	VB	support-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 similar	similar	similar	JJ	similar-j
 idea	idea	idea	NN	idea-n
@@ -151,6 +155,7 @@ and	and	and	CC	and-c
 the	the	the	DT	the-d
 Senate	Senate	Senate	NNP	Senate-e
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 it	it	it	PRP	it-p
 is	is	be	VBZ	be-v
@@ -192,6 +197,7 @@ and	and	and	CC	and-c
 local	local	local	JJ	local-j
 level	level	level	NN	level-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 could	could	could	MD	could-v
 n't	n't	not	RB	not-r
@@ -205,6 +211,7 @@ federal	federal	federal	JJ	federal-j
 choice	choice	choice	NN	choice-n
 program	program	program	NN	program-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 she	she	she	PRP	she-p
 is	is	be	VBZ	be-v
@@ -223,6 +230,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 money	money	money	NN	money-n
 .	.	.	.	.-x
+
 [	-LSB-	-lsb-	-LRB-	-lsb--x
 '	`	`	``	`-x
 Government	Government	government	NN	government-n
@@ -238,6 +246,7 @@ by	by	by	IN	by-i
 Betsy	Betsy	Betsy	NNP	Betsy-e
 DeVos	DeVos	DeVos	NNP	DeVos-e
 ]	-RSB-	-rsb-	-RRB-	-rsb--x
+
 Tax	Tax	tax	NN	tax-n
 credits	credits	credit	NNS	credit-n
 are	are	be	VBP	be-v
@@ -289,6 +298,7 @@ groups	groups	group	NNS	group-n
 of	of	of	IN	of-i
 students	students	student	NNS	student-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 ,	,	,	,	,-x
@@ -313,6 +323,7 @@ of	of	of	IN	of-i
 each	each	each	DT	each-d
 state	state	state	NN	state-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 issue	issue	issue	NN	issue-n
 is	is	be	VBZ	be-v
@@ -323,6 +334,7 @@ national	national	national	JJ	national-j
 education	education	education	NN	education-n
 debate	debate	debate	NN	debate-n
 .	.	.	.	.-x
+
 Supporters	Supporters	supporter	NNS	supporter-n
 say	say	say	VBP	say-v
 families	families	family	NNS	family-n
@@ -333,6 +345,7 @@ for	for	for	IN	for-i
 their	their	they	PRP$	they-p
 children	children	child	NNS	child-n
 .	.	.	.	.-x
+
 Opponents	Opponents	opponent	NNS	opponent-n
 say	say	say	VBP	say-v
 it	it	it	PRP	it-p
@@ -363,6 +376,7 @@ America	America	America	NNP	America-e
 's	's	's	POS	's-p
 children	children	child	NNS	child-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Supreme	Supreme	Supreme	NNP	Supreme-e
 Court	Court	Court	NNP	Court-e
@@ -381,6 +395,7 @@ of	of	of	IN	of-i
 voucher	voucher	voucher	NN	voucher-n
 programs	programs	program	NNS	program-n
 .	.	.	.	.-x
+
 Under	Under	under	IN	under-i
 tax	tax	tax	NN	tax-n
 credit	credit	credit	NN	credit-n
@@ -417,6 +432,7 @@ and	and	and	CC	and-c
 religious	religious	religious	JJ	religious-j
 schools	schools	school	NNS	school-n
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 ,	,	,	,	,-x
@@ -485,6 +501,7 @@ Dakota	Dakota	Dakota	NNP	Dakota-e
 and	and	and	CC	and-c
 Virginia	Virginia	Virginia	NNP	Virginia-e
 .	.	.	.	.-x
+
 EdChoice	EdChoice	EdChoice	NNP	EdChoice-e
 is	is	be	VBZ	be-v
 an	an	a	DT	a-d
@@ -505,6 +522,7 @@ universal	universal	universal	JJ	universal-j
 voucher	voucher	voucher	NN	voucher-n
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 You	You	you	PRP	you-p
 can	can	can	MD	can-v
@@ -535,6 +553,7 @@ is	is	be	VBZ	be-v
 now	now	now	RB	now-r
 EdChoice	EdChoice	EdChoice	NNP	EdChoice-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 headline	headline	headline	NN	headline-n
 :	:	:	:	:-x
@@ -548,6 +567,7 @@ Private	Private	Private	NNP	Private-e
 .	.	.	.	.-x
 "	''	''	''	''-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 The	The	the	DT	the-d
 new	new	new	JJ	new-j
 legislation	legislation	legislation	NN	legislation-n
@@ -565,6 +585,7 @@ Cruz	Cruz	Cruz	NNP	Cruz-e
 R-Tex	R-Tex	R-Tex	NNP	R-Tex-e
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 and	and	and	CC	and-c
 Rep.	Rep.	Rep.	NNP	Rep.-e
 Bradley	Bradley	Bradley	NNP	Bradley-e
@@ -573,6 +594,7 @@ Byrne	Byrne	Byrne	NNP	Byrne-e
 R-Ala	R-Ala	R-Ala	NNP	R-Ala-e
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 --	--	--	:	---x
 would	would	would	MD	would-v
 provide	provide	provide	VB	provide-v
@@ -596,6 +618,7 @@ to	to	to	TO	to-t
 private	private	private	JJ	private-j
 school	school	school	NN	school-n
 .	.	.	.	.-x
+
 Spending	Spending	spend	VBG	spend-v
 on	on	on	IN	on-i
 the	the	the	DT	the-d
@@ -608,6 +631,7 @@ $	$	$	$	$-x
 5	5	5	CD	5-f
 billion	billion	billion	CD	billion-f
 .	.	.	.	.-x
+
 Voucher	Voucher	voucher	JJ	voucher-j
 programs	programs	program	NNS	program-n
 give	give	give	VBP	give-v
@@ -651,6 +675,7 @@ and	and	and	CC	and-c
 religious	religious	religious	JJ	religious-j
 schools	schools	school	NNS	school-n
 .	.	.	.	.-x
+
 EdChoice	EdChoice	EdChoice	NNP	EdChoice-e
 says	says	say	VBZ	say-v
 there	there	there	EX	there-r
@@ -713,6 +738,7 @@ and	and	and	CC	and-c
 Washington	Washington	Washington	NNP	Washington-e
 ,	,	,	,	,-x
 D.C.	D.C.	D.C.	NNP	D.C.-e
+
 The	The	the	DT	the-d
 one	one	one	CD	one-f
 in	in	in	IN	in-i
@@ -730,6 +756,7 @@ the	the	the	DT	the-d
 federal	federal	federal	JJ	federal-j
 government	government	government	NN	government-n
 .	.	.	.	.-x
+
 Educational	Educational	Educational	NNP	Educational-e
 savings	savings	savings	NNS	savings-n
 accounts	accounts	account	NNS	account-n
@@ -768,6 +795,7 @@ and	and	and	CC	and-c
 other	other	other	JJ	other-j
 uses	uses	use	NNS	use-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 money	money	money	NN	money-n
 comes	comes	come	VBZ	come-v
@@ -776,6 +804,7 @@ state	state	state	NN	state-n
 education	education	education	NN	education-n
 funds	funds	fund	NNS	fund-n
 .	.	.	.	.-x
+
 EdChoice	EdChoice	EdChoice	NNP	EdChoice-e
 says	says	say	VBZ	say-v
 five	five	five	CD	five-f
@@ -794,6 +823,7 @@ by	by	by	IN	by-i
 debit	debit	debit	NN	debit-n
 card	card	card	NN	card-n
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 are	are	be	VBP	be-v
 Arizona	Arizona	Arizona	NNP	Arizona-e
@@ -807,6 +837,7 @@ Carolina	Carolina	Carolina	NNP	Carolina-e
 and	and	and	CC	and-c
 Tennessee	Tennessee	Tennessee	NNP	Tennessee-e
 .	.	.	.	.-x
+
 DeVos	DeVos	DeVos	NNP	DeVos-e
 has	has	have	VBZ	have-v
 made	made	make	VBN	make-v
@@ -829,6 +860,7 @@ parents	parents	parent	NNS	parent-n
 are	are	be	VBP	be-v
 given	given	give	VBN	give-v
 .	.	.	.	.-x
+
 So	So	so	IN	so-i
 which	which	which	WDT	which-d
 state	state	state	NN	state-n
@@ -845,6 +877,7 @@ for	for	for	IN	for-i
 private	private	private	JJ	private-j
 education	education	education	NN	education-n
 ?	?	?	.	?-x
+
 As	As	as	IN	as-i
 it	it	it	PRP	it-p
 turns	turns	turn	VBZ	turn-v
@@ -863,6 +896,7 @@ the	the	the	DT	the-d
 billionaire	billionaire	billionaire	NN	billionaire-n
 DeVos	DeVos	DeVos	NNP	DeVos-e
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 spent	spent	spend	VBD	spend-v
 decades	decades	decade	NNS	decade-n
@@ -881,6 +915,7 @@ not	not	not	RB	not-r
 voucher-like	voucher-like	voucher-like	JJ	voucher-like-j
 programs	programs	program	NNS	program-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 state	state	state	NN	state-n
 that	that	that	WDT	that-d
@@ -897,6 +932,7 @@ a	a	a	DT	a-d
 vacation	vacation	vacation	NN	vacation-n
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 Florida	Florida	Florida	NNP	Florida-e
@@ -917,6 +953,7 @@ governor	governor	governor	NN	governor-n
 from	from	from	IN	from-i
 1999-2007	1999-2007	1999-2007	CD	1999-2007-f
 .	.	.	.	.-x
+
 DeVos	DeVos	devo	NNS	devo-n
 and	and	and	CC	and-c
 Bush	Bush	Bush	NNP	Bush-e
@@ -940,6 +977,7 @@ links	links	link	NNS	link-n
 to	to	to	TO	to-t
 Bush	Bush	Bush	NNP	Bush-e
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 has	has	have	VBZ	have-v
 repeatedly	repeatedly	repeatedly	RB	repeatedly-r
@@ -951,6 +989,7 @@ model	model	model	NN	model-n
 for	for	for	IN	for-i
 choice	choice	choice	NN	choice-n
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 EdChoice	EdChoice	EdChoice	NNP	EdChoice-e
@@ -976,6 +1015,7 @@ on	on	on	IN	on-i
 school	school	school	NN	school-n
 choice	choice	choice	NN	choice-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 its	its	its	PRP$	its-p
 latest	latest	latest	JJS	latest-j
@@ -1010,6 +1050,7 @@ latest	latest	latest	JJS	latest-j
 available	available	available	JJ	available-j
 data	data	datum	NNS	datum-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 was	was	be	VBD	be-v
 3.69	3.69	3.69	CD	3.69-f
@@ -1025,6 +1066,7 @@ public	public	public	JJ	public-j
 K-12	K-12	k-12	NN	k-12-n
 expenditures	expenditures	expenditure	NNS	expenditure-n
 .	.	.	.	.-x
+
 EdChoice	EdChoice	EdChoice	NNP	EdChoice-e
 used	used	use	VBD	use-v
 state	state	state	NN	state-n
@@ -1045,6 +1087,7 @@ Finance	Finance	Finance	NNP	Finance-e
 Data	Data	Data	NNP	Data-e
 report	report	report	NN	report-n
 .	.	.	.	.-x
+
 New	New	New	NNP	New-e
 Florida	Florida	Florida	NNP	Florida-e
 Gov.	Gov.	Gov.	NNP	Gov.-e
@@ -1075,6 +1118,7 @@ expected	expected	expect	VBN	expect-v
 passes	passes	pass	VBZ	pass-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 Florida	Florida	Florida	NNP	Florida-e
 has	has	have	VBZ	have-v
 been	been	be	VBN	be-v
@@ -1090,6 +1134,7 @@ number	number	number	NN	number-n
 of	of	of	IN	of-i
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 looking	looking	look	VBG	look-v
 at	at	at	IN	at-i
@@ -1115,6 +1160,7 @@ $	$	$	$	$-x
 271.9	271.9	271.9	CD	271.9-f
 million	million	million	CD	million-f
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 Arizona	Arizona	Arizona	NNP	Arizona-e
 was	was	be	VBD	be-v
@@ -1133,6 +1179,7 @@ total	total	total	JJ	total-j
 K-12	K-12	k-12	NN	k-12-n
 expenditures	expenditures	expenditure	NNS	expenditure-n
 .	.	.	.	.-x
+
 Wisconsin	Wisconsin	Wisconsin	NNP	Wisconsin-e
 was	was	be	VBD	be-v
 third	third	third	JJ	third-j
@@ -1141,6 +1188,7 @@ with	with	with	IN	with-i
 2.66	2.66	2.66	CD	2.66-f
 percent	percent	percent	NN	percent-n
 .	.	.	.	.-x
+
 Here	Here	here	RB	here-r
 's	's	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -1160,6 +1208,7 @@ entire	entire	entire	JJ	entire-j
 thing	thing	thing	NN	thing-n
 here	here	here	RB	here-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 numbers	numbers	number	NNS	number-n
 in	in	in	IN	in-i
@@ -1177,6 +1226,7 @@ the	the	the	DT	the-d
 previous	previous	previous	JJ	previous-j
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 Florida	Florida	Florida	NNP	Florida-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 1	1	1	LS	1-l
@@ -1204,6 +1254,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 969.6	969.6	969.6	CD	969.6-f
 million	million	million	CD	million-f
+
 2	2	2	LS	2-l
 .	.	.	.	.-x
 Arizona	Arizona	Arizona	NNP	Arizona-e
@@ -1231,6 +1282,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 211.8	211.8	211.8	CD	211.8-f
 million	million	million	CD	million-f
+
 3	3	3	LS	3-l
 .	.	.	.	.-x
 Wisconsin	Wisconsin	Wisconsin	NNP	Wisconsin-e
@@ -1255,6 +1307,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 271.9	271.9	271.9	CD	271.9-f
 million	million	million	CD	million-f
+
 4	4	4	LS	4-l
 .	.	.	.	.-x
 Vermont	Vermont	Vermont	NNP	Vermont-e
@@ -1279,6 +1332,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 44.1	44.1	44.1	CD	44.1-f
 million	million	million	CD	million-f
+
 5	5	5	CD	5-f
 .	.	.	.	.-x
 Maine	Maine	Maine	NNP	Maine-e
@@ -1303,6 +1357,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 51.7	51.7	51.7	CD	51.7-f
 million	million	million	CD	million-f
+
 6	6	6	CD	6-f
 .	.	.	.	.-x
 Indiana	Indiana	Indiana	NNP	Indiana-e
@@ -1330,6 +1385,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 174.5	174.5	174.5	CD	174.5-f
 million	million	million	CD	million-f
+
 7	7	7	CD	7-f
 .	.	.	.	.-x
 Ohio	Ohio	Ohio	NNP	Ohio-e
@@ -1354,6 +1410,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 324.1	324.1	324.1	CD	324.1-f
 million	million	million	CD	million-f
+
 8	8	8	CD	8-f
 .	.	.	.	.-x
 District	District	District	NNP	District-e
@@ -1380,6 +1437,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 15.8	15.8	15.8	CD	15.8-f
 million	million	million	CD	million-f
+
 9	9	9	CD	9-f
 .	.	.	.	.-x
 Louisiana	Louisiana	Louisiana	NNP	Louisiana-e
@@ -1407,6 +1465,7 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 47.1	47.1	47.1	CD	47.1-f
 million	million	million	CD	million-f
+
 10	10	10	CD	10-f
 .	.	.	.	.-x
 Georgia	Georgia	Georgia	NNP	Georgia-e
@@ -1434,3 +1493,4 @@ expenditures	expenditures	expenditure	NNS	expenditure-n
 $	$	$	$	$-x
 74.8	74.8	74.8	CD	74.8-f
 million	million	million	CD	million-f
+

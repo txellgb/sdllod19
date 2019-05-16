@@ -23,6 +23,7 @@ late	late	late	JJ	late-j
 Thursday	Thursday	Thursday	NNP	Thursday-e
 evening	evening	evening	NN	evening-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 contest	contest	contest	NN	contest-n
 ,	,	,	,	,-x
@@ -83,6 +84,7 @@ their	their	they	PRP$	they-p
 consecutive	consecutive	consecutive	JJ	consecutive-j
 victory	victory	victory	NN	victory-n
 .	.	.	.	.-x
+
 Cedar	Cedar	Cedar	NNP	Cedar-e
 's	's	's	POS	's-p
 trademark	trademark	trademark	NN	trademark-n
@@ -105,6 +107,7 @@ a	a	a	DT	a-d
 16-1	16-1	16-1	CD	16-1-f
 lead	lead	lead	NN	lead-n
 .	.	.	.	.-x
+
 After	After	after	IN	after-i
 Stansbury	Stansbury	Stansbury	NNP	Stansbury-e
 's	's	's	POS	's-p
@@ -148,6 +151,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 game	game	game	NN	game-n
 .	.	.	.	.-x
+
 Cedar	Cedar	Cedar	NNP	Cedar-e
 held	held	hold	VBD	hold-v
 a	a	a	DT	a-d
@@ -184,6 +188,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 half	half	half	NN	half-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 thought	thought	think	VBD	think-v
@@ -225,6 +230,7 @@ coach	coach	coach	NN	coach-n
 Corry	Corry	Corry	NNP	Corry-e
 Nielsen	Nielsen	Nielsen	NNP	Nielsen-e
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 got	got	get	VBD	get-v
 out	out	out	RP	out-x
@@ -236,12 +242,14 @@ passed	passed	pass	VBD	pass-v
 the	the	the	DT	the-d
 ball	ball	ball	NN	ball-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 shared	shared	share	VBD	share-v
 the	the	the	DT	the-d
 ball	ball	ball	NN	ball-n
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 in	in	in	IN	in-i
 the	the	the	DT	the-d
@@ -263,6 +271,7 @@ was	was	be	VBD	be-v
 my	my	my	PRP$	my-p
 fault	fault	fault	NN	fault-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 kind	kind	kind	NN	kind-n
 of	of	of	IN	of-i
@@ -271,6 +280,7 @@ us	us	we	PRP	we-p
 back	back	back	RB	back-r
 off	off	off	RB	off-r
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 got	got	get	VBD	get-v
 to	to	to	TO	to-t
@@ -286,6 +296,7 @@ speed	speed	speed	NN	speed-n
 ahead	ahead	ahead	RB	ahead-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Stansbury	Stansbury	Stansbury	NNP	Stansbury-e
 got	got	get	VBD	get-v
 as	as	as	RB	as-r
@@ -313,6 +324,7 @@ make	make	make	VB	make-v
 it	it	it	PRP	it-p
 33-20	33-20	33-20	CD	33-20-f
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 Cedar	Cedar	Cedar	NNP	Cedar-e
 guard	guard	guard	NN	guard-n
@@ -337,6 +349,7 @@ up	up	up	RB	up-r
 to	to	to	TO	to-t
 37-20	37-20	37-20	CD	37-20-f
 .	.	.	.	.-x
+
 Point	Point	point	NN	point-n
 guard	guard	guard	NN	guard-n
 Logann	Logann	Logann	NNP	Logann-e
@@ -378,6 +391,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 way	way	way	NN	way-n
 .	.	.	.	.-x
+
 Laws	Laws	law	NNS	law-n
 ,	,	,	,	,-x
 who	who	who	WP	who-p
@@ -404,6 +418,7 @@ hard	hard	hard	JJ	hard-j
 against	against	against	IN	against-i
 Stansbury	Stansbury	Stansbury	NNP	Stansbury-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Just	Just	just	RB	just-r
 focus	focus	focus	VB	focus-v
@@ -428,6 +443,7 @@ the	the	the	DT	the-d
 game	game	game	NN	game-n
 began	began	begin	VBD	begin-v
 .	.	.	.	.-x
+
 Leave	Leave	leave	VB	leave-v
 it	it	it	PRP	it-p
 out	out	out	IN	out-i
@@ -436,6 +452,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 floor	floor	floor	NN	floor-n
 .	.	.	.	.-x
+
 Nothing	Nothing	nothing	NN	nothing-n
 matters	matters	matter	NNS	matter-n
 with	with	with	IN	with-i
@@ -444,10 +461,12 @@ game	game	game	NN	game-n
 right	right	right	NN	right-n
 here	here	here	RB	here-r
 .	.	.	.	.-x
+
 Just	Just	just	RB	just-r
 teamwork	teamwork	teamwork	NN	teamwork-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Joining	Joining	join	VBG	join-v
 Laws	Laws	law	NNS	law-n
 in	in	in	IN	in-i
@@ -464,6 +483,7 @@ with	with	with	IN	with-i
 13	13	13	CD	13-f
 points	points	point	NNS	point-n
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 team	team	team	NN	team-n
@@ -492,6 +512,7 @@ just	just	just	RB	just-r
 two	two	two	CD	two-f
 3-pointers	3-pointers	3-pointer	NNS	3-pointer-n
 .	.	.	.	.-x
+
 Stansbury	Stansbury	Stansbury	NNP	Stansbury-e
 was	was	be	VBD	be-v
 led	led	lead	VBN	lead-v
@@ -509,6 +530,7 @@ Philips	Philips	Philips	NNP	Philips-e
 added	added	add	VBD	add-v
 7	7	7	CD	7-f
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 the	the	the	DT	the-d
 victory	victory	victory	NN	victory-n
@@ -564,6 +586,7 @@ vs.	vs.	vs.	FW	vs.-x
 Stansbury	Stansbury	Stansbury	NNP	Stansbury-e
 matchup	matchup	matchup	NN	matchup-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Lehi	Lehi	Lehi	NNP	Lehi-e
 's	's	's	POS	's-p
@@ -577,3 +600,4 @@ coach	coach	coach	NN	coach-n
 Nielsen	Nielsen	Nielsen	NNP	Nielsen-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+

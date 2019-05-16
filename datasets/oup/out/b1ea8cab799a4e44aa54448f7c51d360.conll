@@ -17,6 +17,7 @@ up	up	up	RB	up-r
 in	in	in	IN	in-i
 2019	2019	2019	CD	2019-f
 !	!	!	.	!-x
+
 The	The	the	DT	the-d
 announcement	announcement	announcement	NN	announcement-n
 concerning	concerning	concern	VBG	concern-v
@@ -37,6 +38,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 Dungeon	Dungeon	Dungeon	NNP	Dungeon-e
 ?	?	?	.	?-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 Dungeon	Dungeon	dungeon	NN	dungeon-n
 ni	ni	nus	NNS	nus-n
@@ -75,6 +77,7 @@ on	on	on	IN	on-i
 February	February	February	NNP	February-e
 15	15	15	CD	15-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 animation	animation	animation	NN	animation-n
 staff	staff	staff	NN	staff-n
@@ -122,6 +125,7 @@ was	was	be	VBD	be-v
 Ais	Ais	Ais	NNP	Ais-e
 Wallenstein	Wallenstein	Wallenstein	NNP	Wallenstein-e
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 article	article	article	NN	article-n
 provides	provides	provide	VBZ	provide-v
@@ -138,6 +142,7 @@ all	all	all	DT	all-d
 related	related	related	JJ	related-j
 news	news	news	NN	news-n
 .	.	.	.	.-x
+
 Sentai	Sentai	Sentai	NNP	Sentai-e
 Filmworks	Filmworks	Filmworks	NNP	Filmworks-e
 is	is	be	VBZ	be-v
@@ -180,6 +185,7 @@ Philippines	Philippines	Philippines	NNP	Philippines-e
 and	and	and	CC	and-c
 Thailand	Thailand	Thailand	NNP	Thailand-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 exact	exact	exact	JJ	exact-j
 timing	timing	timing	NN	timing-n
@@ -199,6 +205,7 @@ yet	yet	yet	RB	yet-r
 been	been	be	VBN	be-v
 announced	announced	announce	VBN	announce-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Arrow	Arrow	Arrow	NNP	Arrow-e
 Of	Of	of	IN	of-i
@@ -213,6 +220,7 @@ creator	creator	creator	NN	creator-n
 Fujino	Fujino	Fujino	NNP	Fujino-e
 Omori	Omori	Omori	NNP	Omori-e
 .	.	.	.	.-x
+
 Voice	Voice	Voice	NNP	Voice-e
 actors	actors	actor	NNS	actor-n
 Yoshitsugu	Yoshitsugu	Yoshitsugu	NNP	Yoshitsugu-e
@@ -226,6 +234,7 @@ Bell	Bell	Bell	NNP	Bell-e
 and	and	and	CC	and-c
 Hestia	Hestia	Hestia	NNP	Hestia-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Hestia	Hestia	Hestia	NNP	Hestia-e
 is	is	be	VBZ	be-v
@@ -249,6 +258,7 @@ who	who	who	WP	who-p
 plays	plays	play	VBZ	play-v
 Hestia	Hestia	Hestia	NNP	Hestia-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -264,6 +274,7 @@ with	with	with	IN	with-i
 her	her	she	PRP	she-p
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 The	The	the	DT	the-d
 newest	newest	newest	JJS	newest-j
 DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
@@ -292,6 +303,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 bow	bow	bow	NN	bow-n
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 goddess	goddess	goddess	NN	goddess-n
 is	is	be	VBZ	be-v
@@ -307,6 +319,7 @@ within	within	within	IN	within-i
 her	her	she	PRP$	she-p
 familia	familia	familia	NN	familia-n
 .	.	.	.	.-x
+
 Anyone	Anyone	anyone	NN	anyone-n
 desiring	desiring	desire	VBG	desire-v
 to	to	to	TO	to-t
@@ -321,6 +334,7 @@ quit	quit	quit	VB	quit-v
 the	the	the	DT	the-d
 familia	familia	familia	NN	familia-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -364,6 +378,7 @@ the	the	the	DT	the-d
 Japanese	Japanese	japanese	JJ	japanese-j
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 Season	Season	season	NN	season-n
 2	2	2	CD	2-f
@@ -392,6 +407,7 @@ DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 Season	Season	season	NN	season-n
 3	3	3	CD	3-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 fact	fact	fact	NN	fact-n
@@ -417,6 +433,7 @@ long	long	long	JJ	long-j
 while	while	while	NN	while-n
 yet	yet	yet	RB	yet-r
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 think	think	think	VBP	think-v
 it	it	it	PRP	it-p
@@ -436,6 +453,7 @@ actor	actor	actor	NN	actor-n
 Yoshimasa	Yoshimasa	Yoshimasa	NNP	Yoshimasa-e
 Hosoya	Hosoya	Hosoya	NNP	Hosoya-e
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 light	light	light	NN	light-n
@@ -451,6 +469,7 @@ by	by	by	IN	by-i
 Suzuhito	Suzuhito	Suzuhito	NNP	Suzuhito-e
 Yasuda	Yasuda	Yasuda	NNP	Yasuda-e
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 December	December	December	NNP	December-e
@@ -491,6 +510,7 @@ announced	announced	announce	VBN	announce-v
 yet	yet	yet	RB	yet-r
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 Yen	Yen	Yen	NNP	Yen-e
 Press	Press	Press	NNP	Press-e
 is	is	be	VBZ	be-v
@@ -518,6 +538,7 @@ series	series	series	NN	series-n
 North	North	North	NNP	North-e
 America	America	America	NNP	America-e
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 October	October	October	NNP	October-e
@@ -546,6 +567,7 @@ Dungeon	Dungeon	dungeon	NN	dungeon-n
 Volume	Volume	volume	NN	volume-n
 12	12	12	CD	12-f
 .	.	.	.	.-x
+
 DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 Volume	Volume	Volume	NNP	Volume-e
 13	13	13	CD	13-f
@@ -570,6 +592,7 @@ August	August	August	NNP	August-e
 ,	,	,	,	,-x
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 There	There	there	EX	there-r
 are	are	be	VBP	be-v
 two	two	two	CD	two-f
@@ -592,6 +615,7 @@ Ryuu	Ryuu	Ryuu	NNP	Ryuu-e
 so	so	so	RB	so-r
 far	far	far	RB	far-r
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 more	more	more	JJR	more-j
 substantial	substantial	substantial	JJ	substantial-j
@@ -615,6 +639,7 @@ to	to	to	TO	to-t
 Volume	Volume	volume	NN	volume-n
 11	11	11	CD	11-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 story	story	story	NN	story-n
 has	has	have	VBZ	have-v
@@ -632,6 +657,7 @@ first	first	first	JJ	first-j
 four	four	four	CD	four-f
 books	books	book	NNS	book-n
 .	.	.	.	.-x
+
 Yen	Yen	Yen	NNP	Yen-e
 Press	Press	Press	NNP	Press-e
 publishes	publishes	publish	VBZ	publish-v
@@ -661,6 +687,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 Dungeon	Dungeon	Dungeon	NNP	Dungeon-e
 ?	?	?	.	?-x
+
 All	All	all	DT	all-d
 three	three	three	CD	three-f
 stories	stories	story	NNS	story-n
@@ -672,6 +699,7 @@ DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 manga	manga	manga	NN	manga-n
 series	series	series	NN	series-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 main	main	main	JJ	main-j
 story	story	story	NN	story-n
@@ -689,6 +717,7 @@ illustrated	illustrated	illustrate	VBN	illustrate-v
 by	by	by	IN	by-i
 Kunieda	Kunieda	Kunieda	NNP	Kunieda-e
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 January	January	January	NNP	January-e
@@ -717,6 +746,7 @@ with	with	with	IN	with-i
 Chapter	Chapter	chapter	NN	chapter-n
 86	86	86	CD	86-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 ending	ending	ending	NN	ending-n
 of	of	of	IN	of-i
@@ -744,6 +774,7 @@ goliath-level	goliath-level	goliath-level	JJ	goliath-level-j
 boss	boss	boss	NN	boss-n
 creature	creature	creature	NN	creature-n
 .	.	.	.	.-x
+
 Episode	Episode	episode	NN	episode-n
 13	13	13	CD	13-f
 corresponds	corresponds	correspond	VBZ	correspond-v
@@ -770,6 +801,7 @@ been	been	be	VBN	be-v
 so	so	so	RB	so-r
 long	long	long	RB	long-r
 .	.	.	.	.-x
+
 Back	Back	back	RB	back-r
 in	in	in	IN	in-i
 2015	2015	2015	CD	2015-f
@@ -789,6 +821,7 @@ DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 Volume	Volume	volume	NN	volume-n
 8	8	8	CD	8-f
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 year	year	year	NN	year-n
 and	and	and	CC	and-c
@@ -823,6 +856,7 @@ the	the	the	DT	the-d
 original	original	original	JJ	original-j
 movie	movie	movie	NN	movie-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 good	good	good	JJ	good-j
 news	news	news	NN	news-n
@@ -845,6 +879,7 @@ to	to	to	TO	to-t
 filler	filler	filler	NN	filler-n
 episodes	episodes	episode	NNS	episode-n
 .	.	.	.	.-x
+
 English-only	English-only	english-only	JJ	english-only-j
 fans	fans	fan	NNS	fan-n
 can	can	can	MD	can-v
@@ -870,6 +905,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 like	like	like	IN	like-i
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 bad	bad	bad	JJ	bad-j
 news	news	news	NN	news-n
@@ -879,6 +915,7 @@ number	number	number	NN	number-n
 of	of	of	IN	of-i
 episodes	episodes	episode	NNS	episode-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 Season	Season	season	NN	season-n
@@ -906,6 +943,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 Dungeon	Dungeon	Dungeon	NNP	Dungeon-e
 ?	?	?	.	?-x
+
 Season	Season	season	NN	season-n
 2	2	2	CD	2-f
 will	will	will	MD	will-v
@@ -919,6 +957,7 @@ of	of	of	IN	of-i
 13	13	13	CD	13-f
 episodes	episodes	episode	NNS	episode-n
 .	.	.	.	.-x
+
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 This	This	this	DT	this-d
 information	information	information	NN	information-n
@@ -931,6 +970,7 @@ be	be	be	VB	be-v
 updated	updated	update	VBN	update-v
 .	.	.	.	.-x
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 What	What	what	WP	what-p
 's	's	be	VBZ	be-v
 more	more	more	JJR	more-j
@@ -957,6 +997,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 anime	anime	anime	NN	anime-n
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -976,6 +1017,7 @@ DanMachi	DanMachi	DanMachi	NNP	DanMachi-e
 Season	Season	season	NN	season-n
 2	2	2	CD	2-f
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 of	of	of	IN	of-i
 the	the	the	DT	the-d
@@ -1010,6 +1052,7 @@ Season	Season	season	NN	season-n
 release	release	release	NN	release-n
 date	date	date	NN	date-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 production	production	production	NN	production-n
 of	of	of	IN	of-i
@@ -1020,6 +1063,7 @@ announced	announced	announce	VBN	announce-v
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 February	February	February	NNP	February-e
 2019	2019	2019	CD	2019-f
@@ -1041,6 +1085,7 @@ summer	summer	summer	NN	summer-n
 anime	anime	anime	NN	anime-n
 season	season	season	NN	season-n
 .	.	.	.	.-x
+
 Therefore	Therefore	therefore	RB	therefore-r
 ,	,	,	,	,-x
 the	the	the	DT	the-d
@@ -1056,6 +1101,7 @@ in	in	in	IN	in-i
 July	July	July	NNP	July-e
 2019	2019	2019	CD	2019-f
 .	.	.	.	.-x
+
 Audiences	Audiences	audience	NNS	audience-n
 expecting	expecting	expect	VBG	expect-v
 adventurers	adventurers	adventurer	NNS	adventurer-n
@@ -1107,6 +1153,7 @@ is	is	be	VBZ	be-v
 some	some	some	DT	some-d
 partying	partying	party	VBG	party-v
 !	!	!	.	!-x
+
 Three	Three	three	CD	three-f
 days	days	day	NNS	day-n
 after	after	after	IN	after-i
@@ -1143,6 +1190,7 @@ of	of	of	IN	of-i
 Episode	Episode	Episode	NNP	Episode-e
 13	13	13	CD	13-f
 .	.	.	.	.-x
+
 Celebration	Celebration	celebration	NN	celebration-n
 turns	turns	turn	VBZ	turn-v
 into	into	into	IN	into-i
@@ -1161,6 +1209,7 @@ the	the	the	DT	the-d
 Apollo	Apollo	Apollo	NNP	Apollo-e
 Familia	Familia	Familia	NNP	Familia-e
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 ca	ca	can	MD	can-v
 n't	n't	not	RB	not-r
@@ -1179,6 +1228,7 @@ in	in	in	IN	in-i
 the	the	the	DT	the-d
 fight	fight	fight	NN	fight-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 after	after	after	IN	after-i
 the	the	the	DT	the-d
@@ -1204,6 +1254,7 @@ had	had	have	VBD	have-v
 been	been	be	VBN	be-v
 bribed	bribed	bribe	VBN	bribe-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 party	party	party	NN	party-n
 spills	spills	spill	VBZ	spill-v
@@ -1239,6 +1290,7 @@ familia	familia	familia	NN	familia-n
 with	with	with	IN	with-i
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 is	is	be	VBZ	be-v
 Hestia	Hestia	Hestia	NNP	Hestia-e
@@ -1257,6 +1309,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 banquet	banquet	banquet	NN	banquet-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Hestia	Hestia	Hestia	NNP	Hestia-e
 and	and	and	CC	and-c
@@ -1287,6 +1340,7 @@ formal	formal	formal	JJ	formal-j
 dance	dance	dance	NN	dance-n
 together	together	together	RB	together-r
 .	.	.	.	.-x
+
 Neither	Neither	neither	DT	neither-d
 knew	knew	know	VBD	know-v
 how	how	how	WRB	how-r
@@ -1307,6 +1361,7 @@ to	to	to	TO	to-t
 enjoy	enjoy	enjoy	VB	enjoy-v
 themselves	themselves	themselves	PRP	themselves-p
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 Apollo	Apollo	Apollo	NNP	Apollo-e
 arrives	arrives	arrive	VBZ	arrive-v
@@ -1349,6 +1404,7 @@ a	a	a	DT	a-d
 form	form	form	NN	form-n
 battle	battle	battle	NN	battle-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 War	War	War	NNP	War-e
 Game	Game	Game	NNP	Game-e
@@ -1377,6 +1433,7 @@ the	the	the	DT	the-d
 other	other	other	JJ	other-j
 god	god	god	NN	god-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -1397,6 +1454,7 @@ level	level	level	NN	level-n
 3	3	3	CD	3-f
 captain	captain	captain	NN	captain-n
 .	.	.	.	.-x
+
 Panicked	Panicked	panic	VBN	panic-v
 ,	,	,	,	,-x
 Hestia	Hestia	Hestia	NNP	Hestia-e
@@ -1408,6 +1466,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 banquet	banquet	banquet	NN	banquet-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 next	next	next	JJ	next-j
 morning	morning	morning	NN	morning-n
@@ -1433,6 +1492,7 @@ the	the	the	DT	the-d
 old	old	old	JJ	old-j
 church	church	church	NN	church-n
 .	.	.	.	.-x
+
 Their	Their	they	PRP$	they-p
 home	home	home	NN	home-n
 is	is	be	VBZ	be-v
@@ -1447,6 +1507,7 @@ during	during	during	IN	during-i
 the	the	the	DT	the-d
 assault	assault	assault	NN	assault-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 run	run	run	NN	run-n
@@ -1476,6 +1537,7 @@ he	he	he	PRP	he-p
 respected	respected	respect	VBD	respect-v
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 Gathering	Gathering	gather	VBG	gather-v
 courage	courage	courage	NN	courage-n
 ,	,	,	,	,-x
@@ -1489,6 +1551,7 @@ his	his	he	PRP$	he-p
 own	own	own	JJ	own-j
 home	home	home	NN	home-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 takes	takes	take	VBZ	take-v
 Luan	Luan	Luan	NNP	Luan-e
@@ -1511,6 +1574,7 @@ the	the	the	DT	the-d
 War	War	War	NNP	War-e
 Game	Game	Game	NNP	Game-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 deciding	deciding	decide	VBG	decide-v
 the	the	the	DT	the-d
@@ -1542,6 +1606,7 @@ heart	heart	heart	NN	heart-n
 desires	desires	desire	NNS	desire-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Apollo	Apollo	Apollo	NNP	Apollo-e
 did	did	do	VBD	do-v
 n't	n't	not	RB	not-r
@@ -1564,6 +1629,7 @@ sexually	sexually	sexually	RB	sexually-r
 abuse	abuse	abuse	VB	abuse-v
 Bell	Bell	Bell	NNP	Bell-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 events	events	event	NNS	event-n
 did	did	do	VBD	do-v
@@ -1573,6 +1639,7 @@ as	as	as	IN	as-i
 Apollo	Apollo	Apollo	NNP	Apollo-e
 expected	expected	expect	VBD	expect-v
 .	.	.	.	.-x
+
 Even	Even	even	RB	even-r
 as	as	as	IN	as-i
 Bell	Bell	Bell	NNP	Bell-e
@@ -1606,6 +1673,7 @@ rule	rule	rule	NN	rule-n
 the	the	the	DT	the-d
 city	city	city	NN	city-n
 .	.	.	.	.-x
+
 Without	Without	without	IN	without-i
 getting	getting	get	VBG	get-v
 into	into	into	IN	into-i
@@ -1638,6 +1706,7 @@ cunning	cunning	cunning	JJ	cunning-j
 and	and	and	CC	and-c
 strategy	strategy	strategy	NN	strategy-n
 .	.	.	.	.-x
+
 With	With	with	IN	with-i
 victory	victory	victory	NN	victory-n
 secured	secured	secure	VBN	secure-v
@@ -1669,6 +1738,7 @@ in	in	in	IN	in-i
 Orario	Orario	Orario	NNP	Orario-e
 again	again	again	RB	again-r
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 even	even	even	RB	even-r
 levels	levels	level	NNS	level-n
@@ -1684,6 +1754,7 @@ another	another	another	DT	another-d
 speed	speed	speed	NN	speed-n
 record	record	record	NN	record-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 it	it	it	PRP	it-p
 sounds	sounds	sound	VBZ	sound-v
@@ -1714,6 +1785,7 @@ valis	valis	valis	NN	valis-n
 to	to	to	TO	to-t
 Hephaestus	Hephaestus	Hephaestus	NNP	Hephaestus-e
 .	.	.	.	.-x
+
 Then	Then	then	RB	then-r
 a	a	a	DT	a-d
 series	series	series	NN	series-n
@@ -1746,6 +1818,7 @@ and	and	and	CC	and-c
 an	an	a	DT	a-d
 aphrodisiac	aphrodisiac	aphrodisiac	NN	aphrodisiac-n
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 's	's	's	POS	's-p
 luck	luck	luck	NN	luck-n
@@ -1767,6 +1840,7 @@ Ishtar	Ishtar	Ishtar	NNP	Ishtar-e
 Familia	Familia	Familia	NNP	Familia-e
 Amazonesses	Amazonesses	Amazonesses	NNP	Amazonesses-e
 .	.	.	.	.-x
+
 Trying	Trying	try	VBG	try-v
 to	to	to	TO	to-t
 hide	hide	hide	VB	hide-v
@@ -1789,6 +1863,7 @@ was	was	be	VBD	be-v
 a	a	a	DT	a-d
 customer	customer	customer	NN	customer-n
 .	.	.	.	.-x
+
 Needless	Needless	needless	JJ	needless-j
 to	to	to	TO	to-t
 say	say	say	VB	say-v
@@ -1812,6 +1887,7 @@ up	up	up	RP	up-x
 being	being	be	VBG	be-v
 punished	punished	punish	VBN	punish-v
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 sets	sets	set	VBZ	set-v
 his	his	he	PRP$	he-p
@@ -1850,6 +1926,7 @@ a	a	a	DT	a-d
 dungeon	dungeon	dungeon	NN	dungeon-n
 ambush	ambush	ambush	NN	ambush-n
 !	!	!	.	!-x
+
 Events	Events	event	NNS	event-n
 quickly	quickly	quickly	RB	quickly-r
 spiral	spiral	spiral	NN	spiral-n
@@ -1871,6 +1948,7 @@ the	the	the	DT	the-d
 Ishtar	Ishtar	Ishtar	NNP	Ishtar-e
 Familia	Familia	Familia	NNP	Familia-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 the	the	the	DT	the-d
 end	end	end	NN	end-n
@@ -1895,6 +1973,7 @@ the	the	the	DT	the-d
 Killing	Killing	Killing	NNP	Killing-e
 Stone	Stone	Stone	NNP	Stone-e
 .	.	.	.	.-x
+
 Goddesses	Goddesses	Goddesses	NNP	Goddesses-e
 clash	clash	clash	NN	clash-n
 on	on	on	IN	on-i
@@ -1923,6 +2002,7 @@ preserve	preserve	preserve	VB	preserve-v
 her	her	she	PRP$	she-p
 life	life	life	NN	life-n
 .	.	.	.	.-x
+
 Volume	Volume	volume	NN	volume-n
 8	8	8	CD	8-f
 seemingly	seemingly	seemingly	RB	seemingly-r
@@ -1950,6 +2030,7 @@ his	his	he	PRP$	he-p
 Rakia	Rakia	Rakia	NNP	Rakia-e
 army	army	army	NN	army-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 citizens	citizens	citizen	NNS	citizen-n
@@ -1969,6 +2050,7 @@ thus	thus	thus	RB	thus-r
 strong	strong	strong	JJ	strong-j
 adventurers	adventurers	adventurer	NNS	adventurer-n
 .	.	.	.	.-x
+
 Is	Is	be	VBZ	be-v
 n't	n't	not	RB	not-r
 it	it	it	PRP	it-p
@@ -1980,6 +2062,7 @@ war	war	war	NN	war-n
 go	go	go	VBP	go-v
 together	together	together	RB	together-r
 ?	?	?	.	?-x
+
 Even	Even	even	RB	even-r
 as	as	as	IN	as-i
 there	there	there	EX	there-r
@@ -2009,6 +2092,7 @@ her	her	she	PRP$	she-p
 one	one	one	CD	one-f
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 already	already	already	RB	already-r
 has	has	have	VBZ	have-v
@@ -2027,6 +2111,7 @@ Bell	Bell	Bell	NNP	Bell-e
 's	's	's	POS	's-p
 mistress	mistress	mistress	NN	mistress-n
 .	.	.	.	.-x
+
 Little	Little	little	JJ	little-j
 Lili	Lili	Lili	NNP	Lili-e
 also	also	also	RB	also-r
@@ -2047,6 +2132,7 @@ love	love	love	NN	love-n
 with	with	with	IN	with-i
 Ais	Ais	Ais	NNP	Ais-e
 .	.	.	.	.-x
+
 Relationships	Relationships	Relationships	NNPS	Relationships-e
 are	are	be	VBP	be-v
 always	always	always	RB	always-r
@@ -2069,6 +2155,7 @@ hand	hand	hand	NN	hand-n
 in	in	in	IN	in-i
 marriage	marriage	marriage	NN	marriage-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 situation	situation	situation	NN	situation-n
 grows	grows	grow	VBZ	grow-v
@@ -2084,6 +2171,7 @@ duel	duel	duel	NN	duel-n
 over	over	over	IN	over-i
 Lili	Lili	Lili	NNP	Lili-e
 .	.	.	.	.-x
+
 Much	Much	much	JJ	much-j
 of	of	of	IN	of-i
 this	this	this	DT	this-d
@@ -2108,6 +2196,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 Rakia	Rakia	Rakia	NNP	Rakia-e
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 it	it	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -2141,6 +2230,7 @@ Large	Large	large	JJ	large-j
 Tree	Tree	tree	NN	tree-n
 Labyrinth	Labyrinth	labyrinth	NN	labyrinth-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 poor	poor	poor	JJ	poor-j
 monster	monster	monster	NN	monster-n
@@ -2169,6 +2259,7 @@ certain	certain	certain	JJ	certain-j
 white-haired	white-haired	white-haired	JJ	white-haired-j
 boy	boy	boy	NN	boy-n
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 was	was	be	VBD	be-v
 surprised	surprised	surprise	VBN	surprise-v
@@ -2195,6 +2286,7 @@ monster	monster	monster	NN	monster-n
 actually	actually	actually	RB	actually-r
 spoke	spoke	speak	VBD	speak-v
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 then	then	then	RB	then-r
 decides	decides	decide	VBZ	decide-v
@@ -2214,6 +2306,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 dungeon	dungeon	dungeon	NN	dungeon-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 discovery	discovery	discovery	NN	discovery-n
 of	of	of	IN	of-i
@@ -2228,6 +2321,7 @@ decides	decides	decide	VBZ	decide-v
 to	to	to	TO	to-t
 help	help	help	VB	help-v
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 gives	gives	give	VBZ	give-v
 the	the	the	DT	the-d
@@ -2243,6 +2337,7 @@ shortened	shortened	shorten	VBN	shorten-v
 to	to	to	TO	to-t
 Wiene	Wiene	Wiene	NNP	Wiene-e
 .	.	.	.	.-x
+
 Despite	Despite	despite	IN	despite-i
 the	the	the	DT	the-d
 best	best	best	JJS	best-j
@@ -2261,6 +2356,7 @@ girl	girl	girl	NN	girl-n
 start	start	start	NN	start-n
 spreading	spreading	spread	VBG	spread-v
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 mysterious	mysterious	mysterious	JJ	mysterious-j
 mission	mission	mission	NN	mission-n
@@ -2276,6 +2372,7 @@ to	to	to	TO	to-t
 floor	floor	floor	NN	floor-n
 20	20	20	CD	20-f
 .	.	.	.	.-x
+
 There	There	there	RB	there-r
 ,	,	,	,	,-x
 they	they	they	PRP	they-p
@@ -2301,6 +2398,7 @@ is	is	be	VBZ	be-v
 called	called	call	VBN	call-v
 Xenos	Xenos	Xenos	NNP	Xenos-e
 .	.	.	.	.-x
+
 Ouranos	Ouranos	Ouranos	NNP	Ouranos-e
 hopes	hopes	hope	VBZ	hope-v
 that	that	that	IN	that-i
@@ -2318,6 +2416,7 @@ humans	humans	human	NNS	human-n
 to	to	to	TO	to-t
 co-exist	co-exist	co-exist	VB	co-exist-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 revelation	revelation	revelation	NN	revelation-n
 of	of	of	IN	of-i
@@ -2348,6 +2447,7 @@ that	that	that	WDT	that-d
 threatens	threatens	threaten	VBZ	threaten-v
 humans	humans	human	NNS	human-n
 .	.	.	.	.-x
+
 Bell	Bell	Bell	NNP	Bell-e
 must	must	must	MD	must-v
 stand	stand	stand	VB	stand-v
@@ -2364,6 +2464,7 @@ to	to	to	TO	to-t
 save	save	save	VB	save-v
 all	all	all	DT	all-d
 .	.	.	.	.-x
+
 Unfortunately	Unfortunately	unfortunately	RB	unfortunately-r
 ,	,	,	,	,-x
 anime	anime	anime	NN	anime-n
@@ -2387,6 +2488,7 @@ resolves	resolves	resolve	VBZ	resolve-v
 this	this	this	DT	this-d
 crisis	crisis	crisis	NN	crisis-n
 .	.	.	.	.-x
+
 Thankfully	Thankfully	thankfully	RB	thankfully-r
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -2415,9 +2517,11 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 Dungeon	Dungeon	Dungeon	NNP	Dungeon-e
 ?	?	?	.	?-x
+
 Season	Season	season	NN	season-n
 3	3	3	CD	3-f
 follows	follows	follow	VBZ	follow-v
 soon	soon	soon	RB	soon-r
 after	after	after	IN	after-i
 .	.	.	.	.-x
+

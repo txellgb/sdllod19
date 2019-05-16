@@ -36,6 +36,7 @@ and	and	and	CC	and-c
 fresh	fresh	fresh	JJ	fresh-j
 foods	foods	food	NNS	food-n
 .	.	.	.	.-x
+
 Cigarette	Cigarette	cigarette	NN	cigarette-n
 sales	sales	sale	NNS	sale-n
 dropped	dropped	drop	VBD	drop-v
@@ -49,6 +50,7 @@ in	in	in	IN	in-i
 cigarette	cigarette	cigarette	NN	cigarette-n
 consumption	consumption	consumption	NN	consumption-n
 .	.	.	.	.-x
+
 Gross	Gross	Gross	NNP	Gross-e
 margin	margin	margin	NN	margin-n
 rate	rate	rate	NN	rate-n
@@ -72,6 +74,7 @@ margin	margin	margin	NN	margin-n
 non-cigarette	non-cigarette	non-cigarette	JJ	non-cigarette-j
 products	products	product	NNS	product-n
 .	.	.	.	.-x
+
 Adjusted	Adjusted	adjust	VBN	adjust-v
 EBITDA	EBITDA	ebitda	NN	ebitda-n
 up	up	up	IN	up-i
@@ -81,6 +84,7 @@ to	to	to	TO	to-t
 $	$	$	$	$-x
 39M	39M	39m	CD	39m-f
 .	.	.	.	.-x
+
 FY2019	FY2019	fy2019	NN	fy2019-n
 Guidance	Guidance	guidance	NN	guidance-n
 :	:	:	:	:-x
@@ -115,6 +119,7 @@ EPS	EPS	EPS	NNP	EPS-e
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 excl	excl	excl	NN	excl-n
 .	.	.	.	.-x
+
 LIFO	LIFO	LIFO	NNP	LIFO-e
 expense	expense	expense	NN	expense-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
@@ -144,6 +149,7 @@ outstanding	outstanding	outstanding	JJ	outstanding-j
 :	:	:	:	:-x
 46M	46M	46m	NN	46m-n
 .	.	.	.	.-x
+
 Previously	Previously	previously	RB	previously-r
 :	:	:	:	:-x
 Core-Mark	Core-Mark	Core-Mark	NNP	Core-Mark-e
@@ -160,6 +166,7 @@ revenue	revenue	revenue	NN	revenue-n
 March	March	March	NNP	March-e
 1	1	1	CD	1-f
 )	-RRB-	-rrb-	-RRB-	-rrb--x
+
 Now	Now	now	RB	now-r
 read	read	read	VBN	read-v
 :	:	:	:	:-x
@@ -173,3 +180,4 @@ improves	improves	improve	VBZ	improve-v
 in	in	in	IN	in-i
 Q4	Q4	q4	NN	q4-n
 "	''	''	''	''-x
+

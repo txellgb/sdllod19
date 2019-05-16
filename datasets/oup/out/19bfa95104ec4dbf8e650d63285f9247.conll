@@ -30,6 +30,7 @@ of	of	of	IN	of-i
 five	five	five	CD	five-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 a	a	a	DT	a-d
 media	media	media	NNS	media-n
@@ -69,6 +70,7 @@ of	of	of	IN	of-i
 five	five	five	CD	five-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 release	release	release	NN	release-n
 said	said	say	VBD	say-v
@@ -96,6 +98,7 @@ in	in	in	IN	in-i
 December	December	December	NNP	December-e
 2017	2017	2017	CD	2017-f
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -120,6 +123,7 @@ the	the	the	DT	the-d
 media	media	media	NNS	media-n
 release	release	release	NN	release-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 During	During	during	IN	during-i
 the	the	the	DT	the-d
@@ -151,6 +155,7 @@ limited	limited	limited	JJ	limited-j
 conservation	conservation	conservation	NN	conservation-n
 options	options	option	NNS	option-n
 .	.	.	.	.-x
+
 A	A	a	DT	a-d
 gradual	gradual	gradual	JJ	gradual-j
 return	return	return	NN	return-n
@@ -167,6 +172,7 @@ residential	residential	residential	JJ	residential-j
 customers	customers	customer	NNS	customer-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 FortisBC	FortisBC	FortisBC	NNP	FortisBC-e
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -201,6 +207,7 @@ encourage	encourage	encourage	VB	encourage-v
 energy	energy	energy	NN	energy-n
 conservation	conservation	conservation	NN	conservation-n
 .	.	.	.	.-x
+
 Customers	Customers	customer	NNS	customer-n
 pay	pay	pay	VBP	pay-v
 a	a	a	DT	a-d
@@ -221,6 +228,7 @@ a	a	a	DT	a-d
 two-month	two-month	two-month	JJ	two-month-j
 period	period	period	NN	period-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 company	company	company	NN	company-n
 said	said	say	VBD	say-v
@@ -248,6 +256,7 @@ the	the	the	DT	the-d
 two-tiered	two-tiered	two-tiered	JJ	two-tiered-j
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 could	could	could	MD	could-v
 also	also	also	RB	also-r
@@ -266,6 +275,7 @@ the	the	the	DT	the-d
 two-tiered	two-tiered	two-tiered	JJ	two-tiered-j
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 phased	phased	phased	JJ	phased-j
 approach	approach	approach	NN	approach-n
@@ -290,6 +300,7 @@ cent	cent	cent	NN	cent-n
 per	per	per	IN	per-i
 year	year	year	NN	year-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 actual	actual	actual	JJ	actual-j
 change	change	change	NN	change-n
@@ -303,6 +314,7 @@ depending	depending	depend	VBG	depend-v
 on	on	on	IN	on-i
 use	use	use	NN	use-n
 .	.	.	.	.-x
+
 Returning	Returning	return	VBG	return-v
 to	to	to	TO	to-t
 a	a	a	DT	a-d
@@ -313,6 +325,7 @@ revenue-neutral	revenue-neutral	revenue-neutral	JJ	revenue-neutral-j
 for	for	for	IN	for-i
 FortisBC	FortisBC	fortisbc	NN	fortisbc-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Helping	Helping	help	VBG	help-v
 customers	customers	customer	NNS	customer-n
@@ -363,6 +376,7 @@ need	need	need	VBP	need-v
 help	help	help	NN	help-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 As	As	as	IN	as-i
 a	a	a	DT	a-d
 regulated	regulated	regulated	JJ	regulated-j
@@ -387,6 +401,7 @@ with	with	with	IN	with-i
 the	the	the	DT	the-d
 BCUC	BCUC	BCUC	NNP	BCUC-e
 .	.	.	.	.-x
+
 This	This	this	DT	this-d
 involves	involves	involve	VBZ	involve-v
 a	a	a	DT	a-d
@@ -412,6 +427,7 @@ for	for	for	IN	for-i
 rate	rate	rate	NN	rate-n
 design	design	design	NN	design-n
 .	.	.	.	.-x
+
 Through	Through	through	IN	through-i
 this	this	this	DT	this-d
 process	process	process	NN	process-n
@@ -441,6 +457,7 @@ from	from	from	IN	from-i
 13	13	13	CD	13-f
 interveners	interveners	intervener	NNS	intervener-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 would	would	would	MD	would-v
@@ -488,6 +505,7 @@ this	this	this	DT	this-d
 effort	effort	effort	NN	effort-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 BCUC	BCUC	bcuc	NN	bcuc-n
@@ -520,6 +538,7 @@ for	for	for	IN	for-i
 residential	residential	residential	JJ	residential-j
 customers	customers	customer	NNS	customer-n
 .	.	.	.	.-x
+
 FortisBC	FortisBC	fortisbc	NN	fortisbc-n
 is	is	be	VBZ	be-v
 continuing	continuing	continue	VBG	continue-v
@@ -543,6 +562,7 @@ rate	rate	rate	NN	rate-n
 design	design	design	NN	design-n
 changes	changes	change	NNS	change-n
 .	.	.	.	.-x
+
 Customers	Customers	customer	NNS	customer-n
 can	can	can	MD	can-v
 find	find	find	VB	find-v
@@ -566,7 +586,9 @@ costs	costs	cost	NNS	cost-n
 by	by	by	IN	by-i
 visiting	visiting	visit	VBG	visit-v
 fortisbc.com/flatrate	fortisbc.com/flatrate	fortisbc.com/flatrate	JJ	fortisbc.com/flatrate-j
+
 or	or	or	CC	or-c
 calling	calling	call	VBG	call-v
 1-866-436-7847	1-866-436-7847	1-866-436-7847	CD	1-866-436-7847-f
 .	.	.	.	.-x
+

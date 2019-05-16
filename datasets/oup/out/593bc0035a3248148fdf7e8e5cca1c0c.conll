@@ -24,6 +24,7 @@ of	of	of	IN	of-i
 Assembly	Assembly	assembly	NN	assembly-n
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+
 Festus	Festus	Festus	NNP	Festus-e
 Okoye	Okoye	Okoye	NNP	Okoye-e
 ,	,	,	,	,-x
@@ -64,6 +65,7 @@ of	of	of	IN	of-i
 assembly	assembly	assembly	NN	assembly-n
 elections	elections	election	NNS	election-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 said	said	say	VBD	say-v
 the	the	the	DT	the-d
@@ -87,6 +89,7 @@ Thursday	Thursday	Thursday	NNP	Thursday-e
 in	in	in	IN	in-i
 Abuja	Abuja	Abuja	NNP	Abuja-e
 .	.	.	.	.-x
+
 INEC	INEC	inec	NNS	inec-n
 had	had	have	VBD	have-v
 cancelled	cancelled	cancel	VBN	cancel-v
@@ -115,6 +118,8 @@ and	and	and	CC	and-c
 Anambra	Anambra	Anambra	NNP	Anambra-e
 states	states	state	NNS	state-n
 .	.	.	.	.-x
+
 Source	Source	source	NN	source-n
 :	:	:	:	:-x
 https://www.twitter.com/inecnigeria/status/1101442933755133952/photo/2	https://www.twitter.com/inecnigeria/status/1101442933755133952/photo/2	https://www.twitter.com/inecnigeria/status/1101442933755133952/photo/2	NN	https://www.twitter.com/inecnigeria/status/1101442933755133952/photo/2-n
+

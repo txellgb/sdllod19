@@ -37,6 +37,7 @@ K2	K2	k2	NN	k2-n
 in	in	in	IN	in-i
 1995	1995	1995	CD	1995-f
 .	.	.	.	.-x
+
 Helicopters	Helicopters	Helicopters	NNPS	Helicopters-e
 have	have	have	VBP	have-v
 been	been	be	VBN	be-v
@@ -70,6 +71,7 @@ from	from	from	IN	from-i
 since	since	since	IN	since-i
 Sunday	Sunday	Sunday	NNP	Sunday-e
 .	.	.	.	.-x
+
 Tom	Tom	Tom	NNP	Tom-e
 's	's	's	POS	's-p
 father	father	father	NN	father-n
@@ -110,6 +112,7 @@ at	at	at	IN	at-i
 Twickenham	Twickenham	Twickenham	NNP	Twickenham-e
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 His	His	he	PRP$	he-p
 wife	wife	wife	NN	wife-n
 ,	,	,	,	,-x
@@ -128,6 +131,7 @@ of	of	of	IN	of-i
 Everest	Everest	Everest	NNP	Everest-e
 unaided	unaided	unaided	JJ	unaided-j
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 died	died	die	VBD	die-v
 in	in	in	IN	in-i
@@ -154,6 +158,7 @@ never	never	never	RB	never-r
 been	been	be	VBN	be-v
 found	found	find	VBN	find-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 takes	takes	take	VBZ	take-v
@@ -170,6 +175,7 @@ told	told	tell	VBD	tell-v
 The	The	the	DT	the-d
 Times	Times	Times	NNPS	Times-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 the	the	the	DT	the-d
@@ -192,6 +198,7 @@ camp	camp	camp	NN	camp-n
 at	at	at	IN	at-i
 K2	K2	k2	NN	k2-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 the	the	the	DT	the-d
 same	same	same	JJ	same-j
@@ -212,6 +219,7 @@ and	and	and	CC	and-c
 did	did	do	VBD	do-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 On	On	on	IN	on-i
 Thursday	Thursday	Thursday	NNP	Thursday-e
 "	``	``	``	``-x
@@ -243,6 +251,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 helicopter	helicopter	helicopter	NN	helicopter-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 has	has	have	VBZ	have-v
 not	not	not	RB	not-r
@@ -257,6 +266,7 @@ Tom	Tom	Tom	NNP	Tom-e
 and	and	and	CC	and-c
 Daniele	Daniele	Daniele	NNP	Daniele-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 2015	2015	2015	CD	2015-f
 ,	,	,	,	,-x
@@ -284,6 +294,7 @@ in	in	in	IN	in-i
 one	one	one	CD	one-f
 winter	winter	winter	NN	winter-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 has	has	have	VBZ	have-v
 previously	previously	previously	RB	previously-r
@@ -321,6 +332,7 @@ his	his	he	PRP$	he-p
 DNA	DNA	dna	NN	dna-n
 "	''	''	''	''-x
 .	.	.	.	.-x
+
 Ian	Ian	Ian	NNP	Ian-e
 Sykes	Sykes	Sykes	NNP	Sykes-e
 ,	,	,	,	,-x
@@ -375,3 +387,4 @@ in	in	in	IN	in-i
 this	this	this	DT	this-d
 case	case	case	NN	case-n
 .	.	.	.	.-x
+

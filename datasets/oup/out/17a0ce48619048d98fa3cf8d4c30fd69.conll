@@ -88,6 +88,7 @@ political	political	political	JJ	political-j
 strata	strata	strata	NN	strata-n
 abound	abound	abound	VBP	abound-v
 .	.	.	.	.-x
+
 Entrepreneurship	Entrepreneurship	entrepreneurship	NN	entrepreneurship-n
 Of	Of	of	IN	of-i
 The	The	the	DT	the-d
@@ -95,6 +96,7 @@ Average	Average	average	JJ	average-j
 Nigerian	Nigerian	nigerian	JJ	nigerian-j
 On	On	on	IN	on-i
 Display	Display	display	VB	display-v
+
 By	By	by	IN	by-i
 Daniel	Daniel	Daniel	NNP	Daniel-e
 Anazia	Anazia	Anazia	NNP	Anazia-e
@@ -104,6 +106,7 @@ Thomas-Odia	Thomas-Odia	Thomas-Odia	NNP	Thomas-Odia-e
 and	and	and	CC	and-c
 Maria	Maria	Maria	NNP	Maria-e
 Diamond	Diamond	Diamond	NNP	Diamond-e
+
 The	The	the	DT	the-d
 Executive	Executive	Executive	NNP	Executive-e
 Director	Director	Director	NNP	Director-e
@@ -160,6 +163,7 @@ seat	seat	seat	NN	seat-n
 among	among	among	IN	among-i
 others	others	other	NNS	other-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 As	As	as	IN	as-i
 an	an	a	DT	a-d
@@ -176,6 +180,7 @@ were	were	be	VBD	be-v
 also	also	also	RB	also-r
 disenfranchised	disenfranchised	disenfranchise	VBN	disenfranchise-v
 .	.	.	.	.-x
+
 They	They	they	PRP	they-p
 had	had	have	VBD	have-v
 their	their	they	PRP$	they-p
@@ -206,6 +211,7 @@ the	the	the	DT	the-d
 physical	physical	physical	JJ	physical-j
 register	register	register	NN	register-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 was	was	be	VBD	be-v
@@ -254,6 +260,7 @@ able	able	able	JJ	able-j
 to	to	to	TO	to-t
 vote	vote	vote	VB	vote-v
 .	.	.	.	.-x
+
 Her	Her	she	PRP$	she-p
 case	case	case	NN	case-n
 was	was	be	VBD	be-v
@@ -275,6 +282,7 @@ similar	similar	similar	JJ	similar-j
 experiences	experiences	experience	NNS	experience-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 For	For	for	IN	for-i
 human	human	human	JJ	human-j
 rights	rights	rights	NNS	rights-n
@@ -354,6 +362,7 @@ a	a	a	DT	a-d
 positive	positive	positive	JJ	positive-j
 affirmation	affirmation	affirmation	NN	affirmation-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
@@ -410,6 +419,7 @@ anyone	anyone	anyone	NN	anyone-n
 or	or	or	CC	or-c
 government	government	government	NN	government-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 am	am	be	VBP	be-v
 a	a	a	DT	a-d
@@ -459,6 +469,7 @@ anyone	anyone	anyone	NN	anyone-n
 for	for	for	IN	for-i
 survival	survival	survival	NN	survival-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Go	Go	go	VB	go-v
 back	back	back	RB	back-r
@@ -479,6 +490,7 @@ need	need	need	VBP	need-v
 .	.	.	.	.-x
 "	``	``	``	``-x
 For	For	for	IN	for-i
+
 some	some	some	DT	some-d
 voters	voters	voter	NNS	voter-n
 at	at	at	IN	at-i
@@ -502,6 +514,7 @@ make	make	make	VB	make-v
 new	new	new	JJ	new-j
 friends	friends	friend	NNS	friend-n
 .	.	.	.	.-x
+
 Ikenna	Ikenna	Ikenna	NNP	Ikenna-e
 Igwe	Igwe	Igwe	NNP	Igwe-e
 said	said	say	VBD	say-v
@@ -525,6 +538,7 @@ of	of	of	IN	of-i
 like	like	like	IN	like-i
 minds	minds	mind	NNS	mind-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 remember	remember	remember	VBP	remember-v
 reminiscing	reminiscing	reminisce	VBG	reminisce-v
@@ -541,6 +555,7 @@ later	later	later	RB	later-r
 at	at	at	IN	at-i
 night	night	night	NN	night-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 There	There	there	EX	there-r
 was	was	be	VBD	be-v
@@ -624,6 +639,7 @@ everyone	everyone	everyone	NN	everyone-n
 's	's	's	POS	's-p
 business	business	business	NN	business-n
 .	.	.	.	.-x
+
 N'gwanu	N'gwanu	n'gwanu	NN	n'gwanu-n
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 alright	alright	alright	JJ	alright-j
@@ -633,6 +649,7 @@ speak	speak	speak	VBP	speak-v
 out	out	out	RP	out-x
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 He	He	he	PRP	he-p
 beckoned	beckoned	beckon	VBD	beckon-v
 to	to	to	TO	to-t
@@ -671,6 +688,7 @@ actually	actually	actually	RB	actually-r
 forgot	forgot	forget	VBD	forget-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -699,6 +717,7 @@ elections	elections	election	NNS	election-n
 he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Okwanuzo	Okwanuzo	Okwanuzo	NNP	Okwanuzo-e
 Nwanneri	Nwanneri	Nwanneri	NNP	Nwanneri-e
 ,	,	,	,	,-x
@@ -712,6 +731,7 @@ experience	experience	experience	NN	experience-n
 as	as	as	IN	as-i
 one-in-a-lifetime	one-in-a-lifetime	one-in-a-lifetime	NN	one-in-a-lifetime-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 came	came	come	VBD	come-v
@@ -745,6 +765,7 @@ I	I	I	PRP	I-p
 moved	moved	move	VBD	move-v
 there	there	there	RB	there-r
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 some	some	some	DT	some-d
 reasons	reasons	reason	NNS	reason-n
@@ -773,6 +794,7 @@ here	here	here	RB	here-r
 in	in	in	IN	in-i
 Lagos	Lagos	Lagos	NNP	Lagos-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 However	However	however	RB	however-r
 ,	,	,	,	,-x
@@ -787,6 +809,7 @@ my	my	my	PRP$	my-p
 first	first	first	JJ	first-j
 boyfriend	boyfriend	boyfriend	NN	boyfriend-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 lost	lost	lose	VBD	lose-v
 contact	contact	contact	NN	contact-n
@@ -829,6 +852,7 @@ the	the	the	DT	the-d
 polling	polling	polling	NN	polling-n
 unit	unit	unit	NN	unit-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 were	were	be	VBD	be-v
@@ -843,6 +867,7 @@ to	to	to	TO	to-t
 his	his	he	PRP$	he-p
 dad	dad	dad	NN	dad-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 insisted	insisted	insist	VBD	insist-v
 I	I	I	PRP	I-p
@@ -858,6 +883,7 @@ and	and	and	CC	and-c
 I	I	I	PRP	I-p
 did	did	do	VBD	do-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 next	next	next	JJ	next-j
 day	day	day	NN	day-n
@@ -898,6 +924,7 @@ that	that	that	DT	that-d
 was	was	be	VBD	be-v
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 asked	asked	ask	VBD	ask-v
 me	me	I	PRP	I-p
@@ -910,6 +937,7 @@ accepted	accepted	accept	VBD	accept-v
 without	without	without	IN	without-i
 hesitation	hesitation	hesitation	NN	hesitation-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 So	So	so	RB	so-r
 ,	,	,	,	,-x
@@ -927,6 +955,7 @@ my	my	my	PRP$	my-p
 story	story	story	NN	story-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 At	At	at	IN	at-i
 the	the	the	DT	the-d
 popular	popular	popular	JJ	popular-j
@@ -974,6 +1003,7 @@ as	as	as	IN	as-i
 set	set	set	VBN	set-v
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 When	When	when	WRB	when-r
 The	The	the	DT	the-d
 Guardian	Guardian	Guardian	NNP	Guardian-e
@@ -1003,6 +1033,7 @@ already	already	already	RB	already-r
 been	been	be	VBN	be-v
 decided	decided	decide	VBN	decide-v
 .	.	.	.	.-x
+
 As	As	as	IN	as-i
 one	one	one	CD	one-f
 of	of	of	IN	of-i
@@ -1038,6 +1069,7 @@ is	is	be	VBZ	be-v
 already	already	already	RB	already-r
 known	known	know	VBN	know-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Whether	Whether	whether	IN	whether-i
 I	I	I	PRP	I-p
@@ -1059,6 +1091,7 @@ will	will	will	MD	will-v
 be	be	be	VB	be-v
 rigged	rigged	rig	VBN	rig-v
 .	.	.	.	.-x
+
 Again	Again	again	RB	again-r
 ,	,	,	,	,-x
 those	those	those	DT	those-d
@@ -1090,6 +1123,7 @@ as	as	as	IN	as-i
 people	people	people	NNS	people-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 In	In	in	IN	in-i
 Alapere	Alapere	Alapere	NNP	Alapere-e
 area	area	area	NN	area-n
@@ -1126,6 +1160,7 @@ their	their	they	PRP$	they-p
 voting	voting	voting	NN	voting-n
 rights	rights	rights	NNS	rights-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Rivers	Rivers	Rivers	NNP	Rivers-e
 ,	,	,	,	,-x
@@ -1133,9 +1168,11 @@ Survival	Survival	Survival	NNP	Survival-e
 Instinct	Instinct	Instinct	NNP	Instinct-e
 Is	Is	be	VBZ	be-v
 Key	Key	key	NN	key-n
+
 By	By	by	IN	by-i
 Chuks	Chuks	Chuks	NNP	Chuks-e
 Nwanne	Nwanne	Nwanne	NNP	Nwanne-e
+
 SOMEHOW	SOMEHOW	somehow	RB	somehow-r
 ,	,	,	,	,-x
 every	every	every	DT	every-d
@@ -1157,6 +1194,7 @@ to	to	to	TO	to-t
 be	be	be	VB	be-v
 crises-ridden	crises-ridden	crises-ridden	JJ	crises-ridden-j
 .	.	.	.	.-x
+
 Indeed	Indeed	indeed	RB	indeed-r
 ,	,	,	,	,-x
 it	it	it	PRP	it-p
@@ -1179,6 +1217,7 @@ lives	lives	life	NNS	life-n
 were	were	be	VBD	be-v
 lost	lost	lose	VBN	lose-v
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 residents	residents	resident	NNS	resident-n
 of	of	of	IN	of-i
@@ -1205,6 +1244,7 @@ instinct	instinct	instinct	NN	instinct-n
 is	is	be	VBZ	be-v
 key	key	key	JJ	key-j
 .	.	.	.	.-x
+
 Having	Having	have	VBG	have-v
 experienced	experienced	experience	VBN	experience-v
 the	the	the	DT	the-d
@@ -1225,6 +1265,7 @@ surviving	surviving	survive	VBG	survive-v
 Rivers	Rivers	Rivers	NNP	Rivers-e
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -1249,6 +1290,7 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 lily-livered	lily-livered	lily-livered	JJ	lily-livered-j
 .	.	.	.	.-x
+
 Take	Take	take	VB	take-v
 away	away	away	RP	away-x
 Lagos	Lagos	Lagos	NNP	Lagos-e
@@ -1277,6 +1319,7 @@ the	the	the	DT	the-d
 Garden	Garden	Garden	NNP	Garden-e
 City	City	City	NNP	City-e
 .	.	.	.	.-x
+
 Unlike	Unlike	unlike	IN	unlike-i
 the	the	the	DT	the-d
 days	days	day	NNS	day-n
@@ -1321,6 +1364,7 @@ real	real	real	JJ	real-j
 "	``	``	``	``-x
 Oga	Oga	Oga	NNP	Oga-e
 ,	,	,	,	,-x
+
 I	I	I	PRP	I-p
 will	will	will	MD	will-v
 carry	carry	carry	VB	carry-v
@@ -1345,6 +1389,7 @@ the	the	the	DT	the-d
 arrival	arrival	arrival	NN	arrival-n
 hall	hall	hall	NN	hall-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Port	Port	Port	NNP	Port-e
 Harcourt	Harcourt	Harcourt	NNP	Harcourt-e
@@ -1356,6 +1401,7 @@ a	a	a	DT	a-d
 political	political	political	JJ	political-j
 analyst	analyst	analyst	NN	analyst-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 if	if	if	IN	if-i
 you	you	you	PRP	you-p
@@ -1392,6 +1438,7 @@ much	much	much	JJ	much-j
 they	they	they	PRP	they-p
 know	know	know	VBP	know-v
 .	.	.	.	.-x
+
 Do	Do	do	VBP	do-v
 n't	n't	not	RB	not-r
 go	go	go	VB	go-v
@@ -1433,6 +1480,7 @@ of	of	of	IN	of-i
 Rivers	Rivers	Rivers	NNP	Rivers-e
 politics	politics	politics	NNS	politics-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Amaechi	Amaechi	Amaechi	NNP	Amaechi-e
 created	created	create	VBD	create-v
@@ -1454,6 +1502,7 @@ for	for	for	IN	for-i
 this	this	this	DT	this-d
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 not	not	not	RB	not-r
 ,	,	,	,	,-x
@@ -1475,6 +1524,7 @@ has	has	have	VBZ	have-v
 stopped	stopped	stop	VBN	stop-v
 APC	APC	apc	NN	apc-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 not	not	not	RB	not-r
 ,	,	,	,	,-x
@@ -1499,6 +1549,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 airport	airport	airport	NN	airport-n
 .	.	.	.	.-x
+
 Do	Do	do	VBP	do-v
 n't	n't	not	RB	not-r
 ever	ever	ever	RB	ever-r
@@ -1519,6 +1570,7 @@ is	is	be	VBZ	be-v
 usually	usually	usually	RB	usually-r
 authentic	authentic	authentic	JJ	authentic-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Last	Last	last	JJ	last-j
 week	week	week	NN	week-n
@@ -1542,6 +1594,7 @@ they	they	they	PRP	they-p
 are	are	be	VBP	be-v
 politicians	politicians	politician	NNS	politician-n
 .	.	.	.	.-x
+
 From	From	from	IN	from-i
 their	their	they	PRP$	they-p
 conversation	conversation	conversation	NN	conversation-n
@@ -1563,6 +1616,7 @@ has	has	have	VBZ	have-v
 federal	federal	federal	JJ	federal-j
 might	might	might	NN	might-n
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 heard	heard	hear	VBD	hear-v
 a	a	a	DT	a-d
@@ -1579,6 +1633,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 airport	airport	airport	NN	airport-n
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
 dropped	dropped	drop	VBD	drop-v
@@ -1593,6 +1648,7 @@ well	well	well	RB	well-r
 ,	,	,	,	,-x
 well	well	well	RB	well-r
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 had	had	have	VBD	have-v
 negotiated	negotiated	negotiate	VBN	negotiate-v
@@ -1605,6 +1661,7 @@ gave	gave	give	VBD	give-v
 me	me	I	PRP	I-p
 N5000	N5000	n5000	NN	n5000-n
 .	.	.	.	.-x
+
 Oga	Oga	Oga	NNP	Oga-e
 ,	,	,	,	,-x
 I	I	I	PRP	I-p
@@ -1620,6 +1677,7 @@ he	he	he	PRP	he-p
 said	said	say	VBD	say-v
 jokingly	jokingly	jokingly	RB	jokingly-r
 .	.	.	.	.-x
+
 Talk	Talk	talk	NN	talk-n
 of	of	of	IN	of-i
 vote	vote	vote	NN	vote-n
@@ -1650,6 +1708,7 @@ Guardian	Guardian	Guardian	NNP	Guardian-e
 "	``	``	``	``-x
 Ah	Ah	ah	UH	ah-u
 ,	,	,	,	,-x
+
 my	my	my	PRP$	my-p
 friends	friends	friend	NNS	friend-n
 have	have	have	VBP	have-v
@@ -1658,6 +1717,7 @@ their	their	they	PRP$	they-p
 votes	votes	vote	NNS	vote-n
 already	already	already	RB	already-r
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 I	I	I	PRP	I-p
 take	take	take	VBP	take-v
@@ -1679,6 +1739,7 @@ N5000	N5000	n5000	NN	n5000-n
 or	or	or	CC	or-c
 N6000	N6000	n6000	NN	n6000-n
 .	.	.	.	.-x
+
 But	But	but	CC	but-c
 they	they	they	PRP	they-p
 will	will	will	MD	will-v
@@ -1705,6 +1766,7 @@ Port	Port	Port	NNP	Port-e
 Harcourt	Harcourt	Harcourt	NNP	Harcourt-e
 revealed	revealed	reveal	VBD	reveal-v
 .	.	.	.	.-x
+
 Asked	Asked	ask	VBN	ask-v
 if	if	if	IN	if-i
 he	he	he	PRP	he-p
@@ -1728,6 +1790,7 @@ till	till	till	IN	till-i
 election	election	election	NN	election-n
 day	day	day	NN	day-n
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 that	that	that	DT	that-d
 time	time	time	NN	time-n
@@ -1747,6 +1810,7 @@ happened	happened	happen	VBD	happen-v
 last	last	last	JJ	last-j
 time	time	time	NN	time-n
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 ,	,	,	,	,-x
 I	I	I	PRP	I-p
@@ -1798,6 +1862,7 @@ and	and	and	CC	and-c
 polling	polling	polling	NN	polling-n
 units	units	unit	NNS	unit-n
 .	.	.	.	.-x
+
 Though	Though	though	IN	though-i
 provision	provision	provision	NN	provision-n
 was	was	be	VBD	be-v
@@ -1828,6 +1893,7 @@ heavily	heavily	heavily	RB	heavily-r
 guarded	guarded	guard	VBN	guard-v
 gate	gate	gate	NN	gate-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 when	when	when	WRB	when-r
 an	an	a	DT	a-d
@@ -1858,6 +1924,7 @@ said	said	say	VBD	say-v
 which	which	which	WDT	which-d
 election	election	election	NN	election-n
 ?	?	?	.	?-x
+
 Will	Will	will	MD	will-v
 that	that	that	WDT	that-d
 pay	pay	pay	VBP	pay-v
@@ -1867,6 +1934,7 @@ children	children	child	NNS	child-n
 school	school	school	NN	school-n
 fees	fees	fee	NNS	fee-n
 ?	?	?	.	?-x
+
 Whether	Whether	whether	IN	whether-i
 you	you	you	PRP	you-p
 vote	vote	vote	VBP	vote-v
@@ -1883,6 +1951,7 @@ have	have	have	VB	have-v
 their	their	they	PRP$	they-p
 way	way	way	NN	way-n
 .	.	.	.	.-x
+
 Na	Na	na	NN	na-n
 dis	dis	di	VBZ	di-v
 one	one	one	CD	one-f
@@ -1912,6 +1981,7 @@ recruits	recruits	recruit	VBZ	recruit-v
 Domestic	Domestic	domestic	JJ	domestic-j
 Observers	Observers	observer	NNS	observer-n
 ?	?	?	.	?-x
+
 Well	Well	well	RB	well-r
 ,	,	,	,	,-x
 maybe	maybe	maybe	RB	maybe-r
@@ -1935,6 +2005,7 @@ for	for	for	IN	for-i
 their	their	they	PRP$	they-p
 pockets	pockets	pocket	NNS	pocket-n
 .	.	.	.	.-x
+
 As	As	as	RB	as-r
 soon	soon	soon	RB	soon-r
 as	as	as	IN	as-i
@@ -1979,6 +2050,7 @@ from	from	from	IN	from-i
 his	his	he	PRP$	he-p
 people	people	people	NNS	people-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 Dimgba	Dimgba	dimgba	NN	dimgba-n
 of	of	of	IN	of-i
@@ -1999,6 +2071,7 @@ came	came	come	VBD	come-v
 too	too	too	RB	too-r
 close	close	close	RB	close-r
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 hailing	hailing	hail	VBG	hail-v
@@ -2034,6 +2107,7 @@ be	be	be	VB	be-v
 blessed	blessed	bless	VBN	bless-v
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Meanwhile	Meanwhile	meanwhile	RB	meanwhile-r
 ,	,	,	,	,-x
 a	a	a	DT	a-d
@@ -2064,6 +2138,7 @@ of	of	of	IN	of-i
 Governor	Governor	Governor	NNP	Governor-e
 Wike	Wike	Wike	NNP	Wike-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -2101,6 +2176,7 @@ men	men	man	NNS	man-n
 prevented	prevented	prevent	VBD	prevent-v
 her	her	she	PRP	she-p
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -2117,6 +2193,7 @@ the	the	the	DT	the-d
 woman	woman	woman	NN	woman-n
 away	away	away	RB	away-r
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 the	the	the	DT	the-d
 drama	drama	drama	NN	drama-n
@@ -2138,6 +2215,7 @@ of	of	of	IN	of-i
 blessing	blessing	blessing	NN	blessing-n
 .	.	.	.	.-x
 '	'	'	''	'-x
+
 Just	Just	just	RB	just-r
 as	as	as	IN	as-i
 he	he	he	PRP	he-p
@@ -2168,6 +2246,7 @@ the	the	the	DT	the-d
 poor	poor	poor	JJ	poor-j
 woman	woman	woman	NN	woman-n
 .	.	.	.	.-x
+
 You	You	you	PRP	you-p
 need	need	need	VBP	need-v
 to	to	to	TO	to-t
@@ -2212,6 +2291,7 @@ atmosphere	atmosphere	atmosphere	NN	atmosphere-n
 became	became	become	VBD	become-v
 charged	charged	charge	VBN	charge-v
 .	.	.	.	.-x
+
 As	As	as	RB	as-r
 soon	soon	soon	RB	soon-r
 as	as	as	IN	as-i
@@ -2260,6 +2340,7 @@ man	man	man	NN	man-n
 's	's	's	POS	's-p
 show	show	show	NN	show-n
 .	.	.	.	.-x
+
 Out	Out	out	IN	out-i
 of	of	of	IN	of-i
 sight	sight	sight	NN	sight-n
@@ -2282,6 +2363,7 @@ any	any	any	DT	any-d
 Domestic	Domestic	domestic	JJ	domestic-j
 Observer	Observer	Observer	NNP	Observer-e
 .	.	.	.	.-x
+
 Voters	Voters	voter	NNS	voter-n
 '	`	`	``	`-x
 Entertained	Entertained	entertain	VBN	entertain-v
@@ -2289,6 +2371,7 @@ Entertained	Entertained	entertain	VBN	entertain-v
 After	After	after	IN	after-i
 Casting	Casting	cast	VBG	cast-v
 Votes	Votes	vote	NNS	vote-n
+
 IN	IN	in	IN	in-i
 Abia	Abia	Abia	NNP	Abia-e
 State	State	State	NNP	State-e
@@ -2336,6 +2419,7 @@ the	the	the	DT	the-d
 polling	polling	polling	NN	polling-n
 centres	centres	centre	NNS	centre-n
 .	.	.	.	.-x
+
 Oge	Oge	Oge	NNP	Oge-e
 Anyanwu	Anyanwu	Anyanwu	NNP	Anyanwu-e
 ,	,	,	,	,-x
@@ -2376,6 +2460,7 @@ the	the	the	DT	the-d
 last	last	last	JJ	last-j
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 This	This	this	DT	this-d
 was	was	be	VBD	be-v
@@ -2407,6 +2492,7 @@ vote	vote	vote	VB	vote-v
 he	he	he	PRP	he-p
 lamented	lamented	lament	VBD	lament-v
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 Ogele	Ogele	Ogele	NNP	Ogele-e
 in	in	in	IN	in-i
@@ -2520,6 +2606,7 @@ own	own	own	JJ	own-j
 entertainment	entertainment	entertainment	NN	entertainment-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Security	Security	security	NN	security-n
 agents	agents	agent	NNS	agent-n
 swooped	swooped	swoop	VBD	swoop-v
@@ -2557,6 +2644,7 @@ entertainments	entertainments	entertainment	NNS	entertainment-n
 and	and	and	CC	and-c
 left	left	leave	VBD	leave-v
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 Day	Day	Day	NNP	Day-e
 Akpabio	Akpabio	Akpabio	NNP	Akpabio-e
@@ -2565,11 +2653,13 @@ Sweated	Sweated	sweat	VBN	sweat-v
 '	'	'	''	'-x
 For	For	for	IN	for-i
 Votes	Votes	vote	NNS	vote-n
+
 From	From	from	IN	from-i
 Anietie	Anietie	Anietie	NNP	Anietie-e
 Akpan	Akpan	Akpan	NNP	Akpan-e
 ,	,	,	,	,-x
 Uyo	Uyo	Uyo	NNP	Uyo-e
+
 IN	IN	in	IN	in-i
 his	his	he	PRP$	he-p
 Ukana	Ukana	Ukana	NNP	Ukana-e
@@ -2648,6 +2738,7 @@ milled	milled	mill	VBN	mill-v
 around	around	around	IN	around-i
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 Akpabio	Akpabio	Akpabio	NNP	Akpabio-e
 and	and	and	CC	and-c
 his	his	he	PRP$	he-p
@@ -2731,6 +2822,7 @@ around	around	around	IN	around-i
 8.15	8.15	8.15	CD	8.15-f
 pm	pm	pm	NN	pm-n
 .	.	.	.	.-x
+
 Within	Within	within	IN	within-i
 that	that	that	DT	that-d
 period	period	period	NN	period-n
@@ -2759,6 +2851,7 @@ of	of	of	IN	of-i
 the	the	the	DT	the-d
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 Once	Once	once	RB	once-r
 in	in	in	IN	in-i
 a	a	a	DT	a-d
@@ -2794,6 +2887,7 @@ standing	standing	stand	VBG	stand-v
 beside	beside	beside	IN	beside-i
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 crowd	crowd	crowd	NN	crowd-n
 as	as	as	IN	as-i
@@ -2830,6 +2924,7 @@ venue	venue	venue	NN	venue-n
 of	of	of	IN	of-i
 election	election	election	NN	election-n
 .	.	.	.	.-x
+
 While	While	while	IN	while-i
 Akpabio	Akpabio	Akpabio	NNP	Akpabio-e
 was	was	be	VBD	be-v
@@ -2839,6 +2934,7 @@ something	something	something	NN	something-n
 strange	strange	strange	JJ	strange-j
 happened	happened	happen	VBD	happen-v
 .	.	.	.	.-x
+
 Voting	Voting	Voting	NNP	Voting-e
 had	had	have	VBD	have-v
 ended	ended	end	VBN	end-v
@@ -2858,6 +2954,7 @@ about	about	about	IN	about-i
 4:00	4:00	4:00	CD	4:00-f
 pm	pm	pm	NN	pm-n
 .	.	.	.	.-x
+
 Following	Following	follow	VBG	follow-v
 cases	cases	case	NNS	case-n
 of	of	of	IN	of-i
@@ -2948,6 +3045,7 @@ candidates	candidates	candidate	NNS	candidate-n
 wining	wining	wine	VBG	wine-v
 all	all	all	DT	all-d
 .	.	.	.	.-x
+
 Another	Another	another	DT	another-d
 behind	behind	behind	IN	behind-i
 the	the	the	DT	the-d
@@ -2972,6 +3070,7 @@ have	have	have	VBP	have-v
 gone	gone	go	VBN	go-v
 virile	virile	virile	JJ	virile-j
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 one	one	one	CD	one-f
 of	of	of	IN	of-i
@@ -3029,6 +3128,7 @@ village	village	village	NN	village-n
 .	.	.	.	.-x
 "	``	``	``	``-x
 I	I	I	PRP	I-p
+
 can	can	can	MD	can-v
 confidently	confidently	confidently	RB	confidently-r
 tell	tell	tell	VB	tell-v
@@ -3044,6 +3144,7 @@ for	for	for	IN	for-i
 three	three	three	CD	three-f
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 fact	fact	fact	NN	fact-n
 ,	,	,	,	,-x
@@ -3061,6 +3162,7 @@ within	within	within	IN	within-i
 three	three	three	CD	three-f
 hours	hours	hour	NNS	hour-n
 .	.	.	.	.-x
+
 PDP	PDP	pdp	NN	pdp-n
 died	died	die	VBD	die-v
 the	the	the	DT	the-d
@@ -3069,6 +3171,7 @@ I	I	i	CD	i-f
 left	left	leave	VBD	leave-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 Chai	Chai	Chai	NNP	Chai-e
 ,	,	,	,	,-x
 Mbom	Mbom	Mbom	NNP	Mbom-e
@@ -3087,6 +3190,7 @@ them	them	they	PRP	they-p
 especially	especially	especially	RB	especially-r
 Udom	Udom	Udom	NNP	Udom-e
 .	.	.	.	.-x
+
 I	I	I	PRP	I-p
 put	put	put	VBD	put-v
 him	him	he	PRP	he-p
@@ -3099,6 +3203,7 @@ him	him	he	PRP	he-p
 .	.	.	.	.-x
 (	-LRB-	-lrb-	-LRB-	-lrb--x
 He	He	he	PRP	he-p
+
 cried	cried	cry	VBD	cry-v
 mockingly	mockingly	mockingly	RB	mockingly-r
 and	and	and	CC	and-c
@@ -3116,6 +3221,7 @@ ntuagha	ntuagha	ntuagha	NN	ntuagha-n
 ke	ke	ke	NN	ke-n
 PDP	PDP	pdp	NN	pdp-n
 .	.	.	.	.-x
+
 Akpabio	Akpabio	Akpabio	NNP	Akpabio-e
 asio	asio	asio	NN	asio-n
 ukot	ukot	ukot	NN	ukot-n
@@ -3159,6 +3265,7 @@ his	his	he	PRP$	he-p
 village	village	village	NN	village-n
 )	-RRB-	-rrb-	-RRB-	-rrb--x
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 If	If	if	IN	if-i
 my	my	my	PRP$	my-p
@@ -3178,6 +3285,7 @@ with	with	with	IN	with-i
 my	my	my	PRP$	my-p
 gateman	gateman	gateman	NN	gateman-n
 ?	?	?	.	?-x
+
 I	I	I	PRP	I-p
 will	will	will	MD	will-v
 just	just	just	RB	just-r
@@ -3186,6 +3294,7 @@ him	him	he	PRP	he-p
 straight	straight	straight	RB	straight-r
 away	away	away	RB	away-r
 .	.	.	.	.-x
+
 By	By	by	IN	by-i
 the	the	the	DT	the-d
 time	time	time	NN	time-n
@@ -3227,6 +3336,7 @@ changing	changing	change	VBG	change-v
 the	the	the	DT	the-d
 names	names	name	NNS	name-n
 .	.	.	.	.-x
+
 For	For	for	IN	for-i
 instance	instance	instance	NN	instance-n
 ,	,	,	,	,-x
@@ -3272,6 +3382,7 @@ they	they	they	PRP	they-p
 put	put	put	VBD	put-v
 Akpabio	Akpabio	Akpabio	NNP	Akpabio-e
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 Calabar	Calabar	Calabar	NNP	Calabar-e
 ,	,	,	,	,-x
@@ -3307,6 +3418,7 @@ payment	payment	payment	NN	payment-n
 was	was	be	VBD	be-v
 introduced	introduced	introduce	VBN	introduce-v
 .	.	.	.	.-x
+
 At	At	at	IN	at-i
 Edem	Edem	Edem	NNP	Edem-e
 Otop	Otop	Otop	NNP	Otop-e
@@ -3337,6 +3449,7 @@ in	in	in	IN	in-i
 and	and	and	CC	and-c
 vote	vote	vote	NN	vote-n
 .	.	.	.	.-x
+
 Some	Some	some	DT	some-d
 voters	voters	voter	NNS	voter-n
 had	had	have	VBD	have-v
@@ -3367,6 +3480,7 @@ N1	N1	n1	NN	n1-n
 per	per	per	IN	per-i
 person	person	person	NN	person-n
 .	.	.	.	.-x
+
 AT	AT	at	IN	at-i
 a	a	a	DT	a-d
 polling	polling	polling	NN	polling-n
@@ -3422,6 +3536,7 @@ tightly	tightly	tightly	RB	tightly-r
 to	to	to	TO	to-t
 it	it	it	PRP	it-p
 .	.	.	.	.-x
+
 When	When	when	WRB	when-r
 asked	asked	ask	VBN	ask-v
 why	why	why	WRB	why-r
@@ -3439,6 +3554,7 @@ a	a	a	DT	a-d
 senate	senate	senate	NN	senate-n
 candidate	candidate	candidate	NN	candidate-n
 .	.	.	.	.-x
+
 Mrs.	Mrs.	Mrs.	NNP	Mrs.-e
 Mercy	Mercy	Mercy	NNP	Mercy-e
 Edosa	Edosa	Edosa	NNP	Edosa-e
@@ -3552,6 +3668,7 @@ her	her	she	PRP$	she-p
 one	one	one	CD	one-f
 vote	vote	vote	NN	vote-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 is	is	be	VBZ	be-v
 a	a	a	DT	a-d
@@ -3568,6 +3685,7 @@ this	this	this	DT	this-d
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 See	See	see	VB	see-v
 And	And	and	CC	and-c
@@ -3577,6 +3695,7 @@ Maxim	Maxim	Maxim	NNP	Maxim-e
 Reigns	Reigns	Reigns	NNP	Reigns-e
 In	In	in	IN	in-i
 Ondo	Ondo	Ondo	NNP	Ondo-e
+
 ONDO	ONDO	ONDO	NNP	ONDO-e
 State	State	State	NNP	State-e
 ,	,	,	,	,-x
@@ -3681,3 +3800,4 @@ for	for	for	IN	for-i
 the	the	the	DT	the-d
 vote	vote	vote	NN	vote-n
 .	.	.	.	.-x
+

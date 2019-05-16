@@ -59,6 +59,7 @@ of	of	of	IN	of-i
 academic	academic	academic	JJ	academic-j
 research	research	research	NN	research-n
 ....	...	...	:	...-x
+
 The	The	the	DT	the-d
 University	University	University	NNP	University-e
 of	of	of	IN	of-i
@@ -86,6 +87,7 @@ out	out	out	IN	out-i
 of	of	of	IN	of-i
 control	control	control	NN	control-n
 .	.	.	.	.-x
+
 '	'	'	''	'-x
 I	I	I	PRP	I-p
 fully	fully	fully	RB	fully-r
@@ -122,6 +124,7 @@ Security	Security	Security	NNP	Security-e
 Janet	Janet	Janet	NNP	Janet-e
 Napolitano	Napolitano	Napolitano	NNP	Napolitano-e
 .	.	.	.	.-x
+
 '	`	`	``	`-x
 This	This	this	DT	this-d
 issue	issue	issue	NN	issue-n
@@ -159,6 +162,7 @@ unfettered	unfettered	unfettered	JJ	unfettered-j
 access	access	access	NN	access-n
 '	'	'	''	'-x
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 break	break	break	NN	break-n
 came	came	come	VBD	come-v
@@ -182,3 +186,4 @@ and	and	and	CC	and-c
 the	the	the	DT	the-d
 publisher	publisher	publisher	NN	publisher-n
 ...	...	...	:	...-x
+

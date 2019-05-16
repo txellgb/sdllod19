@@ -36,6 +36,7 @@ and	and	and	CC	and-c
 her	her	she	PRP$	she-p
 family	family	family	NN	family-n
 .	.	.	.	.-x
+
 She	She	she	PRP	she-p
 wo	wo	will	MD	will-v
 n't	n't	not	RB	not-r
@@ -48,6 +49,7 @@ is	is	be	VBZ	be-v
 elected	elected	elect	VBN	elect-v
 mayor	mayor	mayor	NN	mayor-n
 .	.	.	.	.-x
+
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
 said	said	say	VBD	say-v
 Friday	Friday	Friday	NNP	Friday-e
@@ -87,6 +89,7 @@ his	his	he	PRP$	he-p
 fifth	fifth	fifth	JJ	fifth-j
 try	try	try	NN	try-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 're	're	be	VBP	be-v
@@ -100,6 +103,7 @@ the	the	the	DT	the-d
 police	police	police	NN	police-n
 department	department	department	NN	department-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
 important	important	important	JJ	important-j
@@ -116,6 +120,7 @@ the	the	the	DT	the-d
 Chicago	Chicago	Chicago	NNP	Chicago-e
 Sun-Times	Sun-Times	Sun-Times	NNP	Sun-Times-e
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -130,6 +135,7 @@ a	a	a	DT	a-d
 Chicago	Chicago	Chicago	NNP	Chicago-e
 native	native	native	NN	native-n
 .	.	.	.	.-x
+
 That	That	that	IN	that-i
 she	she	she	PRP	she-p
 worked	worked	work	VBD	work-v
@@ -159,6 +165,7 @@ public	public	public	JJ	public-j
 schools	schools	school	NNS	school-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 If	If	if	IN	if-i
 Jackson	Jackson	Jackson	NNP	Jackson-e
 agrees	agrees	agree	VBZ	agree-v
@@ -196,6 +203,7 @@ that	that	that	IN	that-i
 remain	remain	remain	VBP	remain-v
 vacant	vacant	vacant	JJ	vacant-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
@@ -203,6 +211,7 @@ to	to	to	TO	to-t
 heat	heat	heat	VB	heat-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 ca	ca	can	MD	can-v
 n't	n't	not	RB	not-r
@@ -210,6 +219,7 @@ let	let	let	VB	let-v
 them	them	they	PRP	they-p
 disintegrate	disintegrate	disintegrate	VB	disintegrate-v
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 they	they	they	PRP	they-p
 're	're	be	VBP	be-v
@@ -236,6 +246,7 @@ community	community	community	NN	community-n
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 It	It	it	PRP	it-p
 's	's	be	VBZ	be-v
@@ -262,6 +273,7 @@ into	into	into	IN	into-i
 community	community	community	NN	community-n
 resources	resources	resource	NNS	resource-n
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
 to	to	to	TO	to-t
@@ -276,6 +288,7 @@ four	four	four	CD	four-f
 years	years	year	NNS	year-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
 's	's	's	POS	's-p
 reference	reference	reference	NN	reference-n
@@ -295,6 +308,7 @@ promise	promise	promise	NN	promise-n
 to	to	to	TO	to-t
 dump	dump	dump	VB	dump-v
 Supt.	Supt.	Supt.	NNP	Supt.-e
+
 Eddie	Eddie	Eddie	NNP	Eddie-e
 Johnson	Johnson	Johnson	NNP	Johnson-e
 for	for	for	IN	for-i
@@ -315,6 +329,7 @@ Chicago	Chicago	Chicago	NNP	Chicago-e
 Police	Police	Police	NNP	Police-e
 Department	Department	Department	NNP	Department-e
 .	.	.	.	.-x
+
 Mayor	Mayor	Mayor	NNP	Mayor-e
 Rahm	Rahm	Rahm	NNP	Rahm-e
 Emanuel	Emanuel	Emanuel	NNP	Emanuel-e
@@ -343,6 +358,7 @@ McDonald	McDonald	McDonald	NNP	McDonald-e
 shooting	shooting	shooting	NN	shooting-n
 video	video	video	NN	video-n
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 Friday	Friday	Friday	NNP	Friday-e
 ,	,	,	,	,-x
@@ -377,6 +393,7 @@ continuing	continuing	continue	VBG	continue-v
 to	to	to	TO	to-t
 decline	decline	decline	VB	decline-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -384,6 +401,7 @@ not	not	not	RB	not-r
 targeting	targeting	target	VBG	target-v
 him	him	he	PRP	he-p
 .	.	.	.	.-x
+
 What	What	what	WP	what-p
 I	I	I	PRP	I-p
 've	've	have	VBP	have-v
@@ -424,6 +442,7 @@ case	case	case	NN	case-n
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -431,6 +450,7 @@ a	a	a	DT	a-d
 history	history	history	NN	history-n
 teacher	teacher	teacher	NN	teacher-n
 .	.	.	.	.-x
+
 If	If	if	IN	if-i
 you	you	you	PRP	you-p
 do	do	do	VBP	do-v
@@ -449,10 +469,12 @@ seriously	seriously	seriously	RB	seriously-r
 address	address	address	VB	address-v
 them	them	they	PRP	they-p
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 's	's	be	VBZ	be-v
 one	one	one	CD	one-f
 . . . .	...	...	:	...-x
+
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
 to	to	to	TO	to-t
@@ -465,6 +487,7 @@ for	for	for	IN	for-i
 our	our	we	PRP$	we-p
 officers	officers	officer	NNS	officer-n
 .	.	.	.	.-x
+
 And	And	and	CC	and-c
 the	the	the	DT	the-d
 third	third	third	JJ	third-j
@@ -485,6 +508,7 @@ most	most	most	RBS	most-r
 serious	serious	serious	JJ	serious-j
 crimes	crimes	crime	NNS	crime-n
 . . . .	...	...	:	...-x
+
 We	We	we	PRP	we-p
 have	have	have	VBP	have-v
 a	a	a	DT	a-d
@@ -495,6 +519,7 @@ rate	rate	rate	NN	rate-n
 for	for	for	IN	for-i
 murders	murders	murder	NNS	murder-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 national	national	national	JJ	national-j
 average	average	average	NN	average-n
@@ -506,6 +531,7 @@ what	what	what	WP	what-p
 percent	percent	percent	NN	percent-n
 ?	?	?	.	?-x
 "	''	''	''	''-x
+
 What	What	what	WP	what-p
 if	if	if	IN	if-i
 Johnson	Johnson	Johnson	NNP	Johnson-e
@@ -517,6 +543,7 @@ code	code	code	NN	code-n
 of	of	of	IN	of-i
 silence	silence	silence	NN	silence-n
 ?	?	?	.	?-x
+
 Is	Is	be	VBZ	be-v
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
 open	open	open	VB	open-v
@@ -527,6 +554,7 @@ on	on	on	IN	on-i
 the	the	the	DT	the-d
 job	job	job	NN	job-n
 ?	?	?	.	?-x
+
 "	``	``	``	``-x
 I	I	I	PRP	I-p
 'm	'm	be	VBP	be-v
@@ -541,6 +569,7 @@ people	people	people	NNS	people-n
 she	she	she	PRP	she-p
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 Also	Also	also	RB	also-r
 on	on	on	IN	on-i
 Friday	Friday	Friday	NNP	Friday-e
@@ -594,6 +623,7 @@ such	such	such	PDT	such-d
 a	a	a	DT	a-d
 deal	deal	deal	NN	deal-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 city	city	city	NN	city-n
@@ -612,6 +642,7 @@ are	are	be	VBP	be-v
 fearful	fearful	fearful	JJ	fearful-j
 of	of	of	IN	of-i
 .	.	.	.	.-x
+
 We	We	we	PRP	we-p
 can	can	can	MD	can-v
 have	have	have	VB	have-v
@@ -627,6 +658,7 @@ and	and	and	CC	and-c
 the	the	the	DT	the-d
 community	community	community	NN	community-n
 . . . .	...	...	:	...-x
+
 It	It	it	PRP	it-p
 does	does	do	VBZ	do-v
 n't	n't	not	RB	not-r
@@ -641,6 +673,7 @@ center	center	center	NN	center-n
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
 said	said	say	VBD	say-v
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 When	When	when	WRB	when-r
 I	I	I	PRP	I-p
@@ -669,6 +702,7 @@ at	at	at	IN	at-i
 Michael	Michael	Michael	NNP	Michael-e
 Reese	Reese	Reese	NNP	Reese-e
 .	.	.	.	.-x
+
 So	So	so	RB	so-r
 ,	,	,	,	,-x
 we	we	we	PRP	we-p
@@ -690,6 +724,7 @@ the	the	the	DT	the-d
 City	City	City	NNP	City-e
 Council	Council	Council	NNP	Council-e
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 does	does	do	VBZ	do-v
 n't	n't	not	RB	not-r
@@ -699,6 +734,7 @@ involve	involve	involve	VB	involve-v
 the	the	the	DT	the-d
 library	library	library	NN	library-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 can	can	can	MD	can-v
 involve	involve	involve	VB	involve-v
@@ -709,6 +745,7 @@ community	community	community	NN	community-n
 residents	residents	resident	NNS	resident-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Johnson	Johnson	Johnson	NNP	Johnson-e
 reacted	reacted	react	VBD	react-v
 angrily	angrily	angrily	RB	angrily-r
@@ -748,6 +785,7 @@ this	this	this	DT	this-d
 job	job	job	NN	job-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Without	Without	without	IN	without-i
 mentioning	mentioning	mention	VBG	mention-v
 Preckwinkle	Preckwinkle	Preckwinkle	NNP	Preckwinkle-e
@@ -778,6 +816,7 @@ in	in	in	IN	in-i
 a	a	a	DT	a-d
 deposition	deposition	deposition	NN	deposition-n
 .	.	.	.	.-x
+
 Johnson	Johnson	Johnson	NNP	Johnson-e
 said	said	say	VBD	say-v
 then	then	then	RB	then-r
@@ -791,6 +830,7 @@ that	that	that	WDT	that-d
 's	's	be	VBZ	be-v
 unprecedented	unprecedented	unprecedented	JJ	unprecedented-j
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 But	But	but	CC	but-c
 the	the	the	DT	the-d
@@ -814,3 +854,4 @@ or	or	or	CC	or-c
 two	two	two	CD	two-f
 years	years	year	NNS	year-n
 . . . .	...	...	:	...-x
+

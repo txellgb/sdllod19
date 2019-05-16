@@ -15,6 +15,7 @@ Airport	Airport	Airport	NNP	Airport-e
 in	in	in	IN	in-i
 Prague	Prague	Prague	NNP	Prague-e
 .	.	.	.	.-x
+
 /	/	/	:	/-x
 Courtesy	Courtesy	courtesy	NN	courtesy-n
 of	of	of	IN	of-i
@@ -26,6 +27,7 @@ to	to	to	TO	to-t
 the	the	the	DT	the-d
 Czech	Czech	Czech	NNP	Czech-e
 Republic	Republic	Republic	NNP	Republic-e
+
 Korean	Korean	korean	JJ	korean-j
 tourists	tourists	tourist	NNS	tourist-n
 to	to	to	TO	to-t
@@ -72,6 +74,7 @@ the	the	the	DT	the-d
 European	European	european	JJ	european-j
 country	country	country	NN	country-n
 .	.	.	.	.-x
+
 Korea	Korea	Korea	NNP	Korea-e
 is	is	be	VBZ	be-v
 the	the	the	DT	the-d
@@ -87,6 +90,7 @@ e-gate	e-gate	e-gate	JJ	e-gate-j
 system	system	system	NN	system-n
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 Under	Under	under	IN	under-i
 the	the	the	DT	the-d
 program	program	program	NN	program-n
@@ -109,6 +113,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 airport	airport	airport	NN	airport-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 e-gate	e-gate	e-gate	JJ	e-gate-j
 procedure	procedure	procedure	NN	procedure-n
@@ -128,6 +133,7 @@ reduce	reduce	reduce	VB	reduce-v
 waiting	waiting	wait	VBG	wait-v
 times	times	time	NNS	time-n
 .	.	.	.	.-x
+
 Each	Each	each	DT	each-d
 year	year	year	NN	year-n
 ,	,	,	,	,-x
@@ -142,6 +148,7 @@ from	from	from	IN	from-i
 the	the	the	DT	the-d
 system	system	system	NN	system-n
 .	.	.	.	.-x
+
 In	In	in	IN	in-i
 order	order	order	NN	order-n
 to	to	to	TO	to-t
@@ -163,6 +170,7 @@ negotiations	negotiations	negotiation	NNS	negotiation-n
 since	since	since	IN	since-i
 2014	2014	2014	CD	2014-f
 .	.	.	.	.-x
+
 Last	Last	last	JJ	last-j
 year	year	year	NN	year-n
 ,	,	,	,	,-x
@@ -190,6 +198,7 @@ and	and	and	CC	and-c
 in	in	in	IN	in-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 Since	Since	since	IN	since-i
 October	October	October	NNP	October-e
 2017	2017	2017	CD	2017-f
@@ -214,6 +223,7 @@ use	use	use	VB	use-v
 the	the	the	DT	the-d
 e-gate	e-gate	e-gate	NN	e-gate-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 The	The	the	DT	the-d
 implementation	implementation	implementation	NN	implementation-n
@@ -252,6 +262,7 @@ system	system	system	NN	system-n
 's	's	's	POS	's-p
 launch	launch	launch	NN	launch-n
 .	.	.	.	.-x
+
 "	``	``	``	``-x
 We	We	we	PRP	we-p
 hope	hope	hope	VBP	hope-v
@@ -270,6 +281,7 @@ as	as	as	RB	as-r
 well	well	well	RB	well-r
 .	.	.	.	.-x
 "	''	''	''	''-x
+
 In	In	in	IN	in-i
 May	May	May	NNP	May-e
 last	last	last	JJ	last-j
@@ -316,6 +328,7 @@ as	as	as	IN	as-i
 sustainable	sustainable	sustainable	JJ	sustainable-j
 growth	growth	growth	NN	growth-n
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 treaty	treaty	treaty	NN	treaty-n
 also	also	also	RB	also-r
@@ -333,3 +346,4 @@ biometrics	biometrics	biometric	NNS	biometric-n
 and	and	and	CC	and-c
 robotics	robotics	robotic	NNS	robotic-n
 .	.	.	.	.-x
+

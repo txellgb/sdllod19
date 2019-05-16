@@ -21,6 +21,7 @@ about	about	about	IN	about-i
 N136	N136	n136	NN	n136-n
 ,323,000	,323,000	,323,000	CD	,323,000-f
 .	.	.	.	.-x
+
 through	through	through	IN	through-i
 his	his	he	PRP$	he-p
 company	company	company	NN	company-n
@@ -39,3 +40,4 @@ contractor	contractor	contractor	NN	contractor-n
 with	with	with	IN	with-i
 NAF	NAF	naf	NN	naf-n
 .	.	.	.	.-x
+

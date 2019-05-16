@@ -10,6 +10,7 @@ Soybean	Soybean	soybean	NN	soybean-n
 is	is	be	VBZ	be-v
 Indeed	Indeed	indeed	RB	indeed-r
 Restricted	Restricted	restrict	VBN	restrict-v
+
 Soybean	Soybean	soybean	NN	soybean-n
 producers	producers	producer	NNS	producer-n
 in	in	in	IN	in-i
@@ -51,6 +52,7 @@ community	community	community	NN	community-n
 up	up	up	IN	up-i
 north	north	north	NN	north-n
 .	.	.	.	.-x
+
 Farmers	Farmers	Farmers	NNP	Farmers-e
 attribute	attribute	attribute	VBP	attribute-v
 the	the	the	DT	the-d
@@ -67,6 +69,7 @@ from	from	from	IN	from-i
 neighboring	neighboring	neighbor	VBG	neighbor-v
 Mexico	Mexico	Mexico	NNP	Mexico-e
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 Chief	Chief	Chief	NNP	Chief-e
@@ -105,6 +108,7 @@ to	to	to	TO	to-t
 soy	soy	soy	VB	soy-v
 meal	meal	meal	NN	meal-n
 .	.	.	.	.-x
+
 He	He	he	PRP	he-p
 says	says	say	VBZ	say-v
 that	that	that	IN	that-i
@@ -131,6 +135,7 @@ the	the	the	DT	the-d
 Corozal	Corozal	Corozal	NNP	Corozal-e
 District	District	District	NNP	District-e
 .	.	.	.	.-x
+
 On	On	on	IN	on-i
 the	the	the	DT	the-d
 phone	phone	phone	NN	phone-n
@@ -143,3 +148,4 @@ CEO	CEO	CEO	NNP	CEO-e
 Ministry	Ministry	Ministry	NNP	Ministry-e
 of	of	of	IN	of-i
 Agriculture	Agriculture	Agriculture	NNP	Agriculture-e
+

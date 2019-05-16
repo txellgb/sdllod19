@@ -23,6 +23,7 @@ at	at	at	IN	at-i
 the	the	the	DT	the-d
 latest	latest	latest	JJS	latest-j
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 results	results	result	NNS	result-n
 will	will	will	MD	will-v
@@ -68,6 +69,7 @@ and	and	and	CC	and-c
 capital	capital	capital	NN	capital-n
 outflows	outflows	outflow	NNS	outflow-n
 .	.	.	.	.-x
+
 Gross	Gross	Gross	NNP	Gross-e
 gaming	gaming	gaming	NN	gaming-n
 revenue	revenue	revenue	NN	revenue-n
@@ -100,6 +102,7 @@ ended	ended	end	VBN	end-v
 in	in	in	IN	in-i
 2016	2016	2016	CD	2016-f
 .	.	.	.	.-x
+
 Full-month	Full-month	full-month	JJ	full-month-j
 revenue	revenue	revenue	NN	revenue-n
 amounted	amounted	amount	VBD	amount-v
@@ -119,6 +122,7 @@ take	take	take	NN	take-n
 in	in	in	IN	in-i
 2018	2018	2018	CD	2018-f
 .	.	.	.	.-x
+
 According	According	accord	VBG	accord-v
 to	to	to	TO	to-t
 some	some	some	DT	some-d
@@ -153,6 +157,7 @@ of	of	of	IN	of-i
 Macau	Macau	Macau	NNP	Macau-e
 gaming	gaming	gaming	NN	gaming-n
 .	.	.	.	.-x
+
 It	It	it	PRP	it-p
 may	may	may	MD	may-v
 also	also	also	RB	also-r
@@ -178,6 +183,7 @@ China-U.S.	China-U.S.	china-u.s.	NN	china-u.s.-n
 trade	trade	trade	NN	trade-n
 war	war	war	NN	war-n
 .	.	.	.	.-x
+
 Early	Early	early	RB	early-r
 analyst	analyst	analyst	NN	analyst-n
 predictions	predictions	prediction	NNS	prediction-n
@@ -192,6 +198,7 @@ of	of	of	IN	of-i
 year-on-year	year-on-year	year-on-year	JJ	year-on-year-j
 growth	growth	growth	NN	growth-n
 .	.	.	.	.-x
+
 However	However	however	RB	however-r
 ,	,	,	,	,-x
 according	according	accord	VBG	accord-v
@@ -227,6 +234,7 @@ by	by	by	IN	by-i
 VIP	VIP	vip	NN	vip-n
 activity	activity	activity	NN	activity-n
 .	.	.	.	.-x
+
 That	That	that	DT	that-d
 followed	followed	follow	VBD	follow-v
 a	a	a	DT	a-d
@@ -248,6 +256,7 @@ to	to	to	TO	to-t
 1.2	1.2	1.2	CD	1.2-f
 million	million	million	CD	million-f
 .	.	.	.	.-x
+
 The	The	the	DT	the-d
 mass	mass	mass	NN	mass-n
 segment	segment	segment	NN	segment-n
@@ -275,6 +284,7 @@ January	January	January	NNP	January-e
 2019	2019	2019	CD	2019-f
 average	average	average	NN	average-n
 .	.	.	.	.-x
+
 Due	Due	due	JJ	due-j
 to	to	to	TO	to-t
 the	the	the	DT	the-d
@@ -308,3 +318,4 @@ considered	considered	consider	VBN	consider-v
 in	in	in	IN	in-i
 tandem	tandem	tandem	JJ	tandem-j
 .	.	.	.	.-x
+
