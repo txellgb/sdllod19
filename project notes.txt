@@ -1,0 +1,119 @@
+
+*Fuseki
+** upload the files (TTL)
+** upload penn-link.rdf and put it in a graph, e.g. http://purl.org/olia/penn.owl
+** upload penn.owl and put it in the graph, http://purl.org/olia/penn.owl
+
+
+* Linking model and pos model for Penn Tree Bank
+http://purl.org/olia/penn-link.rdf
+http://purl.org/olia/penn.owl
+
+
+
+* Select query to find oliaconcepts annotations on our data 
+
+# load OLiA Annotation Model for UD POS annotation and the Linking Model
+# find all OLiA Concepts which are superclasses of UD Concepts with the given tag
+
+#CREATE SILENT GRAPH <http://purl.org/olia/ud-pos-all.owl>;
+#LOAD <http://purl.org/olia/owl/experimental/univ_dep/consolidated/universal_dependencies.owl> INTO GRAPH <http://purl.org/olia/ud-pos-all.owl>;
+#LOAD <http://purl.org/olia/owl/stable/ud-pos-link.rdf> INTO GRAPH <http://purl.org/olia/ud-pos-all.owl>;
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX olia: <http://purl.org/olia/olia.owl#>
+PREFIX oliasys: <http://purl.org/olia/system.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT distinct ?word ?oliaConcept ?docid ?sid ?iwid 
+WHERE {
+    ?a conll:TOKEN ?word.
+	?a conll:POS ?pos.
+	GRAPH <http://purl.org/olia/penn.owl> {
+		?x oliasys:hasTag ?pos.
+		?x (a|rdfs:subClassOf|owl:intersectionOf|owl:unionOf|(rdf:rest*/rdf:first)|owl:equivalentClass|^owl:equivalentClass)* ?oliaConcept.
+		FILTER(strstarts(str(?oliaConcept), "http://purl.org/olia/olia")).
+	}
+  BIND( SUBSTR( str(?a), 60 ) as ?dswid )
+  BIND( STRBEFORE( ?dswid, "#" ) as ?docid )
+  BIND( STRAFTER( ?dswid, "#" ) as ?swid )
+  BIND( STRBEFORE( ?swid, "_" ) as ?sid )
+  BIND( STRAFTER( ?swid, "_" ) as ?wid )
+  BIND( xsd:integer(?wid) as ?iwid )
+  
+#    bind( ?a as ?swid )
+}
+ORDER BY ?docid ?sid ?iwid 
+
+#DROP GRAPH <http://purl.org/olia/ud-pos-all.owl>
+
+###########################################################################################
+
+
+* Complex sparql query in order to do tht right matching 
+* CUIDAOOOOOOOOOO WITH THE INSERT - replace it with a SELECT clause 
+
+
+# load OLiA Annotation Model for PTB POS annotation and the Linking Model
+# this will be slow, faster would be to have a local copy at hand
+# => initialize models in CoNLLStreamExtractor by providing a mapping from columns to OLiA URIs
+
+#CREATE SILENT GRAPH <http://purl.org/olia/penn.owl>;
+#LOAD <http://purl.org/olia/penn.owl> INTO GRAPH <http://purl.org/olia/penn.owl>;
+#LOAD <http://purl.org/olia/penn-link.rdf> INTO GRAPH <http://purl.org/olia/penn.owl>;
+
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX olia: <http://purl.org/olia/olia.owl#>
+PREFIX oliasys: <http://purl.org/olia/system.owl#>
+PREFIX penn: <http://purl.org/olia/penn.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+INSERT {
+	?a ?rel ?o.
+	?o a ?c.
+	?a ?rel ?c.
+	?a ?oliaRel ?o.
+	?a ?oliaRel ?c.
+	?a a ?super.
+} 
+WHERE {
+	?a conll:POS ?pos.
+	GRAPH <http://purl.org/olia/penn.owl> {
+		{ ?x oliasys:hasTag ?pos } UNION
+		{ ?x oliasys:hasTagContaining   ?posCont  FILTER(contains(str(?pos),str(?posCont))) } UNION
+		{ ?x oliasys:hasTagMatching     ?posMatch FILTER(   regex(str(?pos),str(?posMatch))) } UNION
+		{ ?x oliasys:hasTagStartingWith ?posStart FILTER(   regex(str(?pos),concat(str(?posStart),'.*'))) } UNION
+		{ ?x oliasys:hasTagEndingWith   ?posEnd   FILTER(   regex(str(?pos),concat('.*',str(?posEnd)))) }
+		{ ?x ?rel ?o FILTER(contains(concat(str(?rel)),'http://purl.org/olia/'))
+			OPTIONAL { 
+				# no disambiguation
+				#?o a/(owl:equivalentClass|rdfs:subClassOf|((owl:unionOf|owl:intersectionOf)/rdf:rest*/rdf:first))* ?c 
+				# heuristic disambiguation: return first candidate in a disjunction
+				?o a/(owl:equivalentClass|rdfs:subClassOf|((owl:unionOf|owl:intersectionOf)/rdf:first))* ?c 
+				FILTER(contains(str(?c),'http://purl.org/olia/')) 
+			}
+			OPTIONAL { 
+				?rel rdfs:subPropertyOf* ?oliaRel 
+				FILTER(contains(str(?oliaRel),'http://purl.org/olia/olia.owl')) 
+			}
+		} UNION {
+			# no disambiguation
+			# ?x a/(owl:equivalentClass|rdfs:subClassOf|((owl:unionOf|owl:intersectionOf)/rdf:rest*/rdf:first))* ?super.
+			# heuristic disambiguation: return first candidate in a disjunction
+			?x a/(owl:equivalentClass|rdfs:subClassOf|((owl:unionOf|owl:intersectionOf)/rdf:first))* ?super.
+			FILTER(contains(concat(str(?super)),'http://purl.org/olia/'))
+		}		
+	}
+};
+#DROP GRAPH <http://purl.org/olia/penn.owl>
+
+# <#myClass> a owl:Class ;
+    # rdfs:subClassOf [ a owl:Class ;
+            # owl:unionOf ( <#SweetFruit> <#NonSweetFruit> ) ] .
+			
+			
+			
