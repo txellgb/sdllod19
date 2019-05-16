@@ -1,0 +1,26 @@
+PREFIX lemon: <http://www.lemon-model.net/lemon#>
+PREFIX tr: <http://purl.org/net/translation#>
+PREFIX lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
+PREFIX my: <http://www.mobile.com/model/> 
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+
+INSERT {
+ ?token skos:related ?entry. 
+}
+# SELECT ?token ?form ?entry 
+WHERE {
+#      bind("guard" as ?form)
+      ?token conll:LEMMA ?form .
+      ?token conll:lexinfoPOS ?pos.
+       BIND(strlang(?form, "en") as ?writtenRep).  
+      SERVICE <http://linguistic.linkeddata.es/sparql> {
+		select ?entry ?pos ?writtenRep
+		where {
+        	<http://linguistic.linkeddata.es/id/apertium/lexiconEN> lemon:entry ?entry. 
+			?entry lexinfo:partOfSpeech ?pos .
+			?entry lemon:lexicalForm [lemon:writtenRep ?writtenRep] .
+		}
+    }
+}

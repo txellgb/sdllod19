@@ -1,0 +1,22 @@
+prefix lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
+prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+prefix lemon: <http://www.lemon-model.net/lemon#>
+
+select distinct ?p
+where {
+?a lexinfo:partOfSpeech ?p .
+?a a lemon:LexicalEntry
+}
+
+
+
+lemon:LexicalEntry
+
+http://www.lexinfo.net/ontology/2.0/lexinfo#properNoun
+http://www.lexinfo.net/ontology/2.0/lexinfo#noun
+http://www.lexinfo.net/ontology/2.0/lexinfo#adjective
+http://www.lexinfo.net/ontology/2.0/lexinfo#verb
+http://www.lexinfo.net/ontology/2.0/lexinfo#adverb
+http://linguistic.linkeddata.es/id/apertium/preadv
+http://linguistic.linkeddata.es/id/apertium/adjant
+http://linguistic.linkeddata.es/id/apertium/rel

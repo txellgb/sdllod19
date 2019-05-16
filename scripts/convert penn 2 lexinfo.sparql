@@ -1,0 +1,85 @@
+''	_	
+,	_
+.	_
+CC	_
+CD	_
+DT	_
+EX	_
+IN	_
+JJ	lexinfo:adjective
+JJS	lexinfo:adjective
+MD	_
+NN	lexinfo:noun
+NNP	lexinfo:properNoun
+NNPS	lexinfo:properNoun
+NNS	lexinfo:noun
+POS	_
+PRP	_
+PRP$	_
+RB	lexinfo:adverb
+RP	_
+TO	_
+VB	lexinfo:verb
+VBD	lexinfo:verb
+VBG	lexinfo:verb
+VBN	lexinfo:verb
+VBP	lexinfo:verb
+VBZ	lexinfo:verb
+WDT	_
+WRB	_
+``	_
+
+
+
+PREFIX : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX olia: <http://purl.org/olia/olia.owl#>
+PREFIX oliasys: <http://purl.org/olia/system.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX co: <http://rhizomik.net/ontologies/copyrightonto.owl#>
+PREFIX con: <http://www.w3.org/2000/10/swap/pim/contact#>
+PREFIX lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
+
+INSERT { ?x conll:lexinfoPOS lexinfo:adjective }
+WHERE {
+	?x conll:POS ?pos .
+    FILTER (?pos IN ("JJ", "JJS" ) )
+}
+
+;
+
+INSERT { ?x conll:lexinfoPOS lexinfo:noun }
+WHERE {
+	?x conll:POS ?pos .
+    FILTER (?pos IN ("NN", "NNS" ) )
+}
+
+;
+
+INSERT { ?x conll:lexinfoPOS lexinfo:properNoun }
+WHERE {
+	?x conll:POS ?pos .
+    FILTER (?pos IN ("NNP", "NNPS" ) )
+}
+
+;
+
+INSERT { ?x conll:lexinfoPOS lexinfo:adverb }
+WHERE {
+	?x conll:POS ?pos .
+    FILTER (?pos IN ("RB") )
+}
+
+;
+
+INSERT { ?x conll:lexinfoPOS lexinfo:verb }
+WHERE {
+	?x conll:POS ?pos .
+    FILTER (?pos IN ("VB", "VBD", "VBG", "VBN", "VBP", "VBZ" ) )
+}
+
+

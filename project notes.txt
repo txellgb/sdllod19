@@ -34,7 +34,7 @@ WHERE {
 	?a conll:POS ?pos.
 	GRAPH <http://purl.org/olia/penn.owl> {
 		?x oliasys:hasTag ?pos.
-		?x (a|rdfs:subClassOf|owl:intersectionOf|owl:unionOf|(rdf:rest*/rdf:first)|owl:equivalentClass|^owl:equivalentClass)* ?oliaConcept.
+		?x a/(rdfs:subClassOf|((owl:intersectionOf|owl:unionOf)/(rdf:rest*/rdf:first))|owl:equivalentClass|^owl:equivalentClass)* ?oliaConcept.
 		FILTER(strstarts(str(?oliaConcept), "http://purl.org/olia/olia")).
 	}
   BIND( SUBSTR( str(?a), 60 ) as ?dswid )

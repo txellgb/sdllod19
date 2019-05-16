@@ -1,0 +1,17 @@
+title					dc:title
+url						dcat:downloadURL
+genre					dcterms:type
+domain					dcterms:subject
+country					rdau:P60163 --> place of publication  (http://rdaregistry.info/Elements/u/)
+city					rdau:P60163  	
+content_source			dc:source
+document_source			dc:publisher
+time_of_publication		dcterms:issued
+month_of_publication	:month_of_publication
+time_of_crawling		:time_of_crawling
+primary_doc_id			dc:identifier
+
+
+
+
+
