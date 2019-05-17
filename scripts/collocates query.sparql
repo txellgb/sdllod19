@@ -1,0 +1,50 @@
+# load OLiA Annotation Model for UD POS annotation and the Linking Model
+# find all OLiA Concepts which are superclasses of UD Concepts with the given tag
+
+#CREATE SILENT GRAPH <http://purl.org/olia/ud-pos-all.owl>;
+#LOAD <http://purl.org/olia/owl/experimental/univ_dep/consolidated/universal_dependencies.owl> INTO GRAPH <http://purl.org/olia/ud-pos-all.owl>;
+#LOAD <http://purl.org/olia/owl/stable/ud-pos-link.rdf> INTO GRAPH <http://purl.org/olia/ud-pos-all.owl>;
+
+PREFIX : <https://github.com/txellgb/sdllod19/datasets/oup/conll-rdf/0accdfe4d2c04525bf5df23699bb796e#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX olia: <http://purl.org/olia/olia.owl#>
+PREFIX oliasys: <http://purl.org/olia/system.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX co: <http://rhizomik.net/ontologies/copyrightonto.owl#>
+PREFIX con: <http://www.w3.org/2000/10/swap/pim/contact#>
+
+SELECT distinct ?o ?o3
+WHERE {
+   bind (:s9_7 as ?o) .	
+   ?o rdf:type olia:Verb .
+   ?o conll:TOKEN ?otoken . 
+   ?o nif:nextWord+ ?o2 .
+   FILTER NOT EXISTS { ?o2 rdf:type olia:Verb  }
+   ?o2 nif:nextWord ?o3 .
+   ?o3 rdf:type olia:Verb .
+   ?o3 conll:TOKEN ?o3token .   
+}
+
+
+
+===========================
+
+SELECT ?a ?b
+WHERE {
+        ?a nif:nextWord+ ?b.
+        { SELECT ?a ?b (COUNT (DISTINCT ?x) as ?distance)
+          WHERE { ?a nif:nextWord* ?x.
+                  ?x nif:nextWord+ ?b.
+                          MINUS { ?x a nif:Word.
+                                  ?x a olia:Verb }
+                          }
+          GROUP BY ?a ?b
+        }
+        FILTER(?distance > 1)
+        FILTER(?distance < 5)
+}
+
